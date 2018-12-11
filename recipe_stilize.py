@@ -50,6 +50,7 @@ df_categories = df.categories.str.lstrip("[").str.rstrip("]")
 #df["category2"] = df["category2"].fillna("none")
 #df["category3"] = df["category3"].fillna("none")
 #df["category4"] = df["category4"].fillna("none")
+#df["category5"] = df["category5"].fillna("none")
 
 #df_recipeInstructions = df.recipeIngredient.str.lstrip("[").str.rstrip("]")
 #df_recipeInstructions = df_recipeInstructions.str.split(",",expand=True)

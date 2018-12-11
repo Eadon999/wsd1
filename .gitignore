@@ -2,3 +2,5 @@ data/
 jsons_premium/
 .DS_Store
 memo.txt
+.ipynb_checkpoints/
+*.ipynb
