@@ -1,8 +1,11 @@
 import sys
 import MeCab
+
+args = sys.argv
+s = args[1]
+
 # neologdの辞書のパスを変えたりしてみてください
 m = MeCab.Tagger("-d /usr/lib/mecab/dic/mecab-ipadic-neologd/")
-print(m.parse("回鍋肉"))
-print(m.parse("たまねぎ"))
-print(m.parse("玉ねぎ"))
-print(m.parse("玉葱"))
+
+# 引数に指定した文字列をneologdを辞書としたMeCabで形態素解析します
+print(m.parse(s))
