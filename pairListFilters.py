@@ -2,6 +2,10 @@ import charFilters as cf
 import pandas as pd
 import re
 import sys
+import unicodedata as ud
+
+# 記号 (かな, カナ, 数字, 漢字以外)
+pt2a = '[^ぁ-んァ-ンー0-9一-龠０-９]+|3000'
 
 pt3 = '\[\[|\, \[|\]\]'  # 組の配列の書式
 
@@ -13,13 +17,16 @@ def toPair(i):
 # ある1列のすべての要素に対して
 # 文字列の組の配列への変換をおこなう関数
 def toPairListFilter(sr):
+    sr = cf.regexFilter('\\\\u3000', '', sr)  # 全角スペース除去
     sr = cf.regexFilter(pt3, '', sr).str.split('\]')
+    sr = [[ud.normalize('NFKC', i) for i in lst] for lst in sr]
     return [[toPair(i) for i in lst] for lst in sr]
 
 # 組の指定した要素に対して
 # 正規表現による置換をおこなう関数
 def regexPairFilter(pattern, repl, j, pair):
-    pair[j] = re.sub(pattern, repl, pair[j])
+    if len(pair) <= j: return pair
+    pair[j] = re.sub(pattern, repl, pair[j]).strip()
     return pair
 
 # 文字列の組の配列からなる
@@ -30,14 +37,16 @@ def regexPairListFilter(pattern, repl, j, sr):  # j は 0 または 1
 
 # 材料と分量の組のリストを得る関数
 def getIngredientPairList(sr):
-    cf.printList(sr)  # 組の配列の書式の文字列
-    print(type(sr[0]))  # 型
+    #cf.printList(sr)  # 組の配列の書式の文字列
+    #print(type(sr[0]))  # 型
 
     sr = toPairListFilter(sr)
-    cf.printList(sr)  # 文字列の組の配列
-    print(type(sr[0]))
+    #cf.printList(sr)  # 文字列の組の配列
+    #print(type(sr[0]))
 
-    sr = regexPairListFilter(cf.pt2, '', 0, sr)
+    sr = regexPairListFilter(pt2a, ' ', 0, sr)
     cf.printList(sr)  # 記号除去済みの材料と分量の組のリスト
-    print(type(sr[0]))
+    #print(type(sr[0]))
+    
+    #sr = regexPairListFilter(cf.)
     return sr
