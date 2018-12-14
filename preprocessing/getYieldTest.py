@@ -1,5 +1,5 @@
 # テスト実行例
-import recipeYieldFilter as ryf
+from .. import recipeYieldFilter as ryf
 import pandas as pd
 import sys
 
@@ -9,11 +9,11 @@ args = sys.argv
 path = args[1]
 
 df = pd.read_csv(
-    path, 
-    usecols = [
+    path,
+    usecols=[
         'recipeYield',  # 何人分
     ],
-    nrows = 64,  # 行数
+    nrows=64,  # 行数
 )
 # print(df)
 # print(type(df.iat[0, 0]))  # 型
