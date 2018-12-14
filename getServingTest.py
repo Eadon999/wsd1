@@ -1,0 +1,22 @@
+# テスト実行例
+import charFilters as cf
+import pandas as pd
+import re
+import servingFilters as sf
+import sys
+
+args = sys.argv
+path = args[1]
+
+df = pd.read_csv(
+    path,
+    usecols=[
+        'recipeYield',  # 何人分
+        'recipeIngredient',  # 材料
+    ],
+    nrows = 1,  # 行数
+)
+print(df)
+
+df = sf.servingFilter(df)
+cf.printList(df.recipeIngredient)
