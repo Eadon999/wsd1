@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 import unicodedata as ud
 
 EN_NUMBER = [
@@ -14,6 +15,19 @@ EN_NUMBER = [
     '9',
 ]
 
+JP_NUMBER = [
+    '０',
+    '一',
+    '二',
+    '三',
+    '四',
+    '五',
+    '六',
+    '七',
+    '八',
+    '九',
+]
+
 
 def normalize(y):
     if pd.isnull(y):
@@ -25,10 +39,27 @@ def normalize(y):
 
 
 def getYield(sr):
-    for item in sr:
-        print(item)
+    items = sr.values.tolist()
+    result = []
+    for item in items:
+        if not isinstance(item, float):
+            item = kanji_numbers(item)
+        result.append(item)
+
+    sr = pd.Series(result)
     sr = sr.map(normalize)
     return sr.str.extract('(?P<yield>\d+)人', expand=False)
 
 
-def kanji_numbers(nums):
+def kanji_numbers(string):
+    # nanを無視する
+    result = ''
+    for word in string:
+        if word in JP_NUMBER:
+            for index, num in enumerate(JP_NUMBER):
+                if num == word:
+                    result += EN_NUMBER[index]
+        else:
+            result += word
+
+    return result
