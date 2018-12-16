@@ -27,6 +27,14 @@ def fractionToFloat(matchobj):
     print('fractionToFloat: ' + s0)
     return s0
 
+# 分数 (日本語) を小数へ
+def bunsuToFloat(matchobj):
+    i0 = int(matchobj.group(1))
+    i1 = int(matchobj.group(2))
+    s0 = str(round(i1/i0, 2))  # (「2分の1」など) 
+    print('bunsuToFloat: '+str(i0)+'分の'+str(i1)+' -> '+s0)
+    return s0
+
 # 1人あたり
 
 
@@ -73,6 +81,10 @@ def servingFilter(df):
     # 分数を小数へ
     df.recipeIngredient = plf.regexPairListFilter(
         '(\d)\/(\d)', fractionToFloat, 1, df.recipeIngredient)
+
+    # 分数 (日本語) を小数へ
+    df.recipeIngredient = plf.regexPairListFilter(
+        '(\d)分の(\d)', bunsuToFloat, 1, df.recipeIngredient)
 
     for i in df.index:
         df.iloc[i] = getServingPairList(df.iloc[i])  # 1人あたり
