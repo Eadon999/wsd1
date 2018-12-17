@@ -18,7 +18,7 @@ def toPair(i):
 # 文字列の組の配列への変換をおこなう関数
 def toPairListFilter(sr):
     sr = cf.regexFilter('\\\\u3000|\\\\xa0', ' ', sr)  # 全角空白, 固定空白を半角空白へ置換
-    sr = cf.regexFilter('\\\\uf87f', 'g', sr)  # グラム記号を半角英字「g」へ置換
+    sr = cf.regexFilter('\\\\uf87f', '', sr)  # グラム記号の私用領域を除去
     sr = cf.regexFilter(pt3, '', sr).str.split('\]')
     sr = [[ud.normalize('NFKC', i) for i in lst] for lst in sr]
     return [[toPair(i) for i in lst] for lst in sr]
