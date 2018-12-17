@@ -14,9 +14,12 @@ df = pd.read_csv(
         'recipeYield',  # 何人分
         'recipeIngredient',  # 材料
     ],
-    nrows = 1,  # 行数
+    nrows = 10,  # 行数
 )
 print(df)
 
 df = sf.servingFilter(df)
 cf.printList(df.recipeIngredient)
+
+# CSV ファイルとして出力
+df.recipeIngredient.to_csv("output_0.csv")
