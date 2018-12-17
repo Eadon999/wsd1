@@ -5,7 +5,7 @@ import sys
 import unicodedata as ud
 
 # 記号 (かな, カナ, 数字, 漢字以外)
-pt2a = '[^ぁ-んァ-ンー0-9一-龠０-９]+|3000'
+pt2a = '[^ぁ-んァ-ンー0-9一-龠０-９]+'
 
 pt3 = '\[\[|\, \[|\]\]'  # 組の配列の書式
 
@@ -17,7 +17,8 @@ def toPair(i):
 # ある1列のすべての要素に対して
 # 文字列の組の配列への変換をおこなう関数
 def toPairListFilter(sr):
-    sr = cf.regexFilter('\\\\u3000', '', sr)  # 全角スペース除去
+    sr = cf.regexFilter('\\\\u3000|\\\\xa0', ' ', sr)  # 全角空白, 固定空白を半角空白へ置換
+    sr = cf.regexFilter('\\\\uf87f', 'g', sr)  # グラム記号を半角英字「g」へ置換
     sr = cf.regexFilter(pt3, '', sr).str.split('\]')
     sr = [[ud.normalize('NFKC', i) for i in lst] for lst in sr]
     return [[toPair(i) for i in lst] for lst in sr]
