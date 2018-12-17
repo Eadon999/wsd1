@@ -7,7 +7,7 @@ import ast
 def search_target(target, id_list, ingredients_list):
     for index, ingredients in enumerate(ingredients_list):
         if target in ingredients:
-            print(index)
+            print(id_list[index])
 
 
 if __name__ == '__main__':
