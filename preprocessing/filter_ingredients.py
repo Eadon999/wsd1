@@ -3,12 +3,14 @@ import sys
 import pandas as pd
 import ast
 import re
+import MeCab
 
 import recipeYieldFilter as ryf
 
 
 pd.set_option("display.max_colwidth", 100)  # 列ごとの最大表示幅設定
 symbol_pattern = '[^ぁ-んァ-ンー0-9一-龠０-９〜()\w/~]+|u3000'
+mecab = MeCab.Tagger('-Oyomi')
 
 
 def regexListFilter(pat, repl, lst):
@@ -18,6 +20,12 @@ def regexListFilter(pat, repl, lst):
 
     result = [[[re.sub(pat, repl, item) for item in ingredients]
                for ingredients in recipe] for recipe in lst]
+    return result
+
+
+def parse_ingredients(lst):
+    result = [[mecab.parse(item).replace('\n', '')
+               for item in recipe] for recipe in lst]
     return result
 
 
@@ -47,7 +55,6 @@ if __name__ == '__main__':
     )
 
     print('Preprocessing...')
-    # print(df.rankings)
     recipe_id = df.recipe_id.values.tolist()
     # Conver 'recipeIngredient' into list
     ingredients_list = [ast.literal_eval(column)
@@ -56,8 +63,16 @@ if __name__ == '__main__':
     filtered_ingredient, filtered_amount = filter_symbols(ingredients_list)
     filtered_number = ryf.getYield(df.recipeYield)
     filtered_number = filtered_number.values.tolist()
+    filtered_kana = (parse_ingredients(filtered_ingredient))
 
-    # output = [recipe_id, filtered_ingredient, filtered_amount, filtered_number]
+    # For debugging
+    # output = [
+    #     recipe_id,
+    #     filtered_ingredient,
+    #     filtered_kana,
+    #     filtered_amount,
+    #     filtered_number,
+    # ]
     # print(output)
 
     print('Preprocess done!')
@@ -67,12 +82,14 @@ if __name__ == '__main__':
                 *[
                     recipe_id,
                     filtered_ingredient,
+                    filtered_kana,
                     filtered_amount,
                     filtered_number,
                 ])),
         columns=[
             'recipe_id',
             'ingredients',
+            'ingredients_yomi',
             'amount',
             'serving',
         ])

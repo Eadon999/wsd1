@@ -25,7 +25,7 @@ if __name__ == '__main__':
             'recipe_id',
             'ingredients',
         ],
-        nrows=1,  # 行数
+        nrows=10,  # 行数
         dtype=str,
     )
 
