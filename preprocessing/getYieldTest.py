@@ -13,7 +13,8 @@ df = pd.read_csv(
     usecols=[
         'recipeYield',  # 何人分
     ],
-    nrows=100,  # 行数
+    # nrows=100,  # 行数
+    nrows=10,
 )
 # print(df)
 # print(type(df.iat[0, 0]))  # 型

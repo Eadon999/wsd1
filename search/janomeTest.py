@@ -9,9 +9,9 @@ args = sys.argv
 line = args[1]
 
 cf = []
-t  = Tokenizer()
+t = Tokenizer()
 tf = []
-a  = Analyzer(cf, t, tf)
+a = Analyzer(cf, t, tf)
 
 print(' (1) 入力: ')
 print(line)
@@ -19,6 +19,6 @@ print(line)
 for token in a.analyze(line):
     print(' (2) Token オブジェクト: ')
     print(token)
-    
+
     print(' (3) 読み: ')
     print(token.reading)
