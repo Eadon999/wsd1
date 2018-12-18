@@ -1,7 +1,5 @@
 import charFilters as cf
-import pandas as pd
 import re
-import sys
 import unicodedata as ud
 
 # 記号 (かな, カナ, 数字, 漢字以外)
@@ -34,7 +32,9 @@ def toPairListFilter(sr):
 def regexPairFilter(pattern, repl, j, pair):
     if len(pair) <= j:
         return pair
+    print(pair[j])
     pair[j] = re.sub(pattern, repl, pair[j]).strip()
+    print(pair[j])
     return pair
 
 # 文字列の組の配列からなる
@@ -57,7 +57,7 @@ def getIngredientPairList(sr):
     # print(type(sr[0]))
 
     sr = regexPairListFilter(pt2a, ' ', 0, sr)
-    cf.printList(sr)  # 記号除去済みの材料と分量の組のリスト
+    # cf.printList(sr)  # 記号除去済みの材料と分量の組のリスト
     # print(type(sr[0]))
 
     # sr = regexPairListFilter(cf.)

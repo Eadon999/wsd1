@@ -40,11 +40,7 @@ def normalize(y):
 
 def getYield(sr):
     items = sr.values.tolist()
-    result = []
-    for item in items:
-        if not isinstance(item, float):
-            item = kanji_numbers(item)
-        result.append(item)
+    result = [item for item in items if not isinstance(item, float)]
 
     sr = pd.Series(result)
     sr = sr.map(normalize)
