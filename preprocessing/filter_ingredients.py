@@ -5,22 +5,18 @@ import ast
 import re
 import MeCab
 
-import recipeYieldFilter as ryf
+from modules.regex import RegexModules
+from modules.formatter import FormatModules
+from modules.utility import UtilityModules
 
 
 pd.set_option("display.max_colwidth", 100)  # 列ごとの最大表示幅設定
-symbol_pattern = '[^ぁ-んァ-ンー0-9一-龠０-９〜()\w/~]+|u3000'
+symbol_pattern = '[^ぁ-んァ-ンーa-zA-Z0-9一-龠０-９.~～〜()（）/\w]+|u3000'
 mecab = MeCab.Tagger('-Oyomi')
 
-
-def regexListFilter(pat, repl, lst):
-    # 文字列の配列からなる
-    # ある1列のすべての配列の要素に対して
-    # 正規表現による置換をおこなう関数
-
-    result = [[[re.sub(pat, repl, item) for item in ingredients]
-               for ingredients in recipe] for recipe in lst]
-    return result
+regex = RegexModules()
+formatter = FormatModules()
+utility = UtilityModules()
 
 
 def parse_ingredients(lst):
@@ -29,12 +25,20 @@ def parse_ingredients(lst):
     return result
 
 
-def filter_symbols(lst):
-    cleaned = regexListFilter(symbol_pattern, '', lst)
-    ingredients = [recipe[0] for recipe in cleaned]
-    amount = [recipe[1] for recipe in cleaned]
+def cal_functions(lst):
+    # 帯分数を小数へ
+    result = regex.replace_pat_in_array(
+        '(\d)と(\d)\/(\d)', utility.mixedfraction_to_float, lst)
 
-    return ingredients, amount
+    # 分数を小数へ
+    result = regex.replace_pat_in_array(
+        '(\d)\/(\d)', utility.fraction_to_float, result)
+
+    # 分数 (日本語) を小数へ
+    result = regex.replace_pat_in_array(
+        '(\d)分の(\d)', utility.bunsu_to_float, result)
+
+    return result
 
 
 if __name__ == '__main__':
@@ -54,37 +58,43 @@ if __name__ == '__main__':
         dtype=str,
     )
 
-    print('Preprocessing...')
     recipe_id = df.recipe_id.values.tolist()
-    # Conver 'recipeIngredient' into list
-    ingredients_list = [ast.literal_eval(column)
-                        for column in (df.recipeIngredient).map(ryf.normalize)]
 
-    filtered_ingredient, filtered_amount = filter_symbols(ingredients_list)
-    filtered_number = ryf.getYield(df.recipeYield)
-    filtered_number = filtered_number.values.tolist()
-    filtered_kana = (parse_ingredients(filtered_ingredient))
+    # recipeIngredientを材料と量に前処理をし、分割する
+    ingredients = formatter.convert_str_list(
+        (df.recipeIngredient).map(formatter.normalize))
+    ingredients = cal_functions(ingredients)
+    ingredients = regex.replace_pat_in_array(symbol_pattern, '', ingredients)
+    ingredients, amount = formatter.convert_2darray_to_lists(ingredients)
+    amount = [[formatter.kanji_numbers(item)
+               for item in lst] for lst in amount]
+
+    # 人数を取得する
+    servings = utility.get_yield(df.recipeYield)  # 人数の大きい方を抽出
+    servings = servings.values.tolist()  # リストに変換
+
+    # 材料の読みを取得する
+    readings = parse_ingredients(ingredients)
 
     # For debugging
     # output = [
     #     recipe_id,
-    #     filtered_ingredient,
-    #     filtered_kana,
-    #     filtered_amount,
-    #     filtered_number,
+    #     ingredients,
+    #     readings,
+    #     amount,
+    #     servings,
     # ]
     # print(output)
 
-    print('Preprocess done!')
     df = pd.DataFrame(
         list(
             zip(
                 *[
                     recipe_id,
-                    filtered_ingredient,
-                    filtered_kana,
-                    filtered_amount,
-                    filtered_number,
+                    ingredients,
+                    readings,
+                    amount,
+                    servings,
                 ])),
         columns=[
             'recipe_id',
@@ -94,5 +104,5 @@ if __name__ == '__main__':
             'serving',
         ])
 
-    print('Converting to csv...')
+    # print('Converting to csv...')
     df.to_csv('./preprocessed/filtered_ingredient.csv')
