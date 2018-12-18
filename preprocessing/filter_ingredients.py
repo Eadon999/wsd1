@@ -8,7 +8,7 @@ import recipeYieldFilter as ryf
 
 
 pd.set_option("display.max_colwidth", 100)  # 列ごとの最大表示幅設定
-symbol_pattern = '[^ぁ-んァ-ンー0-9一-龠０-９〜()\w/~]+|3000'
+symbol_pattern = '[^ぁ-んァ-ンー0-9一-龠０-９〜()\w/~]+|u3000'
 
 
 def regexListFilter(pat, repl, lst):
@@ -42,7 +42,7 @@ if __name__ == '__main__':
             'recipe_id',
             # 'rankings',
         ],
-        nrows=10,  # 行数
+        # nrows=10,  # 行数
         dtype=str,
     )
 
@@ -58,6 +58,7 @@ if __name__ == '__main__':
     filtered_number = filtered_number.values.tolist()
 
     # output = [recipe_id, filtered_ingredient, filtered_amount, filtered_number]
+    # print(output)
 
     print('Preprocess done!')
     df = pd.DataFrame(
