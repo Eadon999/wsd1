@@ -16,11 +16,9 @@ def pref_bits(row, pref_words):
 	return lst
 
 
-if __name__ == '__main__':
-	args = sys.argv
-	path = args[1]
+def make_rel_pref(dbname, datpath):
 	df = pd.read_csv(
-		path, 
+		datpath, 
 		usecols = [
 			'recipe_id',
 			'name',
@@ -65,4 +63,10 @@ if __name__ == '__main__':
 	dbconn.commit()
 	# データベースを閉じる
 	dbconn.close()
+
+
+if __name__ == '__main__':
+	args = sys.argv
+	path = args[1]
+	make_rel_pref('db.db', path)
 
