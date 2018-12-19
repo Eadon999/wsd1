@@ -24,8 +24,8 @@ if __name__ == '__main__':
     )
 
     recipe_yield = formatter.convert_series_list(df.recipeYield)
-    recipe_yield = [
-        item for item in recipe_yield if not isinstance(item, float)]
+    # recipe_yield = [
+        # item for item in recipe_yield if not isinstance(item, float)]
     sr = pd.Series(recipe_yield)
     sr = sr.map(formatter.normalize)
     recipe_yield = sr.str.extract('(?P<yield>\d+)人', expand=False)
