@@ -4,6 +4,8 @@ import string
 import functools
 import sqlite3
 
+# 嗜好bitのリストを返す
+# [True, False, ..., True]のようなものを返す
 def pref_bits(row, pref_words):
 	def is_pattern_in_row(itr, s):
 		try:
@@ -16,6 +18,8 @@ def pref_bits(row, pref_words):
 	return lst
 
 
+# 嗜好bitのリレーションをリメイクする
+# 嗜好に当てはまるなら1, あてはまらないなら0を格納する
 def make_rel_pref(tablename, dbcur, df):
 	pref_words = [
 			['簡単', '時短', '手軽', 'シンプル'],

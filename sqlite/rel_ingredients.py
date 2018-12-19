@@ -5,6 +5,8 @@ import string
 import functools
 import sqlite3
 
+# １つのレシピの材料リストを返す
+# [['大根', '１切れ'], ['白菜', '1/8玉']] のようになる
 def ingredients_list(row):
 	tmp = str.split(row['recipeIngredient'][1:-1], ",")
 	tmp = map(lambda x : x.strip("' "), tmp)
@@ -13,6 +15,7 @@ def ingredients_list(row):
 	return list(tmp)
 
 
+# 材料のリレーションをリメイクする
 def make_rel_ingredients(tablename, dbcur, df):
 	# すでにテーブルがあれば削除する
 	dbcur.execute("drop table if exists " + tablename)
@@ -32,6 +35,7 @@ def make_rel_ingredients(tablename, dbcur, df):
 					+ "'" + str(tup[1]) + "')")
 
 
+# 何人分かのリレーションをリメイクする
 def make_rel_yield(tablename, dbcur, df):
 	# すでにテーブルがあれば削除する
 	dbcur.execute("drop table if exists " + tablename)
