@@ -23,6 +23,11 @@ def cal_functions(lst):
     result = regex.replace_pat_in_list(
         '(\d)分の(\d)', utility.bunsu_to_float, result)
 
+    # 「量としての半分」を「0.5」へ (割合としての半分はそのままにしたい)
+    # 具体的には, 直前に「の」がない「半分」にマッチして置換
+    result = regex.replace_pat_in_list(
+        '(?<!の)半分', '0.5', result)
+
     return result
 
 
