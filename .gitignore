@@ -1,4 +1,5 @@
-data/
+data/*.csv
+data/archive
 jsons_premium/
 .DS_Store
 memo.txt
