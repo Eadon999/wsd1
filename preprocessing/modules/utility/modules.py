@@ -14,9 +14,9 @@ class UtilityModules(object):
 
     def get_yield(self, sr):
         items = sr.values.tolist()
-        result = [item for item in items if not isinstance(item, float)]
-
-        sr = pd.Series(result)
+        # result = [item for item in items if not isinstance(item, float)]
+        # sr = pd.Series(result)
+        sr = pd.Series(items)  # 欠損値を除去しない (行数は不可変)
         sr = sr.map(self.normalize)
         return sr.str.extract('(?P<yield>\d+)人', expand=False)
 
