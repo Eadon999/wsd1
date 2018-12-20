@@ -42,3 +42,9 @@ if __name__ == '__main__':
     ingredients = regex.replace_pat_in_array(
         '(\d)分の(\d)', utility.bunsu_to_float, ingredients)
     print(ingredients)
+
+    # 「量としての半分」を「0.5」へ (割合としての半分はそのままにしたい)
+    # 具体的には, 直前に「の」がない「半分」にマッチして置換
+    ingredients = regex.replace_pat_in_array(
+        '(?<!の)半分', '0.5', ingredients)
+    print(ingredients)
