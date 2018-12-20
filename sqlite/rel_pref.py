@@ -1,6 +1,4 @@
 import pandas as pd
-import sys
-import string
 import functools
 import sqlite3
 
@@ -50,29 +48,3 @@ def make_rel_pref(tablename, dbcur, df):
 					map(lambda x : "1" if x else "0",
 						pref_bits(row, pref_words)))
 					+ ")")
-
-
-if __name__ == '__main__':
-	args = sys.argv
-	path = args[1]
-	# csvを読み込む
-	df = pd.read_csv(
-			path, 
-			usecols = [
-				'recipe_id',
-				'name',
-				'history',
-				'description'])
-	# データベースの作成
-	dbname = 'db.db'
-	dbconn = sqlite3.connect(dbname)
-	dbcur  = dbconn.cursor()
-	# debug用
-	dbconn.set_trace_callback(print)
-	# テーブルの作成
-	make_rel_pref('preferable_bits', dbcur, df)
-	# コミット
-	dbconn.commit()
-	# データベースを閉じる
-	dbconn.close()
-
