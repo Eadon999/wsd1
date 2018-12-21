@@ -4,8 +4,10 @@ import sys
 import string
 import functools
 import sqlite3
+import threading
 from rel_pref        import make_rel_pref
 from rel_author      import make_rel_author
+from rel_publication import make_rel_publication
 from rel_ingredients import make_rel_ingredients
 from rel_yield       import make_rel_yield
 
@@ -28,14 +30,15 @@ if __name__ == '__main__':
 				'recipeYield',
 				'recipeIngredient'])
 	# データベースの作成
-	dbname = 'db.db'
+	dbname = 'coqua.db'
 	dbconn = sqlite3.connect(dbname)
 	dbcur  = dbconn.cursor()
 	# debug用
 	dbconn.set_trace_callback(print)
 	# テーブルの作成
 	make_rel_pref('preferable_bits', dbcur, df)
-	make_rel_author('authour', dbcur, df)
+	make_rel_author('authors', dbcur, df)
+	make_rel_publication('publications', dbcur, df)
 	make_rel_ingredients('ingredients', dbcur, df)
 	make_rel_yield('yields', dbcur, df)
 	# コミット
