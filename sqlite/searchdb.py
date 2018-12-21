@@ -28,9 +28,9 @@ if __name__ == '__main__':
 	# debug用
 	dbconn.set_trace_callback(print)
 	# 検索
-	print(search(['白菜'], dbcur))
-	print(search(['大根'], dbcur))
-	print(search(['白菜', '大根'], dbcur))
+	print(search(['たまねぎ'], dbcur))
+	print(search(['じゃがいも'], dbcur))
+	print(search(['たまねぎ', 'じゃがいも'], dbcur))
 	# コミット
 	dbconn.commit()
 	# データベースを閉じる
