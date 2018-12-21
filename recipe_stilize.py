@@ -22,10 +22,10 @@ df = df.drop(["@context","@type"],axis=1)
 
 #print(df.isnull().sum())
 #欠損値をunknownで埋める。上で確認できる
-df["recipeYield"] = df["recipeYield"].fillna("unknown")
-df["cookTime"] = df["cookTime"].fillna("unknown")
-df["advice"] = df["advice"].fillna("unknown")
-df["rankings"] = df["rankings"].fillna("unknown")
+#df["recipeYield"] = df["recipeYield"].fillna("unknown")
+#df["cookTime"] = df["cookTime"].fillna("unknown")
+#df["advice"] = df["advice"].fillna("unknown")
+#df["rankings"] = df["rankings"].fillna("unknown")
 
 # print df["cookTime".unique()
 # cookTime は皆PTxxMでxx分を表しているようなのでPT,Mを消す
