@@ -5,6 +5,7 @@ import pandas as pd
 from filter_recipeIngredient import get_ingredient_amount_list
 from filter_recipeYield import get_yield_list
 from filter_readings import get_readings_list
+from filter_amount import get_single_amount_list
 
 
 pd.set_option("display.max_colwidth", 100)  # 列ごとの最大表示幅設定
@@ -30,6 +31,7 @@ if __name__ == '__main__':
     ingredients, amount = get_ingredient_amount_list(df.recipeIngredient)
     servings = get_yield_list(df.recipeYield)
     readings = get_readings_list(ingredients)
+    amount = get_single_amount_list(amount)
 
     df = pd.DataFrame(
         list(

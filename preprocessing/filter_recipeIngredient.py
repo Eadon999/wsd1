@@ -13,7 +13,9 @@ utility = UtilityModules()
 def cal_functions(lst):
     # 帯分数を小数へ
     result = regex.replace_pat_in_list(
-        '(\d)と(\d)\/(\d)', utility.mixedfraction_to_float, lst)
+        '(\d)と.(\d)\/(\d)', utility.mixedfraction_to_float, lst)
+    result = regex.replace_pat_in_list(
+        '(\d).(\d)\/(\d)', utility.mixedfraction_to_float, lst)
 
     # 分数を小数へ
     result = regex.replace_pat_in_list(
