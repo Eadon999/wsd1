@@ -1,8 +1,11 @@
 import re
 
+
 conversion_table = {
     '大さじ': 3,
     '小さじ': 1,
+    '大匙': 3,
+    '小匙': 1,
 }
 
 
