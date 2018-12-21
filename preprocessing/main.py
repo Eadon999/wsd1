@@ -4,7 +4,7 @@ import pandas as pd
 
 from filter_recipeIngredient import get_ingredient_amount_list
 from filter_recipeYield import get_yield_list
-from filter_readings import get_readings_list
+from filter_readings import get_readings_array
 from filter_amount import get_single_amount_list
 
 
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     recipe_id = df.recipe_id.values.tolist()
     ingredients, amount = get_ingredient_amount_list(df.recipeIngredient)
     servings = get_yield_list(df.recipeYield)
-    readings = get_readings_list(ingredients)
+    readings = get_readings_array(ingredients)
     amount = get_single_amount_list(amount)
 
     df = pd.DataFrame(
