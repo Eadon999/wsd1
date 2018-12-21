@@ -5,14 +5,12 @@ import csv
 
 
 def split_dictionary(dictionaries):
-    result = []
-    for dictionary in dictionaries:
-        item = []
-        for key in dictionary:
-            item.append(dictionary[key])
-        result.append(item)
+    ingredients = [dictionary[key]
+                   for dictionary in dictionaries for key in dictionary if key == 'name']
+    amount = [dictionary[key]
+              for dictionary in dictionaries for key in dictionary if key == 'quantity']
 
-    return result
+    return ingredients, amount
 
 
 if __name__ == '__main__':
@@ -32,7 +30,9 @@ if __name__ == '__main__':
             if index == 0:
                 header.append(key)
             if key == 'recipeIngredient':
-                row.append(split_dictionary(data[key]))
+                ingredients, amount = split_dictionary(data[key])
+                concat_ingredients = [ingredients, amount]
+                row.append(concat_ingredients)
             else:
                 row.append(data[key])
 
