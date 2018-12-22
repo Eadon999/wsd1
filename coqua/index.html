@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="COQUA">
+		<meta name="description" content="レシピ推薦サービス">
+		<meta name="author" content="COQUA">
+		<link rel="stylesheet" type="text/css" href="style/css.css">
+		<title>COQUA</title>
+	</head>
+	<body>
+		<header>
+			<h1>COQUA</h1>
+		</header>
+		<main>
+			<article>
+				<div class = 'search'>
+					<form method = "POST" action="./cgi-bin/coqua.py">
+						材料：
+						<input type="text" name="text">
+						<input type="submit" value="search">
+					</form>
+				</div>
+			</article>
+		</main>
+		<footer>
+			<p> - COQUA - </p>
+		</footer>
+		</div>
+	</body>
+</html>
