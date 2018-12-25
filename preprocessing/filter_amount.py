@@ -27,6 +27,8 @@ def get_single_amount_list(data):
                     # テーブルをもとに分量を統一する
                     filtered.append(
                         conversion_table[method.group(0)] * float(amount.group(0)))
+                else:
+                    filtered.append(item)
             else:
                 filtered.append(item)
         result.append(filtered)
