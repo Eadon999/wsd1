@@ -28,5 +28,11 @@ if __name__ == '__main__':
         # item for item in recipe_yield if not isinstance(item, float)]
     sr = pd.Series(recipe_yield)
     sr = sr.map(formatter.normalize)
+    
+    # 何人分かの数字を漢数字から英数字に変換
+    for i in sr.index:
+        if not isinstance(sr[i], float):  # 欠損値でなければ
+            sr[i] = formatter.kanji_numbers(sr[i])
+    
     recipe_yield = sr.str.extract('(?P<yield>\d+)人', expand=False)
     print(recipe_yield)
