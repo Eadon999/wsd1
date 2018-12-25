@@ -1,6 +1,6 @@
 import MeCab
 
-mecab = MeCab.Tagger('-Oyomi')
+mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 
 
 def get_readings_array(data):
