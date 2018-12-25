@@ -1,14 +1,21 @@
-import sys
 import string
 import functools
 import sqlite3
-from remake import makedb
+import MeCab
+import os
+import sys
 
 class CoquaDB:
 	def __init__(self, dbname):
 		# DBオブジェクトを作成し，接続を行う
 		self.__con = sqlite3.connect(dbname)
 		self.__cur = self.__con.cursor()
+		if(os.path.exists('/usr/lib/mecab/dic/mecab-ipadic-neologd')):
+			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/lib/mecab/dic/mecab-ipadic-neologd')
+		elif(os.path.exists('/usr/local/lib/mecab/dic/mecab-ipadic-neologd')):
+			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
+		else:
+			sys.exiti(1)
 	def debug_mode(self, x):
 		# デバッグ出力のON/OFFをする
 		if(bool(x)):
@@ -19,9 +26,6 @@ class CoquaDB:
 		self.__con.commit()
 	def close(self):
 		self.__con.close()
-	def remake(self, csvpath):
-		makedb.makedb(self.__cur, csvpath)
-		self.commit()
 	def execute(self,s):
 		self.__cur.execute(s)
 	def fetchAll(self):
@@ -30,10 +34,12 @@ class CoquaDB:
 		self.execute("select name from sqlite_master where type='table';")
 		return self.fetchAll()
 	def ingredients_list(self, Alst, Nlst):
+		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
+		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
 		# NOT AND 検索 
 		if Alst != []:
 			tmp = functools.reduce(lambda x,y : x + ' intersect ' + y,
-						map(lambda x : 'select distinct recipe_id from ingredients where name = "' + x + '"', Alst))
+						map(lambda x : 'select distinct recipe_id from ingredients where pron = "' + x + '"', Alst))
 			if Nlst != []:
 				for x in Nlst:
 					tmp += 'except select distinct recipe_id from ingredients where name = "' + x + '"'
@@ -44,14 +50,11 @@ class CoquaDB:
 		return self.fetchAll()
 
 
-
 if __name__ == '__main__':
 	# CoquaDB Object
 	cdb = CoquaDB('coqua.db')
 	# デバックモードを入に
 	cdb.debug_mode(True)
-	# remakeのテスト
-	# cdb.remake('../../../formatted.csv')
 	# tableのリスト
 	print(cdb.table_list())
 	# 材料検索

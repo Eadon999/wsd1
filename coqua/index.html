@@ -15,11 +15,13 @@
 		<main>
 			<article>
 				<div class = 'search'>
-					<form method = "POST" action="./cgi-bin/coqua.py">
+					<form id = 'search'>
 						材料：
-						<input type="text" name="text">
+						<input type="text" id="text">
 						<input type="submit" value="search">
 					</form>
+				</div>
+				<div id = 'result'>
 				</div>
 			</article>
 		</main>
@@ -27,5 +29,28 @@
 			<p> - COQUA - </p>
 		</footer>
 		</div>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('form').submit(function() {
+					event.preventDefault();
+					var $form = $(this);
+					$.ajax({
+						url: 'http://localhost:8000/cgi-bin/coqua.py',
+						type: 'post',
+						dataType: 'text',
+						data: {
+							text: $('#text').val()
+						},
+					})
+						.done(function(response) {
+							$('#result').html(response);
+						})
+						.fail(function() {
+							$('#result').html('Failed.');
+						});
+				});
+			});
+		</script>
 	</body>
 </html>
