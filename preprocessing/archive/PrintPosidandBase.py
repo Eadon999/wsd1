@@ -9,8 +9,7 @@ def StrToPosidAndBase(s):
     # ; test
     # node-format-test = %h/%f[6]\n
     # eos-format-test = EOS\n
-    m = MeCab.Tagger(
-        "-Otest -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd/")
+    m = MeCab.Tagger("-Otest -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd/")
     s = m.parse(s)
     return s
 
