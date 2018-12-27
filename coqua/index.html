@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<header>
-			<h1><a href='index.html'>COQUA</a></h1>
+			<h1><a href='//localhost:8000'>COQUA</a></h1>
 		</header>
 		<main>
 			<article>
@@ -21,6 +21,8 @@
 					</form>
 				</div>
 				<div id = 'result'>
+					<div class = 'nav'></div>
+					<div class = 'cont'></div>
 				</div>
 			</article>
 		</main>
@@ -30,26 +32,28 @@
 		</div>
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script type="text/javascript">
-			function search() {
-				event.preventDefault();
-				var $form = $(this);
-				$.ajax({
-					url: 'http://localhost:8000/cgi-bin/coqua.py',
-					type: 'post',
-					dataType: 'text',
-					data: {
-						text: $('#input-text').val()
-					},
-				})
-					.done(function(response) {
-						$('#result').html(response);})
-					.fail(function() {
-						$('#result').html('Failed.');});
-			}
-			window.onload = search;
-			$(document).ready(function() {
+			jQuery(function() {
+				var url = '//localhost:8000/cgi-bin/coqua.py';
+				var done = function(response){$('#result').html(response);};
+				var fail = function(){$('#result').html('Failed. No result.');};
+				var search = function() {
+					event.preventDefault();
+					var $form = $(this);
+					$.ajax({
+						url: url,
+						type: 'post',
+						dataType: 'text',
+						data: {
+							text: $('#input-text').val()
+						},
+					}).done(done).fail(fail);};
+				$.ajax({url: url}).done(done).fail(fail);
 				$('form').submit(function() {
 					search();
+				});
+				$(document).on('click', '.cont .page a', function(){
+					$('.cont > div').hide();
+					$('.cont > div').filter(this.hash).fadeIn();
 				});
 			});
 		</script>
