@@ -30,24 +30,26 @@
 		</div>
 		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script type="text/javascript">
+			function search() {
+				event.preventDefault();
+				var $form = $(this);
+				$.ajax({
+					url: 'http://localhost:8000/cgi-bin/coqua.py',
+					type: 'post',
+					dataType: 'text',
+					data: {
+						text: $('#input-text').val()
+					},
+				})
+					.done(function(response) {
+						$('#result').html(response);})
+					.fail(function() {
+						$('#result').html('Failed.');});
+			}
+			window.onload = search;
 			$(document).ready(function() {
 				$('form').submit(function() {
-					event.preventDefault();
-					var $form = $(this);
-					$.ajax({
-						url: 'http://localhost:8000/cgi-bin/coqua.py',
-						type: 'post',
-						dataType: 'text',
-						data: {
-							text: $('#input-text').val()
-						},
-					})
-						.done(function(response) {
-							$('#result').html(response);
-						})
-						.fail(function() {
-							$('#result').html('Failed.');
-						});
+					search();
 				});
 			});
 		</script>
