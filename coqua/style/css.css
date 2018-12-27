@@ -44,26 +44,30 @@ article{
 div.search{
 	text-align: center;
 	width : 400px;
-	padding : 0px 30px 0px 30px;
+	padding : 0px 5px 0px 5px;
 	margin : 0 auto;
 }
 #form-search{
-	width: 100%;
+	width: 250px;
 	height: 100%;
-	margin: 0 auto;
-	padding: 10px;
+	margin: 10px auto;
+	padding: 3px 0px;
+	position:relative;
 	vertical-align: top;
 	box-sizing: border-box;
-	background: transparent;
+	background: #dde;
+	border-radius: 10px;
 }
 #input-text{
 	border: none;
 	width: 200px;
-	padding: 3px 10px 3px 10px;
+	padding: 3px 3px 3px 3px;
+	background: transparent;
 }
 #input-glass{
 	width: 30px;
 	border: none;
+	font-size: 20px;
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 }
