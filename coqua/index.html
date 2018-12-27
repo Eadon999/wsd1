@@ -6,6 +6,7 @@
 		<meta name="description" content="レシピ推薦サービス">
 		<meta name="author" content="COQUA">
 		<link rel="stylesheet" type="text/css" href="style/css.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 		<title>COQUA</title>
 	</head>
 	<body>
@@ -15,10 +16,8 @@
 		<main>
 			<article>
 				<div class = 'search'>
-					<form id = 'search'>
-						材料：
-						<input type="text" id="text">
-						<input type="submit" value="search">
+					<form id = 'form-search'>
+						<input type="text" id="input-text" placeholder="材料名を入力"><input type="submit" class="fas" id="input-glass" value="&#xf002;">
 					</form>
 				</div>
 				<div id = 'result'>
@@ -40,7 +39,7 @@
 						type: 'post',
 						dataType: 'text',
 						data: {
-							text: $('#text').val()
+							text: $('#input-text').val()
 						},
 					})
 						.done(function(response) {

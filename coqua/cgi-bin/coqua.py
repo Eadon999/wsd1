@@ -30,6 +30,9 @@ if 'text' in dct:
 	for num in lst:
 		box += "<p><a href = https://cookpad.com/recipe/" + str(num) + ">";
 		box += cdb.name(num)[0] + "</a></p>"
+else:
+	box = "error"
+	box = str(dct)
 
 print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
 print(box)
