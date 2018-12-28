@@ -2,24 +2,16 @@ import sys
 
 import pandas as pd
 import ast
-import MeCab
 
-mecab = MeCab.Tagger('-Oyomi')
+from modules import SearchEngine, Formatter
 
-
-def search_target(target, id_list, yomi_list):
-    for index, ingredients in enumerate(yomi_list):
-        for item in ingredients:
-            if target in item:
-                print(f'{id_list[index]} : {item}')
-
+search_engine = SearchEngine()
+formatter = Formatter()
 
 if __name__ == '__main__':
     args = sys.argv
 
     data_path = args[1]
-    # Searching term
-    target = mecab.parse(args[2]).replace('\n', '')
 
     df = pd.read_csv(
         data_path,
@@ -33,4 +25,12 @@ if __name__ == '__main__':
     recipe_id = df.recipe_id.values.tolist()
     yomi_list = [ast.literal_eval(column) for column in df.ingredients_yomi]
 
-    search_target(target, recipe_id, yomi_list)
+    include = input('検索する材料名をスペース区切りで入力してください： ')
+    exclude = input('検索から省く材料名をスペース区切りで入力してください： ')
+
+    # 文字列をリストに変換
+    include = formatter.convert_str_to_list(include, ' ')
+    exclude = formatter.convert_str_to_list(exclude, ' ')
+
+    result = search_engine.get_ids(yomi_list, recipe_id, include, exclude)
+    print(result)
