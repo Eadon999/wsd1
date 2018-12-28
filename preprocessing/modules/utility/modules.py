@@ -5,6 +5,7 @@ from modules.formatter import FormatModules
 
 formatter = FormatModules()
 
+
 class UtilityModules(object):
 
     def normalize(self, y):
@@ -21,12 +22,12 @@ class UtilityModules(object):
         # sr = pd.Series(result)
         sr = pd.Series(items)  # 欠損値を除去しない (行数は不可変)
         sr = sr.map(self.normalize)
-        
+
         # 何人分かの数字を漢数字から英数字に変換
         for i in sr.index:
             if not isinstance(sr[i], float):  # 欠損値でなければ
                 sr[i] = formatter.kanji_numbers(sr[i])
-        
+
         return sr.str.extract('(?P<yield>\d+)人', expand=False)
 
     def mixedfraction_to_float(self, matchobj):
