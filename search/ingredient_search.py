@@ -1,25 +1,24 @@
+"""
+ユーザーの指定した材料が含まれるレシピのurlを返すプログラム
+ユーザーインプットは1つの材料のみである
+"""
+
 import sys
 
 import pandas as pd
 import ast
-import MeCab
 
-mecab = MeCab.Tagger('-Oyomi')
+from modules.search_engine import SearchEngine
 
 
-def search_target(target, id_list, yomi_list):
-    for index, ingredients in enumerate(yomi_list):
-        for item in ingredients:
-            if target in item:
-                print(f'{id_list[index]} : {item}')
+search_engine = SearchEngine()
 
 
 if __name__ == '__main__':
     args = sys.argv
 
     data_path = args[1]
-    # Searching term
-    target = mecab.parse(args[2]).replace('\n', '')
+    target = search_engine.get_target_readings(args[2])
 
     df = pd.read_csv(
         data_path,
@@ -33,4 +32,5 @@ if __name__ == '__main__':
     recipe_id = df.recipe_id.values.tolist()
     yomi_list = [ast.literal_eval(column) for column in df.ingredients_yomi]
 
-    search_target(target, recipe_id, yomi_list)
+    ids = search_engine.get_url(yomi_list, recipe_id, target)
+    print(ids)
