@@ -5,24 +5,23 @@ import cgi
 import cgitb
 import coquadb
 
+def make_page(num_split):
+		return '<div class = "page">' + ''.join(F'<a href = "#cont{x}">{x}</a> ' for x in range(1, num_split+1)) + '</div>'
+
+
+def make_link(lst):
+		tmp = [F'<p><img src = "{url}" width = 100px><a href = https://cookpad.com/recipe/{num}>{name}</a></p>' for [num, name, url] in lst]
+		return '<div class = "link">' + ''.join(tmp) + '</div>'
+
+
 def get_cont(lst):
 	len_split = 10
 	num_split = int(len(lst)/len_split)
 	lsts = [lst[i : i+len_split] for i in range(0, len(lst), len_split)]
-	tmp = '<div class = "cont">\n'
+	tmp = '<div class = "cont">'
 	for i, lst in zip(range(1, num_split+1), lsts):
-		if i == 1:
-			tmp += F'<div id = "cont{i}">'
-		else:
-			tmp += F'<div id = "cont{i}" style = "display:none;">'
-		tmp += '<div class = "page">'
-		for j in range(1, num_split+1):
-			tmp += F'<a href = "#cont{j}">{j}</a> '
-		tmp += '</div>'
-		tmp += '<div class = "link">'
-		for [num, name] in lst:
-			tmp += F'<p><a href = https://cookpad.com/recipe/{num}>{name}</a></p>'
-		tmp += '</div>'
+		tmp += F'<div id = "cont{i}">' if i == 1 else F'<div id = "cont{i}" style = "display:none;">'
+		tmp += make_page(num_split) + make_link(lst) + make_page(num_split)
 		tmp += '</div>'
 	tmp += '</div>'
 	return tmp
@@ -37,10 +36,9 @@ if __name__ == '__main__':
 		Alst = [x     for x in lst if x[0] != '-']
 		Nlst = [x[1:] for x in lst if x[0] == '-']
 		cdb = coquadb.CoquaDB('coqua.db')
-		num_lst = cdb.ingredients_list(Alst, Nlst)
-		recipes = list(map(lambda x : [x, cdb.name(x)[0]], num_lst))
-		box = '「' + txt + '」 ' + str(len(recipes)) + '件の検索結果\n'
-		box += get_cont(recipes)
+		data = cdb.ingredients_search(Alst, Nlst)
+		box = '「' + txt + '」 ' + str(len(data)) + '件の検索結果\n'
+		box += get_cont(data)
 	else:
 		box = '材料名を入れて検索してみましょう'
 

@@ -29,11 +29,11 @@ class CoquaDB:
 	def execute(self,s):
 		self.__cur.execute(s)
 	def fetchAll(self):
-		return [item[0] for item in self.__cur.fetchall()]
+		return self.__cur.fetchall()
 	def table_list(self):
 		self.execute("select name from sqlite_master where type='table';")
 		return self.fetchAll()
-	def ingredients_list(self, Alst, Nlst):
+	def ingredients_search(self, Alst, Nlst):
 		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
 		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
 		# NOT AND 検索 
@@ -42,7 +42,8 @@ class CoquaDB:
 						map(lambda x : 'select distinct recipe_id from ingredients where pron = "' + x + '"', Alst))
 			if Nlst != []:
 				for x in Nlst:
-					tmp += 'except select distinct recipe_id from ingredients where name = "' + x + '"'
+					tmp += 'except select distinct recipe_id from ingredients where pron = "' + x + '"'
+			tmp = F"select names.recipe_id, names.name, images.url from names join images on names.recipe_id = images.recipe_id where names.recipe_id in ({tmp});"
 			self.execute(tmp)
 		return self.fetchAll()
 	def name(self, num):

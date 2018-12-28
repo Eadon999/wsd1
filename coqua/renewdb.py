@@ -2,6 +2,7 @@ import pandas as pd
 import sqlite3
 from renew import make_rel_name
 from renew import make_rel_pref
+from renew import make_rel_image
 from renew import make_rel_author
 from renew import make_rel_publication
 from renew import make_rel_ingredients
@@ -12,6 +13,7 @@ def renewdb(dbcur):
 	# テーブルの作成
 	make_rel_name('names', dbcur, 'formatted.csv')
 	make_rel_pref('preferable_bits', dbcur, 'formatted.csv')
+	make_rel_image('images', dbcur, 'formatted.csv')
 	make_rel_author('authors', dbcur, 'formatted.csv')
 	make_rel_publication('publications', dbcur, 'formatted.csv')
 	make_rel_ingredients('ingredients', dbcur, '../preprocessed/filtered_ingredient.csv')
