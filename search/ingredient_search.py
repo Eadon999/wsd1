@@ -1,24 +1,17 @@
-"""
-ユーザーの指定した材料が含まれるレシピのurlを返すプログラム
-ユーザーインプットは1つの材料のみである
-"""
-
 import sys
 
 import pandas as pd
 import ast
 
-from modules.search_engine import SearchEngine
-
+from modules import SearchEngine, Formatter
 
 search_engine = SearchEngine()
-
+formatter = Formatter()
 
 if __name__ == '__main__':
     args = sys.argv
 
     data_path = args[1]
-    target = search_engine.get_target_readings(args[2])
 
     df = pd.read_csv(
         data_path,
@@ -32,5 +25,12 @@ if __name__ == '__main__':
     recipe_id = df.recipe_id.values.tolist()
     yomi_list = [ast.literal_eval(column) for column in df.ingredients_yomi]
 
-    ids = search_engine.get_url(yomi_list, recipe_id, target)
-    print(ids)
+    include = input('検索する材料名をスペース区切りで入力してください： ')
+    exclude = input('検索から省く材料名をスペース区切りで入力してください： ')
+
+    # 文字列をリストに変換
+    include = formatter.convert_str_to_list(include, ' ')
+    exclude = formatter.convert_str_to_list(exclude, ' ')
+
+    result = search_engine.get_ids(yomi_list, recipe_id, include, exclude)
+    print(result)
