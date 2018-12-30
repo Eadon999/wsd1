@@ -54,6 +54,10 @@
 				$(document).on('click', '.cont .page a', function(){
 					$('.cont > div').hide();
 					$('.cont > div').filter(this.hash).fadeIn();
+					$('html,body').animate({
+						scrollTop: 0
+					}, 'fast');
+					return false; /* #cont1などがurlにつかない */
 				});
 			});
 		</script>
