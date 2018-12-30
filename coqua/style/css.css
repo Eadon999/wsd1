@@ -71,6 +71,11 @@ div.search{
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 }
+/* レシピへのリンク */
+div.recipe{
+	display: flex;
+	margin : 5px;
+}
 /* 2018- COQUA とか */
 footer{
 	text-align: center;

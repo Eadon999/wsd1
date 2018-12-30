@@ -11,8 +11,17 @@ def make_page(num_split, n):
 
 
 def make_link(lst):
-	tmp = [F'<p><img src = "{url}" height = 141px width = 100px><a href = https://cookpad.com/recipe/{num}>{name}</a></p>' for [num, name, url] in lst]
-	return '<div class = "link">' + ''.join(tmp) + '</div>'
+	tmp = '';
+	for [num, name, url] in lst:
+		tmp += '<div class = "recipe">'
+		tmp += '<div class = "recipe_img">'
+		tmp += F'<img src = "{url}" height = 141px width = 100px>'
+		tmp += '</div>'
+		tmp += '<div class = "recipe_cont">'
+		tmp += F'<a href = https://cookpad.com/recipe/{num}>{name}</a>'
+		tmp += '</div>'
+		tmp += '</div>'
+	return tmp
 
 
 def get_cont(lst):
