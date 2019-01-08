@@ -16,23 +16,30 @@ class CoquaDB:
 			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 		else:
 			sys.exiti(1)
+
 	def debug_mode(self, x):
 		# デバッグ出力のON/OFFをする
 		if(bool(x)):
 			self.__con.set_trace_callback(print)
 		else:
 			self.__con.set_trace_callback(None)
+
 	def commit(self):
 		self.__con.commit()
+
 	def close(self):
 		self.__con.close()
+
 	def execute(self,s):
 		self.__cur.execute(s)
+
 	def fetchAll(self):
 		return self.__cur.fetchall()
+
 	def table_list(self):
 		self.execute("select name from sqlite_master where type='table';")
 		return self.fetchAll()
+
 	def ingredients_search(self, Alst, Nlst):
 		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
 		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
@@ -46,6 +53,7 @@ class CoquaDB:
 			tmp = F"select names.recipe_id, names.name, images.url from names join images on names.recipe_id = images.recipe_id where names.recipe_id in ({tmp});"
 			self.execute(tmp)
 		return self.fetchAll()
+
 	def name(self, num):
 		self.execute("select name from names where recipe_id = " + str(num) + ";")
 		return self.fetchAll()
@@ -59,12 +67,11 @@ if __name__ == '__main__':
 	# tableのリスト
 	print(cdb.table_list())
 	# 材料検索
-	print(cdb.ingredients_list([],[]))
-	print(cdb.ingredients_list(['玉葱'],[]))
-	print(cdb.ingredients_list(['玉葱', '人参'],[]))
-	print(cdb.ingredients_list(['玉葱', '人参', '醤油'],[]))
-	print(cdb.ingredients_list(['玉葱', '人参', '醤油'],['塩']))
-	print(cdb.ingredients_list(['玉葱', '人参', '醤油'],['塩', '砂糖']))
+	cdb.ingredients_search(['玉葱'],[])
+	cdb.ingredients_search(['玉葱', '人参'],[])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],[])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩'])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩', '砂糖'])
 
 
 
