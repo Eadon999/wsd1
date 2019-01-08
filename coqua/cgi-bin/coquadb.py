@@ -45,11 +45,11 @@ class CoquaDB:
 		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
 		# NOT AND 検索 
 		if Alst != []:
-			tmp = functools.reduce(lambda x,y : x + ' intersect ' + y,
-						map(lambda x : 'select distinct recipe_id from ingredients where pron = "' + x + '"', Alst))
+			tmp = ' intersect '.join(
+					map(lambda x : 'select distinct recipe_id from ingredients where pron = "' + x + '"', Alst))
 			if Nlst != []:
-				for x in Nlst:
-					tmp += 'except select distinct recipe_id from ingredients where pron = "' + x + '"'
+				tmp += ''.join(
+						map(lambda x : ' except select distinct recipe_id from ingredients where pron = "' + x + '"', Nlst))
 			tmp = F"select names.recipe_id, names.name, images.url from names join images on names.recipe_id = images.recipe_id where names.recipe_id in ({tmp});"
 			self.execute(tmp)
 		return self.fetchAll()

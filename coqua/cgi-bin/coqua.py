@@ -50,7 +50,7 @@ if __name__ == '__main__':
 		box = '「' + txt + '」 ' + str(len(data)) + '件の検索結果\n'
 		box += get_cont(data)
 	else:
-		box = '材料名を入れて検索してみましょう'
+		box = ''
 
 print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
 print(box)

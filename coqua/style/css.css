@@ -47,6 +47,15 @@ div.search{
 	padding : 0px 5px 0px 5px;
 	margin : 0 auto;
 }
+p.switch{
+	cursor:pointer;
+	font-weight: bold;
+	padding:10px 40px 10px 10px;
+	font-size: 14px;
+	background: #eee;
+	border-bottom: 1px solid #ccc;
+	position: relative;
+}
 #form-search{
 	width: 250px;
 	height: 100%;
