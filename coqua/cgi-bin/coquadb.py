@@ -40,18 +40,41 @@ class CoquaDB:
 		self.execute("select name from sqlite_master where type='table';")
 		return self.fetchAll()
 
-	def ingredients_search(self, Alst, Nlst):
+	def ingredients_search(self, Alst, Nlst, sortrule):
+		# Alst,Nlstのカナ化
 		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
 		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
 		# NOT AND 検索 
 		if Alst != []:
-			tmp = ' intersect '.join(
-					map(lambda x : 'select distinct recipe_id from ingredients where pron = "' + x + '"', Alst))
+			tmp = '\nintersect\n'.join(
+					map(lambda x : F'select distinct recipe_id from ingredients where pron = "{x}"', Alst))
 			if Nlst != []:
 				tmp += ''.join(
-						map(lambda x : ' except select distinct recipe_id from ingredients where pron = "' + x + '"', Nlst))
-			tmp = F"select names.recipe_id, names.name, images.url from names join images on names.recipe_id = images.recipe_id where names.recipe_id in ({tmp});"
-			self.execute(tmp)
+						map(lambda x : F'\nexcept\nselect distinct recipe_id from ingredients where pron = "{x}"', Nlst))
+			# ソート規則ごとに文を変更
+			if sortrule == 'time':
+				sent = "select names.recipe_id, names.name, images.url\n"\
+				       "from names join images join cooktimes\n"\
+				       "on names.recipe_id = images.recipe_id and names.recipe_id = cooktimes.recipe_id\n"\
+				       "where names.recipe_id\n"\
+				       F"in ({tmp})\n"\
+				       "order by cooktimes.cooktime"
+			elif sortrule == 'date':
+				sent = "select names.recipe_id, names.name, images.url\n"\
+				       "from names join images join publications\n"\
+				       "on names.recipe_id = images.recipe_id and names.recipe_id = publications.recipe_id\n"\
+				       "where names.recipe_id\n"\
+				       F"in ({tmp})\n"\
+				       "order by publications.count desc"
+			else:
+				sent = "select names.recipe_id, names.name, images.url\n"\
+				       "from names join images\n"\
+				       "on names.recipe_id = images.recipe_id\n"\
+				       "where names.recipe_id\n"\
+				       F"in ({tmp})"
+			# 実行
+			self.execute(sent)
+			self.last = sent # debug用
 		return self.fetchAll()
 
 	def name(self, num):

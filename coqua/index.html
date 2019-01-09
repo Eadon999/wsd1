@@ -5,7 +5,14 @@
 		<meta name="keywords" content="COQUA">
 		<meta name="description" content="レシピ推薦サービス">
 		<meta name="author" content="COQUA">
-		<link rel="stylesheet" type="text/css" href="style/css.css">
+		<link id="style" rel="stylesheet" type="text/css" href="style/css.css">
+		<script type="text/javascript">
+			/* cssがキャッシュに保存されて更新が反映されないことを防ぐ */
+			/* 読み込み速度の低下を招くため開発中以外は無効にする */
+			var time = (new Date()).getTime();
+			var name = 'style/css.css?';
+			document.getElementById('style').href = name + time; 
+		</script>
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 		<title>COQUA</title>
 	</head>
@@ -17,25 +24,24 @@
 			<article>
 				<div class = 'search'>
 					<form id = 'form-search'>
-						<input type="text" id="input-text" placeholder="材料名を入力"><input type="submit" class="fas" id="input-glass" value="&#xf002;">
+						<div class = 'searchbox'>
+							<input type="text" id="input-text" placeholder="材料名を入力">
+							<input type="submit" class="fas" id="input-glass" value="&#xf002;">
+						</div>
+						<div class = 'searchcond'>
+							<p class = 'switch'>検索条件を指定</p>
+							<div class = 'wrap'>
+								<div class = 'cond-sort'>
+									並び替え順<br>
+									<input type="radio" name="sort" value="repo" checked>つくレポ数<br>
+									<input type="radio" name="sort" value="time">調理時間<br>
+									<input type="radio" name="sort" value="date">公開日時
+								</div>
+							</div>
+						</div>
 					</form>
 				</div>
-				<div class = 'cond'>
-					<p class = 'switch'>検索条件を指定</p>
-					<div class = 'wrap' style =  "display:none;">
-						<form id = 'form-cond'>
-							<div class = 'cond-sort'>
-								並び替え順<br>
-								<input type="radio" name="sort" value="repo" checked="checked">つくレポ数<br>
-								<input type="radio" name="sort" value="time">調理時間
-							</div>
-						</form>
-					</div>
-				</div>
-				<div id = 'result'>
-					<div class = 'nav'></div>
-					<div class = 'cont'></div>
-				</div>
+				<div id = 'result'></div>
 			</article>
 		</main>
 		<footer>
@@ -46,8 +52,12 @@
 		<script type="text/javascript">
 			jQuery(function() {
 				var url  = '//localhost:8000/cgi-bin/coqua.py';
-				var done = function(response){$('#result').html(response);};
-				var fail = function(){$('#result').html('Failed. No result.');};
+				var done = function(response){
+					$('#result').html(response);
+				};
+				var fail = function(){
+					$('#result').html('Failed. No result.');
+				};
 				var search = function() {
 					event.preventDefault();
 					var $form = $(this);
@@ -55,14 +65,25 @@
 						url: url,
 						type: 'get',
 						dataType: 'text',
-						data: {text: $('#input-text').val()},
+						data: {
+							text: $('#input-text').val(),
+							sort: document.getElementById('form-search').sort.value,
+						},
 					}).done(done).fail(fail);};
+				/* resultに非同期的に書き込み */
 				$.ajax({url: url}).done(done).fail(fail);
-				$('form').submit(search);
-				$('.switch').on('click', function(){
-					$(this).toggleClass("open");
-					$(this).next('.wrap').slideToggle();
+				/* 検索ボタンを押した時に呼び出される */
+				$('form').submit(function(){
+					search();
+					if(document.getElementById('result').textContent != ''){
+						$('.wrap > div').hide();
+					}
 				});
+				/* 検索条件メニューの表示切り替え */
+				$('.switch').on('click', function(){
+					$('.wrap > div').slideToggle();
+				});
+				/* 検索結果のページ切り替え */
 				$(document).on('click', '.cont .page a', function(){
 					$('.cont > div').hide();
 					$('.cont > div').filter(this.hash).fadeIn();

@@ -28,9 +28,7 @@ header h1{
 	letter-spacing: 3px; 
 	font-weight:400; 
 }
-main{
-}
-/* しろいとこ */
+/* 白い部分 */
 article{
 	text-align : left;
 	width : 600px;
@@ -41,11 +39,14 @@ article{
 	font-size:18px;
 }
 /* 検索窓のスタイル */
-div.search{
+div.searchbox{
+	display:flex;
+	background: #dde;
 	text-align: center;
-	width : 400px;
-	padding : 0px 5px 0px 5px;
+	width : 250px;
 	margin : 0 auto;
+	box-sizing: border-box;
+	border-radius: 10px;
 }
 p.switch{
 	cursor:pointer;
@@ -57,20 +58,17 @@ p.switch{
 	position: relative;
 }
 #form-search{
-	width: 250px;
 	height: 100%;
 	margin: 10px auto;
 	padding: 3px 0px;
 	position:relative;
 	vertical-align: top;
-	box-sizing: border-box;
-	background: #dde;
-	border-radius: 10px;
 }
 #input-text{
 	border: none;
-	width: 200px;
-	padding: 3px 3px 3px 3px;
+	width: 195px;
+	padding: 3px;
+	margin : 5px;
 	background: transparent;
 }
 #input-glass{

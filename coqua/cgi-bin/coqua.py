@@ -40,15 +40,20 @@ def get_cont(lst):
 if __name__ == '__main__':
 	cgitb.enable()
 	form = cgi.FieldStorage()
+	# 並び替え順の決定
+	sortrule = form['sort'].value if 'sort' in form else 'repo'
+	# レシピを出力
 	if 'text' in form:
 		txt = form['text'].value
 		lst = txt.split()
 		Alst = [x     for x in lst if x[0] != '-']
 		Nlst = [x[1:] for x in lst if x[0] == '-']
 		cdb = coquadb.CoquaDB('coqua.db')
-		data = cdb.ingredients_search(Alst, Nlst)
+		data = cdb.ingredients_search(Alst, Nlst, sortrule)
 		box = '「' + txt + '」 ' + str(len(data)) + '件の検索結果\n'
 		box += get_cont(data)
+		box += F"<!-- {cdb.last} -->" # debug
+		cdb.close()
 	else:
 		box = ''
 
