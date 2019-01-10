@@ -9,6 +9,9 @@ mecab = MeCab.Tagger(
 )
 
 def get_unit(unit_set, amount):
+    if not isinstance(amount, str):
+        print('  注: ' + str(amount) + str(type(amount)) + ' からは単位が得られません. ')
+        return unit_set
     l = len(amount)
     for match in re.finditer('(\d+(\.\d+)?)', amount):  # 小数が見つかれば
         i = match.end()
