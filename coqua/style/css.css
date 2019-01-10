@@ -48,6 +48,9 @@ div.searchbox{
 	box-sizing: border-box;
 	border-radius: 10px;
 }
+div.wrap{
+	display:flex;
+}
 p.switch{
 	cursor:pointer;
 	font-weight: bold;

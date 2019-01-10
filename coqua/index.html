@@ -37,6 +37,17 @@
 									<input type="radio" name="sort" value="time">調理時間<br>
 									<input type="radio" name="sort" value="date">公開日時
 								</div>
+								<div class = 'cond-filter'>
+									フィルター<br>
+									<input type="checkbox" name="filter1" value="on">簡単・手軽<br>
+									<input type="checkbox" name="filter2">子供向け<br>
+									<input type="checkbox" name="filter3">ヘルシー<br>
+									<input type="checkbox" name="filter4">弁当<br>
+									<input type="checkbox" name="filter5">ボリューム<br>
+									<input type="checkbox" name="filter6">節約・安い<br>
+									<input type="checkbox" name="filter7">おつまみ<br>
+									<input type="checkbox" name="filter8">殿堂入り
+								</div>
 							</div>
 						</div>
 					</form>
@@ -53,9 +64,15 @@
 			jQuery(function() {
 				var url  = '//localhost:8000/cgi-bin/coqua.py';
 				var done = function(response){
+					if(response == 0){
+						$('.wrap > div').show();
+					}else{
+						$('.wrap > div').hide();
+					}
 					$('#result').html(response);
 				};
 				var fail = function(){
+					$('.wrap > div').show();
 					$('#result').html('Failed. No result.');
 				};
 				var search = function() {
@@ -68,17 +85,18 @@
 						data: {
 							text: $('#input-text').val(),
 							sort: document.getElementById('form-search').sort.value,
+							filter1: document.getElementById('form-search').filter1.checked,
+							filter2: document.getElementById('form-search').filter2.checked,
+							filter3: document.getElementById('form-search').filter3.checked,
+							filter4: document.getElementById('form-search').filter4.checked,
+							filter5: document.getElementById('form-search').filter5.checked,
+							filter6: document.getElementById('form-search').filter6.checked,
+							filter7: document.getElementById('form-search').filter7.checked,
+							filter8: document.getElementById('form-search').filter8.checked,
 						},
 					}).done(done).fail(fail);};
-				/* resultに非同期的に書き込み */
-				$.ajax({url: url}).done(done).fail(fail);
 				/* 検索ボタンを押した時に呼び出される */
-				$('form').submit(function(){
-					search();
-					if(document.getElementById('result').textContent != ''){
-						$('.wrap > div').hide();
-					}
-				});
+				$('form').submit(search);
 				/* 検索条件メニューの表示切り替え */
 				$('.switch').on('click', function(){
 					$('.wrap > div').slideToggle();

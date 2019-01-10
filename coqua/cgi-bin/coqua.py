@@ -42,6 +42,8 @@ if __name__ == '__main__':
 	form = cgi.FieldStorage()
 	# 並び替え順の決定
 	sortrule = form['sort'].value if 'sort' in form else 'repo'
+	# checkboxの値を得る
+	checklst = [i for i in range(1, 9) if F"filter{i}" in form and form[F"filter{i}"].value == 'true']
 	# レシピを出力
 	if 'text' in form:
 		txt = form['text'].value
@@ -49,7 +51,7 @@ if __name__ == '__main__':
 		Alst = [x     for x in lst if x[0] != '-']
 		Nlst = [x[1:] for x in lst if x[0] == '-']
 		cdb = coquadb.CoquaDB('coqua.db')
-		data = cdb.ingredients_search(Alst, Nlst, sortrule)
+		data = cdb.ingredients_search(Alst, Nlst, sortrule, checklst)
 		box = '「' + txt + '」 ' + str(len(data)) + '件の検索結果\n'
 		box += get_cont(data)
 		box += F"<!-- {cdb.last} -->" # debug

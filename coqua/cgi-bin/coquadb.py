@@ -40,7 +40,7 @@ class CoquaDB:
 		self.execute("select name from sqlite_master where type='table';")
 		return self.fetchAll()
 
-	def ingredients_search(self, Alst, Nlst, sortrule):
+	def ingredients_search(self, Alst, Nlst, sortrule, checklst):
 		# Alst,Nlstのカナ化
 		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
 		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
@@ -51,6 +51,14 @@ class CoquaDB:
 			if Nlst != []:
 				tmp += ''.join(
 						map(lambda x : F'\nexcept\nselect distinct recipe_id from ingredients where pron = "{x}"', Nlst))
+			# filter
+			if checklst != []:
+				checklst = list(map(lambda x : F" pref{x} = 1 ", checklst)) 
+				tmp += "\nintersect\n"
+				tmp += "select ingredients.recipe_id\n"
+				tmp += "from ingredients join preferable_bits\n"
+				tmp += "on ingredients.recipe_id = preferable_bits.recipe_id\n"
+				tmp += "where" + " and ".join(checklst)
 			# ソート規則ごとに文を変更
 			if sortrule == 'time':
 				sent = "select names.recipe_id, names.name, images.url\n"\
