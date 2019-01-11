@@ -1,6 +1,7 @@
 import sys
 
 import pandas as pd
+import numpy as np
 import ast
 
 from modules import SearchEngine, Formatter
@@ -42,6 +43,12 @@ if __name__ == '__main__':
         pair = search_engine.get_pairing_element(
             include, ids, yomi_list, amount_list, indexes)
         print(pair)
-        search_engine.get_combination_sum(2, include, pair)
+        for item in include:
+            amounts = list(pair.get(item).values())
+        for index, amount in enumerate(amounts):
+            if isinstance(amount, str):
+                amounts[index] = 999
+        weight = np.reciprocal(np.array(indexes).astype(np.float32)) * 5000
+        search_engine.knapsack(amounts, weight, 3)
     else:
         print(ids)
