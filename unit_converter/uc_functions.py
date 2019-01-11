@@ -9,11 +9,11 @@ def calc(matchobj, ratio):
 def unit_conversion(yomi, table, amount):
     if not isinstance(amount, str):
         print('  注: ' + str(amount) + str(type(amount)) + ' からは単位が得られません. ')
-        return '不可'
+        return 'NaN', '不可'  # 換算不可
     for row in table:
         # 単位換算テーブルの 1行は ['[個こコつヶケ]', 1] のような
         # 単位の正規表現パターンと換算比率の組とする
         
         matchobj = re.search('(\d+(\.\d+)?)'+row[0], amount)
-        if matchobj: return calc(matchobj, row[1])+yomi  # 「1.0タマゴ」など
-    return '不明';
+        if matchobj: return calc(matchobj, row[1]), yomi  # 換算値と新単位
+    return 'NaN', '不明'  # 単位不明

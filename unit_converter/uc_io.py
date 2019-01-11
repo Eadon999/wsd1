@@ -22,7 +22,7 @@ def data_in():
 
     return recipe_id, ingredients, yomi_list, amount, servings
 
-def data_out(recipe_id, ingredients, yomi_list, amount, converted, servings):
+def data_out(recipe_id, ingredients, yomi_list, amount, converted, new_unit, servings):
     df = pd.DataFrame(
         list(zip(*[
             recipe_id, 
@@ -30,6 +30,7 @@ def data_out(recipe_id, ingredients, yomi_list, amount, converted, servings):
             yomi_list, 
             amount, 
             converted, 
+            new_unit, 
             servings, 
         ])),
         columns=[
@@ -38,6 +39,7 @@ def data_out(recipe_id, ingredients, yomi_list, amount, converted, servings):
             'ingredients_yomi',  # カタカナ読み
             'amount',  # 分量
             'converted',  # 換算値
+            'new_unit',  # 新単位
             'servings',  # 何人分
         ])
 
