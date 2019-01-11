@@ -1,5 +1,7 @@
 import MeCab
 import itertools
+# from ortoolpy import knapsack
+import cvxpy
 
 
 mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
@@ -90,3 +92,14 @@ class SearchEngine(object):
         for i, n in enumerate(numbers):
             remaining = numbers[i + 1:]
             yield from self.subset_sum(remaining, target, partial + [n], partial_sum + n)
+
+    def knapsack(self, lst, weight, target):
+        x = cvxpy.Variable(shape=len(weight), boolean=True)
+        objective = cvxpy.Maximize(weight * x)
+        print(objective)
+        constraints = [target >= lst * x]
+        prob = cvxpy.Problem(objective, constraints)
+        prob.solve(solver=cvxpy.ECOS_BB)
+        print('最大価値:{} / 組み合わせ:{}'.format(round(prob.value, 0),
+                                          [i for i in range(len(weight)) if round(x.value[i], 0) == 1]))
+        # print(knapsack(lst, weight, target))
