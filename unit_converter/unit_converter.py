@@ -17,7 +17,7 @@ for row in tb.t_uct:
     for i, yomi_sublist in enumerate(yomi_list):
         for j, item in enumerate(yomi_sublist):
             if row[0] in item:
-                if row[2] in item:
+                if row[2] and row[2] in item:
                     converted[i][j] = 'NaN'  # Not a Number
                     new_unit[i][j] = '不適'  # 例外: 換算に不適
                     continue
