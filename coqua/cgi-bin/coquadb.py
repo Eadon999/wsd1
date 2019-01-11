@@ -1,4 +1,5 @@
 import sqlite3
+import coquasql as CQL
 import MeCab
 import os
 import sys
@@ -32,71 +33,42 @@ class CoquaDB:
 		return self.__cur.fetchall()
 
 	def table_list(self):
-		self.execute("select name from sqlite_master where type='table';")
+		self.execute("SELECT name\n  FROM sqlite_master\n WHERE type='table'")
 		return self.fetchAll()
 
 	def ingredients_search(self, Alst, Nlst, sortrule, checklst):
 		# Alst,Nlstのカナ化
-		Alst = map(lambda x : self.__mecab.parse(x).strip(), Alst)
-		Nlst = map(lambda x : self.__mecab.parse(x).strip(), Nlst)
-		# NOT AND 検索 
+		Alst = list(map(lambda x : self.__mecab.parse(x).strip(), Alst))
+		Nlst = list(map(lambda x : self.__mecab.parse(x).strip(), Nlst))
+		# ソート規則
+		ruledict = {'repo': ['cooktimes',    'cooktime', 'asc'],
+		            'time': ['cooktimes',    'cooktime', 'asc'],
+		            'date': ['publications', 'count',    'desc']}
+		# 検索クエリの生成
+		Qlst = []
 		if Alst != []:
-			tmp = '\nintersect\n'.join(
-					map(lambda x : F'select recipe_id from ingredients where pron = "{x}"', Alst))
-			if Nlst != []:
-				tmp += ''.join(
-						map(lambda x : F'\nexcept\nselect recipe_id from ingredients where pron = "{x}"', Nlst))
-			# filter
-			if checklst != []:
-				checklst = list(map(lambda x : F" pref{x} = 1 ", checklst)) 
-				tmp += "\nintersect\n"
-				tmp += "select ingredients.recipe_id\n"
-				tmp += "from ingredients join preferable_bits\n"
-				tmp += "on ingredients.recipe_id = preferable_bits.recipe_id\n"
-				tmp += "where" + " and ".join(checklst)
-			# ソート規則ごとに文を変更
-			if sortrule == 'time':
-				rulelst = ['cooktimes', 'cooktimes.cooktime']
-			elif sortrule == 'data':
-				rulelst = ['publications', 'publications.count desc']
+			Qlst += CQL.ingredients_ids3(Alst, Nlst)
+		if checklst != []:
+			if Qlst != []:
+				Qlst = CQL.filter_ids(checklst, Qlst)
 			else:
-				rulelst = None
-			if rulelst != None:
-				sent = "select distinct names.recipe_id, names.name, images.url\n"\
-				       F"from names join images join {rulelst[0]}\n"\
-				       F"on names.recipe_id = images.recipe_id and names.recipe_id = {rulelst[0]}.recipe_id\n"\
-				       "where names.recipe_id\n"\
-				       F"in ({tmp})\n"\
-				       F"order by {rulelst[1]}"
-			else:
-				sent = "select distinct names.recipe_id, names.name, images.url\n"\
-				       "from names join images\n"\
-				       "on names.recipe_id = images.recipe_id\n"\
-				       "where names.recipe_id\n"\
-				       F"in ({tmp})"
-			# 実行
-			self.execute(sent)
-			self.last = sent # debug用
-		return self.fetchAll()
+				Qlst = CQL.pref_bits(checklst)
+		if sortrule in ruledict:
+			rules = ruledict[sortrule]
+			Qlst = CQL.sort_ids(Qlst, rules[0], rules[1], rules[2])
+		else:
+			Qlst = CQL.recipe_data(Qlst)
+		# 検索の実行と結果
+		query = CQL.decode_query(Qlst)
+		if query != None:
+			self.execute(query)
+			self.last = query # debug用
+			return self.fetchAll()
+		else:
+			self.last = ""
+			return []
 
 	def name(self, num):
 		self.execute("select name from names where recipe_id = " + str(num) + ";")
 		return self.fetchAll()
-
-
-if __name__ == '__main__':
-	# CoquaDB Object
-	cdb = CoquaDB('coqua.db')
-	# デバックモードを入に
-	cdb.debug_mode(True)
-	# tableのリスト
-	print(cdb.table_list())
-	# 材料検索
-	cdb.ingredients_search(['玉葱'],[],"repo",[])
-	cdb.ingredients_search(['玉葱', '人参'],[],"repo",[])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],[],"repo",[])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩'],"repo",[])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩', '砂糖'],"repo",[])
-
-
 

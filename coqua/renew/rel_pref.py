@@ -10,9 +10,7 @@ def pref_bits(row, pref_words):
 			return True if next(itr) in s else is_pattern_in_row(itr, s)
 		except StopIteration:
 			return False
-	lst = [is_pattern_in_row(iter(pattern),
-		str(row['name']) + str(row['history']) + str(row['description']))
-		for pattern in pref_words]
+	lst = [is_pattern_in_row(iter(pattern), str(row['name']) + str(row['history']) + str(row['description'])) for pattern in pref_words]
 	return lst
 
 
@@ -37,9 +35,8 @@ def make_rel_pref(tablename, dbcur, csvpath):
 			+ "recipe_id INTEGER,"
 			+ functools.reduce(
 				lambda x,y : x + ", " + y,
-				["pref" + str(i) + " INTEGER"
-					for i in range(1, len(pref_words) + 1)])
-				+ ", primary key(recipe_id))")
+				["pref" + str(i) + " INTEGER" for i in range(1, len(pref_words) + 1)]
+				) + ", primary key(recipe_id))")
 	# タプルの挿入
 	for i, row in df.iterrows():
 		dbcur.execute("insert into " + tablename + " values("
@@ -49,3 +46,12 @@ def make_rel_pref(tablename, dbcur, csvpath):
 					map(lambda x : "1" if x else "0",
 						pref_bits(row, pref_words)))
 					+ ")")
+	dbcur.execute(F"create index idx_pref_recipe_id on {tablename}(recipe_id)")
+	dbcur.execute(F"create index idx_pref_bit1 on {tablename}(pref1)")
+	dbcur.execute(F"create index idx_pref_bit2 on {tablename}(pref2)")
+	dbcur.execute(F"create index idx_pref_bit3 on {tablename}(pref3)")
+	dbcur.execute(F"create index idx_pref_bit4 on {tablename}(pref4)")
+	dbcur.execute(F"create index idx_pref_bit5 on {tablename}(pref5)")
+	dbcur.execute(F"create index idx_pref_bit6 on {tablename}(pref6)")
+	dbcur.execute(F"create index idx_pref_bit7 on {tablename}(pref7)")
+	dbcur.execute(F"create index idx_pref_bit8 on {tablename}(pref8)")
