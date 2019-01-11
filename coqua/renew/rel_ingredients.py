@@ -11,7 +11,7 @@ def make_rel_ingredients(tablename, dbcur, csvpath):
 	dbcur.execute("drop table if exists " + tablename)
 	# 材料のテーブルを作成
 	dbcur.execute(
-			"create table " + tablename + " ("
+			F"create table {tablename} ("
 			+ "recipe_id INTEGER,"
 			+ "name TEXT,"
 			+ "pron TEXT,"
@@ -29,3 +29,7 @@ def make_rel_ingredients(tablename, dbcur, csvpath):
 					+ "'" + str(tup[0]) + "',"
 					+ "'" + str(tup[1]) + "',"
 					+ "'" + str(tup[2]) + "')")
+	dbcur.execute(F"create index idx_ingredients_recipe_id on {tablename}(recipe_id)")
+	dbcur.execute(F"create index idx_ingredients_name on {tablename}(name)")
+	dbcur.execute(F"create index idx_ingredients_pron on {tablename}(pron)")
+

@@ -1,5 +1,3 @@
-import string
-import functools
 import sqlite3
 import MeCab
 import os
@@ -15,14 +13,11 @@ class CoquaDB:
 		elif(os.path.exists('/usr/local/lib/mecab/dic/mecab-ipadic-neologd')):
 			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 		else:
-			sys.exiti(1)
+			sys.exit(1)
 
 	def debug_mode(self, x):
 		# デバッグ出力のON/OFFをする
-		if(bool(x)):
-			self.__con.set_trace_callback(print)
-		else:
-			self.__con.set_trace_callback(None)
+		self.__con.set_trace_callback(print if bool(x) else None)
 
 	def commit(self):
 		self.__con.commit()
@@ -47,10 +42,10 @@ class CoquaDB:
 		# NOT AND 検索 
 		if Alst != []:
 			tmp = '\nintersect\n'.join(
-					map(lambda x : F'select distinct recipe_id from ingredients where pron = "{x}"', Alst))
+					map(lambda x : F'select recipe_id from ingredients where pron = "{x}"', Alst))
 			if Nlst != []:
 				tmp += ''.join(
-						map(lambda x : F'\nexcept\nselect distinct recipe_id from ingredients where pron = "{x}"', Nlst))
+						map(lambda x : F'\nexcept\nselect recipe_id from ingredients where pron = "{x}"', Nlst))
 			# filter
 			if checklst != []:
 				checklst = list(map(lambda x : F" pref{x} = 1 ", checklst)) 
@@ -61,21 +56,20 @@ class CoquaDB:
 				tmp += "where" + " and ".join(checklst)
 			# ソート規則ごとに文を変更
 			if sortrule == 'time':
-				sent = "select names.recipe_id, names.name, images.url\n"\
-				       "from names join images join cooktimes\n"\
-				       "on names.recipe_id = images.recipe_id and names.recipe_id = cooktimes.recipe_id\n"\
-				       "where names.recipe_id\n"\
-				       F"in ({tmp})\n"\
-				       "order by cooktimes.cooktime"
-			elif sortrule == 'date':
-				sent = "select names.recipe_id, names.name, images.url\n"\
-				       "from names join images join publications\n"\
-				       "on names.recipe_id = images.recipe_id and names.recipe_id = publications.recipe_id\n"\
-				       "where names.recipe_id\n"\
-				       F"in ({tmp})\n"\
-				       "order by publications.count desc"
+				rulelst = ['cooktimes', 'cooktimes.cooktime']
+			elif sortrule == 'data':
+				rulelst = ['publications', 'publications.count desc']
 			else:
-				sent = "select names.recipe_id, names.name, images.url\n"\
+				rulelst = None
+			if rulelst != None:
+				sent = "select distinct names.recipe_id, names.name, images.url\n"\
+				       F"from names join images join {rulelst[0]}\n"\
+				       F"on names.recipe_id = images.recipe_id and names.recipe_id = {rulelst[0]}.recipe_id\n"\
+				       "where names.recipe_id\n"\
+				       F"in ({tmp})\n"\
+				       F"order by {rulelst[1]}"
+			else:
+				sent = "select distinct names.recipe_id, names.name, images.url\n"\
 				       "from names join images\n"\
 				       "on names.recipe_id = images.recipe_id\n"\
 				       "where names.recipe_id\n"\
@@ -98,11 +92,11 @@ if __name__ == '__main__':
 	# tableのリスト
 	print(cdb.table_list())
 	# 材料検索
-	cdb.ingredients_search(['玉葱'],[])
-	cdb.ingredients_search(['玉葱', '人参'],[])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],[])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩'])
-	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩', '砂糖'])
+	cdb.ingredients_search(['玉葱'],[],"repo",[])
+	cdb.ingredients_search(['玉葱', '人参'],[],"repo",[])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],[],"repo",[])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩'],"repo",[])
+	cdb.ingredients_search(['玉葱', '人参', '醤油'],['塩', '砂糖'],"repo",[])
 
 
 
