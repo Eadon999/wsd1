@@ -13,3 +13,5 @@ def make_rel_image(tablename, dbcur, csvpath):
 		dbcur.execute("insert into " + tablename + " values("
 				+ str(row['recipe_id']) + ','
 				+ '"' + str(row['image']) + '")')
+	dbcur.execute(F"create index idx_image_recipe_id on {tablename}(recipe_id)")
+	

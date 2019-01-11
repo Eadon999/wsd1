@@ -16,3 +16,5 @@ def make_rel_cooktime(tablename, dbcur, csvpath):
 				"insert into " + tablename + " values("
 				+ str(row['recipe_id']) + ','
 				+ str(row['cookTime']) + ")")
+	dbcur.execute(F"create index idx_cooktime_recipe_id on {tablename}(recipe_id)")
+	dbcur.execute(F"create index idx_cooktime_cooktime  on {tablename}(recipe_id)")

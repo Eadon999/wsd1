@@ -23,3 +23,5 @@ def make_rel_publication(tablename, dbcur, csvpath):
 				+ str(date.month) + ','
 				+ str(date.day) + ','
 				+ str((date - datetime.datetime(2000,1,1,0,0)).days) + ')')
+	dbcur.execute(F"create index idx_publication_recipe_id on {tablename}(recipe_id)")
+	dbcur.execute(F"create index idx_publication_count on {tablename}(count)")
