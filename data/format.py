@@ -15,7 +15,7 @@ def split_dictionary(dictionaries):
 
 if __name__ == '__main__':
     args = sys.argv
-    directory = './jsons_premium'
+    directory = './recipes_json'
     output = './formatted.csv'
     write_header = True
     header = []
