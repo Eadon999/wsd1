@@ -1,6 +1,8 @@
 data/*.csv
 data/archive
 jsons_premium/
+archive/
+recipes_json/
 .DS_Store
 memo.txt
 .ipynb_checkpoints/
