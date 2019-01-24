@@ -36,6 +36,9 @@ class CoquaDB:
 		self.execute("SELECT name\n  FROM sqlite_master\n WHERE type='table'")
 		return self.fetchAll()
 
+	def drop(self, tablename):
+		self.execute(CQL.decode_query(CQL.drop_table(tablename)))
+
 	def ingredients_search(self, Alst, Nlst, sortrule, checklst):
 		# Alst,Nlstのカナ化
 		Alst = list(map(lambda x : self.__mecab.parse(x).strip(), Alst))

@@ -18,6 +18,9 @@ def indent_query(querylst, first, last):
 		lst.append(ind + querylst[-1] + last)
 	return lst
 
+def drop_table(tablename):
+	return [F'DROP TABLE IF EXISTS {tablename}']
+
 def pref_bits(checklst):
 	if checklst == []:
 		return None
