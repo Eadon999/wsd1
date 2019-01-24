@@ -35,11 +35,11 @@ def get_ingredient_amount_list(data):
     ingredients = formatter.convert_str_list(
         (data).map(formatter.normalize))
 
-    # 材料の記号を除去
-    ingredients = regex.replace_pat_in_array(symbol_pattern, '', ingredients)
-
     # 材料名と量を分割
     ingredients, amount = formatter.convert_2darray_to_lists(ingredients)
+
+    # 材料リストは記号除去をおこなう. 分量リストは記号除去をおこなわない. 
+    ingredients = regex.replace_pat_in_list(symbol_pattern, '', ingredients)
 
     # 量の数字を漢数字から英数字に変換
     amount = [[formatter.kanji_numbers(item)
