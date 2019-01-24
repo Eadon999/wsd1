@@ -3,7 +3,7 @@ from modules.formatter import FormatModules
 from modules.utility import UtilityModules
 
 
-symbol_pattern = '[^ぁ-んァ-ンーa-zA-Z0-9一-龠０-９.~～〜()（）/\w]+|u3000'
+symbol_pattern = '[^ぁ-んァ-ンーa-zA-Z0-9一-龠０-９,，.~～〜()（）/\w]+|u3000'
 
 regex = RegexModules()
 formatter = FormatModules()
