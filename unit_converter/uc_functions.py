@@ -9,7 +9,8 @@ def calc(matchobj, ratio):
 def unit_conversion(yomi, table, amount):
     if not isinstance(amount, str):
         print('  注: ' + str(amount) + str(type(amount)) + ' からは単位が得られません. ')
-        return 'NaN', '不可'  # 換算不可
+        # return 'NaN', '不可'  # 換算不可
+        return str(amount), '小さじ'  # 要検証: 換算不可のものはすべて小さじに換算済み??
     for row in table:
         # 単位換算テーブルの 1行は ['[個こコつヶケ]', 1] のような
         # 単位の正規表現パターンと換算比率の組とする
