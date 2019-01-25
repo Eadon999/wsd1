@@ -1,0 +1,39 @@
+{
+    "name": "蓮根",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2855852/464x260/2c3f24eada01d6eb9937b0c51076f3b0.jpg?u=2495483&p=1414400200",
+    "datePublished": "2014-10-27",
+    "description": "ずばり、蓮根を煮るだけ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根の皮をむいて半分に切って５ミリ厚位に切る",
+        "鍋に水と酢を少し入れ１をさっと茹でる"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2855852",
+    "advice": "",
+    "history": "何も味付けしなくても甘くて美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蓮根",
+        "酢"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2855852/100x141c/8717319f76bc0e47895aad3b21974a65.jpg?u=2495483&p=1414400200"
+}

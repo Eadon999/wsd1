@@ -1,0 +1,53 @@
+{
+    "name": "おつまみ★アボカド明太子ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "Moepi☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2588921/464x260/85eceae747757945358636a116fee7e7.jpg?u=1330280&p=1397617156",
+    "datePublished": "2014-04-16",
+    "description": "お酒のおつまみにぴったり♪あえるだけだから簡単ですよ(*´ω｀*)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "明太子",
+            "quantity": "1腹"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "明太子をほぐして皮を取り除きます。アボカドを一口サイズにカットします。",
+        "①と全ての材料を混ぜ合わせたら完成です♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2588921",
+    "advice": "アボカドの変色防ぐのに、レモン汁を忘れずに!",
+    "history": "いつもと違ったアボカドの食べ方したいな～っと思って♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "明太子",
+        "ネギ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2588921/100x141c/8150e4b7c02afbc35d1adf9842859797.jpg?u=1330280&p=1397617156"
+}

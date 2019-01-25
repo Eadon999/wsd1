@@ -1,0 +1,66 @@
+{
+    "name": "牛肉トマトブロッコリのおかずなサラダ ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/299671/464x260/a86a99523ab80c33bdbac45990ad1b52.jpg?u=57297&p=1214214030",
+    "datePublished": "2006-11-11",
+    "description": "サッパリしておかずにも、いっぱい作ってお客様にも☆",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "ブロッコリ",
+            "quantity": "適量(好きなだけ）"
+        },
+        {
+            "name": "トマト",
+            "quantity": "なるべく完熟2個"
+        },
+        {
+            "name": "＠醤油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "＠ごま油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "＠酢",
+            "quantity": "大匙1/2"
+        },
+        {
+            "name": "＠砂糖",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "2片くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉は熱湯でシャブっとして、冷蔵庫で冷やします。",
+        "トマトと茹でたブロッコリを合わせてタレとサックリ和えます。",
+        "タレ：醤油１、酢1/2、ごま油1/2、砂糖小匙２、おろしニンニク２片\r\n ちょっと置いとくと、味が浸みて美味しい☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "299671",
+    "advice": "http://plaza.rakuten.co.jp/ochazuke ここがお茶丸の楽天サイトです、お料理について日記を書いてるので覗いてみてね(=^･^=)",
+    "history": "ちょっと暖かかった日のメニューです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 ブロッコリー",
+        "牛肉 サラダ",
+        "おかずサラダ",
+        "ブロッコリー トマト"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/299671/100x141c/7924e3fae894189f9fe6c640344e6b59.jpg?u=57297&p=1214214030"
+}

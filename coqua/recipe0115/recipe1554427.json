@@ -1,0 +1,65 @@
+{
+    "name": "トマトと玉子のとろ～りコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1554427/464x260/bf4f6fce83898d7c2c108bd94bbd05e7.jpg?u=2513693&p=1315009176",
+    "datePublished": "2011-09-04",
+    "description": "トマトの酸味をほどよく玉子が和らげた、朝から元気が出そうなコンソメスープ。とろみをつけてるのでさらにまろやかです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "2分の1個"
+        },
+        {
+            "name": "玉子→溶きほぐしておく",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "コンソメ（固形）",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは皮を湯剥きしてから1センチの角切りにしておきます。",
+        "鍋に水を沸騰させ、トマトと細かく刻んだコンソメを入れやや弱めの中火で5分煮ます。",
+        "次に【A】を入れとろみをつけてから、玉子をまわし入れ10秒ほど煮てざっと全体をかき混ぜ火を止め、塩コショウで味を調え完成",
+        "朝食にぜひどうぞ♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1554427",
+    "advice": "",
+    "history": "トマトと玉子の組み合わせも気にいっているので、炒め物にしたりスープにしたりしています。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コンソメスープ 卵",
+        "コンソメスープ トマト"
+    ],
+    "tsukurepo_count": "117",
+    "thumbnail": "https://img.cpcdn.com/recipes/1554427/100x141c/ac6abd4b18df0d5c106115d61d5ab99c.jpg?u=2513693&p=1315009176"
+}

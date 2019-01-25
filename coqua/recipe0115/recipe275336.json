@@ -1,0 +1,63 @@
+{
+    "name": "さばのにんにく煮",
+    "author": {
+        "@type": "Person",
+        "name": "chia"
+    },
+    "image": "https://img.cpcdn.com/recipes/275336/464x260/8119e6c9bfd414308c68fe78a4fe36dc.jpg?u=19011&p=1214213483",
+    "datePublished": "2006-08-21",
+    "description": "香ばしくってご飯にピッタリ♪おいしすぎます！！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "半身１枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "２片"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "１５ｃｍ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆水",
+            "quantity": "1/3カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "さばは適当に切り分け全体に片栗粉をまぶします。にんにくはあらくみじん切り、ねぎは小口切りにします。",
+        "フライパンに油とにんにくを入れ熱し、香りが出たらにんにくを取り出します。",
+        "２のフライパンでさばを両面焼き、ねぎを入れ、にんにくも戻し入れます。",
+        "☆の調味料を加えて煮たら出来上がりっ！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "275336",
+    "advice": "にんにくはたーっぷり使った方がおいしいですよ☆",
+    "history": "お友達の家でごちそうになった時、とってもおいしかったので、作り方を教えてもらい簡単そうだったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば",
+        "にんにく",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "872",
+    "thumbnail": "https://img.cpcdn.com/recipes/275336/100x141c/4be62a5ce06c5967f54339fd3151bad3.jpg?u=19011&p=1214213483"
+}

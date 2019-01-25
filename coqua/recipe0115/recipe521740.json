@@ -1,0 +1,50 @@
+{
+    "name": "天かすおかかおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ななやん"
+    },
+    "image": "https://img.cpcdn.com/recipes/521740/464x260/3bf130a096a022140722bfb5686b70cb.jpg?u=211194&p=1214218980",
+    "datePublished": "2008-03-03",
+    "description": "材料少なめ！！家にあるもので簡単にできちゃうおにぎりです♪",
+    "recipeYield": "１個分",
+    "recipeIngredient": [
+        {
+            "name": "揚げ玉（天かす）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "削りぶし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "温かいご飯",
+            "quantity": "１人分"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに全ての材料を入れよく混ぜる。\r\nラップなどで握る。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "521740",
+    "advice": "温かいごはんで作ってくださいね。",
+    "history": "塩こんぶがな－い！！って時は天むす風おにぎりでっ（≧▽≦）",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "揚げ玉",
+        "削りぶし",
+        "醤油",
+        "温かいご飯"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/521740/100x141c/8b9ffb983bd6f23e1cf1e60a6993af99.jpg?u=211194&p=1214218980"
+}

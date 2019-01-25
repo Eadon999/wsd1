@@ -1,0 +1,51 @@
+{
+    "name": "✿もやしと白菜のおかかポン酢和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/432628/464x260/642b13701197feba9209ae65351e8bd1.jpg?u=271833&p=1263486009",
+    "datePublished": "2007-09-20",
+    "description": "茹でた白菜ともやしをおかかポン酢で和えました。さっぱりとした一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "半袋"
+        },
+        {
+            "name": "白菜",
+            "quantity": "2～3枚"
+        },
+        {
+            "name": "☆鰹節",
+            "quantity": "小1袋"
+        },
+        {
+            "name": "☆ポン酢",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は食べやすい大きさに切る。 \r\n鍋に湯を沸かし、沸騰したら白菜の芯の部分→葉の部分の順に入れて茹でる。",
+        "葉の部分が色よく茹で上がったらもやしも加えて更に1分程茹でる。",
+        "2をざるにあけて冷水で冷ます。",
+        "3の水気をしっかり切り、ボウルで☆と和えて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "432628",
+    "advice": "ポン酢の量は味をみてお好みで加減して下さい。",
+    "history": "冷蔵庫に使いかけのもやしと白菜があったので、一緒に茹でて簡単な和えものを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 もやし",
+        "白菜 ポン酢和え",
+        "白菜 ポン酢"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/432628/100x141c/090bca3dcbff74d2c8d677b92a8eff29.jpg?u=271833&p=1263486009"
+}

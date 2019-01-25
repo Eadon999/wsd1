@@ -1,0 +1,63 @@
+{
+    "name": "いつかあなたと 蓮根のきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1693079/464x260/270d51c08dfd19696e85b4b085d7ca84.jpg?u=2920899&p=1458821298",
+    "datePublished": "2012-02-02",
+    "description": "お子ちゃまには、甘口をご飯で。呑兵衛さんのあなたには、鷹の爪で辛口に。2012/09/20話題入り感謝！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "1節（250ｇ位）"
+        },
+        {
+            "name": "鷹の爪(赤とうがらし）",
+            "quantity": "1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆味の素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は皮を剥いて、5mm～の厚さにカットして、酢水(水でも）につける。",
+        "フライパンにごま油を敷き、水気を切った蓮根を透き通るまで炒める。\n(1～2分位）",
+        "☆印を加え、汁を飛ばしながら炒める。\n(2分位）",
+        "ちびっこ用の分を取り分けたら、種を取り除いた鷹の爪を入れて、もう少し炒める。\n（1分位）\n出来上がり♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1693079",
+    "advice": "鷹の爪は、種が入っているとより一層辛くなるので、辛いもの好きさんは取らなくても！",
+    "history": "蓮根が大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蓮根",
+        "鷹の爪",
+        "ごま油",
+        "醤油"
+    ],
+    "tsukurepo_count": "158",
+    "thumbnail": "https://img.cpcdn.com/recipes/1693079/100x141c/719d5db8f9b952403e29e3cde9248403.jpg?u=2920899&p=1458821298"
+}

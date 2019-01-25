@@ -1,0 +1,58 @@
+{
+    "name": "居酒屋風●たたききゅうりのキムチ和え",
+    "author": {
+        "@type": "Person",
+        "name": "鈴ピヨ"
+    },
+    "image": "https://img.cpcdn.com/recipes/347301/464x260/2867ae0702575b8fe93c8caf09f6edd4.jpg?u=316327&p=1214215093",
+    "datePublished": "2007-03-20",
+    "description": "✿話題入り感謝です✿切って叩いて混ぜるだけ♪簡単です。叩き割ったきゅうりもなかなか美味しいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり(叩き割る)",
+            "quantity": "2本"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "80ｇ"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小1"
+        },
+        {
+            "name": "●白ゴマ",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは袋などに入れ、叩き割ります。キムチは食べやすい大きさに切ります。",
+        "大きめのボールに●を入れ混ぜます。きゅうり・キムチを加え、混ざったら出来上がり★"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "347301",
+    "advice": "調味料を先に混ぜておくとムラなく混ざります。",
+    "history": "居酒屋でよく食べていたおつまみを再現しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "キムチ",
+        "砂糖",
+        "ごま油"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/347301/100x141c/5d60e44bb620d244103dd76f36caf3d0.jpg?u=316327&p=1214215093"
+}

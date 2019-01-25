@@ -1,0 +1,65 @@
+{
+    "name": "おくらと崩し豆腐の胡麻シソナムル",
+    "author": {
+        "@type": "Person",
+        "name": "うっひー"
+    },
+    "image": "https://img.cpcdn.com/recipes/893014/464x260/2d344f559525395834e1459a112aca1a.jpg?u=53239&p=1250893201",
+    "datePublished": "2009-08-22",
+    "description": "これ、オクラに味が絡んで美味しい～♪胡麻とシソの香りでどんどん食べられちゃいます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "８本～１０本"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁（小さめ）"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "大葉",
+            "quantity": "６枚"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "白胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "糸唐辛子（あれば）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラはさっと茹でるか、レンジで加熱して斜め切りにする。\n\nボウルに入れて、豆腐をいれ、手で粗く崩す。",
+        "ゴマ油とゴマ、塩、白胡椒を入れて混ぜ、最後に千切り大葉を和えたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "893014",
+    "advice": "ただ、混ぜるだけ！豆腐を崩しすぎないほうが美味しいです。",
+    "history": "家にあまっていたもので考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "木綿豆腐",
+        "ゴマ",
+        "大葉"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/893014/100x141c/97817aa31cf2e5d1be78c506438b0e95.jpg?u=53239&p=1250893201"
+}

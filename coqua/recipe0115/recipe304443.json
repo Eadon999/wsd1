@@ -1,0 +1,69 @@
+{
+    "name": "■牛肉とれんこんのゴマ炒め■",
+    "author": {
+        "@type": "Person",
+        "name": "よーたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/304443/464x260/cfb678c2e564f62b30bf8226224beca0.jpg?u=52912&p=1214214148",
+    "datePublished": "2006-11-29",
+    "description": "サクサクのれんこんとジューシーな牛肉、美味しい組み合わせです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "薄切り牛肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "れんこん",
+            "quantity": "1/2櫛"
+        },
+        {
+            "name": "○しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○お酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○はちみつ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○白こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "水（調整用）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは薄切りにし、酢水に浸す。牛肉に、しょう油・お酒（分量外、各少々）で下味を付ける。",
+        "ごま油をフライパンに熱し、1の牛肉を炒め、色が変わったら、水気を切ったれんこんも入れて炒め合わせる。",
+        "2に○を入れ、水分が無くなるまで炒める。(味が濃い場合は、調整用の水を入れて、味を整える）最後に、白ゴマを入れて混ぜ合わせる。",
+        "お皿に盛って、出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "304443",
+    "advice": "れんこんはサクサク感が残る程度に炒めた方が、美味しいです。",
+    "history": "れんこん好きなので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん",
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん 牛肉"
+    ],
+    "tsukurepo_count": "281",
+    "thumbnail": "https://img.cpcdn.com/recipes/304443/100x141c/6cac78d31ffa5e6e03d9abbe265eded9.jpg?u=52912&p=1214214148"
+}

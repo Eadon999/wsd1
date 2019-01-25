@@ -1,0 +1,53 @@
+{
+    "name": "黄ニラと豚こまのオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2425548/464x260/a1e6f5880359e3fedb3c88f4528f5cf4.jpg?u=1298841&p=1386120297",
+    "datePublished": "2013-12-04",
+    "description": "独特の旨味と香りの黄ニラを使えば、安いこま切れ肉が本格中華に大変身☆シンプルだけれど、お店の味です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "黄ニラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は細切りにして片栗粉をまぶし、ごま油を引いたフライパンでよく炒め、火が通ったら黄ニラと調味料を加えて軽く炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2425548",
+    "advice": "黄ニラがしゃきっとするように火を通しすぎないでくださいね☆",
+    "history": "大好きな黄ニラを使って手早く出来る一品を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "黄ニラ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2425548/100x141c/6ba61ccb85a71b6933cfd6b3b6614003.jpg?u=1298841&p=1386120297"
+}

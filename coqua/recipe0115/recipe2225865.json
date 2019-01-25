@@ -1,0 +1,65 @@
+{
+    "name": "【農家のレシピ】さやえんどうの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2225865/464x260/e78f47ee7a40813635d4210648a52d7a.jpg?u=2513693&p=1368767142",
+    "datePublished": "2013-05-18",
+    "description": "さやえんどうの佃煮は、軟らかく煮た昆布のような食感で、ごはんが進む味です。冷凍保存も可能です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さやえんどう（スナップエンドウ、インゲンでもOK）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "しょうが（千切り）",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "昆布（細切り）",
+            "quantity": "2センチ程度"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "みりん、酒、酢",
+            "quantity": "各大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "さやえんどうは筋を取り、斜めに切っておく。",
+        "白ごま以外の材料を全て鍋にいれ、やや弱めの中火で汁けがなくなるまでる。（約2０～30分程度）最後にゴマを入れて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2225865",
+    "advice": "薄くラップに伸ばして冷凍しておくと使いたい分だけ折って使えるので便利ですよ。",
+    "history": "毎日採れるさやえんどうを冷凍保存しても美味しくいただけるように佃煮にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/さやえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さやえんどう",
+        "しょうが",
+        "昆布",
+        "白ごま"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2225865/100x141c/ff8228e0c7d9f6e9c069a6e29ca76179.jpg?u=2513693&p=1368767142"
+}

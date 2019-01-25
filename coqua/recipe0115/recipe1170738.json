@@ -1,0 +1,69 @@
+{
+    "name": "豚肉とキャベツの生姜焼き風炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/1170738/464x260/4f20226281cae8653515ccd6b4acf9b2.jpg?u=54489&p=1277655120",
+    "datePublished": "2010-06-28",
+    "description": "キャベツをたっぷり使ってヘルシー！ご飯もすすむし冷蔵庫も片づく１品♪(ﾟ▽^*)ﾉ⌒☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "豚肉の薄切り",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "┌玉葱のすりおろし",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "│生姜のすりおろし",
+            "quantity": "１片分"
+        },
+        {
+            "name": "│醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "└はちみつ（もしくは砂糖）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉とキャベツは一口大に切り、豚肉には小麦粉を薄くまぶす。",
+        "サラダ油を熱したフライパンに豚肉とキャベツを順に加え酒をふり、キャベツの量が減るまで焼き、仕上げにＡをからめ炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1170738",
+    "advice": "",
+    "history": "旅行前、キャベツが大量に余っていたので作りました！美味しい♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "酒",
+        "小麦粉",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1170738/100x141c/d0290abebab53b605f220fe39cff1975.jpg?u=54489&p=1277655120"
+}

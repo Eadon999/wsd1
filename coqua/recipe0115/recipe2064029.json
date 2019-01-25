@@ -1,0 +1,78 @@
+{
+    "name": "鶏すき焼き丼",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2064029/464x260/4bb1fd66fb23101cd96afa2f75171acd.jpg?u=4819316&p=1393730213",
+    "datePublished": "2012-12-22",
+    "description": "鶏肉を使ってすき焼きの味で丼、簡単で美味しいです",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "白菜",
+            "quantity": "１枚"
+        },
+        {
+            "name": "水菜",
+            "quantity": "１／４束"
+        },
+        {
+            "name": "豆腐(木綿でも絹でも)",
+            "quantity": "１／４丁"
+        },
+        {
+            "name": "えのき茸",
+            "quantity": "１／４束"
+        },
+        {
+            "name": "白滝",
+            "quantity": "１／４袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉、豆腐は一口大に切り、白菜はざく切り、水菜、白滝は食べやすい長さに切り、えのき茸はほぐす",
+        "フライパンに分量外のサラダ油を熱し、鶏もも肉を入れて表面が焼けてくると、砂糖、しょうゆ、酒を入れ、他の材料を全て入れる",
+        "沸騰してから３～５分、煮つめる",
+        "丼鉢にご飯をよそい、３を上に乗せ、真ん中をくぼませて卵を入れれば出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2064029",
+    "advice": "材料は少な目ですが、好みに応じて増やせば良いでしょう",
+    "history": "鶏肉を照り焼き丼にするとかなりいけます（レシピＩＤ：2031957）、それならすき焼き丼もよく似た味なのでいけるはず",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "すき焼き丼 鶏",
+        "鶏すき丼"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2064029/100x141c/a40e9b1d37cb34e04e88771bc649e4f3.jpg?u=4819316&p=1393730213"
+}

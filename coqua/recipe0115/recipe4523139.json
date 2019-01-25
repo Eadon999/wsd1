@@ -1,0 +1,56 @@
+{
+    "name": "♦新玉ねぎ&絹さやのお味噌汁♦",
+    "author": {
+        "@type": "Person",
+        "name": "☆熊八☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/4523139/464x260/21da6468c2bb42789f8b9b9ca9d935d3.jpg?u=4559708&p=1494738253",
+    "datePublished": "2017-05-14",
+    "description": "旬の組み合わせのお味噌汁です♬",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "絹さや",
+            "quantity": "10枚"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1と1/2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "新玉ねぎを薄切りにする。",
+        "絹さやは筋をとって水洗いする。",
+        "鍋に新玉ねぎと水を入れて火にかける。\n沸騰して目立つ灰汁があったら取って中火弱にする。",
+        "ほんだしを入れて絹さやを入れる。\n約2分煮る。",
+        "一旦火を消して味噌を溶く。\n弱火をつけて温めて出来上がり。\n※味噌の横の白いのは電気の光りです(笑)"
+    ],
+    "cookTime": null,
+    "recipe_id": "4523139",
+    "advice": "ほんだし・味噌は味見で加減して下さい(＾∀＾)",
+    "history": "旬の食材でお味噌汁を作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "絹さや",
+        "水",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4523139/100x141c/3e9cdffc73395a4ad0a6c16c2c927eda.jpg?u=4559708&p=1494738253"
+}

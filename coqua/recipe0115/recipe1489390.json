@@ -1,0 +1,60 @@
+{
+    "name": "簡単★やみつき！水菜とジャガイモのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "きゃな◎"
+    },
+    "image": "https://img.cpcdn.com/recipes/1489390/464x260/dcf8bdd70a48440ee9776210b1f080bd.jpg?u=1361974&p=1370178850",
+    "datePublished": "2011-07-06",
+    "description": "５分ｸｯｷﾝｸﾞ！短時間で一品増やせます(*^^*)",
+    "recipeYield": "4〜5",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中２"
+        },
+        {
+            "name": "水菜",
+            "quantity": "お好み"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大１"
+        },
+        {
+            "name": "粉末にんにく",
+            "quantity": "お好み"
+        },
+        {
+            "name": "鶏ガラ(顆粒)",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもを千切りにし､水菜はキレイに洗って､２ｾﾝﾁ幅に切る。",
+        "200〜300ccくらいの水を鍋に入れ沸騰させ、そこに千切りしたじゃがいもを１分茹でる。",
+        "②のじゃがいもを流水で洗い､冷えたらボウルに､ごま油･粉末にんにく･鶏ガラ･塩こしょう･を入れ､混ぜる。",
+        "③に仕上げに､水菜と白ごまを入れ絡めて出来上がり!!"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1489390",
+    "advice": "じゃがいもはｼｬｷｼｬｷを残す程度に茹でる",
+    "history": "畑でじゃがいもを沢山収穫してきたので簡単に調理してみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも ナムル"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1489390/100x141c/ab24ca995d56d7bf22188a4462cbe4f3.jpg?u=1361974&p=1370178850"
+}

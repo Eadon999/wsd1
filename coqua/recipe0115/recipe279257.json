@@ -1,0 +1,45 @@
+{
+    "name": "秋じゃなくても、塩こんぶで甘栗ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "やまうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/279257/464x260/44a96248c49cfb8244a07484b962477b.jpg?u=256204&p=1214213574",
+    "datePublished": "2006-09-06",
+    "description": "味付けは塩こんぶのみです。こちらの皆さんは料理上手なので、きっと生栗を使っているでしょうねー。　(；￣ー￣A",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "甘栗",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "適量"
+        },
+        {
+            "name": "米",
+            "quantity": "３合"
+        }
+    ],
+    "recipeInstructions": [
+        "お米をといで、３合の分量まで水を入れる。",
+        "甘栗・塩こんぶを投入し、炊くだけです。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "279257",
+    "advice": "味付けは塩こんぶのみなので、結構たくさん入れちゃいます。塩こんぶを入れたら軽くかき混ぜ味見をしてくださいね。",
+    "history": "甘栗だけの栗ごはんは何度か作ったことがあったのですが、最近マイブームの塩こんぶを入れてみたくて・・・。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "甘栗",
+        "塩こんぶ",
+        "米"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/279257/100x141c/5d1d5f957f51192ae75acf9ae3a84c82.jpg?u=256204&p=1214213574"
+}

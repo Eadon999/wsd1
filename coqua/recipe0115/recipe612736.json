@@ -1,0 +1,74 @@
+{
+    "name": "タコの水菜とわかめのサラダ♪わさび風味♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/612736/464x260/1b46162a97b2cfa7debdbc4dad6835dd.jpg?u=921598&p=1441293251",
+    "datePublished": "2008-07-16",
+    "description": "ほんのりわさびが香る手作りドレッシングに、タコと野菜のシャキシャキ感が堪らない！わかめでミネラルもたっぷりですよぉ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "蒸したこ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "水菜",
+            "quantity": "3株"
+        },
+        {
+            "name": "生わかめ",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "1パック"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●わさび（市販チューブ）",
+            "quantity": "5ｃｍ"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "●こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに、●の調味料を入れ、混ぜ合わせておく。",
+        "水菜は3ｃｍ幅カットに、生わかめは、さっと湯通しして2ｃｍ幅に切っておく。",
+        "1に、一口大に切ったタコ・水菜・わかめ・貝割れ大根を入れてよく和えたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "612736",
+    "advice": "わさびはお好みで加減して下さいねぇ♪ 水菜の代わりに、みつ葉で作っても美味しかったです！",
+    "history": "お店で出た御通しをアレンジして作りましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/魚介のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蒸したこ",
+        "水菜",
+        "生わかめ",
+        "貝割れ大根"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/612736/100x141c/cd25b9ba6529b66757f25aeb7bfcc9d5.jpg?u=921598&p=1441293251"
+}

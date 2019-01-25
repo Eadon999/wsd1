@@ -1,0 +1,63 @@
+{
+    "name": "【農家のレシピ】大根のカレースープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1273241/464x260/b63a567fbf8633be671d5c07ccc304ff.jpg?u=2513693&p=1288601096",
+    "datePublished": "2010-11-05",
+    "description": "私が住んでいる村ではカレーに大根を入れるんです。カレーと大根の相性は抜群♪なのでこのカレーコンソメスープも大根入りです☆",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "青ネギ（小口切り）",
+            "quantity": "適量"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "固形2個（5.3ｇ×2個）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "大根",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "クミンパウダー",
+            "quantity": "少々（なくてもOK）"
+        }
+    ],
+    "recipeInstructions": [
+        "大根とにんじんは5ミリ幅の細切りにします",
+        "フライパン（鍋）にサラダ油を熱し【A】を入れ中火で1分程度炒めます。",
+        "水を入れ沸騰したらコンソメを入れます。野菜が柔らかくなるまで煮て、最後にネギを入れて出来上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "1273241",
+    "advice": "ネギを入れた後は煮ないでくださいね。",
+    "history": "わが村ではカレーに大根を入れるんです。大根とカレーの相性は抜群です。なのでカレーコンソメにも大根を入れています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレースープ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1273241/100x141c/be3f88c689affe21e27f78816511849a.jpg?u=2513693&p=1288601096"
+}

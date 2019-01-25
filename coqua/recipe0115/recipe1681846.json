@@ -1,0 +1,85 @@
+{
+    "name": "オッサンのゴッタ煮",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/1681846/464x260/bffe6a83068fd5e64e393aa4a7a12cae.jpg?u=3323767&p=1327220890",
+    "datePublished": "2012-01-22",
+    "description": "切って焼いて煮て味付けして食べるだけ。男の適当料理です。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ニンニク（チューブ）",
+            "quantity": "１センチ"
+        },
+        {
+            "name": "豚肉（コマ）",
+            "quantity": "８０～１００グラム"
+        },
+        {
+            "name": "大根",
+            "quantity": "２センチくらい"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "白菜",
+            "quantity": "２枚"
+        },
+        {
+            "name": "★水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "★麺つゆ",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "★酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★しょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5～２"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は、食べやすい大きさに切っておきます。まぁ、適当な大きさで。",
+        "鍋にゴマ油とニンニクを入れて、軽く炒めます。",
+        "鍋に豚肉と大根を入れ、軽く炒めます。",
+        "鍋に★を全部入れて、野菜を入れて、グツグツ煮ます。",
+        "沸騰したら弱火にして、１５～２０分程煮ます。",
+        "火を止め、味噌を溶かしたら、器に盛り付けて出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1681846",
+    "advice": "コツは、食材の固い順番に煮るとか、難しいコトを考えないコトです。",
+    "history": "冷蔵庫にあるモノを色々と煮てみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴマ油",
+        "ニンニク",
+        "豚肉",
+        "大根"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/1681846/100x141c/3990b6188c91395f456d7c48a3cbf9e5.jpg?u=3323767&p=1327220890"
+}

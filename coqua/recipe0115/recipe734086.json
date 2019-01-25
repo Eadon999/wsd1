@@ -1,0 +1,60 @@
+{
+    "name": "ほうれん草のゆず海苔和え",
+    "author": {
+        "@type": "Person",
+        "name": "1630412"
+    },
+    "image": "https://img.cpcdn.com/recipes/734086/464x260/179bc89c7a3e5e82b3a983958e04089c.jpg?u=838864&p=1234488779",
+    "datePublished": "2009-02-17",
+    "description": "海苔の風味とピリっとしたゆずこしょうの風味をほうれん草に和えてみました。 ほうれん草のおひたしに飽きたらぜひ♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1枚"
+        },
+        {
+            "name": "●めんつゆ（2倍濃縮タイプ）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ゆずこしょう",
+            "quantity": "小さじ1/3"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて3～4㎝に切る。",
+        "●の調味料を入れて海苔は細かくちぎって混ぜ合わせる。\r\n",
+        "電子レンジで30秒加熱。（700wの場合）海苔がしなっとなります。",
+        "ゆずこしょうとほうれん草をよく混ぜ合わせて出来上がり♪",
+        "２１・２・２８\r\n話題入りさせて頂きました♪\r\nありがとうございます☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "734086",
+    "advice": "ゆずこしょうの量はお好みで♪",
+    "history": "ほうれん草のおひたしに飽きたので、ちょっと変わりおひたしに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "海苔",
+        "めんつゆ",
+        "水"
+    ],
+    "tsukurepo_count": "211",
+    "thumbnail": "https://img.cpcdn.com/recipes/734086/100x141c/2c7082d245c8fc5b71dc04f68f91cbd1.jpg?u=838864&p=1234488779"
+}

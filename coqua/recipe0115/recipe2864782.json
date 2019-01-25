@@ -1,0 +1,62 @@
+{
+    "name": "作り置き♡キャベツのごまレモン",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/2864782/464x260/d10477ae880cb084abba8a12f36c46c2.jpg?u=230354&p=1467071431",
+    "datePublished": "2016-06-28",
+    "description": "さっぱりむしゃむしゃ。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4玉"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは太めの千切り、にんじんは千切りにする。",
+        "①を耐熱皿に入れ、600wで3分加熱。\nあら熱がとれたら絞る。",
+        "ごま油～白ゴマまでをよく混ぜて、②と和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2864782",
+    "advice": "",
+    "history": "作り置きに。端休めにちょうどいい。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "にんじん",
+        "ごま油",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2864782/100x141c/a03cdd316d54d3c6bbb836fd5b108e4b.jpg?u=230354&p=1467071431"
+}

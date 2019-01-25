@@ -1,0 +1,76 @@
+{
+    "name": "鶏むね肉で！揚げ焼き甘だれ風♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2472968/464x260/22000a4c2a21ac189af242ac6f99d8a4.jpg?u=603745&p=1447764107",
+    "datePublished": "2014-01-23",
+    "description": "鶏むね肉でも柔らかく美味しく♡安くて簡単なので夕食にもお弁当にも!!",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏むね肉の皮を取り、１cmくらいの幅に切って料理酒を掛けて１０分ほど置きます。",
+        "小麦粉と片栗粉を加えます。",
+        "全体に軽く衣を付けます。",
+        "油を敷いたフライパンで焼いていきます。",
+        "しっかりと火を通し、両面焼き色が付くように焼きます。",
+        "焼いている間に★の調味料を混ぜ合わせます。",
+        "鶏肉に火が通ったら合わせた調味料とごまを加えます。",
+        "全体にしっかりと絡めます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2472968",
+    "advice": "",
+    "history": "安いむね肉を使って、夕食に作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": [
+        "甘だれ 2位"
+    ],
+    "related_keywords": [
+        "鶏肉 甘だれ",
+        "鶏むね肉 甘だれ",
+        "甘だれ"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2472968/100x141c/c4a55cfeef055c9c724e3cf414104f1a.jpg?u=603745&p=1447764107"
+}

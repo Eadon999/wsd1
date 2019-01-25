@@ -1,0 +1,57 @@
+{
+    "name": "切干し大根とツナのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あいわい。さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2237090/464x260/4e1977ea2557041260c747d828c926ce.jpg?u=5084550&p=1369629910",
+    "datePublished": "2013-05-27",
+    "description": "電気もガスも使わない！超簡単で美味しい、食感のあるサラダです。",
+    "recipeYield": "3~4人分",
+    "recipeIngredient": [
+        {
+            "name": "切干し大根",
+            "quantity": "30g"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "A焼肉のたれ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "Aマヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "A乾燥パセリ",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "切干し大根はハサミを使用し、ザックリと切り流水でサッと洗い流し、たっぷりの水で戻しておく。\n",
+        "ボールにAの材料をすべて入れ混ぜ合わせる。\n",
+        "（２）に手でよく絞った（１）と、油を切ったツナを加えよく混ぜ合わせ、器に盛り完成です。\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2237090",
+    "advice": "",
+    "history": "切干し大根があったのでサラダに。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根",
+        "その他/限られた食材で工夫/ガスを使わず簡単料理"
+    ],
+    "rankings": [
+        "切り干し大根サラダ 10位"
+    ],
+    "related_keywords": [
+        "切り干し大根 ツナ サラダ",
+        "切り干し大根 サラダ",
+        "切り干し大根 ツナ",
+        "切り干し大根"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/2237090/100x141c/d3e9ee8e39192da9913fa5688f682326.jpg?u=5084550&p=1369629910"
+}

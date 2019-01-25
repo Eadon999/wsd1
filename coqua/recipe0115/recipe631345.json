@@ -1,0 +1,45 @@
+{
+    "name": "夏のぶり塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "HappyMd"
+    },
+    "image": "https://img.cpcdn.com/recipes/631345/464x260/e4c221a31a8a62728b222b2a2ccc0359.jpg?u=977677&p=1235880758",
+    "datePublished": "2008-08-22",
+    "description": "夏のブリは塩焼きが一番。大根おろしとレモンと醤油で食べれば、ばっちり夏メニュー☆　簡単でさっぱり美味しい～。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ブリ切り身",
+            "quantity": "ふた切れ"
+        },
+        {
+            "name": "大根",
+            "quantity": "４ｃｍくらい"
+        },
+        {
+            "name": "レモン",
+            "quantity": "ふたきれ"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリは海水くらいの辛目の塩水に10分つける。",
+        "グリルで美味しそうな色がつくまで両面を焼きましょう。",
+        "大根おろしとレモンをそえて召し上がれ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "631345",
+    "advice": "作り方を書くまでもないような簡単メニュー！ 腹身のほうが油がのってて塩焼きに向くのですが、よりさっぱりと食べたい人は背中側で。（写真は背中側。）献立はこちら～♪http://cookpad.com/diary/996162",
+    "history": "ぶり大好き！でもなんだか冬の魚のイメージだし、ちょっと夏バテ気味でコッテリ照焼きはつらい・・。そんなときは塩焼きがおすすめ♪　塩を振るより塩水に10分漬ける方がまんべんなくやさしい塩味がつく、と友人に聞いてやってみました。 ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブリ切り身",
+        "大根",
+        "レモン"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/631345/100x141c/262fd8d17dfbf086db1ae92dec2c25d1.jpg?u=977677&p=1235880758"
+}

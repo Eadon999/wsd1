@@ -1,0 +1,67 @@
+{
+    "name": "新玉ねぎの梅おかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "cureo"
+    },
+    "image": "https://img.cpcdn.com/recipes/783626/464x260/b67a17c4a3a442dba4198e7e0dd4f911.jpg?u=63563&p=1270876207",
+    "datePublished": "2009-04-14",
+    "description": "新玉ねぎをさっぱりとした梅ドレッシングで和えました。いくらでも食べられそう！",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "中1個（200g位）"
+        },
+        {
+            "name": "●梅干",
+            "quantity": "2個"
+        },
+        {
+            "name": "●酢（私は米酢使用）",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●薄口醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々（好みで調節）"
+        },
+        {
+            "name": "●オリーブオイル（サラダ油）",
+            "quantity": "大さじ1弱"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "1パック（5g）"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは薄くスライスして水に10分程さらし、水気をよく切っておく。梅干は種を取り除いて包丁で粗みじん切りにする。",
+        "ボウルに●印の調味料を合わせてドレッシングを作り、そこへ水気を切った玉ねぎとかつお節を加えてよく混ぜる。",
+        "そのまま10～15分程置いて味を馴染ませてからお召し上がり下さい♪",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "783626",
+    "advice": "玉ねぎは出来るだけ薄くスライスすると美味しいです！",
+    "history": "新玉ねぎでさっぱりとしたおかずを作りたくて。オレンジページにあったレシピを自分好みにアレンジ。覚書です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "梅干",
+        "酢",
+        "薄口醤油"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/783626/100x141c/89716b9f3d936ef8a0a464ea44e2f924.jpg?u=63563&p=1270876207"
+}

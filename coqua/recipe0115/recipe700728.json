@@ -1,0 +1,63 @@
+{
+    "name": "ほっこりかぼちゃのマヨ醤油チャーハン♪",
+    "author": {
+        "@type": "Person",
+        "name": "CoffeeCoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/700728/464x260/195cc4aaa567da0460f7db61e95288ea.jpg?u=276503&p=1258892797",
+    "datePublished": "2008-12-17",
+    "description": "南瓜をチンして炒めるだけでカフェででてくるようなオシャレで美味しい炒飯に♪マヨいりでコクもあって老若男女に喜ばれます＾＾",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗１杯"
+        },
+        {
+            "name": "南瓜",
+            "quantity": "５０ｇほど"
+        },
+        {
+            "name": "ハム（ウインナーなど）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "葱（長ネギでも）",
+            "quantity": "１本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１～"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "南瓜はチンして種はとって小さくきる。ハムも小さく、葱は小口きり。",
+        "フライパンに油を熱しハムを炒めご飯をいれ塩コショウ、炒めたら南瓜をいれ崩れないようサッと全体をいためマヨと醤油を投入。",
+        "全体がパラっとしたら葱をいれあわせ火を消す。",
+        "今回はかぼちゃの皮も一緒にいためてみました＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "700728",
+    "advice": "１での南瓜のチン具合にもよりますが２であわせるとき崩れないように注意！！（５００ｗで３～４分でした）",
+    "history": "かぼちゃとチャーハンって以外にないな～と思って考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "南瓜",
+        "ハム",
+        "葱"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/700728/100x141c/810be4115c7a0ff2492ea2093f84d49b.jpg?u=276503&p=1258892797"
+}

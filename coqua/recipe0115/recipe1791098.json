@@ -1,0 +1,60 @@
+{
+    "name": "菜の花と豚肉のマヨネーズ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "まゆみ母ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1791098/464x260/013bd66286db9a86d4f78b02c93bbedd.jpg?u=4051798&p=1393145982",
+    "datePublished": "2012-04-25",
+    "description": "2013/06/05話題入り感謝☆ごま油の香りとマヨネーズがマッチしてグー☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "豚肉(バラ)",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1と1/２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯を沸かし菜の花を茹でる。(硬めに)\n",
+        "豚肉は一口大に切る。",
+        "熱したフライパンにごま油を入れ豚肉を炒める。(中火強)",
+        "豚肉の色が変わったら菜の花を入れさらに炒める。(1分位)",
+        "塩胡椒をする。\nマヨネーズを入れ混ぜる。(中火弱) \n醤油を入れすぐに火を止める。",
+        "軽くひとまぜしたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1791098",
+    "advice": "調味料を入れたら長く炒め続けない事です。",
+    "history": "残り菜の花サラダを炒めたら美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花 豚肉",
+        "菜の花",
+        "菜の花 炒めもの"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1791098/100x141c/e19b435f6a239e9a478bb11a3d0edd7d.jpg?u=4051798&p=1393145982"
+}

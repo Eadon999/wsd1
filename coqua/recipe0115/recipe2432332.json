@@ -1,0 +1,53 @@
+{
+    "name": "塩麹で作る☆れんこんのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2432332/464x260/266d0df344e8b526f72865017301ea33.jpg?u=1690437&p=1386726824",
+    "datePublished": "2013-12-14",
+    "description": "2015.10.28話題入りに感謝♪薄切りだからすぐ出来る。塩麹と砂糖、黒胡椒が絶妙なきんぴら。おつまみ・お弁当にも♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "50g"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩麹（レシピＩＤ1685749）",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗引き黒胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは皮をむきごく薄いイチョウ切りにする。時間があれば5分ほど水にさらす。",
+        "フライパンを温め油を入れ水気を切った＜1＞を入れたら中火で2分炒める。",
+        "火を弱め塩麹・砂糖・黒胡椒を入れ手早く炒め合わせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2432332",
+    "advice": "塩麹を入れた後は焦げやすいので手早く炒め合わせて火を切る。",
+    "history": "お弁当のおかずに残り物の蓮根を使って作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん 塩麹",
+        "れんこん 塩きんぴら"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2432332/100x141c/407d7c7c7cc8a6ac28b83c3d26bbb8e8.jpg?u=1690437&p=1386726824"
+}

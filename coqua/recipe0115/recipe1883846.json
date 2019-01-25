@@ -1,0 +1,60 @@
+{
+    "name": "豆腐とトマトのヘルシーカプレーゼ‼︎",
+    "author": {
+        "@type": "Person",
+        "name": "☆★ゆん☆★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1883846/464x260/92e7aa056cfac4abfc5b3051b27248d7.jpg?u=3807328&p=1401447263",
+    "datePublished": "2012-07-14",
+    "description": "モッツァレラチーズを豆腐で代用したヘルシーカプレーゼ‼︎水切り豆腐はチーズ級の味わいだから、ヘルシーでも満足な一品です♡",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "２００g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "バジル",
+            "quantity": "飾り用"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は半日くらい水を切っておく。",
+        "スライストマトと、薄切りした水切り豆腐を交互に並べる。",
+        "オリーブオイルを回しかけ、塩、コショウをふる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1883846",
+    "advice": "個人的に豆腐は、木綿がオススメ。",
+    "history": "トマトとモッツァレラのサラダを、豆腐を使って節約ヘルシーレシピに((o´ω`o)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/サラダ/豆腐のサラダ",
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト 豆腐 カプレーゼ",
+        "豆腐 トマト",
+        "カプレーゼ",
+        "カプレーゼ 豆腐"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1883846/100x141c/cbe6cb7e6aa1fd2d9d23771b442a229e.jpg?u=3807328&p=1401447263"
+}

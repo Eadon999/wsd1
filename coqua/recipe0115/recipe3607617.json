@@ -1,0 +1,83 @@
+{
+    "name": "糖質制限◆低糖質すき焼き",
+    "author": {
+        "@type": "Person",
+        "name": "なむい"
+    },
+    "image": "https://img.cpcdn.com/recipes/3607617/464x260/4389048f6834d24f88fa7bdc642367a8.jpg?u=4230111&p=1452087373",
+    "datePublished": "2016-01-06",
+    "description": "糖質制限向けに、主食なしでそのまま食べても濃すぎない味付けです。溶き卵につける場合は卵に醤油を足してみて。",
+    "recipeYield": "3~4人分",
+    "recipeIngredient": [
+        {
+            "name": "醤油",
+            "quantity": "100g"
+        },
+        {
+            "name": "料理酒(あれば月桂冠糖質ゼロなど)",
+            "quantity": "50g"
+        },
+        {
+            "name": "水",
+            "quantity": "600g"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "7g"
+        },
+        {
+            "name": "甘味料",
+            "quantity": "砂糖の甘さに換算して50~60g"
+        },
+        {
+            "name": "牛or豚薄切り肉",
+            "quantity": "350g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "白滝",
+            "quantity": "1袋"
+        },
+        {
+            "name": "下仁田ネギ",
+            "quantity": "2~4本"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "春菊か水菜",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "きのこ類",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を小鍋に入れ、ひと煮立ちさせ甘味料を溶かしたら割り下の完成！",
+        "すき焼き鍋に牛脂を入れ、肉を炒める",
+        "肉の色が変わってきたら他の具材を入れて、ヒタヒタになるまで割り下を入れ、蓋をして数分煮る",
+        "野菜に火が通ったらすき焼きの完成！白米なしでも充分美味しいです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3607617",
+    "advice": "野菜がとても沢山食べれるので、どんどん追加していって下さい。",
+    "history": "糖質制限用に単品で食べれるよう、通常のすき焼きよりやや薄味に。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "糖質制限 すき焼き",
+        "下仁田ネギ すき焼き",
+        "糖質 すき焼き",
+        "糖尿病 すきやき"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3607617/100x141c/60a005db4633155af8cbe336f3b960d1.jpg?u=4230111&p=1452087373"
+}

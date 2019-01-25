@@ -1,0 +1,55 @@
+{
+    "name": "ツナのワサマヨおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ありかん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1758888/464x260/fe32ae5cd0033a6e48d0bd144edb3ace.jpg?u=3140280&p=1333089424",
+    "datePublished": "2012-03-30",
+    "description": "具を混ぜて握るだけなので簡単！この組み合わせ美味しいよ♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "1膳"
+        },
+        {
+            "name": "★ツナ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★わさび",
+            "quantity": "適量"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "★を混ぜ合わせ\n温かいご飯に入れて\n握るだけ\n海苔を巻いて完成",
+        "わさびの量はお好みで加減してください\n私はわさびのツーンとするのが好きなのでチューブのわさび2㎝位入れました",
+        "2012/5/7\n話題入りしました❤\nありがとうございます♫\n",
+        "2013/3/26\nCOOKPADニュースに取り上げて頂きました\nありがとうございます✿\n行楽に作ってください(笑)"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1758888",
+    "advice": "ツナは油切りして下さいマヨがごはんを柔らかくするので海苔で巻いて食べるのが◎",
+    "history": "わさびとマヨネーズの組み合わせにハマり、おにぎりにしたら美味しいと思ったので",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "ツナ",
+        "マヨネーズ",
+        "わさび"
+    ],
+    "tsukurepo_count": "108",
+    "thumbnail": "https://img.cpcdn.com/recipes/1758888/100x141c/ca69f57fc67a13341789451c165cadee.jpg?u=3140280&p=1333089424"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "にんじんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "らどる"
+    },
+    "image": "https://img.cpcdn.com/recipes/298148/464x260/3cb0810af9cc25cbcd88fb16ae1ba79d.jpg?u=320107&p=1214213991",
+    "datePublished": "2006-11-07",
+    "description": "ねぎとごま油の香り豊かな、食べ始めたら止まらない！大好きな人参サラダです♬つくれぽ２００件突破！皆さんありがとう！！！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "１/３束"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１／４"
+        }
+    ],
+    "recipeInstructions": [
+        "人参を千切りにする。（私はスライサーでしています）\r\n青ねぎを小口切りにする。",
+        "人参にごま油を回しかけ、手で混ぜ込んで馴染ませる。\r\n",
+        "酢・塩を回しかけ、手でもみこむ。ねぎを和える。冷蔵庫で１時間以上、味を馴染ませる。\r\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "298148",
+    "advice": "先に油を馴染ませることで、水気が出なくなります。しっかり味を馴染ませてからお召し上がりください。",
+    "history": "ごま油とねぎのコンビネーションが好きなのです。そこに人参の香りも加わって…♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参サラダ"
+    ],
+    "tsukurepo_count": "298",
+    "thumbnail": "https://img.cpcdn.com/recipes/298148/100x141c/e80f626d06c55396fc60bb62196b3878.jpg?u=320107&p=1214213991"
+}

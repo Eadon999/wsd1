@@ -1,0 +1,49 @@
+{
+    "name": "インゲンのおかか醤油マヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4022232/464x260/89d399328a47b6e73b3b18a39a19234d.jpg?u=10053239&p=1471222056",
+    "datePublished": "2016-08-15",
+    "description": "茹でたインゲンを醤油とマヨネーズとおかかで和えただけ！マヨだけよりも味に深みが出ていて後引く美味しさです。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "インゲン",
+            "quantity": "２００g"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "マヨネーズ（好みの物）",
+            "quantity": "大匙３～好みの量"
+        },
+        {
+            "name": "おかか（小袋）",
+            "quantity": "２袋"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは好みの固さに茹で食べ易く切る。",
+        "インゲンが冷めたら、醤油、マヨネーズ、おかかで和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4022232",
+    "advice": "インゲンでなくても、色々な豆で（例えばモロッコインゲンやシカクマメなど）で応用して下さい。冷凍でもOKですヨ。",
+    "history": "インゲンは茹でて、おかか醤油かごま和え、マヨネーズを付けて食べていましたが、醤油とマヨネーズとおかかで和えたら美味しいそうと思い作りました。コクがあって美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "インゲン",
+        "濃口醤油",
+        "マヨネーズ",
+        "おかか"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4022232/100x141c/ba05655d24b0f3bde08b5fb2b9b55916.jpg?u=10053239&p=1471222056"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "赤魚の竜田焼き",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/3297173/464x260/b5c99b9a6a0bba1e9ded3b1c29ef8898.jpg?u=798237&p=1436958216",
+    "datePublished": "2015-07-15",
+    "description": "揚げずにカリッと香ばしく、身はジューシー。生姜醤油に漬け込んで焼くので味が浸みておいしいです♪　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "赤魚（切り身）",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "◇おろし生姜",
+            "quantity": "1片分"
+        },
+        {
+            "name": "◇酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◇しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "赤魚は洗って、水気を切る。",
+        "保存袋の中に◇の調味料を入れ、20分程漬け置く。",
+        "②の水気を切り、片栗粉をまぶす。",
+        "フライパンに油を熱し、赤魚の皮の方から焼く。",
+        "皮の方にキレイな焼き色が付いたら、裏返して中まで火がとおるまで焼く。",
+        "お皿にもりつけてできあがり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3297173",
+    "advice": "◇裏返す時に、フライ返しなどを使うと身が崩れにくいです。",
+    "history": "竜田揚げは油を多く使うので、普通に焼いてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": [
+        "赤魚 8位"
+    ],
+    "related_keywords": [
+        "赤魚 焼き",
+        "赤魚",
+        "赤魚 焼き フライパン",
+        "竜田焼き"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/3297173/100x141c/70c9360bca416378c396738cae9cbe2b.jpg?u=798237&p=1436958216"
+}

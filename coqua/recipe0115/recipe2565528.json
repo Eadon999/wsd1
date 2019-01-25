@@ -1,0 +1,77 @@
+{
+    "name": "白菜とベーコンのマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "来夢☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2565528/464x260/273c8fbf0b2ed81c4c62845a527a8bc0.jpg?u=7766960&p=1406022089",
+    "datePublished": "2014-03-30",
+    "description": "油の代わりにマヨネーズで炒めてコクUP！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4株"
+        },
+        {
+            "name": "ピーマン(中)",
+            "quantity": "2個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "100g"
+        },
+        {
+            "name": "竹輪",
+            "quantity": "50g（1本）"
+        },
+        {
+            "name": "マヨネーズ（炒め用）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○味噌",
+            "quantity": "大さじ1～1.5"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○中華だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜はざく切り・ピーマンは乱切り・ベーコンは2～3㎝幅に切る。しめじは小房にする。竹輪は縦二等分にし、薄切りする。",
+        "○の調味料を混ぜ合わせて準備する。",
+        "フライパンにマヨネーズを入れ加熱する。ベーコン・白菜の葉元・ピーマン・竹輪・しめじ・白菜の葉先の順に塩コショウし炒める。",
+        "具材に火が通ったら○を加え煮からめる。仕上げにブラックペッパーをふりかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2565528",
+    "advice": "マヨネーズで炒める事でコクを出します。",
+    "history": "マヨラー料理です。野菜だけではさみしいので竹輪を入れてボリュームUPしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ピーマン ベーコン",
+        "白菜 ベーコン 炒め"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2565528/100x141c/b9cf44604f110b4d0949364abffb9a72.jpg?u=7766960&p=1406022089"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "白菜とちくわのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/2436651/464x260/b1a54ccefabdeb34f0dfd4018a8b5cbc.jpg?u=1397778&p=1387173888",
+    "datePublished": "2013-12-16",
+    "description": "冬になると大好きだけどどうしても使い切れない白菜の消費に♪ほっこり温まるお味噌汁です♫2013.1229話題入り感謝です",
+    "recipeYield": "３～4人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "600cc"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5～2（お好みで）"
+        },
+        {
+            "name": "白菜",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜、ちくわともに食べやすい大きさに切る。",
+        "だし汁が沸騰したら1を入れて白菜が好みの固さになるまで煮る。",
+        "3に味噌を入れて煮溶かしたら出来上がり。",
+        "2015.0128節約献立に掲載して頂きました。\n50kcal/15円/10分"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2436651",
+    "advice": "簡単すぎて特にありません。優しい味なのでもっと味にアクセントをつけたい方は、すりおろし生姜を入れたり、七味をかけてもOKです。",
+    "history": "白菜大好きなのですが、買うといつも少し残ってしまいがち。冷蔵庫に残っていたちくわと合わせてお味噌汁に入れてみたら美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ 味噌汁",
+        "白菜 ちくわ",
+        "冬 味噌汁"
+    ],
+    "tsukurepo_count": "175",
+    "thumbnail": "https://img.cpcdn.com/recipes/2436651/100x141c/2f564430e52ef9191e0e3af54106f2fb.jpg?u=1397778&p=1387173888"
+}

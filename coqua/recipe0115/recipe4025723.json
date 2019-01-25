@@ -1,0 +1,80 @@
+{
+    "name": "５分でふわとろ卵のつゆだくそぼろ丼",
+    "author": {
+        "@type": "Person",
+        "name": "りんちゃんぱば"
+    },
+    "image": "https://img.cpcdn.com/recipes/4025723/464x260/30113d98f99ac11ac3500ab392df3224.jpg?u=14931080&p=1471431568",
+    "datePublished": "2016-08-17",
+    "description": "残り物のひき肉と卵しかない！そんな時に、いつものそぼろ丼をアレンジ！一味違った、つゆだくトロトロの満足どんぶり♪",
+    "recipeYield": "３人前",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "６個"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２合"
+        },
+        {
+            "name": "☆水",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "３０ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "４０ｃｃ"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "３０ｃｃ"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆出汁の素",
+            "quantity": "２ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "☆をすべて合わせ合わせ調味料を作ります",
+        "卵を割り塩と砂糖を適量加えよくかき混ぜまておきます。",
+        "フライパンでひき肉を炒め火が通ったら合わせ調味料を全て入れて中火で約１分間煮込みます。",
+        "よく熱したフライパンで卵２個分を入れ、素早く菜箸でかき混ぜ、半分ぐらい火が通ったら日から外し余熱で火を押します",
+        "ご飯をよそい、卵をのせたら３で作ったそぼろの汁をかけて完成です♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4025723",
+    "advice": "卵は完全に固まる前に日から外して余熱で火を通すととふわとろの食感になります。動画でわかりやすく解説してます♪https://www.youtube.com/watch?v=FVANtJhs9Pc",
+    "history": "いつものそぼろ丼に飽きてきたので考えました。動画はこちらです。https://www.youtube.com/watch?v=FVANtJhs9Pc",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵しかない",
+        "そぼろ丼 つゆだく",
+        "そぼろ丼 アレンジ",
+        "余ったひき肉"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/4025723/100x141c/f37e514b7caf4e9333e4b096ca358d30.jpg?u=14931080&p=1471431568"
+}

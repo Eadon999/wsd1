@@ -1,0 +1,68 @@
+{
+    "name": "オイルサーディンのスパゲッティ",
+    "author": {
+        "@type": "Person",
+        "name": "Babette29"
+    },
+    "image": "https://img.cpcdn.com/recipes/1395040/464x260/e034a971879a3031319289cc55989bce.jpg?u=2894007&p=1301318338",
+    "datePublished": "2011-03-28",
+    "description": "大好きないわしと、ねぎをたっぷり！和風テイストのパスタです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "スパゲッティ",
+            "quantity": "３２０ｇ"
+        },
+        {
+            "name": "オイルサーディン",
+            "quantity": "１缶"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適宜"
+        },
+        {
+            "name": "にんにく (スライス)",
+            "quantity": "１片"
+        },
+        {
+            "name": "鷹の爪 (種を除きちぎる)",
+            "quantity": "1本"
+        },
+        {
+            "name": "万能ネギ (小口切り)",
+            "quantity": "１束"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "オイルサーディンは、油を切っておきます。",
+        "オリーブオイル、にんにく、鷹の爪を熱し、\nオイルサーディンを香ばしく焼きます。",
+        "スパゲッティを表示より１分短く茹でます。",
+        "しょうゆをジュッとさせ、ねぎ、茹で汁少々、スパゲッティを加え、充分にからめます。",
+        "塩、こしょうで味を調えて、出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1395040",
+    "advice": "オイルサーディンの油をよく切ります。",
+    "history": "缶詰のいわしを使って、スパゲッティを作りました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スパゲッティ",
+        "オイルサーディン",
+        "オリーブオイル",
+        "にんにく"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1395040/100x141c/faf2437dbb23befed8b37d563f6fb22d.jpg?u=2894007&p=1301318338"
+}

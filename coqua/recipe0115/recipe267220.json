@@ -1,0 +1,54 @@
+{
+    "name": "アボカドと長いものわさび醤油和え",
+    "author": {
+        "@type": "Person",
+        "name": "くずぴー"
+    },
+    "image": "https://img.cpcdn.com/recipes/267220/464x260/187fab1dab8dfca97e6cdc3b5a7849bb.jpg?u=256385&p=1455776631",
+    "datePublished": "2006-07-16",
+    "description": "アボカドと長いものわさび醤油和えです♪それぞれの食感が楽しい和え物です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "長いも",
+            "quantity": "100グラム"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは１～２センチくらいの角切りにして、レモン汁をかける。\n皮をむいた長いももアボカドと同じくらいの角切りにする。",
+        "醤油にわさびをとき、アボカドと長いもを加え、よく和えたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "267220",
+    "advice": "アボカドの変色を防ぐためレモン汁をかけていますが、なくても大丈夫です。",
+    "history": "アボカドも長いももわさび醤油で食べるのが好きなので合わせてみました。2016年２月レシピ変更しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "長いも",
+        "醤油",
+        "わさび"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/267220/100x141c/fc401518d20d775291842c495d691096.jpg?u=256385&p=1455776631"
+}

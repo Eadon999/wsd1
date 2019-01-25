@@ -1,0 +1,61 @@
+{
+    "name": "金目鯛の煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2343046/464x260/3eae451b047e11bcfc8e1460eabeec9b.jpg?u=3671213&p=1379032937",
+    "datePublished": "2013-09-13",
+    "description": "ご飯がすすむ☆お魚の煮付け～♪もちろんおつまみにもｗ(∈＾∇゜)ｷﾗｯ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "金目鯛(大き目)",
+            "quantity": "１匹"
+        },
+        {
+            "name": "★生姜(スライス)",
+            "quantity": "１枚"
+        },
+        {
+            "name": "★酒",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "金目鯛は内臓・鱗・エラを取り、十字に切り目を入れておく。",
+        "フライパンに★を入れ煮立たせたら、金目鯛を入れて、弱火で１０～１２分くらい煮ていきます。(落とし蓋をしながら。３の図）",
+        "アルミホイルで落とし蓋をします。",
+        "途中、何度か煮汁をかけながら煮込んだら出来上がり～♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2343046",
+    "advice": "ひっくり返さず上から煮汁を♪アルミホイルの落とし蓋には穴を開けてます☆カレイなどの煮物にも(＾ｖ＾)",
+    "history": "大きな金目鯛を頂いたので～♪(＾ｖ＾)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鯛"
+    ],
+    "rankings": [
+        "金目鯛 9位",
+        "キンメの煮付け 7位",
+        "金目鯛の煮付け 7位"
+    ],
+    "related_keywords": [
+        "金目鯛",
+        "金目鯛の煮付け"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2343046/100x141c/b37a6bc440ef7127ff175c297cc34e0c.jpg?u=3671213&p=1379032937"
+}

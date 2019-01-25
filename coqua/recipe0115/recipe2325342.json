@@ -1,0 +1,51 @@
+{
+    "name": "簡単！たっぷりツナキャベツ☆オリーブ風味",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2325342/464x260/dad7abf10db48acacc5629797987c58d.jpg?u=4376699&p=1536472894",
+    "datePublished": "2013-08-26",
+    "description": "つくれぽ100感謝！ヘルシーダイエットレシピ！胃腸改善にもオススメ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ(1/4個)",
+            "quantity": "200g"
+        },
+        {
+            "name": "ツナ缶(1缶)",
+            "quantity": "70g"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切りにしてツナは油を切って鰹節、醤油、オリーブオイルを掛けて混ぜるだけ"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2325342",
+    "advice": "キャベツ、調味料はお好みで調整してくださいキャベツたっぷり＋ツナ缶を汁ごと＋醤油、鰹節でもＯＫ　災害時には火も使わずビタミン豊富なこれを主食にすれば元気出ます",
+    "history": "お袋の味にツナをプラス基本のツナ無しバージョン  ID:1925951",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": [
+        "オリーブ 5位"
+    ],
+    "related_keywords": [
+        "キャベツ ツナ"
+    ],
+    "tsukurepo_count": "113",
+    "thumbnail": "https://img.cpcdn.com/recipes/2325342/100x141c/2087c85021734c61de58cdebe73ab8bf.jpg?u=4376699&p=1536472894"
+}

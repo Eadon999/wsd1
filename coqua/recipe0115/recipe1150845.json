@@ -1,0 +1,44 @@
+{
+    "name": "きゅうりとかにかまのマヨネーズあえ",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1150845/464x260/68171cf250f08c36959367cb2594ddab.jpg?u=1570274&p=1401707520",
+    "datePublished": "2010-06-06",
+    "description": "簡単メニューです。何か一品欲しいときには是非作ってみてください。",
+    "recipeYield": "2-3人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "１パック"
+        },
+        {
+            "name": "塩、マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは薄切りにして塩をふっておく。かにかまは適当な大きさに割く。",
+        "きゅうりの水分を絞って、かにかまと混ぜ、マヨネーズで和える。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1150845",
+    "advice": "特にありません。",
+    "history": "母がカニの缶詰でよく作ってましたが、私は安いかにかまで。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "かにかま"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1150845/100x141c/6b6892ea2d3f962e45ed99907f48389c.jpg?u=1570274&p=1401707520"
+}

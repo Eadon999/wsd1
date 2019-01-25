@@ -1,0 +1,60 @@
+{
+    "name": "とりの出汁で大根がジュワ～♪",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/322938/464x260/1c05ae5466b3c3ab0a35103827b0fa63.jpg?u=322985&p=1214214559",
+    "datePublished": "2007-01-26",
+    "description": "子供の箸も止まらない、ご飯に合うおかずです☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/２～１/３本"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "５００ｃｃ～"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大３"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２強"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大３強"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は乱切りにしてレンジで火を通します。（形の気になる人は米のとぎ汁で茹でるとミがやせません。）６００Wで４分位。\r\n",
+        "鶏もも肉は一口大に切り、鍋にサラダ油を入れて熱したところに入れて表面を焼く。",
+        "大根を（レンジの場合）汁ごと鍋に加えて、だし汁もひたひたになるくらいに加えます。",
+        "沸騰したら、酒・砂糖・しょうゆを加えて、汁気が少し残るまで煮ます。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "322938",
+    "advice": "煮ている間に、しょうゆと砂糖で味をみて下さい～。",
+    "history": "もともと鶏肉の出汁で作るものが好きなので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "やせる おかず"
+    ],
+    "tsukurepo_count": "336",
+    "thumbnail": "https://img.cpcdn.com/recipes/322938/100x141c/4bff82e63ceddd82b53e244604985962.jpg?u=322985&p=1214214559"
+}

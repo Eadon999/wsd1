@@ -1,0 +1,55 @@
+{
+    "name": "とっても簡単♪ニラの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "☆まきりん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1877649/464x260/ed449fdbab16b7a58370203834c59856.jpg?u=3914193&p=1341728414",
+    "datePublished": "2012-07-08",
+    "description": "５分程度で作れる簡単な１品。ニラから美味しいダシが出るので、ご飯にかけても美味しい！2013/01/23話題入り感謝です",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００cc"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを食べやすい長さに切っておきます。",
+        "鍋に●の調味料を入れ煮立ったら【１】のニラを入れ、更に煮立ったら、溶いた卵を流し入れます。",
+        "卵がお好みの固さになったら火を止め、お皿に盛り付けます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1877649",
+    "advice": "ニラはあまり煮過ぎないほうが、シャキシャキ食感も少し残って美味しいです。　大人は七味をかけると、お酒のおつまみにも！　　ちなみに冷蔵庫で冷やした感じも私は好きです。",
+    "history": "我が家の定番料理です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵とじ ニラ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/1877649/100x141c/fca5800691b62d56ad467437c5203641.jpg?u=3914193&p=1341728414"
+}

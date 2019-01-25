@@ -1,0 +1,54 @@
+{
+    "name": "お弁当に★お好み焼きなちくわ",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/524799/464x260/fef4be0be3d90f1e9be16bd3b5d4f6d0.jpg?u=322621&p=1214219038",
+    "datePublished": "2008-03-07",
+    "description": "ﾀｲﾄﾙ読んだだけで　きっと作れると思います(^-^;",
+    "recipeYield": "２本分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "お好みソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "粉チーズorとろけるチーズ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "青海苔（有れば）",
+            "quantity": "ほんの少し"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわはひとくち大に切り　お好みｿｰｽ・ﾏﾖをかける　粉ﾁｰｽﾞorとろけるﾁｰｽﾞを乗せたらｵｰﾌﾞﾝﾄｰｽﾀｰで軽く焼いて出来上がり　有れば青海苔などを振る",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "524799",
+    "advice": "忙しいお弁当作りのお助けに♡",
+    "history": "ちくわを使ったお弁当ﾚｼﾋﾟが多い中　ふと思い付いた簡単ﾚｼﾋﾟです",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "お好みソース",
+        "マヨネーズ",
+        "青海苔"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/524799/100x141c/750154b9ce51a03c443dfa6881689735.jpg?u=322621&p=1214219038"
+}

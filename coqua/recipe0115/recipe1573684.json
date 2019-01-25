@@ -1,0 +1,71 @@
+{
+    "name": "鶏ささみのアボカドときゅうりの和風丼♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1573684/464x260/a6f8bc69e4d2f957811d44dfa1ba6914.jpg?u=921598&p=1397951688",
+    "datePublished": "2011-09-18",
+    "description": "鶏ささみにアボカドときゅうりが沢山☆わさび醤油で和えて酢飯に乗せたヘルシーな一品！白ゴマと刻みのりが食欲をそそります♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "180ｇ"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●生わさび（市販チューブ）",
+            "quantity": "5ｃｍ"
+        },
+        {
+            "name": "●白いりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢飯",
+            "quantity": "適量"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに●の材料を入れて混ぜ合わせておく。\n",
+        "ささみは少量のお酒を入れてボイルし、粗熱を取ってから割いて、アボカドときゅうりは1ｃｍ角に切っておく。\n",
+        "1のボウルに、2のささみ・アボカド・きゅうりを入れてよく和える。\n",
+        "器に酢飯を盛り、3と刻みのりを乗せたら出来上がりです。\n\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1573684",
+    "advice": "わさびはお好みで加減して下さいねぇ♪",
+    "history": "自身のレシピをアレンジして作りましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ アボカド 丼",
+        "ささみ アボカド きゅうり",
+        "ささみ アボカド"
+    ],
+    "tsukurepo_count": "144",
+    "thumbnail": "https://img.cpcdn.com/recipes/1573684/100x141c/05b46398b4c0b59b4a9a467e72543521.jpg?u=921598&p=1397951688"
+}

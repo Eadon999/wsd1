@@ -1,0 +1,64 @@
+{
+    "name": "ピラフ風炒飯",
+    "author": {
+        "@type": "Person",
+        "name": "chikappe"
+    },
+    "image": "https://img.cpcdn.com/recipes/126148/464x260/00c95f76bc1c8e02deed78a56b40f878.jpg?u=17044&p=1214210572",
+    "datePublished": "2004-01-21",
+    "description": "旦那が命名。あり合わせの材料を炒めて炒飯にしました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭",
+            "quantity": "1枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2玉"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1粒"
+        },
+        {
+            "name": "水",
+            "quantity": "50ccくらい"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜と鮭はみじん切りにします。ご飯は、冷たいようならレンジで温めておきます。",
+        "フライパンに油を薄く敷いて熱し、1の野菜と鮭を炒めます。油が行き渡ったようなら、水とコンソメを入れ、火が通り水気がなくなるまで炒めます。",
+        "とろけるチーズを加えて、全体にまぶします。",
+        "ご飯を加え、全体に具が行き渡るように混ぜながら炒めます。味を見て、薄いようなら塩こしょうで調味してください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "126148",
+    "advice": "コンソメではなく、醤油味でもおいしいです。",
+    "history": "残ったものを食べきろ～。というわけで",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピラフ風チャーハン"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/126148/100x141c/67ea787dd8a9a84cee82f29baaa3fcc0.jpg?u=17044&p=1214210572"
+}

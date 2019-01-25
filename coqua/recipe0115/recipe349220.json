@@ -1,0 +1,53 @@
+{
+    "name": "簡単！子供の頃から大好きな酢飯",
+    "author": {
+        "@type": "Person",
+        "name": "ぱわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/349220/464x260/7c4190ada51aa3d85bb696417d3cc19f.jpg?u=28669&p=1214215128",
+    "datePublished": "2007-03-24",
+    "description": "実家の母から教えてもらった配合です。我が家の酢飯は絶対これ！巻き寿司、にぎり寿司、手巻き寿司、黒ゴマ入れればいなり寿司にも！",
+    "recipeYield": "ご飯３合分",
+    "recipeIngredient": [
+        {
+            "name": "炊きたてご飯（固め）",
+            "quantity": "３合"
+        },
+        {
+            "name": "酢",
+            "quantity": "６０cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "６０g"
+        },
+        {
+            "name": "塩",
+            "quantity": "１２g"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ１程度"
+        }
+    ],
+    "recipeInstructions": [
+        "寿司酢の材料をすべてお鍋に入れ、火にかける。一煮立ちしたら火からおろす。\r\n",
+        "炊き立てご飯をおひつに取り、【１】の寿司酢をすべて振り入れしゃもじで切るように混ぜる。\r\nうちわで扇ぎながら荒熱が取れるまで混ぜ合わせる。\r\n\r\n",
+        "巻き寿司に、手巻き寿司に、な～んでも！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "349220",
+    "advice": "",
+    "history": "子供の頃から母親の作るお寿司が大好きでした。一人暮らしを始めた頃、市販の『寿司酢』というものを使ったことがあるのですが、口に合わず･･･。実家の母に教えてもらいました。やっぱりこの味！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/寿司/寿司飯の作り方"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "酢飯 子供",
+        "握り寿司 子供",
+        "手巻き寿司 子供"
+    ],
+    "tsukurepo_count": "119",
+    "thumbnail": "https://img.cpcdn.com/recipes/349220/100x141c/337bae0792c5c5bfa318b62b6b6140e9.jpg?u=28669&p=1214215128"
+}

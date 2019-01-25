@@ -1,0 +1,48 @@
+{
+    "name": "【農家のレシピ】こかぶの梅肉和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2047109/464x260/a8e086ffcaf0fb669120b81b3ba681f5.jpg?u=2513693&p=1354456102",
+    "datePublished": "2012-12-03",
+    "description": "軽く塩漬けしたこかぶを梅肉とすりごまで和えるだけ。さっぱり小鉢の完成です。　　",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "こかぶ（小）",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "梅肉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "こかぶは葉を取り除き、皮を剥き、薄いくし形切りにします。",
+        "①に塩をまぶし10分置き、水気をしぼり【A】で和えて完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2047109",
+    "advice": "",
+    "history": "さっぱり梅肉と香ばしいすりごまを使って塩漬けこかぶを和えてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": [
+        "こかぶ 5位"
+    ],
+    "related_keywords": [
+        "こかぶ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2047109/100x141c/5e6ef17ba2f30ee598d9a5a54ceacdd7.jpg?u=2513693&p=1354456102"
+}

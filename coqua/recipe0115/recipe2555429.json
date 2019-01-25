@@ -1,0 +1,58 @@
+{
+    "name": "簡単♪おかんのブリのフライパン照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "su-tan"
+    },
+    "image": "https://img.cpcdn.com/recipes/2555429/464x260/ec63e46997f520da3f450f017129b3af.jpg?u=528930&p=1395545234",
+    "datePublished": "2014-03-23",
+    "description": "おかんに教わっためっちゃ簡単なブリの照り焼きです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶりの切り身",
+            "quantity": "2切"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンを熱し、サラダ油を入れてブリを入れ中火で両面焼き目が軽くつくまで焼く。",
+        "フライパンに油が出ていたら拭きとって照り焼きのタレの材料を入れて絡めながら焼く\nタレがほぼなくなれば出来上がり☆",
+        "2014/04/12\nつくれぽ10人\n話題入りとなりました！ありがとうございます♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2555429",
+    "advice": "タレを入れてから強火だと焦げやすくなるので注意してください。タレを絡めようとして何度も裏返したりすると崩れるのである程度煮詰まってから絡めると綺麗にできます。",
+    "history": "おかんに教わったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶりの切り身",
+        "サラダ油",
+        "照り焼きのタレ",
+        "酒"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/2555429/100x141c/a9ed6761028813bb486ec3c4f9cf0f6b.jpg?u=528930&p=1395545234"
+}

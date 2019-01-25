@@ -1,0 +1,66 @@
+{
+    "name": "鶏肉とねぎの照焼き",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3978062/464x260/c8724fc593e4d1f1aecb00b4db037906.jpg?u=4819316&p=1468580268",
+    "datePublished": "2016-07-15",
+    "description": "焼き鳥のねぎま、それをばらしたようなものです、ご飯が進みます、ビールも進みます、お試し下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "白ねぎ",
+            "quantity": "１／２本（白い部分）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ももに肉、白ねぎは一口大に切る",
+        "鶏もも肉に片栗粉をまぶす",
+        "フライパンに分量外のサラダ油を加熱して鶏もも肉を炒める",
+        "鶏もも肉の色が変わり始めるとねぎを入れて一緒に炒める",
+        "●を入れて全体に絡めるように混ぜる",
+        "お皿に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3978062",
+    "advice": "唐辛子を振ったり、マヨネーズをかけたり、お好みでお試し下さい",
+    "history": "焼き鳥を串に刺して作るのは面倒なので、ばらして作ってみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "白ねぎ",
+        "片栗粉",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3978062/100x141c/040a49819824da760cd81e2c3f42aaee.jpg?u=4819316&p=1468580268"
+}

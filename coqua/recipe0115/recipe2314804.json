@@ -1,0 +1,67 @@
+{
+    "name": "オッサンの鶏ももニラ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2314804/464x260/25b2ad1a42b0f700c096b3217720e4a6.jpg?u=3323767&p=1376479408",
+    "datePublished": "2013-08-14",
+    "description": "鶏もも肉とニラを漬け込んで焼くだけの簡単料理です☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "２束"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ0.5"
+        },
+        {
+            "name": "◎鶏ガラスープ（顆粒）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉とニラは食べやすい大きさに切り、◎と肉・ニラを袋に入れて揉み込み、30分程寝かせます。",
+        "フライパンにゴマ油を敷き、中火で１を炒めます。",
+        "肉に火が通ったら、もやしを入れて、軽く炒めたら出来上がり☆"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2314804",
+    "advice": "写真は、キャベツを敷いています。ニラが焦げやすいですが、鶏に少し焦げ目が付くくらい焼くと美味しいデス。",
+    "history": "ニラが沢山あったのと、ウチに鶏モモ肉があったので、アレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "ニラ",
+        "もやし",
+        "醤油"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/2314804/100x141c/abf7d518d04316429e605ecbf3e450ed.jpg?u=3323767&p=1376479408"
+}

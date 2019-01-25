@@ -1,0 +1,62 @@
+{
+    "name": "【農家のレシピ】モロヘイヤのかき揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1492327/464x260/51fd92d2d0a2c4b52f3e538c08b21256.jpg?u=2513693&p=1310218276",
+    "datePublished": "2011-08-05",
+    "description": "モロヘイヤの粘りでバラバラにならなくて簡単にかき揚げが出来ますよ。サックサクの衣です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "モロヘイヤ",
+            "quantity": "50g"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "４本"
+        },
+        {
+            "name": "サクラエビ",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ベーキングパウダー",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "冷水",
+            "quantity": "７５ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "モロヘイヤの葉は１センチ程度のざく切り、カニカマはほぐしておきます。",
+        "【A】をさっくり混ぜ合わせ、モロヘイヤ、サクラエビ、カニカマを入れ軽く混ぜ合わせておきます。",
+        "１８０度に熱した油にスプーンなどに一口大分のせて油の中に滑り込ませます。（慣れれば箸でもできますよ）",
+        "さくっと揚がれば完成です。",
+        "お好みで塩やポン酢でどうぞ。",
+        "モロヘイヤのかき揚げうどんです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1492327",
+    "advice": "",
+    "history": "モロヘイヤを使ったかき揚げは色々作っています",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/モロヘイヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モロヘイヤ"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1492327/100x141c/6b1d260b3a0c365fa7b37c127af9ab74.jpg?u=2513693&p=1310218276"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "キムチちくわ♥",
+    "author": {
+        "@type": "Person",
+        "name": "紅葉ｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/840928/464x260/799af17c423fa90ce466db63f4fe107b.jpg?u=1389109&p=1342162650",
+    "datePublished": "2009-06-18",
+    "description": "ちくわとチーズの旨味がキムチの辛さを和らげて美味しい１品ができました＾＾",
+    "recipeYield": "1本分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "適量"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを4等分にします。",
+        "ちくわの凹にキムチをのせます。",
+        "チーズをのせ、　トースターで5分焼いたら出来上がり。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "840928",
+    "advice": "切って、のせて、焼くだけの簡単レシピです。焼きたては熱々なので気をつけて食べて下さい。",
+    "history": "ちくわ大好き！美味しいちくわの調理法を考えて出来た1品です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "キムチ",
+        "チーズ"
+    ],
+    "tsukurepo_count": "220",
+    "thumbnail": "https://img.cpcdn.com/recipes/840928/100x141c/94f0d58f93c5aa63af8cc0d79cb99acd.jpg?u=1389109&p=1342162650"
+}

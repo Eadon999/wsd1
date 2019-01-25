@@ -1,0 +1,63 @@
+{
+    "name": "熟成カレーうどん",
+    "author": {
+        "@type": "Person",
+        "name": "りなまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/251748/464x260/0051abf01b5616457f6be7a24866dbf7.jpg?u=232175&p=1214212971",
+    "datePublished": "2006-05-04",
+    "description": "カレーって余りますよね！カレーの次の日は、必ずカレーうどんにします。二日目のカレーはコクが出てさらにうまい。この味はお店の味です！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "カレー",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "水",
+            "quantity": "1.5カップ"
+        },
+        {
+            "name": "カツオ節",
+            "quantity": "1つかみ"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1・2本"
+        },
+        {
+            "name": "半熟卵",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "まず、だし汁を作ります。1.5カップの水にかつお節1つかみを入れだし汁を作り、薄口醤油を大さじ２杯ほど入れ味を調えます。",
+        "次に、出来た汁とカレー２カップを混ぜ更に煮込みます。煮立ったらうどんの玉を入れ更に煮込みます。",
+        "最後に水溶き片栗粉でとろみをつけ、軽く焼いた長ネギをトッピングしたら完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "251748",
+    "advice": "汁は濃いめにダシをとるのがﾎﾟｲﾝﾄ！！温泉卵をのせると更にGOOD！！！",
+    "history": "２日連続カレーライスだと飽きるので、作ってみました！！",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/カレーうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレー 二日目 うどん"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/251748/100x141c/f9853fbaeff4840b6a7a0d066f69edb7.jpg?u=232175&p=1214212971"
+}

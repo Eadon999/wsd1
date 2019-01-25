@@ -1,0 +1,61 @@
+{
+    "name": "鶏ささみと小松菜のお洒落な和えもの",
+    "author": {
+        "@type": "Person",
+        "name": "ぱんだカフェcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/2980677/464x260/df49c0d739d2a43469d2abe4f26a7fb7.jpg?u=1003914&p=1422175890",
+    "datePublished": "2015-01-25",
+    "description": "多めのオリーブオイルが美味しい、鶏ささみを使ったヘルシーな和えものです^^",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "１把"
+        },
+        {
+            "name": "★オリーブオイル",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★粒マスタード",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は茹でてから、\nさいてほぐしておく",
+        "小松菜はよく洗って\n塩茹でして、、\n水気をしぼっておく\n（適当な大きさに切ってください）",
+        "混ぜた★に\nさいた鶏肉をまず\n和える",
+        "小松菜も加えて\nよく和える"
+    ],
+    "cookTime": null,
+    "recipe_id": "2980677",
+    "advice": "ささみは、温かいうちにさいてほぐす",
+    "history": "新鮮な小松菜が手に入ったので、、ヘルシーに美味しく食べたいと思って^^",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 ささみ 和え物",
+        "小松菜 ささみ"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2980677/100x141c/9ae8cd3167853ff49c3afe2b806e51c7.jpg?u=1003914&p=1422175890"
+}

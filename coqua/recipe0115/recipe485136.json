@@ -1,0 +1,62 @@
+{
+    "name": "簡単ツナコロッケ",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/485136/464x260/b8ac1f500370baf92e6d8744a1d61ec2.jpg?u=212914&p=1214218285",
+    "datePublished": "2008-01-10",
+    "description": "挽肉を使うより簡単♪小さく丸めてお弁当にも✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2個～3個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/3～1/2個"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "◎ナツメグ",
+            "quantity": "お好みで少々"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは茹でて、熱いうちにつぶす。◎の調味料を加える。",
+        "玉ねぎはみじん切り、ツナ缶は油をきり、①のじゃがいもと合わせる。",
+        "好みの形に整えて、小麦粉を薄くまぶし、溶き卵、パン粉の順に衣をつける。",
+        "170度の油でキツネ色になるまで揚げる。",
+        "お好みのソースで。\r\n（ケチャップ＋ウスターソース＋粒マスタード）"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "485136",
+    "advice": "今回はあえてシンプルですが、チーズやカレー粉を加えても美味しいです♪ じゃがいもを里芋や南瓜にしてもＧＯＯＤ★",
+    "history": "お父さんの畑で採れたじゃがいもで。ツナだと炒める手間を省けます！",
+    "categories": [
+        "今日のご飯・おかず/コロッケ・メンチカツ/いろんなコロッケ",
+        "その他/秋におすすめ料理/買い物に行けない台風の日ごはん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナコロッケ"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/485136/100x141c/7d3a3fd1d3b9117cfd9cd2fe1a09f95a.jpg?u=212914&p=1214218285"
+}

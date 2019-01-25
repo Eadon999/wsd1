@@ -1,0 +1,62 @@
+{
+    "name": "ツナポテトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "みゆKitchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/1380342/464x260/f97506a0adf5453bd3f9fa83a1dbd50f.jpg?u=2886607&p=1371084168",
+    "datePublished": "2011-03-06",
+    "description": "ツナもポテトも子どもは大好き♪かくし味でぐ～んと、おいしくなります。（2013.6.13　写真差し替えました）",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中3個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "*マヨネーズ",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "*醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "*胡麻油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "*からし",
+            "quantity": "チューブ1～2センチ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮をむき、イチョウ切りにする。\nツナ缶は油をきっておく。\n",
+        "*をボウルに混ぜ合わせておく。",
+        "鍋にお湯を沸かし、塩を入れ、じゃがいもをゆでる。\nゆであがったら、お湯を捨て、揺らしながら粉ふきにし、水分をとばす。",
+        "じゃがいもが冷めたら、ツナと2の調味料と和える。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1380342",
+    "advice": "我が家では、いつもレタスに巻いていただきます。",
+    "history": "子どもが大好きなツナ缶とポテトサラダを合わせました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ツナ缶",
+        "塩"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1380342/100x141c/e5888b4898d11a29a55462c90b5735eb.jpg?u=2886607&p=1371084168"
+}

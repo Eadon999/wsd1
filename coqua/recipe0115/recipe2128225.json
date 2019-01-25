@@ -1,0 +1,53 @@
+{
+    "name": "鶏むね肉とほうれん草の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2128225/464x260/f307c527757ebb9379a8c0b196437b26.jpg?u=603745&p=1447764837",
+    "datePublished": "2013-02-21",
+    "description": "安いむね肉でも美味しく出来ちゃう!!簡単調理＆味付けなのですぐ作れる!!ご飯のお供にもお弁当にも♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "むね肉の皮をとり、食べやすい大きさに切ります。",
+        "ほうれん草は良く洗い、食べやすい大きさに切ります。",
+        "フライパンでむね肉を炒めます。途中でお水を少し入れて蒸し焼きにし、火をしっかり通します。",
+        "ほうれん草を加えてしんなりするまで炒めます。",
+        "ほうれん草がしんなりとしたら☆の調味料で味付けをします。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2128225",
+    "advice": "",
+    "history": "冷蔵庫にあるものでパパっと１品作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とり胸肉 ほうれん草 炒め"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2128225/100x141c/d132adb2d83271a86170825f8cbf4ede.jpg?u=603745&p=1447764837"
+}

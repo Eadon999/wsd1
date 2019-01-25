@@ -1,0 +1,54 @@
+{
+    "name": "アスパラの豚肉巻きオイスターソース",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1147334/464x260/2ea101d27fbcd3d31a159277e345002a.jpg?u=1298841&p=1357797043",
+    "datePublished": "2010-06-03",
+    "description": "【話題入り】豚肉で巻いたアスパラをオイスターソースでからめて中華風に♪おつまみや、お弁当のおかずにも最適☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アスパラガス",
+            "quantity": "1束"
+        },
+        {
+            "name": "豚肉（しゃぶしゃぶ用)",
+            "quantity": "アスパラと同じ枚数"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラガスの下処理をして、豚肉を1枚ずつ巻き付けたら半分に切る。",
+        "フライパンにごま油をひき、1を中火で焼く。",
+        "適度な焼き目がついたら塩コショウを振り、オイスターソースをからめる。 \n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1147334",
+    "advice": "",
+    "history": "アスパラの豚巻きを中華風に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラガス",
+        "豚肉",
+        "ごま油",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1147334/100x141c/4842406c63ef588cffeeca69372b6aa7.jpg?u=1298841&p=1357797043"
+}

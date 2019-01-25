@@ -1,0 +1,53 @@
+{
+    "name": "れんこんの肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "ダナエ姫"
+    },
+    "image": "https://img.cpcdn.com/recipes/2850580/464x260/9a4ed45639df785405828c297f0f4ad5.jpg?u=9407&p=1414037294",
+    "datePublished": "2014-10-23",
+    "description": "れんこんに豚肉を巻いた簡単料理です。お弁当によく入れます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "1本"
+        },
+        {
+            "name": "豚バラなどの薄切り肉",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは\n皮をむいて輪切りにし、酢水に少しつけて置く。",
+        "五分くらいれんこんは\nゆでて軽く冷ましておきましょう。",
+        "れんこんに肉を巻いてフライパンに油をひいて両面焼きます。\n",
+        "両面こんがり焼けたらキッチンペーパーで油をふきとります。\nふきとると照りがよくでます。",
+        "しょうゆ、砂糖、みりん各大さじ2を入れて照りがでるまで焼き、出来上がりです。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2850580",
+    "advice": "れんこんと肉は手のひらでギュッと握って密着させるとはがれにくいです",
+    "history": "れんこんが大好きなんでお弁当のおかずにしたくて♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉巻き レンコン"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2850580/100x141c/94428aea52d597dc04e46de2ab24a67e.jpg?u=9407&p=1414037294"
+}

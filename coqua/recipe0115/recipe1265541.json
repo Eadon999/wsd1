@@ -1,0 +1,52 @@
+{
+    "name": "野菜でヘルシーおかず♪♬白菜の卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "cobuo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1265541/464x260/0866231124d6e68e1f7e807fb8d3a9f6.jpg?u=1589960&p=1287744503",
+    "datePublished": "2010-10-22",
+    "description": "白菜と卵だけ☆でご飯がすすむおかずが出来ます♪カテゴリ入りしました♪2011/2/16話題入り感謝☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4"
+        },
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を食べやすい大きさに切る",
+        "フライパンに白菜を入れていためる",
+        "少ししんなりしてきたら、だしの素、砂糖、醤油を入れて水分が少なくなるまでいためる",
+        "水分が少なくなったら味見をして溶き卵をいれてからめて完成\n※味見するときちょっと濃い目にすると丁度良くなります♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1265541",
+    "advice": "白菜の大きさなどにより味の濃さが変わってくるので味見で整えてください♪",
+    "history": "母がよく作っていたメニュー。定番？？のおかずです☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 卵 感謝"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1265541/100x141c/8639f8763e9f810f2bcfe6d162ee3f23.jpg?u=1589960&p=1287744503"
+}

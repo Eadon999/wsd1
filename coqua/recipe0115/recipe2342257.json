@@ -1,0 +1,54 @@
+{
+    "name": "がっつり♪簡単手作り焼豚（チャーシュー）",
+    "author": {
+        "@type": "Person",
+        "name": "ルーロー"
+    },
+    "image": "https://img.cpcdn.com/recipes/2342257/464x260/e6e286a11c3805de4e38d70b486266ba.jpg?u=7749885&p=1378958415",
+    "datePublished": "2013-09-12",
+    "description": "がっつり！胃袋満足♪おつまみでも、ごはんでも♪刻んで炒飯、ラーメンのトッピングでも♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉ブロック（豚肩でもOK)",
+            "quantity": "６００〜８００ｇ"
+        },
+        {
+            "name": "（A)水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "（A)醤油",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "（A)酒",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "（A)砂糖",
+            "quantity": "大さじ５〜６"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラブロックを３等分に切って、フライパン（強火）で表面にしっかりと焼色がつくまで焼く。",
+        "鍋に（A)、①を入れて落し蓋をして弱火で煮込む（各家庭の火力にもよりますが、およそ３０分くらい）。",
+        "煮汁が1/3程になってトロッとしたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2342257",
+    "advice": "切るときは、粗熱をとってからのほうが崩れないできれいに切れます♪",
+    "history": "がっつりしたお肉が食べたいので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/チャーシュー・煮豚"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉 ブロック チャーシュー",
+        "手作りチャーシュー",
+        "豚バラ肉 ブロック 簡単",
+        "豚バラブロック チャーシュー 簡単"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2342257/100x141c/5d2a9efdc61e6b9b7ecb690098835a4b.jpg?u=7749885&p=1378958415"
+}

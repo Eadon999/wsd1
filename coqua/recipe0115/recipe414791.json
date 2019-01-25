@@ -1,0 +1,50 @@
+{
+    "name": "茄子だけ餃子",
+    "author": {
+        "@type": "Person",
+        "name": "mika-kujira"
+    },
+    "image": "https://img.cpcdn.com/recipes/414791/464x260/8dcef76fa48a4b4df69a357b0eec9d38.jpg?u=493474&p=1214216922",
+    "datePublished": "2007-08-07",
+    "description": "茄子がトロっと美味しいヘルシー餃子。ほんとシンプルです。",
+    "recipeYield": "茄子１本分",
+    "recipeIngredient": [
+        {
+            "name": "餃子の皮",
+            "quantity": "１０～１５枚"
+        },
+        {
+            "name": "茄子",
+            "quantity": "一本"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は小さく刻み、塩・おろし生姜と和えておく",
+        "１の茄子を餃子の皮に包んで、ごま油（分量外）で焼く。",
+        "2008年10月30日、話題のレシピ入りしました！つくれぽ下さった皆さま、ありがとう！！（涙）すっごく嬉しかったです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "414791",
+    "advice": "この日のタレ：自家製キムチの素＆香酢",
+    "history": "茄子ってお肉っぽいし、油と相性いいので餃子に入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "餃子の皮",
+        "茄子",
+        "おろし生姜",
+        "塩"
+    ],
+    "tsukurepo_count": "142",
+    "thumbnail": "https://img.cpcdn.com/recipes/414791/100x141c/16e667a27daefe91d8c7866074be76ea.jpg?u=493474&p=1214216922"
+}

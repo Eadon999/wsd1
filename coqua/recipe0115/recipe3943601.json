@@ -1,0 +1,64 @@
+{
+    "name": "オッサンのロメインレタス中華炒め",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/3943601/464x260/9e77d1d4aaf61ff250bf7651b95416d3.jpg?u=3323767&p=1466942270",
+    "datePublished": "2016-06-26",
+    "description": "炒めても美味しいロメインレタスを使った簡単中華です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ロメインレタス",
+            "quantity": "８枚"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "４本"
+        },
+        {
+            "name": "椎茸（あれば）",
+            "quantity": "２個"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "◎鶏がらスープの素",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "◎白だし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "◎塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "食材は食べやすい大きさに切っておきます。卵は溶いておきます。",
+        "フライパンにごま油を敷き、温まったらウィンナー、椎茸の順に炒めます。",
+        "ある程度火が通ったらロメインレタスを入れて炒めて、◎で味をつけます。",
+        "卵を流し入れたら火を止め、卵がお好みの硬さになったら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3943601",
+    "advice": "ロメインレタスは、サッと炒める程度の方がシャキシャキ感が残って美味しいです。他の野菜を入れても美味しいかも。",
+    "history": "ロメインレタスが安かったので買ってきて、中華風にアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ロメインレタス 炒め ウインナー"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3943601/100x141c/5d3aa4238b7019ef778a19595f4271a0.jpg?u=3323767&p=1466942270"
+}

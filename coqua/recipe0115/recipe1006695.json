@@ -1,0 +1,59 @@
+{
+    "name": "白菜とツナ缶でサラダ風",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1006695/464x260/d8033c676aeb3d36f126f1f91d71ac97.jpg?u=220679&p=1263033906",
+    "datePublished": "2010-01-10",
+    "description": "白菜を使って５分でできるサラダ風の一品。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "250g(1/6程度)"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶（８０ｇ）"
+        },
+        {
+            "name": "◆味ぽん酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◆オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◆砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "１パック（３ｇ）"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は繊維に沿って５センチ長さ、１センチ幅に切る。塩少々（分量外）を振っておく。",
+        "少しおいてしんなりしたら水分を取るために軽く絞る。",
+        "ボウルに水気を切ったツナと◆の調味料と２の白菜を入れてよく混ぜ合わせる。",
+        "最後に鰹節をふわっと混ぜ入れて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1006695",
+    "advice": "切った白菜に塩を振ったら軽く水分をとる程度に。塩もみのようにギュッと絞らないでね。",
+    "history": "鍋もので残った白菜とツナ缶で一品作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "ツナ缶",
+        "オリーブオイル",
+        "砂糖"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1006695/100x141c/fd086442eda506fbdbdf3a47021525b6.jpg?u=220679&p=1263033906"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "豚肉とじゃがいもの醤油麹煮",
+    "author": {
+        "@type": "Person",
+        "name": "marriott"
+    },
+    "image": "https://img.cpcdn.com/recipes/2202435/464x260/175faaea136b7835d364e699fdb584f9.jpg?u=3504517&p=1366811945",
+    "datePublished": "2013-04-24",
+    "description": "醤油麹でお肉が柔らかでうまうま♪あっと言う間に完売よ(^_^)v",
+    "recipeYield": "２～3人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "3個（300g）"
+        },
+        {
+            "name": "豚ロース薄切り肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉ねぎ(大）",
+            "quantity": "1個（300g）"
+        },
+        {
+            "name": "◎醤油麹",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもと玉ねぎは皮を剥き、食べやすい大きさに切る。\n豚肉も一口大に切る。",
+        "鍋に水をとじゃがいも・玉ねぎを入れ沸騰させる。",
+        "2に◎の材料を入れ、じゃがいもが柔らかくなるまで煮る。（15分前後）",
+        "煮えたら器に盛りつけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2202435",
+    "advice": "＊水がそれほど多くないので、煮る時は弱火　～中火で煮てください。＊にんじんなどのほかの野菜も入れると　より一層美味しくなるます。",
+    "history": "醤油麹を使って煮物が作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "醤油麹 豚ロース"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2202435/100x141c/cfa42db4da4cc05053105067888c49eb.jpg?u=3504517&p=1366811945"
+}

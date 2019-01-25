@@ -1,0 +1,56 @@
+{
+    "name": "わかめと新たまねぎの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "milk＊crown"
+    },
+    "image": "https://img.cpcdn.com/recipes/2633250/464x260/74e41ebb1f6db08e041e67d99954f845.jpg?u=7739505&p=1400417892",
+    "datePublished": "2014-05-18",
+    "description": "新たまねぎは甘くて美味しい。具沢山の食べるお味噌汁♪（ｖ＾＿＾）ｖ",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "５００cc"
+        },
+        {
+            "name": "生わかめ",
+            "quantity": "５０g"
+        },
+        {
+            "name": "玉ねぎ(スライス)",
+            "quantity": "５０g"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適宜"
+        },
+        {
+            "name": "＊小口ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "たまねぎとわかめは食べやすい大きさに切っておく。",
+        "だし汁に、たまねぎを入れて２〜３分沸騰させる。",
+        "わかめを入れて沸騰させる。",
+        "味噌を適宜入れて沸騰直前に火を止める。",
+        "お椀に盛り、小口ねぎを入れる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2633250",
+    "advice": "乾燥わかめを使うなら、多めの水であらかじめ、戻しておきます。味噌を入れたら沸騰させずに火を止めた方が味噌の香りがいいです。",
+    "history": "新たまねぎとわかめで体に優しいお味噌汁が作りたかったから。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だし汁",
+        "生わかめ",
+        "玉ねぎ",
+        "味噌"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/2633250/100x141c/bd7d85e0a97114724c8d566870e06333.jpg?u=7739505&p=1400417892"
+}

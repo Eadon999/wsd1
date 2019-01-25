@@ -1,0 +1,68 @@
+{
+    "name": "最速究極の豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "masuyan21"
+    },
+    "image": "https://img.cpcdn.com/recipes/2127421/464x260/fe01ec0c713606211645343f63984eae.jpg?u=3047127&p=1361399780",
+    "datePublished": "2013-02-21",
+    "description": "調理時間7分！本格的な豚丼の完成です。(^^)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "豚コマ切れ",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "4本"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１．５"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニクを炒め豚コマ切れを入れ炒める。\n ",
+        "生姜を入れ、長ネギ（３ｃｍ切り）を入れ香りが出るまで炒める。",
+        "酒：味醂：醤油を１：２：２の割合で作ったたれに砂糖とゴマ油をたらし煮込む。",
+        "丼に盛ったご飯に乗せて出来上がり。\n 締めて7分調理。\n "
+    ],
+    "cookTime": null,
+    "recipe_id": "2127421",
+    "advice": "たれは最後に入れてください。煮すぎないようにね。",
+    "history": "手早く美味しい豚丼を考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "本格豚丼"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2127421/100x141c/49342429b34a6aee9e4d8b0965365f02.jpg?u=3047127&p=1361399780"
+}

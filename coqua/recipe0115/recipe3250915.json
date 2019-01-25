@@ -1,0 +1,80 @@
+{
+    "name": "おからの炒り煮",
+    "author": {
+        "@type": "Person",
+        "name": "あやママのお家ごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3250915/464x260/c9453b7ab71ec86d0086ffadaf64201e.jpg?u=3016775&p=1438721822",
+    "datePublished": "2015-06-21",
+    "description": "イソフラボンたっぷり",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生おから",
+            "quantity": "200g"
+        },
+        {
+            "name": "人参",
+            "quantity": "3cm"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "干し椎茸",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "天かす",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "椎茸の戻し汁",
+            "quantity": "250cc"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "干し椎茸は、250ccの水か、ぬるま湯で戻しておく\n戻し汁は捨てずに！",
+        "人参は小さめの千切り、油揚げはお湯をかけて油抜きして、細かく切っておく\n干し椎茸は、水気を絞って細かく切る",
+        "小鍋に、煮汁とおから以外の材料を入れて、5分ほど弱中火で煮る",
+        "フライパンに、油をひかずにおからを入れ、から煎りする\n水分が飛んだら、天かすを入れ、少し炒める",
+        "フライパンに煮汁をすべて入れ、なじませるように混ぜ、余分な汁気がなくなったらできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3250915",
+    "advice": "こんにゃく抜きだと、冷凍可能",
+    "history": "お弁当のおかずのストックに",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生おから",
+        "人参",
+        "油揚げ",
+        "干し椎茸"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3250915/100x141c/6b8810924bad4a3a39eae4ebd9a8c6c2.jpg?u=3016775&p=1438721822"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "鶏肉と白菜の味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/969015/464x260/ceb5a9f67cb238081be57661a6512e6c.jpg?u=377757&p=1258474417",
+    "datePublished": "2009-11-18",
+    "description": "甘辛い味噌味の鶏肉と白菜で、食が進みます！お弁当にもピッタリな一品◎",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（ムネorモモ）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "白菜",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ（下味用）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "○しょうが",
+            "quantity": "１／２片"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○特選 丸大豆しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○味噌",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大の削ぎ切りにし、ビニール袋に入れる。そこにお酒としょうゆ（下味用）を入れもみ込む。",
+        "しょうがは千切りに。\n白菜と玉ねぎは食べやすい大きさに切る。",
+        "１に、薄力粉と片栗粉を入れて空気を入れて振る。多めの油をフライパンに入れて焼いていく。途中、蓋をしながら中まで火を通す。",
+        "３で、両面こんがり焦げ目が付いたら、玉ねぎと白菜を入れ炒める。野菜がしんなりしたら○の材料を入れて炒めて完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "969015",
+    "advice": "○の材料は混ぜ合わせておいても！",
+    "history": "サバの味噌煮から連想して、考えたレシピ！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉と白菜の味噌炒め",
+        "白菜 鶏肉 炒め"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/969015/100x141c/65693c9e4aff177d604b17117d4ffb7d.jpg?u=377757&p=1258474417"
+}

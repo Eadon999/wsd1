@@ -1,0 +1,51 @@
+{
+    "name": "豆腐の卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "oBsession"
+    },
+    "image": "https://img.cpcdn.com/recipes/420994/464x260/0095280e5c81f7b54111cdbccf3e5656.jpg?u=466461&p=1214217045",
+    "datePublished": "2007-08-24",
+    "description": "ふわふわで柔らかくて優しいお豆腐の卵焼きです。2008.3.30話題入りしました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1/4丁"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "卵をボウルに割りほぐし、豆腐をざっくりつぶしてめんつゆとねぎの小口切りも加えて泡をたてないように箸で混ぜる。",
+        "卵焼き器に油を熱し1の卵液を焼く。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "420994",
+    "advice": "卵は油と相性がいいので油は多めに引くとふわっと仕上がります。もし形が決まらなかっても巻きすで形を整えて冷めてから切り分けると綺麗にできますよ。豆腐は絹ごしがいいと思います。",
+    "history": "冷奴が残ったので卵焼きにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵焼き 豆腐"
+    ],
+    "tsukurepo_count": "111",
+    "thumbnail": "https://img.cpcdn.com/recipes/420994/100x141c/3b3198b22708b390ad45b58da1ecd5ba.jpg?u=466461&p=1214217045"
+}

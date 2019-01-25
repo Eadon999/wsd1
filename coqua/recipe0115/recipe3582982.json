@@ -1,0 +1,57 @@
+{
+    "name": "鶏手羽元のローストチキン",
+    "author": {
+        "@type": "Person",
+        "name": "ゆこごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3582982/464x260/8cdce9d5193923ef29955e307f22e8ff.jpg?u=12749237&p=1450614292",
+    "datePublished": "2015-12-20",
+    "description": "食べやすく、手軽に作れるローストチキンです",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽元",
+            "quantity": "12本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏手羽元は、フォークで刺して穴を数カ所あけ、塩胡椒をすり込む",
+        "醤油、はちみつをすりこみ、ビニール袋に入れ、30分以上おく。",
+        "200°Cに予熱しておいたオーブンで、まず10分焼く。ハケでオリーブオイルを塗り、今度は15分焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3582982",
+    "advice": "途中でオリーブオイルを塗る事で艶良く仕上がります。",
+    "history": "子供のパーティー用に、簡単なローストチキンを作りました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/ローストチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元のローストチキン",
+        "ローストチキン 手羽元",
+        "ローストチキン 手羽元 オーブン"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3582982/100x141c/f2a8245b11b52c762c3bf39455ad3c06.jpg?u=12749237&p=1450614292"
+}

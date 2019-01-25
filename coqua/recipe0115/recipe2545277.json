@@ -1,0 +1,55 @@
+{
+    "name": "いろどりマカロニサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/2545277/464x260/1820dff5a0bb268d55c914fdd33969f8.jpg?u=3707330&p=1395133349",
+    "datePublished": "2014-04-10",
+    "description": "キュウリを枝豆にチェンジ!あれ?いつもよりなんだか可愛い♡お弁当も鮮やかに彩ります♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "マカロニ",
+            "quantity": "40～50グラム"
+        },
+        {
+            "name": "ハム",
+            "quantity": "2枚"
+        },
+        {
+            "name": "枝豆",
+            "quantity": "25さやぐらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "塩・粒胡椒",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "枝豆は生なら塩茹でし、冷凍を使う場合は袋の表示通り解凍し、さやから取り出しておきます",
+        "ハムは半分に切った ら1センチ幅くらいの 短冊切りにします",
+        "マカロニは袋の表示時間茹でたら(小量の塩を入れて)お湯を切って冷ましておきます",
+        "ボウルに全材料を入れて混ぜ合わせます\n粒胡椒はお好みで♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "2545277",
+    "advice": "マカロニは冷めてから和えてくださいね(^-^)",
+    "history": "枝豆が好きなのでよく作るマカロニサラダにも入れてみました♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マカロニ",
+        "ハム",
+        "枝豆",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2545277/100x141c/27f43e716cd72c0cf0f498997e35de72.jpg?u=3707330&p=1395133349"
+}

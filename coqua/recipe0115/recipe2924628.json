@@ -1,0 +1,60 @@
+{
+    "name": "キャロット・みかん・ラペ",
+    "author": {
+        "@type": "Person",
+        "name": "chipo"
+    },
+    "image": "https://img.cpcdn.com/recipes/2924628/464x260/d5bb29fcbf82d30e3086ca24f1db1102.jpg?u=220827&p=1418361553",
+    "datePublished": "2014-12-12",
+    "description": "定番のキャロットラペに、旬のみかんをたっぷり加えました",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "1本（２００ｇ）"
+        },
+        {
+            "name": "みかん",
+            "quantity": "3個"
+        },
+        {
+            "name": "レモン果汁orお酢",
+            "quantity": "１/2個分"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ２～適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2～適量"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "イタリアンパセリ",
+            "quantity": "あれば"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンはスライサーで千切りにし、塩をふってもんで１０分ほど置く",
+        "ミカンは皮をむいて適当に切る。イタリアンパセリは飾る分を残して刻む。",
+        "人参の水気をしっかり絞り、全ての材料を加えてまぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2924628",
+    "advice": "人参の水分をしっかり絞ること美味しいオリーブオイルと塩を使うことレモンは国産無農薬がベスト！皮目を下にして絞ると香りがしっかり移ります",
+    "history": "人参と甘夏のサラダはよくあるけど、大量にあるミカンを使って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャロット ラペ みかん"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2924628/100x141c/2e6989af25d788ecf32649c34dc9dac9.jpg?u=220827&p=1418361553"
+}

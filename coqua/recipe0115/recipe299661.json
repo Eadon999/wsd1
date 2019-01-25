@@ -1,0 +1,67 @@
+{
+    "name": "牛肉といんげん、山芋のこってり中華炒め",
+    "author": {
+        "@type": "Person",
+        "name": "komakiさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/299661/464x260/1470625d4a63067e3d30b09364366b76.jpg?u=323216&p=1214214030",
+    "datePublished": "2006-11-11",
+    "description": "タレがきめて！やっぱりビールが止まりません！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "お好み"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "お好み"
+        },
+        {
+            "name": "山芋",
+            "quantity": "お好み"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげん、山芋は、食べやすい大きさにカット。",
+        "みそ、酒、しょうゆ、砂糖、オイスターソースはしっかり混ぜ合わせておく。",
+        "ごま油で牛肉、いんげん、山芋を炒めたら、最後にタレを絡めてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "299661",
+    "advice": "タレは、先に合わせておきましょね。",
+    "history": "山芋料理を開発中！？",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "いんげん",
+        "山芋",
+        "みそ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/299661/100x141c/44b04f10a554925dbd368407aaf075bd.jpg?u=323216&p=1214214030"
+}

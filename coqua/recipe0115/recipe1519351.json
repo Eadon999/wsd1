@@ -1,0 +1,44 @@
+{
+    "name": "【農家のレシピ】なすの塩もみ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1519351/464x260/90f542ef4785938ee0d435e224f6f3ca.jpg?u=2513693&p=1312892630",
+    "datePublished": "2011-08-16",
+    "description": "あともう１品ほしい時のお助けメニューです。少し大目の塩で揉んでから、塩抜きする方法が歯ざわりよく仕上がりますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "１本"
+        },
+        {
+            "name": "青シソ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "粗塩",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは２ミリ程度の薄切りにし、塩をまぶして１０分置き、ぎゅっと水気を絞ってから、流水でお好みの塩加減まで塩抜きします。\n",
+        "再度ぎゅっと水気を絞って、千切りにした青シソとあわせて完成です。お醤油又はポン酢を少しかけてどうぞ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1519351",
+    "advice": "",
+    "history": "最初は少ない塩で作ってましたが、少し大目の塩で揉んでから塩抜きするほうが歯ざわりがよく美味しくなるので、なすの塩もみはこの方法で作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "青シソ",
+        "粗塩"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1519351/100x141c/f249e7c21eb5fc63a7ccfbfac22dd548.jpg?u=2513693&p=1312892630"
+}

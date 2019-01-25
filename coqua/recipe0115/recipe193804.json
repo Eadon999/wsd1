@@ -1,0 +1,64 @@
+{
+    "name": "豚バラのカレー照り。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/193804/464x260/413b61fba7b04148837a562d3dcbcc91.jpg?u=4036&p=1214211820",
+    "datePublished": "2005-04-21",
+    "description": "カレーパウダー眠っていませんか？　あまから味でご飯がすすみます。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "400g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "蜂蜜",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "カレーパウダー",
+            "quantity": "小さじ１と1/2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉は食べやすい長さに切る。にんにくはすりおろして、オイスターソース・醤油・蜂蜜・酢・カレーパウダーと一緒に合わせておく。（タレ）",
+        "フライパンに薄くサラダ油を引き、豚バラ肉を強火で、こんがりと焦げ目がつくまで炒める。一旦火を止めて、クッキングペーパーで油を吸い取る。",
+        "再び火にかけて、1.で合わせたタレを入れて焦げないように煮からめればできあがり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "193804",
+    "advice": "",
+    "history": "鶏の照り焼きにカレーパウダーを入れると美味しかったので豚でもやってみようと思いました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ カレー"
+    ],
+    "tsukurepo_count": "221",
+    "thumbnail": "https://img.cpcdn.com/recipes/193804/100x141c/065395a00f7e6da4d6daa75d53a5b911.jpg?u=4036&p=1214211820"
+}

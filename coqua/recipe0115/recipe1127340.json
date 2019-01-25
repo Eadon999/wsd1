@@ -1,0 +1,66 @@
+{
+    "name": "アボカドとトマトのモッツアレラサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1127340/464x260/699bb8e0b748c5f53a8aa8762faf115e.jpg?u=2142891&p=1273930532",
+    "datePublished": "2010-05-15",
+    "description": "美味しいです。こんなに簡単なのがしんじられないくらい。お好みで仕上げには粗引きの黒コショウをたっぷりと！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１ケ（たて筋がくっきり見えるものほど美味しいです。）"
+        },
+        {
+            "name": "モッツァレラチーズ",
+            "quantity": "1ｹ"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１ケ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白ワインビネガー",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ルッコラ",
+            "quantity": "１/4把"
+        }
+    ],
+    "recipeInstructions": [
+        "トマト、モッツァレラチーズ、アボカドを一口大にそれぞれ切る。ルッコラも食べやすい大きさに切る。",
+        "ボールにオリーブオイル、ワインビネガー、塩を混ぜ合わせ、１を入れる。 \r\n",
+        "塩で味を調え、このみで黒コショウを加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1127340",
+    "advice": "自分の好みが手に取るように反映できます。味付けは少しずつ。でも、おおらかにしてもそれなりに美味しい太っ腹が好きな組み合わせです。",
+    "history": "切るだけで簡単。それだけに、ひとつひとつの味が決め手になります。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "モッツァレラチーズ",
+        "アボカド",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1127340/100x141c/ea4ca8614ed4013422af54a25d5bdfd9.jpg?u=2142891&p=1273930532"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "【農家のレシピ】万能たまねぎだれ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2013228/464x260/7e793294552e38fda17408155c46a161.jpg?u=2513693&p=1351682969",
+    "datePublished": "2012-11-01",
+    "description": "ローストビーフのたれとして開発した「たまねぎだれ」。焼いたお肉や生野菜に何でも使える万能たれです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "たまねぎ",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "りんご",
+            "quantity": "2分の1個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たまねぎとりんごは皮を剥き、一口大に切り、にんにくは皮を剥き芽があれば取り除いておく\n",
+        "【A】と①をミキサーに入れペースト状にし、鍋に移して中火で沸騰させ１日寝かせれば完成です。",
+        "ローストビーフもぜひどうぞ♪↓↓\nレシピID：2012028",
+        "「万能たまねぎだれde豚ばらサラダ」もぜひどうぞ♪\nレシピID：2031013"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2013228",
+    "advice": "保存期間は冷蔵庫で1ヶ月です",
+    "history": "ローストビーフにあうたれを色々考えていて完成した万能たれです。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ 万能たれ",
+        "万能たまねぎだれ",
+        "農家のレシピ りんご",
+        "ローストビーフ タレ りんご"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/2013228/100x141c/987148a5e07aa4281b974e4868217e1f.jpg?u=2513693&p=1351682969"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "白菜の明太子炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1251550/464x260/fcef535818fcc604494c6e94c93b86ac.jpg?u=1228553&p=1313648910",
+    "datePublished": "2010-10-06",
+    "description": "とにかく簡単！炒めるだけー♪の割にうまーい！(･∀･)　とまらーん！(･∀･) ",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/8株"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "明太子",
+            "quantity": "１腹"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油をひき、１センチ幅に切った白菜と薄切りにしたシイタケを炒める \n",
+        "みりん・醤油・皮を取った明太子を入れさらに炒めて出来上がり♪ \n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1251550",
+    "advice": "白菜から水が出ますからそこに明太子を溶くような感じで入れるとすぐにほぐれます。　白菜の大きさによって醤油の量は調節してくださーい♪",
+    "history": "冷凍しておいた明太子。 焼くだけじゃつまらないし・・・ でも火を通したいなー 白菜があったなぁ　炒めてみようヾ(oﾟｪﾟo)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "辛子明太子 白菜",
+        "白菜 明太子 炒め"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1251550/100x141c/508459f5368c8ea3c84551ed4a754377.jpg?u=1228553&p=1313648910"
+}

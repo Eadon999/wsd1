@@ -1,0 +1,75 @@
+{
+    "name": "✿大豆の煮物✿",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2622867/464x260/63a5f2533df2c855b518fd998e10ba55.jpg?u=3540419&p=1399815594",
+    "datePublished": "2014-05-12",
+    "description": "お家で大豆の煮物♡水煮の大豆を使うので、簡単！短時間♪やさしい味です(^-^)。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大豆の水煮",
+            "quantity": "150g"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1/3個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "55g"
+        },
+        {
+            "name": "こんぶ",
+            "quantity": "4×7cm"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "こんぶは水でぬらして少しおき、はさみで6~7mm角に切る。こんにゃくとにんじんは1cm角に切る",
+        "こんにゃくをさっとゆでる。大豆は水気をきっておく",
+        "鍋に油をひき、こんにゃくとにんじんを炒める",
+        "大豆とこんぶを加え、水120mlと調味料Aを加え、煮立ったら弱めの中火にして15~20分煮る"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2622867",
+    "advice": "大豆の水煮を使うので、簡単です。砂糖や醤油の量はお好みでかげんしてください。こんぶは水でぬらして少しおくと、やわらかくなって、はさみで切れます。",
+    "history": "大豆の水煮をお店でみつけたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大豆の水煮",
+        "こんにゃく",
+        "にんじん",
+        "こんぶ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2622867/100x141c/d59bfe36ba711cd289ccf44bc33a01ab.jpg?u=3540419&p=1399815594"
+}

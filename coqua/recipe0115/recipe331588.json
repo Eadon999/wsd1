@@ -1,0 +1,60 @@
+{
+    "name": "鉄分たっぷり♪鶏レバーの生姜煮",
+    "author": {
+        "@type": "Person",
+        "name": "大阪食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/331588/464x260/e6d195c0f7508619f48dbe0123791a41.jpg?u=280021&p=1214214742",
+    "datePublished": "2007-02-16",
+    "description": "あっさりフワッと炊いているので短時間で出来上がりますよ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏レバー",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１片"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏レバーは一口の大きさに切り脂肪と血合いを取り除き、水で洗う。",
+        "鍋にごま油を熱し、１の肝と生姜の千切りを入れて肝の表面の色が変わるまで炒める。",
+        "そこに酒、みりん、砂糖、醤油を入れ、落としぶたをして煮込む。たれが煮詰まってきたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "331588",
+    "advice": "最初に軽く炒めてから味付けします。",
+    "history": "鶏肝は安くて栄養もあるので良く作ります。",
+    "categories": [
+        "今日のご飯・おかず/ヘルシーおかず/鉄分たっぷり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏レバー 生姜煮",
+        "鶏レバー 生姜煮 あっさり"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/331588/100x141c/8d18f26ba3f5de6d0cdb4ff43e95ce57.jpg?u=280021&p=1214214742"
+}

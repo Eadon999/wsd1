@@ -1,0 +1,46 @@
+{
+    "name": "むかごのバター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/325945/464x260/d064b3961167ca40c926782336435ab6.jpg?u=220679&p=1214214623",
+    "datePublished": "2007-02-04",
+    "description": "むかごって山芋の実？長いもの実？よく分からないけど、バターで炒めたらこれがイケルの。体にもよさそう～～",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "むかご",
+            "quantity": "１００g"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰したお湯に塩少々（分量外）をいれ、むかごがやわらかくなるまでゆで、ザルにあげておく。",
+        "フライパンバターをとかして、ゆでたむかごをいれ塩コショウをして出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "325945",
+    "advice": "これといってありません。",
+    "history": "いつもはゆでただけのむかごを食べていましたが、たまには違う食べ方にしたくて、バター炒めにしたら、これが美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/むかご"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋の実",
+        "むかご",
+        "むかごバター炒め",
+        "むかご 炒め"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/325945/100x141c/3efb81c7d7b7e8124c508c0a5adccf52.jpg?u=220679&p=1214214623"
+}

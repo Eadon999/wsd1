@@ -1,0 +1,65 @@
+{
+    "name": "メカジキ磯辺揚げ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2362308/464x260/ae223c7cfbb987485cbb546ab316abe2.jpg?u=822079&p=1435911754",
+    "datePublished": "2013-10-02",
+    "description": "おつまみ、お弁当にも♪母がよく作ってました＾＾",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "メカジキ切り身",
+            "quantity": "4枚"
+        },
+        {
+            "name": "のり",
+            "quantity": "1枚"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうが汁",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "こさじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "メカジキ1枚を4-5等分に切り生姜、醤油、酒につけておく。水気を切り、のりを巻き、塩こしょうして片栗粉をまぶす。",
+        "フライパンに浸るくらいの油をいれ両面焼いてできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2362308",
+    "advice": "最初、つける前の魚の水分はキッチンペーパー等でふきっとてくださいーー＾＾",
+    "history": "おつまみ、お弁当にも♪簡単に出来る一品♪母の味",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "メカジキ切り身",
+        "のり",
+        "塩こしょう",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2362308/100x141c/b47a883ff1e81234c5584d65c56e4129.jpg?u=822079&p=1435911754"
+}

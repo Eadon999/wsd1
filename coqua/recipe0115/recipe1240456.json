@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】我が家のチンジャオロース",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1240456/464x260/d16a4fed218c9f59cf30dcc0eac5b389.jpg?u=2513693&p=1285231360",
+    "datePublished": "2010-09-27",
+    "description": "材料はピーマンと豚ばら肉と、醤油、オイスターソースだけ★　でも味はチンジャオロースです。調理時間５分くらいです ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "豚ばら肉",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉とピーマンは細切りにする\r\n",
+        "サラダ油大さじ１で豚肉を炒め、色が変わったらピーマンをいれ、ピーマンが少し柔らかくなるまで炒める\r\n",
+        "②にオイスターソースと醤油をいれ１分いためて出来上がり★　早っ！\r\n",
+        "豚肉とピーマンを大きめに切って同じレシピで作ると我が家では「ピーマンのオイスターソース炒め」と呼び名が変わります（笑）",
+        "野菜料理満載のブログ「Farmer's KEIKO農家の台所」もよかったら見てくださいね→→",
+        "http://ameblo.jp/farmers-keiko/"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1240456",
+    "advice": "",
+    "history": "醤油とオイスターソースだけでよく炒め物を作ります。味はチンジャオロースとそっくりです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/中華料理/チンジャオロース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "豚ばら肉",
+        "オイスターソース",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "387",
+    "thumbnail": "https://img.cpcdn.com/recipes/1240456/100x141c/aea3064c296b7a8ac9646627366d3ed1.jpg?u=2513693&p=1285231360"
+}

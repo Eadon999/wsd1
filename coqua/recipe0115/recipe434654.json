@@ -1,0 +1,62 @@
+{
+    "name": "ほっこりさつま芋ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "まむ"
+    },
+    "image": "https://img.cpcdn.com/recipes/434654/464x260/eb7ef4b5ac59ce61aa2c3820fd7a43ff.jpg?u=16784&p=1214217316",
+    "datePublished": "2007-09-25",
+    "description": "ほっこり甘いさつま芋を入れて秋の味覚を堪能してみませんか？【2007.10.16　皆さんのお陰で話題入りさせていただきました。　ありがとうございますo(*^▽^*)o】",
+    "recipeYield": "３合",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "３合"
+        },
+        {
+            "name": "○さつま芋",
+            "quantity": "中１本"
+        },
+        {
+            "name": "○塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "こんぶ",
+            "quantity": "5ｃｍ角くらい"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま芋を皮ごとお好みの大きさに切り（今回は2ｃｍくらいのさいの目）水に浸して、にごった水は数回変える。",
+        "炊飯器にお米を入れ、通常の水加減にセット。\r\nさつま芋と調味料を入れてざっと混ぜ、上に昆布を乗せたらスイッチオン。",
+        "炊き上がったらさつま芋を崩さないようにそっと混ぜてお皿に盛り、ゴマを振ったら完成♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "434654",
+    "advice": "塩を入れるとしまった味になりますのでお忘れなく・・・",
+    "history": "八百屋さんにさつま芋が並び始めたので。ホクホク甘いさつま芋ご飯は子供達も大好きです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お米",
+        "さつま芋",
+        "塩",
+        "醤油"
+    ],
+    "tsukurepo_count": "258",
+    "thumbnail": "https://img.cpcdn.com/recipes/434654/100x141c/07a6d7a66e5e54a855f2a2cafef997d4.jpg?u=16784&p=1214217316"
+}

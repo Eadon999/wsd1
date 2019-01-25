@@ -1,0 +1,54 @@
+{
+    "name": "人参のレンジ蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3315647/464x260/92812f88caa60949459701bdfa6edfc2.jpg?u=3280486&p=1437798976",
+    "datePublished": "2015-07-25",
+    "description": "人参丸ごと1本使用♫簡単☆レンジ蒸しです!(^^)!",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "人参（千切り）",
+            "quantity": "小1本（約200g）"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "3g"
+        },
+        {
+            "name": "煎りごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "青ネギ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおダシ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢・醤油",
+            "quantity": "各小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱皿に人参を入れ、<調味料>を加えて混ぜ合わせます。ラップをしてレンジ500Wで5分加熱。\n",
+        "ボウルに①とごま・かつおぶしを入れて混ぜ合わせたらお皿に盛ります。青ネギを盛り付けたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3315647",
+    "advice": "レンジアップ後は熱いので「やけど注意」です★",
+    "history": "スーパーで見かけた美味しそうな人参❤美味しく活用！と思って考えました（＾◇＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん レンジ蒸し"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3315647/100x141c/13a981df0f9d923e5d570de1b3eeb292.jpg?u=3280486&p=1437798976"
+}

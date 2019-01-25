@@ -1,0 +1,59 @@
+{
+    "name": "♡大根とツナの簡単サラダ♡",
+    "author": {
+        "@type": "Person",
+        "name": "みちばん♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3623949/464x260/eba0bcc2dcd9e4410a88091f39ad405d.jpg?u=9576967&p=1452846173",
+    "datePublished": "2016-01-15",
+    "description": "あともう1品という時に！大根でサラダを作りましょう♪2016/02/16話題入り♡ありがとうございます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "10cm程"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶(80g)"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2〜3"
+        },
+        {
+            "name": "白すりゴマ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて、千切りにし、塩を少々ふって揉み、15分程放置。ツナ缶は油を切っておく。",
+        "大根から水分が出るので、ぎゅっとしぼって水分を取る。",
+        "ツナ缶、マヨネーズ、白すりゴマを入れて混ぜ、最後に醤油を少々入れる。",
+        "お皿に盛りつけて出来上がりです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3623949",
+    "advice": "大根は細めの千切りにするといいと思います。マヨネーズの量はお好みで調節して下さい。私はゴマが大好きなので、結構たくさん入れてます(*^_^*)",
+    "history": "冬になると大根をたくさんいただくので、サラダにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ツナ缶",
+        "塩",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/3623949/100x141c/b8697bdad9b97e0a9f27ab300cd4f682.jpg?u=9576967&p=1452846173"
+}

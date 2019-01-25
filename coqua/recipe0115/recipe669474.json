@@ -1,0 +1,61 @@
+{
+    "name": "焼肉のたれで簡単な♪さばソテー",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/669474/464x260/bfc1a29a9cfc66b70120a7e6769666b6.jpg?u=276760&p=1224717570",
+    "datePublished": "2008-10-23",
+    "description": "市販の焼肉のたれでさばを焼くだけ♪なかなかいいつまみになります。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "さばの切り身",
+            "quantity": "２切れ（出来れば尾の方）"
+        },
+        {
+            "name": "●焼肉のたれ",
+            "quantity": "大さじ２くらい"
+        },
+        {
+            "name": "もやし",
+            "quantity": "小１袋"
+        },
+        {
+            "name": "にら",
+            "quantity": "１束"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さばはピンセットで骨を抜き、適当な大きさに切る。\r\n小麦粉をまぶす。\r\nニラも適当な長さにきっておく。",
+        "フライパンに油を熱し、もやしとにらを炒め、塩コショウする。\r\n器に盛る。",
+        "フライパンに油を熱し、小麦粉をまぶしたさばをこんがりと焼く。\r\n焼肉のたれをまわしかけ、味が絡まったら出来上がり。\r\n",
+        "２の上に盛り付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "669474",
+    "advice": "さばは尾の方の切り身だと骨が少ないので骨が取りやすいです。",
+    "history": "鯖が安かったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば　焼き肉のたれ",
+        "鯖ソテー"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/669474/100x141c/de0f629beac14926706da5e64cebd41b.jpg?u=276760&p=1224717570"
+}

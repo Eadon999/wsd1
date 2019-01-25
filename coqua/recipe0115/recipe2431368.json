@@ -1,0 +1,61 @@
+{
+    "name": "さつまいものミルクポタージュ",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2431368/464x260/5cef54e6a96a7d6d6e2f282536452bca.jpg?u=1298841&p=1387108527",
+    "datePublished": "2013-12-15",
+    "description": "さつまいもの自然な甘さを生かした、ミルク風味の優しい味に仕上げました。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中1本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "３００ｍｌ"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｍｌ"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは皮を剥いて輪切りにして柔らかくなるまで茹で、スライス玉ねぎはバターを引いた鍋で透き通るまで炒める。",
+        "鍋にさつまいもとコンソメ、牛乳、水を足し、温まったらブレンダーもしくはミキサーで滑らかにし、塩こしょうで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2431368",
+    "advice": "さつまいもの自然な甘さを生かすため、塩は味をみながら少しずつ加えてみてくださいね。",
+    "history": "コンソメの量を極力控え、さつまいもの自然な甘さを生かした優しい味にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "玉ねぎ",
+        "牛乳",
+        "水"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2431368/100x141c/07d7cd72d5c7e47ce0fcf86ac1da9b10.jpg?u=1298841&p=1387108527"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "☼焼きサバと野菜の甘酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/1264280/464x260/a54f30b9c8bef490bf1d86858c747723.jpg?u=276760&p=1287619248",
+    "datePublished": "2010-10-22",
+    "description": "★話題のレシピ入り★片栗粉をつけてカリッと焼いたサバと、野菜炒めを甘酢で絡めます。なかなか美味しいですよ。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "削ぎ切りにしたさばの切り身",
+            "quantity": "２００グラムくらい"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／３本"
+        },
+        {
+            "name": "●ケチャップ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●砂糖・酒・酢・醤油",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さばに片栗粉をまぶす。\r\nフライパンに油をひき、こんがりと焼いていったん取り出す。\r\n",
+        "フライパンをキッチンペーパーでよく油をふき取る。\r\n野菜を細切りにする。\r\n●の調味料をあわせておく。",
+        "フライパンに新たに油をひき、野菜を炒める。火が通ったら、●加えて中火で炒めからめる。\n\n",
+        "サバを戻し、さっくりまぜたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1264280",
+    "advice": "調味料の量はお好みで調節してください。フライパンに残ったサバの油をよくふき取ること。生臭さがなくなります。",
+    "history": "削ぎ切りにしたさばが安かったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": [
+        "焼きサバ 2位"
+    ],
+    "related_keywords": [
+        "しおさば",
+        "さば 甘酢炒め",
+        "さば 甘酢",
+        "サバ 甘酢炒め"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1264280/100x141c/74be7f48d609f3bf30af229d9d94ad97.jpg?u=276760&p=1287619248"
+}

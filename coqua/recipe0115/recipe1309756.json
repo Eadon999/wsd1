@@ -1,0 +1,58 @@
+{
+    "name": "エビとブロッコリのバジルソテー、10分で",
+    "author": {
+        "@type": "Person",
+        "name": "HaradaKiTN"
+    },
+    "image": "https://img.cpcdn.com/recipes/1309756/464x260/02adcdc563e59fcdd0aac57121979ef8.jpg?u=2328272&p=1298793914",
+    "datePublished": "2010-12-16",
+    "description": "'健康レシピ'で紹介感謝！フライパンにぽいぽいっで、できちゃう立派な一品です。話題入り感謝！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "むきエビ",
+            "quantity": "8尾"
+        },
+        {
+            "name": "ブロッコリ",
+            "quantity": "一株"
+        },
+        {
+            "name": "★オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★にんにく",
+            "quantity": "チューブか刻み、少々"
+        },
+        {
+            "name": "★塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "★乾燥バジル",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリを一口サイズに切ります。",
+        "エビと★を合わせてフライパンで5~6分ソテー。完了です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1309756",
+    "advice": "エビとブロッコリは同じぐらいの時間で火が通るので、本当に10分でできますよ。",
+    "history": "自分の好きな味付けです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "むきエビ",
+        "ブロッコリ",
+        "オリーブオイル",
+        "にんにく"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1309756/100x141c/a270b2609ba9d1aeb3208908bf17063b.jpg?u=2328272&p=1298793914"
+}

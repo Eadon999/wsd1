@@ -1,0 +1,63 @@
+{
+    "name": "簡単速い!きゅうりと豚バラの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "ぱーうぃー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3297619/464x260/a38d0a2339318c2487b3e7c073259d8a.jpg?u=4871292&p=1436955124",
+    "datePublished": "2015-07-15",
+    "description": "おつまみにもご飯にも合うしっかり味で、きゅうりが安い時期のお助けメニューです★",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1〜2本"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "酒",
+            "quantity": "小1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "米油またはサラダ油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは乱切りにする。豚肉は2cm幅に切り、塩胡椒、酒をからめ、片栗粉をまぶしておく。",
+        "小1の油できゅうりをさっと炒め軽く塩胡椒をする。お皿に取り出しておく。",
+        "油は入れず豚肉をよく炒める。",
+        "きゅうりを戻し入れしょうゆ、みりんを入れさっと炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3297619",
+    "advice": "豚肉はよく火が通るまで炒め、きゅうりを戻し入れたら手早く仕上げます。きゅうりはしっかり味が美味しですよ(^ ^)",
+    "history": "生のきゅうりに飽きた時に考えたレシピです。安い時期のお助けメニューです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "豚バラ肉",
+        "酒",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3297619/100x141c/d6ec0e8e291466a1da366f512ea475bd.jpg?u=4871292&p=1436955124"
+}

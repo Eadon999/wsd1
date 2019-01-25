@@ -1,0 +1,62 @@
+{
+    "name": "豚❤ごぼうのレモンバター醤油",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/486849/464x260/3bff9be07715c8c67e44a892151287d7.jpg?u=356251&p=1214218319",
+    "datePublished": "2008-01-14",
+    "description": "普通の煮物に飽きたら是非❤　レモンバター醤油も美味しいですよ～(✿^。^✿)",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "大１本"
+        },
+        {
+            "name": "豚薄切り",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油orナンプラー",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ポッカレモン１００",
+            "quantity": "大さじ１/２～１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうの皮を包丁の背でこそげ薄切りにする。豚肉は２～３ｃｍ幅に切る。",
+        "フライパンに豚、ごぼうを入れ、お酒を入れて炒め煮する。",
+        "火が通ったら塩コショウし、醤油を入れ味が馴染んだらバターを入れ溶けたら火を止めてレモン汁を絡めて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "486849",
+    "advice": "ごぼうの太さもありますので調味料は加減して下さいね。",
+    "history": "煮物ばかりだと食べてくれないのでサッパリとしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "豚薄切り",
+        "酒",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/486849/100x141c/c3f16147a13beae680285285ddbefddb.jpg?u=356251&p=1214218319"
+}

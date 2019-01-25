@@ -1,0 +1,55 @@
+{
+    "name": "めんつゆで簡単！我が家のカツ丼☆",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1710946/464x260/3f6ca6c8f8ccee50d106f9b51510f18d.jpg?u=603745&p=1447760406",
+    "datePublished": "2012-02-18",
+    "description": "めんつゆを使うのでとっても簡単!!トンカツでもチキンカツでも！フライを卵でとじても美味しいですよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "チキンカツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "50cc"
+        }
+    ],
+    "recipeInstructions": [
+        "カツを用意します。\n市販のものでも、手作りでも結構です。",
+        "たまねぎを細切りにします。",
+        "卵はしっかりと溶いておきます。",
+        "フライパンに水を入れて玉ねぎを煮ます。",
+        "しっかりと火を通して下さい。",
+        "めんつゆとカツを加えます。",
+        "卵でとじます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1710946",
+    "advice": "",
+    "history": "めんつゆを使って簡単にカツ丼を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/カツ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カツ丼 簡単 めんつゆ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1710946/100x141c/b7b9ca19e6a255435a12a889492cfc46.jpg?u=603745&p=1447760406"
+}

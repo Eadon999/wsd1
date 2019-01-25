@@ -1,0 +1,59 @@
+{
+    "name": "ほうれん草とお豆腐のさっぱりスープ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1741150/464x260/9b554b3553e986e9f912d74adc8442ad.jpg?u=603745&p=1447424707",
+    "datePublished": "2012-03-15",
+    "description": "お豆腐でボリュームもUP♡洋食にも和食にも！朝食にも♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "350cc"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1株"
+        },
+        {
+            "name": "お豆腐",
+            "quantity": "1/3丁"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ２～３"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は洗って適当な大きさに切ります。",
+        "お豆腐も適当な大きさに切ります。",
+        "鍋に沸かしたお湯にほうれん草とお豆腐を入れます。",
+        "☆の調味料で味付けをします。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1741150",
+    "advice": "お好みで炒りゴマやゴマ油をたらしても◎摩り下ろしのしょうがを加えると寒い冬には温まります！！",
+    "history": "洋食や中華の付け合わせにさっぱり味のスープを…と思い作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 豆腐 スープ",
+        "ほうれん草 スープ",
+        "豆腐 スープ 洋風",
+        "さっぱり スープ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1741150/100x141c/257972529a10f2278d3c0fc38f8b6247.jpg?u=603745&p=1447424707"
+}

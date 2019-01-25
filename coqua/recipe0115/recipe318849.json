@@ -1,0 +1,55 @@
+{
+    "name": "さっぱり★鰤の柚子こしょう風味",
+    "author": {
+        "@type": "Person",
+        "name": "keimama"
+    },
+    "image": "https://img.cpcdn.com/recipes/318849/464x260/ae9405ef8e53389320044d98da7270fd.jpg?u=227616&p=1214214469",
+    "datePublished": "2007-01-14",
+    "description": "鰤は外側がカリッ，柚子こしょうの風味で，照り焼きとはまた違った美味しさです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鰤の切り身",
+            "quantity": "2切"
+        },
+        {
+            "name": "★柚子こしょう",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★白醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鰤は焼く前に酒少々（分量には含まれていません）を振って臭みを抜いておきます。",
+        "★印の調味料を合わせておきます。",
+        "フライパンに油を引き水気を取った鰤の切り身を裏表とも中まで火が通るようにこんがり焼きます。",
+        "火が通ったら合わせた調味料を加えて，さっとからめて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "318849",
+    "advice": "",
+    "history": "照り焼きを作ろうとしたら，生姜を切らしていました(^_^;)仕方なく柚子こしょうで味付けしたら，さっぱり美味しかったので載せました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鰤の切り身",
+        "柚子こしょう",
+        "白醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/318849/100x141c/579a5511c84361abd953d310f295fb0d.jpg?u=227616&p=1214214469"
+}

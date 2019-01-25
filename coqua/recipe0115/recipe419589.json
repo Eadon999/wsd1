@@ -1,0 +1,51 @@
+{
+    "name": "トマト＆レタスのナンプラースープ",
+    "author": {
+        "@type": "Person",
+        "name": "kuikomi"
+    },
+    "image": "https://img.cpcdn.com/recipes/419589/464x260/9b06aa83fd9a01f750004e8691ce2d96.jpg?u=408538&p=1214217008",
+    "datePublished": "2007-08-21",
+    "description": "ナンプラーの香りでエスニックなスープです♪トマトとレタスで食欲の無いときにも（2018.12レシピ変更）",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中１/２個"
+        },
+        {
+            "name": "レタス",
+            "quantity": "２枚くらい"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ml"
+        },
+        {
+            "name": "ナンプラー（無ければ醤油でも可）",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはくし切り、レタスは適当な大きさにちぎっておく。",
+        "鍋に水を入れ、沸騰したら鶏がらスープの素を入れてトマトを加え、３分ほど煮込む。",
+        "はがれたトマトの皮は取り除く。レタスを加え、ナンプラーを回しいれて火を止めてざっとかき混ぜたら器に移して出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "419589",
+    "advice": "トマトは種も一緒にいれますトマトの皮が気にならない方はそのままでも。",
+    "history": "大好きなトマトスープにナンプラーを入れたらとっても美味しかったので。食欲なくてもごくごくいけます",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/エスニックなスープ/タイ風・アジアンスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナンプラー スープ"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/419589/100x141c/5a21911a77e27cba1dfbd5b728832276.jpg?u=408538&p=1214217008"
+}

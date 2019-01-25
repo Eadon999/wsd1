@@ -1,0 +1,64 @@
+{
+    "name": "冬瓜の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "komacafé"
+    },
+    "image": "https://img.cpcdn.com/recipes/2751814/464x260/20ae8b516b6a5edf303c4d014c109855.jpg?u=9673562&p=1408181931",
+    "datePublished": "2014-08-17",
+    "description": "味がしみ込んで柔らかいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "水",
+            "quantity": "３８０ｃｃ"
+        },
+        {
+            "name": "和風だしの素",
+            "quantity": "小さじ1 1/2"
+        },
+        {
+            "name": "醤油（薄口でも可）",
+            "quantity": "６０ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "７０ｃｃ~８０ｃｃ"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1 1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜の皮を剥き、わたをスプーンなどでしっかり取り、少し大きめに切る。",
+        "切った冬瓜の角を削ぎます。（面取り）",
+        "鍋に冬瓜、水を入れて火にかけて沸騰させ、和風だしの素を入れる。",
+        "醤油、酒、味醂、砂糖を入れて、落し蓋をして３０分~４０分煮る。",
+        "煮えたら、落し蓋をした状態のまま冷まします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2751814",
+    "advice": "煮崩れをしないように、面取りをします。煮えてすぐ出すより、冷ました方が味がしみ込んでおいしいです。休ませる時間が長いと、濃い色になるので、醤油は薄口でも大丈夫だと思います。",
+    "history": "買い物で冬瓜を見つけたので久しぶりに冬瓜を使った料理をしてみようと思いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "水",
+        "和風だしの素",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2751814/100x141c/d748f6813aa017272a197f72ef7aee2f.jpg?u=9673562&p=1408181931"
+}

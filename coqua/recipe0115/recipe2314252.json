@@ -1,0 +1,45 @@
+{
+    "name": "☸ウインナーのマヨ炒め♪お弁当に♪☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2314252/464x260/1f6aeee654a38b85cacfeb8c7ae2f76c.jpg?u=4672105&p=1417292948",
+    "datePublished": "2013-08-14",
+    "description": "１５．０３．２１．１００人話題入り感謝♪あと一品！という時のお助けおかず。お弁当にもおつまみにも♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ウインナー",
+            "quantity": "２本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ウインナーは斜めに切る。",
+        "フライパンを熱し、マヨネーズとウインナーを入れてマヨネーズを絡めるように炒める。\nこしょうをふる。\n"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2314252",
+    "advice": "ウインナーとマヨネーズから油が出るので、フライパンには何も敷かなくて大丈夫です。",
+    "history": "ウインナーだけで一品作れないかと何にでも合うマヨネーズで炒めてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナー",
+        "マヨネーズ",
+        "こしょう"
+    ],
+    "tsukurepo_count": "203",
+    "thumbnail": "https://img.cpcdn.com/recipes/2314252/100x141c/71c26625ff64e5d514cf2ab99f8b3af5.jpg?u=4672105&p=1417292948"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ささみとキャベツの塩昆布和え",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/2280327/464x260/4cd8a622065cc5f84432010f60c13622.jpg?u=4609610&p=1373273232",
+    "datePublished": "2013-07-08",
+    "description": "簡単ヘルシーあえものです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささ身",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/6コ"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみとキャベツを茹でる。",
+        "ささみは裂いて、キャベツは一口大に。",
+        "材料を全部和えるだけ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2280327",
+    "advice": "キャベツとささみはレンジでチンしてもいいですよ。しんなりさせたキャベツが甘くおいしいです。",
+    "history": "ささ身をサラダ以外のあっさり料理で食べたくて。おつまみにもヘルシーでいいですよ～",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ささみ 塩昆布"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2280327/100x141c/9860c263f19ba35af7b08fc97d5655f8.jpg?u=4609610&p=1373273232"
+}

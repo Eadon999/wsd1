@@ -1,0 +1,79 @@
+{
+    "name": "絶対『美味しい♪』ポテトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ｎｏｂｅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1249201/464x260/d55f1b4c7c9a6ba2ebe4241be516d4f1.jpg?u=1676708&p=1286095003",
+    "datePublished": "2010-10-03",
+    "description": "このﾎﾟﾃｻﾗは絶対『美味しっ!!』って言わせます★",
+    "recipeYield": "4",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "４コ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4コ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "２コ"
+        },
+        {
+            "name": "★塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★からし",
+            "quantity": "３㎝くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ４"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむき、火が通りやすい様に切っておく。",
+        "お湯を沸かし、沸騰したらコンソメとじゃがいもを入れ茹でる。",
+        "違う鍋でゆで卵を作る。茹で終ったらみじん切りにしておく。",
+        "じゃがいもが茹で上がる前に玉ねぎ・きゅうり・ハムを切っておく。",
+        "じゃがいもが茹で上がったら熱いうちに潰しながら★の材料を混ぜ、切った材料も入れる。",
+        "マヨネーズで味を整え完成です♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1249201",
+    "advice": "コンソメで茹でるのがポイント♪  じゃがいも１つに対してコンソメ小さじ１です★",
+    "history": "料理上手な職場の人に教えてもらったレシピを少しｱﾚﾝｼﾞしました♪(>▽<*)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絶対美味しいポテトサラダ",
+        "絶対美味しい サラダ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1249201/100x141c/cd7ebdb44b94b0bb4e7121c75459ba2e.jpg?u=1676708&p=1286095003"
+}

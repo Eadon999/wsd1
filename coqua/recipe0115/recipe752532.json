@@ -1,0 +1,46 @@
+{
+    "name": "★我が家の定番★簡単バター醤油チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "kojyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/752532/464x260/c451cf0c18c2d5d6475c312b5a65ca1b.jpg?u=657130&p=1273550353",
+    "datePublished": "2009-03-07",
+    "description": "10.5.25話題入りさせていただきました。バターと醤油だけ。とても簡単です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗2杯"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "4枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "おおさじ１〜2"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンを好きな大きさにカットし、フライパンにバターを熱しベーコンを炒める。",
+        "１にご飯をいれ炒めてだし醤油を回しかけできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "752532",
+    "advice": "だし醤油がないときは醤油でも大丈夫です。分量はこさじ１〜2ぐらい。",
+    "history": "バターが大好きな旦那のために作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "定番チャーハン"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/752532/100x141c/e5e7e2cdef8bc4fcb2db61a05a4b1326.jpg?u=657130&p=1273550353"
+}

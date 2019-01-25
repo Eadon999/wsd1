@@ -1,0 +1,54 @@
+{
+    "name": "牛肉とピーマン♡オイマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ちゅん②"
+    },
+    "image": "https://img.cpcdn.com/recipes/492655/464x260/a4260375301f7dddcd3a3ddd9742cec7.jpg?u=478058&p=1214218430",
+    "datePublished": "2008-01-22",
+    "description": "マヨでこってりコクうまな炒め物です♡ 丼にするのがオススメ！豚肉でも美味しいですよ^^",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "薄切り牛肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒・醤油",
+            "quantity": "大匙1/2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大匙1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは千切りにしておく。 \r\n",
+        "フライパンを熱しマヨネーズをたっぷり敷き、溶けてきたらピーマン牛肉を炒める。",
+        "火が通ったら酒・醤油・オイスターソースを入れ絡め、完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "492655",
+    "advice": "牛肉を炒めて出た油はキッチンペーパーで吸い取るのをオススメします*　こってりなので、お皿に盛るときレタスを敷いた上に盛るとちょうどいいです*　丼にするとご飯が進みます～＾＾",
+    "history": "こってり、コクのあるおかずが欲しくてマヨネーズを油代わりに使いました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "薄切り牛肉",
+        "ピーマン",
+        "マヨネーズ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/492655/100x141c/d7c54f2b0225e667ccef2f3538302b15.jpg?u=478058&p=1214218430"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "生キャベツがたっぷり食べられるサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/930004/464x260/c32c592883383d36d96cffa14a7ec124.jpg?u=1109634&p=1254839299",
+    "datePublished": "2009-10-06",
+    "description": "生のキャベツにかけるだけ～！おつまみにピッタリ！",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4玉"
+        },
+        {
+            "name": "すったにんにく",
+            "quantity": "小さじ1/2（3本指で1つまみ）"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2（3本指で1つまみ）"
+        },
+        {
+            "name": "うま味",
+            "quantity": "小さじ1（3本指で2つまみ）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1（片手に1杯）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1,5（片手に1杯半）"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをザックリ切る。",
+        "たれを混ぜてかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "930004",
+    "advice": "☆子供に食べさせる時は、たれをキャベツに混ぜて和えると少ししんなりして食べやすいです。",
+    "history": "キャベツを生でたっぷり食べたくて考えました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生キャベツ たれ",
+        "生キャベツ サラダ",
+        "生キャベツ ごま油",
+        "生キャベツ つまみ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/930004/100x141c/0ae37e6ad0abe854deefb958ae59a817.jpg?u=1109634&p=1254839299"
+}

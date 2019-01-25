@@ -1,0 +1,52 @@
+{
+    "name": "鳥ささみのマヨフライ",
+    "author": {
+        "@type": "Person",
+        "name": "かこーげん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3745977/464x260/2e5f2f86ee51cd3187784c155cd528d0.jpg?u=14443592&p=1463232651",
+    "datePublished": "2016-03-13",
+    "description": "卵の代わりにマヨネーズに絡めてフライします。柔らかく揚がって美味しかったです。カレー粉がアクセントです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鳥ささみ",
+            "quantity": "200g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鳥ささみを一口大に切る。",
+        "マヨネーズ、カレー粉、胡椒を混ぜ、鳥ささみと和える(ジップロックで揉みこむと手が汚れません)。",
+        "30分ほど置いたらパン粉をまぶす。",
+        "180℃の油でフライし、衣がきつね色になったらできあがり!"
+    ],
+    "cookTime": null,
+    "recipe_id": "3745977",
+    "advice": "カレー粉の代わりに味噌や七味などお好みのフレーバーを使ってもいいと思います。",
+    "history": "ジューシーなフライを食べたかったのでマヨネーズでささみを柔らかくしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみフライ カレー"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3745977/100x141c/75f51a539cd96e3cdcbcad14ce69b273.jpg?u=14443592&p=1463232651"
+}

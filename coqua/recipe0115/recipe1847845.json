@@ -1,0 +1,50 @@
+{
+    "name": "大根菜の炒めもの",
+    "author": {
+        "@type": "Person",
+        "name": "misamakuro"
+    },
+    "image": "https://img.cpcdn.com/recipes/1847845/464x260/86abbc8e1070169bd995626a0332c9d3.jpg?u=2206215&p=1339467720",
+    "datePublished": "2012-06-12",
+    "description": "葉つきの大根や間引き菜が手に入ったら、作ってみてくださいね～♪かぶの葉でも作れますよ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根菜（間引き菜でも）",
+            "quantity": "適量"
+        },
+        {
+            "name": "うす揚げ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根菜は小口切り。うす揚げは油抜きして、短冊切り。",
+        "油をひいたフライパンを熱し、大根菜を炒める。うす揚げを加えたら、さっと炒めて塩麹で調味する。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1847845",
+    "advice": "・かぶの葉でも同様に作れますが、かぶの葉は大根菜より苦味があるので、気になる方はさっと茹でてから炒めてください。",
+    "history": "・大根菜は塩もみしてもおいしいですが、炒めものだとたくさん食べられるので、よく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根菜",
+        "うす揚げ",
+        "塩麹",
+        "ごま油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1847845/100x141c/a0ee0c543a4ef2aa7622a1cb9394b7bb.jpg?u=2206215&p=1339467720"
+}

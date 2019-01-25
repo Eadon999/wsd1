@@ -1,0 +1,68 @@
+{
+    "name": "ワンタンの皮スープ",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1666326/464x260/e1f90224dda5f837824bea5ed36b968c.jpg?u=602880&p=1325844889",
+    "datePublished": "2012-01-06",
+    "description": "★★★話題入りありがとう★★★人気検索ありがとう★★★余ったワンタンの皮でとろとろスープ。簡単で温まる〜。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "800cc"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "溶き卵",
+            "quantity": "2個分"
+        },
+        {
+            "name": "ワンタンの皮",
+            "quantity": "9枚位"
+        },
+        {
+            "name": "●鶏ガラスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯を沸かして長ネギを入れます。",
+        "再度沸いたらワンタンの皮を入れ、●の調味料を加えます。",
+        "溶き卵を細く入れてかき混ぜる。最後にごま油を足して一混ぜしたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1666326",
+    "advice": "たまごは細く入れてくださいね。",
+    "history": "ワンタンの皮が余っていたので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": [
+        "ワンタンの皮 8位"
+    ],
+    "related_keywords": [
+        "ワンタンの皮 スープ",
+        "余ったワンタンの皮",
+        "ワンタンの皮",
+        "ワンタンスープ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1666326/100x141c/8f84777445ebaa8165c1303476d0ebf3.jpg?u=602880&p=1325844889"
+}

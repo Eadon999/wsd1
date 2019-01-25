@@ -1,0 +1,76 @@
+{
+    "name": "簡単、おからの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "たく＆ももママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2471682/464x260/548ae2bdc1decb303f1b238e055751c8.jpg?u=2698854&p=1390351444",
+    "datePublished": "2014-01-22",
+    "description": "2014.2.26話題入りしました。家にある材料で、炒め煮するだけ簡単おからの煮物です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おから(生)",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "人参(千切り)",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "薄揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ささみ",
+            "quantity": "1本"
+        },
+        {
+            "name": "白ネギ(みじん切り)青い部分も",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3(大さじ2)"
+        }
+    ],
+    "recipeInstructions": [
+        "お鍋、又は、フッ素樹脂加工の鍋でおからをから炒りする。水分を軽く飛ばす程度",
+        "ネギ以外の野菜や具材を入れ炒める",
+        "だし汁、砂糖、みりん、しょうゆを入れ強火で加熱。煮立ったら、水分がなくなるまで中火で混ぜながらいる。",
+        "ネギを入れて軽く炒め、仕上げにお好みでごま油をかける。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "2471682",
+    "advice": "材料は、上記に書いたもの以外でも、ＯＫミックスベジタブや、あさり、きくらげや、あるものでつくってみてください。",
+    "history": "おからが好きで、うちの常備菜です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "人参",
+        "薄揚げ",
+        "ささみ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2471682/100x141c/9a13da8a3e6d66106bd11ce91ac45fa7.jpg?u=2698854&p=1390351444"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "永谷園のお茶漬け海苔で即席湯豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2116319/464x260/4edc1920acf602ae6e33d02596e0887e.jpg?u=2124468&p=1360667248",
+    "datePublished": "2013-02-12",
+    "description": "寒い冬に手早く温まる料理。永谷園のお茶漬け海苔があれば3分で湯豆腐！！いい出汁です(^_^)v",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(絹)",
+            "quantity": "200g"
+        },
+        {
+            "name": "永谷園のお茶漬け海苔",
+            "quantity": "1袋"
+        },
+        {
+            "name": "水",
+            "quantity": "7～80ml"
+        },
+        {
+            "name": "刻みネギ（あれば）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "わさび(チューブ)",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "器に豆腐と水を入れて、ラップをして電子レンジで２～３分加熱。",
+        "お茶漬け海苔、ネギ、わさびをそえてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2116319",
+    "advice": "",
+    "history": "簡単で温まれるものはないか？",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "永谷園 6位"
+    ],
+    "related_keywords": [
+        "永谷園 お茶漬け",
+        "温まる料理",
+        "永谷園 お茶漬け 豆腐",
+        "永谷園お茶漬けのり"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2116319/100x141c/ac05afd52557609fcc5ea9e62b5d463b.jpg?u=2124468&p=1360667248"
+}

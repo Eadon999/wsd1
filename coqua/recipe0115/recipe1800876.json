@@ -1,0 +1,57 @@
+{
+    "name": "レンジで５分！かぼちゃの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ユチキ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1800876/464x260/c9dfbd4c99140cc23eebbdd6d1b89196.jpg?u=499861&p=1336055671",
+    "datePublished": "2012-05-03",
+    "description": "たった５分なのに美味しい煮物ですよ♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "200g"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★白だし",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ4"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは3～5cm角に切る。",
+        "レンジ用容器にかぼちゃと★を入れ軽く混ぜ合わせ、5分加熱(500W)したら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1800876",
+    "advice": "",
+    "history": "簡単スピードおかずです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "砂糖",
+        "みりん",
+        "白だし"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1800876/100x141c/6e086faf89bb014f1727c715314179da.jpg?u=499861&p=1336055671"
+}

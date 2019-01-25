@@ -1,0 +1,65 @@
+{
+    "name": "簡単！カニカマで●かに玉●",
+    "author": {
+        "@type": "Person",
+        "name": "ぷりマン"
+    },
+    "image": "https://img.cpcdn.com/recipes/299150/464x260/73549f1acd6fe6a12664ab7f69456332.jpg?u=275253&p=1214214015",
+    "datePublished": "2006-11-09",
+    "description": "早い！安い！旨い！！の三拍子揃った『かに玉』デス☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "スティック６本位"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "●中華あじ（中華の素）",
+            "quantity": "小１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大３"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに卵を割りほぐし、●の材料を加えて混ぜておく。長ネギは細切り。カニカマはほぐしておく。",
+        "フライパンにごま油を熱し、長ネギ・カニカマを炒め、長ネギがしんなりしたら、卵を加えて、混ぜながら半熟で皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "299150",
+    "advice": "強火でチャチャっと仕上げる☆",
+    "history": "昔通っていた、お料理教室で習ったレシピを、簡単にできるようにアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "カニカマ",
+        "長ネギ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/299150/100x141c/93100290921ec962047460c3ffb515f8.jpg?u=275253&p=1214214015"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "おいものハニーマスタードサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "つくしぐみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/785609/464x260/5d37ec114f0685f3178e1175b61fa025.jpg?u=67545&p=1239892421",
+    "datePublished": "2009-04-17",
+    "description": "ウチで大人気のおかずです。",
+    "recipeYield": "３〜４人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "１本"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "○粒マスタード",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "サツマイモを良く洗い、あまり厚切りにならないように注意しながら、乱切りにして、水にさらします。",
+        "水気を切ったサツマイモを、多めのサラダ油で両面こんがり、かりっと焼きます。弱火で、菜箸がすっと刺さるまで、じっくり。",
+        "ボウルに○印の調味料を合わせておき、焼き上がったサツマイモを入れて和えます。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "785609",
+    "advice": "調味料は、きっかり計らなくても、目分量で大丈夫。マヨネーズとはちみつはスプーンで計りにくいので、だいたい大さじ１の大きさにマヨネーズを２回絞り、はちみつも大さじ１の大きさくらいたらせばOKです。",
+    "history": "娘の好きなハニーマスタードとさつまいもを合わせたら、美味しいおかずになりました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハニーマスタード"
+    ],
+    "tsukurepo_count": "250",
+    "thumbnail": "https://img.cpcdn.com/recipes/785609/100x141c/fded8e48f8bf77cf2abd8abb6a8dc948.jpg?u=67545&p=1239892421"
+}

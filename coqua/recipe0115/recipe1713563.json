@@ -1,0 +1,59 @@
+{
+    "name": "お夜食に！ささみと白菜のササっと塩麹鍋",
+    "author": {
+        "@type": "Person",
+        "name": "ネコヤマネコジロウ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1713563/464x260/df85b77f5d5dffc277ba0c5a41b14424.jpg?u=2373814&p=1329738393",
+    "datePublished": "2012-02-20",
+    "description": "何かと話題の塩麹で簡単に旨みがアップ！ヘルシーでしかも美味しい。超ローカロリーだからお夜食でも安心！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "１本"
+        },
+        {
+            "name": "白菜",
+            "quantity": "葉２枚分"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "合わせ出汁",
+            "quantity": "１．５カップ"
+        },
+        {
+            "name": "塩麹（ささみ揉み込み用）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "アサツキ",
+            "quantity": "１本"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは1cm厚くらいのそぎ切りにし、塩麹を揉み込んでおく。白菜は食べやすい大きさに切る。",
+        "だし汁に塩麹を加え、煮立てば白菜を加えて柔らかくなるまで煮る。",
+        "ささみを加えてさっと煮る。1分くらい。あまり長いとぱさつきの原因になる。",
+        "ささみに火が通れば器に盛り、アサツキを散らして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1713563",
+    "advice": "ささみには火を通しすぎないでくださいね。だし汁に加える塩麹は塩分をみて調整してください。",
+    "history": "初めて手に入れた塩麹をデイリーに使いたくて！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ鍋",
+        "ささみ 白菜 鍋",
+        "ささみ 塩麹",
+        "塩麹鍋"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/1713563/100x141c/aa5674d942ecec82038f64da2f8ab2b9.jpg?u=2373814&p=1329738393"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "【農家のレシピ】雷豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1883942/464x260/86454f335502614e7edece756b87696e.jpg?u=2513693&p=1342264700",
+    "datePublished": "2012-07-17",
+    "description": "我が家の雷豆腐はご飯の上に乗せて食べるので、だしをきかせた濃い目の味付け。「豆腐のふりかけ」のような感じです。　　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "万能だし醤油(レシピID :1236017)",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水切りをした木綿豆腐をフライパンの中に手で崩しながら入れていりつけます。",
+        "豆腐の水分が飛びパラパラになったらごま油を入れ軽く混ぜてから万能だし醤油を入れ水分がなくなるまで煎ります。",
+        "器に盛り、小口切りの青ネギ、かつおぶしを乗せて完成です。ご飯の上に乗せて召し上がれ～"
+    ],
+    "cookTime": null,
+    "recipe_id": "1883942",
+    "advice": "＊万能だし醤油の代用として「醤油大さじ１.5+みりん大さじ１.5+出しの素少々」になります。",
+    "history": "雷豆腐を何度か作っていくうちに、ご飯に乗せて食べると美味しいように調味料を調整してこのレシピになりました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "雷豆腐"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1883942/100x141c/2b052d0712ab37d439cd72fe1c178d53.jpg?u=2513693&p=1342264700"
+}

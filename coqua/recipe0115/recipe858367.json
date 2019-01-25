@@ -1,0 +1,51 @@
+{
+    "name": "＊さつまいもピザ＊",
+    "author": {
+        "@type": "Person",
+        "name": "ＨＥＷＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/858367/464x260/d4c526879316c5bfb4e1429b4f55ea2f.jpg?u=977600&p=1322553434",
+    "datePublished": "2009-07-07",
+    "description": "レンチンしてからトースターで♪チーズが苦手な方は、マヨでもおいしい♡H21.9.2話題入り感謝です♪",
+    "recipeYield": "６個分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "約６センチ"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "適量"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊お好みでパセリ",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもを１センチ弱に薄切りして、皮をむいて水につける。",
+        "お皿に並べてふんわりラップし、レンチンする。（７００ｗで２分）",
+        "さつまいもにケチャップ→ツナ→チーズの順にのせて、トースターで数分焼いたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "858367",
+    "advice": "ご家庭のレンジにより、時間を調整して下さい♪熱いので気をつけて下さいね＾＾トッピングはお好きなものでどうぞ♡",
+    "history": "娘の好きなピザを、娘の好きなさつまいもで夕食に♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいもピザ"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/858367/100x141c/46a3f9299031ac9c0170de0902543e54.jpg?u=977600&p=1322553434"
+}

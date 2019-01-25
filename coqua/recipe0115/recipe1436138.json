@@ -1,0 +1,56 @@
+{
+    "name": "圧力鍋・手羽元のバーベキュー味",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1436138/464x260/51075fa528fc8eedca3c30aad0db25fd.jpg?u=496128&p=1305160230",
+    "datePublished": "2011-05-12",
+    "description": "家にある調味料で豪華に！大人も子供も大好きな味です。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "9本"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ4と1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒・砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "①圧力鍋に適量の水と手羽元を入れる。\n約17分加圧、自然冷却。",
+        "②①をたれに半日漬ける。",
+        "③食べる前に煮絡める。",
+        "④ゆで卵も一緒に漬けこんでもＯＫ。卵3個分の時はたれを4人分に。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1436138",
+    "advice": "お好みでタバスコや粉チーズをかけて頂いて下さい。タバスコをかけるとアルコールとの相性抜群。半熟卵を添えてもgood！もも肉でフライパンで出来るようにしました。レシピＩＤ1443398 を参考に。",
+    "history": "子供が手羽元大好きなので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元 圧力鍋 バーベキュー"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1436138/100x141c/cf48cbbbf64c467b8b0d5bc52136da8c.jpg?u=496128&p=1305160230"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "タコでワサビ風味マリネ♪",
+    "author": {
+        "@type": "Person",
+        "name": "リカミント"
+    },
+    "image": "https://img.cpcdn.com/recipes/597041/464x260/2bc9bb2399d8a73530c5bb34a153fbad.jpg?u=65469&p=1215133465",
+    "datePublished": "2008-06-23",
+    "description": "茹でタコを使って～ワサビ風味の簡単マリネを作りました＾＾ちょっとした前菜にいかが？",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでタコの足",
+            "quantity": "１本"
+        },
+        {
+            "name": "●オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●塩・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "●練りワサビ",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２～３枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでタコは食べやすく薄切りにする。\r\n大葉は千切りにしておく。",
+        "●の材料を混ぜてドレッシングを作り、１のタコを入れて冷蔵庫でマリネする。(２０～３０分くらいかな～＾＾)",
+        "お皿に盛り付け、１の大葉を乗せたら出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "597041",
+    "advice": "特にありませんが～ワサビは好みで加減してくださいね＾＾",
+    "history": "酢味噌以外の食べ方で・・・ゆでだこを食べたかっただけなんです＾＾",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ マリネ"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/597041/100x141c/dab920f3768d66a56ef9efe0eb4bad00.jpg?u=65469&p=1215133465"
+}

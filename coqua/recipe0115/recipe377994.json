@@ -1,0 +1,50 @@
+{
+    "name": "かぼちゃのチーズ風味",
+    "author": {
+        "@type": "Person",
+        "name": "くずぴー"
+    },
+    "image": "https://img.cpcdn.com/recipes/377994/464x260/88e8d81c981d42a9ca83d4bca3be23aa.jpg?u=256385&p=1455359133",
+    "datePublished": "2007-05-23",
+    "description": "しっかりしたかつお味のほんのり甘いかぼちゃに粉チーズのまろやかさがよく合います。冷めても美味しい人気のおかずです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは食べやすい大きさに切る。",
+        "鍋にかぼちゃ、めんつゆ、水を入れ火にかけ、煮汁がほとんどなくなるまで煮る。\n粉チーズをからめたら出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "377994",
+    "advice": "かぼちゃの皮は、お好みに合わせて下さいね♪雪 時雨さんが仕上げに黒胡椒を振ると美味しいと教えて下さいました♪",
+    "history": "めんつゆを使った簡単レシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "めんつゆ",
+        "水",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/377994/100x141c/8250a4768e567fa08448b343febaf9be.jpg?u=256385&p=1455359133"
+}

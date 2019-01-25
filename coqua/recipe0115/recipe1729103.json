@@ -1,0 +1,54 @@
+{
+    "name": "＊キャベツとワカメの味噌汁＊",
+    "author": {
+        "@type": "Person",
+        "name": "ラビリンス♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1729103/464x260/0d315708e9cd4cb18758959cd178bf47.jpg?u=2473877&p=1411777998",
+    "datePublished": "2012-03-05",
+    "description": "キャベツとワカメの組み合わせが大好きで、レシピとはいえないかもしれませんが、ぜひこの組み合わせ試してみてください☆",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "３～５グラム"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｍｌ"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ１1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは千切りにする。",
+        "鍋に水、顆粒だし、①のキャベツ、乾燥わかめを入れ、キャベツに火が通るくらいまで待つ。",
+        "キャベツに火が通ったら、味噌をとき、\n器にそそいだら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1729103",
+    "advice": "ごま油をたらすとさらにおいしいですよ。",
+    "history": "キャベツの味噌汁が大好きなので☆",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "乾燥わかめ",
+        "水",
+        "顆粒だし"
+    ],
+    "tsukurepo_count": "127",
+    "thumbnail": "https://img.cpcdn.com/recipes/1729103/100x141c/ecb75e974157e5ef22506f163c4d2bba.jpg?u=2473877&p=1411777998"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "うまっ☆めんたいバターおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/364950/464x260/c6de75e68c5b7ed3430ca883c49c54c2.jpg?u=322945&p=1214215470",
+    "datePublished": "2007-04-25",
+    "description": "大好きな組み合わせのおにぎり♪チャーハンおにぎりみたいなかんじです☆バターなしでもいいけど、こってりも美味しい♪♪",
+    "recipeYield": "２個",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗軽く２杯分"
+        },
+        {
+            "name": "めんたいこ（又はたらこ）",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "海苔",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "めんたいこの皮をとる。熱々のご飯に海苔以外、全て混ぜる♪ （めんたいこにも熱が通ります。）",
+        "握って、海苔で巻いて完成☆",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "364950",
+    "advice": "お好みでお醤油を少々入れてもおいしいです。",
+    "history": "この材料でチャーハンはよく作りますが、おにぎりにしても美味しそうと思い、作ってみました♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太子 おにぎり",
+        "明太子 バター おにぎり"
+    ],
+    "tsukurepo_count": "106",
+    "thumbnail": "https://img.cpcdn.com/recipes/364950/100x141c/8ed26ade34a4485050fd920cc863f6d9.jpg?u=322945&p=1214215470"
+}

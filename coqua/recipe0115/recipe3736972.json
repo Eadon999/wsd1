@@ -1,0 +1,60 @@
+{
+    "name": "簡単・ピリ辛・キュウリだけ",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3736972/464x260/1cfb0a2997c4b2007a35c3062f80701b.jpg?u=496128&p=1457435956",
+    "datePublished": "2016-03-08",
+    "description": "切って混ぜるだけ！キュウリだけで箸がすすむ一品。おつまみにもどうぞ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小匙3"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小匙3"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小匙1/2"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大匙1"
+        }
+    ],
+    "recipeInstructions": [
+        "①キュウリを細切りする。斜めに薄切りにしてから、少しずつずらして重ね、端から細く切っていく。",
+        "➁食べる直前にたれを混ぜる。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3736972",
+    "advice": "たっぷりの量と思うかもしれませんが、2人であっという間になくなっちゃいます。",
+    "history": "レシピID : 847443　キャベツ版をキュウリに。今回はさらに簡単。切って混ぜるだけ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピリ辛きゅうり コチュジャン",
+        "ピリ辛きゅうり"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/3736972/100x141c/a7bf52c71707321772a486dc3ac116f1.jpg?u=496128&p=1457435956"
+}

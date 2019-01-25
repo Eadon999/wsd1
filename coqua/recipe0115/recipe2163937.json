@@ -1,0 +1,75 @@
+{
+    "name": "アスパラとベーコンのトマトパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "あいわい。さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2163937/464x260/f30ffdfac97682062f7028ee4ce659b0.jpg?u=5084550&p=1364014955",
+    "datePublished": "2013-03-23",
+    "description": "アスパラとベーコンの相性はバツグン！トマトソースがよく絡み、とっても美味しいですよ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ（乾麺）",
+            "quantity": "100g"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "1～2本"
+        },
+        {
+            "name": "ベーコンスライス",
+            "quantity": "1～2枚"
+        },
+        {
+            "name": "Aトマト缶(カットタイプ)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "A塩・あらびきブラックペパー",
+            "quantity": "各ひとつまみ"
+        },
+        {
+            "name": "A砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "Aパスタの茹で汁",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "刻みにんにく",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "1本"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタを少し硬めに茹でる。アスパラは斜めにそぎ切りにし、ベーコンは1cm幅に切っておく。",
+        "フライパンを熱しオリーブオイルを敷き、にんにく・鷹の爪・アスパラを入れ炒める。",
+        "（２）にベーコンを加え炒め、茹でたパスタを加える。",
+        "（３）にAの材料をすべて入れ味を調え、器に盛り完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2163937",
+    "advice": "",
+    "history": "アスパラがもうすぐヤバイ状態でしたのでパスタに。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/トマトソースパスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "アスパラ",
+        "鷹の爪",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2163937/100x141c/8b0f2a0bef666aed433e673d06f6154c.jpg?u=5084550&p=1364014955"
+}

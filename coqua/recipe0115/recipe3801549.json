@@ -1,0 +1,77 @@
+{
+    "name": "作り置き、大人のツナピーマン。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3801549/464x260/0fb567de6c8314bb2f7a59e23e384b5d.jpg?u=4036&p=1460433091",
+    "datePublished": "2016-04-12",
+    "description": "作り置きシリーズ！ ピリッと辛くて大葉が香る、大人味の常備菜です。美味しくて止まらない！",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "中8個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "8枚"
+        },
+        {
+            "name": "ツナ缶(小)",
+            "quantity": "１缶"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "数滴"
+        },
+        {
+            "name": "炒りごま(白)",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは、ヘタと種を除き細く切る。大葉は縦半分に切り、さらに細く切る。ツナは油を切っておく。",
+        "フライパンに胡麻油とピーマンを入れて火にかける。塩を振り中火で2分ほど炒め、しんなりとしたら●の調味料を入れる。",
+        "手順2を中火で水分がほぼ無くなるまで炒めて火を消す。",
+        "手順3に大葉・ツナ・ラー油・炒りごまを入れてざっくり混ぜ合わせれば完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3801549",
+    "advice": "辛いものが苦手な方はラー油抜きでどうぞ。",
+    "history": "レシピID:1851307のアレンジです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン ツナ"
+    ],
+    "tsukurepo_count": "183",
+    "thumbnail": "https://img.cpcdn.com/recipes/3801549/100x141c/0ecfdff608df1897dc9a123b8733a842.jpg?u=4036&p=1460433091"
+}

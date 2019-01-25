@@ -1,0 +1,63 @@
+{
+    "name": "水菜&ハムの胡麻マヨパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "なお★nao"
+    },
+    "image": "https://img.cpcdn.com/recipes/506363/464x260/ce607ad9a2eca2979650b86248aea61e.jpg?u=65903&p=1214218692",
+    "datePublished": "2008-02-12",
+    "description": "シャキシャキ水菜の食感が美味しい簡単パスタです♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "１人前"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "白すり胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を５ｃｍ幅、ハムは、半分に切ってから１ｃｍ幅に切っておく。\r\nパスタを所定の時間通りに、たっぷりのお湯で茹でてザルにあけておく。",
+        "フライパンにマヨネーズを入れ沸々としてきたらハムを加えて軽く炒めパスタも加えて炒め混ぜ、みりん&醤油を加えて、まんべんなく炒め混ぜたら水菜を加え軽くシンナリするまで炒め白すり胡麻を加え混ぜてブラックペッパーで味を整えたら完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "506363",
+    "advice": "水菜は、サラダでも食べられるぐらいの軟らかめのものを使用した方が、食べやすく美味しいかと思います。水菜を加えてからは、炒めすぎないように注意。胡麻は白でも黒でもお好みで。",
+    "history": "ランチにあり合せ材料で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 ハム パスタ"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/506363/100x141c/32d74bd7e75eeb8ad0b4acd43135d2a1.jpg?u=65903&p=1214218692"
+}

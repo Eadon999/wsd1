@@ -1,0 +1,58 @@
+{
+    "name": "お好み風キャベツサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "梅乃花おり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3634635/464x260/1025d7fc3704f90a0aee76bb86230f99.jpg?u=11955070&p=1453502993",
+    "datePublished": "2016-01-20",
+    "description": "最早普通にキャベツが食べれない。美味。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ細めのざく切り",
+            "quantity": "8分の1玉"
+        },
+        {
+            "name": "おかか",
+            "quantity": "適量"
+        },
+        {
+            "name": "紅生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "小ネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ソース、マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "切ったキャベツとほんだしを合わせてレンジで3分チンする。ソース、マヨネーズ、おかか、小ネギ、紅生姜。完成。",
+        "キャベツのカテゴリに掲載。",
+        "2017.4話題入り感謝。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3634635",
+    "advice": "少し食感がある程度の太い千切りが良いかと思います。",
+    "history": "夕食準備中にコンロが壊れて、野菜のもう一品にキャベツをレンチンしたお好み風にしてみた。尊敬するやさいのはたけさんの日記よりアイディアを頂きました。罪悪感なし、やめられない！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おかか",
+        "紅生姜",
+        "小ネギ",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/3634635/100x141c/477e9585b38c0536053439e22b647820.jpg?u=11955070&p=1453502993"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "お好み焼きご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "ゆき10"
+    },
+    "image": "https://img.cpcdn.com/recipes/382668/464x260/338b3d2d172fd76fd786d482379f9c58.jpg?u=44668&p=1214216255",
+    "datePublished": "2007-06-01",
+    "description": "つくれぽ！１００人ありがとうございます♪カリっとふわふわ！ クセになるお味です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗１杯"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "二つまみほど"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "葱",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全部混ぜて\r\n油をひいたフライパンでカリっと焼きます。\r\n薄く焼いたほうが火が通りやすくていいです＾＾",
+        "仕上げにマヨとケチャップ、ソースをかけて召し上がってください♪",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "382668",
+    "advice": "材料はお好みでいろんなものを入れてみてください♪分量は一応(^^;書いてありますが、お好みでアレンジしてみてくださいね♪",
+    "history": "ブログのお友達がお好み焼き風ではなかったけど混ぜて焼いていたので・・・",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "卵",
+        "ピザ用チーズ",
+        "かつおぶし"
+    ],
+    "tsukurepo_count": "204",
+    "thumbnail": "https://img.cpcdn.com/recipes/382668/100x141c/d700213d8f05d598a58a6faa01a77da9.jpg?u=44668&p=1214216255"
+}

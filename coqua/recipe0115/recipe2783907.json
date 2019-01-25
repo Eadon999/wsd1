@@ -1,0 +1,60 @@
+{
+    "name": "簡単一品＊トマトと大葉の和風和え",
+    "author": {
+        "@type": "Person",
+        "name": "＊Ａｎｎａ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2783907/464x260/5a3d243ddcb447555c752400ed10a080.jpg?u=2200256&p=1409837726",
+    "datePublished": "2014-09-05",
+    "description": "和えて冷蔵庫で冷やすだけ♪簡単に出来る一品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5~6枚"
+        },
+        {
+            "name": "白煎りゴマ",
+            "quantity": "小1"
+        },
+        {
+            "name": "＊ゴマ油",
+            "quantity": "大2"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "小1"
+        },
+        {
+            "name": "＊ほんだし",
+            "quantity": "2つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを串切りにする。",
+        "更に半分の大きさに切る。",
+        "大葉は縦半分に切り、1cm幅に刻む。",
+        "＊を合わせる。",
+        "4にトマト・大葉・ゴマを入れ合える。\n冷蔵庫で30分程冷やしたら、完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2783907",
+    "advice": "冷蔵庫で冷やす時、途中で混ぜ直すと全体的に味が馴染みます。くれぐれもトマトが崩れない様に♪",
+    "history": "トマトと大葉の消費です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "大葉",
+        "白煎りゴマ",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2783907/100x141c/db0dfdd483757973281f888c021a03d0.jpg?u=2200256&p=1409837726"
+}

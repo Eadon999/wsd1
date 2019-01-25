@@ -1,0 +1,64 @@
+{
+    "name": "大豆としらすのごまがらめ",
+    "author": {
+        "@type": "Person",
+        "name": "NKTキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/731009/464x260/d89dfeb01fba0df088098044b348aa02.jpg?u=1093886&p=1234141363",
+    "datePublished": "2009-02-09",
+    "description": "話題入りしました～みなさんに感謝♪カルシウムたっぷり！甘辛くておいしいですよ。おかずにおやつにどうぞ～",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "水煮大豆",
+            "quantity": "１袋（１５５ｇ）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "しらす干し",
+            "quantity": "２０～３０ｇ"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水煮大豆の水気をキッチンペーパーでとる。ナイロン袋に大豆と片栗粉を入れよく振り、まんべんなく粉を付ける。",
+        "熱した油で、しらす干しを素揚げする、３０秒程度。\r\n１の大豆もカラッと揚げる。",
+        "フライパンに☆を入れ、グツグツしたらごまと２の大豆としらすを入れ、一気にからめる。\r\n出来上がり！",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "731009",
+    "advice": "しらすはフライパンで炒ってもいいです、カロリーダウンになりますね。味はお好みでかえてくださいね。",
+    "history": "母がよく作っていました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大豆 しらす"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/731009/100x141c/08dc4470f7505a011c14e5e4545a27fa.jpg?u=1093886&p=1234141363"
+}

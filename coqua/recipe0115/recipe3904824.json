@@ -1,0 +1,47 @@
+{
+    "name": "レンジで簡単！竹輪の丼風小鉢",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3904824/464x260/b248ab3d1f804cb4bc55259e29b6b720.jpg?u=4376699&p=1465220876",
+    "datePublished": "2016-06-07",
+    "description": "ちょこっと小鉢やご飯に掛けてミニ丼風！お弁当にも！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "竹輪",
+            "quantity": "2本"
+        },
+        {
+            "name": "葱(みじん切り)",
+            "quantity": "20cm"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "竹輪を縦に4等分して半分に切る\n卵を混ぜて残りの材料を加えて混ぜる\nレンジ600w1分チンしてざっくり混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3904824",
+    "advice": "半熟に仕上げていますのでレンチン時間はお好みで！七味唐辛子もお好みで！ネギはたっぷり入れましょう♪",
+    "history": "残りものの竹輪を小鉢に！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "竹輪",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3904824/100x141c/33a197af2ab2d25bc64ea2481d9a6873.jpg?u=4376699&p=1465220876"
+}

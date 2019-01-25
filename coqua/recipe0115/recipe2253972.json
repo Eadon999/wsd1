@@ -1,0 +1,57 @@
+{
+    "name": "アボカドのトマトおろし和え",
+    "author": {
+        "@type": "Person",
+        "name": "ふなここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2253972/464x260/bab965dba638138064f704c5913e4b52.jpg?u=2943729&p=1407413472",
+    "datePublished": "2013-06-12",
+    "description": "夏にピッタリなアボカドの食べ方です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1つ"
+        },
+        {
+            "name": "トマト",
+            "quantity": "半分"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "EXオリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "生姜のすりおろし",
+            "quantity": "ひとかけの半分〜"
+        }
+    ],
+    "recipeInstructions": [
+        "調味料を混ぜます。",
+        "アボカドの種を取りサイコロ状に切ります。すったトマトと調味料とアボカドを混ぜたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2253972",
+    "advice": "アボカドを切ったら調味料とすぐ混ぜて下さい。そしたらアボカドが黒くなりません。アボカドとトマトと器を冷蔵庫で冷やしておくとより美味しくなります。",
+    "history": "たくさん入ってお得なアボカドを買ったので、好きな生姜と合わせてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "トマト",
+        "ポン酢",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2253972/100x141c/dcba5430fed66e74eaef28866275b997.jpg?u=2943729&p=1407413472"
+}

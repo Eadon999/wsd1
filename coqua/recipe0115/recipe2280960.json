@@ -1,0 +1,63 @@
+{
+    "name": "ししとうとじゃこ炒め***ちょっとピリ辛",
+    "author": {
+        "@type": "Person",
+        "name": "ハナミズキ食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/2280960/464x260/5678e131c6bb66ea8c796a65a97e66d6.jpg?u=6770934&p=1373331390",
+    "datePublished": "2013-07-09",
+    "description": "定番の、おつまみ一品♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ししとう",
+            "quantity": "20本位"
+        },
+        {
+            "name": "じゃこ（しらすでも）",
+            "quantity": "大さじ３位"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "唐辛子(輪切り)",
+            "quantity": "3、４個"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ししとうは洗ってへたを取る。",
+        "フライパンにごま油と唐辛子を入れ熱くなったらじゃこを入れ炒める",
+        "じゃこがカリカリになってきたらししとうを入れ焼き色がつくまで炒める。",
+        "酒を入れ全体に馴染んだらしょうゆ・みりんを入れ全体を合わせる。\n皿に盛って出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2280960",
+    "advice": "ししとうは、はじけないように大き目にへたを取るか、切込みを入れてください。調味料(●）を全て合わせておいて４で一気に入れても大丈夫です。（アルコールが飛べばよい）",
+    "history": "ししとう大好き♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ししとう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししとう",
+        "じゃこ",
+        "酒",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2280960/100x141c/4566461553fab053be22b4d0efce041b.jpg?u=6770934&p=1373331390"
+}

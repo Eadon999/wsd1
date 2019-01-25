@@ -1,0 +1,55 @@
+{
+    "name": "小松菜のじゃこマヨ常備菜。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3650389/464x260/e5aed5d69a8b4e63df62a8e483233a2c.jpg?u=4036&p=1453954665",
+    "datePublished": "2016-01-28",
+    "description": "作り置きシリーズ！　美味しすぎて足りなくなってしまう困った常備菜です。",
+    "recipeYield": "タッパー（中）１個分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "400g"
+        },
+        {
+            "name": "●ちりめんじゃこ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●胡麻油",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は塩少々を加えた熱湯で茹でて冷水にとって冷ます。長さ２センチ程度に切り、水分をぎゅっと絞っておく。",
+        "ボウルに1.の小松菜と●の材料を入れてよく混ぜる。物足りなければ塩少々を入れて味を整えて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3650389",
+    "advice": "茹でた小松菜は冷水で一気に冷ますと綺麗な緑色に保てます。",
+    "history": "小松菜をサラダ感覚で食べたいと思って考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 じゃこ 常備菜"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/3650389/100x141c/87600585338257548842519d6b132cda.jpg?u=4036&p=1453954665"
+}

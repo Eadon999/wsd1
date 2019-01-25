@@ -1,0 +1,52 @@
+{
+    "name": "キャベツとマカロニツナサラダ★",
+    "author": {
+        "@type": "Person",
+        "name": "kojyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/681273/464x260/652585db217da8eb0a111ee1e5973224.jpg?u=657130&p=1270615056",
+    "datePublished": "2008-11-12",
+    "description": "ツナは何にでもあっちゃいますね。０９年６月２３日話題入りさせていただきました)^o^(",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "マカロニ",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニをお湯で柔らかくなるまで、茹でる。",
+        "茹でてる間にキャベツを千切りにして、塩でもむ。",
+        "キャベツとマカロニを混ぜ、ツナ、マヨネーズ、塩コショウで、味を整えれば出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "681273",
+    "advice": "キャベツはたくさんつかってください。私はきゅうりも入れちゃいます＾＾濃い味付けがお好きな方はマヨネーズと塩コショウを多めにしてください。",
+    "history": "キャベツがあまったので、作ってみました。ツナは何にでも合いますね＾＾",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ マカロニ"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/681273/100x141c/a485f71b8a2e62698010771149990473.jpg?u=657130&p=1270615056"
+}

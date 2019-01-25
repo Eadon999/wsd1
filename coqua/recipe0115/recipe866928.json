@@ -1,0 +1,59 @@
+{
+    "name": "厚揚げのおろし煮",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/866928/464x260/2c3dacabce9b5542088841e658bb2da1.jpg?u=1423987&p=1247719500",
+    "datePublished": "2009-07-16",
+    "description": "大根の自然な甘みのおだしがジュワーっとしみこんでます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "8cm位"
+        },
+        {
+            "name": "生姜のすりおろし",
+            "quantity": "1かけ分"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "1と1/2カップ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいてすりおろす。出てきた水分をざっと分けておく。 （水分は煮汁になるので捨てない。）",
+        "厚揚げは食べやすい大きさに切って鍋に並べる。",
+        "ここに1のおろし汁と●を加えて火にかけ、中火で煮る。",
+        "煮汁が1/3程度まで煮詰まったら、大根おろしとおろし生姜を加えてさっと煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "866928",
+    "advice": "冷やして食べても美味しいです♪",
+    "history": "厚揚げをヘルシーかつシンプルにいただきたかったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "大根",
+        "生姜のすりおろし",
+        "だし汁"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/866928/100x141c/0eaf7e0116477d2fca9636aa615989ff.jpg?u=1423987&p=1247719500"
+}

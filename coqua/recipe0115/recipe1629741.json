@@ -1,0 +1,50 @@
+{
+    "name": "【農家のレシピ】もやしと高菜の和え物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1629741/464x260/ddf0737f9b741d65c0554f2d8b86c537.jpg?u=2513693&p=1321451936",
+    "datePublished": "2011-11-20",
+    "description": "もやしと高菜の組み合わせはとっても美味しいんです。炒めても美味しいけど、この和え物が特に好きです♪　",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "高菜の漬物",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗って熱湯で９０秒茹でお湯を切っておきます。高菜は細かく刻んでおきます",
+        "①を【A】で和えて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1629741",
+    "advice": "",
+    "history": "もやしと高菜の組み合わせが好きで、炒めたり和え物にしたりしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高菜 もやし"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1629741/100x141c/81d3701246562402e409dce2ff639ef2.jpg?u=2513693&p=1321451936"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "かぶの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ふーちゃんパパ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1206497/464x260/3f9456c10f5facdc62d7c6902a44d3e2.jpg?u=2034063&p=1281307547",
+    "datePublished": "2010-08-09",
+    "description": "さっぱり美味しい",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "３株"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは、半月切りにする。別の容器に醤油、みりん、砂糖、生姜を混ぜる。",
+        "フライパンでかぶを塩コショウを振り炒める。",
+        "最後に混ぜてたタレを絡めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "1206497",
+    "advice": "特にありません",
+    "history": "生姜味の煮物が美味しいので、焼いてみたら美味しかったので載せました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶのしょうが焼き"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1206497/100x141c/583212f1e94def77ed1ad2536d87e73f.jpg?u=2034063&p=1281307547"
+}

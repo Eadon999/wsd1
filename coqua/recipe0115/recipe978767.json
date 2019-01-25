@@ -1,0 +1,63 @@
+{
+    "name": "ポテトグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "K/S"
+    },
+    "image": "https://img.cpcdn.com/recipes/978767/464x260/fe66dd2666297ac6f0a0e42533e32ebb.jpg?u=928830&p=1259546970",
+    "datePublished": "2009-11-30",
+    "description": "フライパン一つで出来ます！ 大好評であっという間に完食ｗ10/12/14話題入り♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "2個"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "バター",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "☆牛乳",
+            "quantity": "1カップ（200ml）"
+        },
+        {
+            "name": "☆こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋→薄い輪切り\r\n玉葱→薄切り",
+        "フライパンにバターをとかし①を炒め☆を加えて10分ほど煮る（時々掻き混ぜる）味を見て薄いようであればこしょうを追加",
+        "グラタン皿に盛ってチーズをふりかけてトースターでこんがりと焼き目をつける",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "978767",
+    "advice": "＊りりみなさんが全行程レンジで出来たそうなのでお試しください♪",
+    "history": "主人の大好きなじゃが芋で好きなグラタンを作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/グラタン/ポテトグラタン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "玉葱",
+        "バター",
+        "コンソメ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/978767/100x141c/5f4710ff4cf06f96782591004affdad5.jpg?u=928830&p=1259546970"
+}

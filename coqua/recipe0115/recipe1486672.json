@@ -1,0 +1,56 @@
+{
+    "name": "✿たらこのバター醤油パスタ～大葉のせ～✿",
+    "author": {
+        "@type": "Person",
+        "name": "ぽっぽっぽ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1486672/464x260/62774c5bf868c07ffd99852d67ca9ff1.jpg?u=3155632&p=1309670292",
+    "datePublished": "2011-07-03",
+    "description": "とっても簡単！！バター醤油が美味しい♡たらこに火がしっかり通っているのでお弁当にもどうぞ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "たらこ",
+            "quantity": "2腹"
+        },
+        {
+            "name": "大葉",
+            "quantity": "10枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "●たらこは薄皮に切り目を入れて中身を取り出す。\n●大葉は細切りにしておく。\n●パスタを指定時間茹でる。",
+        "フライパンを熱し、バターとほぐしたたらこを入れ炒める。",
+        "2の火を一度止めて茹でたパスタを混ぜ合わせる。\n再び加熱し、塩胡椒・醤油で味を整える。",
+        "3をお皿に盛りつけて大葉をのせたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1486672",
+    "advice": "3の工程でパスタを加える前にパスタの茹で汁を大さじ2～3杯入れるとパサパサせずに仕上がります。",
+    "history": "以前から作っていたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たらこパスタ バター醤油"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/1486672/100x141c/90d7f451339c6c00702b94bbd2196426.jpg?u=3155632&p=1309670292"
+}

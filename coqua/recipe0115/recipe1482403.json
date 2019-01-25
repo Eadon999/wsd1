@@ -1,0 +1,49 @@
+{
+    "name": "我が家の簡単！インゲン☆マヨ胡麻和え  ",
+    "author": {
+        "@type": "Person",
+        "name": "ぼびあばー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1482403/464x260/432399f7c1e7b58c9ffb4fd30f5bb344.jpg?u=3139767&p=1309209116",
+    "datePublished": "2011-06-28",
+    "description": "うちの旦那(マヨラー)の大好物のゴマ和え。調味料３つを混ぜ合わせるだけでパパっと一品♬ ",
+    "recipeYield": "約二人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でたインゲン",
+            "quantity": "小鉢で二人分"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは茹でて4～5センチの食べやすい長さに切っておく",
+        "入れ物に調味料全て入れ混ぜ合わせる (めんつゆは濃縮度合いも色々なので、お好みで調整して下さい)",
+        "2にインゲンを投入し混ぜ合わせて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1482403",
+    "advice": "調味料の分量は全て目安です。お好みで増減して下さい～インゲンだけでなく、他の野菜でもイケると思います(^o^)",
+    "history": "胡麻好きの私とマヨ好きの旦那。合わせてみたらバッチリ美味しかったので(^_^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マヨネーズ",
+        "すりゴマ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1482403/100x141c/92875a9b026069b29e0bba37c290efa2.jpg?u=3139767&p=1309209116"
+}

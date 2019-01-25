@@ -1,0 +1,76 @@
+{
+    "name": "朝食に♪白菜のミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "mio*."
+    },
+    "image": "https://img.cpcdn.com/recipes/738554/464x260/d1faf8aaf9ba14bcde43ee84658c4e03.jpg?u=1028954&p=1234957922",
+    "datePublished": "2009-02-18",
+    "description": "２０１０．１１．２話題入り☆パンと一緒に頂く白菜のスープ♪ほっこり優しい味がします。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/４"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "4枚"
+        },
+        {
+            "name": "コーン",
+            "quantity": "大さじ３～４"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "粒状小さじ２くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は２ｃｍ、玉ねぎは５ｍｍスライス、ベーコンは１ｃｍに切る。鍋を熱し、バターを入れ玉ねぎとベーコンを炒める。",
+        "続いて、白菜を入れ塩、こしょうをし、しんなりするまで炒める。",
+        "水を加え、コンソメを入れ蓋をし５分～１０分ほど煮込む。",
+        "くたくたに煮えたら、コーンを加え、牛乳を入れて弱火で煮る。塩こしょうで味を調える。",
+        "お陰さまで話題入りしました♪作って下さった皆さん、どうもありがとう！"
+    ],
+    "cookTime": null,
+    "recipe_id": "738554",
+    "advice": "コンソメはお好みで加減してみて下さいね。",
+    "history": "パンに合うスープのレパートリーを増やしたくて。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "玉ねぎ",
+        "ベーコン",
+        "コーン"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/738554/100x141c/0270fa6af253ae07a39273a22e490fb7.jpg?u=1028954&p=1234957922"
+}

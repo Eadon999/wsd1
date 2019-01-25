@@ -1,0 +1,74 @@
+{
+    "name": "中華春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/486804/464x260/29b499417213bd62c785625f70be3f9a.jpg?u=212659&p=1432693557",
+    "datePublished": "2008-01-12",
+    "description": "少ない材料で簡単春雨サラダ",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨",
+            "quantity": "１００ｇ（乾燥時）"
+        },
+        {
+            "name": "ハム",
+            "quantity": "６～７枚 約１００ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ３　約1/2個分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "大さじ１ 1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "中華だし（顆粒）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "春雨を表示茹で時間よりも短めに、硬めにゆでる。きゅうりを千切り、ハムを適当な大きさに切る。",
+        "ドレッシングの材料を全て混ぜ合わせておく。はちみつは最後に味をみながら適量を加える。",
+        "春雨の水気をよくきり、温かいうちにドレッシングに漬け込む。冷めたらきゅうりとハムを加えて混ぜ合わせ、冷蔵庫で冷やせば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "486804",
+    "advice": "少し酸っぱめの味付けです。レモン汁はお好みで加減してください。きくらげなどを加えても。",
+    "history": "中華春雨サラダが好きなので。常備している調味料で自分好みの味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨",
+        "ハム",
+        "きゅうり",
+        "ドレッシング"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/486804/100x141c/7d52eae1ddb9b7a6fa5a66fbcc946603.jpg?u=212659&p=1432693557"
+}

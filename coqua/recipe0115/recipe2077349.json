@@ -1,0 +1,53 @@
+{
+    "name": "モツ煮込みうどん",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2077349/464x260/20247855822af065c6fd8a56f2729bcd.jpg?u=2124468&p=1357644367",
+    "datePublished": "2013-01-08",
+    "description": "旨味たっぷりのモツの味噌煮込みの残りにうどんを投入。うどんが旨味を吸い込み、とっても濃厚なうどんになりました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "モツの味噌煮",
+            "quantity": "100g"
+        },
+        {
+            "name": "冷凍うどん",
+            "quantity": "1個"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "一味とうがらし",
+            "quantity": "適宜"
+        },
+        {
+            "name": "水",
+            "quantity": "100ml"
+        }
+    ],
+    "recipeInstructions": [
+        "モツの味噌煮込み（レシピID：2077316）の残りに水を足し、沸騰したところに冷凍うどんを投入。",
+        "麺がほぐれ、1分ほど煮込めば出来上がりです。\n刻みネギと一味とうがらしを散らしてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2077349",
+    "advice": "",
+    "history": "残ったモツ煮込みの使途。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もつ煮込みうどん",
+        "もつうどん",
+        "モツ煮込み 残り物",
+        "モツ煮込み 冷凍"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2077349/100x141c/5cc50c74690822b52013647c85cf13c2.jpg?u=2124468&p=1357644367"
+}

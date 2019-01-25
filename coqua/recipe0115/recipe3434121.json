@@ -1,0 +1,60 @@
+{
+    "name": "豚とたまねぎとピーマンの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3434121/464x260/b1e74fead75e4f1ad922a25cdf6269d3.jpg?u=4819316&p=1443633928",
+    "datePublished": "2015-10-01",
+    "description": "15/11/11話題入り有難うございます、冷蔵庫にある材料で簡単にできます、ご飯の進む味です、お試し下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは種を除き縦に細切り、たまねぎは薄切りにする",
+        "フライパンに分量外のサラダ油を加熱して、豚、たまねぎ、ピーマンを炒める",
+        "火が通ってくれば、●を加えて混ぜて炒める",
+        "お皿に盛って出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3434121",
+    "advice": "存在をあまり感じないのだけれど、たまねぎが意外と良い仕事をしています",
+    "history": "私の好きな味付けです、冷蔵庫にあった材料をこの味で炒めてみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉 ピーマン 玉ねぎ",
+        "ピーマン 豚肉",
+        "ピーマン 玉ねぎ",
+        "豚肉と玉ねぎの甘辛炒め"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/3434121/100x141c/11df5a2e092e607f40b5b89cc2ac04d7.jpg?u=4819316&p=1443633928"
+}

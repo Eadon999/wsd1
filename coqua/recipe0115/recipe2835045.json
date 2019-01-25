@@ -1,0 +1,46 @@
+{
+    "name": "フライパンで秋刀魚の酒蒸し焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2835045/464x260/802b764d1cb598072dd98d042dc96ff1.jpg?u=822079&p=1413082706",
+    "datePublished": "2014-10-12",
+    "description": "フライパンにクッキングシートひいて両面焼くだけ♪美味しい日本酒があれば是非♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "2尾"
+        },
+        {
+            "name": "クッキングシート",
+            "quantity": "フライパンの大きさ分"
+        },
+        {
+            "name": "酒",
+            "quantity": "おおさじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにクッキングシーとを敷き、ワタを取り塩を振った秋刀魚を並べる。中火～弱火で5分位焼く。",
+        "焼き色がついたらひっくり返し酒をいれ蓋をし、蒸らして5分。蓋を開けて弱火1分でできあがり！",
+        "レシピID : 2705537 \n鮭バージョン",
+        "バーナーがあれば表面をあぶってたら更にGOOD"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2835045",
+    "advice": "秋刀魚の皮は薄いのでクッキングペーパーを持ち上げてはがすようにすると綺麗にとれます",
+    "history": "グリル使用中のため",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま フライパン クッキングシート",
+        "さんま 酒蒸し",
+        "酒蒸し焼き"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2835045/100x141c/3068347b36377448273be47fe5f4d851.jpg?u=822079&p=1413082706"
+}

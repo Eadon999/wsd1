@@ -1,0 +1,57 @@
+{
+    "name": "ささっともう一品☆味噌こんにゃく",
+    "author": {
+        "@type": "Person",
+        "name": "ひろうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/231638/464x260/ce385d2af792940efa9a172c6afd0da8.jpg?u=67621&p=1214212524",
+    "datePublished": "2005-12-22",
+    "description": "こんにゃくの簡単味噌炒め煮です♪あともう一品ほしい！というときに作ります。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "ミニパック１袋（３g）"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを一口サイズにちぎります。",
+        "お湯を沸かして、１のこんにゃくを茹でます。",
+        "味噌、砂糖、酒を混ぜておきます。",
+        "２のこんにゃくを鍋に入れ、から煎りします。",
+        "音がするようになってしばらくしたら、３の合わせ調味料を入れます。",
+        "汁気がなくなる前にかつお節を入れ、絡まったらできあがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "231638",
+    "advice": "時間が経つと味がしみて、さらにおいしいです♪",
+    "history": "母の味。久しぶりに食べたらおいしかったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "味噌",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/231638/100x141c/90129971845bb23db82a775798a2b080.jpg?u=67621&p=1214212524"
+}

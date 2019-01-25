@@ -1,0 +1,50 @@
+{
+    "name": "キャベツ♡♥塩昆布レモン風味サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/384628/464x260/fb65b2074dcc6b7a0cdfed0e257b2f45.jpg?u=304393&p=1214216297",
+    "datePublished": "2007-06-05",
+    "description": "キャベツを塩昆布とレモン風味でさっぱりと。唐辛子も加えてピリッと爽やかに。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１/４玉"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ふたつかみ"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "（小口切り）適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは粗めに千切り。\r\n塩昆布を合わせよ～くもむ。",
+        "軽く絞ってレモン汁を加え味を見て足りないようなら塩を少し足す。\r\n赤唐辛子を加え食べる直前まで冷蔵庫で冷やす。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "384628",
+    "advice": "②の工程で塩を足しますが塩昆布を足してもOK。レモン汁も好みでもっと足しても美味しいです。",
+    "history": "ありそうでないかな？って思って作ったレシピ。キャベツは胃腸にも優しいのでいっぱい食べたい野菜なので。いっぱい食べるには揉むのが１番！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "レモン汁",
+        "塩昆布",
+        "赤唐辛子"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/384628/100x141c/370dd0c8071349caf3163fa079fba4e2.jpg?u=304393&p=1214216297"
+}

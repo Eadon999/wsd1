@@ -1,0 +1,55 @@
+{
+    "name": "長いも　三杯酢で",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/343215/464x260/b05a731d9c58d23ed4bfbbb5ba6c0ba7.jpg?u=274122&p=1214215009",
+    "datePublished": "2007-03-12",
+    "description": "切って和えるだけの超簡単レシピ。３分で１品できますよ♪",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "２００～２５０グラム"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○薄口醤油",
+            "quantity": "大さじ１・５"
+        },
+        {
+            "name": "○塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "○の調味料を合わせておく。",
+        "長いもは短冊切り、または千切りにして１と和える。",
+        "器に盛りつけもみのりをふりかけてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "343215",
+    "advice": "先に調味料を合わせておいて、長いもを切ったらすぐに和えてくださいね。",
+    "history": "とにかくお腹がすいていたので、すぐに食べられるものを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋三杯酢"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/343215/100x141c/17cc5073f34e45913b4b444e69d1551a.jpg?u=274122&p=1214215009"
+}

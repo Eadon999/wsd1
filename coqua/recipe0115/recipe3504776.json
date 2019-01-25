@@ -1,0 +1,63 @@
+{
+    "name": "子供だいすき！大根サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ふくふくごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3504776/464x260/4a999f8fbaacb8de6c4b6b462534ec5e.jpg?u=8262211&p=1446978397",
+    "datePublished": "2015-11-08",
+    "description": "このサラダなら、大量の大根もバクバク食べてくれます♫家にある材料で、とっても簡単！",
+    "recipeYield": "3人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "○ツナ缶",
+            "quantity": "1個"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "海苔",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにする。スライサーで切ってから、包丁で千切りにするとラク。",
+        "切った大根に、塩をいれ軽くもみ、5分くらい置いておく。",
+        "水分がでてくるので、キッチンペーパーで絞る。\n手でもオッケー",
+        "ツナ缶は汁を切って。\n○の調味料とツナを投入。\nよく混ぜる。",
+        "かつお節と海苔を好きなだけかけて^_^V\n出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3504776",
+    "advice": "最初に塩で大根をしんなりさせておくと、こどもも食べやすい。コショウが味の決め手です！",
+    "history": "小さい頃に母が良く作ってくれてました。久しぶりに食べたくなって！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根　大量",
+        "大根サラダ こども",
+        "大根 子供"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3504776/100x141c/0afe2f8195572d2e8e6a60db4715d9e7.jpg?u=8262211&p=1446978397"
+}

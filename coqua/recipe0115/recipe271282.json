@@ -1,0 +1,67 @@
+{
+    "name": "トロトロ豚とかぶの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/271282/464x260/8f612c8775ab07782ba961e0a8755979.jpg?u=57297&p=1214213404",
+    "datePublished": "2006-08-03",
+    "description": "《ご飯のおかず、お替りいってね♪》",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "かぶ",
+            "quantity": "小さいの5～6個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "少～し"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は醤油少しと片栗粉をもみ込んでおきます。\r\nお肉が柔らかとろとろになるよ。",
+        "ごま油で、かぶと豚肉炒めます。\r\n火が通ったら、醤油、酒、砂糖、だしの素少～し入れて味付けします",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "271282",
+    "advice": "豚肉に片栗をまぶすと食感が柔らかくなります",
+    "history": "カブが安かったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": [
+        "かぶ 1位",
+        "甘辛 4位",
+        "肉炒め 8位",
+        "豚肉炒め 4位"
+    ],
+    "related_keywords": [
+        "かぶ",
+        "かぶ 豚肉",
+        "かぶ 豚肉 炒め",
+        "カブ"
+    ],
+    "tsukurepo_count": "3149",
+    "thumbnail": "https://img.cpcdn.com/recipes/271282/100x141c/ae8fac806ce30def141d6b303beb0919.jpg?u=57297&p=1214213404"
+}

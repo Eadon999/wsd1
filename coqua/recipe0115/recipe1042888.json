@@ -1,0 +1,67 @@
+{
+    "name": "☆簡単☆豆腐とカニカマのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "kaisyan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1042888/464x260/9e59a15c5a50ad83df8848da3e503ed0.jpg?u=970522&p=1269258838",
+    "datePublished": "2010-02-17",
+    "description": "早くて簡単！コストもかからず家族みんな大好きな味です♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁（４００ｇ）"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "５０ｇくらい"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１本くらい"
+        },
+        {
+            "name": "●鶏ガラスープの素",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "●水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●生姜すりおろし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "絹ごし豆腐を食べやすく切る。カニカマはほぐす。長ねぎは小口切りにしておく。",
+        "鍋に水、鶏がらスープの素、酒を入れ火にかける。沸騰したら１を入れさらに沸騰させる。",
+        "あくをとり、生姜のすりおろし、塩、ごま油を入れ味を調える。 \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1042888",
+    "advice": "ホントに簡単です（*^_^*）",
+    "history": "本物のカニはなかなか手が届かないのでお手軽に美味しくできないかと・・・",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カニカマ スープ"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/1042888/100x141c/4f4281c6d2db174b0de5a9fc7aeb978b.jpg?u=970522&p=1269258838"
+}

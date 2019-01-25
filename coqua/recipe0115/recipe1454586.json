@@ -1,0 +1,62 @@
+{
+    "name": "豆腐とたまごのふわふわ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ちびつお"
+    },
+    "image": "https://img.cpcdn.com/recipes/1454586/464x260/8f9adf6d2112f19332c58c92b3247755.jpg?u=3085477&p=1306664938",
+    "datePublished": "2011-05-29",
+    "description": "ボリューム満点！！豆腐と卵だけ。豆腐の水切りもいりません。混ぜて焼くだけ。ふわふわ～。ぜひ、このタレも作ってみて。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "２個"
+        },
+        {
+            "name": "絹豆腐",
+            "quantity": "１丁（200ｇ）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "めんつゆ、マヨネーズ、すりごま",
+            "quantity": "お好きな分量を混ぜるだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐をぐちゃぐちゃにつぶして、とき卵をいれる。",
+        "片栗粉、しょうゆ、昆布茶もいれて混ぜる。多少片栗粉がだまになっても気にしない！",
+        "フライパンにごま油を引いて流し込む。蓋をしてしっかり焼き色がついたらひっくり返して反対側も焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1454586",
+    "advice": "焼くだけです。卵の味付けを薄めにしているので、いろんなタレで食べてみてください。",
+    "history": "たまごと豆腐を使いたかったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまご",
+        "絹豆腐",
+        "片栗粉",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1454586/100x141c/37bcebf15d3f32b5a78489d9eec5c157.jpg?u=3085477&p=1306664938"
+}

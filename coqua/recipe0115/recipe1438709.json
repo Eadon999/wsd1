@@ -1,0 +1,60 @@
+{
+    "name": "茄子と青しその味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "gummymio"
+    },
+    "image": "https://img.cpcdn.com/recipes/1438709/464x260/ffbca60fc9a5fc1c847e6bb6fd085230.jpg?u=1675379&p=1309761042",
+    "datePublished": "2011-05-14",
+    "description": "材料２つで簡単！！いつもの味噌炒めが青しそでサッパリ味になります(*^_^*)2011/07/12話題入りしました♡",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "３本"
+        },
+        {
+            "name": "青しそ",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○しょう油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は乱切りにして水にさらす。",
+        "青しそは千切りにする。",
+        "茄子は軽く水気をきり、しんなりするまで油で炒める。",
+        "③に青しそを加え、○の調味料を加え、炒め合わせる。",
+        "11.07.04レシピ写真を更新しました。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1438709",
+    "advice": "油は茄子全体に届くように少し多めがよいです。",
+    "history": "おばぁちゃんの味♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "青しそ",
+        "酒",
+        "味噌"
+    ],
+    "tsukurepo_count": "172",
+    "thumbnail": "https://img.cpcdn.com/recipes/1438709/100x141c/ee71ecc862fe807ae10cc209482eb341.jpg?u=1675379&p=1309761042"
+}

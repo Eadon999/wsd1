@@ -1,0 +1,57 @@
+{
+    "name": "しっとり、ふっくら、料亭の味「鶏そぼろ」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/2100063/464x260/cf7b838ae8f4401f2227e0b89bb0321d.jpg?u=535158&p=1359514025",
+    "datePublished": "2013-01-30",
+    "description": "冷凍保存も出来るので、忙しい朝のお弁当に大活躍。お弁当に、ランチに、おにぎりに、海苔巻きに、ビビンバにもどうぞ♪",
+    "recipeYield": "200g分",
+    "recipeIngredient": [
+        {
+            "name": "鶏挽肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "しょうが汁",
+            "quantity": "小匙1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏挽肉、調味料の全ての材料をボウルに入れよくかき混ぜる。",
+        "鍋を弱火にかけ、菜箸3本でほぐすように煮汁がなくなるまで根気よく炒る。",
+        "仕上げにしょうが汁を加えて冷ます。",
+        "小分けにして、ラップで包みジプロックに入れて、冷凍庫保存できます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2100063",
+    "advice": "＊最初に挽肉に調味料を混ぜ合わせておくこと。＊砂糖はお好みの甘さに加減して下さい。＊生姜風味が苦手な時は省いてもOKです。",
+    "history": "料亭で頂いた上品な鶏そぼろを再現。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏そぼろ しっとり",
+        "鶏そぼろ しっとり 料亭"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2100063/100x141c/6e7811aca4bc876c00878a544173bfef.jpg?u=535158&p=1359514025"
+}

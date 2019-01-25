@@ -1,0 +1,50 @@
+{
+    "name": "鶏のﾏｰﾏﾚｰﾄﾞ照り照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/416981/464x260/095443fc5ae68704b2be1e17807cbe4e.jpg?u=322621&p=1214216960",
+    "datePublished": "2007-08-13",
+    "description": "フライパンひとつ！調味料は全部同じ割合で超簡単 (｡◠‿◠｡)",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（もも・手羽元など）",
+            "quantity": "５００ｇ"
+        },
+        {
+            "name": "●マーマレード",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで（フッ素加工）鶏肉の両面を色よく焼き付ける。肉から出た脂を取り除き●を加えて中の弱火で煮汁が半分になるまで加熱する",
+        "",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "416981",
+    "advice": "焼き色を付けて香ばしくしてから煮て下さい",
+    "history": "チラシで見たレシピのアレンジですヾ(´ε｀*)ゝ ｴﾍﾍ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/照り焼きチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉 マーマレード",
+        "鶏肉照り焼き マーマレード",
+        "ママレード",
+        "鶏 ママレード"
+    ],
+    "tsukurepo_count": "223",
+    "thumbnail": "https://img.cpcdn.com/recipes/416981/100x141c/48b546ec116fe05d9e25a1cc8f345382.jpg?u=322621&p=1214216960"
+}

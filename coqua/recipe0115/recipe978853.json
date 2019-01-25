@@ -1,0 +1,51 @@
+{
+    "name": "大根と鶏ひき肉のトロトロ煮★",
+    "author": {
+        "@type": "Person",
+        "name": "miyuseve"
+    },
+    "image": "https://img.cpcdn.com/recipes/978853/464x260/664becf4e8ba51b1cd3c067aeb1381d9.jpg?u=1008756&p=1259554329",
+    "datePublished": "2009-11-30",
+    "description": "簡単・美味しい・節約おかず※修正：味がうすければ薄口醤油などを足してください。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "３分の１本"
+        },
+        {
+            "name": "とりひき肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩（または薄口醤油）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を食べやすい大きさに切り、電子レンジで下湯でしておく。",
+        "鍋を熱し、とりひきにくを炒め、火が通ったらお湯を入れ、中華スープの素か鶏がらスープの素をいれる。 \r\n",
+        "大根を入れて１０分くらい煮たら、塩で味付けをし、水溶き片栗粉でとろみをつける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "978853",
+    "advice": "",
+    "history": "大根を手羽先など骨付き肉と煮ると美味しいのですが、これはもっと手軽に作れる節約レシピ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 とりひき肉"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/978853/100x141c/239281f61e8e88c5b6bb37ff0cb9503e.jpg?u=1008756&p=1259554329"
+}

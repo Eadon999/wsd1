@@ -1,0 +1,62 @@
+{
+    "name": "ムール貝の白ワイン蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ワッキーウッキー"
+    },
+    "image": "https://img.cpcdn.com/recipes/231960/464x260/9c14a48774592cff9428c59a7e69c390.jpg?u=67115&p=1214212530",
+    "datePublished": "2005-12-25",
+    "description": "新鮮なムール貝（Mussle)をガーリック、オリーブオイルで炒め、白ワインを入れて塩、コショウで味付けをして蒸す事数分、プリプリで美味しく食べられます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ムール貝",
+            "quantity": "大　15粒"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "中　3粒"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ　2ハイ"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "100ｃｃ～150ｃｃ"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルを熱し、\r\nニンニクを入れ焦げ目が付かない様に炒める",
+        "ムール貝を入れ暫く炒め、\r\n白ワインをふり掛ける",
+        "塩、コショウを入れ蓋をして蒸し、ムール貝の口が開いて、身がぷっくり膨らんだら出来上がり",
+        "",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "231960",
+    "advice": "蒸し過ぎると貝が固くなるのでさっと蒸すのがポイント。",
+    "history": "近所にFood Harborと言う中国系のグローサリーがあり新鮮なムール貝、ハマグリ、渡りカニ、かえる、うなぎ、亀など日本では信じられない物が沢山売られています。そこで見つけたムール貝はとても美味しそうでした。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/ムール貝"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ムール貝",
+        "ムール貝 白ワイン"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/231960/100x141c/f3e7791378d100a04b6ebd9e10371b00.jpg?u=67115&p=1214212530"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "黒豆ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "ユキノフ"
+    },
+    "image": "https://img.cpcdn.com/recipes/210780/464x260/17d5281d44968d432d19fb5c63336d22.jpg?u=64382&p=1214212125",
+    "datePublished": "2005-08-06",
+    "description": "炊き上がりはふっくら、つやつや、ご飯はほんのり紫色に色づきます。お豆の優しい甘さにホッとする一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "3合"
+        },
+        {
+            "name": "黒豆",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は洗ってざるに上げておきます。黒豆はよく水洗いし、ザルに上げてよく水気をきっておく。",
+        "フライパンに油を引かないで、よく水切りした黒豆を５～６分程空炒りする。",
+        "炊飯器にお米をセットして、塩、酒、空炒りした黒豆を加え、水を３．５合弱のメモリに合わせて入れて、３０分～１時間程水を吸わせてから炊飯器のスイッチを入れる。"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "210780",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/黒豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "黒豆ごはん"
+    ],
+    "tsukurepo_count": "138",
+    "thumbnail": "https://img.cpcdn.com/recipes/210780/100x141c/967d047fb12fe05815d1383ec3d6c72f.jpg?u=64382&p=1214212125"
+}

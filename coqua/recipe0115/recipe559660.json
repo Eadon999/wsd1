@@ -1,0 +1,59 @@
+{
+    "name": "ジャーマン大根",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/559660/464x260/5a370badb4be7d170dfb34c092bb64df.jpg?u=274122&p=1214219722",
+    "datePublished": "2008-04-27",
+    "description": "ポテトのかわりに大根を入れてみたら・・・ごはんに合うおかずになりました。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中１／２個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１／２～１"
+        },
+        {
+            "name": "パセリ（生でも乾燥でも）",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は短冊切りに，にんにくとたまねぎは薄切りに，ベーコンは１センチぐらいの幅に切る。",
+        "フライパンにサラダ油とにんにく・ベーコンを入れ弱めの中火で炒める。ニンニクの香りが立ったら玉ねぎも入れて炒める。",
+        "玉ねぎがしんなりしてきたら大根を入れて好みのかたさになるまで炒める。塩コショウで味付けをし，パセリを入れて強火でささっと炒めたらできあがり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "559660",
+    "advice": "次々に入れて炒めていくだけです。",
+    "history": "炒めた大根が大好きなのでジャガイモのかわりに使いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャーマン 大根"
+    ],
+    "tsukurepo_count": "324",
+    "thumbnail": "https://img.cpcdn.com/recipes/559660/100x141c/40f47b5a2875a372112c085ed89573ce.jpg?u=274122&p=1214219722"
+}

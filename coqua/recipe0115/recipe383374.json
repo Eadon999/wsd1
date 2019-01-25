@@ -1,0 +1,62 @@
+{
+    "name": "かぼちゃと水菜のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/383374/464x260/fa29ba8638b2630727d75a9374b16051.jpg?u=220679&p=1214216271",
+    "datePublished": "2007-06-21",
+    "description": "かぼちゃの甘味がほんのり～シャキシャキ水菜と♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "100g(1/10個くらい）"
+        },
+        {
+            "name": "水菜",
+            "quantity": "半袋"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●ニンニク（すりおろし）",
+            "quantity": "少々"
+        },
+        {
+            "name": "糸唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはタネをとって薄切りにしてから３センチ長さくらいの千切りにする。\r\n",
+        "水菜（長いまま）とカボチャを沸騰したお湯でさっとゆで、ザルにあげて冷ましておく。",
+        "ゆでた水菜を５センチ長さくらいに切り、水気を絞って●印の合わせ調味料で和える。出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "383374",
+    "advice": "ゆで時間に注意が必要です。沸騰したお湯に入れたら３０秒～５０秒。すぐにザルにあげてね。",
+    "history": "煮てばかりのかぼちゃ。たまにはごま油で和えたらおいしいかも～って思いついたの。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "水菜",
+        "ごま油",
+        "白ごま"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/383374/100x141c/ab94ee22bb15aa31fb35f789f7f40f2a.jpg?u=220679&p=1214216271"
+}

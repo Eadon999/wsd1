@@ -1,0 +1,62 @@
+{
+    "name": "簡単・やみつき・ラム肉のコチュジャン焼き",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3255222/464x260/96d86ab2581e46fb015ced7b72630231.jpg?u=496128&p=1435058797",
+    "datePublished": "2015-06-23",
+    "description": "野菜なしでラム肉だけ。ためしてみて！ご飯がすすみます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ラム肉（薄切り）",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "大匙1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "①ラム肉に片栗粉をまぶす。",
+        "➁フライパンに油を熱し、①を炒める。",
+        "③火が通ったら、たれの材料を入れ、絡める。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3255222",
+    "advice": "肉を広げて、焼いた方が火の通りが早いと思います。程よい辛さです。辛さはコチュジャンの量を加減して下さい。",
+    "history": "ラム肉を好きな甘辛ダレで炒めたら美味し～。今まで野菜も入れてましたが、肉だけの方がラム肉好きには断然美味しい！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ラム肉"
+    ],
+    "rankings": [
+        "ラム肉 4位"
+    ],
+    "related_keywords": [
+        "ラム肉",
+        "ラム肉 コチュジャン"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/3255222/100x141c/57e87aa93a8c2cebd9b5f91f31b026e3.jpg?u=496128&p=1435058797"
+}

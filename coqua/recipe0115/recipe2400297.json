@@ -1,0 +1,53 @@
+{
+    "name": "マヨわさ納豆",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2400297/464x260/612645f1266d4bbe7c60b9612584304e.jpg?u=4819316&p=1383912661",
+    "datePublished": "2013-11-08",
+    "description": "14/7/25話題入りしました、わさびのツンと来るのが、納豆によく合います",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "付属のタレ",
+            "quantity": "1個"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "わさび(チューブ)",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆をよくかき混ぜて小鉢に入れる",
+        "付属のたれ、マヨネーズ、わさび、ねぎを入れてもう一度よくかき混ぜて出来上がり\n"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2400297",
+    "advice": "マヨネーズ、わさびの量は、お好みで調整してください",
+    "history": "納豆にマヨネーズが合うのはクックで知りました(例えばid=2224554)、それならマヨわさもいけるはずと作りました、ど真ん中ですね",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ねぎ",
+        "マヨネーズ",
+        "わさび"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2400297/100x141c/64515b72c0b32a0d095e5d031bdd58e1.jpg?u=4819316&p=1383912661"
+}

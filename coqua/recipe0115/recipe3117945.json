@@ -1,0 +1,53 @@
+{
+    "name": "人参のレンジ塩きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "けろっぴン"
+    },
+    "image": "https://img.cpcdn.com/recipes/3117945/464x260/0fb6d11806c0c48ba43be3a3d0872abc.jpg?u=4618537&p=1428970802",
+    "datePublished": "2015-04-14",
+    "description": "レンジでしっとり手軽なお弁当用の隙間おかずです♪春人参は甘くて色もきれい。話題入り感謝します☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "さとう",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "スライサーで薄切りしてから千切りに。\n耐熱皿に入れてゴマ以外の調味料をいれかるく混ぜます。",
+        "ラップをふんわりしたら600ｗで40秒。\nもういちど混ぜゴマをトッピングして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3117945",
+    "advice": "レンジによって仕上がりに差があると思います。甘さはお好みで調整して下さい。",
+    "history": "簡単、彩り、おいしかったらもっといいかも・・そんな隙間おかずです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "塩",
+        "さとう",
+        "胡麻"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/3117945/100x141c/bebdc39618f8bca5dbb84d23755b3f83.jpg?u=4618537&p=1428970802"
+}

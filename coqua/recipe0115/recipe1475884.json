@@ -1,0 +1,51 @@
+{
+    "name": "【農家のレシピ】新玉ねぎの甘酢漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1475884/464x260/e2424c49d6d4805f98a3a70f88ff1435.jpg?u=2513693&p=1308571138",
+    "datePublished": "2011-06-26",
+    "description": "新玉ねぎの季節には必ず作る甘酢漬け。脂っこい料理の時のお口直しに最適です。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1個２００ｇ"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ3分の１"
+        },
+        {
+            "name": "赤唐辛子（種を取って小口切りにしておく）",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "【A】を電子レンジ５００ｗで30秒加熱しよくかき混ぜ、【B】を加え冷ましておく",
+        "ビニール袋にくし形切りにした玉ねぎと①を入れ、ビニール袋の中の空気を抜き口をしめ冷蔵庫で半日寝かして完成です",
+        "玉ねぎの甘酢漬けと茹で卵を細かく刻んで、マヨネーズで和えれば即席タルタルソースにもなりますよ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1475884",
+    "advice": "ビニール袋の中の空気をしっかり抜いてくださいね。",
+    "history": "新玉ねぎの季節には必ず作る甘酢漬けです。ごま油を入れる時と、入れない時があります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ 甘酢漬け"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1475884/100x141c/a61a96af1eb9ee4aa9f349d1832c2d45.jpg?u=2513693&p=1308571138"
+}

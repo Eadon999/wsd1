@@ -1,0 +1,64 @@
+{
+    "name": "塩もみきゅうりのツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/1858257/464x260/f7dc83084213e9caacc814a0ff7577ca.jpg?u=533232&p=1340246343",
+    "datePublished": "2012-06-24",
+    "description": "さっと一品サラダです。サンドイッチ、カナッペなどにも◎2014/02/18　話題入り感謝♡",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "大葉",
+            "quantity": "2~3枚"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは半月切りにして塩でもみ、水気を切っておきます。玉ねぎはみじん切りにして水にさらし、水気を切っておきます。",
+        "ボールにツナ缶を汁ごと入れ、1を加えてそれ以外の☆の材料を混ぜ、冷蔵庫で冷やします。",
+        "大葉を洗って、千切りにし、２を皿に盛った上に飾って出来上がりです。",
+        "冷奴に乗せても◎"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1858257",
+    "advice": "ツナ缶の油はお好みで調整されてください。",
+    "history": "お家にある材料で簡単サラダです。付け合せなどにも使えて便利です。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ツナ缶",
+        "玉ねぎ",
+        "塩"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1858257/100x141c/d51f3810756e043ffbbac4d404e88f41.jpg?u=533232&p=1340246343"
+}

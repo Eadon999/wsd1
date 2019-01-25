@@ -1,0 +1,50 @@
+{
+    "name": "BEERのおつまみに★たこのから揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/253766/464x260/08f8c982d61d4f7fcb8e30f9ed9a9be3.jpg?u=212914&p=1214213009",
+    "datePublished": "2006-05-12",
+    "description": "下味は、醤油と塩コショウのみ！そして揚げるだけ～だから簡単(*^^)v",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ　（ゆでだこの足）",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "★塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★片栗粉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たこは一口サイズ」の乱切りにし、★の下味に漬けておく。（5分くらい）",
+        "①のたこに片栗粉をまぶして、油で揚げる。（うっすらきつね色くらい）",
+        "盛り付けて、ソースやタレはおこのみで・・・ 今回はスイートチリソースにしました。\r\n醤油の下味だけでも十分美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "253766",
+    "advice": "ソース無しで、そのまま食べても美味しいよ。レモンを絞ってあっさりいただくのもｇｏｏｄ(*^^)v たこを揚げるときは跳ねるので要注意★",
+    "history": "旦那さんのビールのお供に!(^^)!",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ",
+        "塩こしょう",
+        "醤油",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/253766/100x141c/f2217fb475ac771dca79a9b268fae0e7.jpg?u=212914&p=1214213009"
+}

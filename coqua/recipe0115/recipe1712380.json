@@ -1,0 +1,79 @@
+{
+    "name": "誰もが唸る　☆柔らかジューシーから揚げ☆",
+    "author": {
+        "@type": "Person",
+        "name": "76chiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1712380/464x260/9e58f9ef06c88d88d4ad084a3bfb6adc.jpg?u=2321297&p=1329651458",
+    "datePublished": "2012-02-19",
+    "description": "酢のおかげで柔らかジューシーな絶品から揚げが気軽に作れます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鳥もも肉",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "☆にんにく（すりおろし）",
+            "quantity": "１カケ"
+        },
+        {
+            "name": "☆しょうが（すりおろし）",
+            "quantity": "１カケ"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "☆の調味料を混ぜ合わせ、一口大に切った鶏肉によく揉みこむ。",
+        "密閉して３～４時間味をしみ込ませる。",
+        "余分な汁気を切ったあと、片栗粉をまぶして１５０度の油で揚げる。",
+        "最後に１８０度の油で二度揚げすれば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1712380",
+    "advice": "150度で揚げる時は、キツネ色になる寸前くらいで止めてくださいね。低温でじっくり火を通してから高温でカラッと揚げると美味しいですよ♪",
+    "history": "食べる誰もが絶賛してくれるから揚げが作りたくて、この作り方になりました。我が家のホームパーティーの定番です♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏のから揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鳥もも肉",
+        "にんにく",
+        "しょうが",
+        "みりん"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1712380/100x141c/48636ced541edfe733fa61d81c755384.jpg?u=2321297&p=1329651458"
+}

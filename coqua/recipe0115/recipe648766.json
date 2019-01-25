@@ -1,0 +1,63 @@
+{
+    "name": "人参とこんにゃくのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "はちの家"
+    },
+    "image": "https://img.cpcdn.com/recipes/648766/464x260/15800addcf8935b3f4d7f4a26f952a20.jpg?u=1008590&p=1221832210",
+    "datePublished": "2008-09-19",
+    "description": "簡単！おいしい！安い！です♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "大1/2本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "一枚"
+        },
+        {
+            "name": "※醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "※砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "※みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "※酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "人参とこんにゃくを少し太めの千切りにする（好みです）\r\n※あく抜きしてないこんにゃくは熱湯であく抜きして下さい。",
+        "フライパンに油かごま油を適量ひき、ニ人参とこんにゃくを炒め合わせ※の調味料を全ていれる。",
+        "仕上げにごまをざっと混ぜて出来上がり。",
+        "れぽ下さった皆様のおかげで話題入りさせて頂きました♪本当にありがとうございます(*^_^*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "648766",
+    "advice": "",
+    "history": "家にこんにゃくが沢山あったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "こんにゃく",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/648766/100x141c/6c9746c751cda3ea27b2852598ac5c76.jpg?u=1008590&p=1221832210"
+}

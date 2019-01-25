@@ -1,0 +1,67 @@
+{
+    "name": "ひじき炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "＊ひまわりsun＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/3241415/464x260/eace4fd210f43f2855b0eb7a0f5c1d3a.jpg?u=2682211&p=1434611153",
+    "datePublished": "2015-06-20",
+    "description": "超簡単!激ウマのシンプルなひじきの炊き込みご飯です☆",
+    "recipeYield": "2合",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "ひじき",
+            "quantity": "6g"
+        },
+        {
+            "name": "油揚げ(あっても無くてもOK)",
+            "quantity": "1枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "3/1本"
+        },
+        {
+            "name": "○料理酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○だしの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "米を洗っておく。人参は太めの千切り、ひじきは水で戻しておく。",
+        "米に○を入れ、水を２合の線まで入れる。",
+        "油揚げ、いじきをいれ、表面に行き渡るように軽く混ぜ人参を入れる。",
+        "スイッチオンで出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3241415",
+    "advice": "特になし。",
+    "history": "ID 3144371 こちらもひじきが入っていますがより簡単に作りたいと思いレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "ひじき",
+        "油揚げ",
+        "人参"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3241415/100x141c/3fbbb4b2c707173363b5f86c116dec14.jpg?u=2682211&p=1434611153"
+}

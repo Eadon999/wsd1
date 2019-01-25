@@ -1,0 +1,61 @@
+{
+    "name": "【農家のレシピ】ピーマンと桜えびかき揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1236619/464x260/a0c832aa2e52e55858bc1cf749eba1a5.jpg?u=2513693&p=1284805713",
+    "datePublished": "2010-09-27",
+    "description": "卵黄の代わりにマヨネーズを使って、さくさくに揚げたかき揚げです。ポン酢または塩でどうぞ☆ ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "4個"
+        },
+        {
+            "name": "桜えび（乾物）",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "冷水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンはヘタと種を取り除き、縦半分に切り、さらに横に2ミリ程度の細切りにする\r\n",
+        "ピーマンとサクラエビをボールに入れ、小麦粉大さじ１を入れよく混ぜる\r\n",
+        "合わせた【A】を②の中に入れてざくっとかき混ぜる\r\n",
+        "１80度に熱した油で③をカラッと揚げて出来上がり\r\n",
+        "ポン酢または塩でどうぞ\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1236619",
+    "advice": "",
+    "history": "ピーマンのかき揚げにアクセントとして香ばしいサクラエビ（乾物）を入れてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "桜えび かき揚げ"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1236619/100x141c/e3104297aa6645906bf43542a96397bb.jpg?u=2513693&p=1284805713"
+}

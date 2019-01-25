@@ -1,0 +1,57 @@
+{
+    "name": "味噌ドレで✾白菜と大根のヘルシーサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2462180/464x260/123d3ad9f895836b9f9549d23536981e.jpg?u=3243126&p=1535328218",
+    "datePublished": "2014-01-15",
+    "description": "ノンオイルのクリーミー味噌ドレッシングで白菜と大根がおいしく食べられますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜(せん切り)",
+            "quantity": "2～3枚(150ｇ～)"
+        },
+        {
+            "name": "大根(せん切り)",
+            "quantity": "1/6本(150ｇ～)"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "小さじ2杯"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ2杯"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を混ぜておきます。",
+        "せん切りにした白菜と大根を塩で軽くもんでおきます。",
+        "水分が出てきたらしっかり絞って、①を和えれば出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2462180",
+    "advice": "白菜と大根から出た水分はしっかり絞って下さい。(味が薄くなるのでっ。。)",
+    "history": "実家で大量に獲れた白菜と大根の消費に♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サラダ 大根 白菜",
+        "白菜 大根"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/2462180/100x141c/7175e01c06e594bf0b8f7fd0027acacf.jpg?u=3243126&p=1535328218"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "梨とみょうがの みずみずしいサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "koumedesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/634714/464x260/89996d6b80aff89fb200d013809290c2.jpg?u=978405&p=1219936245",
+    "datePublished": "2008-08-28",
+    "description": "初秋のサッパリ前菜。和の素材を使ったイタリアン風なので、キンキンに冷えた白ワインとともにどうぞ。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "梨",
+            "quantity": "１／３コ"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "３本程度"
+        },
+        {
+            "name": "水菜",
+            "quantity": "３房程度"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "梨は１コの１／４を１／４に！つまり薄めにカットし更に半分程度にして食べやすく。変色させないよう塩水につけ冷やしておく。",
+        "みょうがは千切り、水菜は５cm程度にカットしお皿に盛ります。",
+        "上記ドレッシングを ガーッと混ぜ、２にかけて出来上がり。なるべく冷やしておきましょう。 \r\n",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "634714",
+    "advice": "コツなし！超簡単。",
+    "history": "いい感じで梨が出回りはじめた今日このごろ。。。野菜感覚でいただくのもいいかな？",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "その他/秋におすすめ料理/秋の味覚狩り食材/梨/梨を使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "梨",
+        "みょうが",
+        "水菜",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/634714/100x141c/8b1c1585bbf14c2f6bf7e7130a988b6e.jpg?u=978405&p=1219936245"
+}

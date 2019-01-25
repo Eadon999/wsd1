@@ -1,0 +1,50 @@
+{
+    "name": "オクラと長芋のポン酢かけ",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/839806/464x260/7970e62f1e56d8f9eec000ee0880bde8.jpg?u=1397778&p=1377075478",
+    "datePublished": "2009-06-17",
+    "description": "ネバネバ野菜の組み合わせで食欲のない夏でも、ご飯が進みますよ♪2011.0724話題入り感謝です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "5～6本"
+        },
+        {
+            "name": "長芋",
+            "quantity": "5㎝～7cm"
+        },
+        {
+            "name": "味付け海苔またはきざみ海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢（しょうゆでもOK)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラを茹でて冷ます。冷めたら8mm～1cmくらいに切る。",
+        "長芋の皮をむき、短冊かお好みでもっと細かく切る。",
+        "長芋の上に1のオクラをのせて、冷蔵庫で冷やす。",
+        "3が冷えたら、味付け海苔を細かくちぎるかカットしてのせて、ポン酢をかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "839806",
+    "advice": "オクラを茹ですぎないようにしてくださいね。ポン酢の代わりにしょうゆでも美味しいですよ。2011.06材料手順見直しと画像変更しました。",
+    "history": "母から教わったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "長芋",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/839806/100x141c/f0e31984eb04263f32723ee9190624b3.jpg?u=1397778&p=1377075478"
+}

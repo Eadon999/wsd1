@@ -1,0 +1,68 @@
+{
+    "name": "大根の新食感☆きつね大根麺",
+    "author": {
+        "@type": "Person",
+        "name": "うみりー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3003614/464x260/6da7cedfc83cd6f19a7ff6197f48296f.jpg?u=9560465&p=1423366586",
+    "datePublished": "2015-02-08",
+    "description": "大根の外側がモチっとトロトロ、内側ハリハリの麺のように変身。さっぱりした味付けでお箸が進みます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "200g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大2"
+        },
+        {
+            "name": "■水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "■白だし",
+            "quantity": "大1"
+        },
+        {
+            "name": "■ポン酢しょうゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "パセリ、ネギなど",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をピーラーで麺状にし、片栗粉と塩をまぶす。",
+        "フライパンに油を入れ大根がしんなりするまで炒める。",
+        "油揚げと調味料を入れ、炒め合わせ、トロっとしたらお皿に移し、パセリやネギ等をトッピングする。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3003614",
+    "advice": "大根を炒める際、大根がくっつき塊状になりますが、調味料を入れると離れます。調味料は、麺つゆでも美味しく出来ます。",
+    "history": "大根を麺にして、きつねうどん風にしたら、きっと美味しいだろうなと思い、作ってみたら家族からも好評でした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根麺",
+        "大根麺 片栗粉"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/3003614/100x141c/2f8afd3f26d995feb98d73d12454493c.jpg?u=9560465&p=1423366586"
+}

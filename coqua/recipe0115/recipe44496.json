@@ -1,0 +1,51 @@
+{
+    "name": "もやしの中華風和え物",
+    "author": {
+        "@type": "Person",
+        "name": "おいこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/44496/464x260/bad11c9abfefddeb8edc5cc705931af0.jpg?u=13280&p=1214208996",
+    "datePublished": "2002-03-06",
+    "description": "誰に作ってもらっても「こんなにもやしが美味しいなんて！」と感動してもらえる一品。2袋くらいペロッと食べれます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "2袋"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1カケ"
+        },
+        {
+            "name": "ショウガ",
+            "quantity": "1カケ"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大1"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "2本"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは茹でて水をきり、塩小1をまぶしてよくまぜ、ごま油大2いれてよく合える。",
+        "ショウガとニンニクはみじん切りに。万能ねぎは小口切りにしておく。",
+        "ボウルに、2としょうゆ大2・お酢大2・砂糖小1をいれ、\r\nもやしとよくあえてできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "44496",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし 和え物"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/44496/100x141c/adc38368e1d0d3bfde3ad2892d28486b.jpg?u=13280&p=1214208996"
+}

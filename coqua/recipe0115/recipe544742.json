@@ -1,0 +1,62 @@
+{
+    "name": "♫♬♪いんげんの出し巻きたまご♫♬♪",
+    "author": {
+        "@type": "Person",
+        "name": "ルリナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/544742/464x260/bd1651e6b555d9532de7f866216c8d71.jpg?u=590558&p=1214219436",
+    "datePublished": "2008-04-10",
+    "description": "黄色の中に緑色が生える一品です✿",
+    "recipeYield": "２，３人分",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "小さじ　１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ　１/２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "２，３滴"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "３本"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは塩茹でしておきます。",
+        "ボウルにたまごを割りいれ、切る様にほぐし、☆の材料をいれ、混ぜます。",
+        "卵焼き器を熱してに薄く油を塗り２を流しいれます。",
+        "手前を返して写真の様な状態にします。",
+        "４にインゲンを並べます。",
+        "インゲンを動かさないように巻いていきます。",
+        "巻き終わりにしっかり火を通して、まな板に移してカットして出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "544742",
+    "advice": "細い、インゲン２本と少し太いインゲン１本で作るとミッキーみたいにみえるかもしれません。",
+    "history": "お弁当に緑がほしくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまご",
+        "白だし",
+        "水",
+        "砂糖"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/544742/100x141c/3f3e0f5b5df67fa019237c0d8e02f3f7.jpg?u=590558&p=1214219436"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "さつま揚げのお好み焼き風",
+    "author": {
+        "@type": "Person",
+        "name": "ベリーA"
+    },
+    "image": "https://img.cpcdn.com/recipes/637159/464x260/412dc1367f0159411eeb11c76e39473d.jpg?u=975343&p=1244339143",
+    "datePublished": "2008-09-02",
+    "description": "話題入りありがと♡　副菜にボリュームが欲しいときに便利です。味に保証あり！（だって焼くだけなんだもん・・）",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "野菜入りさつま揚げ",
+            "quantity": "4個"
+        },
+        {
+            "name": "ソース",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "青海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま揚げをさっと焼きます。",
+        "ソース、マヨネーズ、青海苔、かつおぶし、をかけて完成です。",
+        null,
+        null
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "637159",
+    "advice": "焼くときに、中まで温めるようにするといいと思います。 さつま揚げは、ぜったい¨具¨入りでねっ♪",
+    "history": "さつま揚げって小さなお好み焼きみたいだな～っと思って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ お好み焼き"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/637159/100x141c/5c82887270a3e3de5b0309cbb5679f3e.jpg?u=975343&p=1244339143"
+}

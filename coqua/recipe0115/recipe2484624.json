@@ -1,0 +1,81 @@
+{
+    "name": "味噌でコク旨♪ひき肉ともやしのあんかけ丼",
+    "author": {
+        "@type": "Person",
+        "name": "なゆほ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2484624/464x260/63bba348f12ce8bde693627d239fd9dd.jpg?u=2848231&p=1410051793",
+    "datePublished": "2014-02-02",
+    "description": "安くて簡単すぐ出来るメニュー！ひき肉ともやしのトロトロあんかけ♪味噌味でコク旨～♪",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "３０g"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "小葱(あれば)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗い(気になる場合は根を取る)１cm程にカットする。生姜は細かく刻み、★をすべて合わせ混ぜる。",
+        "ゴマ油をフライパンに引き、生姜をいためる。",
+        "香りが出たらひき肉を入れ炒め、半分ほど火が通ったら、もやしも入れて炒める。",
+        "ひき肉に火が通ったら★を入れ混ぜる。\n一度火を止め水溶き片栗粉を入れ混ぜる。\nもう一度火を入れトロミが付けば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2484624",
+    "advice": "片栗粉はダマにならないように、火を止めてから入れましょう♪生姜をニンニクにしても美味でした♪疲れた時は、豚肉＆ニンニクパワーで！",
+    "history": "休日のランチに、安くて簡単メニューを考えました(#^^#)",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし ひき肉 あんかけ",
+        "もやしあんかけ丼"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2484624/100x141c/fc3970df6d0c052a0b61bbdc56081b73.jpg?u=2848231&p=1410051793"
+}

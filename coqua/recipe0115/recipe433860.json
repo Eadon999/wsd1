@@ -1,0 +1,66 @@
+{
+    "name": "シャリシャリ～れんこんつくね",
+    "author": {
+        "@type": "Person",
+        "name": "nao2959"
+    },
+    "image": "https://img.cpcdn.com/recipes/433860/464x260/9507f7533451190f0daa7af4ed2586ed.jpg?u=568384&p=1214217303",
+    "datePublished": "2007-09-23",
+    "description": "れんこんの歯ごたえがたまんないっ！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "５ｃｍくらい"
+        },
+        {
+            "name": "とりひき肉",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "白ねぎみじん",
+            "quantity": "５ｃｍくらい"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンは５ｍｍくらいの厚さに切る。\r\nひき肉にねぎ、片栗を混ぜよくこねる。\r\n",
+        "れんこんに１のたねをはりつける。（れんこんの穴にちょっと詰まるくらい）",
+        "油を熱したフライパンで肉の面から焼き、こんがりしたらひっくり返して焼く。\r\n調味料を混ぜ合したものを入れ、からめたらできあがり☆\r\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "433860",
+    "advice": "レンコンに味がないとおいしくないので、調味料をよくからめてね！",
+    "history": "見た目がかわいいと思ったので。大好きなれんこんとつくねを合わせました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "とりひき肉",
+        "片栗粉",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "220",
+    "thumbnail": "https://img.cpcdn.com/recipes/433860/100x141c/b54eb010c771e7838270fc62f06d8a56.jpg?u=568384&p=1214217303"
+}

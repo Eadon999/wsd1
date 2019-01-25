@@ -1,0 +1,55 @@
+{
+    "name": "めんつゆで簡単☆たけのこの土佐煮",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2193657/464x260/2930fa9df91600fdd74f29064bcf3469.jpg?u=1690437&p=1366109701",
+    "datePublished": "2013-04-16",
+    "description": "めんつゆを使って簡単に。2013・8・15話題入りしました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "たけのこ（小）",
+            "quantity": "1本"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "120cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にめんつゆと水、砂糖を入れて煮立たせる。",
+        "アク抜きしたたけのこを食べやすい大きさに切って入れる。\n\n鰹節を一つかみ入れて煮る。",
+        "中火で5分。弱火で5分煮る。火を止めそのまま冷ます。",
+        "食べる前に温め直す。",
+        "2013・4・26\n「土佐煮」人気検索トップ10入り♪\n2013・4・27\n「たけのこ」カテゴリ入り♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2193657",
+    "advice": "一度冷ますと味がしみる。",
+    "history": "ダシをとるのも面倒な時、役に立つめんつゆを使い作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 土佐煮 めんつゆ",
+        "たけのこ 土佐煮",
+        "筍の土佐煮"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/2193657/100x141c/81277b8e1af4fa45044541e66d7f9f68.jpg?u=1690437&p=1366109701"
+}

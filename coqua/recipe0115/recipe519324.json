@@ -1,0 +1,55 @@
+{
+    "name": "マヨポン☆納豆",
+    "author": {
+        "@type": "Person",
+        "name": "かずぅな"
+    },
+    "image": "https://img.cpcdn.com/recipes/519324/464x260/21e884ff53e5eabcc279ffdc4885f8f9.jpg?u=400965&p=1214218922",
+    "datePublished": "2008-02-28",
+    "description": "大好きな納豆の食べ方です。マヨとポンの割合はお好みでどうぞ☆",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "ねぎ（小口きり）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "全てをよーく混ぜます。",
+        "",
+        "「納豆のタレ」のオリジナルレシピでノミネート賞をいただきました。\r\nありがとうございます。",
+        "2008.4.4話題入りさせていただきました♪\r\n作ってくださったみなさまありがとうございます☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "519324",
+    "advice": "マヨとポンの割合はお好みでどうぞ☆ かつおぶしとねぎを追加すると更においしいです。マヨネーズとポン酢を切らしちゃったとき、こんな商品あったらいいのになって思います。",
+    "history": "私の大好きな納豆の食べ方です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ポン酢",
+        "マヨネーズ",
+        "かつおぶし"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/519324/100x141c/417572dbd6694b6c60adabb95c38d21a.jpg?u=400965&p=1214218922"
+}

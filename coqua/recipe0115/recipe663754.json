@@ -1,0 +1,68 @@
+{
+    "name": "カレーとりせんべい",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/663754/464x260/5354e20fb49244dc7ed337c797a8aaed.jpg?u=54489&p=1223851732",
+    "datePublished": "2008-10-13",
+    "description": "和風カレー味で香ばしくてヘルシーでお酒のお供にピッタリ （‾‾ ∇‾‾）ノ",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ肉",
+            "quantity": "３本"
+        },
+        {
+            "name": "┌酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "│薄口醤油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "└カレー粉",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "┌マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "└辛子",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ささみ肉は筋を取り除き、薄く開き、ラップをかぶせて麺棒で叩いて広げる。",
+        "食べやすい大きさに切ってＡで下味する。",
+        "汁気をすったら、片栗粉をまぶし、１７０℃の油でカリっときつね色に揚げる。",
+        "お好みで辛子マヨネーズにつけていただきます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "663754",
+    "advice": "",
+    "history": "醤油だけではよく作るんだけど、カレーが入ったらスパイシーで美味しいかなと思って実験！彼は揚げ物好きなので久しぶりだったから喜んでたｗ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ささみ肉",
+        "片栗粉",
+        "揚げ油"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/663754/100x141c/1d936f426c74ee22de4f1ef8ddc001b7.jpg?u=54489&p=1223851732"
+}

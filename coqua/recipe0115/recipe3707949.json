@@ -1,0 +1,55 @@
+{
+    "name": "サクサク美味しい♪とり天",
+    "author": {
+        "@type": "Person",
+        "name": "まる母"
+    },
+    "image": "https://img.cpcdn.com/recipes/3707949/464x260/27dee43ae80d7ba1b243b88a1a7fbe72.jpg?u=4634691&p=1456213695",
+    "datePublished": "2016-02-23",
+    "description": "2016/9/26話題入りしました。ありがとうございます‼︎我が家のとり天は、下味に白だしを使います。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚(350g程度)"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "少々"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油(揚げ油)",
+            "quantity": "適量"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "100g程度"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉をそぎ切りにする。",
+        "ビニール袋に、1の鶏胸肉、白だし、生姜(すりおろし)を入れよく揉み込む。\n30分くらい漬け込む。",
+        "天ぷら粉を水で溶いておく。\n",
+        "サラダ油を熱し、2の鶏胸肉に天ぷら粉をつけ、揚げる。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "3707949",
+    "advice": "白だしで下味をつけます。そのまま食べても美味しいとり天になります♪",
+    "history": "居酒屋で食べたとり天が美味しくて、「これって白だし使ったらこんな味になりそう…」作ってみたら、お気に入りの味に♪それから、我が家のとり天はこのレシピです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とり天下味",
+        "とり天 サクサク",
+        "とり天",
+        "とり天 白だし"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3707949/100x141c/3b4c564197d9a80704ca1ebfe59dbb95.jpg?u=4634691&p=1456213695"
+}

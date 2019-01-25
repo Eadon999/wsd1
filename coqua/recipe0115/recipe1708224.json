@@ -1,0 +1,51 @@
+{
+    "name": "女子会ランチに♪　きな粉の　おにぎり♪",
+    "author": {
+        "@type": "Person",
+        "name": "スタイリッシュママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1708224/464x260/7e5021918a1071c47bb4d549021cd88f.jpg?u=3674035&p=1329782903",
+    "datePublished": "2012-02-16",
+    "description": "きな粉は　☆美肌になる☆コレステロール値を下げる☆便通が良くなる☆脂肪を燃焼させるなどなど…女性に優しいことばかり♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "温かいご飯",
+            "quantity": "お握り１個分"
+        },
+        {
+            "name": "きな粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２～"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "きな粉と砂糖、塩を混ぜ合わせます",
+        "お握りを作り、まぶします"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1708224",
+    "advice": "きな粉はご飯に混ぜ込まないで、食べる直前に、おにぎりにまぶしましょうね♪温かいご飯を使って、出来立てを食べるのがおすすめです☆",
+    "history": "幼いころから、ず～っと食べているおにぎりです♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": [
+        "女子会 2位"
+    ],
+    "related_keywords": [
+        "きなこおにぎり",
+        "女子会 ランチ",
+        "女子会",
+        "きなこ ご飯"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1708224/100x141c/34820fd654570eae998bf240da754fdc.jpg?u=3674035&p=1329782903"
+}

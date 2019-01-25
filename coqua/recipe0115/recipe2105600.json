@@ -1,0 +1,66 @@
+{
+    "name": "茄子と舞茸の旨辛ニンニク炒め",
+    "author": {
+        "@type": "Person",
+        "name": "lchin_cook"
+    },
+    "image": "https://img.cpcdn.com/recipes/2105600/464x260/c4d8186c31ade7fee3eaca4f1ecd9b28.jpg?u=4799384&p=1359952713",
+    "datePublished": "2013-02-04",
+    "description": "辛くてうまい茄子の副菜",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "4本"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1パック"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "2片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1弱"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子のヘタを取って、薄切りにする",
+        "豆板醤、醤油、料理酒を混ぜておく",
+        "フライパンにごま油を引いて、にんにくを弱火で炒める",
+        "にんにくの香りが立ったら、茄子を入れて強火で炒める",
+        "茄子がしんなりしたら、舞茸もいれて軽く混ぜて炒める",
+        "2で用意したたれをフライパンに回し入れ、煮立てて酒気を飛ばす",
+        "汁気が少なくなったら、皿に盛りつけて完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2105600",
+    "advice": "豆板醤の量で辛さを調節しましょう。",
+    "history": "青野菜が苦手の人のための野菜副菜として考えた",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "舞茸",
+        "にんにく",
+        "ごま油"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2105600/100x141c/b28d04ad2cd61e6ea880c85e4f2cb100.jpg?u=4799384&p=1359952713"
+}

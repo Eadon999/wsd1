@@ -1,0 +1,66 @@
+{
+    "name": "鮭フレーク入り♪ガーリックチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3525025/464x260/67c6192b67d35a0798a62d8bc9cb2fd7.jpg?u=822079&p=1447844635",
+    "datePublished": "2015-11-19",
+    "description": "簡単一品♪シャケの他にもチャーシューやベーコンなどでも♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗２杯"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "2かけ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "おおさじ1"
+        },
+        {
+            "name": "バター(マーガリン)",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "鮭フレーク",
+            "quantity": "おおさじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "こさじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯は温めておく　フライパンにマヨ　バター　にんにくをいれ弱火にかける",
+        "香りがしてきたら鮭フレーク　ご飯を入れ炒める　　しょうゆをまわし入れ　塩コショウで味をととのえる",
+        "チャーシューバージョン♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "3525025",
+    "advice": "ご飯は切るようにいためてください＾＾",
+    "history": "お家にあるもので",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "にんにく",
+        "マヨネーズ",
+        "バター"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3525025/100x141c/e10927539bdcf0e922659dc09afa0179.jpg?u=822079&p=1447844635"
+}

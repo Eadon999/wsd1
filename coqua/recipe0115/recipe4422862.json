@@ -1,0 +1,81 @@
+{
+    "name": "鶏皮で☆キャベツとニラのもつ鍋風☆",
+    "author": {
+        "@type": "Person",
+        "name": "kimisunsun"
+    },
+    "image": "https://img.cpcdn.com/recipes/4422862/464x260/dd4102848e8bb6f703f3c68d7ab61dea.jpg?u=15835514&p=1489917156",
+    "datePublished": "2017-03-19",
+    "description": "もつは値段が高いので鶏皮で(ももでも)☆味付けはもつ鍋風にしてます☆主人が『もつ鍋食べてるみたい』って言ってくれました☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏皮(もも可)",
+            "quantity": "50g～100g"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "中玉5枚～7枚"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "○にんにくすりおろし",
+            "quantity": "1片"
+        },
+        {
+            "name": "○水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "○鶏ガラの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "○しょう油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ・ニラ・鶏皮(もも可)は食べやすい大きさに切っておく。鶏皮は●の調味料をもみこむ。にんにくはすりおろす。",
+        "○の調味料を中火で沸かし、鶏皮を入れ茹でる。その上にキャベツをのせ蓋をし5分。その後、一度混ぜニラを加えあと3分で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4422862",
+    "advice": "少し濃い目かなと思うかもしれませんが、キャベツの水分でちょうどよくなります☆ももを使うとボリューム満点ですね☆",
+    "history": "むね肉を使う時に皮を取り除いて使うことが多く、その余った皮を使ったさっと煮です☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏皮鍋",
+        "もつ鍋 キャベツ",
+        "鶏皮 もつ鍋",
+        "キャベツ ニラ 鍋"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4422862/100x141c/fb1a3aa59978cead15f4d8820ba69204.jpg?u=15835514&p=1489917156"
+}

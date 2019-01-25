@@ -1,0 +1,63 @@
+{
+    "name": "すし酢で簡単✿コールスローサラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "makkocafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/975885/464x260/b4fab5f88eb76dd4d4c7f2f61203c2e0.jpg?u=1713385&p=1267609874",
+    "datePublished": "2009-11-26",
+    "description": "すし酢の甘み、酸味がちょうどいい。我が家の定番！子どももパクパク食べますよ♫",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１/４個（２５０ｇ）"
+        },
+        {
+            "name": "コーン(ホール）",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "（お好みで）人参、きゅうり",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆すし酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ（人参、きゅうり）は千切り、玉ねぎは薄切りにし水にさらす。",
+        "野菜を合わせ、塩小さじ１をまぶし２０分～置く。水分が出てきたら水気を軽くきる。（絞らない）",
+        "１，にコーンを入れ、調味料☆を混ぜ合わせる。しばらく置いて味をなじませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "975885",
+    "advice": "２．で水分を絞るとしっとり感がなくなるので注意。最後にオリーブ油を小さじ１加えると味に深みがでて美味しいです。",
+    "history": "残ったすし酢の有効活用です！甘酢として使えてとっても便利。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コールスロー すし酢"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/975885/100x141c/4a8b5d8ce897d8b481e7f840378f3ef9.jpg?u=1713385&p=1267609874"
+}

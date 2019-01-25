@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】やみつき春キャベツ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1417842/464x260/afcdfb90e089774e3530562aecef7222.jpg?u=2513693&p=1303398911",
+    "datePublished": "2011-04-23",
+    "description": "シンプルな味付けなのになぜか病み付きになってしまうんです。春キャベツはやっぱりコレですね～♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切りにしひたひたの水に塩小さじ１を入れ10分程度漬けてから水けを絞っておきます",
+        "①によく混ぜた【A】を入れよくまぜて完成です",
+        "冬キャベツはポン酢で浅漬けにする「やみつきキャベツ」ね\nレシID :1288919\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1417842",
+    "advice": "１の工程：薄い塩水につけているので、そんなにしんなりとはならないけど、出来るだけギュッと水けを絞っておいてくださいね。最後に入れる塩は小さじ2分の１にしていますが、量はお好みでね。",
+    "history": "春キャベツはやっぱりごま油＋塩が一番です♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春キャベツ",
+        "塩",
+        "すりゴマ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "133",
+    "thumbnail": "https://img.cpcdn.com/recipes/1417842/100x141c/c9856af2a7a60d2ec237087e365d24bc.jpg?u=2513693&p=1303398911"
+}

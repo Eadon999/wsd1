@@ -1,0 +1,68 @@
+{
+    "name": "黒豆梅干ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "LaLaHappy1"
+    },
+    "image": "https://img.cpcdn.com/recipes/1465005/464x260/b8d6369a588ed2b4baf126643548fbd2.jpg?u=2602427&p=1307536599",
+    "datePublished": "2011-06-08",
+    "description": "健康にいい黒豆と梅干の炊き込みご飯。煎り豆の香ばしい香りが食慾をそそります♪　炊飯器で手軽に炊けるのも魅力！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "米（洗う）",
+            "quantity": "2合"
+        },
+        {
+            "name": "黒豆",
+            "quantity": "2分の1カップ"
+        },
+        {
+            "name": "Ａ…酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2分の1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "梅干（大)(粗くほぐす）",
+            "quantity": "1、5個"
+        },
+        {
+            "name": "昆布（細く切る）",
+            "quantity": "3×10ｃｍ"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "黒豆はざるに入れてさっと洗います。水気を拭いたら、フライパンで、皮がはじけるまで、弱火で乾煎りします。",
+        "炊飯器に、米とＡを入れ、水を3,４合くらいまで入れます。①を加えて軽く混ぜ、普通に炊きます。",
+        "少し蒸らしてから、全体が混ざるように混ぜてください！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1465005",
+    "advice": "黒豆を炒る時は、油を敷かずに弱火で乾煎りしてくださいね。梅干は、シソ入りの梅干を使うと、キレイなピンク色になります♪　熱い日本茶をかけて、お茶漬けにしてもおいしいですよ！",
+    "history": "体にいいご飯",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/野菜のおかず/豆類/黒豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "黒豆ご飯 梅干し"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1465005/100x141c/88936af67dac531c5d9687c57721ec81.jpg?u=2602427&p=1307536599"
+}

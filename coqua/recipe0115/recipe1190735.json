@@ -1,0 +1,63 @@
+{
+    "name": "アジのなめろう",
+    "author": {
+        "@type": "Person",
+        "name": "～kei～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1190735/464x260/40b88f31ac585318706538a875dd0fda.jpg?u=2354942&p=1362106181",
+    "datePublished": "2010-07-21",
+    "description": "薬味たっぷり、なめらか~なお酒のあてにも白いご飯にもピッタリ！のなめろうです。2013.3話題入り☆感謝！",
+    "recipeYield": "アジ２尾分",
+    "recipeIngredient": [
+        {
+            "name": "アジ",
+            "quantity": "２尾"
+        },
+        {
+            "name": "■生姜",
+            "quantity": "大１分のみじん切り"
+        },
+        {
+            "name": "■長ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "■大葉",
+            "quantity": "４枚~５枚"
+        },
+        {
+            "name": "■味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "■お酒",
+            "quantity": "小１"
+        },
+        {
+            "name": "■みりん",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "アジは３枚おろしにし、皮をむき、小骨を取り除く。",
+        "生姜、長ネギ、大葉はみじん切りにする。",
+        "①のアジを細かく叩き、②と■のすべての調味料と一緒に包丁でとにかくよく叩き混ぜる。",
+        "なめらかになってきたら出来上がり。",
+        "2015.5.18\nクックパッドニュースに掲載いただきました。ありがとうございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1190735",
+    "advice": "調味料、薬味とアジがよく混ざるまで叩き混ぜてください。食べる直前まで冷蔵庫で冷やすのがオススメです！",
+    "history": "新鮮なアジをお刺身以外で薬味たっぷりでいただきたかったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": [
+        "鯵のなめろう 9位"
+    ],
+    "related_keywords": [
+        "鯵のなめろう"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1190735/100x141c/b48cf6a0e785bbbd38e3afacc0e09bd3.jpg?u=2354942&p=1362106181"
+}

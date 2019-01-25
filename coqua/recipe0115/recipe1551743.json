@@ -1,0 +1,63 @@
+{
+    "name": "ヘルシー大根ステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "やすやし"
+    },
+    "image": "https://img.cpcdn.com/recipes/1551743/464x260/a1644af00500b6e94ef55f55b34ef7de.jpg?u=3433296&p=1314753103",
+    "datePublished": "2011-08-31",
+    "description": "厚めに切れば食べごたえもバッチリ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/5本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき、1～2cm幅に切って、電子レンジ(500W)で約4分加熱する(ルクエを使用)\n※箸がすっと入ればOK",
+        "フライパンを中火にかけ、ごま油を入れ、水気をざっと切った1を入れる。",
+        "両面に焼き色が付いたら、薄口醤油を回し入れ、汁気が飛んだらフライパンから取り出す。",
+        "混ぜておいたAをフライパンに入れて弱火で水分を飛ばす。3にかけ、仕上げに白ごまを振る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1551743",
+    "advice": "味噌は焦げやすいので弱火で！",
+    "history": "ローカロリーで食べごたえがあるものを！ということで作ってみました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ごま油",
+        "薄口醤油",
+        "白ごま"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1551743/100x141c/173a8a963086b54d407506613c978922.jpg?u=3433296&p=1314753103"
+}

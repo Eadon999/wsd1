@@ -1,0 +1,60 @@
+{
+    "name": "✿舞茸のベーコン巻き✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/501669/464x260/2304b81f551add5d4bfc5f7678b8852e.jpg?u=271833&p=1215797898",
+    "datePublished": "2008-02-05",
+    "description": "舞茸とベーコンの相性は抜群☆ 短時間で簡単に作れるのでお弁当のおかずにもオススメです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "3枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆クレイジーソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸をほぐし、半分に切ったベーコンで巻く。",
+        "フライパンに油を熱し、1を巻き終わりを下にして並べ、ベーコンに焼き色が付くまで焼く。",
+        "２に酒を振り入れ、蓋をして弱火で3分ほど蒸し焼きにする。",
+        "☆印を振って出来上がり。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "501669",
+    "advice": "普通の塩こしょうで味付けしても美味しいです。 ",
+    "history": "冷蔵庫にある材料を組み合わせて作ったお弁当おかずです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "ベーコン",
+        "酒",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/501669/100x141c/08df2997be3bb36747316107e0820f7a.jpg?u=271833&p=1215797898"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "ほうれん草のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "テロろん"
+    },
+    "image": "https://img.cpcdn.com/recipes/294062/464x260/da2e6342e1926ac01ed8ef3468c183ec.jpg?u=283084&p=1342426098",
+    "datePublished": "2006-10-25",
+    "description": "茹でて混ぜるだけの簡単ナムル。お弁当にも常備菜にもぴったりです☆ごはんにもおつまみにもいけます。",
+    "recipeYield": "１束分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "おろしにんにく(お好みで）",
+            "quantity": "大さじ半分"
+        },
+        {
+            "name": "中華スープの素",
+            "quantity": "小さじ半分～"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を熱湯でさっと下湯で、水洗いして水気をよ～～～～～く切る。一口サイズにきる。",
+        "上記の調味料を混ぜ、ほうれんそうを和えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "294062",
+    "advice": "醤油の加減はおまかせします。ほうれん草は３０秒くらいで大丈夫だと思います。ほうれん草の量で調味量を加減してください。",
+    "history": "ビビンバ用のナムルです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "しょうゆ",
+        "おろしにんにく",
+        "中華スープの素"
+    ],
+    "tsukurepo_count": "128",
+    "thumbnail": "https://img.cpcdn.com/recipes/294062/100x141c/54a083461db4ea6189c3d2e2ab4cd72e.jpg?u=283084&p=1342426098"
+}

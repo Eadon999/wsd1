@@ -1,0 +1,47 @@
+{
+    "name": "✿梅と大葉のおにぎり✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/383824/464x260/9a48f9815ffbccde1bf2d48e997cce71.jpg?u=271833&p=1253878509",
+    "datePublished": "2007-06-03",
+    "description": "梅の酸味と大葉の爽やかな風味を楽しめるさっぱり味のおにぎりです。つくれぽ100人ありがとうございます✿",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "大葉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "2個"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗一膳分"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉は細かく刻む。梅干は種を取り除き、包丁の背で叩いておく。",
+        "1・白ごま・ごはんをボウルに入れてよく混ぜ合わせ、おにぎりにする。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "383824",
+    "advice": "梅干の量はお好みに応じて加減して下さい。 ",
+    "history": "大葉入りのおにぎりが食べたくて。梅と組み合わせて彩りよくしました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "梅 おにぎり",
+        "おにぎり 大葉"
+    ],
+    "tsukurepo_count": "426",
+    "thumbnail": "https://img.cpcdn.com/recipes/383824/100x141c/08f30676eb2d27b81e6a2db4dadf83e5.jpg?u=271833&p=1253878509"
+}

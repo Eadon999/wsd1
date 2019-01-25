@@ -1,0 +1,69 @@
+{
+    "name": "アジの酢味噌焼き",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/501572/464x260/d96b34c49d596e8b5be9a4e89e344e31.jpg?u=230354&p=1214218602",
+    "datePublished": "2008-02-05",
+    "description": "こってりし過ぎず、さっぱりし過ぎず。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "アジ",
+            "quantity": "2尾"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "◎穀物酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "アジは3枚におろし、半分か1/3に切る。酒とすりおろしたしょうがをふりかけてしばらく置く。水気をしっかり拭きとって、両面に片栗粉をまぶす。　ニンニクはみじん切り。",
+        "フライパンにニンニクとサラダ油を入れて火にかけ、香りが立ったら、重ならないようにアジを入れて両面焼く。",
+        "焼けたら◎を加えてフライパンをゆするようにして絡めて出来上がり。ねぎをたっぷりかけて食べるのが好き♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "501572",
+    "advice": "調味料を加えたら、アジが崩れないようにあまりいじらず、フライパンをゆするようにして絡めてくださいね。",
+    "history": "子供は魚が好きなんだけど、旦那があまり魚食べないんで。子供も食べやすくて、旦那でも食べるような味付け＆調理法に。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": [
+        "酢味噌 2位"
+    ],
+    "related_keywords": [
+        "あじ"
+    ],
+    "tsukurepo_count": "250",
+    "thumbnail": "https://img.cpcdn.com/recipes/501572/100x141c/9ee2df431cf03d2fa4522134d10d1075.jpg?u=230354&p=1214218602"
+}

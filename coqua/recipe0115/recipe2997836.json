@@ -1,0 +1,71 @@
+{
+    "name": "大根と人参とさつま揚げのたいたん（煮物)",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/2997836/464x260/1cd39a6eea0eb40ecc830d9e15f90c9a.jpg?u=7167639&p=1423058606",
+    "datePublished": "2015-03-08",
+    "description": "2016・3・4 話題入り♬感謝です♡なつかし～い味の煮物です。材料は全部、細切りなので調理時間が時短です。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "2～3枚"
+        },
+        {
+            "name": "水",
+            "quantity": "500㏄"
+        },
+        {
+            "name": "粉末だしの素",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参は細切りにします。(スライサーを使うと便利)",
+        "さつま揚げは5mm位の幅の細切りにします。",
+        "お鍋に煮汁を作り沸騰させます。\n沸騰したら、大根、人参、さつま揚げを入れ中火で煮ます。",
+        "大根と人参が柔らかくなったら火を止めて完成です。\n\nそのまま30分位置くと味が染み込んで、更に美味しくなります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2997836",
+    "advice": "簡単です！煮汁に入れて炊くだけです。",
+    "history": "昔、母が 良く作っていた一品です。今回は、大根 消費の為に「こんな味だったかなぁ～」と思い出し作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 さつま揚げ",
+        "大根 さつま揚げ 煮物",
+        "大根 たいたん",
+        "さつま揚げ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2997836/100x141c/3eadbb7d06cf326503bd8c23153e3183.jpg?u=7167639&p=1423058606"
+}

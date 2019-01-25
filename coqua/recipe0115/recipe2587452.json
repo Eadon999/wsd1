@@ -1,0 +1,68 @@
+{
+    "name": "我が家の親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "来夢☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2587452/464x260/7e5c936d861a71ec0e6de8b362f07502.jpg?u=7766960&p=1397656695",
+    "datePublished": "2014-04-16",
+    "description": "とろ～り卵と甘辛汁があわさって、とっても美味しい☆我が家の丼メニュー人気 №１です♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "75g"
+        },
+        {
+            "name": "○だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "○水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは薄くくし切り、鶏肉は皮を取り除いて食べやすい大きさに切る。(写真：2人分の材料)",
+        "小さいフライパン又は小鍋に○の調味料を入れ火にかける。煮立ってきたら玉ねぎ・鶏肉を加え、具材に火を通しながら煮る。",
+        "玉ねぎが透き通り、鶏肉に火が通ったらとき卵(2個)をまわし入れる。半熟になったらご飯の上にのせて出来上がり。",
+        "お好みで海苔やねぎをちらしてお召し上がり下さい。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2587452",
+    "advice": "卵は、卵白が残るくらいで混ぜて下さい。卵をまわし入れたら、菜箸でクルッと混ぜます。中火でクツクツ 1分、後は蓋をして弱火でお好みの状態まで！",
+    "history": "子供の頃から食べている親子丼です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 人気"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2587452/100x141c/5b043c69be055e70126acb935dd842ed.jpg?u=7766960&p=1397656695"
+}

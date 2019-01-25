@@ -1,0 +1,38 @@
+{
+    "name": "シンプル・ごま塩おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2693173/464x260/4bd000a0f5f3e47b196568a9aa3647a1.jpg?u=3099986&p=1404201625",
+    "datePublished": "2014-07-01",
+    "description": "2017.4.17   10人話題入りレシピ48簡単。おいしい。",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "炊いたご飯",
+            "quantity": "茶わん1杯"
+        },
+        {
+            "name": "ごま塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯を握って皿にのせ、ごま塩をかける。",
+        "2017.4.17  100ｇくらい人の方に作っていただき話題入りしました。\nありがとうございました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2693173",
+    "advice": "ごま塩を使うので、握るときは塩を使いません。",
+    "history": "昼ごはんにつくった。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごま塩 おにぎり"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/2693173/100x141c/a8ffd1807ab70d92319e658ad9540c56.jpg?u=3099986&p=1404201625"
+}

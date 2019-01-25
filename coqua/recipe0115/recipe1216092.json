@@ -1,0 +1,71 @@
+{
+    "name": "長いもと鶏のほっくり煮",
+    "author": {
+        "@type": "Person",
+        "name": "シャンプーハット"
+    },
+    "image": "https://img.cpcdn.com/recipes/1216092/464x260/f49913019c32cdbdac63b5aae197a086.jpg?u=2367334&p=1305721356",
+    "datePublished": "2010-08-22",
+    "description": "長いもって煮てもおいしいんです☆サクッもいいけどホクッもいいですよ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "●水",
+            "quantity": "350~400cc"
+        },
+        {
+            "name": "●本だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "長いも、人参は皮をむいて1～1.5cm幅の輪切り。玉ねぎは櫛切り。鶏肉は食べやすく切る",
+        "●を鍋に入れ①を入れて火にかける。アクが出てきたらすくって捨てる",
+        "材料が柔らかく煮えてきたら完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "1216092",
+    "advice": "火が強過ぎると煮崩れるので火は弱目の方が良いと思います。5/18写真変更しました。彩りにいんげん加えました。お好みで加えて下さい",
+    "history": "私が入院中にお義母さんが病院食はマズイだろうと持ってきてくれました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "人参",
+        "玉ねぎ",
+        "鶏もも肉"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1216092/100x141c/6390f00b2a8112d506063cf82ab6a92a.jpg?u=2367334&p=1305721356"
+}

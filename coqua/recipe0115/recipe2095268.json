@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】ぴり辛もやし",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2095268/464x260/b32b395d7a1c348a33710b80198fe620.jpg?u=2513693&p=1359160828",
+    "datePublished": "2013-01-31",
+    "description": "調味料を煮立ててもやしを入れてさっと煮るだけ。とっても簡単、ぴりっと辛いやみつきもやしです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし（できれば太もやし）",
+            "quantity": "１袋"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "【Ａ】を煮立てて、もやしを入れ、かき混ぜながらもやしがしんなりするまで１分程度煮て完成。冷めてからどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2095268",
+    "advice": "",
+    "history": "ラーメンの上に乗せても美味しいもやしの料理を考えていて、ナムル風に仕上げてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ もやし"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2095268/100x141c/f2d405cde53b24b2285dfe0bb5f6d20b.jpg?u=2513693&p=1359160828"
+}

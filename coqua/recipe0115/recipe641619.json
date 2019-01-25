@@ -1,0 +1,67 @@
+{
+    "name": "☼鶏ももと椎茸のオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/641619/464x260/6c3c6e1b84c26d06af6dce176ac537dc.jpg?u=276760&p=1220999333",
+    "datePublished": "2008-09-10",
+    "description": "★つくれぽ10人★鶏もも肉と椎茸をオイスターソースで炒めた、こってり味の炒め物♪鶏ももに片栗粉をふってこんがり焼きます♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚(２５０グラム）"
+        },
+        {
+            "name": "○塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "○片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "大４個"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉は一口大に切り、塩コショウと片栗粉をまぶしつける。\r\nしいたけは石づきをとり、半分に切る。",
+        "油をひかないフライパンで、鶏もも肉を皮側からこんがり焼く。\r\n蓋をして、両面こんがり火を通す。\r\n",
+        "椎茸を加えて炒め合わせる。\r\n●を加えて、炒め絡めたら出来上がり。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "641619",
+    "advice": "鶏ももをこんがりと焼くこと。",
+    "history": "椎茸が安かったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉 しいたけ",
+        "鶏もも肉 オイスターソース炒め",
+        "鶏もも肉 オイスターソース"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/641619/100x141c/b379feecdd8d1419607654a1daa76567.jpg?u=276760&p=1220999333"
+}

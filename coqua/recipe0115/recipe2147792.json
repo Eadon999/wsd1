@@ -1,0 +1,64 @@
+{
+    "name": "ルクエ＊茄子とししとうの揚げ浸し。",
+    "author": {
+        "@type": "Person",
+        "name": "けこぽん。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2147792/464x260/05645151917605e5f2ceadeeb8d12df5.jpg?u=2814752&p=1362838631",
+    "datePublished": "2013-03-09",
+    "description": "大好きな茄子の簡単＆ヘルシーにおいしくいただけるレシピ。あと一品欲しい！な時にも便利です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "４本"
+        },
+        {
+            "name": "ししとう",
+            "quantity": "８本"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "1０0ml"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ししとうは切り込みを入れ、穴をあけておく。",
+        "茄子は、ししとうと同じくらいの大きさに切り、水にさらす。",
+        "ししとうと茄子をルクエに入れて、塩適量とサラダ油を入れ、レンジで4分。",
+        "中の水とサラダ油を捨てる。",
+        "ルクエに、めんつゆとすりおろした生姜を入れ混ぜ、鰹節をかけて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2147792",
+    "advice": "油っぽいようでしたら、油の量を調整してみて下さい。",
+    "history": "旦那様のおいしいと言ってくれたレシピを残します。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ししとう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ししとう",
+        "めんつゆ",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2147792/100x141c/3b51e93aab9a4be1235ab3fd9a3c294b.jpg?u=2814752&p=1362838631"
+}

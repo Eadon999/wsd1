@@ -1,0 +1,64 @@
+{
+    "name": "お手軽！マグロの韓国風ユッケ",
+    "author": {
+        "@type": "Person",
+        "name": "916banana"
+    },
+    "image": "https://img.cpcdn.com/recipes/1123336/464x260/85ce6ae9d8b2e1b62dee5557c40cb8be.jpg?u=2210903&p=1275322081",
+    "datePublished": "2010-05-12",
+    "description": "ストックの冷凍マグロで。簡単で本格的な味！韓国海苔・もやしのナムル(レシピID:1123232)と一緒にいかがですか。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍赤身マグロ",
+            "quantity": "１サク（２００ｇくらい）"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "おろしにんにく（チューブ）",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "コチジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "卵黄（トッピング）",
+            "quantity": "１コ"
+        }
+    ],
+    "recipeInstructions": [
+        "マグロを半解凍します。※生よりも包丁が入りやすいです。",
+        "ヤンニンジャンを作ります。ボールに卵黄以外の調味料を入れて合わせます。",
+        "マグロを約５mm角に切り、ヤンニンジャンの入ったボールに加え、混ぜ合わせます。 \r\n",
+        "山高に盛り付けて、卵黄をトッピングします。\r\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1123336",
+    "advice": "万能ねぎ、大葉、松の実など、お好みで薬味をプラスしてみて下さいね。",
+    "history": "娘が山盛りユッケを食べたいと言ったので。 お刺身なら生肉より安心ですよね。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "韓国風マグロユッケ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1123336/100x141c/217d9922e621f343471655aa2505e582.jpg?u=2210903&p=1275322081"
+}

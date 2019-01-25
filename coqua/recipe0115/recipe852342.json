@@ -1,0 +1,47 @@
+{
+    "name": "切干大根の甘辛マヨ",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃんゆぅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/852342/464x260/eaf8e3d888e7906796f1edef10d52c7c.jpg?u=798501&p=1246348454",
+    "datePublished": "2009-07-01",
+    "description": "切干大根の甘辛煮＋マヨです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "Ｂ：酒・みりん・しょうゆ・オイスターソース・砂糖",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "Ａ：にんにく・しょうがすりおろし・豆板醤",
+            "quantity": "各小さじ２／１"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根は水で戻し、食べやすい長さに切る。フライパンにマヨネーズ大さじ１とＡを熱し、切干大根を投入。",
+        "軽く炒めてＢを投入。水分がほぼなくなるまで中火で炒めて火を止める。マヨネーズ大さじ１を絡めたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "852342",
+    "advice": "味はこってり甘辛なので最後にあえるマヨネーズがＧＯＯＤＪＯＢです。",
+    "history": "切干大根レシピを試作中にＨＩＴ。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/852342/100x141c/21a730632d4423649bf9a6d093decb27.jpg?u=798501&p=1246348454"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "鶏とサツマイモとピーマンのテリテリ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/214966/464x260/4c573821b239ec65cb6700f0653c8a8b.jpg?u=57297&p=1214212196",
+    "datePublished": "2005-09-06",
+    "description": "これはお芋でボリュームあるし、凄く美味しかったよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏腿肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "４個"
+        },
+        {
+            "name": "サツマイモ",
+            "quantity": "１本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "１"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "１"
+        },
+        {
+            "name": "酒",
+            "quantity": "１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "２"
+        }
+    ],
+    "recipeInstructions": [
+        "サツマイモは乱切りにして、ラップして１分半～２分チン\r\n鶏腿肉は適当に切って、塩胡椒、ピーマンも乱切りにしておきます。",
+        "タレ：醤油１、砂糖１、酢小さじ２、酒１、おろし生姜小さじ１～２(お好みで）",
+        "ごま油で、鶏腿肉を炒め、大体火が通ったら、お芋とピーマンも投入、仕上げにタレを入れて水分を飛ばします。\r\n仕上がりはテリテリになるよ(^m^*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "214966",
+    "advice": "さつま芋はあらかじめチンしておくと火の通りがいいです",
+    "history": "お芋はいっぱい食べなきゃね",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも ピーマン"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/214966/100x141c/38f971aef6ca46beed509c407022772a.jpg?u=57297&p=1214212196"
+}

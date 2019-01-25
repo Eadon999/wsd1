@@ -1,0 +1,61 @@
+{
+    "name": "もやしときゅうりの海苔ゴマ酢和え",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/560447/464x260/b25c0efc3eadb4a3262f31e7ce638e83.jpg?u=230354&p=1214219763",
+    "datePublished": "2008-05-10",
+    "description": "さっぱりゴマ酢に、海苔の香りがおいしい♫",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎白すりゴマ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしはさっと茹で、冷まして水気をしぼる。きゅうりは千切りにし、塩を軽くふってしばらく置き、水洗いして水気を切る。",
+        "◎を混ぜ合わせ、もやしときゅうりを加えて和える。最後に焼き海苔を手でちぎって加え、混ぜれば出来上がり♫"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "560447",
+    "advice": "ちょっとしけっちゃった焼き海苔でもＯＫですよ～♪私は豆もやしが好きで、豆もやしを使うことが多いですが、普通のもやしでもちろん大丈夫です。",
+    "history": "最近さっぱりしたものがおいしい。巻き寿司であまった焼き海苔があったので、一緒に入れたらおいしかった♫",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "きゅうり",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "315",
+    "thumbnail": "https://img.cpcdn.com/recipes/560447/100x141c/157ca0d5e43ebcbd2467c31d73a874c5.jpg?u=230354&p=1214219763"
+}

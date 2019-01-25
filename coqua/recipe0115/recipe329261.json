@@ -1,0 +1,68 @@
+{
+    "name": "竹輪と舞茸の炒めもの",
+    "author": {
+        "@type": "Person",
+        "name": "che"
+    },
+    "image": "https://img.cpcdn.com/recipes/329261/464x260/37bcab4ce30a525a159e774bae374d7c.jpg?u=55190&p=1214214684",
+    "datePublished": "2007-02-11",
+    "description": "黒胡麻が、竹輪と舞茸をうまくまとめてくれます。地味な見た目ながら、後引くおいしさ。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "１本"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "１パック"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "黒胡麻",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大１"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸を小房に分け、竹輪は3～4mmに輪切りにする。",
+        "フライパンにサラダ油を熱し、竹輪を炒める。",
+        "竹輪に少し焦げ目がついてきたら、舞茸も加え、しんなりするまで炒める。",
+        "酒、味醂、醤油を加えて軽く混ぜたら、黒胡麻、胡麻油も加えてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "329261",
+    "advice": "舞茸がしんなりしすぎないように、炒める時間を長くしないこと。",
+    "history": "勤務先の病院で、患者さんの朝食に、ときどき「利休煮」という名前の小鉢が出ます。竹輪と黒胡麻のお惣菜なのですが、これがいつもおいしそうで・・。竹輪と黒胡麻、相性はぴったりですね。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "竹輪",
+        "舞茸",
+        "酒",
+        "味醂"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/329261/100x141c/b5d80f2db32f33f7327edf0b4cc6f0a1.jpg?u=55190&p=1214214684"
+}

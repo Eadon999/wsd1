@@ -1,0 +1,67 @@
+{
+    "name": "白菜とかにかまぼこの辛子マヨネーズ和え",
+    "author": {
+        "@type": "Person",
+        "name": "jun120121"
+    },
+    "image": "https://img.cpcdn.com/recipes/1948412/464x260/18447d7ec71a0cbc1c13ab1226867cc3.jpg?u=3907799&p=1347185267",
+    "datePublished": "2012-09-09",
+    "description": "なんだか白菜がとても安かったので",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "3枚　（300g）"
+        },
+        {
+            "name": "かにかまぼこ",
+            "quantity": "4本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3　（36g）"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ねりからし",
+            "quantity": "チューブ1cm分"
+        },
+        {
+            "name": "粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を葉と芯に分けて、芯、葉の順に茹でます　（余熱で火が通るので早めにざるに上げます）",
+        "かにかまを切ってほぐします",
+        "白菜の粗熱がとれたら適当に切って、きつく水気をしぼります",
+        "白菜とかにかまを調味料で和えて完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "1948412",
+    "advice": "白菜を茹ですぎないのがポイントです　しゃきしゃきしてるくらいがおいしいです",
+    "history": "白菜が安かったのでたくさん食べようと",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "かにかまぼこ",
+        "マヨネーズ",
+        "鶏がらスープの素"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/1948412/100x141c/86322196d56f207644d83e33b4c88078.jpg?u=3907799&p=1347185267"
+}

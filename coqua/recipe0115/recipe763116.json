@@ -1,0 +1,65 @@
+{
+    "name": "圧力鍋で大根・人参・牛肉の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "だんな様は料理人"
+    },
+    "image": "https://img.cpcdn.com/recipes/763116/464x260/1b9dbd144fa1d131ccfbb7f50895418a.jpg?u=1128199&p=1237372674",
+    "datePublished": "2009-03-21",
+    "description": "ちょっと甘めで美味しい煮物ができました。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "人参(小)",
+            "quantity": "1本"
+        },
+        {
+            "name": "牛肉こま切れ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "出汁",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "しょうゆ・酒",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "鷹の爪(種は除いて）",
+            "quantity": "1/2本"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参は乱切りにして下茹でしておく。牛肉もさっと湯通ししておく。",
+        "圧力鍋に油をしき、１の材料と鷹の爪も入れ、さっと炒める。煮汁を入れ蓋をする。高圧で3分加熱した後、自然放置。",
+        "圧力がなくなったら蓋をあけ、5分程度弱火で煮込み、できあがり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "763116",
+    "advice": "わが家の圧力鍋は「アサヒ軽金属のスーパー活力鍋」です。ご自宅の圧力鍋に合わせて加圧時間は調節してください♪",
+    "history": "冷蔵庫にあったもので煮物にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 人参牛肉",
+        "大根 牛肉 煮物 圧力鍋"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/763116/100x141c/3548ee8495943d4647157ebfe90cda51.jpg?u=1128199&p=1237372674"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "ホタテのソテー◇バター醤油風味",
+    "author": {
+        "@type": "Person",
+        "name": "バナナざくろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/373744/464x260/87a5477249bd7aeaf5d03ba6073d46b1.jpg?u=262101&p=1214215669",
+    "datePublished": "2007-05-15",
+    "description": "普通だけど、ホタテにバター醤油は抜群の相性です。簡単おつまみ。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ホタテ（刺身用）",
+            "quantity": "大きめ５～６コ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンにバターを入れ溶かし、ホタテを両面軽く焼く。そこに胡椒をふり最後に醤油を絡める。",
+        "器に盛って出来上がり！",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "373744",
+    "advice": "ホタテは軽く焼いて下さい。火を入れすぎると固くなります。",
+    "history": "バター醤油味が好きだから。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "帆立貝 バター しょうゆ",
+        "帆立貝 ソテー",
+        "ホタテのソテー",
+        "ホタテ バター 醤油"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/373744/100x141c/453c22c7eef5290f8c57223f6d5e64a9.jpg?u=262101&p=1214215669"
+}

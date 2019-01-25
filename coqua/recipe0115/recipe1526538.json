@@ -1,0 +1,41 @@
+{
+    "name": "竹輪きゅうり",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1526538/464x260/b7f806d27db246e1378e11550b822c8c.jpg?u=2495483&p=1313732500",
+    "datePublished": "2011-08-19",
+    "description": "簡単に出来ますよ～",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "１本"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "１本"
+        }
+    ],
+    "recipeInstructions": [
+        "竹輪と胡瓜を用意する",
+        "竹輪に胡瓜を詰める。この時なるべくねじねじせずにそっと押しこむといいです",
+        "適当な大きさに切る",
+        "おこのみで味噌やマヨネーズをつける"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1526538",
+    "advice": "",
+    "history": "おつまみ用に作りました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "竹輪",
+        "胡瓜"
+    ],
+    "tsukurepo_count": "117",
+    "thumbnail": "https://img.cpcdn.com/recipes/1526538/100x141c/f21c24dd02303559446761b0688ae450.jpg?u=2495483&p=1313732500"
+}

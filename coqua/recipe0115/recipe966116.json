@@ -1,0 +1,67 @@
+{
+    "name": "カブとベーコンのミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/966116/464x260/1414d78ef5c5a6141c5ae45aeb94fde4.jpg?u=220679&p=1258240667",
+    "datePublished": "2009-11-19",
+    "description": "ほっこりやさしい味のミルクスープ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "大１個（小なら２個）"
+        },
+        {
+            "name": "カブの葉",
+            "quantity": "少々"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚（３０ｇ）"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "150cc"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カブは皮をむいてくし型に切る。今回は大きなカブだったので１０等分。小さいカブなら６等分に。 \r\n葉は１㎝長さに切る。",
+        "玉ねぎは薄切り。ベーコンは１㎝幅に切っておく。",
+        "鍋にサラダ油少々を熱して玉ねぎとベーコンをを炒め、しんなりしたら、カブ、水、コンソメ顆粒をいれ５分煮る。",
+        "牛乳、カブの葉を加えてひと煮し、塩コショウで味を調えて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "966116",
+    "advice": "カブは少し硬めのところで火を止めると、食卓に出す時にちょうど良い柔らかさになります。牛乳を入れてからは火は弱めに。",
+    "history": "ほっこりやさしいスープが飲みたくて。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ ミルクスープ",
+        "かぶ スープ",
+        "かぶ ベーコン",
+        "かぶ ベーコン ミルクスープ"
+    ],
+    "tsukurepo_count": "227",
+    "thumbnail": "https://img.cpcdn.com/recipes/966116/100x141c/f6e3b97642b95dccfb9a790a605310ce.jpg?u=220679&p=1258240667"
+}

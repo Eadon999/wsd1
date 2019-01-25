@@ -1,0 +1,62 @@
+{
+    "name": "チンゲン菜とじゃがいものマヨ炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "catnao"
+    },
+    "image": "https://img.cpcdn.com/recipes/3445974/464x260/9e18dfc54b8dc5e4fd8ccf2a4b77623d.jpg?u=13290714&p=1444216565",
+    "datePublished": "2015-10-07",
+    "description": "あと１品欲しい時の簡単マヨ醤油炒め。ゴマ油が効いておいしいですよ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２束"
+        },
+        {
+            "name": "じゃがいも(大)",
+            "quantity": "１個"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油(仕上げ用)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は茎と葉に分ける。じゃがいもは大き目の千切りに。",
+        "じゃがいもはレンジで１分ほど温めておく。",
+        "フライパンにオリーブオイルを入れチンゲン菜の茎から炒める。",
+        "じゃがいも、チンゲン菜の葉を入れ炒め○の調味料を入れ塩コショウで味を調える。",
+        "最後にごま油を入れ完成♬"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3445974",
+    "advice": "ごま油がアクセントになってます。",
+    "history": "冷蔵庫の中にあった野菜で簡単にもう１品作りたいと思って。マヨ醤油で味付けしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 じゃがいも",
+        "チンゲン菜 じゃがいも 炒め"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/3445974/100x141c/64f519a8a4b9d8e1f531ec59f8fee756.jpg?u=13290714&p=1444216565"
+}

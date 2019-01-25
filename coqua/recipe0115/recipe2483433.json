@@ -1,0 +1,58 @@
+{
+    "name": "蓮根と豚肉の甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "銀の助Ｊｒ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2483433/464x260/acef56db54386bd0f3cf6bc5ac201846.jpg?u=1607700&p=1391144566",
+    "datePublished": "2014-01-31",
+    "description": "ささっと簡単に1品！お酒のお供でもご飯のおかずでも。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "5cmくらい"
+        },
+        {
+            "name": "豚肉薄切り",
+            "quantity": "100g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖(今回は三温糖使用)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は１ｃｍ幅に切り、蓮根は半分に切って薄切りにする",
+        "フライパンにごま油をひき、豚肉と蓮根を炒めある程度火が通ったら酒を入れ\n軽く炒め飛ばす",
+        "砂糖と醤油を入れ、味をしみこませるように炒めたら出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2483433",
+    "advice": "砂糖は三温糖だと甘さが優しく仕上がります。普通の砂糖を使う場合は分量より少な目でも良いかも。",
+    "history": "母から受け継いだ家庭の味です。学生時代の弁当に良く入ってました(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蓮根",
+        "豚肉薄切り",
+        "酒",
+        "醤油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2483433/100x141c/1964b4eac9fedf1aafc671d9b9a5141a.jpg?u=1607700&p=1391144566"
+}

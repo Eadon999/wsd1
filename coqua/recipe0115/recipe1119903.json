@@ -1,0 +1,60 @@
+{
+    "name": "ピーマンのツナマヨコーン詰め♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1119903/464x260/ea1d14a107e88e5739a5a305cf3273ef.jpg?u=921598&p=1398400553",
+    "datePublished": "2010-05-08",
+    "description": "トースターを使って簡単調理！コーンがたっぷり入ってしかもツナマヨ味☆お弁当のおかずやお子様にも大人気間違いないですよぉ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "5個"
+        },
+        {
+            "name": "●ツナ缶（オイルを切ったもの）",
+            "quantity": "2缶"
+        },
+        {
+            "name": "●スイートコーン",
+            "quantity": "1缶（130ｇ）"
+        },
+        {
+            "name": "●玉ねぎ（みじん切り）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "●こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは半分に切って種を取り除いておく。",
+        "ボウルに、●の材料を入れてよく混ぜ合わせておく。",
+        "2の具をピーマンに詰める。",
+        "トースタートレイにアルミホイルを被せ、オリーブオイルを塗って3を並べ、トースターで約5～7分間焼いたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1119903",
+    "advice": "焼き上がってトレイからお皿に移す時にスプーンを使うと便利ですよぉ♪",
+    "history": "パンの代わりにピーマンの中に詰めてみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン コーン"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1119903/100x141c/cbce6283ea28bbbc8995512799dbea20.jpg?u=921598&p=1398400553"
+}

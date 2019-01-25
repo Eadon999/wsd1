@@ -1,0 +1,63 @@
+{
+    "name": "☆ピーマンとゴボウの塩きんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "aisfww"
+    },
+    "image": "https://img.cpcdn.com/recipes/1682732/464x260/ce30716bed1755de0e352abe67abc146.jpg?u=3439612&p=1342495426",
+    "datePublished": "2012-01-27",
+    "description": "ベーコンの塩の旨みとゴボウの香ばしさが悶絶ものです☆さくっとできるのでお弁当にも♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "ゴボウ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "バターorマーガリン",
+            "quantity": "大さじ１.５"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "一かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴボウは５㎝長さの細切りにして水にさらしてあくを抜く。\n\nピーマン・ベーコンは細切りに切る。\n",
+        "フライパンにバターと熱しベーコンをいためる。\n",
+        "少しカリッとしたら水を切ったゴボウを加えて炒めて、\nピーマン・塩コショウも加えて炒める。",
+        "全体に火が通ったら鍋はだから醤油をヒトまわしして出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1682732",
+    "advice": "②でベーコンと一緒につぶしニンニクを炒めると風味+パンチが出ます（＾ｕ＾）",
+    "history": "和風総菜のきんぴらにベーコンを加えてマンネリ脱出！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "ゴボウ",
+        "塩コショウ",
+        "醤油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1682732/100x141c/2600e1841b294353c57105747c7f6ab0.jpg?u=3439612&p=1342495426"
+}

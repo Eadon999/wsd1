@@ -1,0 +1,57 @@
+{
+    "name": "簡単☆チーズリゾットほんのりバター風味",
+    "author": {
+        "@type": "Person",
+        "name": "ｎｅｃｏ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1156817/464x260/1bac805b4d09f542fb1c2a94831fd43a.jpg?u=2301408&p=1276350295",
+    "datePublished": "2010-06-12",
+    "description": "ご飯で作る簡単チーズリゾット。調理時間は１０分もかかりません。とろとろに溶けたパルメザンチーズとが絶品です。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１／２カップ"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "パルメザンチーズ（粉チーズ）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "各適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに水、顆粒コンソメを入れて火にかけ、温まってきたらご飯を入れて煮る。",
+        "水分が少なくなったら、弱火または一旦火からおろし、パルメザンチーズ、バターを加えて混ぜ合わせ、塩、胡椒で味を調えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1156817",
+    "advice": "",
+    "history": "１分でも１秒でも早く食べた～い！でも美味しくなくちゃね！大満足のチーズリゾットがあっという間に出来ちゃった！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "水",
+        "顆粒コンソメ",
+        "パルメザンチーズ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1156817/100x141c/5e4c9441baa337e2966d5d862467cb76.jpg?u=2301408&p=1276350295"
+}

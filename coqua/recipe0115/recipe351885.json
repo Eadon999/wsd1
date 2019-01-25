@@ -1,0 +1,70 @@
+{
+    "name": "豚しょうが焼き♥♡マヨ風味",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/351885/464x260/33d2a34b950a1242edba2c3ff0c04686.jpg?u=304393&p=1214215192",
+    "datePublished": "2007-03-29",
+    "description": "いつものしょうが焼きにマヨをプラス!!!ｶﾞｯﾂﾘいきたい時にどうぞ♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "すりおろし１かけ分"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２ｺ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆蜂蜜",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１強"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは薄きり。\r\n☆は合わせておき、豚肉は塩こしょうをまぶしておく。",
+        "玉ねぎ・豚肉は☆としょうがでよく揉み込んでおく。",
+        "フライパンに少量の油を熱し②を焼いていく。\r\n仕上がりにマヨを入れザッと炒めたらできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "351885",
+    "advice": "マヨで炒めてしまうと焦げやすいので最後に。油は少量でもたれがあるのでそれで炒めるとよいです。肉は薄切りで多少脂身がある方が美味しいです。",
+    "history": "しょうが焼きが大好きなので。いろいろｱﾚﾝｼﾞしてる１品です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "しょうが",
+        "玉ねぎ",
+        "醤油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/351885/100x141c/65fade76a0d283ad40594f560d8a4579.jpg?u=304393&p=1214215192"
+}

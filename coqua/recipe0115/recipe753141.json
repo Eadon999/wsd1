@@ -1,0 +1,63 @@
+{
+    "name": "我が家の✿手作りなめたけ(ピリ辛味噌)",
+    "author": {
+        "@type": "Person",
+        "name": "ちびごりす"
+    },
+    "image": "https://img.cpcdn.com/recipes/753141/464x260/4fa99aae59f1d666859ff62def26885c.jpg?u=588872&p=1236438414",
+    "datePublished": "2009-03-15",
+    "description": "我が家の新定番♫♬味噌味も美味しいですよ♡",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "一袋(大袋)"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは長さを3～4等分にし、流水で軽く洗い、ざるに上げ水気を切っておく。",
+        "鍋にえのきと味噌以外の調味料を入れて煮立て、あくをすくいとる。",
+        "2に味噌を入れて、軽く煮立てたら出来上がり。",
+        "皆様のお陰で2009.4.3話題入りすることができました♡\r\nありがとうございます✿"
+    ],
+    "cookTime": null,
+    "recipe_id": "753141",
+    "advice": "豆板醤の量はお好みによって増減させてください。味噌は減塩味噌を使用。ご家庭の味噌の濃さによりご調整ください。",
+    "history": "いつものなめたけを味噌味にアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "酒",
+        "みりん",
+        "醤油"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/753141/100x141c/94269fd549b3817434348e67ff76b9ac.jpg?u=588872&p=1236438414"
+}

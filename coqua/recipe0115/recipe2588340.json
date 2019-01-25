@@ -1,0 +1,67 @@
+{
+    "name": "ウインナーとピーマン、しめじの味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2588340/464x260/734f7b4fc3e8d802152dc1e0a4819e7f.jpg?u=3540419&p=1397649742",
+    "datePublished": "2014-04-16",
+    "description": "しょうがの香りと味噌の風味✿ちょっぴり和のウインナーの炒め物です♡お弁当にも。2014.5.20カテゴリ掲載感謝♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ウインナー",
+            "quantity": "6本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/6パック"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ウインナーは1本を斜めに４つに、ピーマンは1.5cm角に、しめじは２つに切り、しょうがはせん切りにする",
+        "フライパンにごま油をひき、しょうがを炒める",
+        "ウインナーとしめじを加え、火が通ったらピーマンを加えてさっと炒める",
+        "★を加え、全体にからめてできあがり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2588340",
+    "advice": "ピーマンは炒めすぎないようにすると、きれいな緑色になります",
+    "history": "お弁当のおかずに、ウインナーをいつもと少し違う味にしたくて",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナー",
+        "ピーマン",
+        "しめじ",
+        "しょうが"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2588340/100x141c/8eeb2c645e8b8142314f3822e8d5faa0.jpg?u=3540419&p=1397649742"
+}

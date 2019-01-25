@@ -1,0 +1,60 @@
+{
+    "name": "さわらのしそ香焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ウピコ"
+    },
+    "image": "https://img.cpcdn.com/recipes/392168/464x260/0349eee4f07eef5a11341e1311187792.jpg?u=450841&p=1214216464",
+    "datePublished": "2007-06-20",
+    "description": "さわらを網で焼き、しその葉をたっぷりのせました。 【2010/4/6　100人達成！皆様ありがとうございます】",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さわら",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "しその葉",
+            "quantity": "4枚"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ1/2杯"
+        },
+        {
+            "name": "ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "●の調味料を混ぜ合わせてさわらを漬けておく。（30分ほど）",
+        "１の汁けをキッチンペーパーでふき、グリルで焼く。",
+        "２の残りの漬け汁を耐熱容器に入れ、レンジにかける。",
+        "さわらに３の漬け汁をかけ、せん切りのしその葉を散らしてごまをふる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "392168",
+    "advice": "さわらは切れ目を入れると味がしみこみやすいです。漬け汁をレンジにかけるのは、熱を通すためです。ふきこぼれないように注意してください。さわら以外の魚でもおいしいですよ（＾＾）",
+    "history": "しその葉を使いたかったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さわら しそ"
+    ],
+    "tsukurepo_count": "256",
+    "thumbnail": "https://img.cpcdn.com/recipes/392168/100x141c/d3b29c9917102d2e0d4bb50eddf14d10.jpg?u=450841&p=1214216464"
+}

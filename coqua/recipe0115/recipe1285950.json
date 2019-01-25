@@ -1,0 +1,87 @@
+{
+    "name": "簡単、スープもうまいホルモン鍋（もつ鍋）",
+    "author": {
+        "@type": "Person",
+        "name": "やすずめ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1285950/464x260/b7de44cac9f929cf2cb3a7faf532693d.jpg?u=2582190&p=1290384308",
+    "datePublished": "2010-11-16",
+    "description": "ホルモンさえ用意すれば簡単に出来ちゃいます！味つきホルモンでもok",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ホルモン（モツ）味付きでもok",
+            "quantity": "200g"
+        },
+        {
+            "name": "野菜は何でもok",
+            "quantity": "適量"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小1"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "小3"
+        },
+        {
+            "name": "水",
+            "quantity": "500～600cc"
+        },
+        {
+            "name": "☆お酒",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大3強"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆鶏がらスープ（粉末）",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆きざみ鷹の爪",
+            "quantity": "1本"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋でみずを沸かしている間に☆の分量をボール等で予め混ぜ合わせる。",
+        "沸騰した後、野菜、ホルモンの順に入れ、煮立ったら☆を入れる。",
+        "具材に火が通ったら、ニラを入れて出来上がり！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1285950",
+    "advice": "ホルモンが味つきでもうまくいきます！",
+    "history": "ホルモン大好き家族のために考案しました。ホルモンさえ用意すればok！",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/もつ鍋"
+    ],
+    "rankings": [
+        "もつ鍋 2位",
+        "もつ 6位",
+        "簡単スープ 7位",
+        "簡単鍋 6位"
+    ],
+    "related_keywords": [
+        "ホルモン鍋",
+        "もつ鍋",
+        "もつ鍋 スープ",
+        "ホルモン鍋 味噌"
+    ],
+    "tsukurepo_count": "898",
+    "thumbnail": "https://img.cpcdn.com/recipes/1285950/100x141c/41e4b9888242df7c5f562f2a70cb6eee.jpg?u=2582190&p=1290384308"
+}

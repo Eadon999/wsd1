@@ -1,0 +1,61 @@
+{
+    "name": "夏ご飯☆梅干し&みょうが飯",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3989675/464x260/f8e268d6c4d67bf78b3b77feb2183374.jpg?u=10112198&p=1470525750",
+    "datePublished": "2016-07-26",
+    "description": "みょうがの季節に食べるさっぱりご飯。",
+    "recipeYield": "お米2合分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "2個"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "3〜4個(30g位)"
+        },
+        {
+            "name": "干し海老(お好みで)",
+            "quantity": "適量"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚位"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しは種をとり、包丁で細かくたたく。\n",
+        "炊飯器に米と水を入れ、梅干しと干し海老(入れなくても)加え普通の水加減で炊く。",
+        "みょうがを薄切りにした後、千切りにする。",
+        "大葉は細かくカットする(小さい四角にカット。細い千切りでも)。",
+        "ご飯が炊き上がったら、みょうがと白ごまを加え混ぜる。\n上に大葉を散らす。",
+        "…追記…\n残りご飯の場合は梅干しを刻んで後混ぜでもok。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3989675",
+    "advice": "梅干しは大きいのを2個使っています。お好みで3個でもいいと思います。",
+    "history": "みょうがと梅干しは合うんです^ ^",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お米",
+        "梅干し",
+        "みょうが",
+        "干し海老"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3989675/100x141c/73aab670163cc8ed1148f56f181b1e25.jpg?u=10112198&p=1470525750"
+}

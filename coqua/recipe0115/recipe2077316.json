@@ -1,0 +1,66 @@
+{
+    "name": "牛モツの味噌煮",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2077316/464x260/670d91a70434204126455ac958855e46.jpg?u=2124468&p=1357642515",
+    "datePublished": "2013-01-08",
+    "description": "味噌で甘めに煮込むとモツの旨味がグッと膨らみます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛モツ",
+            "quantity": "400g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "20g"
+        },
+        {
+            "name": "酒",
+            "quantity": "50ml"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖（ラカントＳ）",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "一味とうがらし",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰した鍋にモツを投入し。10分ほど下茹でする。",
+        "湯を切ったところに酒、味噌、味醂、砂糖を加え焦げ付かないように弱火で30分ほど煮る。",
+        "刻みネギと一味とうがらしを散らしてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2077316",
+    "advice": "下茹ですることにより、臭みを除くだけでなく脂も除くことが出来ます。",
+    "history": "スーパーで見つけたモツ。無性に食べたくなった。それだけです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/ホルモン",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": [
+        "牛もつ 6位"
+    ],
+    "related_keywords": [
+        "牛もつ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2077316/100x141c/692e2137ba6f5097874e203fa322b69f.jpg?u=2124468&p=1357642515"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "【農家のレシピ】菜の花の浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1407370/464x260/f1b5af54e1be6c1d766d7a710d687a81.jpg?u=2513693&p=1302360325",
+    "datePublished": "2011-04-12",
+    "description": "ほろ苦い菜の花の浅漬けは、春の定番お漬物です。ビニール袋で簡単に漬けられますよ☆",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "昆布",
+            "quantity": "2センチ（細切りにしておく）"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "1本（種を取って半分に切っておく）"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花に熱湯をかけてから水けを絞っておきます。【A】はよく混ぜ合わせておきます。",
+        "ビニール袋に①を入れ空気を抜いて、口を縛り、冷蔵庫で1日寝かせて完成です。食べやすい大きさに切って食べてくださいね。"
+    ],
+    "cookTime": "PT120M",
+    "recipe_id": "1407370",
+    "advice": "ビニール袋の中の空気をしっかり抜くことがPOINTです。",
+    "history": "ほろ苦い菜の花の浅漬けは春の定番漬物です",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花 浅漬け"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1407370/100x141c/2e258181bd48790487c42895924a3211.jpg?u=2513693&p=1302360325"
+}

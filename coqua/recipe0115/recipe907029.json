@@ -1,0 +1,53 @@
+{
+    "name": "●　ゴマの卵焼き　●",
+    "author": {
+        "@type": "Person",
+        "name": "はちれ"
+    },
+    "image": "https://img.cpcdn.com/recipes/907029/464x260/940de9ade1f59d3abded0967acbe312a.jpg?u=869590&p=1252457714",
+    "datePublished": "2009-09-09",
+    "description": "お弁当にゴマの卵焼き。✿09/12/16話題入り✿感謝(^^♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "すりゴマ(黒)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全部混ぜる",
+        "焼く"
+    ],
+    "cookTime": null,
+    "recipe_id": "907029",
+    "advice": "なし。",
+    "history": "ゴマが好き。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "砂糖",
+        "すりゴマ",
+        "みりん"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/907029/100x141c/45d8dc75ae1f139e3d7b98ccc2e1eba8.jpg?u=869590&p=1252457714"
+}

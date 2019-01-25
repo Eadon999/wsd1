@@ -1,0 +1,61 @@
+{
+    "name": "サンマのサッパリ梅煮",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2303357/464x260/615eac0c889aba53349a8db3b45b294a.jpg?u=822079&p=1375348450",
+    "datePublished": "2013-08-01",
+    "description": "圧力鍋使用。骨までやわらか～♪クエン酸効果で疲れもとります！",
+    "recipeYield": "4人分（小鉢で）",
+    "recipeIngredient": [
+        {
+            "name": "秋刀魚",
+            "quantity": "2匹"
+        },
+        {
+            "name": "生姜スライス",
+            "quantity": "5ｇ"
+        },
+        {
+            "name": "梅干",
+            "quantity": "2こ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "おおさじ1弱"
+        },
+        {
+            "name": "お酢",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "50ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "秋刀魚は頭と内臓を取り洗い水気を取る。鍋にすべていれ圧力をかける。弱火15分。",
+        "自然冷却させ魚をお皿にもり煮汁を煮詰めたらかけてお好みで生姜の千切りなど（分量外）のせて食べる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2303357",
+    "advice": "梅干はすっぱ～いのを使用しました＾＾メインおかずにするなら二人ぶん♪",
+    "history": "夏の疲れを取るレシピ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "秋刀魚",
+        "生姜スライス",
+        "梅干",
+        "醤油"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2303357/100x141c/04aaf87344d316e86c14c796cf21206e.jpg?u=822079&p=1375348450"
+}

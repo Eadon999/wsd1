@@ -1,0 +1,64 @@
+{
+    "name": "☆こんにゃく・人参・筍のきんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "ＬＩＬＩＥ"
+    },
+    "image": "https://img.cpcdn.com/recipes/475080/464x260/733d329e029d2e6a8e676c3d834cc87e.jpg?u=616527&p=1214218084",
+    "datePublished": "2007-12-14",
+    "description": "大好きなこんにゃくと人参できんぴらを作りたくて♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "一袋"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "水煮筍",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "☆濃い口醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆薄口醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は薄めのいちょう切り、筍は１ｃｍ幅に、こんにゃくは薄く切っておく",
+        "１で切っておいた材料を、少しの油で焦げないように炒っておく",
+        "☆の調味料を２に入れ、汁気がなくなるまで焦げないように炒る。",
+        "汁気がなくなったら味を確かめて、皿に移す。最後にゴマをふって出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "475080",
+    "advice": "調味料はお好みで味を調整してください。具は他にもゴボウを入れても美味しいと思います。",
+    "history": "もう一品おかずがほしくて、好きなものだけ入れて作りました♪",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ こんにゃく きんぴら"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/475080/100x141c/cef1c55c992b3703856be8f203943a2f.jpg?u=616527&p=1214218084"
+}

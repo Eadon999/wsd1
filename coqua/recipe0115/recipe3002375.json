@@ -1,0 +1,57 @@
+{
+    "name": "いんげんとひじきの梅ごまあえ",
+    "author": {
+        "@type": "Person",
+        "name": "kana叶"
+    },
+    "image": "https://img.cpcdn.com/recipes/3002375/464x260/e2940cfafa795fbe99f7abce1a4e684a.jpg?u=5490659&p=1423387037",
+    "datePublished": "2015-02-09",
+    "description": "梅の酸味と胡麻のマッタリ感を楽しめる和え物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき(水で戻したもの）",
+            "quantity": "30g"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "60g"
+        },
+        {
+            "name": "梅肉",
+            "quantity": "小１"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "小１"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "砂糖(お好みで）",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥ひじきは水で戻し、いんげんはお好みの硬さに湯がき、食べやすい大きさに切って下さい。",
+        "ひじきといんげんをボールに入れ、調味料もすべて入れ混ぜて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3002375",
+    "advice": "砂糖はお好みで加減してください。和えてすぐより しばらく時間が たった方が 味が馴染んでおいしいです。",
+    "history": "わかめとひじきの梅胡麻和え(レシピID : 3001639)をいんげんで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "いんげん",
+        "梅肉",
+        "すり胡麻"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3002375/100x141c/a9ce40374402993de40588fc4a213316.jpg?u=5490659&p=1423387037"
+}

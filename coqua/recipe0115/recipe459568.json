@@ -1,0 +1,51 @@
+{
+    "name": "大根のゆず胡椒煮",
+    "author": {
+        "@type": "Person",
+        "name": "Omamama"
+    },
+    "image": "https://img.cpcdn.com/recipes/459568/464x260/cf5b9638aa7edc0594a8417d449a84ec.jpg?u=8254&p=1303673468",
+    "datePublished": "2007-11-14",
+    "description": "めんつゆ使用で超簡単な煮物の出来上がり。ゆず胡椒を利かせて、ちょっと大人味。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "15cmほど"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "5g"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ゆず胡椒",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は幅2.5cmほどに切り、皮を剥いて面取りをする。両表面に薄く十字の切り込みを入れる。",
+        "鍋に400mlの水とともに入れて強火にかける。大根に竹串が刺さるほどになったら、だしの素を加える。",
+        "弱火に落としてしばらく煮込み、柔らかくなったらめんつゆを加えて煮立てる。",
+        "仕上げにゆず胡椒を加え溶かし、完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "459568",
+    "advice": "",
+    "history": "大根の煮物が食べたくなって。大好きなゆず胡椒を入れたら美味しいかも？と試してみたら、やっぱり美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "だしの素",
+        "めんつゆ",
+        "ゆず胡椒"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/459568/100x141c/fa1bdd9d6f968ad34410c4747d9c6077.jpg?u=8254&p=1303673468"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "丘わかめの中華冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "ma2003co"
+    },
+    "image": "https://img.cpcdn.com/recipes/2291724/464x260/2f97f7d21297c9d38ee1c777a75b179a.jpg?u=864424&p=1374316939",
+    "datePublished": "2013-07-20",
+    "description": "丘わかめをわかめに見立てた中華風の冷奴です。ネバネバであっさりしていて夏にピッタリ★",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "丘わかめ",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "糸唐辛子（あれば）",
+            "quantity": "適量"
+        },
+        {
+            "name": "中華風のタレ（レシピID:2267353）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "熱湯で丘ひじきを15～30秒ほど茹で、冷水で冷やし、水気を切る。",
+        "豆腐に1の丘わかめと糸唐辛子をのせて、中華風のタレ（レシピID:2267353）をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2291724",
+    "advice": "丘わかめが大きい場合は半分に切って下さい。丘わかめを調理した後、すぐ食べた方が色がキレイで独特の香りも気になりません。タレは、和風のドレッシングやポン酢などでも代用できます。",
+    "history": "丘わかめがわかめに似ていたので、思いつきました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "糸唐辛子"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2291724/100x141c/3bd4f95b0f57f0975ffdec691a3c94ca.jpg?u=864424&p=1374316939"
+}

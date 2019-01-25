@@ -1,0 +1,48 @@
+{
+    "name": "お弁当に♪ツナと梅のおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2369377/464x260/657a7f241017fd06a4bf0e61233369e7.jpg?u=4328809&p=1381297340",
+    "datePublished": "2013-10-09",
+    "description": "❀話題入りレシピ❀ツナマヨおにぎりもいいけど、梅干しとツナの組み合わせも〇ですよ♪",
+    "recipeYield": "１人分（２個）",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１～２個"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ　１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "ツナの油を切っておく。",
+        "梅干しは種を取り除いて刻む。",
+        "ボールに全ての材料を入れて混ぜ、お好きな形に握って完成です。",
+        "2017.9.13\n話題入りしました。有難うございます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2369377",
+    "advice": "麺つゆを塩少々にしてもいいですよ♪",
+    "history": "少し残ったツナ缶の消費に作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おにぎり ツナ 梅"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2369377/100x141c/af7e29866b63f044e9d5778ae7eba16f.jpg?u=4328809&p=1381297340"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "簡単一品☆ひき肉とポテトの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "mussachan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1860279/464x260/ca05415efee130efa126e4faa6e732e5.jpg?u=4114360&p=1340457388",
+    "datePublished": "2012-06-23",
+    "description": "おつまみにもゴハンのおかずにもぴったり☆家族で楽しめる一品です。★★2012.9.11話題入り感謝★★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍フライドポテト",
+            "quantity": "２００g"
+        },
+        {
+            "name": "合い挽き肉",
+            "quantity": "２５０g"
+        },
+        {
+            "name": "わけぎ（万能ねぎ）",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょう油、みりん",
+            "quantity": "各大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにサラダ油を熱し、ひき肉をパラパラになるまで炒める。塩、コショウで軽く味付けをする。",
+        "凍ったままのフライドポテトを入れ、しんなりするまで炒める。",
+        "ポテトに火が通ったら、しょう油、みりんを加えて軽く混ぜる。皿に盛り、わけぎをのせて出来上がり！",
+        "生のジャガイモ＋乾燥パセリで。冷凍フライドポテトを使ったときより、味付けはしっかり目にしました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1860279",
+    "advice": "写真のようにわけぎ（乾燥）を使うと便利です。",
+    "history": "冷凍フライドポテト１kgをどうにか消費したくて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/あい挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "フライドポテト ひき肉",
+        "冷凍ポテト ひき肉"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1860279/100x141c/e8831e4ec2a3d6d8c77723da0f5f95b8.jpg?u=4114360&p=1340457388"
+}

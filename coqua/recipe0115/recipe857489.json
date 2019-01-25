@@ -1,0 +1,78 @@
+{
+    "name": "おつまみに♪葱たこ・レモン風味",
+    "author": {
+        "@type": "Person",
+        "name": "putimiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/857489/464x260/e5294464b7a9eb99aedb8a3c84d99c68.jpg?u=1255913&p=1469243361",
+    "datePublished": "2009-07-13",
+    "description": "暑い日に冷えたビールといかが♡ネギとレモンで爽やか～♪簡単ササッと出来ます (✪∀✪)",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "茹でタコ",
+            "quantity": "100グラム"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "2分の1本"
+        },
+        {
+            "name": "昆布茶(無ければ鶏ガラスープの素)",
+            "quantity": "小2分の１"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "少々・好みで"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン絞り汁",
+            "quantity": "小１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "白炒り胡麻",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "＊器に盛ってからのレモン",
+            "quantity": "お好みでかけてください"
+        }
+    ],
+    "recipeInstructions": [
+        "たこは斜めに切れめを入れ、それから食べ易い薄さに切る。タレが絡みやすくなるのと、噛みやすくなります。",
+        "葱はみじん切り。ショウガ、ニンニクは摩り下ろします。 \r\n材料をすべて合わせて和えるだけです。",
+        "タコは塩茹でされているので、それぞれ塩分が違います。昆布茶や塩コショウを調整して下さい。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "857489",
+    "advice": "・辛いのがお好きなら、ラー油を入れて下さい＾＾ ピリッと美味しいです！ ・葱、ニンニク、生姜、タコのタウリンで元気いっぱい♪身体にもいいです。",
+    "history": "子供の頃から食べてた簡単料理。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茹でタコ",
+        "長ネギ",
+        "昆布茶",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "120",
+    "thumbnail": "https://img.cpcdn.com/recipes/857489/100x141c/b749c79c0145ee3ac98b3032da0f23f9.jpg?u=1255913&p=1469243361"
+}

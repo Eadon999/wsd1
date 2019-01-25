@@ -1,0 +1,54 @@
+{
+    "name": "春キャベツとカニカマのすりごまサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ｍａｉｋｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2588407/464x260/c1dc3d47d529d46fe421f5d2b242e6e4.jpg?u=1303479&p=1397611538",
+    "datePublished": "2014-04-16",
+    "description": "春キャベツとカニカマの甘さが合います。マスタードをいれてちょっと大人風味！？",
+    "recipeYield": "２人前",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "好きな分量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "好きな分量"
+        },
+        {
+            "name": "すりごま(白)",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "春キャベツをレンジで500ｗで120秒チンして冷水にさらし食べやすい大きさに切り水気をしぼる。",
+        "カニカマを手でさく。",
+        "調味料をあわせて混ぜるだけ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2588407",
+    "advice": "",
+    "history": "キャベツをもりもりたべたくてよく使うすりごまを合わせました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春キャベツ",
+        "カニカマ",
+        "マヨネーズ",
+        "マスタード"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2588407/100x141c/e630f662d6056cb48c814dd000b82133.jpg?u=1303479&p=1397611538"
+}

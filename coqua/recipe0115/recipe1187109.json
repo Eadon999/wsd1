@@ -1,0 +1,59 @@
+{
+    "name": "あと一品！炒り豆腐★",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1187109/464x260/7f3f4283c035eeeac1490b2504a9699e.jpg?u=268332&p=1279231133",
+    "datePublished": "2010-07-16",
+    "description": "２０１８.３．３１★話題いり★ほんのり甘くてやさしい味★あと一品！て時にちょうどいいです★",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "２/３丁"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/８個分"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "２ｃｍ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはスライス、人参は千切りにする。",
+        "フライパンにゴマ油を熱し①をいためる。",
+        "しんなりしたら、豆腐を手で大きめにちぎって加え強火で水分をとばすようにいためる。",
+        "調味料を入れたらそのまま強火でいっきにからめていく。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1187109",
+    "advice": "水切りはいりません！強火でいためるだけで大丈夫！",
+    "history": "豆腐が余っていたのですぐできる炒り豆腐を作りました！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "玉ねぎ",
+        "にんじん",
+        "ごま油"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/1187109/100x141c/7a2e1b10f29c4eb0c6dc550aa7fe37d0.jpg?u=268332&p=1279231133"
+}

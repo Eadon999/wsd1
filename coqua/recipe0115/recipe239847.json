@@ -1,0 +1,55 @@
+{
+    "name": "カニの殻でおいしいおだし。",
+    "author": {
+        "@type": "Person",
+        "name": "osker☆おすかー"
+    },
+    "image": "https://img.cpcdn.com/recipes/239847/464x260/68814f1475b8845a408a77d0be645192.jpg?u=58006&p=1214212682",
+    "datePublished": "2006-02-20",
+    "description": "食べ終わったカニの殻で、おいしいおだしが取れますよ！！捨てちゃうなんてもったいないです。捨てる前にちょっと試してみてくださいね。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カニの殻",
+            "quantity": "タラバガにの足大きめ４本分"
+        },
+        {
+            "name": "ネギ(青い部分)",
+            "quantity": "１本分"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１くらい"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "お湯",
+            "quantity": "ひたひた"
+        }
+    ],
+    "recipeInstructions": [
+        "まず食べ終わったカニの殻をグリルかトースターでいい香りがしてくるまで焼きます。",
+        "そのあと他の材料を入れていいおだしが出てくるまで煮ます。\r\n２０～３０分くらいかな。",
+        "その後、蓋をして冷ますとさらにいいエキスが出てきます。",
+        "食べるときは普通のスープのように、お野菜など入れてくださいね。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "239847",
+    "advice": "はじめにカニの殻を焼くといいそうです。",
+    "history": "母が北海道へ旅行したときに北海道の方から聞いてきたカニのおだしです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/蟹"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かに殻 だし",
+        "かに 殻",
+        "カニの殻 だし",
+        "カニ 殻"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/239847/100x141c/ddbe612c6f405883894f41c6ad45c2df.jpg?u=58006&p=1214212682"
+}

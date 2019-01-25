@@ -1,0 +1,50 @@
+{
+    "name": "ウマウマ◎大葉のり",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/888069/464x260/83c85d42c2b9bc34bce86f6e09d8a999.jpg?u=746099&p=1250167042",
+    "datePublished": "2009-08-13",
+    "description": "大葉好きにはたまらない、シンプルな食べ方です。2011.5.14.話題入りしました♬",
+    "recipeYield": "お好きなだけ",
+    "recipeIngredient": [
+        {
+            "name": "大葉",
+            "quantity": "食べたい量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "食べたい量"
+        }
+    ],
+    "recipeInstructions": [
+        "醤油とごま油を皿に入れる。",
+        "洗ってしっかり水を切った大葉を１に浸して、海苔のようにご飯に巻いて食べる。",
+        "クックパットニュースに載せて頂き、沢山の方に見て頂きました。ありがとうございます。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "888069",
+    "advice": "醤油とごま油はお好みの量をどうぞ。私はだいたい４：１の比率です。",
+    "history": "友人に教えてもらって以来、我が家の食卓には欠かせません。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大葉",
+        "醤油",
+        "ごま油",
+        "ご飯"
+    ],
+    "tsukurepo_count": "116",
+    "thumbnail": "https://img.cpcdn.com/recipes/888069/100x141c/afb263343fd467136d1d52bfb4949f5a.jpg?u=746099&p=1250167042"
+}

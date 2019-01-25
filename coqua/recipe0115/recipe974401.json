@@ -1,0 +1,63 @@
+{
+    "name": "キャベツとえのきほわっとカレーのマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "晴天ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/974401/464x260/2270d7f4a4ee26864306d7b474b6f347.jpg?u=1567320&p=1259057186",
+    "datePublished": "2009-11-24",
+    "description": "子供から大人まで喜ぶカレーマヨｖキャベツいっぱい食べれます☆マヨネーズでカレーが優しくほわっとなります♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/2玉"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小～中缶1個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは一口大より少し小さめに切る。\r\nえのきも切って、シーチキンの水分をきっておく。",
+        "熱したフライパンに油をいれてキャベツを入れしんなりするまで炒めてえのきを加える。塩コショウをしてシーチキンも加える。",
+        "えのきがしんなりしたら、カレー粉と醤油を加え混ぜて炒める。これで火は止める。",
+        "火を止めたフライパンにマヨネーズを加えてさっと混ぜて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "974401",
+    "advice": "",
+    "history": "畑のキャベツが美味しい時期ですｖカレーマヨは子供が喜びます♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "えのき",
+        "ツナ",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/974401/100x141c/5a841fbf097de63d03531e59fb6e98e1.jpg?u=1567320&p=1259057186"
+}

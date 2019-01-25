@@ -1,0 +1,76 @@
+{
+    "name": "激ウマ★バター醤油キノコパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "ちえたまどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1341176/464x260/734f748c0046be2079a03400dec8c37a.jpg?u=1598581&p=1296055478",
+    "datePublished": "2011-01-27",
+    "description": "超定番パスタ♪バター醤油でキノコがとってもおいしくなります。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "椎茸",
+            "quantity": "5個"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1袋"
+        },
+        {
+            "name": "えのきだけ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "スパゲティ",
+            "quantity": "250g"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "バター",
+            "quantity": "3かけ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ5"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルでにんにくみじん切りを炒め、キノコをいれ、塩こしょう、白ワインで蒸す。",
+        "茹でたパスタをいれ、しょうゆ、バターで味付けをする。最後にオリーブオイルをまわしかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1341176",
+    "advice": "しょうゆとバターは、パスタをいれてからにするとしょっぱくなりません。",
+    "history": "キノコ好きの我が家の超定番パスタです。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キノコパスタ",
+        "キノコパスタ　白ワイン",
+        "キノコパスタ にんにく"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/1341176/100x141c/a77f68b3c6ce460d9adcb764b087a04a.jpg?u=1598581&p=1296055478"
+}

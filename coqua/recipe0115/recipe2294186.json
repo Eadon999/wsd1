@@ -1,0 +1,64 @@
+{
+    "name": "お弁当・朝ごはんに♡ナポリタンなカニカマ",
+    "author": {
+        "@type": "Person",
+        "name": "どんぴんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2294186/464x260/308b0356bd7c49b4e8199df6e6de9104.jpg?u=4090904&p=1374585897",
+    "datePublished": "2013-07-24",
+    "description": "カニカマをピーマン・玉ねぎと炒めてケチヤップでナポリタン風♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カニカマ",
+            "quantity": "１０本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4～1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ3～"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマン・玉ねぎは細めに切る\nカニカマは2つに裂いておく",
+        "フライパンに油を敷き中火で玉ねぎを炒めてしんなりしたらピーマン・カニカマを入れ、塩コショウしてさらに炒める",
+        "ケチャップを入れ絡ませて少し炒めて完成です\n粉チーズもかけてね♪",
+        "クックパッドニュースに掲載していただきました\nhttp://cookpad.com/articles/6228"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2294186",
+    "advice": "ケチャップ多めが美味しいです♡でも、お好みで調整して下さいね＾＾☝",
+    "history": "急いで救済しなければならないカニカマを使って急いで作ったお弁当のおかずに出来た1品です♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま",
+        "その他/お弁当/色別おかず/赤色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カニカマ",
+        "ピーマン",
+        "玉ねぎ",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/2294186/100x141c/daec774740d753de08efd6473e509ef9.jpg?u=4090904&p=1374585897"
+}

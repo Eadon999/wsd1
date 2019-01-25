@@ -1,0 +1,55 @@
+{
+    "name": "インゲンと竹輪の胡麻マヨ醤油和え",
+    "author": {
+        "@type": "Person",
+        "name": "るなまりー"
+    },
+    "image": "https://img.cpcdn.com/recipes/846330/464x260/1b430610a86fe59b85b34385a942f159.jpg?u=691714&p=1245749004",
+    "datePublished": "2009-06-23",
+    "description": "★話題入り感謝★作りやすい分量ですぐ出来ます。忙しい時にも",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "インゲン",
+            "quantity": "1袋(250g)位"
+        },
+        {
+            "name": "竹輪",
+            "quantity": "2本"
+        },
+        {
+            "name": "白だし醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは両端を切り落とし2等分、塩ゆでしザルに上げる",
+        "竹輪もインゲンと同じ位の大きさに切る",
+        "白だし・マヨネーズ・すりごまを混ぜ合わせ、インゲン・竹輪と合わせる",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "846330",
+    "advice": "インゲンの量で白だしを加減して下さい",
+    "history": "作った胡麻マヨ醤油が余って",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "インゲン",
+        "竹輪",
+        "マヨネーズ",
+        "すりごま"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/846330/100x141c/cc8561c3532bf30ea9154252441b8a69.jpg?u=691714&p=1245749004"
+}

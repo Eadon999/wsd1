@@ -1,0 +1,54 @@
+{
+    "name": "塩鮭と塩昆布で☆安い・簡単まぜご飯",
+    "author": {
+        "@type": "Person",
+        "name": "heizi"
+    },
+    "image": "https://img.cpcdn.com/recipes/379930/464x260/04e48837afc2a93a24c0b6e5907f05dd.jpg?u=451971&p=1377008803",
+    "datePublished": "2007-05-26",
+    "description": "あぁ～　面倒で何も作りたく無い！！給料前でピンチ！！こういう時によく作ってます。とにかく安くて・簡単・美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "塩鮭",
+            "quantity": "1枚"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "約15ｇ"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "炊いたご飯",
+            "quantity": "二杯分"
+        },
+        {
+            "name": "しそ",
+            "quantity": "5枚"
+        }
+    ],
+    "recipeInstructions": [
+        "塩鮭をグリルで焼き、皮と骨を取り除いて、身は軽くほぐす。",
+        "炊きたてのご飯にほぐした塩鮭の身、塩昆布、ゴマを加え、ご飯と混ぜる。\r\n",
+        "器に盛り、細く切ったシソや万能ネギを乗せて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "379930",
+    "advice": "味付けは塩鮭と塩昆布の塩味のみです。塩昆布で味を加減してください。ご飯とませる時に、塩鮭の身をあまり細かくほぐしすぎない方が美味しいです。",
+    "history": "冷蔵庫におにぎり用の塩昆布と塩鮭一切れしか無くて、休日のお昼ご飯何を作ろう・・・・炊きたてご飯に混ぜてみたら美味しかった♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩鮭",
+        "塩昆布",
+        "ごま",
+        "炊いたご飯"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/379930/100x141c/a1005d5351672ea9cba215c701251263.jpg?u=451971&p=1377008803"
+}

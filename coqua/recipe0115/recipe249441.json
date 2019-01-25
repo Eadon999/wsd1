@@ -1,0 +1,50 @@
+{
+    "name": "絶品！水菜ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "いさお飯"
+    },
+    "image": "https://img.cpcdn.com/recipes/249441/464x260/f3e9b859cd2093a396e55aecdb6c6d3b.jpg?u=226303&p=1214212883",
+    "datePublished": "2006-04-18",
+    "description": "水菜を昆布茶で和えてご飯と混ぜるだけで、こんなに美味しいなんて！！！2007.11.5レシピを適量から変えました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/2束（量ったら20gでした）"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "2膳"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜はサッと洗い3cmくらいの長さに切り、昆布茶と炒りゴマで和えます。",
+        "1をご飯に混ぜます。食べる直前に混ぜて下さい",
+        "玄米とよく合います。写真は玄米です。白米の時はゴマの量を増やすとプチプチして美味しいです"
+    ],
+    "cookTime": null,
+    "recipe_id": "249441",
+    "advice": "食べる直前に混ぜて下さい。長く置くと色も悪くなりますしシャキシャキ感がなくなります。昆布茶は好みで量を調節して下さい。",
+    "history": "水菜と昆布茶はとても合うので、ご飯に混ぜてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "昆布茶",
+        "炒りゴマ",
+        "ご飯"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/249441/100x141c/26588f14d74252928ea7f1ee2499ef8e.jpg?u=226303&p=1214212883"
+}

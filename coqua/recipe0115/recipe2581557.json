@@ -1,0 +1,78 @@
+{
+    "name": "白菜と厚揚げの中華煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2581557/464x260/bde8eef2561a2436057f26595d18f995.jpg?u=603745&p=1447730109",
+    "datePublished": "2014-04-10",
+    "description": "あるものでパパっと簡単おかず♪厚揚げでボリュームたっぷり！！ご飯も進みます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "☆鶏がらスープの素",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げと野菜をお好みの大きさに切ります。",
+        "フライパンに水200ccと切った材料を加えて白菜が柔らかくなるまで煮詰めます。",
+        "☆の調味料で味付けをします。",
+        "水溶き片栗粉を加えます。",
+        "とろみがついたら出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2581557",
+    "advice": "お野菜はお好みで加えてくださいね!!",
+    "history": "スーパーで安売りされていた食材でご飯にあうおかずを作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": [
+        "白菜厚揚げ 7位"
+    ],
+    "related_keywords": [
+        "白菜 厚揚げ",
+        "厚揚げの中華煮",
+        "白菜 厚揚げ しめじ",
+        "白菜 厚揚げ 中華"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/2581557/100x141c/65cc51f4857429b778dee4c5576da463.jpg?u=603745&p=1447730109"
+}

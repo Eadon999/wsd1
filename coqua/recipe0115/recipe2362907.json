@@ -1,0 +1,64 @@
+{
+    "name": "塩こうじ鍋",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2362907/464x260/643f6512d2ba9e5da7094c99f1f315b8.jpg?u=7089749&p=1380760040",
+    "datePublished": "2013-10-03",
+    "description": "「ハナマルキ・塩こうじ」のテレビCM放映中！テレビCMで紹介している「塩こうじ鍋」のレシピです。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "白菜",
+            "quantity": "4枚"
+        },
+        {
+            "name": "春菊",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "4枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "大さじ6+小さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "1ℓ"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキの「液体塩こうじ」を使用します！",
+        "鶏もも肉は一口大に切り、「塩こうじ」の半量を揉み込んでおく（1時間）。",
+        "白菜はザク切り、春菊は固い軸を取る。ねぎは斜め切り、椎茸は石づきを切る。豆腐は食べやすい大きさに切る。",
+        "土鍋に水と残りの「塩こうじ」を入れ、沸騰したら鶏肉と野菜を入れる。\n※人参を型抜きして加えると彩りもUP！\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2362907",
+    "advice": "●現在放映中のテレビCMはこちらで閲覧できます。http://www.youtube.com/user/hanamarukipr●「液体塩こうじ」は液体量に対して10％が目安です。",
+    "history": "ハナマルキ「塩こうじ」で、いつもの料理がワンランクアップするワザありレシピです。",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/寄せ鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハナマルキ塩こうじ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2362907/100x141c/c1fbef5cbe3d36b5ba3584fb068ec318.jpg?u=7089749&p=1380760040"
+}

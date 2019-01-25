@@ -1,0 +1,53 @@
+{
+    "name": "きゅうりと卵の簡単サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "MIDORIn89"
+    },
+    "image": "https://img.cpcdn.com/recipes/3877020/464x260/52d3fd38799f53a227c71a8b650c46e4.jpg?u=9426250&p=1464063336",
+    "datePublished": "2016-05-24",
+    "description": "きゅうりと卵で一品",
+    "recipeYield": "1~2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ごま（なくてもよい）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "袋にきゅうりをいれてたたく。※ たたくのに適した棒がなければ、乱切りにしてもOK",
+        "きゅうりはたたくことで断面に味が絡みやすくなります。",
+        "塩を加えて溶きほぐした卵を、熱したフライパンに流し入れて、菜箸で大きく回しながら、半熟に焼き上げる。",
+        "2のきゅうり、３のたまご、マヨネーズを合わせて和えて、皿に盛りつけて、お好みで白ごまをふり完成！",
+        "2016年7月 お陰さまで、話題のレシピになりました。ありがとうございます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3877020",
+    "advice": "卵は半熟に焼き上げるのがコツです。マヨネーズの量はお好みで増減してください。",
+    "history": "あと一品ほしくて、冷蔵庫に残っていた食材でつくりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり 卵"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3877020/100x141c/dfad693e86fbc2ef7a9060127b84d9c4.jpg?u=9426250&p=1464063336"
+}

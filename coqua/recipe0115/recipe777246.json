@@ -1,0 +1,58 @@
+{
+    "name": "簡単★豚バラの甘辛キャベツ丼",
+    "author": {
+        "@type": "Person",
+        "name": "ＹＵ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/777246/464x260/e4d0b9e7cce93418f03a4e4e62ff3e84.jpg?u=1104094&p=1238950080",
+    "datePublished": "2009-04-06",
+    "description": "豚バラ肉と甘辛いたれの組み合わせがバツグン＼(＾o＾)／その上とても簡単なので手軽に作れます★",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１/４または１/２"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１、２枚"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖、醤油、酒",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラを一口サイズに切り、塩こしょうをする。 \r\nたまねぎはくし切りにする。\r\nキャベツは千切りにする。",
+        "フライパンにサラダ油を熱し、豚バラ肉を肉の両面に焼き色がつくまで焼く。\r\nたまねぎも一緒に焼く。",
+        "フライパンに砂糖、醤油、酒をふり入れ、たれにツヤが出るまで煮つめる。",
+        "器にご飯を盛り、キャベツをのせて、その上に豚肉とたまねぎをのせ、たれをかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "777246",
+    "advice": "あらかじめ砂糖、醤油、酒を組み合わせておくともっと楽チンです★",
+    "history": "丼が大好きで、豚肉の丼を考えました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "甘辛豚バラ丼",
+        "豚バラキャベツ丼",
+        "豚バラ キャベツ 甘辛"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/777246/100x141c/5a416e4474b2b7069822da0a7b5dfb27.jpg?u=1104094&p=1238950080"
+}

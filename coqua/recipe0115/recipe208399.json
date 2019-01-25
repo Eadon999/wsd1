@@ -1,0 +1,55 @@
+{
+    "name": "メチャ美味しいアボカドのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/208399/464x260/0f3a8b18292112493fbce89c061e3304.jpg?u=57297&p=1214212083",
+    "datePublished": "2005-07-21",
+    "description": "お茶子の大好きなサラダ♪これは母娘で奪い合い。《最高の取り合わせで大満足☆》 ",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "フロリダ産グレープフルーツ",
+            "quantity": "半分"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカド、トマトはダイスに切って、グレープフルーツをスプーンでえぐって合わせます。オリーブオイル、塩ちょっと、グレープフルーツの汁を掛けたシンプルなサラダ♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "208399",
+    "advice": "切るだけの簡単なサラダグレープフルーツがいいお仕事しています",
+    "history": "この絶妙な組み合わせを発見した時は、嬉しくなりました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド",
+        "その他/おもてなし料理/おもてなしサラダ"
+    ],
+    "rankings": [
+        "アボカドサラダ 8位"
+    ],
+    "related_keywords": [
+        "アボカド サラダ",
+        "アボカド",
+        "トマト グレープフルーツ アボカド",
+        "メチャ美味しいアボカド"
+    ],
+    "tsukurepo_count": "3182",
+    "thumbnail": "https://img.cpcdn.com/recipes/208399/100x141c/a586e7f2beb30427407bf8dc70d09c45.jpg?u=57297&p=1214212083"
+}

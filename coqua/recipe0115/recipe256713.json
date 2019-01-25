@@ -1,0 +1,65 @@
+{
+    "name": "手羽元の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "かぼちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/256713/464x260/d8313e82699707cc4ac9b58b581399bb.jpg?u=58787&p=1214213069",
+    "datePublished": "2006-05-27",
+    "description": "鶏もも肉で作ってもおいしいです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "9本"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ３～４"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにサラダ油を熱し、手羽元を焼く。（こんがりときつね色になるくらいまで！）",
+        "手羽元が焼けたら、フライパンの余分な油をキッチンペーパーでふき取る。",
+        "★印の調味料をあらかじめ混ぜておき、２のフライパンに少量入れて弱火でからめていく。",
+        "フライパンのたれが煮詰まってきたら、また少し調味料を足していき、弱火でじっくり火を通す。",
+        "調味料を全部加え終わったら、とろみがつくまで煮詰めて出来上がり。",
+        "仕上げにゴマをふって完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "256713",
+    "advice": "調味料を少しずつ入れながら弱火で煮詰めていくのがポイントです！",
+    "history": "おべんとうにもおつまみにも良いです！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元",
+        "醤油",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/256713/100x141c/399967daa427f10bf009b4c21ca5bdd8.jpg?u=58787&p=1214213069"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "おにぎりに☆春菊味噌",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/4243016/464x260/2d027fa7c8ece46ddbe023fe245abb01.jpg?u=10112198&p=1482272198",
+    "datePublished": "2016-12-21",
+    "description": "春菊と味噌がいい味と香り♫これは絶対春菊でなくちゃ。鍋で春菊が残ったら作ろう！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "6本(90g)"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2〜"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1位"
+        },
+        {
+            "name": "一味唐辛子(七味唐辛子でも)",
+            "quantity": "小さじ1/2〜"
+        }
+    ],
+    "recipeInstructions": [
+        "味噌、みりん、砂糖を混ぜておく。\n春菊は5ミリ位の小口切り。",
+        "フライパンにごま油を熱し春菊を加え炒めながら水分を飛ばす(5分位かかる)。混ぜた調味料を加え弱火でゆっくり炒める。",
+        "全体に味噌が絡まったら火を止め、唐辛子を加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4243016",
+    "advice": "一味唐辛子の量はお好みで。春菊はしっかり水気を飛ばす。",
+    "history": "姉のレシピ。姉は辛いのが大好きだから、目分量で一味唐辛子をドバッと入れるけれど……。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": [
+        "味噌おにぎり 4位"
+    ],
+    "related_keywords": [
+        "春菊味噌",
+        "春菊",
+        "春菊 おにぎり",
+        "味噌おにぎり"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/4243016/100x141c/11f02173a5880f32d16b4348225cfc28.jpg?u=10112198&p=1482272198"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "わかめだけ♪みそマヨ和えd(ゝ∀・*)!",
+    "author": {
+        "@type": "Person",
+        "name": "ひゅうま"
+    },
+    "image": "https://img.cpcdn.com/recipes/355852/464x260/d8777d8f15f688488d1636bccc92e4f5.jpg?u=278099&p=1214215269",
+    "datePublished": "2007-04-06",
+    "description": "ほんとに簡単です！！混ぜるだけ＾＾母のお決まりの酒の肴でした♪あとなんか少しおかず欲しいかなって時に作ってます♪",
+    "recipeYield": "小鉢一つ分位",
+    "recipeIngredient": [
+        {
+            "name": "わかめ（生or乾燥を水で戻して）",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大2/3"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "お好みで白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全部を混ぜるだけなんです＾＾\r\nこれだけd(ゝ∀・*)!",
+        "味噌とマヨの配分はお好みで調節して頂いてＯＫです♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "355852",
+    "advice": "生の塩漬けのわかめで作る時は、しっかり塩抜きしてください！",
+    "history": "母の味です＾＾",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ",
+        "みそ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/355852/100x141c/fd58ef5e294dc7b362a668c0fbfb86e8.jpg?u=278099&p=1214215269"
+}

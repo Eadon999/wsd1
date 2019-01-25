@@ -1,0 +1,63 @@
+{
+    "name": "くるみ味噌のせ冷奴★",
+    "author": {
+        "@type": "Person",
+        "name": "さおる★"
+    },
+    "image": "https://img.cpcdn.com/recipes/821749/464x260/183c665c757c1d916b95259af12727af.jpg?u=1299338&p=1243552518",
+    "datePublished": "2009-05-29",
+    "description": "好みが分かれると思いますが、私は好きな味です☆* 簡単に出来るので「好きそう♪」と思われる方は是非試してみて下さい★",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "くるみ",
+            "quantity": "６個"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１枚"
+        }
+    ],
+    "recipeInstructions": [
+        "お豆腐は、キッチンペーパーなどで水切りをしておく。 \r\nくるみは、すり棒などで粗くつぶす。\r\n大葉は細切りにしておく。",
+        "★を混ぜ合わせ、１のくるみも加え混ぜる。 \r\n１人分に切り分けた豆腐の上にくるみ味噌をのせ、大葉をのせて出来上がり。",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "821749",
+    "advice": "・くるみや大葉の量はお好みで加減して下さい。 ・味噌によって味も違いますので、★の合わせ調味料は、味見をしてお好みで加減して下さい。（特にお水の量は味を見てから加えた方がよいと思います。）",
+    "history": "冷奴にくるみ合いそ～♪味噌も合いそ～♪それだけです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "くるみ",
+        "味噌",
+        "みりん"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/821749/100x141c/3c4f6875eb86b200281cef76f9025503.jpg?u=1299338&p=1243552518"
+}

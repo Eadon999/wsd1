@@ -1,0 +1,55 @@
+{
+    "name": "小松菜の簡単ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "ICHICO☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3218727/464x260/86d06c2ddb620f39dc477abb9ce674c4.jpg?u=6735767&p=1433487650",
+    "datePublished": "2015-06-08",
+    "description": "晩酌の箸休めに。お弁当のおかずに。簡単＆便利な一品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "岩塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は4~5cmにカット。\n沸騰した湯にまずは茎を入れ、30秒ほどしたら葉を投入。",
+        "再度沸騰したら火を止める。\nザルにあけ冷水でしめて。",
+        "水気を切り、ちぎった海苔と和えたら岩塩で味付け。\n",
+        "さらにごま油と白ごまを和えレば完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3218727",
+    "advice": "茎と葉を一緒に茹でてしまうと、葉が柔らかくなり過ぎちゃいます。面倒ですが、時間差茹でしましょうー！",
+    "history": "大好きな小松菜。いろんな食べ方考案中です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "海苔",
+        "岩塩",
+        "ごま油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3218727/100x141c/4ef4e27e9cb4cc64776b62fedaefe36b.jpg?u=6735767&p=1433487650"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "オクラとミニトマトの胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/3934044/464x260/168163a80a8cec8cfd541aa5bfce7cf9.jpg?u=1397778&p=1466510193",
+    "datePublished": "2016-06-22",
+    "description": "夏野菜の彩り綺麗な胡麻和えです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "5本"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "5個"
+        },
+        {
+            "name": "★すりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1～1.5"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラを茹でて食べやすい大きさに切って冷ましておく。",
+        "ミニトマトを半分に切る。",
+        "★を混ぜて、1と2にかけて和えたら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3934044",
+    "advice": "簡単すぎてありません(*_*)。調味料の分量はお好みで調節してください。ミニトマトは普通のトマトでもOKです。",
+    "history": "よく作るオクラの胡麻和えにミニトマトを加えたら彩りが綺麗になったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "ミニトマト",
+        "すりごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/3934044/100x141c/e090d747db7630ce5316f78e5efb2413.jpg?u=1397778&p=1466510193"
+}

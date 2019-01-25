@@ -1,0 +1,69 @@
+{
+    "name": "オクラともやしの梅わさびナムル！",
+    "author": {
+        "@type": "Person",
+        "name": "♪bird♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2813835/464x260/18622124a85d9956422f9a11f2cdd9c7.jpg?u=544783&p=1411739634",
+    "datePublished": "2014-09-26",
+    "description": "梅と山葵と海苔の風味がいい感じの、和風ナムル！シャキシャキ美味しい～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "１ネット"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "梅ぼし（たたく）",
+            "quantity": "５個"
+        },
+        {
+            "name": "海苔（細かくちぎる）",
+            "quantity": "大１枚"
+        },
+        {
+            "name": "山葵（チューブ）",
+            "quantity": "５㎝～"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしとオクラは、さっと茹でて、お湯をきる。オクラはヘタを切り落とし、斜め半分に切る。",
+        "ボウルにたれの材料をすべて入れ、混ぜる。もやしとオクラをいれて、和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2813835",
+    "advice": "山葵の量はお好みで！私は１０センチ以上入れます！",
+    "history": "よく作るもやしのナムルに、冷蔵庫にあった梅を入れて、和風な感じに！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "オクラ",
+        "ごま油",
+        "梅ぼし"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2813835/100x141c/8558fbe81eba18aef82c527c770ef28d.jpg?u=544783&p=1411739634"
+}

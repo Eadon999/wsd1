@@ -1,0 +1,59 @@
+{
+    "name": "みょうがのおむすび♥",
+    "author": {
+        "@type": "Person",
+        "name": "紅葉ｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/840155/464x260/577ee859bd3f14c821b1807557f60e94.jpg?u=1389109&p=1342162195",
+    "datePublished": "2009-06-17",
+    "description": "みょうがとしその香りにしば漬けの歯応えが加わって美味しいおむすびができました。",
+    "recipeYield": "2個",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "大き目の茶碗一杯"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "1個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "しば漬け",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "みょうが、しそを千切りにし、しば漬けを細かくカットしておく。",
+        "器にご飯、みょうが、しそ、しば漬け、ゴマを入れてよく混ぜ合わせる。",
+        "手のひらをぬらして少量の塩を振り、お好きな形に握ったら出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "840155",
+    "advice": "しば漬けの代わりにたくあんやつぼ漬けなどに変えても美味しいですよ。 お好みでしそやのりを巻いてお食べ下さい。",
+    "history": "朝食やお弁当によく作るおむすび。いつも具がワンパターンになってしまってたので、変り種を考えてできた1品です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "みょうが",
+        "大葉",
+        "しば漬け"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/840155/100x141c/7fb6cc909cecf11d5c2a41fcbd90251b.jpg?u=1389109&p=1342162195"
+}

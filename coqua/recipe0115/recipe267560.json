@@ -1,0 +1,44 @@
+{
+    "name": "ほうれん草のごまだれあえ",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/267560/464x260/db13036fb14c32900d1bf772ab05dd54.jpg?u=252604&p=1214213314",
+    "datePublished": "2006-07-17",
+    "description": "ほうれん草がとても美味しく食べられる胡麻和えです。「野菜が美味しい★ごまだれ★」で和えました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1把"
+        },
+        {
+            "name": "ごまだれ（レシピID：266424）",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草をざく切りにして、水に10分つけておきます。",
+        "さっと茹でて、ざるにあけ水気を切ります。自然に冷まし、水気をぎゅっとしぼって「ごまだれ」で和えます。白ゴマをふって完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "267560",
+    "advice": "茹でるまえに水にさらしてあく抜きすると、ほとんどあくが感じられず美味しいです。",
+    "history": "野菜が美味しい★ごまだれ★（レシピID：266424）を使いました。 ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "ごまだれ",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/267560/100x141c/42520f7a41376dc0cbc79969d4c6c804.jpg?u=252604&p=1214213314"
+}

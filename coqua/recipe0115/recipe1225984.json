@@ -1,0 +1,54 @@
+{
+    "name": "お弁当にも★豚肉のマヨマスタード焼き",
+    "author": {
+        "@type": "Person",
+        "name": "さったんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1225984/464x260/31181585e3cd1b271bc5b9de861b3a48.jpg?u=657915&p=1283665553",
+    "datePublished": "2010-09-06",
+    "description": "2010、9、15話題入り☆味付けはとっても簡単です♡ご飯に合うので、お弁当や夕飯に♬",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "☆粒マスタード",
+            "quantity": "大さじ1,5"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆おろしにんにく（チューブ可）",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "レタスやトマト（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉に☆を混ぜて、よくもみ込んでおく。\n冷蔵庫で15分位寝かせる。",
+        "フライパンに油をひき、1をよく焼く。",
+        "お好みでレタスやトマトを添えても。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1225984",
+    "advice": "つけ込んでから、冷蔵庫で寝かせると味が染み込みます。時間がないときは、手でもむだけでOKです♬",
+    "history": "マスタードがいっぱいあるので作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "粒マスタード",
+        "マヨネーズ",
+        "おろしにんにく"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/1225984/100x141c/8b6ac2f872b727216fea000454c11e42.jpg?u=657915&p=1283665553"
+}

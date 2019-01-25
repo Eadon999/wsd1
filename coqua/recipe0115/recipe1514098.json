@@ -1,0 +1,64 @@
+{
+    "name": "サバのコチュジャン焼き",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1514098/464x260/90b93c7a095838aa3227d6d5fc938d95.jpg?u=496128&p=1312369145",
+    "datePublished": "2011-08-03",
+    "description": "甘ピリ辛でご飯に合う一品に。簡単です。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "サバ（三枚おろし）",
+            "quantity": "半身３枚（1と1/2尾）"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙2と1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大匙1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "①サバの骨をとり、食べやすい大きさに切る。",
+        "②①に片栗粉をまぶす。",
+        "③フライパンに油を熱し、②をこんがり焼く。",
+        "④たれの材料を入れて絡める。",
+        "⑤いりごまをかける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1514098",
+    "advice": "コチュジャンの量は加減して下さい。スーパーで三枚おろしのものを購入しました。",
+    "history": "大好きなピリ辛味に",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サバ",
+        "いりごま",
+        "コチュジャン",
+        "酒"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1514098/100x141c/ed848c1be4daa5408b187371e9387eab.jpg?u=496128&p=1312369145"
+}

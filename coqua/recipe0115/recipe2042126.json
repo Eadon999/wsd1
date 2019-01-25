@@ -1,0 +1,72 @@
+{
+    "name": "かにかまと玉子でとろとろスープ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2042126/464x260/60ebe289bc715af3654376ffb923b4e4.jpg?u=603745&p=1447767594",
+    "datePublished": "2012-11-27",
+    "description": "寒い冬にはとろとろスープが美味しい♪かに風味のかまぼこでコストも抑えて。いろんなものの付け合わせにぴったり！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "かに風味かまぼこ",
+            "quantity": "4本"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお湯を沸かします。",
+        "かにかまは小さめに切りほぐしておきます。\n",
+        "卵は割って溶きます。",
+        "お湯の火を少し弱め②のカニカマを入れます。",
+        "☆の調味料を加えて味を調えます。",
+        "火を少し強め溶いた卵をゆっくりと加えます。\n一気にいれると細かくならないのでゆっくりで。",
+        "水溶き片栗粉を加えます。",
+        "とろみがついたら火を止めて出来あがりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2042126",
+    "advice": "お好みでシイタケなど他の具を加えるとより美味しくできます♪",
+    "history": "寒い冬でもあったまるように、とろとろのスープを作りました！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かまぼこスープ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2042126/100x141c/e452530a57d607b46563a1029abd6115.jpg?u=603745&p=1447767594"
+}

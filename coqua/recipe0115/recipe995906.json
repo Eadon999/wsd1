@@ -1,0 +1,74 @@
+{
+    "name": "ポカポカ温まる～♪白菜と豆腐のとろみ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ミワぽん"
+    },
+    "image": "https://img.cpcdn.com/recipes/995906/464x260/bcefb316cb84e2a01e77cfc05544c413.jpg?u=1437383&p=1261462271",
+    "datePublished": "2009-12-22",
+    "description": "寒い日にピッタリな一品♪２０１１．１１．２０つくれぽ１０人で話題入り！！作ってくれてありがとうございます＾＾",
+    "recipeYield": "たっぷり４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/８カット"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "５～６㎝"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｍｌ"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜・豆腐はそれぞれ食べやすい大きさに切っておく。",
+        "鍋に大根・にんじん・白菜の芯を入れて水と鶏ガラスープの素を加えて火にかける。",
+        "野菜にしっかり火が通り柔らかくなってきたら、白菜の葉・しめじを入れてさらに煮る。",
+        "白菜がしんなりとしてきたら、酒・醤油を加え、水溶き片栗粉でとろみをつける。",
+        "最後に豆腐を加えて少し煮たら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "995906",
+    "advice": "豆腐は最後に入れたほうが形が崩れずにできます。",
+    "history": "旬の白菜を使った温かな１品を作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 大根 豆腐",
+        "白菜 豆腐"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/995906/100x141c/055fc8f4850834c2636faf41526f2793.jpg?u=1437383&p=1261462271"
+}

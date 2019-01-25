@@ -1,0 +1,50 @@
+{
+    "name": "アボカドと長いものわさびしょうゆ和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2205264/464x260/aa46c02e738f87cf79197e0d882916fe.jpg?u=2513693&p=1367058645",
+    "datePublished": "2013-05-06",
+    "description": "クリーミーなアボカドとサクサクの長いも。全く違う２つの食感が楽しい、やみつき系の一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド（1センチ角に切る）",
+            "quantity": "1個"
+        },
+        {
+            "name": "長いも（1センチ角に切る）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび（チューブ）",
+            "quantity": "1センチ程度"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドと長いもを【A】で和えて器に盛り、刻みのりを乗せて完成"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2205264",
+    "advice": "",
+    "history": "アボカドはしょうゆをつけて食べると美味しいので、今回は全く違う食感の長いもを加えてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋 わさび アボカド"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2205264/100x141c/05d13120cc6ea553d4c899b65991c735.jpg?u=2513693&p=1367058645"
+}

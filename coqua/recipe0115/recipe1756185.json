@@ -1,0 +1,58 @@
+{
+    "name": "ベビーホタテの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "おはな食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/1756185/464x260/99214401e26ef2e430afefc297fbc602.jpg?u=1375782&p=1332916315",
+    "datePublished": "2012-03-28",
+    "description": "お弁当にも、つまみにも♪濃い味で ついついご飯が（笑）",
+    "recipeYield": "１パック分",
+    "recipeIngredient": [
+        {
+            "name": "ベビーホタテ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "生姜",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "150cc"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜は千切りにして●の材料と一緒に鍋に入れて火にかける",
+        "煮立ったらベビーホタテを入れて\n中火で煮汁がほとんどなくなるまで煮る"
+    ],
+    "cookTime": null,
+    "recipe_id": "1756185",
+    "advice": "うっかり焦がさないどけば失敗する事はないです。冷凍して、お弁当にも入れますよ〜",
+    "history": "お惣菜で見て美味しそうだけど量が…少ない!!!!!!なら作ろう♪と作ったら、つまみ食いが止まらな〜ぃ（笑）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベビーホタテ 佃煮"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1756185/100x141c/e8bfda127045cf28c41b7b40f8188725.jpg?u=1375782&p=1332916315"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "ピーマンと細切り鶏胸肉のオイマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "kazoomdub"
+    },
+    "image": "https://img.cpcdn.com/recipes/2575860/464x260/bb4fc61835812927e75878fff281fd03.jpg?u=394524&p=1396794075",
+    "datePublished": "2014-04-06",
+    "description": "オイスターソースとマヨネーズでコク旨で簡単な一品。ご飯がすすみます。",
+    "recipeYield": "2〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ピーマン千切り",
+            "quantity": "一袋"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油(炒め用)",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "細切りにした鶏肉に軽く塩こしょうを振っておく。\nピーマンは千切りにしておく。",
+        "フライパンにサラダ油を熱し、鶏肉を炒める。鶏肉の色が変わったらピーマンを投入。",
+        "ピーマンに油が回ったら★の調味料を入れて更に1分炒める。",
+        "火を止めて最後にマヨネーズを加えて混ぜる。",
+        "器に取ってお好みで粗挽き黒胡椒を振って出来上り。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2575860",
+    "advice": "",
+    "history": "リーズナブルな鶏胸肉でコクにある一品を！と思い作りました。ご飯にもビールにも合います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン細切り"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2575860/100x141c/a4ca80ff6be8d2fd69613f4a43bd2734.jpg?u=394524&p=1396794075"
+}

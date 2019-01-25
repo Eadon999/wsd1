@@ -1,0 +1,66 @@
+{
+    "name": "アボカドツナ玉サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "eterno"
+    },
+    "image": "https://img.cpcdn.com/recipes/384564/464x260/2a0837d919b0e8e204eb542a351f12c3.jpg?u=473605&p=1214216295",
+    "datePublished": "2007-06-05",
+    "description": "アボカドとマヨネーズの相性が抜群！玉ねぎのシャキシャキとアボカドの食感も楽しい♬お肌もきれいになっちゃう♡",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "２個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "大１／２個"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはみじん切りにし、水にさらしておきしっかりと絞る感じで下準備。ツナ缶の油はきっておく。",
+        "玉ねぎ、ツナに★の調味料をお好みの量でまぜる。",
+        "アボカドの皮をむき、お好みの切り方をして、２をのせる。醤油をかけて出来上がり。（画像は醤油をかける前です、お好みで・・・）"
+    ],
+    "cookTime": null,
+    "recipe_id": "384564",
+    "advice": "アボカドをキューブに切りツナと玉ねぎを混ぜてから★印の調味料であえても美味しいです。",
+    "history": "パンの具材としてツナと玉ねぎを用意していて余ったのを、アボカドにのせてみたら美味しくいただけたので、よく作るようになりました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "ツナ缶",
+        "玉ねぎ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/384564/100x141c/acf753e91c64b4a265843cbf32f7ed00.jpg?u=473605&p=1214216295"
+}

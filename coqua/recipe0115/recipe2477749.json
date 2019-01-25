@@ -1,0 +1,60 @@
+{
+    "name": "☆春雨とわかめの簡単スープ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ももいろさくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/2477749/464x260/9c8786b1ccee6013995d01956cbaaf52.jpg?u=1882904&p=1468227267",
+    "datePublished": "2014-01-27",
+    "description": "お料理に合わせて、鶏がらで中華風、和風だしの素で和風、コンソメで洋風味にも。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨(乾燥)",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "一つかみ"
+        },
+        {
+            "name": "白ネギ(みじん切り)",
+            "quantity": "あれば少々"
+        },
+        {
+            "name": "水",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "春雨とわかめは表示通りに水でもどしておきます。",
+        "お鍋にすべての材料を入れて一煮立ちさせ味が良ければ出来上がりです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2477749",
+    "advice": "和風→和風だしの素おおさじ1洋風→チキンコンソメ1個に代えて水の分量でお好みの味に調整して見て下さいね（*^_^*）",
+    "history": "よく作る春雨スープです♡お料理に合わせて洋風、中華、和風味がかんたんにできます（*^_^*）",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨スープ 和風",
+        "春雨スープ 鶏ガラ 簡単",
+        "春雨スープ 鶏ガラ"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2477749/100x141c/7320c31f4202d14cef9c4d65a51a67dd.jpg?u=1882904&p=1468227267"
+}

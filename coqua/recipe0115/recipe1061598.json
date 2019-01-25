@@ -1,0 +1,43 @@
+{
+    "name": "ほうれん草とコーンのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "かばおとうさこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1061598/464x260/5eb52c3507a657dd55abcdbca0fd96e8.jpg?u=1748405&p=1268014774",
+    "datePublished": "2010-03-08",
+    "description": "シンプルで、いろどりがいいのでお弁当にも☆あっという間にできます！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１袋"
+        },
+        {
+            "name": "コーン缶詰",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "めんつゆ（３倍濃縮）",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を塩を少し入れた湯でゆでる。さっと緑が鮮やかになったら冷水にさらす。",
+        "ギュッと絞って、一口大に切る。\r\nコーンの水気をきる。",
+        "ボウルにほうれん草、コーンを入れ、めんつゆであえる。\r\n器に盛り付けて完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1061598",
+    "advice": "ほうれん草の量によってめんつゆの量を調整してくださいね。",
+    "history": "あっという間にできます！さっぱりしていてコーンの甘みがあるので食べやすいですよ☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 コーン おひたし"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1061598/100x141c/3d3ee32d409ce8fe53714334fc065842.jpg?u=1748405&p=1268014774"
+}

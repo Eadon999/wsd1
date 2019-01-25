@@ -1,0 +1,77 @@
+{
+    "name": "鍋焼きうどん",
+    "author": {
+        "@type": "Person",
+        "name": "gummymio"
+    },
+    "image": "https://img.cpcdn.com/recipes/1442746/464x260/6366ec336e3ae345e9f9fb1bf4853151.jpg?u=1675379&p=1305701815",
+    "datePublished": "2011-05-18",
+    "description": "アツアツでおダシの浸みたおうどん、美味しいですよ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "鶏肉",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "かまぼこ",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "１個"
+        },
+        {
+            "name": "玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "うすあげ",
+            "quantity": "１/２枚"
+        },
+        {
+            "name": "ダシ汁",
+            "quantity": "３００cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "うすあげは細切りにし油ぬきをして軽くしぼる。うどん玉は洗ってほぐしておく。",
+        "【ダシ】の調味料をすべて混ぜ合わせておく。",
+        "鍋にうどんを入れ鶏肉、うすあげ、かまぼこ、しいたけを入れ【２】のダシ汁を注ぎ入れる。",
+        "鶏肉に火が通り、煮立ってきたら玉子を割り落とす。",
+        "玉子の白身が固まってきたら火を止め、フタをして１分ほど蒸らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1442746",
+    "advice": "グツグツ煮るうちにダシ汁がよくしみこむので、薄味に作る。",
+    "history": "大好きなので自分で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鍋焼きうどん"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1442746/100x141c/ea7d7cd64a904f89fd72d02423381119.jpg?u=1675379&p=1305701815"
+}

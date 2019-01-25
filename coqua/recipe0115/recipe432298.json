@@ -1,0 +1,47 @@
+{
+    "name": "わかめ♡♥卵白のふわふわ味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/432298/464x260/4373a1e880d30b46bccff534c729fa4b.jpg?u=304393&p=1214217270",
+    "datePublished": "2007-09-19",
+    "description": "いつものわかめの味噌汁に余った卵白をふわふわに仕上げた味噌汁です。いつものかきたま汁と違った食感ですよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵白",
+            "quantity": "１個分"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "通常作るようにだし汁を沸かし、味噌と溶かして味噌汁を作り、わかめを入れる。",
+        "卵白は泡立て器で３０回くらい泡立て、泡だったら沸騰した味噌汁に入れてすぐフタをする。",
+        "３０秒くらいたったら\r\n器によそい、あれば小ねぎを散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "432298",
+    "advice": "わかめはすぐやわらかくなってしまうので最後に加えてください。卵白は少し泡立てることでふわふわな仕上がりになります。ふたをして少し置くことでふぁ～っと広がります。",
+    "history": "黄身を１個だけ使って卵白が余ってしまった。いろいろ使えるけど味噌汁にしてみたら白くってふわふわで美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵白 味噌汁"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/432298/100x141c/c3791ec085599aeb9c6b13e22112d4e7.jpg?u=304393&p=1214217270"
+}

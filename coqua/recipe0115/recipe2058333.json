@@ -1,0 +1,63 @@
+{
+    "name": "赤魚の梅干し煮",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2058333/464x260/9261c5228195775ea509c17c33fdc1ef.jpg?u=4819316&p=1395570833",
+    "datePublished": "2012-12-15",
+    "description": "17/3/20話題入り有難うございます、甘酸っぱくて美味しくいただけます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "赤魚",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しの種を取り除き、包丁でたたいて細かくつぶす",
+        "しょうゆ、砂糖、みりん、酒、水を鍋に入れて煮立たせる",
+        "煮立ったところで赤魚と梅干しを入れ、再び煮立たせる",
+        "煮立ったら弱火にして１０分ぐらいじっくり煮ると出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2058333",
+    "advice": "ししとうは無くても問題なし、じっくり煮るのが大事",
+    "history": "知人に梅干しをたくさんもらい使い道を考えていたところで、煮魚と梅干しが合うことを知り、試してみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤魚",
+        "梅干し",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2058333/100x141c/518e496a18841947f78777e18b4c2442.jpg?u=4819316&p=1395570833"
+}

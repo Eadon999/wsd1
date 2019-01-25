@@ -1,0 +1,42 @@
+{
+    "name": "おくらのわさび醤油漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/602658/464x260/d5464cafd410d459f749652870e32dca.jpg?u=746099&p=1438949411",
+    "datePublished": "2008-08-30",
+    "description": "すっきりおいしい我が家の定番！2016.4.23.話題入り100人の方に作って頂きました♡感謝",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "１パック"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小１／３～"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "二倍濃縮のもの大１～"
+        }
+    ],
+    "recipeInstructions": [
+        "めんつゆに水大１とわさびを入れてだしを作る。",
+        "ゆでたおくらを１に漬け冷蔵庫に。時々上下を返す。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "602658",
+    "advice": "麺つゆやわさびの量はお好みでどうぞ。",
+    "history": "だしも作っていましたが、余っためんつゆを使ったら簡単でした。以来たびたび食卓にのぼるメニューです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ 醤油漬け"
+    ],
+    "tsukurepo_count": "196",
+    "thumbnail": "https://img.cpcdn.com/recipes/602658/100x141c/5aa4240ff4dc853b6c1d9c06072e035e.jpg?u=746099&p=1438949411"
+}

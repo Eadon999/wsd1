@@ -1,0 +1,47 @@
+{
+    "name": "もずくと長芋",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3801538/464x260/a5e8751c30459549c413ad6ddad7eac2.jpg?u=2495483&p=1460432977",
+    "datePublished": "2016-04-12",
+    "description": "さっぱり一品に☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "２～３㎝"
+        },
+        {
+            "name": "生もずく",
+            "quantity": "３０g"
+        },
+        {
+            "name": "紫蘇",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ２分の１～"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋をすりおろす",
+        "紫蘇をみじん切りにする",
+        "１と２ともずくとポン酢を混ぜる"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3801538",
+    "advice": "",
+    "history": "賞味期限まぎわのもずく消費に作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もずく"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/3801538/100x141c/c2a90872212c680e9c48b5c868caee62.jpg?u=2495483&p=1460432977"
+}

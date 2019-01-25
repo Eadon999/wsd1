@@ -1,0 +1,51 @@
+{
+    "name": "私のキャロットグラッセ☆",
+    "author": {
+        "@type": "Person",
+        "name": "カピぞう"
+    },
+    "image": "https://img.cpcdn.com/recipes/1457975/464x260/d8ddb60087c387dc1e0756b6aae808b8.jpg?u=1747750&p=1306927346",
+    "datePublished": "2011-06-01",
+    "description": "いつもハンバーグの付け合わせにしてたものを私好みに。煮たニンジンが苦手な義母も食べれたよ！2011.8.18話題入り♡",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "１本"
+        },
+        {
+            "name": "水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３～４"
+        },
+        {
+            "name": "マーガリン（バターでも可）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩（入れなくても可）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンを１cm厚くらいの輪切りにします。大きければ半月切りでもＯＫ。\n面取りをした方が仕上がりがキレイです。",
+        "鍋に、水・砂糖・マーガリン・塩を入れ軽くかきまぜたらニンジンを入れます。\nここではまだ火は付けていません。",
+        "強火にし、沸騰したら弱火にして柔らかくなるまで煮ます。\n水分が半分以下になる頃が目安です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1457975",
+    "advice": "独特のニンジン臭さが和らぎます。面取りはお好みですが、煮崩れを防げますし仕上がりもキレイです☆",
+    "history": "実家ではいつもこの作り方。私好みにちょっと変更してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャロットグラッセ"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1457975/100x141c/1b03d150fc9deb06c82529d3ddfba2d2.jpg?u=1747750&p=1306927346"
+}

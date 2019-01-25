@@ -1,0 +1,54 @@
+{
+    "name": "☆簡単☆にらの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "ふたごっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/325118/464x260/ce54de8ca7ae5dd6710e5323f28d27fa.jpg?u=330642&p=1214214609",
+    "datePublished": "2007-02-01",
+    "description": "材料２つだけ！！にらをたっぷり食べたいときに☆甘じょっぱい味付けです(*^_^*)",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "にら",
+            "quantity": "２束"
+        },
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "めんつゆ（濃縮タイプ）",
+            "quantity": "５０㏄"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "にらは洗って４～５㎝に切って水気を切ります。",
+        "浅めの鍋かフライパンに水、めんつゆ、砂糖を入れて沸騰したらにらを入れて蓋をして３分くらい煮ます。",
+        "溶き卵を回し入れて蓋をして卵に火が通ったら出来上がりです。\r\n卵の固さはお好みで。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "325118",
+    "advice": "めんつゆの種類によって甘みが違うのでお砂糖はお好みで加減してください。にらはあっという間に火が通るのであまり煮すぎないように☆",
+    "history": "子供の時はこの甘さが苦手だったけど、今は大好きに(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にら",
+        "卵",
+        "めんつゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/325118/100x141c/d00bf90782474782be19ab67fd2bf6d9.jpg?u=330642&p=1214214609"
+}

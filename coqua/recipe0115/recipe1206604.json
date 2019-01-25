@@ -1,0 +1,67 @@
+{
+    "name": "エビときゅうりの炒め物～レモン風味～",
+    "author": {
+        "@type": "Person",
+        "name": "hmaruuo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1206604/464x260/a5c377c8a51309f90264ec12700d24ca.jpg?u=2206861&p=1281317091",
+    "datePublished": "2010-08-09",
+    "description": "きゅうりは炒めても美味しいです。 レモン汁であっさりさっぱり食べれちゃいます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ",
+            "quantity": "12尾"
+        },
+        {
+            "name": "(A)塩・こしょう・酒",
+            "quantity": "各少々"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "えびは尾とひと節を残して殻をむき、背わたを取って(A)で下味をつける。",
+        "きゅうりは食べやすい長さの棒状に切って塩でもみ、にんにくは薄切りにする。",
+        " フライパンにごま油を熱しにんにく、えび、水気をきったきゅうりの順に入れて炒め、しょうゆ、レモン汁を加えて混ぜ、完成。",
+        "2011/05/13★話題のレシピ入！皆さんありがとうございました！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1206604",
+    "advice": "",
+    "history": "さっぱりレモン風味の炒め物を作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビ",
+        "きゅうり",
+        "塩",
+        "にんにく"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1206604/100x141c/da296ff2a1286aba36fa63a8ed3b887b.jpg?u=2206861&p=1281317091"
+}

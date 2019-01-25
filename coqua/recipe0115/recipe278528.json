@@ -1,0 +1,58 @@
+{
+    "name": "海老ちゃん",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/278528/464x260/6e2df607cd4b9f46f2dede468435482e.jpg?u=39686&p=1215133394",
+    "datePublished": "2006-09-03",
+    "description": "酒の肴、弁当のおかずに最適。簡単でおいしい中華味海老です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "海老",
+            "quantity": "殻付のまま200ｇ"
+        },
+        {
+            "name": "顆粒とりがらスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油＋ごま油",
+            "quantity": "1：1で適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "えびの殻を剥いてﾋﾞﾆｰﾙ袋に入れ、酒と鶏がらスープの素を入れてフリフリ、１０分くらい置いて味をしみこませる。",
+        "余分な水分は捨ててしまってからﾋﾞﾆｰﾙ袋に入れたまま薄力粉と片栗粉を入れてシャカシャカ振り、粉をまぶす。",
+        "熱したフライパンにサラダ油＋ごま油をしいて海老を両面こんがりと焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "278528",
+    "advice": "手順②で余分な水分を取ったほうが粉があまりべたつかずにつきます。",
+    "history": "オットが適当に作ってくれたものが美味しかったので自分でも作ってレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "海老",
+        "酒",
+        "薄力粉",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/278528/100x141c/510b6fcd83f663e0612a3786e3609949.jpg?u=39686&p=1215133394"
+}

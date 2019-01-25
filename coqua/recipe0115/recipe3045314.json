@@ -1,0 +1,76 @@
+{
+    "name": "ぶりのムニエル玉ねぎソース",
+    "author": {
+        "@type": "Organization",
+        "name": "築地魚河岸の嫁"
+    },
+    "image": "https://img.cpcdn.com/recipes/3045314/464x260/37b01a17087611e04e0072e495e4a914.jpg?u=11175211&p=1425300737",
+    "datePublished": "2015-03-02",
+    "description": "洋風ムニエルと和風玉ねぎソースが合うんです",
+    "recipeYield": "2名分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶり切り身に塩、こしょうをして小麦粉をまぶす\n玉ねぎは半分をみじん切り、残り半分をすりおろす",
+        "フライパンに油を熱し、ぶりを焼く\n",
+        "ぶりを取り出し、バターを入れ、にんにくとみじん切り玉ねぎを炒める",
+        "しんなりしたら、すりおろした玉ねぎを加え混ぜあわせた後に、みりん・酒・しょう油を入れ煮詰めて完成",
+        "ぶりにかけて召し上がれ\n\n付け合せは豆苗としめじソテー"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3045314",
+    "advice": "玉ねぎ半量をすりおろすと、甘味が出て、ムニエルにからみやすくなります。",
+    "history": "照り焼きではない和風な味で食べてみたくて。http://gyogun.net/blog/?p=768",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ムニエル 玉ねぎソース",
+        "玉ねぎソース 魚 ムニエル",
+        "ぶり 洋風",
+        "玉ねぎソース ぶり"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/3045314/100x141c/576ce9e1fb7dab36cd5bcc04bc2e2eac.jpg?u=11175211&p=1425300737"
+}

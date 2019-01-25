@@ -1,0 +1,68 @@
+{
+    "name": "揚げずに揚げだし豆腐★",
+    "author": {
+        "@type": "Person",
+        "name": "yamita"
+    },
+    "image": "https://img.cpcdn.com/recipes/1042190/464x260/0ac9d43e7bd5784622f1e7c2ddb8040e.jpg?u=612172&p=1266303173",
+    "datePublished": "2010-02-17",
+    "description": "揚げるのは面倒なので焼いてみました～！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "大根",
+            "quantity": "10ｃｍくらい"
+        },
+        {
+            "name": "麺つゆ（２倍濃縮）",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は水切りし、食べやすい大きさに切る。 \r\n大根はおろしておく。",
+        "（1）の豆腐に片栗粉をまんべんなくまぶす。（ビニール袋に片栗粉を入れると作業しやすいです。）",
+        "フライパンに油を入れ（2）の豆腐をこんがり両面焼く。",
+        "小鍋に麺つゆ、水、大根おろしを入れ、\r\nひと煮立ちさせる。",
+        "器に豆腐、（4）、大葉、かつお節を盛り付け出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1042190",
+    "advice": "",
+    "history": "揚げだし豆腐って美味しいけれど、ちょっと面倒！なので焼いてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/揚げだし豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "片栗粉",
+        "サラダ油",
+        "大根"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1042190/100x141c/9166e71bc5b397c430aecf84b6b08b8c.jpg?u=612172&p=1266303173"
+}

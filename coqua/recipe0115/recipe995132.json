@@ -1,0 +1,76 @@
+{
+    "name": "ツナとひじきのがんも",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/995132/464x260/7816fef8eb6f1159fcf6ba34e9eab5c3.jpg?u=933655&p=1261372537",
+    "datePublished": "2009-12-21",
+    "description": "かりっ！ふわっ！揚げたて最高！ツナの旨味がつまったがんもです♪ごまやひじきも入って、カルシウムたっぷり！簡単です♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "水煮ひじき",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "木綿豆腐は水をしっかり切っておく \r\n\r\nツナ缶の油をきっておく\r\n\r\n",
+        "人参の長さを半分にして、千切りにし、ラップをかけて１分加熱しておく",
+        "すべての材料を混ぜたら、スプーンなどですくって、１７０℃の油でカリッとなるまで、揚げる",
+        "お好みで生姜醤油や塩、大根おろしなどで召し上がれ～♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "995132",
+    "advice": "揚げるときに、箸で持ち上げたり、返しながら揚げるとかりっ！となります♪ 豆腐の水切りはしっかりと♪前日に残ったひじきの煮物でも作れます(*^艸^*)♥　その場合は調味料を調節してください",
+    "history": "揚げたてのがんもが食べたくて、健康に良いものをたくさん入れて作りました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき がんもどき"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/995132/100x141c/ed5bc7af97839d7d8f2c85464bb28ed5.jpg?u=933655&p=1261372537"
+}

@@ -1,0 +1,76 @@
+{
+    "name": "鶏肉のジャガイモ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/215942/464x260/37d87392fe9a62d4c015ab10fe56d809.jpg?u=54489&p=1214212212",
+    "datePublished": "2005-09-12",
+    "description": "ジャガイモでトロミをつけた煮汁をご飯にかけて食べると美味しい！ (≧ー≦)o",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉（皮なし）",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "ジャガイモ",
+            "quantity": "正味１００g"
+        },
+        {
+            "name": "白髪葱",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "カップ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長葱を白髪葱にし、冷水にさらしておく。",
+        "ジャガイモは皮をむいておく。",
+        "鶏むね肉を５ｍｍ幅の薄切りにする。",
+        "鍋に薄く油を敷いて、肉を焦がさないように炒める。",
+        "酒と水を入れて２、３分煮た後、砂糖、醤油、塩を入れる。",
+        "ジャガイモをすりおろしておく。",
+        "６のジャガイモを入れ、ひと煮立ちする。",
+        "お皿に盛って、長葱をたっぷりのせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "215942",
+    "advice": "動画レシピ：http://www.youtube.com/watch?v=1DZckZdxQe0",
+    "history": "実家の定番です♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "ジャガイモ",
+        "白髪葱",
+        "酒"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/215942/100x141c/81bd81d09b6000d00dcbe314c8887f54.jpg?u=54489&p=1214212212"
+}

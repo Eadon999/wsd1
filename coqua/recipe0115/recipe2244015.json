@@ -1,0 +1,64 @@
+{
+    "name": "コンソメ野菜スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ヨシキンで"
+    },
+    "image": "https://img.cpcdn.com/recipes/2244015/464x260/d2b3c6d40c4c92e287dd7bf663579f61.jpg?u=6748472&p=1370171993",
+    "datePublished": "2013-06-02",
+    "description": "あまり野菜で簡単スープ",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "●じゃがいも",
+            "quantity": "２個"
+        },
+        {
+            "name": "●人参",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "●玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "●キャベツ",
+            "quantity": "1~2枚"
+        },
+        {
+            "name": "水",
+            "quantity": "600㏄"
+        },
+        {
+            "name": "コンソメ(キューブ)",
+            "quantity": "２個"
+        },
+        {
+            "name": "味塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "乾燥バジル",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいも、にんじん、玉ねぎ、キャベツを自分が食べやすいように切ります。\n",
+        "鍋に●を入れて、水６００ｃｃで火が通るまで煮ます。\n(アクを取りながら)",
+        "具材に火が通ったら、コンソメ、味塩コショウを入れてまぜます。",
+        "器に盛り、乾燥バジルをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2244015",
+    "advice": "火が通るまで具材を煮る。",
+    "history": "野菜不足解消に。美味しく食べれていいです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "野菜スープ コンソメ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2244015/100x141c/b04fef010410b6d47939cd9f75f62411.jpg?u=6748472&p=1370171993"
+}

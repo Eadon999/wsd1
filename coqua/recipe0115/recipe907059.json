@@ -1,0 +1,54 @@
+{
+    "name": "カレー味のなめたけ♪",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/907059/464x260/b833a22237399e40ed4731af37aeb0dd.jpg?u=933655&p=1252459612",
+    "datePublished": "2009-09-09",
+    "description": "「なめたけ」をカレー味にしたら、ご飯に合うおいしい一品になりました♪　５分で出来ちゃうスピード料理です(*´∀`)ﾉﾟ.",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "大一袋(２００ｇのもの）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１．５～２"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきはいしづきのところを切り２～３ｃｍくらいの食べやすい大きさに切る",
+        "調味料を鍋で沸騰させ、えのきを弱火から中火で煮込んだら\r\n完成～！",
+        "ジャッキーちゃんがクリームチーズと一緒に卵焼きにしてくれました！　とってもおいしそう♥"
+    ],
+    "cookTime": null,
+    "recipe_id": "907059",
+    "advice": "カレー粉はお好みで調節してください甘めの味付けになっています。砂糖の量は調節してください♪ お酢を少し加えてもおいしいです♥",
+    "history": "皆が大好き♥カレー味！のなめたけもいいかなと思って 考えました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "しょうゆ",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/907059/100x141c/52f27ab63490913437b05939bb0ed620.jpg?u=933655&p=1252459612"
+}

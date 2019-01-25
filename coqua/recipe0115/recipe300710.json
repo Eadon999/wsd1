@@ -1,0 +1,58 @@
+{
+    "name": "やみつきなカリカリ大根♪",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/300710/464x260/01f148729a35f6895bb0a38737622969.jpg?u=252604&p=1255666079",
+    "datePublished": "2006-11-14",
+    "description": "にんにくとゴマ油の香りで。ついつい手がのびる大根です。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1/2かけ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/3"
+        },
+        {
+            "name": "粗挽き黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の皮を剥き、1cm角のさいのめに切ります。",
+        "ゴマ油とにんにくのすりおろしを加えて、良く混ぜます。冷蔵庫でよく冷やしておきます。",
+        "食べる直前に塩、黒胡椒、小口切りにした万能ねぎと和えていただきます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "300710",
+    "advice": "大根から水が出ないように食べるときに和えます。生にんにくが苦手な方は、ガーリックパウダーをお好みの量振っていただいても。",
+    "history": "大根をたくさんいただいたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "その他/おもてなし料理/冬！おもてなし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "やみつきカリカリ大根",
+        "やみつき ガーリック 大根",
+        "カリカリ大根"
+    ],
+    "tsukurepo_count": "681",
+    "thumbnail": "https://img.cpcdn.com/recipes/300710/100x141c/0bc83c333661b07af9a807042cf39b9a.jpg?u=252604&p=1255666079"
+}

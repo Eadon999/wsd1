@@ -1,0 +1,59 @@
+{
+    "name": "ちくわの味噌マヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/54259/464x260/053d755df65240d6e41550922eb6577d.jpg?u=4036&p=1214209183",
+    "datePublished": "2002-05-21",
+    "description": "おかずにも、お弁当にも、おつまみにも！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "細めのもの5本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "小口切りのネギ",
+            "quantity": "15g"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "お好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは6～7ミリ程度の斜め切りに。",
+        "マヨネーズ、味噌、醤油をよく混ぜ合わせる。",
+        "1.のちくわ、2.のタレ、ゴマ、ねぎを和えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "54259",
+    "advice": "",
+    "history": "大好きなちくわを、添え物ではなくちゃんとメインになるお惣菜にしたくて考えました。",
+    "categories": [
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "マヨネーズ",
+        "味噌",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/54259/100x141c/0a9b493c1417ecd62236bad2435b9594.jpg?u=4036&p=1214209183"
+}

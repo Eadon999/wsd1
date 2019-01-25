@@ -1,0 +1,61 @@
+{
+    "name": "超簡単☆レタススープ",
+    "author": {
+        "@type": "Person",
+        "name": "レモンベリー"
+    },
+    "image": "https://img.cpcdn.com/recipes/926329/464x260/a54644a7f2e04ef0c4b39ffc51bfb061.jpg?u=1601328&p=1267597127",
+    "datePublished": "2009-11-02",
+    "description": "５分で出来るスープ♪ 今まで捨てていた外葉も美味しく変身(*^_^*) 忙しい時のお助けメニューです♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "5～6枚"
+        },
+        {
+            "name": "水",
+            "quantity": "900ｃｃ"
+        },
+        {
+            "name": "ウェイパァー",
+            "quantity": "大２"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "あじ塩コショー",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは外葉の \r\n青々したところを \r\n使います",
+        "材料です",
+        "鍋に水・ウェイパァーを入れ温めます\r\nレタスは手でちぎります",
+        "沸騰したらレタスを入れます",
+        "卵を回し入れ、 \r\nごま油・あじ塩コショーで味を整えます",
+        "ハイ♪出来上がり♥"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "926329",
+    "advice": "☆レタス・卵は事前に準備し、素早く仕上げましょう",
+    "history": "小学３年生にして野菜大好きな姪(かりん)の大好物(=^_^=)母の作るレタススープはコンソメ味･･･私は中華風にアレンジしてみました(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "水",
+        "ウェイパァー",
+        "ごま油"
+    ],
+    "tsukurepo_count": "235",
+    "thumbnail": "https://img.cpcdn.com/recipes/926329/100x141c/da003d9e2e8daaa424bfe677860d4990.jpg?u=1601328&p=1267597127"
+}

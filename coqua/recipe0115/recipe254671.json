@@ -1,0 +1,61 @@
+{
+    "name": "春キャベツとゆで卵のごまサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "monemaruku"
+    },
+    "image": "https://img.cpcdn.com/recipes/254671/464x260/0581fd90f5dd9878803fd4b38a89503f.jpg?u=33068&p=1239248514",
+    "datePublished": "2006-05-17",
+    "description": "4月21日のおすすめレシピに選ばれました！『クックパッドmagazine! Vol.5』掲載！",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ（葉）",
+            "quantity": "6･7まい"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "2こ"
+        },
+        {
+            "name": "黒いりごま",
+            "quantity": "おおさじ1ぱい"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "おおさじ1ぱい"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "おおさじ1ぱい"
+        },
+        {
+            "name": "酢",
+            "quantity": "おおさじ1ぱい"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "しょうしょう"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールに調味料を入れて混ぜておきます。",
+        "キャベツは千切りにします。ゆで卵は４等分に切ります。【1】にキャベツとゆで卵を入れ和えます。 ",
+        "器に【2】を盛り付け出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "254671",
+    "advice": "",
+    "history": "春キャベツがおいしい時期なので♪大好きな料理人のレシピを参考に作りました！！調味料が同量なので簡単でとってもおいしいです(^～^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ゆで卵 サラダ",
+        "ゆで卵 サラダ",
+        "春キャベツ"
+    ],
+    "tsukurepo_count": "536",
+    "thumbnail": "https://img.cpcdn.com/recipes/254671/100x141c/57f66ac6dc204c0137a746eeb0824f9f.jpg?u=33068&p=1239248514"
+}

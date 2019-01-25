@@ -1,0 +1,62 @@
+{
+    "name": "ほうれん草の卵カップ詰め",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1381336/464x260/c7cb30884f7201130c1843baaaf4909e.jpg?u=1194496&p=1517519405",
+    "datePublished": "2011-03-07",
+    "description": "お弁当にも美味しいですが、熱々もいけます♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆで卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "茹でたほうれん草",
+            "quantity": "適量"
+        },
+        {
+            "name": "玉ねぎみじん切り",
+            "quantity": "大さじ１と２分の１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１と２分の１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵は２つに切り、黄身をはずす。",
+        "ほうれん草を細かく刻み、みじん切りの玉ねぎは水にさらす。",
+        "外した黄身に２を入れて、マヨネーズであえて塩コショウし、白身に詰める。",
+        "３に粉チーズを振り、バターを乗せてトースターで５分くらい焼く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1381336",
+    "advice": "最後のバターを乗せると、とってもコクがでて美味しいので入れてくださいね。",
+    "history": "お弁当のおかずに緑を入れたくて。子供の好きな卵に入れちゃえ！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 卵",
+        "たまごカップ",
+        "ほうれん草"
+    ],
+    "tsukurepo_count": "162",
+    "thumbnail": "https://img.cpcdn.com/recipes/1381336/100x141c/36639d54cdd3f57d8eb4948fb9e30e24.jpg?u=1194496&p=1517519405"
+}

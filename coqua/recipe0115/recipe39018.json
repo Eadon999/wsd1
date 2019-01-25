@@ -1,0 +1,62 @@
+{
+    "name": "かぶの葉とシラスのふりかけ",
+    "author": {
+        "@type": "Person",
+        "name": "をんをん"
+    },
+    "image": "https://img.cpcdn.com/recipes/39018/464x260/7b9358220476720f7c603e0bf50f059e.jpg?u=7813&p=1214208892",
+    "datePublished": "2002-01-12",
+    "description": "かぶの葉にも、シラスにもカルシウムたっぷりよぉ～！！お弁当にもご飯にまぜておにぎりにしてもおススメです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶの葉",
+            "quantity": "3本分"
+        },
+        {
+            "name": "しらす",
+            "quantity": "４０ｇ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "こさじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶの葉(茎も）はみじん切りにする。フライパンにごま油をいれ、かぶの葉を炒める。",
+        "かぶの葉がしんなりしてきたら、しらすと調味料を入れさらに炒める。最後にごまを加えて出来あがり。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "39018",
+    "advice": "しらすの他にじゃこでもok。かぶの葉のかわりに大根の葉でもokです。大根の葉を使うときはサッと茹でてから使いましょう。",
+    "history": "ご近所の家庭菜園から採りたてのかぶを頂いたので。かぶの葉は、緑黄色野菜なみの優れた栄養素がたっぷりですので、美味しく食べましょうね♪",
+    "categories": [
+        "今日のご飯・おかず/ヘルシーおかず/カルシウムたっぷり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶの葉",
+        "しらす",
+        "白ごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/39018/100x141c/77d13eeb4de49bbfe2e77faa73b15a0e.jpg?u=7813&p=1214208892"
+}

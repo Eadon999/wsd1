@@ -1,0 +1,59 @@
+{
+    "name": "生鮭で自家製鮭そぼろ",
+    "author": {
+        "@type": "Person",
+        "name": "kuisinbou"
+    },
+    "image": "https://img.cpcdn.com/recipes/283038/464x260/37dc2add40a581d7d7a573a3f0282d68.jpg?u=57516&p=1214213668",
+    "datePublished": "2006-09-19",
+    "description": "なめ茸に続き自家製シリーズ第二弾。鮭そぼろをうちで作っちゃいましょう。塩鮭でもできますが、塩分を調節してくださいね。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "３切れぐらい（２８０グラム）"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "味塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "生鮭に塩をしてしばらく置く。",
+        "深めのお皿に乗せ上から酒を回しかけて、ラップをして電子レンジへ。中まで火が通るまでレンジにかけてください。",
+        "皮と骨を取り除き、身はほぐして味塩とサラダ油、②で出た出汁を加えてよく混ぜる。",
+        "味を見て塩分が足りなければ醤油、塩で調整してください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "283038",
+    "advice": "酒蒸しをすることと、サラダオイルを入れることでしっとりと仕上がります。",
+    "history": "お店の鮭そぼろが大好きで、作ってみたいと思いました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生鮭",
+        "酒",
+        "味塩",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/283038/100x141c/fd2ec75a75c187961e4b4ff5ac4e9213.jpg?u=57516&p=1214213668"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "こんにゃくのから揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "みんりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/240692/464x260/bbe5761d77f06d6d97b6e276a74b3338.jpg?u=69064&p=1214212709",
+    "datePublished": "2006-02-25",
+    "description": "昔バイトしていた居酒屋さんの人気商品でした。かつおぶしの衣が、おいしいです！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃくの煮物",
+            "quantity": "２人分"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵白",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくの煮物を２～３センチ角に切り、水気を切る。",
+        "小麦粉、卵白、かつおぶしの順で衣をつける。小麦粉と卵白は２回つけます。（小麦粉→卵白→小麦粉→卵白→かつおぶし）",
+        "１８０度の揚げ油で、カラリと揚げる。",
+        "七味とおしょうゆをかけるとおいしいですよー。"
+    ],
+    "cookTime": null,
+    "recipe_id": "240692",
+    "advice": "かつおぶしは、意外とたくさんくっつくので、多めにご用意を・・・。こんにゃくの煮物は何でもＯＫです。おでんのこんにゃくとかね。",
+    "history": "むかし、バイトしていた居酒屋の人気メニューを思い出して、真似てみました。ビールがうまい！！！　",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "煮物 居酒屋"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/240692/100x141c/5e83ecdcb4b712ec1cfa34372141cdab.jpg?u=69064&p=1214212709"
+}

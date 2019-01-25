@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】菜の花のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1407352/464x260/2b9251518964484dc540cd1f77145300.jpg?u=2513693&p=1302359163",
+    "datePublished": "2011-04-12",
+    "description": "少しほろ苦い菜の花は、ニンニクと合わせると程よい苦さになりますよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "２分の１片（すりおろす）"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花は、塩を１つまみ入れた沸騰したお湯で１分茹で、冷水にとってさまし、水けを絞って半分に切っておきます。",
+        "①に【A】をよく混ぜ合わせて出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1407352",
+    "advice": "",
+    "history": "色んなナムルを作りますが、春には菜の花のナムルをよく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花 ナムル"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1407352/100x141c/1d26f204c66fc4fabf84411523207649.jpg?u=2513693&p=1302359163"
+}

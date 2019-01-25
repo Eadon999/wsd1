@@ -1,0 +1,49 @@
+{
+    "name": "うちの朝食の定番❤簡単巣ごもり卵❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1816403/464x260/95d0a581f017b3eeae87a4e04b3113bb.jpg?u=2619264&p=1337174307",
+    "datePublished": "2012-05-17",
+    "description": "フライパンで一度に作れるし、野菜も一緒に摂れるので良く作ります♪黄身をくずしながら食べてね♪パンにもご飯にも✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "5~6枚"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "千切りのキャベツをフライパンで炒め、コンソメで味付けしたら穴を二つあけてそこに卵を割り入れる",
+        "火を弱めて蓋をして1~2分蒸し焼きにしたら卵を崩さないようにそぉっと皿に盛り、ケチャップをかけて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1816403",
+    "advice": "卵は是非半熟にしてとろけ出した黄身とキャベツを混ぜて食べて欲しいっ♪うちの子どもはケチャップ&マヨをかけて食べるのがお気に入りです✿",
+    "history": "寝坊をした朝に良く作るクイックレシピ♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "キャベツ",
+        "顆粒コンソメ",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1816403/100x141c/8e1c2ea1984115eb689b5ca881610130.jpg?u=2619264&p=1337174307"
+}

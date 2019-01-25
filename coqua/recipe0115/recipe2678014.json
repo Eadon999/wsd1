@@ -1,0 +1,75 @@
+{
+    "name": "コンソメでマヨネーズ少なめおからサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "micchankon"
+    },
+    "image": "https://img.cpcdn.com/recipes/2678014/464x260/a16aa9d7227bd3afe34a97764f89eee7.jpg?u=9923851&p=1403311112",
+    "datePublished": "2014-06-20",
+    "description": "コンソメ使いでまるでポテトサラダのようです。マヨネーズも少量でO.K.ヘルシーです。",
+    "recipeYield": "作りやすい量",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "200g"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4こ"
+        },
+        {
+            "name": "冷凍グリンピース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1こ"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水、コンソメ、ニンジン、玉ねぎ、ニンニクのみじん切りを火にかけます。煮えたらグリンピースも加えます。",
+        "そこにおからを加えて煮ます。",
+        "火からおろし、マヨネーズ、ツナ缶、胡椒を混ぜ合わせて出来上がり。味をみてマヨネーズの量は加減してください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2678014",
+    "advice": "しっとり仕上げるために、スープの量に気をつけて。野菜は冷凍のミックスベジタブルでもOK。",
+    "history": "おからを一袋買うとかなり多いですよね。飽きずに食べきるレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": [
+        "おからサラダ 2位"
+    ],
+    "related_keywords": [
+        "おからサラダ",
+        "おから",
+        "おからサラダ 冷凍"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2678014/100x141c/38f8395c97a688381f3a8be031c9439d.jpg?u=9923851&p=1403311112"
+}

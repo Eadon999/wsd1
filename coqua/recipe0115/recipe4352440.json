@@ -1,0 +1,89 @@
+{
+    "name": "一人鍋でチゲ風煮込みうどん",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4352440/464x260/0538720faee414aa4a952ead4a635f44.jpg?u=4819316&p=1486988904",
+    "datePublished": "2017-02-13",
+    "description": "18/6/10話題入り有難うございます、寒い日には最高です、ピリ辛で熱いおうどんでとにかく暖まります、お試し下さい",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ゆでうどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "５０g"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０㏄"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●にんにく（チューブ）",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは５センチくらいに切る",
+        "土鍋に水と●を入れ沸騰させて、うどんと豚肉を入れて加熱する",
+        "豚肉に火が通ったら、キムチを入れて軽く混ぜる",
+        "ニラ、卵を乗せて蓋をして弱火で煮込む",
+        "卵の白身が白濁したら出来上が"
+    ],
+    "cookTime": null,
+    "recipe_id": "4352440",
+    "advice": "土鍋がなければ普通のお鍋で煮込んで、器に移しても良いですよ",
+    "history": "西日本では連日寒い日が続いています、熱い煮込みうどんと辛い中華を組み合わせて、暖まりたいと思って作りました",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": [
+        "煮込みうどん 8位",
+        "チゲ鍋 2位",
+        "一人鍋 4位",
+        "うどん鍋 3位"
+    ],
+    "related_keywords": [
+        "チゲ鍋 うどん",
+        "煮込みうどん",
+        "チゲうどん",
+        "一人鍋"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/4352440/100x141c/e5daf12933149cbd7b239ccb486ddfba.jpg?u=4819316&p=1486988904"
+}

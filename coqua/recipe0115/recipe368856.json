@@ -1,0 +1,67 @@
+{
+    "name": "アジのチーズフライ♪",
+    "author": {
+        "@type": "Person",
+        "name": "mitumame"
+    },
+    "image": "https://img.cpcdn.com/recipes/368856/464x260/95351f9e89fc79a5d566c1eb8b3d7889.jpg?u=359533&p=1214215550",
+    "datePublished": "2007-05-04",
+    "description": "大葉とチーズ風味の魚のフライ♪子供も大好きです＾＾",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "アジ（20ｃｍ位のもので）",
+            "quantity": "３尾"
+        },
+        {
+            "name": "●大葉",
+            "quantity": "（みじん切り）５枚"
+        },
+        {
+            "name": "●粉チーズ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "●パン粉",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "◇卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "◇小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールやバットを２つ用意してそれぞれに●と◇の材料を合わせて衣の用意をしておく（◇は濃度をみながら水で溶く）",
+        "アジは鱗とぜいごを取り３枚におろして、食べやすい大きさに切り、軽く塩コショウする",
+        "②のアジを◇卵液→●パン粉の順につけて、油で揚げて出来上がり♪",
+        "【骨せんべい】　　　　　　弱火でじっ～くり揚げて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "368856",
+    "advice": "アジは骨抜きなどで小骨も取っておくと食べやすいです。卵液はサラッと薄めに溶いてもパン粉がちゃんと付きます。ウチではフライパンに1～2ｃｍくらい油を入れて揚げてます＾＾",
+    "history": "アジが安かったので＾▽＾",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アジ",
+        "大葉",
+        "粉チーズ",
+        "パン粉"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/368856/100x141c/324af643b22984aa64e200fee7222780.jpg?u=359533&p=1214215550"
+}

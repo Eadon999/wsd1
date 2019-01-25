@@ -1,0 +1,63 @@
+{
+    "name": "簡単！手羽唐揚げのタレ風もちもち厚揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "キッチンメル"
+    },
+    "image": "https://img.cpcdn.com/recipes/2939959/464x260/ab9db5af76bed57959e357dc9994c917.jpg?u=7988342&p=1419460198",
+    "datePublished": "2014-12-25",
+    "description": "手羽先の唐揚げのまわりにくっついている甘辛タレ風にしてみました！とても簡単ですので、朝忙しくてもはぱっとできます",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "一個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "焼くとき用"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ2〜"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "切った厚揚げに片栗粉を多めにまぶす",
+        "多めの油で焼いていく",
+        "合わせたタレを投入し、煮詰める"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2939959",
+    "advice": "片栗粉を多めにまぶすことで、タレがからみやすくなります",
+    "history": "濃い目の味付けでご飯が進むようなおかずを簡単に作りたかったので",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽唐 タレ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2939959/100x141c/a5184b86acea620ad5fa32e037abd609.jpg?u=7988342&p=1419460198"
+}

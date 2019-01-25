@@ -1,0 +1,98 @@
+{
+    "name": "炊飯器で　中華風炊き込みおこわ",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2200378/464x260/13ebd24bbc858b4ac2c136a26a68a977.jpg?u=6238111&p=1366675221",
+    "datePublished": "2013-04-23",
+    "description": "オイスターソースのこくで、ワンランク上の味付けに。冷めてもおいしいのでお弁当にも。2014,1,8話題入り。",
+    "recipeYield": "６人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "もち米",
+            "quantity": "１合"
+        },
+        {
+            "name": "水（炊飯用）",
+            "quantity": "600ｍｌ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "人参(千切り)",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ごぼう(ささがき)",
+            "quantity": "1/２本"
+        },
+        {
+            "name": "干ししいたけ（もどしてみじん切り）",
+            "quantity": "３枚"
+        },
+        {
+            "name": "しめじ（ほぐす）",
+            "quantity": "１パック"
+        },
+        {
+            "name": "冷凍枝豆（さやからはずす）",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "上白糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "米ともち米を混ぜ、研ぐ。分量の水を加え、３０分吸水させる。",
+        "鍋にごま油を熱し、豚ひき肉を炒める。（中火）\n人参から枝豆までを加え、炒め、調味料を加える。\n煮汁がなくなるまで、煮る。",
+        "具の荒熱が取れたら、炊飯器の米の上にのせ、炊く。",
+        "炊きあがったら、混ぜる。"
+    ],
+    "cookTime": "PT90M",
+    "recipe_id": "2200378",
+    "advice": "特にありません(^^)",
+    "history": "蒸し器でおこわを作ると手間がかかるので、私はいつも炊飯器で炊きおこわにしています。うわっと香るオイスターの香りがグッド、具たくさんでおいしいですよ。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/おこわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "炊き込みおこわ 炊飯器",
+        "中華おこわ 炊飯器",
+        "中華おこわ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2200378/100x141c/aded8a71ccfb666657fd05ba5f3f427a.jpg?u=6238111&p=1366675221"
+}

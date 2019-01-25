@@ -1,0 +1,55 @@
+{
+    "name": "☆もう1品☆厚揚げの味噌チーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "☆あっさむ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2870566/464x260/9003640c2c208eb4146f639bcd19b508.jpg?u=5437089&p=1415193749",
+    "datePublished": "2014-11-06",
+    "description": "もう１品にどーぞ♪厚揚げのお手軽料理♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "〇味噌（合わせ味噌・白味噌）",
+            "quantity": "大2"
+        },
+        {
+            "name": "〇白出汁",
+            "quantity": "小1"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "〇は溶き合わせておく",
+        "フライパンにゴマ油を引いて厚揚げを焼いておく",
+        "2をフライパンから取り出して、1+チーズ+ネギを乗せていきオーブントースターでチーズが溶けるまで焼いて出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2870566",
+    "advice": "☆味噌はたっぷり目に塗るほうが美味しいです♪☆チーズも沢山のほうが美味しいので、厚揚げは大きい物を使うとたっぷり乗せれます♪",
+    "history": "厚揚げを使ったお料理のリクエストがあったので考えました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ 味噌 チーズ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/2870566/100x141c/8be8001a3b0e2d7e75d45709b11c7837.jpg?u=5437089&p=1415193749"
+}

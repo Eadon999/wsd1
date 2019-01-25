@@ -1,0 +1,61 @@
+{
+    "name": "簡単☆帆立の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/2524461/464x260/b4e21d4db80b7adcbc8be65d662122c7.jpg?u=7167639&p=1393601315",
+    "datePublished": "2014-03-01",
+    "description": "2015・12・26話題入り♬ 感謝です♡帆立が手に入ったら、簡単だから作ってみて…バターの風味と照りが たまらない",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "帆立(大粒)",
+            "quantity": "６個"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１/2"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "バター(仕上げ用)",
+            "quantity": "５ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "帆立はキッチンペーパーで水分を拭き取っておきます。",
+        "フライパンにサラダ油を熱して①の帆立を両面薄く焦げ目がつくまで焼きます。",
+        "②に◎の調味料を入れ帆立に絡めていきます。\n",
+        "水分が無くなってきたら最後にバターを絡めれば完成です！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2524461",
+    "advice": "",
+    "history": "スーパーで帆立が特売していたので、思わず手が伸び買ってしまい、家族が好きな照り焼きを作ったら美味しかったのでレシピUPしました。(^^♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "帆立 照り焼き",
+        "ホタテ てりやき"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2524461/100x141c/ba94046a488db3c311c5307dc784edb3.jpg?u=7167639&p=1393601315"
+}

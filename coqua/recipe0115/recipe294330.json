@@ -1,0 +1,63 @@
+{
+    "name": "手羽元とゆで卵の旨煮",
+    "author": {
+        "@type": "Person",
+        "name": "もい吉"
+    },
+    "image": "https://img.cpcdn.com/recipes/294330/464x260/bf2e0c45f2c3cdd9b7047d5ce8542db9.jpg?u=309299&p=1214213918",
+    "datePublished": "2006-11-19",
+    "description": "お酢で煮込んでいるのでとっても柔らか・・・でも酸っぱくない！！にんにく＋お醤油味でこってり濃厚。ご飯のおかずにもってこいです！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏の手羽元",
+            "quantity": "６本"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２～２半"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２～３"
+        },
+        {
+            "name": "酢",
+            "quantity": "大３"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小２"
+        },
+        {
+            "name": "水",
+            "quantity": "ひたひた"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に全ての材料＆調味料を入れ、落し蓋をして中～弱火でコトコト煮ます。\r\n途中アクが出たらすくい取ります。",
+        "手羽元に味が染み込み、煮汁が1/3位になったら火力を上げて時々鍋返しをしながら煮汁を煮詰めます。",
+        "煮汁が少なくなり照りが出たら完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "294330",
+    "advice": "お酢効果でお肉がとっても柔らかく仕上がります。でもお酢の酸っぱさはまったく残りませんのお酢嫌いさんでもご安心を！",
+    "history": "母がよく作ってくれた「お酢煮」をアレンジ。ニンニクをプラスして一層ご飯に合う味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元 酸っぱくない"
+    ],
+    "tsukurepo_count": "455",
+    "thumbnail": "https://img.cpcdn.com/recipes/294330/100x141c/2f3eaf92dd73bc927abe8da26a027b3b.jpg?u=309299&p=1214213918"
+}

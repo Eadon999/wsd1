@@ -1,0 +1,79 @@
+{
+    "name": "【農家のレシピ】春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1924426/464x260/09fe9dce8c2109f82824e1cd76b660df.jpg?u=2513693&p=1345377520",
+    "datePublished": "2012-08-21",
+    "description": "春雨にウインナーの味がしっかり出たコンソメスープを染み込ませサラダにしました。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり（細切り）",
+            "quantity": "2分の１本（５０ｇ）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "緑豆春雨（半分に切る）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ウインナー（細切り）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ニンジン（細切り）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "固形コンソメ（細かく刻む）",
+            "quantity": "１個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリに塩をまぶし3分置き水気をしぼっておきます。",
+        "フライパンに【B】を入れ中火で煮たたし、【A】を入れ汁気がなくなるまで煮ます（約４～5分）",
+        "②をバッドなどに広げサラダ油をまぶし冷まし、①と【C】を混ぜいれ完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1924426",
+    "advice": "・春雨は戻さず使います。・コンソメでニンジンを煮ているので、ニンジン嫌いのお子さんでも食べれると思いますよ。",
+    "history": "春雨にしっかり味を染み込ませたかったのでコンソメで煮ました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "サラダ油",
+        "塩",
+        "緑豆春雨"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1924426/100x141c/c6aad79fe8465b73c160f858a6834bc9.jpg?u=2513693&p=1345377520"
+}

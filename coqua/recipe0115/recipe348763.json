@@ -1,0 +1,66 @@
+{
+    "name": "簡単☆こっくり大根ゴマ味噌バター焼き",
+    "author": {
+        "@type": "Person",
+        "name": "れなぼうず"
+    },
+    "image": "https://img.cpcdn.com/recipes/348763/464x260/49612a6eb7163f5c0625b7cff9168cb4.jpg?u=208881&p=1214215119",
+    "datePublished": "2007-03-23",
+    "description": "簡単に出来るこっくりとおいしい大根のステーキです。ごはんも進みます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "15cmくらい"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "バター",
+            "quantity": "大1"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大1"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は厚さ1.5cm位の輪切りにして味がしみ込みやすいように表面に十文字に包丁を入れだし汁で柔らかくなるまで煮る。",
+        "味噌、みりん、砂糖、酒、すりゴマを混ぜ合わせる。",
+        "フライパンを熱してバターを入れ、味のしみた大根を焦げ目がつくまで焼き、最後に2を回しかけ仕上げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "348763",
+    "advice": "バターの優しい風味が子供にも受けています。",
+    "history": "大根1本買うとなかなか使い切れないので、煮たものをストックしておき色々とアレンジして食べています。レシピID:345777とレシピID:349707とレシピID:356762他バージョンも載せています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "味噌",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/348763/100x141c/cbdf65e3a46c607740e1b51d9712fd5b.jpg?u=208881&p=1214215119"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "簡単！甘くておいしい照り焼き豆腐♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/906826/464x260/3f60357f0589f866bc7d2b7f58543092.jpg?u=603745&p=1447768430",
+    "datePublished": "2009-09-08",
+    "description": "お豆腐あればすぐできる！！甘～い照り焼きがご飯にも合います。簡単に作れるので試してみてくださいね!!",
+    "recipeYield": "8切れ",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１/２丁"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を1cmくらいの厚さに切ります。",
+        "キッチンペーパーで軽く水気を切ります。",
+        "フライパンにキッチンペーパーで軽く油を引いて焼いていきます。",
+        "軽く焼き目を付けてください。",
+        "☆の材料を混ぜ合わせます。",
+        "フライパンに加えてひと煮立ちさせます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "906826",
+    "advice": "好みで七味をちょっとだけ混ぜるとピリ辛で大人の味に☆",
+    "history": "もう1品ほしいな～って時に、豆腐を使って簡単なものを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "醤油",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/906826/100x141c/5155e974aafe1efbc6ee88d10c4ff394.jpg?u=603745&p=1447768430"
+}

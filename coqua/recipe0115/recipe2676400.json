@@ -1,0 +1,60 @@
+{
+    "name": "簡単♪キャベツ&卵のオイスターマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "♡シャルトリュー♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2676400/464x260/fbdbd3b1691df357ef8777e6338f0b30.jpg?u=9570458&p=1403138194",
+    "datePublished": "2014-06-19",
+    "description": "おかずが足りないかな…って時に簡単スピーディーな一品。オイスターソースとマヨネーズ味がご飯に合います♪",
+    "recipeYield": "2〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4〜5枚"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "大1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをザク切り、エリンギは縦に薄切りにする。卵は溶いておく。",
+        "卵を焼く。大きく混ぜて半熟くらいで皿に移しておく。",
+        "キャベツとエリンギを炒める。火が通ったら、②の卵を戻す。",
+        "塩胡椒、オイスターソース、マヨネーズを入れて軽く炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2676400",
+    "advice": "野菜は何でもokです、豚肉、イカなど入れても美味しいです♪マヨネーズの量はお好みで調整して、どうぞ。",
+    "history": "冷蔵庫の残り野菜の消費に。普段作る野菜炒めにマヨネーズを加えてみたら美味しかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ キャベツ 卵"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/2676400/100x141c/15a75d5dd800c4bc4567a3b5ec0281e8.jpg?u=9570458&p=1403138194"
+}

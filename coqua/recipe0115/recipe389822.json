@@ -1,0 +1,60 @@
+{
+    "name": "親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "ぷりマン"
+    },
+    "image": "https://img.cpcdn.com/recipes/389822/464x260/c9ae03ec41309c3cf95a9c32fea11631.jpg?u=275253&p=1214216404",
+    "datePublished": "2007-06-20",
+    "description": "とろ～り半熟タマゴと甘辛タレ！！食べ過ぎ注意デス*ﾟoﾟ)ﾉ*ﾟoﾟ)ﾉ*ﾟoﾟ)ﾉ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（モモorささみ）",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "３～４個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "みりん",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1/2～大１"
+        },
+        {
+            "name": "水＋出しの素",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉・玉ねぎを適当な大きさに切ります。みりんを鍋で煮切り、砂糖・醤油・だし汁を加えてます。",
+        "ひと煮立ちしたら、玉ねぎ・鶏肉を加えます。中火～弱火で鶏肉に火を通します。",
+        "卵を軽く割りほぐし、火を強めてから加えます。ここで混ぜない！！半熟状態に仕上げて出来上がり～☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "389822",
+    "advice": "手順２で、あまり煮立たせると、味が濃くなり過ぎます。卵は軽くほぐすぐらいでOK～☆鶏肉は大きく切ると火が通りにくいので注意☆",
+    "history": "何度か作って、コレに落ち着きました(●´ω｀●) ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 甘辛タレ",
+        "親子丼"
+    ],
+    "tsukurepo_count": "4691",
+    "thumbnail": "https://img.cpcdn.com/recipes/389822/100x141c/8d2df18c6f87f9573e6944ec8b219edd.jpg?u=275253&p=1214216404"
+}

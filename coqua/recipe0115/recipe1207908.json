@@ -1,0 +1,56 @@
+{
+    "name": "絶対おいしい☆あさりの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "yumechoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/1207908/464x260/715ab55fb5c07159320f625f8ef2322d.jpg?u=2429512&p=1281444502",
+    "datePublished": "2010-08-10",
+    "description": "　＊５月１１日話題入り＊感謝です☆私が大好きなレシピ！絶対おいしいから一度作ってみてください！ごはんどんどんが進みます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "あさり(むき身）",
+            "quantity": "７００ｇ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "　下準備 \r\n　あさりが冷たい\r\n場合、少しあたためておく",
+        "　☆の材料を鍋に\r\n入れ、煮立ったら\r\nあさりを加える",
+        "　クッキングシートで落としぶたをする\r\nこのとき中心に＋の切り込みを入れておくそして、10分煮る",
+        "　一度味をみる \r\n（詳しくはコツ・ポイントで確認してください） \r\n　また5分煮たら \r\n完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1207908",
+    "advice": "　４のとき、甘かったらしょうゆを、辛かったらみりん又は酒を加えてください",
+    "history": "　私が大好きなレシピです！いつも作ってもらってすぐおかわり・・・おばあちゃんに教えてもらいました。ぜひつくってみてください！！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり 佃煮"
+    ],
+    "tsukurepo_count": "169",
+    "thumbnail": "https://img.cpcdn.com/recipes/1207908/100x141c/f75f8bcb1f44514df18ef1fab366180c.jpg?u=2429512&p=1281444502"
+}

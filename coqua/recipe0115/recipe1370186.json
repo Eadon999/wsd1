@@ -1,0 +1,62 @@
+{
+    "name": "アボカドとかにかまの冷や奴",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1370186/464x260/4d7b429555f79610cdfa11c263ba3004.jpg?u=1194496&p=1513802597",
+    "datePublished": "2011-02-23",
+    "description": "ねっとりアボカドとお豆腐ってすごい合いますよね～",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "３，４本"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "半分"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "３分の１本"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白すりごま、醤油",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "砂糖、だし汁",
+            "quantity": "各大さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を軽く水切りする。かにかまをほぐし、アボカドは１㌢角に切りレモン汁にからめる。キュウリは１㌢角に切っておく。",
+        "器にごまだれの材料を混ぜ合わせておく。",
+        "お豆腐を適当な大きさに切って器に盛り、かにかま、アボカド、キュウリを合わせてのせ、ごまだれをかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1370186",
+    "advice": "特にありません",
+    "history": "大好きなアボカドとかにかまで何かできないかと思って。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "かにかま",
+        "アボカド",
+        "キュウリ"
+    ],
+    "tsukurepo_count": "123",
+    "thumbnail": "https://img.cpcdn.com/recipes/1370186/100x141c/4f1ffb21c5f1c35728461a8ced83f20c.jpg?u=1194496&p=1513802597"
+}

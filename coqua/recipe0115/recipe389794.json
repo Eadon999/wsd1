@@ -1,0 +1,47 @@
+{
+    "name": "✿鮭わかめおにぎり✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/389794/464x260/a42732ff8e019c8679c719b16c8ccfae.jpg?u=271833&p=1253695725",
+    "datePublished": "2007-06-15",
+    "description": "鮭とわかめは相性抜群♪とっても美味しいおにぎりです❤",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗一膳半"
+        },
+        {
+            "name": "鮭フレーク",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "わかめご飯の素",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全部ボウルなどに入れて混ぜ合わせ、おにぎりします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "389794",
+    "advice": "ラップを使って形成すると作りやすいです♪",
+    "history": "大好きなわかめご飯に鮭フレークも加えておにぎりにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "鮭フレーク",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/389794/100x141c/60d1740604b5d944b4374e0a8a91a051.jpg?u=271833&p=1253695725"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "夏！簡単！万能ごまだれ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆぅぷん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1490050/464x260/e62be8c54cf3006338ca0e1370def8af.jpg?u=2018563&p=1339084294",
+    "datePublished": "2011-07-07",
+    "description": "まさかの２００レポ感謝感激です！サラダ、冷奴、冷やし中華、冷しゃぶ…何にでも合います。",
+    "recipeYield": "1食分",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ、白ごま、みりん",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "醤油、酢、和風だしの粉",
+            "quantity": "各小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全てよく混ぜて完成。",
+        "ごまだれを使ったサラダです。（レシピID:1490057）",
+        "棒棒鶏にも使えます。（レシピID:1506488）",
+        "ごま味噌だれ　もあります。（レシピID:1529385）",
+        "玉ねぎとツナのゴママヨサラダです。（レシピID:1472351）",
+        "ヨーグルトベースのまろやかなスパイシーソースです。\n（レシピID:1854160）"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1490050",
+    "advice": "",
+    "history": "夏野菜をたっぷり食べられるごまだれを作りました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "万能ごまだれ"
+    ],
+    "tsukurepo_count": "270",
+    "thumbnail": "https://img.cpcdn.com/recipes/1490050/100x141c/00b95b0f4ab81afb7401df777a52d9ea.jpg?u=2018563&p=1339084294"
+}

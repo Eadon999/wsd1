@@ -1,0 +1,75 @@
+{
+    "name": "水菜とクリームチーズのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "モンプチっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/1146806/464x260/8dc0c6f470144d3fcc2e18346708e369.jpg?u=470523&p=1338555838",
+    "datePublished": "2010-06-04",
+    "description": "しゃきしゃきの水菜がクリームチーズとよく合います。 キッチンを再開して、再掲載したレシピです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "2～3株"
+        },
+        {
+            "name": "バジル",
+            "quantity": "5枚"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "60グラム"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を洗って、２センチに切る。トマトは一口大の乱切りに。バジルは千切りにする。",
+        "ボールにドレッシング用の調味料をあわせる。",
+        "ドレッシングにバジルを混ぜる。",
+        "クリームチーズをまぜる。",
+        "トマトを入れまぜ、水菜を加えてまぜる。",
+        "できあがり",
+        "※　ドライバジルでも美味しく作れます。生バジルを使った場合と、一味違って、良いと思います。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1146806",
+    "advice": "混ぜる順番がポイントです。この順番で混ぜてください。味がよくからみます。",
+    "history": "水菜が美味しく食べたくて考えました。サラダレシピの一つです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜クリームチーズサラダ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1146806/100x141c/5a87c15ea6f28e5989b1d3e0ff8b6cde.jpg?u=470523&p=1338555838"
+}

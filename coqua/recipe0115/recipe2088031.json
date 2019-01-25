@@ -1,0 +1,62 @@
+{
+    "name": "ごま油でシラス炒飯",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2088031/464x260/1dc57b8123bc50842aab24d4023c6648.jpg?u=2124468&p=1358568428",
+    "datePublished": "2013-01-19",
+    "description": "とっても簡単。3分ほどでできます。焦げた醤油とごま油の香りが食欲をそそります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "シラス",
+            "quantity": "大さじ山盛り3"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "180g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "刻みネギ（炒め用）",
+            "quantity": "大さじ山盛り3"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "濃い口醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "刻みネギ（トッピング用）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま油を熱したフライパンに卵を投入し、手早くかき混ぜる。",
+        "温かいご飯とシラスを加えて炒める。",
+        "醤油を加えて全体になじませる。",
+        "ネギを加えて混ざればできあがり。\nお皿に盛って、ネギを散らしてどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2088031",
+    "advice": "",
+    "history": "あっさりとした炒飯が食べたい。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": [
+        "しらすチャーハン 4位"
+    ],
+    "related_keywords": [
+        "しらす 炒飯"
+    ],
+    "tsukurepo_count": "329",
+    "thumbnail": "https://img.cpcdn.com/recipes/2088031/100x141c/d035c23e7175d1e666a48fdb7c2f623d.jpg?u=2124468&p=1358568428"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "水菜と豆腐の＊お味噌汁＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/318958/464x260/32a317c0db0ee65709c578e460057758.jpg?u=239563&p=1214214471",
+    "datePublished": "2007-01-15",
+    "description": "冷蔵庫の中でしんなりしてきた水菜を救済！美味しいお味噌汁に変身させちゃいましょう（＾＾）ノ",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "４～５束"
+        },
+        {
+            "name": "豆腐（絹ごし）",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２．５　カップ"
+        },
+        {
+            "name": "油揚げ（あれば）",
+            "quantity": "適量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は５cmくらいの長さに切る。",
+        "だし汁が沸騰したら水菜を入れ、３０秒くらいしたら、火を弱め味噌を溶いて角切りにした豆腐を入れて出来上がり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "318958",
+    "advice": "水菜はさっと煮るくらいでＯＫです♪",
+    "history": "冷蔵庫に余っていた水菜を救おうとお味噌汁にしてみました♪水菜は生でも大丈夫だし食感がいいです（＾＾）ｖｖ",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 みそ汁"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/318958/100x141c/960c9c679e9317f032685b47332fcb3e.jpg?u=239563&p=1214214471"
+}

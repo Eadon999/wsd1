@@ -1,0 +1,50 @@
+{
+    "name": "水菜のごまあえ★レンジで簡単",
+    "author": {
+        "@type": "Person",
+        "name": "ふぅたろん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1362712/464x260/e674c4189f44f9f2314ca37e8690d070.jpg?u=2864285&p=1412548800",
+    "datePublished": "2011-02-16",
+    "description": "レンジでチンして、あえるだけ。もう一品・・・って時にサッと作れます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1～"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1～"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は5cmくらいのざく切りにする。\nラップをかけてレンジでチン（500wで約2分）。",
+        "水菜がしんなりしたら、水気をぎゅっとしぼり、すりごまと醤油と砂糖をあえる。",
+        "冷蔵庫で冷まして盛り付けたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1362712",
+    "advice": "チンしすぎない方が水菜の食感が残って良いと思います。味付けの分量は、様子を見ながら調節してください。",
+    "history": "水菜が好きなので、お手軽レシピを考えました。チンしてかさが減るので水菜がいっぱい食べられます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "すりごま",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1362712/100x141c/754831e1bd29e98964be755987e9d148.jpg?u=2864285&p=1412548800"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "はんぺんとキュウリのわさびマヨ☆サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ふっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/384477/464x260/9bdd2338a1611d5e7eb9b5b0550bdfa6.jpg?u=312454&p=1214216294",
+    "datePublished": "2007-06-05",
+    "description": "ふわふわのはんぺんが美味しいです。わさびマヨネーズが良く合います♪",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "はんぺん",
+            "quantity": "１～２枚"
+        },
+        {
+            "name": "油（炒め用）",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは薄い輪切りにし塩もみをして水気を搾っておきます。",
+        "はんぺんはサイコロ形に切ります。油をひいたフライパンで焦げ目が少々付くように焼き醤油少々、回し入れ下味をつけます。冷ましておきましょう～",
+        "マヨネーズにお好みの分量のわさびを混ぜ合わせます。食べる直前にきゅうり・はんぺんを加え混ぜ合わせたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "384477",
+    "advice": "キュウリはよく搾り、はんぺんは冷ましてから混ぜ合わせてください。わさびを多めに入れると大人向きで美味しいですよ。",
+    "history": "姉に教えてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん サラダ",
+        "はんぺん サラダ きゅうり"
+    ],
+    "tsukurepo_count": "154",
+    "thumbnail": "https://img.cpcdn.com/recipes/384477/100x141c/c314bad367f5d86ab0b807d595e27238.jpg?u=312454&p=1214216294"
+}

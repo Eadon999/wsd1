@@ -1,0 +1,51 @@
+{
+    "name": "つるつるレシピ！『なめこと長芋』",
+    "author": {
+        "@type": "Person",
+        "name": "つちかな"
+    },
+    "image": "https://img.cpcdn.com/recipes/1618350/464x260/abcbb63e5318653172b655435c71649c.jpg?u=3167869&p=1320407483",
+    "datePublished": "2011-11-04",
+    "description": "うぅ～ん♬つるつるいっちゃって下さい！そのままでも麺類・ごばんにのっけてもイケるよ♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "なめこ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "長芋",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "麺つゆ（3倍濃縮）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "生姜のすりおろし（チューブ）",
+            "quantity": "5ｃｍ～10ｃｍ"
+        },
+        {
+            "name": "ねぎの小口切り",
+            "quantity": "お好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "ザルになめこを入れて、サッと水洗いをする。\n長芋は皮を剥いてすりおろす。",
+        "鍋になめこと麺つゆと生姜のすりおろしを入れて火にかける。ふつふつしてきたら火を止めて冷ます。",
+        "②におろした長芋を加えてよく混ぜ合わせる。器に流し入れてねぎを散らして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1618350",
+    "advice": "",
+    "history": "大好きな「なめこ」を使って他の料理で余った長芋とドッキングレシピ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/なめこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめこ 長芋"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1618350/100x141c/57b84a497f91e0b9a1abb6a5c0355a85.jpg?u=3167869&p=1320407483"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "ネギ汁",
+    "author": {
+        "@type": "Person",
+        "name": "＊ことり＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/941613/464x260/7ec296d909f22dc6455e7687e2ee11ca.jpg?u=1505794&p=1255951381",
+    "datePublished": "2009-10-19",
+    "description": "2011/4/8話題入り♪感謝です❤たっぷりのネギと油揚げのうまみが出て絶妙な味になります。うちの定番の汁です。 ",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "和風　つゆ　（三倍濃縮）",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "水",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "半丁"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水、和風つゆ、みりんを入れて沸騰させる。",
+        "長ネギ、油揚げを薄切りに、豆腐を好みの大きさに切る。",
+        "沸騰したら油揚げ、豆腐を入れ２分位煮る。",
+        "最後にネギを入れて１分火を通しふたをして火をとめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "941613",
+    "advice": "ネギはすぐ火が通るので気持ちほど火を通して、あとは蓋をしたら余熱で仕上げるとネギの歯ごたえが残ります。",
+    "history": "寒い季節になってきたのでネギたっぷりで体を温めるために。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネギ汁"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/941613/100x141c/b29a7ed92e7d9cd5d563e8384cd53d2a.jpg?u=1505794&p=1255951381"
+}

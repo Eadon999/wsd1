@@ -1,0 +1,51 @@
+{
+    "name": "おくらとツナのマヨ醤油あえ",
+    "author": {
+        "@type": "Person",
+        "name": "Himi♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1866954/464x260/0bda6a79ba9a9788b23812427719ca39.jpg?u=2523795&p=1340885534",
+    "datePublished": "2012-06-28",
+    "description": "おくらとツナ缶の簡単な和え物です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "１３本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラはしっかりと洗い、薄切りにする。\n\n",
+        "ツナ缶は油を切ってボウルにオクラと混ぜる。\n\n",
+        "先にマヨネーズとしょう油を混ぜておきそれを２の中に入れ混ぜ合せる",
+        "器に盛ったら出来上がり。\n\n\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1866954",
+    "advice": "一品足りない時にササッと作れるレシピです。しょう油はだし醤油でもポン酢でも美味しいですよ！七味を入れるとまた違った美味しいさがあります。",
+    "history": "生い立ちというか…昔から作っていたレシピでレシピというか…なんというか…(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら",
+        "ツナ缶",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1866954/100x141c/51e076564caf5e5a7cafe9606b7f095b.jpg?u=2523795&p=1340885534"
+}

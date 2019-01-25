@@ -1,0 +1,63 @@
+{
+    "name": "風邪をひいたら・・・卵雑炊",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃん蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1582210/464x260/d956ffae59a16a65c437746059b9637a.jpg?u=463805&p=1319726688",
+    "datePublished": "2011-09-29",
+    "description": "とっても優しい味でした(●´—｀●)そしてすぐできます。",
+    "recipeYield": "４人分たっぷり",
+    "recipeIngredient": [
+        {
+            "name": "冷やご飯",
+            "quantity": "茶碗４杯"
+        },
+        {
+            "name": "白ねぎ（ねぎ）",
+            "quantity": "お好みで　たっぷり"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "★水",
+            "quantity": "１リットル"
+        },
+        {
+            "name": "★白だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に★の材料を入れ、煮立たせ、ご飯を入れほぐし、しょうが、ねぎを入れ、しばらく煮る。",
+        "２～３分煮たら、卵を割りいれ（しっかりほぐす）、一かき混ぜしたら、蓋をして５分ほど蒸らして出来上がり～♪",
+        "お好みで、きざみねぎ、ゴマなどをのせてもおいしいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1582210",
+    "advice": "薄味だと思うので、お好みで塩など足してください。　　",
+    "history": "風邪気味の時に作ってくれました～",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "雑炊 白だし"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1582210/100x141c/c878777ee47acf0df460d2fa2872b79e.jpg?u=463805&p=1319726688"
+}

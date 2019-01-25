@@ -1,0 +1,89 @@
+{
+    "name": "1人分　ナポリタン",
+    "author": {
+        "@type": "Person",
+        "name": "jun120121"
+    },
+    "image": "https://img.cpcdn.com/recipes/2419475/464x260/45102f0097feb1cb9f167ac01f57e96b.jpg?u=3907799&p=1385808621",
+    "datePublished": "2013-11-30",
+    "description": "豚ひき肉がおいしい　ちょっと甘めのナポリタンです",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "スパゲティ",
+            "quantity": "100g"
+        },
+        {
+            "name": "塩（茹で用）",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "----------",
+            "quantity": "----------"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "70g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "五香粉",
+            "quantity": "ほんの少し"
+        },
+        {
+            "name": "----------",
+            "quantity": "----------"
+        },
+        {
+            "name": "粉チーズ・タバスコ・パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "1リットルの水に塩小さじ2を加えスパゲティを茹でます",
+        "玉ねぎピーマンを薄切りに、にんにくをみじん切りにします",
+        "サラダ油でにんにく、豚ひき肉、玉ねぎを炒め、火が通ったらピーマンと調味料を加えます",
+        "調味料が煮立ったらスパゲティを加え、炒め合わせます",
+        "お好みでタバスコ、粉チーズ、パセリをふりかけて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2419475",
+    "advice": "豚ひき肉と五香粉がポイントです",
+    "history": "ちょこちょこ変えながら作っているうちにできたレシピです",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/ナポリタン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナポリタン 1人分"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2419475/100x141c/38591de4ac3591d853a110397224df5d.jpg?u=3907799&p=1385808621"
+}

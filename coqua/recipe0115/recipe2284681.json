@@ -1,0 +1,50 @@
+{
+    "name": "麩と三つ葉の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2284681/464x260/90bb3f12a16214e18b6d91e697f3c806.jpg?u=4819316&p=1373638740",
+    "datePublished": "2013-07-13",
+    "description": "14/2/8話題入りしました、シンプルです、これが日本の味だと思います。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "麩",
+            "quantity": "４～６個"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "麩は水かぬるま湯で戻し、軽く絞って水気を切る",
+        "鍋にだし汁を沸騰させ、そこに味噌を溶く",
+        "麩を入れたお椀に味噌だしを入れて３センチ長さに切った三つ葉を散らして出来上がり"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2284681",
+    "advice": "別に難しいことはないでしょう",
+    "history": "三つ葉を１束買ったらたくさんあって、とにかく使うメニューを考えました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麩",
+        "三つ葉",
+        "みそ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2284681/100x141c/14eab38a1fd451d06f7b42f8e3e9df3c.jpg?u=4819316&p=1373638740"
+}

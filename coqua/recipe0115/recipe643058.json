@@ -1,0 +1,65 @@
+{
+    "name": "きゅうりとわかめのピリ辛和え",
+    "author": {
+        "@type": "Person",
+        "name": "ベリーA"
+    },
+    "image": "https://img.cpcdn.com/recipes/643058/464x260/4f323b7700395f09a1324cabce91a909.jpg?u=975343&p=1461472966",
+    "datePublished": "2008-09-11",
+    "description": "話題入りありがと♡　ピリ辛だれは、食材を変えても使えるので便利です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆豆板醤",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめを戻します。\r\nきゅうり、ちくわは薄切りにします。",
+        "☆で和えます"
+    ],
+    "cookTime": null,
+    "recipe_id": "643058",
+    "advice": "ちょっと濃いかな？かけすぎに注意してください。",
+    "history": "副菜にちょっと辛いものでアクセントをつけたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥わかめ",
+        "きゅうり",
+        "ちくわ",
+        "酢"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/643058/100x141c/c850b6034708f18e287ebd1cc8f095dc.jpg?u=975343&p=1461472966"
+}

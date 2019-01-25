@@ -1,0 +1,58 @@
+{
+    "name": "きのこのマスタードマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "ペコのかあちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/265229/464x260/8ba236c2c23c3b8e1b1e9a1e66dd54e7.jpg?u=244884&p=1214213272",
+    "datePublished": "2006-07-06",
+    "description": "大好きマリネをちょっとアレンジ。マスタードのほろ苦さが何ともいえず。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "きのこ色々",
+            "quantity": "３パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ１～１．５"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/３～１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "保存容器に調味料を全て入れ合わせておく。",
+        "お好みのきのこをサッと茹でる。",
+        "水分を切ったきのこを調味料の入った保存容器に入れ、粗熱が取れたら冷蔵庫へ。２～３時間で完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "265229",
+    "advice": "きのこはお好みで。今回はしめじ２パックとブナピー１パックで作りました。作った当日より１日置いたくらいの味が私は好きです。",
+    "history": "鷹の爪の代わりにマスタードを入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "調味料",
+        "醤油",
+        "酢",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/265229/100x141c/64540648c37d6bd19dba1235f388686b.jpg?u=244884&p=1214213272"
+}

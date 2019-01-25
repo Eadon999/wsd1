@@ -1,0 +1,63 @@
+{
+    "name": "豆乳味噌チーズご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/439903/464x260/ba1cff92b4b1b31692ea184b768b08c8.jpg?u=54489&p=1214217410",
+    "datePublished": "2007-10-08",
+    "description": "朝食に、ちょっと小腹が空いた時に簡単にできて体に嬉しい豆乳ご飯です (~ー~*)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１００～１５０ｇ（食べたい量だけ）"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "┌豆乳",
+            "quantity": "２００ｍｌ"
+        },
+        {
+            "name": "└だし汁",
+            "quantity": "１００ｍｌ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "万能ねぎの小口切り",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "溶いた卵にご飯とチーズをよく混ぜ合わせておく。",
+        "鍋にＡを煮立て味噌を溶かす。",
+        "2の鍋に1を加え、チーズが溶けて卵が固まってきたら軽くかき混ぜる。※卵の加減はお好みで。",
+        "器にそそぎ、万能ねぎをふりかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "439903",
+    "advice": "卵を混ぜておじやのような仕上がりになるのがポイント。",
+    "history": "豆乳ご飯はたまに食べるんだけどほんと美味しい！私はご飯少なめで食べます♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "卵",
+        "ピザ用チーズ",
+        "味噌"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/439903/100x141c/7e89dfc2dc346f341de3c44354abc928.jpg?u=54489&p=1214217410"
+}

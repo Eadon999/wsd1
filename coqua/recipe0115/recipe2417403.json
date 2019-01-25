@@ -1,0 +1,59 @@
+{
+    "name": "砂肝ともやしの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "saassa"
+    },
+    "image": "https://img.cpcdn.com/recipes/2417403/464x260/fc1b7f0ee514d3ad9ef1ee92d09b0bac.jpg?u=4984589&p=1385379533",
+    "datePublished": "2013-11-27",
+    "description": "とにかく簡単！あっという間に出来ますよ☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "砂肝",
+            "quantity": "200g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "好みの油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "好きな量"
+        },
+        {
+            "name": "細ねぎ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "砂肝を食べやすい大きさに切り、油を敷いたフライパンで炒める。",
+        "砂肝の色が変わったら、料理酒を加え、蓋をして２分蒸し焼きにする。",
+        "蓋をとり、もやしと塩・胡椒を入れ、全体をざっと炒める。味見をして完成！",
+        "トッピングで細ねぎをのせると綺麗ですよ！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2417403",
+    "advice": "特にありません。塩加減はお好みでどうぞ！",
+    "history": "砂肝を買った時、幼いころ、父親が炒めていたのを思い出し自己流にアレンジしました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/砂肝"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "砂肝",
+        "もやし",
+        "料理酒",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2417403/100x141c/b4b40637eb3bfc6422f296af1b8e61c6.jpg?u=4984589&p=1385379533"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "しいたけと長ネギの中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1788588/464x260/361570b0c4f63a99563b9137ed1c2d6d.jpg?u=2513693&p=1335099792",
+    "datePublished": "2012-04-24",
+    "description": "旨みの多いしいたけと長ネギを使った中華スープです。　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "3分の１本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "２～３個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "１２ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは斜め薄切り、しいたけは石づきを取り薄切りにしておきます",
+        "鍋にごま油を熱し、長ネギをしんなりするまで炒め、次にしいたけを入れさっと炒めたあと、【A】を入れ煮立ったら完成です。",
+        "お好みでラー油を少しかけてどうぞ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1788588",
+    "advice": "",
+    "history": "色んなきのこでスープを作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長ネギ",
+        "しいたけ",
+        "ごま油",
+        "ラー油"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1788588/100x141c/d20dec032ce15e08673e3ba4f1c6d0d8.jpg?u=2513693&p=1335099792"
+}

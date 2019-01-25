@@ -1,0 +1,53 @@
+{
+    "name": "全部まとめてこんにゃくの田楽 ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/293105/464x260/21ef49123c6e2731db317dd324135f3f.jpg?u=57297&p=1214213893",
+    "datePublished": "2006-10-23",
+    "description": "美味しい簡単田楽、お勧めだよ♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "1丁"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙2.5～３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "刻み葱",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくは小さくダイスに切って塩少し入れて茹でます。水気を切って味噌と和えます。",
+        "タレ：味噌大匙1.5、砂糖大匙2.5、醤油小匙２ \r\nタレが固くても大丈夫、熱いこんにゃくと和えると水分出てきます。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "293105",
+    "advice": "こんにゃくは小さく切った方が味が絡みやすいです",
+    "history": "いっぺんに出来て皆で摘めます。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": [
+        "こんにゃく田楽 8位"
+    ],
+    "related_keywords": [
+        "こんにゃく 田楽"
+    ],
+    "tsukurepo_count": "185",
+    "thumbnail": "https://img.cpcdn.com/recipes/293105/100x141c/e6fa4ae0b367e3333249a7fa4e2761e4.jpg?u=57297&p=1214213893"
+}

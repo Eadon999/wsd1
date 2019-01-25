@@ -1,0 +1,78 @@
+{
+    "name": "ごま味噌肉汁つけうどん",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/876510/464x260/ef3da7b6c31bd0af32bcb05feb358839.jpg?u=1423987&p=1249557492",
+    "datePublished": "2009-08-06",
+    "description": "ごま味噌味の肉汁うどんです。麺がどんどん食べられちゃう美味しい漬け汁（温）です。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "15cm位"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "●練り白ごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "少々"
+        },
+        {
+            "name": "うどん",
+            "quantity": "2～3人分"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は3～5cm位の幅に切る。長ネギは1.5cm位のぶつ切りにする。 \r\n鍋に●の材料を煮立て胡麻味噌スープを作る。",
+        "1の鍋に切っておいた豚肉と長ネギを加え、軽く煮立たせる。 \r\n",
+        "温かいつゆにラー油をたらし、冷たく締めたうどんをつけていただく。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "876510",
+    "advice": "薬味たっぷり、途中でお酢をちょっとたらしていただくのが好きです。そうめんにも合います♪",
+    "history": "武蔵野うどんにはまっていて、そして味噌味が大好きなので、胡麻などでコクを出してうどんのつけ汁にしてみようと思いました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": [
+        "つけうどん 7位"
+    ],
+    "related_keywords": [
+        "肉汁 つけうどん",
+        "つけうどん"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/876510/100x141c/714e4e79aa9e13edced680422cecb301.jpg?u=1423987&p=1249557492"
+}

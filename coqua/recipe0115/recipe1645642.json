@@ -1,0 +1,59 @@
+{
+    "name": "小松菜のツナ玉サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "karin子"
+    },
+    "image": "https://img.cpcdn.com/recipes/1645642/464x260/ff44e0873c700cfbcbfa750d498481f9.jpg?u=2745942&p=1323213224",
+    "datePublished": "2011-12-07",
+    "description": "7/10祝★つくれぽ１０人みんな大好きツナ＆卵で小松菜和え☆あと１品の彩りおかずデス♪お弁当にもＧＯＯＤです！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は３～４ｃｍに切り、電子レンジで２分程加熱する。\n（ゆでてもＯＫ）",
+        "卵を７分程ゆでて流水で冷まし、殻をむいておく。",
+        "材料を全てボウルへ入れて、卵を崩しながら全体に混ぜる。",
+        "最後に塩こしょうで味を調えたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1645642",
+    "advice": "ツナ缶はオイル漬けを使用しオイルもそのまま一緒に入れています☆ツナ缶は水煮を使うとさっぱりとした仕上がりに♪",
+    "history": "特売の小松菜と、常備しているツナ缶で、あと一品のサラダを作りました☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 サラダ",
+        "小松菜 ツナ 卵",
+        "小松菜 ツナ"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/1645642/100x141c/95f81427ceb822cf58c028f5f0b6d8e8.jpg?u=2745942&p=1323213224"
+}

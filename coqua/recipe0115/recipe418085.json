@@ -1,0 +1,62 @@
+{
+    "name": "~大根ときゅうりのさっぱり梅ドレ~",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/418085/464x260/ec8707f7a9cd4fe2d63c61f6f75f24b4.jpg?u=322945&p=1214216979",
+    "datePublished": "2007-08-21",
+    "description": "ぱぱっとできるさっぱりな一品です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "梅干（大）",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "きざみ海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根ときゅうりは薄く切り、１ｃｍ幅くらいの短冊切りにする。",
+        "梅干は種をとり、包丁の背などでたたいてボールに☆の材料も入れ混ぜておく。\r\n食べる直前に１と２を和える。刻み海苔をかけて完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "418085",
+    "advice": "１と２を和えたまま作りおきすると水がでます。食べる直前に和えてください。",
+    "history": "梅干があったので、さっぱり食べられる1品を考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "きゅうり",
+        "梅干",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/418085/100x141c/5117bbe333cca6f2d6a17eb981e9c147.jpg?u=322945&p=1214216979"
+}

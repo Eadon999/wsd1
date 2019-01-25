@@ -1,0 +1,59 @@
+{
+    "name": "失敗なしの調味料同量シリーズ！牛丼編",
+    "author": {
+        "@type": "Person",
+        "name": "sacchiん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3620300/464x260/b950b6b77d7d05c31e23540db15f3e14.jpg?u=413915&p=1452665199",
+    "datePublished": "2016-01-13",
+    "description": "フライパンでできる！大さじ3杯で失敗なし！な簡単牛丼です。ご飯ガツガツ食べれるよー",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ（中）",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆砂糖（すりきり）",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉は食べやすい大きさに切り、玉ねぎは半分に切って端から薄く切る",
+        "フライパンに☆の調味料をすべて入れて中火にかける。沸騰したら牛肉と玉ねぎを入れる",
+        "時々混ぜながら10分煮る。（汁気が少し残るくらい）"
+    ],
+    "cookTime": null,
+    "recipe_id": "3620300",
+    "advice": "玉ねぎが飴色になるまで煮るとおいしいですよ。",
+    "history": "調味料が同量だと覚えやすい＝作りやすいと思って作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛丼　失敗なし"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/3620300/100x141c/585e427848ba1fcbfcc9fd5a11580c6e.jpg?u=413915&p=1452665199"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "塩もみ♪レモンセロリン♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/270962/464x260/547fbf5d01c0c727e975ff4edad8c0e2.jpg?u=239563&p=1214213397",
+    "datePublished": "2006-08-01",
+    "description": "セロリ好きな人のための超簡単セロリレシピ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリは茎の部分の筋を取り、１０ｃｍの長さに切り、つま用千切りスライサーで細かな千切りにする。葉の部分はお好みの量を包丁で千切りにする。",
+        "ボールに①を入れ塩を少々ふって、少し置く。しんなりしたら水気を絞って、レモン果汁をふりかけ、サッと混ぜる。",
+        "お皿に盛ったら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "270962",
+    "advice": "セロリはつま用スライサーを使って細かな千切りにすると、よく味がしみて美味しさＵＰします♪",
+    "history": "ウチの家族は私以外はセロリが苦手。そんな私が自分だけのために、こっそり作り食べていた簡単にできちゃう秘密のセロリン♪です(*^。^*)美味しいですよ～♥♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "塩",
+        "レモン果汁"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/270962/100x141c/370b7dd1fa05a599c01060b34b34dc5b.jpg?u=239563&p=1214213397"
+}

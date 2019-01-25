@@ -1,0 +1,71 @@
+{
+    "name": "冬瓜のあっさり煮",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/273516/464x260/167f250acb6d9d5e85ae3442f7e1dcab.jpg?u=252604&p=1214213444",
+    "datePublished": "2006-08-12",
+    "description": "冬瓜と厚揚げとさつま揚げの煮物です。あつあつでも、冷やしても美味しいです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜（大きめ）",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "だし汁（濃いめ）",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小1強"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜の種をかきだしておきます。皮を厚めにむいて、2.5センチ角くらいに切ります。",
+        "厚揚げとさつま揚げは、お湯をかけて油抜きしてから、適当な大きさに切ります。",
+        "鍋にだし汁を入れ、火にかけます。冬瓜を加えて、７～８分ことこと煮ます。",
+        "厚揚げとさつま揚げ、☆の調味料をすべて加えて弱火でじっくり煮含めます。※塩が足りなければ足してください。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "273516",
+    "advice": "小さめの冬瓜なら1/2個くらいです。",
+    "history": "旬の冬瓜を使って、夏なのであっさりした煮物にしました。前の日に煮ておくと、味がしっかり染み込んで、さらに美味しくいただけます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "厚揚げ",
+        "さつま揚げ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/273516/100x141c/ebd8683e3e4aeda0ddacac0abc9d24b8.jpg?u=252604&p=1214213444"
+}

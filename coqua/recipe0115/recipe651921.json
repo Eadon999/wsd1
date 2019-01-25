@@ -1,0 +1,65 @@
+{
+    "name": "にんじん嫌いも絶賛！栄養満点ポタージュ",
+    "author": {
+        "@type": "Person",
+        "name": "ポヨ太"
+    },
+    "image": "https://img.cpcdn.com/recipes/651921/464x260/f82acb7369d26fcc7de32f0688644b9a.jpg?u=990636&p=1223992813",
+    "datePublished": "2008-09-24",
+    "description": "話題入り感謝♫にんじん嫌いが絶賛したポタージュです",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "◎人参 (大)",
+            "quantity": "１本"
+        },
+        {
+            "name": "◎玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "☆牛乳",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "☆水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "★バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★コンソメ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "【下準備】\n◎を適当な大きさに切って耐熱皿にのせ、ラップをして柔らかくなるまでレンジで加熱する。",
+        "【仕上げ】\n1、☆をミキサーで撹拌する。撹拌できたら鍋でかき混ぜながら3～4分温める。最後に★で味を調えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "651921",
+    "advice": "①レンジで加熱する時に少量の水をいれる②具材はこまかく切ると火の通り、撹拌も早くなります",
+    "history": "どうにか苦手な人参を食べられないものかと試行錯誤の末に完成",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "玉ねぎ",
+        "牛乳",
+        "水"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/651921/100x141c/407b8390e53ec0f1cd805cd57277cba5.jpg?u=990636&p=1223992813"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "甘酢ごぼう",
+    "author": {
+        "@type": "Person",
+        "name": "carrymomo"
+    },
+    "image": "https://img.cpcdn.com/recipes/470126/464x260/773aa5a60aa86d6fdf958fbbd42bb3bc.jpg?u=424344&p=1214217995",
+    "datePublished": "2007-12-04",
+    "description": "夫も絶賛！ぼりぼりと食べちゃいます♪食物繊維をたっぷりとりましょ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうの皮をこそげとって、短冊状に食べやすい大きさに切る。",
+        "ごま油でごぼうに火が通るまで炒める。",
+        "砂糖、醤油、酢を入れ酸味を飛ばし、火を止め、すり胡麻をあえて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "470126",
+    "advice": "あく抜きをしない方が、ごぼうの香りが良いです♪酢の量はお好みで調整して下さい。",
+    "history": "甘酸っぱいごぼうを食べたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "すり胡麻",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/470126/100x141c/5ae4b923b30b0535dfeeee0b21fdb35c.jpg?u=424344&p=1214217995"
+}

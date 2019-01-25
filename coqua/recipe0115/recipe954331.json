@@ -1,0 +1,80 @@
+{
+    "name": "一番簡単★卯の花",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/954331/464x260/9937a0fdbfbf576a9af657d9a9199703.jpg?u=1088838&p=1358405354",
+    "datePublished": "2009-11-09",
+    "description": "話題入りありがとう！フライパンであっという間に出来ちゃいます♪ぱさつかず、しっとり美味しいですよ～♪",
+    "recipeYield": "４～６人分",
+    "recipeIngredient": [
+        {
+            "name": "★生おから",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "★人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "★油揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "★水",
+            "quantity": "２５０ｍｌ"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "★塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "１５０ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに★を入れて火をつけ、よく炒める。汁気がなくなったら☆を回しかけ、程よく炒めれば完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "954331",
+    "advice": "出来上がりまであっという間なので人参は薄めに切ること。油揚げは油抜きしなくても大丈夫です。",
+    "history": "しっとり美味しい卯の花が食べたくて試行錯誤しました♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生おから",
+        "人参",
+        "油揚げ",
+        "水"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/954331/100x141c/16accd0f1a6650f1362e27bf77327d88.jpg?u=1088838&p=1358405354"
+}

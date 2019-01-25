@@ -1,0 +1,81 @@
+{
+    "name": "揚げなす丼？",
+    "author": {
+        "@type": "Person",
+        "name": "しろ次郎"
+    },
+    "image": "https://img.cpcdn.com/recipes/1633527/464x260/b89d4621f0de2c39297429ade2bd5fcf.jpg?u=3703565&p=1321857299",
+    "datePublished": "2011-11-21",
+    "description": "おばあちゃんによく作ってもらった僕の大好物(揚げなす)を丼に！ 食べてみましょうGA!",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "２本"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２杯"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大１"
+        },
+        {
+            "name": "ーあんの材料ー",
+            "quantity": "下記"
+        },
+        {
+            "name": "●和風だし",
+            "quantity": "大１"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｍｌ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "なすを半分に切って、さらに縦に切る（４～５等分）\n１６０℃くらいの油で素揚げする。",
+        "ネギは斜めに切って油で軽く炒める。",
+        "あんの材料を混ぜ、火にかける。\n水、大１で溶いた\n片栗粉でとろみを\nつける。",
+        "あんの中に、なす、ネギ、すった生姜を入れる。",
+        "ご飯の上に④を\n乗せたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1633527",
+    "advice": "●なすを素揚げするのがポイント！●お好みの具材を入れて、自己流にして作ってね！",
+    "history": "おばあちゃんによく作ってもらった僕の大好物、（揚げなす）を丼にして作りました。 生姜となすと醤油のトリプルプレイが大好きです。 食べてみましょうGA!",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "生姜",
+        "長ネギ",
+        "ご飯"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1633527/100x141c/a9612511f4920b9b7a4e9a19d532b4b7.jpg?u=3703565&p=1321857299"
+}

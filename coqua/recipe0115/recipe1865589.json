@@ -1,0 +1,55 @@
+{
+    "name": "納豆＆キムチぶっかけソバ",
+    "author": {
+        "@type": "Person",
+        "name": "amiyuiママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1865589/464x260/652d69d62449b2b5f8e75ad10af76c91.jpg?u=3404217&p=1340794854",
+    "datePublished": "2012-06-27",
+    "description": "ﾀﾞｲｴｯﾄに～～☆のせるだけ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでそば",
+            "quantity": "1袋"
+        },
+        {
+            "name": "納豆",
+            "quantity": "ミニ1カップ"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "うずら卵",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        null,
+        "そばをゆでて、冷水で冷す",
+        "そばを器に盛り、キムチ、納豆、うずらをのせ、ネギを散らして、麺つゆをかけるだけ"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1865589",
+    "advice": "のせるだけ(笑)",
+    "history": "ダイエットの為、夕飯は脱炭水化物！ボリュームある物を食べたくて♪お腹いっぱいになります＼(^o^)／",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆キムチそば"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/1865589/100x141c/eff608a86f5a792b291b7b630cb4cba1.jpg?u=3404217&p=1340794854"
+}

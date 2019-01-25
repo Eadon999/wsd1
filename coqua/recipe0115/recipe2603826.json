@@ -1,0 +1,73 @@
+{
+    "name": "エリンギと豚こまのカレー♫",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2603826/464x260/54d0fdc9f429afb7c157e8020b66fdc2.jpg?u=3540419&p=1398553068",
+    "datePublished": "2014-04-27",
+    "description": "豚こまだから時短☆エリンギの食感がおいしいカレーです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま",
+            "quantity": "150g"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "2本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "3/4個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "2かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "ローリエの葉（あれば）",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはうす切り、エリンギは一口大（縦切りか輪切り）、にんじんは1cm厚さの半月に切る",
+        "鍋を火にかけオリーブオイルで玉ねぎを色づくまで炒める",
+        "豚肉を加え、こしょうと酒をふって炒め、エリンギとにんじんを加えてさらに炒める",
+        "水を250ml入れ、沸騰したらあくを取り、ローリエの葉を加えて10分くらい煮る",
+        "ローリエを取り除き、カレールーを入れて溶かし、ケチャップを加え、とろみが出るまで弱火で10分くらい煮てできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2603826",
+    "advice": "エリンギは輪切りにすると見た目がかわいいです玉ねぎが色づくまでじっくり炒めると、おいしくできます（急ぐ時はほどほどで・・・）",
+    "history": "きのこを使ったカレーが食べたくて、エリンギと豚こまで作ってみました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/ポークカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ カレー"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2603826/100x141c/f310ba2e31b11130edca495806d9bacb.jpg?u=3540419&p=1398553068"
+}

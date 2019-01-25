@@ -1,0 +1,48 @@
+{
+    "name": "調味料は塩だけ♪白菜とソーセージの煮込み",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/979150/464x260/985916bcaa5e3b56650be92ff0145c53.jpg?u=1397778&p=1426842304",
+    "datePublished": "2009-11-30",
+    "description": "夫考案のシンプルメニュー♪味付けは、塩だけですがソーセージ＆白菜の旨みが引き立つ一品です。2010.0919話題入り感謝",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "10本"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ1と小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "1600ｃｃ（具が浸かるくらい）"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水と大きめに切った白菜を入れる。",
+        "1にソーセージと塩を入れて強火で加熱する。沸騰してきたら中火で煮る。",
+        "白菜が芯までやわらかくなったら、火を止める。",
+        "お皿に盛って完成♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "979150",
+    "advice": "コツは、簡単すぎて無いですが、必要以上に塩を入れ過ぎないことです。",
+    "history": "夫が昔、よく作ってくれていた料理です☆久しぶりに食べたくなって分量を計って作ってもらったのでレシピＵＰしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ウインナー"
+    ],
+    "tsukurepo_count": "181",
+    "thumbnail": "https://img.cpcdn.com/recipes/979150/100x141c/3c5909e6f813839e4dfb036d89ec5253.jpg?u=1397778&p=1426842304"
+}

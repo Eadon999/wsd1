@@ -1,0 +1,73 @@
+{
+    "name": "簡単！厚揚げの肉豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4306720/464x260/188d16719e27123e6bee830a0ad2806f.jpg?u=4376699&p=1485186301",
+    "datePublished": "2017-01-24",
+    "description": "厚揚げで肉豆腐！豆腐よりコクがでます♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "豚こま肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "5mm"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        }
+    ],
+    "recipeInstructions": [
+        "具は小さく切る",
+        "油少々で玉ねぎを炒めてから肉を炒める",
+        "厚揚げを加えたら反すように軽く炒める",
+        "たれを加えて落し蓋をする\n沸騰したら中火で4分煮る",
+        "全体を反しながら煮絡めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4306720",
+    "advice": "肉は牛肉でもＯＫ",
+    "history": "肉豆腐を厚揚げで作ってみましたID:3773011",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ 肉豆腐"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4306720/100x141c/ff45df33b2c32fe883237e9c09bca507.jpg?u=4376699&p=1485186301"
+}

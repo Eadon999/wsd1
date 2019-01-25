@@ -1,0 +1,54 @@
+{
+    "name": "簡単☆小松菜にんにく炒め",
+    "author": {
+        "@type": "Person",
+        "name": "さっちゃんペンギン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1808372/464x260/29df391042f928d59eb735bfd9e3e632.jpg?u=3795734&p=1530532750",
+    "datePublished": "2012-05-10",
+    "description": "夏にピッタリ✨にんにく、塩こしょうがあれば簡単に出来ます♪♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１把"
+        },
+        {
+            "name": "にんにく（おろし）",
+            "quantity": "小１〜"
+        },
+        {
+            "name": "油（あればオリーブ油）",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はきれいに洗い根元を切り落とす。\n５㎝幅くらいのざく切りにする。",
+        "フライパンに油、にんにくを入れ、熱す。\n小松菜を加え、混ぜ、熱する。",
+        "小松菜がしんなりとしてきたら、塩こしょうを加え、混ぜ合わせる。\n☆完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1808372",
+    "advice": "にんにくはお好みで増量ど〜ぞ☆家では、にんにくをすりおろして、冷凍保存しています♪ベーコン、コーン、バターなどいろいろアレンジもしやすいですょ☆",
+    "history": "和えてもイマイチ反応が…にんにく風味にすると、空に♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "にんにく",
+        "油",
+        "こしょう"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1808372/100x141c/2dca44c6d0ef8c84d11f91e17bc04ddf.jpg?u=3795734&p=1530532750"
+}

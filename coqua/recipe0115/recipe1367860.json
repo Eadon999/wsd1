@@ -1,0 +1,57 @@
+{
+    "name": "アボカド＊ゆかりマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "えみんちゅ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1367860/464x260/4c08be74c44da1c524412107a5f6073c.jpg?u=481135&p=1298562977",
+    "datePublished": "2011-02-25",
+    "description": "★１１/０３/１０話題入り★大好きなアボカドとセロリを合わせてみました♪ゆかりでさらに爽やか～ワインのお供にでも✾",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１コ"
+        },
+        {
+            "name": "セロリ",
+            "quantity": "３０ｇくらい"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●ゆかり",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは皮を剥いて食べやすい大きさにカットしてボウルに入れてレモン汁を振り掛けます。",
+        "セロリは斜め薄切りにスライスして①のボウルに入れて軽く塩コショウして混ぜ、合わせた●を入れて混ぜたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1367860",
+    "advice": "メーカーさんによってゆかりの塩気が違うので小さじ１～調整してみてください。",
+    "history": "大好きな食材をゆかりマヨで♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "セロリ",
+        "レモン汁",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/1367860/100x141c/db1c7ea35949313c349747e68205475f.jpg?u=481135&p=1298562977"
+}

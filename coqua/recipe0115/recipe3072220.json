@@ -1,0 +1,55 @@
+{
+    "name": "豆腐と揚げとワカメの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3072220/464x260/7f51c2d8f5c2a3118029b8088433074b.jpg?u=822079&p=1426546665",
+    "datePublished": "2015-03-17",
+    "description": "定番おみそ汁♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "おおさじ2"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "800ｍｌ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "おおさじ3-4"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は横半分に切り１．５センチ幅のさいの目に切る",
+        "　湯通しした油揚げをお好みのサイズにきる　\n　鍋にだし汁、揚げいれ沸かす　",
+        "煮立ったら豆腐　わかめをいれひと煮立ちさせ味噌を溶かしいれる　お好みで葱などトッピングしてください",
+        "8/4レポ下さった皆のおかげで話題いりですTT本当に有難うございます！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3072220",
+    "advice": "わかめ、豆腐はゆですぎない^^",
+    "history": "定番おみそ汁",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "わかめ",
+        "油揚げ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/3072220/100x141c/7a0350847399ebfdfe7bb8848c8cab52.jpg?u=822079&p=1426546665"
+}

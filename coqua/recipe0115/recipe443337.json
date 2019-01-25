@@ -1,0 +1,83 @@
+{
+    "name": "★簡単！ぷりぷりイカのカリじゅわ～焼★　",
+    "author": {
+        "@type": "Person",
+        "name": "れなぼうず"
+    },
+    "image": "https://img.cpcdn.com/recipes/443337/464x260/a8331ef012efc5e71f653ab937a43901.jpg?u=208881&p=1214217485",
+    "datePublished": "2007-10-14",
+    "description": "ぷりっぷりのイカさんをかりかりに焼いて、沢山のお野菜と一緒に合わせました★しっかり味でごはんも進みます～★",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "するめいか",
+            "quantity": "1パイ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "大1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "いかは下処理した後、食べやすい大きさに切り、水気を充分に拭き取りガーリックパウダーをまぶす。玉ねぎは縦薄切り、ピーマンと人参は細切りにする。",
+        "フライパンにごま油を引き、いかに片栗粉をまぶしてかりかりに焼く。",
+        "いかを一旦取り出し、フライパンを綺麗にしてごま油を引いて野菜類を炒める。",
+        "3に2を戻しいれて、Aの調味料でじゅわぁ～っと仕上げ、お皿に盛り付けたら完成です！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "443337",
+    "advice": "いかの水分は充分に拭き取らないと油がはねてキケンです。辛いのがお好みの方は七味などふっても★",
+    "history": "いか大好きな家族のために作りました★",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "するめいか",
+        "玉ねぎ",
+        "ピーマン",
+        "人参"
+    ],
+    "tsukurepo_count": "385",
+    "thumbnail": "https://img.cpcdn.com/recipes/443337/100x141c/3b02d76d70e99c2d396e7b0c14cf1fa8.jpg?u=208881&p=1214217485"
+}

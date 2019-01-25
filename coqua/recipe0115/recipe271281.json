@@ -1,0 +1,69 @@
+{
+    "name": "パリッとサクッと☆カレイの唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "ユーロン"
+    },
+    "image": "https://img.cpcdn.com/recipes/271281/464x260/cdde77a18f6cfc569128c59aa3d69b8c.jpg?u=270170&p=1214213404",
+    "datePublished": "2006-08-06",
+    "description": "煮付けもいいけれど、唐揚げもいいですよ。つけ汁が何ともいえない。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カレイ",
+            "quantity": "2匹"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ1．5"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1．5"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1．5"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "カレイのうろこ、えら、わたを取りのぞき、水で洗う。",
+        "カレイの両面に切り込みを入れる。",
+        "塩こしょうをまぶし、片栗粉をふる。",
+        "●の調味料でつけ汁を作る。\r\n鍋にだし汁を煮立たせ、酒、砂糖、みりん、醤油を入れ、おいておく。",
+        "180℃に熱した油でカラッと揚げる。",
+        "揚げたら、油をきり、熱いうちにつけ汁に漬け込む。"
+    ],
+    "cookTime": null,
+    "recipe_id": "271281",
+    "advice": "揚げたら、すぐ漬け込むことでうま味が増します。",
+    "history": "　",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かれい"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレイ",
+        "塩こしょう",
+        "片栗粉",
+        "だし汁"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/271281/100x141c/a421e7b40e90a12517093a2d9db7f304.jpg?u=270170&p=1214213404"
+}

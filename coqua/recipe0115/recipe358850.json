@@ -1,0 +1,54 @@
+{
+    "name": "炒めて♥♡なめこ豆腐味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/358850/464x260/cd38cfe72b025698c0cc05934069cec0.jpg?u=304393&p=1214215329",
+    "datePublished": "2007-04-12",
+    "description": "なめこも炒めたらさらに美味し～♪いつもの定番に一工夫。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なめこ（あしつき）",
+            "quantity": "1/2ﾊﾟｯｸ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "2カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "なめこは下部分を切る。熱湯を回しかけて、軽く水気をきる。",
+        "鍋にごま油を熱し、なめこを炒める。\r\n粘りがでてきたらだし汁を入れ、沸騰したら火を弱め、さいの目に切った豆腐を入れる。",
+        "最後味噌を加えできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "358850",
+    "advice": "なめこはあしつきがなければいつものﾊﾟｯｸのでもOKです。だし汁・味噌は好みで。",
+    "history": "炒めシリーズ味噌汁。定番を変えてみたら美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめこ",
+        "豆腐",
+        "ごま油",
+        "味噌"
+    ],
+    "tsukurepo_count": "105",
+    "thumbnail": "https://img.cpcdn.com/recipes/358850/100x141c/43a23a2541d12b2dfff133ef03f1fda9.jpg?u=304393&p=1214215329"
+}

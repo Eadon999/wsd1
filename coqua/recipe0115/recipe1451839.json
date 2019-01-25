@@ -1,0 +1,66 @@
+{
+    "name": "ツナとブロッコリーのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ナオパーク"
+    },
+    "image": "https://img.cpcdn.com/recipes/1451839/464x260/f57666ba032a960095933e4d6233c5ba.jpg?u=1340966&p=1306428862",
+    "datePublished": "2011-05-27",
+    "description": "ツナとブロッコリーがよく合う！さっぱりおいしいサラダです♪2012/12/31話題入り☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは食べやすい大きさに切って塩を入れてお湯で湯がく。",
+        "トマトも食べやすい大きさに切る。",
+        "すべての材料を混ぜ合わせてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1451839",
+    "advice": "ツナ缶はオイル漬けでも水煮でもどちらでも大丈夫ですが、水気は切って使ってください。",
+    "history": "大量にもらったブロッコリーの消費に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ツナ",
+        "トマト",
+        "醤油"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1451839/100x141c/7e5ac36df17a60032bb7dbe429479f47.jpg?u=1340966&p=1306428862"
+}

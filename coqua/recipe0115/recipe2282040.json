@@ -1,0 +1,46 @@
+{
+    "name": "なすの★お手軽つまみ",
+    "author": {
+        "@type": "Person",
+        "name": "庭のあさがお"
+    },
+    "image": "https://img.cpcdn.com/recipes/2282040/464x260/0c37356e1a5116e05cff92cddf1927bf.jpg?u=4721157&p=1373420766",
+    "datePublished": "2013-07-10",
+    "description": "ごま油の香りが美味しい！2014年5/11話題入り",
+    "recipeYield": "3人",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "250ｇ（小ぶりの茄子5個使用）"
+        },
+        {
+            "name": "*ポン酢",
+            "quantity": "大さじ　1と1/2"
+        },
+        {
+            "name": "*ごま油",
+            "quantity": "大さじ　1"
+        },
+        {
+            "name": "*ガラスープの素",
+            "quantity": "小さじ　1"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子の皮を3箇所くらい皮をむく\nラップをかけ\nナスをレンチンする",
+        "熱がとれたら\nたてに食べやすい大きさに切り\n*の調味料と合えると出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2282040",
+    "advice": "茄子の熱通りぐあいでレンチンの時間を調節してください",
+    "history": "畑で取れた小ぶりの茄子をいつもと違う味付けで作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2282040/100x141c/683a0e19afb53cf6fcbfb37fb698d184.jpg?u=4721157&p=1373420766"
+}

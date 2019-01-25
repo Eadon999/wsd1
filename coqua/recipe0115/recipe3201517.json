@@ -1,0 +1,53 @@
+{
+    "name": "☆まぐろの塩昆布づけ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ももいろさくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/3201517/464x260/871356b4a910490995edc3c818f9cb21.jpg?u=1882904&p=1432990937",
+    "datePublished": "2015-05-30",
+    "description": "簡単すぎ～！塩昆布を和えるだけ！まぐろが塩昆布の旨みでさらに美味しく♡しょうゆだれを絡めればどんぶりに☆",
+    "recipeYield": "1～3人分",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "5ｇ"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆わさび",
+            "quantity": "お好みで１㎝～"
+        }
+    ],
+    "recipeInstructions": [
+        "塩昆布とまぐろを混ぜ合わせ、しばらく置きます。トップの写真はしょうゆだれを少し混ぜました。\n",
+        "どんぶりにするなら、☆のしょうゆだれを混ぜ合わせます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3201517",
+    "advice": "食事の支度をするときに、最初に塩昆布を混ぜて冷蔵庫に入れておけばちょうど味がなじんできます。塩昆布の塩加減で辛い場合もあるのでどんぶりにする時はしょうゆだれをお好みの味に調整してみてくださいね☆",
+    "history": "塩昆布を色々なものに混ぜて合わせることによって旨みが出るので、まぐろも和えてみました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まぐろ",
+        "塩昆布",
+        "しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3201517/100x141c/27cddd8a1dee339ddc98df7d7a20b67c.jpg?u=1882904&p=1432990937"
+}

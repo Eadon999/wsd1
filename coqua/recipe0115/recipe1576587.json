@@ -1,0 +1,75 @@
+{
+    "name": "★鶏ムネ肉のジューシーなタレ焼き★彡",
+    "author": {
+        "@type": "Person",
+        "name": "michipapa"
+    },
+    "image": "https://img.cpcdn.com/recipes/1576587/464x260/b9636eab7fe69b78bbe786d111ab55d4.jpg?u=2795769&p=1316603980",
+    "datePublished": "2011-09-21",
+    "description": "さっぱりムネ肉もジューシーに出来上がります",
+    "recipeYield": "2人分～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ムネ肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "◎しお",
+            "quantity": "小1"
+        },
+        {
+            "name": "◎サラダ油",
+            "quantity": "大1"
+        },
+        {
+            "name": "◎しょうが・すりおろし(ﾁｭｰﾌﾞ)",
+            "quantity": "2cm"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "にんにくのスライス",
+            "quantity": "1片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "鷹の爪(種を抜いて輪切り)",
+            "quantity": "1本(お好みで)"
+        }
+    ],
+    "recipeInstructions": [
+        "下準備\n焼きダレを合わせておく\n鶏肉はスジを取り縦に半分にし　そぎ切りにしてビニール袋に◎印と入れて揉み\n冷蔵で待機",
+        "1の袋に\n小麦粉を振り入れ\nまんべんなく付ける",
+        "フライパンにサラダ油(分量外)をしき\nにんにくのスライスを入れて火をつけて薄っすら色づいてきたらタレに入れておき2を焼く",
+        "3が色づいてきたら\n焼きダレを投入し取っておいた　にんにくも投入し\n煮詰めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "1576587",
+    "advice": "　ニンニクの薄切りを炒めるときは　焦がさないようにする*写真は1/2の量で作っています*",
+    "history": "あっさりモモ肉をジューシーにしたくて",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ムネ肉",
+        "しお",
+        "サラダ油",
+        "しょうがすりおろし"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1576587/100x141c/e8ee963e671c4ec01176e3d5d73c6595.jpg?u=2795769&p=1316603980"
+}

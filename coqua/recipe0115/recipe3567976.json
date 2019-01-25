@@ -1,0 +1,47 @@
+{
+    "name": "☼お弁当につまみに♪はんぺんハムチーズ焼",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/3567976/464x260/ff47652e9ac3abc7c36ce8882ea91173.jpg?u=276760&p=1449879391",
+    "datePublished": "2015-12-23",
+    "description": "★つくれぽ５０人★懐かしの定番のお弁当のおかず。今となってはおつまみにもぴったり。はんぺんのふわふわが美味しい！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ハム",
+            "quantity": "１枚"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "好きな油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんは斜めに二等分。\n真ん中を袋状に切れ目を入れる。\nハムとチーズも斜めに二等分。\n切れ目に入れる。",
+        "フライパンにオリーブオイルを熱し、両面こんがりと焼いたら出来上がり。\nこのままでもいいし、二等分するとお弁当にぴったり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3567976",
+    "advice": "簡単こつなし。一度、オーブンで焼いたら、膨らんで、その後にぺったんこになってしまいました。フライパンがいいです！",
+    "history": "母親が良く作ってくれました。お弁当の定番。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん お弁当",
+        "はんぺん つまみ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/3567976/100x141c/23c0817ac4bbf9082bd4a899e6396bdd.jpg?u=276760&p=1449879391"
+}

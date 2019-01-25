@@ -1,0 +1,55 @@
+{
+    "name": "ふきのアンチョビ炒め。",
+    "author": {
+        "@type": "Person",
+        "name": "梅乃花おり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3229583/464x260/ce7163d20a58c571a8048826b6b5e890.jpg?u=11955070&p=1433939908",
+    "datePublished": "2015-06-10",
+    "description": "サクサク食べやすい山菜炒め。",
+    "recipeYield": "2人分位",
+    "recipeIngredient": [
+        {
+            "name": "ふき",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "アンチョビペースト",
+            "quantity": "適量"
+        },
+        {
+            "name": "カラーペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルで下準備済みのふきを炒めます。",
+        "塩コショウとアンチョビペースト。色が変わる位炒めて。",
+        "お皿に盛り付けたら更にペッパーを振る。",
+        "2017.2ふきのカテゴリ掲載。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3229583",
+    "advice": "下準備でふきを固めに茹でておくとサクサクな食感になります。",
+    "history": "食材の味を生かしたく、シンプルにソテー。オリーブオイルが合～う！簡単だからよく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/ふき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ふき",
+        "オリーブオイル",
+        "塩コショウ",
+        "アンチョビペースト"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3229583/100x141c/a9fb5b95530db34d48da8b868646103a.jpg?u=11955070&p=1433939908"
+}

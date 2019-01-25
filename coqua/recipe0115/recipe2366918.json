@@ -1,0 +1,50 @@
+{
+    "name": "白菜えのきポン酢",
+    "author": {
+        "@type": "Person",
+        "name": "matoキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2366918/464x260/e3bf6036f0afb16fc3559239b2eb272d.jpg?u=6697946&p=1381109952",
+    "datePublished": "2013-10-07",
+    "description": "白菜とえのきのお浸しです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "えのき",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜とえのきを切る。",
+        "鍋にお湯をわかし、白菜とえのきをさっとゆがき、冷水にとる。",
+        "白菜とえのきの水気を手で絞り、器にもる。\n",
+        "かつお節をまぶし、ポン酢をかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2366918",
+    "advice": "美味しいポン酢で！",
+    "history": "白菜とえのきのコンビが大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 えのき ポン酢",
+        "白菜 えのき おひたし",
+        "白菜 えのき"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2366918/100x141c/a0fdd7d24c57732fe0894bfe6ad14dd9.jpg?u=6697946&p=1381109952"
+}

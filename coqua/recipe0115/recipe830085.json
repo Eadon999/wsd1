@@ -1,0 +1,49 @@
+{
+    "name": "やわらか美味しいささみのから揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/830085/464x260/c8330d6047f02089024e93367c9027e4.jpg?u=377757&p=1244736796",
+    "datePublished": "2009-06-06",
+    "description": "ささみがすごくやわらかいから揚げに！作り方もとってもシンプルで簡単。お弁当にもどうぞ。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "４本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２～"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２～"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２～"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り、一口大に切る。",
+        "ビニール袋に小麦粉以外の全ての材料を入れ、よく揉み込む。\n（時間があれば１０分冷蔵庫へ）",
+        "２のビニール袋に小麦粉を入れ全体にまぶす。",
+        "油で揚げて完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "830085",
+    "advice": "分量は全て「大さじ２」なのでとっても覚えやすいです。でも、好みがあると思うので調整してください。",
+    "history": "母がよく作ってくれていた定番レシピです。今ではうちの定番に。お弁当にもピッタリですよ。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 唐揚げ",
+        "ささみ 唐揚げ 柔らかい"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/830085/100x141c/93fd2c20e497be994d4bf390ded6a510.jpg?u=377757&p=1244736796"
+}

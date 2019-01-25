@@ -1,0 +1,61 @@
+{
+    "name": "お鍋一つde簡単☆真鱈と湯豆腐の鍋仕立て",
+    "author": {
+        "@type": "Person",
+        "name": "あやかさくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/2531062/464x260/a89bd8f965b746864753edf489e4ea81.jpg?u=9133390&p=1394035103",
+    "datePublished": "2014-03-11",
+    "description": "簡単で美味しく健康的☆柔らかくなった真鱈が湯豆腐と合って美味しいです♪ほっこり温まるスピードメニュー^o^",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "真鱈",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1パック"
+        },
+        {
+            "name": "乾燥昆布",
+            "quantity": "一片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "適量"
+        },
+        {
+            "name": "みりん",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "真鱈に湯をかけて霜降りする",
+        "乾燥昆布に切れ込みを入れて沸かした湯の中に醤油、酒、みりん（各1:1:1）を入れて煮立たせる",
+        "食べやすい大きさに切った豆腐を入れる",
+        "真鱈を入れて中まで火を通す",
+        "お皿に盛り付けて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2531062",
+    "advice": "湯引きすることで臭みを取り除きます",
+    "history": "簡単に手早くメインの一品を作りたくて",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": [
+        "魚介鍋 8位"
+    ],
+    "related_keywords": [
+        "湯豆腐",
+        "たら 鍋",
+        "湯豆腐 鱈"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2531062/100x141c/7bf5db4bb14abccf79a0fc3f4044eaf6.jpg?u=9133390&p=1394035103"
+}

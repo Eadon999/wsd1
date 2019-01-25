@@ -1,0 +1,53 @@
+{
+    "name": "たけのこのオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2192214/464x260/446afe7fb9e8d9b3c3033643d77b432f.jpg?u=2513693&p=1366003416",
+    "datePublished": "2013-04-17",
+    "description": "チンジャオロースの中に入っているたけのこって美味しいから、たけのこだけをオイスターソースで炒めました♪　　",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "たけのこ（水煮）",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ、酒",
+            "quantity": "各小さじ１"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "薄切りにしたたけのこをごま油を熱したフライパンで中火で少し焦げ目がつくまで炒める",
+        "【A】を入れ、汁気がなくなるまで炒め完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2192214",
+    "advice": "",
+    "history": "チンジャオロースに入っているたけのこが美味しいのでたけのこだけの炒め物を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ",
+        "ごま油",
+        "オイスターソース",
+        "こしょう"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/2192214/100x141c/44566bee9be68aeae145fc7a7c9d70e0.jpg?u=2513693&p=1366003416"
+}

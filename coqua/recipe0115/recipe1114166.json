@@ -1,0 +1,65 @@
+{
+    "name": "水菜とはんぺんのゴマドレ風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "chokomi513"
+    },
+    "image": "https://img.cpcdn.com/recipes/1114166/464x260/7cc2332fa90792b52e91c51383f3ffaa.jpg?u=2034151&p=1272619027",
+    "datePublished": "2010-05-01",
+    "description": "切って混ぜるだけの簡単サラダ☆2011.3.31 話題入り✿",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１／２袋"
+        },
+        {
+            "name": "はんぺん",
+            "quantity": "大１／２枚"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１／２缶"
+        },
+        {
+            "name": "Ａマヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "Ａオイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "Ａ白ゴマ（黒ゴマでも）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "Ａゴマ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は食べやすい長さに、トマトとはんぺんも食べやすい大きさに切る。",
+        "大きめのボウルにＡを入れて混ぜ、野菜とツナも加えて混ぜて皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1114166",
+    "advice": "☆洗った野菜の水気を切っておくこと、大きめのボウルの中でよく混ぜることくらいかな",
+    "history": "ゴマドレッシングを切らしてしまったので、それに近いものを・・・と作ってみたら美味しかった♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "はんぺん",
+        "トマト",
+        "ツナ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1114166/100x141c/9670e3d84843c3914e10754f83fde585.jpg?u=2034151&p=1272619027"
+}

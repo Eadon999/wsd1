@@ -1,0 +1,63 @@
+{
+    "name": "赤まんぼうのオニオンソテー",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/646265/464x260/9fc51d3e17636e08166cb85d1ef52689.jpg?u=496128&p=1221563398",
+    "datePublished": "2008-09-16",
+    "description": "他の魚でも代用可能♪おろし玉ねぎでご飯もすすみます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "赤まんぼう",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "おろし玉ねぎ",
+            "quantity": "1/4個分"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "1かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "①おろし玉ねぎの水気を切る。たれの材料を混ぜておく。",
+        "②フライパンに油を熱し、赤まんぼうの両面を焼く。",
+        "③②にたれを入れ、からめる。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "646265",
+    "advice": "お好みで七味トウガラシを掛けて頂いて下さい。",
+    "history": "初めて赤まんぼうを購入！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤マンボウ",
+        "まんぼう",
+        "アカマンボウ",
+        "オニオンソテー"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/646265/100x141c/8875b8622fd8db296cf69e7ab66c156f.jpg?u=496128&p=1221563398"
+}

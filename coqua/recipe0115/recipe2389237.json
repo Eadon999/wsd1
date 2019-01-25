@@ -1,0 +1,90 @@
+{
+    "name": "チンジャオロースー",
+    "author": {
+        "@type": "Person",
+        "name": "Yini"
+    },
+    "image": "https://img.cpcdn.com/recipes/2389237/464x260/2a4e41e08b556c6b53dba214bf5afa51.jpg?u=5486727&p=1382951854",
+    "datePublished": "2013-10-28",
+    "description": "日本人に馴染み、本場なチンジャオロースーです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "５個"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "２２０g"
+        },
+        {
+            "name": "葱",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１０g"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "２０g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "紹興酒（なければ料理酒）",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りする。",
+        "肉、葱、生姜も細切りする。肉とオイスターソース以外の調味料Aを合わせる。",
+        "フライパンに油をひき、ピーマンを１分間手早く炒める。",
+        "炒めたピーマンをさらに移す。",
+        "フライパンに残っている油を使って葱としょうがを炒める。",
+        "葱の香りが出たら、肉を入れて炒める。",
+        "オイスターソースを加え、肉の色が変わるまで炒める。",
+        "ピーマンを戻す。",
+        "調味料Bを加えて素早く混ぜたら完成。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "2389237",
+    "advice": "*お好みで塩加減の調整してください。*ピーマンをあまり色が変わるまで炒めないこと。",
+    "history": "母の味です。この料理はピーマン嫌いな息子でも少し食べられます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/中華料理/チンジャオロース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "豚薄切り肉",
+        "葱",
+        "生姜"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2389237/100x141c/275ea8a9e716398b4d00b2fe77abaad4.jpg?u=5486727&p=1382951854"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "すぐできる！簡単おからコロッケ",
+    "author": {
+        "@type": "Person",
+        "name": "わおねお"
+    },
+    "image": "https://img.cpcdn.com/recipes/514369/464x260/6bb8656885c75768a511cf83edba5cee.jpg?u=57067&p=1358234561",
+    "datePublished": "2008-02-22",
+    "description": "思い立ったらすぐできます。20分位かな？パン粉付けも簡単にできます ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "300g"
+        },
+        {
+            "name": "ひき肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "ひじき（戻しておく）",
+            "quantity": "乾燥5g"
+        },
+        {
+            "name": "人参（細切り）",
+            "quantity": "30g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100cc"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "薄力粉と水",
+            "quantity": "1対1"
+        }
+    ],
+    "recipeInstructions": [
+        "ひき肉を炒め（私は豚肉でしたが鶏でもいいと思います）人参、ひじき、おから、牛乳、調味料と順に炒め煮にしていきます。さっとでいいです。",
+        "味を見てよければ片栗粉を混ぜ、丸めて、水で溶いた小麦粉にくぐらせパン粉をつけます。",
+        "油できつね色に揚げできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "514369",
+    "advice": "一つ一つの材料、調味料を新鮮でいいものを使うと、本当に美味しいコロッケになります。ジャガイモなどは入れてませんが、ぼそぼそしたオカラ感はまったく無いです。ブログ→http://wao26neo.blog93.fc2.com/",
+    "history": "おからナゲットを作ろうと思いましたが、ジャガイモを洗ったり剥いたり、準備するのが面倒になって、考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/コロッケ・メンチカツ/おからコロッケ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから コロッケ",
+        "おからコロッケ 簡単"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/514369/100x141c/980a5a8fcf2f4b1e7dffcea908dce091.jpg?u=57067&p=1358234561"
+}

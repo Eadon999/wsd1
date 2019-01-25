@@ -1,0 +1,79 @@
+{
+    "name": "☆あさりパスタ☆",
+    "author": {
+        "@type": "Person",
+        "name": "☆栄養士のれしぴ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1392592/464x260/2c4f06aa9dfb7099e57cb0a5778ed360.jpg?u=1843442&p=1300976349",
+    "datePublished": "2011-03-24",
+    "description": "★★★話題入りレシピ★★★あさりの旨みたっぷり！にんにくのいい香り！ランチにおすすめ♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "300g"
+        },
+        {
+            "name": "あさり",
+            "quantity": "350g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "50cc"
+        },
+        {
+            "name": "水",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●顆粒和風だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "パスタ煮汁",
+            "quantity": "50cc"
+        },
+        {
+            "name": "小ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイル、にんにくのみじん切りを入れて、弱火で香りを出します",
+        "砂抜きし、よく洗ったあさりを加えます",
+        "白ワインと水を加えて",
+        "蓋をします（中火）\nこのあたりからパスタを茹で始めます♪",
+        "あさりの口が開き、火が通ったら●の調味料を加えて、",
+        "パスタの煮汁、小ネギを加えて味を調えます\n(パスタが茹で上がるまで、火を消してスタンバイ★)",
+        "茹で上がったパスタを絡めて出来上がり＊"
+    ],
+    "cookTime": null,
+    "recipe_id": "1392592",
+    "advice": "子供も食べるので鷹の爪はいれてませんが、お好みで加えてくださいね(^｡^)",
+    "history": "うちの定番メニュー☆",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさりパスタ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1392592/100x141c/cdb92e479431375d0240c1f3afa2ab15.jpg?u=1843442&p=1300976349"
+}

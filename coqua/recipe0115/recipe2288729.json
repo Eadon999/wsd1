@@ -1,0 +1,55 @@
+{
+    "name": "簡単☆エリンギの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2288729/464x260/65967df21b8f79df5e53741e0625846c.jpg?u=1690437&p=1374048984",
+    "datePublished": "2013-07-17",
+    "description": "2013・9・11話題入り♪エリンギを炒めて塩コショウ、しょうゆで味付けたおつまみにもお弁当のおかずにもなる一品。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "油(炒め用)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは食べやすい大きさに切る。",
+        "フライパンを熱し油を入れエリンギを中火で2～3分炒める。",
+        "塩コショウ、粗挽き黒胡椒、しょうゆを加え炒め合わせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2288729",
+    "advice": "エリンギは大きさを同じくらいにすると火の通りが均一になる。調味料を入れたら手早く炒め合わせて火を切る。",
+    "history": "エリンギで簡単にお弁当のおかずをつくってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "油",
+        "塩コショウ",
+        "粗挽き黒胡椒"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2288729/100x141c/715f223ad2ff0fa94a3afd08477f46ae.jpg?u=1690437&p=1374048984"
+}

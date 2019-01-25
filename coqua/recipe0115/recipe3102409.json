@@ -1,0 +1,44 @@
+{
+    "name": "レンジで1分！ヒヨコ豆のバター煮☆お弁当",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/3102409/464x260/0d14d0c98bf1fc0822ca27a2e84866b9.jpg?u=7510994&p=1428150548",
+    "datePublished": "2015-04-04",
+    "description": "ヒヨコ豆にめんつゆとバターを加えてレンジで1分！あっという間に一品できます。おつまみやお弁当にピッタリですよ。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ヒヨコ豆(水煮)",
+            "quantity": "50g"
+        },
+        {
+            "name": "水、めんつゆ(3倍)",
+            "quantity": "各小さじ2"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "小鉢に全ての材料を入れてラップをかけてレンジ600wで1分加熱する。",
+        "混ぜてから、しばらく置いて味を染み込ませたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3102409",
+    "advice": "ヒヨコ豆をポリ袋に入れて冷凍しておくと、少しずつ使えて便利ですよ。",
+    "history": "冷凍したヒヨコ豆をおやつに少しずつ食べています。簡単に美味しく食べたくて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/ひよこ豆",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひよこ豆 レンジ",
+        "ひよこ豆 弁当"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3102409/100x141c/d9d71c751b342b6591267f48339435f3.jpg?u=7510994&p=1428150548"
+}

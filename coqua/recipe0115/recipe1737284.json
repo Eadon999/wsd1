@@ -1,0 +1,50 @@
+{
+    "name": "ほっくり♡かぼちゃのミルク煮in塩麹",
+    "author": {
+        "@type": "Person",
+        "name": "ichimi413"
+    },
+    "image": "https://img.cpcdn.com/recipes/1737284/464x260/1e3269d1a444b81eaa8dfd54706f4625.jpg?u=2439425&p=1331535646",
+    "datePublished": "2012-03-12",
+    "description": "牛乳でクリーミーでコクのある洋風煮物に！バターで栄養吸収効果も！！",
+    "recipeYield": "約4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "約４００ｇ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１½cup"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは一口大に切る。",
+        "鍋にa)を全て入れ、ふきこぼれない程度の中火で煮る。",
+        "かぼちゃが柔らかくなってに煮汁がある程度なくなるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1737284",
+    "advice": "焦がさないように気をつけてください！",
+    "history": "甘口の煮物じゃないかぼちゃ料理をと。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "牛乳",
+        "バター",
+        "塩麹"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1737284/100x141c/d645507ba37fa11c3133e969790d6656.jpg?u=2439425&p=1331535646"
+}

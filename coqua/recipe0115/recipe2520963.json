@@ -1,0 +1,54 @@
+{
+    "name": "*ピーマン*と*ちりめんじゃこ*の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/2520963/464x260/1c71311e4329a63dc81796996f486ae1.jpg?u=7167639&p=1393400287",
+    "datePublished": "2014-02-26",
+    "description": "2015・12・3 話題入り♬ 大感謝です♡ピーマン嫌いの子供さんも、きっと食べれるはず……是非、作ってみてね。☆彡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは縦 半分に切りヘタと種を取り除き5ﾐﾘ幅に切ります。",
+        "フライパンにサラダ油を熱してピーマンとちりめんじゃこを炒め酒・白だしを入れて、炒めます。",
+        "手早く炒めて水分がなくなってきたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2520963",
+    "advice": "あまり長く炒めると ちりめんじゃこが焦げて苦くなるので、水分が無くなってきたら火を止めましよう",
+    "history": "娘の お弁当を作っていた時、ピーマン嫌いにならないように工夫して作った一品です。娘にも伝えたいので覚書としてレシピUPしました。 (^^♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "ちりめんじゃこ",
+        "酒",
+        "白だし"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2520963/100x141c/b3b212f7ea4fc0222738b72748adf46f.jpg?u=7167639&p=1393400287"
+}

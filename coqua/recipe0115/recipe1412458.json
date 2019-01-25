@@ -1,0 +1,58 @@
+{
+    "name": "人参とインゲンのグラッセ",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1412458/464x260/f9c41361a1af488f2524ccb5ecafb25c.jpg?u=1194496&p=1419368875",
+    "datePublished": "2011-04-15",
+    "description": "付け合わせやお弁当の一品にどうでしょうか～インゲンが、とっても柔らかくて食べやすくなりますよ。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "３０㌘"
+        },
+        {
+            "name": "インゲン",
+            "quantity": "２０㌘"
+        },
+        {
+            "name": "水",
+            "quantity": "４分の１カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は拍子切りにして面取りする。インゲンは食べやすい長さにカットする。",
+        "煮汁の材料と一緒に鍋で煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1412458",
+    "advice": "特にありませんが、インゲンの筋が気になる時はとってください。",
+    "history": "人参のグラッセ、嫌いなインゲンも一緒に甘くすれば子供が食べるかな～と思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": [
+        "グラッセ 9位"
+    ],
+    "related_keywords": [
+        "にんじん グラッセ",
+        "いんげん",
+        "グラッセ"
+    ],
+    "tsukurepo_count": "289",
+    "thumbnail": "https://img.cpcdn.com/recipes/1412458/100x141c/9b344aee387ba718fb7f78d62bf4423f.jpg?u=1194496&p=1419368875"
+}

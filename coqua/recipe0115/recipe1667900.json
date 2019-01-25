@@ -1,0 +1,57 @@
+{
+    "name": "野菜のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1667900/464x260/46eacc5fae024edfe194c1cb06c67e63.jpg?u=602880&p=1326024057",
+    "datePublished": "2012-01-09",
+    "description": "★★★話題入りありがとう★★★人気検索ありがとう★★★簡単にすぐ作れるスープです。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "600ml"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "2個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "5cmくらい"
+        },
+        {
+            "name": "大根",
+            "quantity": "3cmくらい"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れて、固い人参と大根を水から入れて沸騰させます。",
+        "キャベツを加えて柔らかくなるまで煮ます。あくも取ってください。",
+        "コンソメを加えて、最後に塩コショウで味を整えたら完成！",
+        "豆とベーコンバージョンも美味しいです。",
+        "白菜・ベーコンバージョン♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1667900",
+    "advice": "色んな野菜で作ってみてくださいね。",
+    "history": "野菜たくさんのスープを作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コンソメスープ 人気"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1667900/100x141c/2d77d38e272faf7f34255bc598ba2e14.jpg?u=602880&p=1326024057"
+}

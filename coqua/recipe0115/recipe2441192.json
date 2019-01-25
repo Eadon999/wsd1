@@ -1,0 +1,65 @@
+{
+    "name": "簡単!!混ぜご飯の具",
+    "author": {
+        "@type": "Person",
+        "name": "ｒｕｒｉｉｒｏ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2441192/464x260/b8c0db49f4039bd70f78fd9f4a5f06f5.jpg?u=1487192&p=1387590084",
+    "datePublished": "2013-12-21",
+    "description": "ご飯の食べすぎ注意です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "350ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "３~５枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "水",
+            "quantity": "150㏄"
+        },
+        {
+            "name": "すりおろし生姜",
+            "quantity": "適量（なくてもOK）"
+        }
+    ],
+    "recipeInstructions": [
+        "人参としいたけは荒みじん切りにしておきます。",
+        "豚ひき肉の塊をなくすように炒めたら、切った野菜を入れて軽く炒めます。",
+        "あとは、水と調味料を入れ弱めの中火で煮ていきます。",
+        "たまにかき混ぜて、汁気が少し残るくらいになったら、お好みで生姜を入れ混ぜ合わせたら完成~",
+        "押し寿司の具としても使えますよ♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "2441192",
+    "advice": "我が家で愛用している醤油は、甘めの醤油です。お使いの醤油によっては砂糖を大１~３増やして調節してください。",
+    "history": "母が作ってくれてた、おふくろの味です♪竹の子や小さく刻んだ高野豆腐を入れたりと、その時の母の気分次第で具材が変化(笑)",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "混ぜご飯 具"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2441192/100x141c/78c5f2d468ff965775a6a3768c57bb7e.jpg?u=1487192&p=1387590084"
+}

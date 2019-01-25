@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】ニンジンの酢醤油和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1463356/464x260/e603475b624cbd57c4a5e975941bb992.jpg?u=2513693&p=1307412272",
+    "datePublished": "2011-06-11",
+    "description": "酢醤油とすりゴマの風味で食欲増進です。常備野菜の人参で簡単な一品を作ってくださいね。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンは長さ4センチ幅7ミリ程度の拍子木切りにし、柔らかくなるまで水から茹でます。",
+        "ニンジンが茹であがったらお湯をきり、熱いうちに良く混ぜた【A】にからめ、冷めたら完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1463356",
+    "advice": "■調味料の中へ必ず茹でたてのニンジンを入れてくださいね。冷めてからだと味が染み込みにくくなります。",
+    "history": "ニンジンをヘルシーにさっぱり食べれるおかずを考えていた時に酢醤油を加えてみたら意外と美味しく、さらに香ばしいすりゴマを加えました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "その他/発酵食品・発酵調味料/酢"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "すりゴマ",
+        "しょうゆ",
+        "酢"
+    ],
+    "tsukurepo_count": "140",
+    "thumbnail": "https://img.cpcdn.com/recipes/1463356/100x141c/840eeeb1d59f00fc8f512f91996cc6ca.jpg?u=2513693&p=1307412272"
+}

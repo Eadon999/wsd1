@@ -1,0 +1,87 @@
+{
+    "name": "たっぷりほうれん草と鶏むね肉のトマト煮",
+    "author": {
+        "@type": "Person",
+        "name": "きなこ218"
+    },
+    "image": "https://img.cpcdn.com/recipes/3743286/464x260/72f3af0fa72a72ed72ae08edece835e5.jpg?u=2313995&p=1457692588",
+    "datePublished": "2016-03-11",
+    "description": "野菜がたっぷり食べられて、ご飯も進みます♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "3枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "パプリカ",
+            "quantity": "1個"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1袋"
+        },
+        {
+            "name": "水",
+            "quantity": "75cc"
+        },
+        {
+            "name": "ホールトマト",
+            "quantity": "1缶"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ、人参、パプリカはサイコロ状に切っておきます。ほうれん草は5㎝くらいの長さに切ります。",
+        "むね肉をそぎ切りにし、塩コショウ、小麦粉をまぶして、表面に焦げ目が付くくらいに焼きます。",
+        "むね肉を一旦お皿に移し、玉ねぎ、人参、パプリカを炒めます。",
+        "しんなりしたら、むね肉を戻し入れ、調味料も全部入れます。\nほうれん草も一気に入れます。",
+        "野菜が柔らかくなるまで煮込んでできあがり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3743286",
+    "advice": "ほうれん草は下ゆでして入れてもOKです。",
+    "history": "好きな味付けをアレンジして作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉 ほうれん草 トマト煮",
+        "とり胸肉 ほうれん草"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3743286/100x141c/16af832388d359748478d3c90317f731.jpg?u=2313995&p=1457692588"
+}

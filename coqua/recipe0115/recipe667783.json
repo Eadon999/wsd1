@@ -1,0 +1,61 @@
+{
+    "name": "豆腐で出来ちゃうびっくり☆茶碗蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "TARO_HANA"
+    },
+    "image": "https://img.cpcdn.com/recipes/667783/464x260/35b04515227bc886fd9c9b5d40256d6c.jpg?u=990730&p=1224459292",
+    "datePublished": "2008-10-20",
+    "description": "茶碗蒸しの中にはお豆腐が！スプンですくって、野菜のあんと食べると体ポッカポカ～",
+    "recipeYield": "２人前",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "カップ１杯"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ１杯"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１２０ｇX２"
+        },
+        {
+            "name": "冷蔵庫にある残り野菜",
+            "quantity": "少々"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "麺つゆスープ",
+            "quantity": "カップ１杯"
+        }
+    ],
+    "recipeInstructions": [
+        "卵をとき、裏ごしする。",
+        "１とだし汁・麺つゆを巣が立たないよう混ぜ合わせる。",
+        "容器にお豆腐と２を入れ、オーブンの茶碗蒸しコースで蒸す。",
+        "野菜あんを作る。 \r\n麺つゆスープと野菜を鍋に入れ、火が通ったら水溶き片栗粉でとろみをつける。",
+        "３の蒸しあがった茶碗蒸しに、４の野菜あんをかけで出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "667783",
+    "advice": "野菜あんに、少量の帆立や蟹の缶詰を汁ごといれて作るとうま味がでてさらに美味しいですよ！",
+    "history": "お豆腐が余ったので、茶碗蒸しに入れてみようと思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/茶碗蒸し"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 茶碗蒸し"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/667783/100x141c/c8caf281e8b395608ad5a834e3b99f4d.jpg?u=990730&p=1224459292"
+}

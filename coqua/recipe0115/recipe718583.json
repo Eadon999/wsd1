@@ -1,0 +1,67 @@
+{
+    "name": "炊飯器で豚角煮",
+    "author": {
+        "@type": "Person",
+        "name": "yuzurime"
+    },
+    "image": "https://img.cpcdn.com/recipes/718583/464x260/1213b97eeb4139e17580ce67318e6733.jpg?u=1041198&p=1232584748",
+    "datePublished": "2009-01-22",
+    "description": "とろとろです＾＾意外とネギがいい感じ♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラブロック",
+            "quantity": "５００～６００ｇ"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "人数分"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１～２本"
+        },
+        {
+            "name": "☆水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "６０ｃｃ"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラを適当な大きさに切る。長ねぎは４㎝の長さに切る。",
+        "フライパンで豚を両面焼いて余分な油をおとす。",
+        "２と長ねぎ、ゆで卵☆の調味料をすべて炊飯器に入れ、普通に炊く。",
+        "いったん冷ますと味がしみ込んでおいしいです。\r\n\r\n",
+        "残った角煮で角煮まんを＾＾少し汁も一緒に包んで・・生地にしみこんでおいしかったです。脂身は除きました",
+        "皮の作り方は、レシピＩＤ７１９３７８を参考に～"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "718583",
+    "advice": "炊飯器によっては水分がなくなるまで炊飯しつづけるタイプもあるので、気を付けてください。残った汁はたきこみごはんにしたら、おいしいですよー",
+    "history": "炊飯器でほっとけメニュー第１弾",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "炊飯器 角煮",
+        "炊飯器で豚角煮"
+    ],
+    "tsukurepo_count": "198",
+    "thumbnail": "https://img.cpcdn.com/recipes/718583/100x141c/a6b32d9239eb8e6b0cecef6cbe355302.jpg?u=1041198&p=1232584748"
+}

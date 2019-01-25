@@ -1,0 +1,71 @@
+{
+    "name": "大根のとろり炒め",
+    "author": {
+        "@type": "Person",
+        "name": "HANAcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/305452/464x260/6f63f6ca10ff5056232ec1e52d43b7e0.jpg?u=263274&p=1214214176",
+    "datePublished": "2006-12-08",
+    "description": "大根だけでこってりおかず",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "半本"
+        },
+        {
+            "name": "生姜とニンニク",
+            "quantity": "みじん切り たくさん"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "少々"
+        },
+        {
+            "name": "鶏がらスープ",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根はスライサーでうすーくカットしてから千切りです",
+        "ゴマ油でニンニクショーガを炒めてから千切り大根投入で、しんなりして油が回ったら、塩ひとつまみと醤油大さじ1。あと、豆板醤少々（なくてもいい） \r\n\r\n",
+        "鶏がらスープ100ｃｃ（お湯でもいい。水でもいい）投入。グツグツいってきたら、オイスターソース大さじ1投入。",
+        "よく混ぜながら炒めて、最後に水溶き片栗粉でとろみをつけます"
+    ],
+    "cookTime": null,
+    "recipe_id": "305452",
+    "advice": "大根は薄く、細くがおいしく、火も早く通りました。つくれぽ、たくさんありがとうございます！！ひとつひとつにコメント出来なくて申し訳ありません！",
+    "history": "野菜だけでこってりおかずにしたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ゴマ油",
+        "塩",
+        "醤油"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/305452/100x141c/7098ccbd759265596a89548f2f09207f.jpg?u=263274&p=1214214176"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "まぐろとアボカドのどんぶり。",
+    "author": {
+        "@type": "Person",
+        "name": "つくしぐみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/266755/464x260/799e85545d7ca8d3cbe0840c1e69ee6b.jpg?u=67545&p=1229140585",
+    "datePublished": "2006-07-12",
+    "description": "好きなものだらけの丼。栄養もたっぷりです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "まぐろ切り落とし",
+            "quantity": "５０ｇくらい"
+        },
+        {
+            "name": "○コチジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "○にんにくすりおろし",
+            "quantity": "少々（省略可）"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "温泉卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "白胡麻",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１くらい"
+        },
+        {
+            "name": "温かいご飯、または酢飯",
+            "quantity": "どんぶり１杯"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは種と皮を取り、１ｃｍ弱の角切りにして、塩（分量外）少々をふります。",
+        "まぐろは必要であれば、食べやすい大きさに切り、○印の調味料で和え、青ネギは小口切りにします。",
+        "ゴハンの上にアボカド、まぐろ、温泉卵、ネギを盛り付けて、白ごまとごま油をかけて、出来上がりです。ぐわっし、ぐわっし、混ぜて、召し上がれ。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "266755",
+    "advice": "簡単です！あっという間に美味しい丼が出来ます。",
+    "history": "アボカド丼が食べたかったので、家にあった材料で、出来る限り美味しくなるように想像して作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "まぐろ切り落とし",
+        "コチジャン",
+        "ごま油"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/266755/100x141c/6385078b5dd46ae7755206c792e0bbca.jpg?u=67545&p=1229140585"
+}

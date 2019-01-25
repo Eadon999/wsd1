@@ -1,0 +1,46 @@
+{
+    "name": "簡単！塩こふきいも(砂糖不使用)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3451649/464x260/51dca99cb46f27580305513799f24709.jpg?u=4376699&p=1447460927",
+    "datePublished": "2015-10-11",
+    "description": "人気検索1位感謝！塩だけで甘さアップ♪おかずにもおやつにもおすすめ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "150g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        }
+    ],
+    "recipeInstructions": [
+        "皮を剥いて乱切り\n水に浸けて色止め",
+        "小鍋に材料を入れ沸騰したら5分ほど煮る\n煮えたらお湯を捨てる\n火にかけ蓋をして数回横に振って水気を飛ばして粉ふきにします"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3451649",
+    "advice": "粉ふきは勢いよく振りましょう",
+    "history": "塩で煮てシンプルな味でいただきたくて挑戦",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": [
+        "こふきいも 8位"
+    ],
+    "related_keywords": [
+        "粉ふきいも さつまいも",
+        "こふきいも",
+        "こふきいも 簡単"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/3451649/100x141c/ab2c5cd76a40bed04e4f0e17b04f4a53.jpg?u=4376699&p=1447460927"
+}

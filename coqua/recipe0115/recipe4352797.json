@@ -1,0 +1,62 @@
+{
+    "name": "簡単！小松菜と厚揚げの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4352797/464x260/b4cbb9841a7af98856af81ed949ccbf3.jpg?u=4376699&p=1486997520",
+    "datePublished": "2017-02-25",
+    "description": "お肉の代わりに厚揚げで♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "2わ"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "人参",
+            "quantity": "少々"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げのお湯を掛けて油抜きして薄く切る",
+        "小松菜の根を切り洗って短く切る\n人参少々を千切り",
+        "小松菜の茎と人参を油少々で先に炒めてから葉を加えて軽く炒める",
+        "厚揚げとほんだしを加えてじっくり厚揚げに火を通す",
+        "たれを加えて煮絡めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4352797",
+    "advice": "厚揚げを崩さないように混ぜましょう厚揚げも簡単に作れますID:3045327",
+    "history": "小松菜の豚バラ炒めにしようとして変更厚揚げでヘルシーに！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": [
+        "小松菜厚揚げ 5位"
+    ],
+    "related_keywords": [
+        "小松菜",
+        "厚揚げ",
+        "人参",
+        "タレ"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/4352797/100x141c/8416e40f74853f3bf3523d482cb9f0d3.jpg?u=4376699&p=1486997520"
+}

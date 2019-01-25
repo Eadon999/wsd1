@@ -1,0 +1,40 @@
+{
+    "name": "あさりの味噌汁。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/126128/464x260/8091d4fa379364459401ff65dfc8a3c3.jpg?u=14642&p=1214210572",
+    "datePublished": "2004-01-21",
+    "description": "うちのあさりの味噌汁です。かなりシンプル。。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "あさり（殻付き）",
+            "quantity": "150～200㌘"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1．5"
+        }
+    ],
+    "recipeInstructions": [
+        "あさりはからをこすりあわせてよく洗い、薄い塩水に30分くらいつけておく。",
+        "鍋に1と水2カップを入れて中火で煮立ててあくをしっかりととっておく。",
+        "あさりの口が開いていたら弱火にし、味噌を溶き入れて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "126128",
+    "advice": "水2カップに対してアサリは150～200グラムで。だしや他の食材は加えません。アクはしっかり取ってください。",
+    "history": "旦那に「いまいち味がぼけてる・・」と言われ、色んな作り方（出汁を変えたり、具を足してみたり・・）をした結果、シンプルなこの作り方が一番好評だったので。。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "味噌"
+    ],
+    "tsukurepo_count": "145",
+    "thumbnail": "https://img.cpcdn.com/recipes/126128/100x141c/de0250ed16cc3632ae7bdcae3d12e418.jpg?u=14642&p=1214210572"
+}

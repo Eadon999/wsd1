@@ -1,0 +1,67 @@
+{
+    "name": "たことトマトの青じそマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "souffles"
+    },
+    "image": "https://img.cpcdn.com/recipes/1501302/464x260/439a8c836045362d11513fce335aa788.jpg?u=2228826&p=1311130413",
+    "datePublished": "2011-07-22",
+    "description": "トマト・レモンのさわやかな酸味と青じその夏らしい香りで、たこが美味しいマリネに♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ(茹でたもの)",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "４～５枚"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大２"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小１/2"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小１/2"
+        }
+    ],
+    "recipeInstructions": [
+        "たこは１ｃｍほどの食べやすい厚さに、ミニトマトは半分に、青じそは千切りにする。\n\n\n",
+        "Ａをよく混ぜたものを①に加え、１時間以上冷蔵庫でマリネする。\n\n\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1501302",
+    "advice": "",
+    "history": "たことトマトを旬の青じそで冷たくマリネ。暑い日はこれに決まり。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/魚介のサラダ"
+    ],
+    "rankings": [
+        "トマトマリネ 6位"
+    ],
+    "related_keywords": [
+        "たこ マリネ",
+        "タコ マリネ",
+        "トマト マリネ",
+        "たこ トマト マリネ"
+    ],
+    "tsukurepo_count": "348",
+    "thumbnail": "https://img.cpcdn.com/recipes/1501302/100x141c/9a49175d55d11cfca08ed162ef0e6244.jpg?u=2228826&p=1311130413"
+}

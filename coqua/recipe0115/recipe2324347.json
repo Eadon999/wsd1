@@ -1,0 +1,60 @@
+{
+    "name": "生ハムだけのポテトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2324347/464x260/68377582e4b8d837a7b7991ab5f84a8a.jpg?u=2696078&p=1377423810",
+    "datePublished": "2013-08-25",
+    "description": "生ハムだけのシンプルなポテトサラダです。味付けは粒マスタード。2015/01/28話題入り（#5)しました。感謝です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "2個"
+        },
+        {
+            "name": "生ハム",
+            "quantity": "4枚"
+        },
+        {
+            "name": "★オリーブオイル",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "★粒マスタード",
+            "quantity": "大さじ1/2杯"
+        },
+        {
+            "name": "★塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "★パセリ(乾燥)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモは皮を向き、鍋で水から茹でる。串が通るぐらいになればOK。",
+        "ボールに茹で上がったジャガイモを入れ、フォーク等で粗く潰す。",
+        "ボールに★の調味料を入れざっくり混ぜあわせる。",
+        "生ハムを手でちぎり、ボールに入れて、全体をよく混ぜ合わせる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2324347",
+    "advice": "私は粗く潰してジャガイモの塊が少し残っている方が好きなのですが、マッシュポテトみたいに完全に潰してもいいかも。",
+    "history": "パンチの有る味付けのポテトサラダを食べたくて、粒マスタードにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生ハムのポテトサラダ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2324347/100x141c/b05e8c0e1cd03011321207c14bde4649.jpg?u=2696078&p=1377423810"
+}

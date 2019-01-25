@@ -1,0 +1,59 @@
+{
+    "name": "初めてでも簡単！栗ごはん☆甘栗で炊き込み",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2056220/464x260/0845b20ed5e994f20a51c4a72ae75b32.jpg?u=4376699&p=1542429083",
+    "datePublished": "2012-12-13",
+    "description": "炊き込みご飯が初めてでもとっても簡単なレシピです。食べたい時の栗ごはん♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "甘栗",
+            "quantity": "150g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "米を磨いで水はいつもと同じにし\n栗と調味料を入れてswオン！！"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "2056220",
+    "advice": "炊飯器のおこわメニューがおすすめみりん風味よりアルコール入り本みりんがおすすめ甘栗の量はお好みで♪",
+    "history": "100均の甘栗で栗ご飯に挑戦これはおすすめです！！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "栗ごはん 8位",
+        "甘栗 3位"
+    ],
+    "related_keywords": [
+        "甘栗 栗ごはん",
+        "栗ごはん",
+        "甘栗 栗ご飯",
+        "甘栗"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2056220/100x141c/e7992bab57d226503b04adfff3e964ca.jpg?u=4376699&p=1542429083"
+}

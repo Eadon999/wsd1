@@ -1,0 +1,60 @@
+{
+    "name": "不器用な私のツナマヨ巻き♡",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/3459218/464x260/9ad760d1c188658bb842f4139175ac2f.jpg?u=7113147&p=1480558665",
+    "datePublished": "2015-10-16",
+    "description": "ツナマヨをオニギリではなく食べやすい巻きで(*^_^*)でも、ご飯は塩味です♡",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "軽く茶碗1杯"
+        },
+        {
+            "name": "シーチキン",
+            "quantity": "半分くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少し"
+        },
+        {
+            "name": "塩",
+            "quantity": "少し"
+        },
+        {
+            "name": "ノリ",
+            "quantity": "一枚"
+        }
+    ],
+    "recipeInstructions": [
+        "シーチキンの油を切り、マヨネーズと醤油を混ぜます。",
+        "ご飯に塩をお好みの量入れ混ぜる。",
+        "巻きすまたは百均の巻き少し型にノリをひき、均一にご飯をのせる。",
+        "ツナマヨをご飯の上におき、ノリで巻き形を整える。",
+        "冷めたらカットして完成です(*^_^*)"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3459218",
+    "advice": "ごはん、具の入れすぎに注意してください。",
+    "history": "娘のお弁当に入れたくて、食べやすいように巻きました(笑)甘い卵焼きを一緒に巻いても美味です(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "シーチキン",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3459218/100x141c/6b495e5d0a88e407399109c9b3db8738.jpg?u=7113147&p=1480558665"
+}

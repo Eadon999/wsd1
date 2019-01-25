@@ -1,0 +1,58 @@
+{
+    "name": "簡単♪❤鶏肉と大根のスタミナ煮❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1932890/464x260/c11f972aa3fe29dd1e58377e11eac3d2.jpg?u=2619264&p=1346016688",
+    "datePublished": "2012-09-06",
+    "description": "すりおろしたニンニクを入れて食欲をそそる煮物に♪圧力鍋ですぐ出来ます✿",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "500g"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "2片"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "圧力鍋に大きめの乱切りにした大根を入れ、その上に一口大に切った鶏肉をのせる。",
+        "ニンニクをすりおろし、調味料と水１Cを入れて火にかけ、圧力がかかってから5分加熱。",
+        "圧力を抜いて蓋をあけ、好みの味になるまで汁を煮詰めて出来上がり♪1度冷やすと味が染みます。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1932890",
+    "advice": "作ってすぐより、1度冷やしてからの方がしっかり味が染みておいしいです♪",
+    "history": "味が染みたトロトロの大根が食べたくて♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "大根",
+        "ニンニク",
+        "砂糖"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/1932890/100x141c/77b6131fc74e913cfbb66b014bac3efd.jpg?u=2619264&p=1346016688"
+}

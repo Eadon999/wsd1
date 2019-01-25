@@ -1,0 +1,63 @@
+{
+    "name": "これは定番！小松菜の辛子和え",
+    "author": {
+        "@type": "Person",
+        "name": "gracias05"
+    },
+    "image": "https://img.cpcdn.com/recipes/2915611/464x260/3b05437bc2c10cab41a3db1e2a9a1b21.jpg?u=4823763&p=1418625333",
+    "datePublished": "2014-12-15",
+    "description": "2015・5月　話題のレシピ入りありがとう♪小松菜が安ければ一度に全部茹でて作りましょう！まずはこの辛子和えからです！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小匙　２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小匙　２"
+        },
+        {
+            "name": "●からし（チューブ）",
+            "quantity": "小匙　１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "好みで少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はきれいに洗って食べやすい長さに切っておきます",
+        "鍋にお湯を沸かし、塩を入れて小松菜を茹でます\n直ぐに水にとってからギュッと絞っておきます",
+        "●の調味料を合わせておき、小松菜を和えます",
+        "好みで鰹節をふってください"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2915611",
+    "advice": "小松菜は大小さまざまな袋が有るので、味見して下さいね！",
+    "history": "我が家で長年作ってきたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "塩",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/2915611/100x141c/279da34216e2a33ab9897d450094f873.jpg?u=4823763&p=1418625333"
+}

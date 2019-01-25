@@ -1,0 +1,55 @@
+{
+    "name": "簡単おいしい❤みそマヨもやし♪",
+    "author": {
+        "@type": "Person",
+        "name": "サヤん"
+    },
+    "image": "https://img.cpcdn.com/recipes/439638/464x260/41204fdec610e957d0f06ec707cca5aa.jpg?u=241032&p=1214217406",
+    "datePublished": "2007-10-06",
+    "description": "もやしだけ！！簡単すぎレシピ♪でもホントに美味しいです❤おかずにも、おつまみにもできますよ★",
+    "recipeYield": "もやし１袋分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "味噌とマヨネーズを合わせておく。面倒な場合はフライパンに直接入れても大丈夫です★",
+        "よく熱したフライパンにごま油を入れる。もやしを投入！！軽く炒めたら、１を入れよく絡めてできあがり♪",
+        "お好みで一味を振っても美味しいです。",
+        "2008.11.28話題入りです★\n\n作ってくださった方々、ありがとうございます！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "439638",
+    "advice": "おうちにあるもので手軽に出来ちゃいます♪♪♪炒め具合はお好みの食感で★",
+    "history": "オイマヨからの発想です★もやし１袋を１食にしたりして、ダイエットにも♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "味噌",
+        "マヨネーズ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/439638/100x141c/95329b394aac03d459f13c2b57bdee06.jpg?u=241032&p=1214217406"
+}

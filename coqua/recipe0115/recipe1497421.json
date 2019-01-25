@@ -1,0 +1,52 @@
+{
+    "name": "イカのおろしマヨポン",
+    "author": {
+        "@type": "Person",
+        "name": "gummymio"
+    },
+    "image": "https://img.cpcdn.com/recipes/1497421/464x260/902ab39c18dff95d81aa3af7dcc5f96a.jpg?u=1675379&p=1310731702",
+    "datePublished": "2011-07-15",
+    "description": "別名『絶対ウマイやつ』うちの弟はコレをそう呼びます(^_^)笑　2012/5/10話題入りしました♬皆さんに感謝です♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "いか",
+            "quantity": "４杯"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1/3束"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "大根はすりおろして水気を切っておく。ネギは小口切りにしておく。",
+        "イカは腸と目、口を取って茹でる。プリッと仕上がるように全体に色が変わったら取り出して氷水で冷やす。",
+        "イカは適当な大きさに切り皿に盛る。上に【１】の大根おろしを盛りネギを散らす。",
+        "全体にポン酢をかけ、マヨネーズをかけて完成！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1497421",
+    "advice": "お好みで一味をかけたり、辛子マヨネーズをかけても美味しいです♬",
+    "history": "夏にサッパリ食べれるようにしました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか"
+    ],
+    "tsukurepo_count": "146",
+    "thumbnail": "https://img.cpcdn.com/recipes/1497421/100x141c/f2d4cbc37f11244c98255c234ca895eb.jpg?u=1675379&p=1310731702"
+}

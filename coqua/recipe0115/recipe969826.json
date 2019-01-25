@@ -1,0 +1,65 @@
+{
+    "name": "☆さんまのくるくるチーズフライ☆",
+    "author": {
+        "@type": "Person",
+        "name": "わのなの"
+    },
+    "image": "https://img.cpcdn.com/recipes/969826/464x260/65c8cefdcc5aac3553968c03b2842c3f.jpg?u=1569939&p=1258555145",
+    "datePublished": "2009-11-19",
+    "description": "焼く、煮る、刺身も良いけどたまにはフライもいかが？安い時に買って下ごしらえして冷凍保存ＯＫ！！ふっくらサクサク♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "４匹"
+        },
+        {
+            "name": "スライスチーズ（ベビーチーズなどお好みで）",
+            "quantity": "２枚（適量）"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "つまようじ",
+            "quantity": "８本"
+        }
+    ],
+    "recipeInstructions": [
+        "さんまは三枚におろす。\r\n\r\n※腹骨も忘れずに削ぎ取ってね☆",
+        "皮、身両側に薄く塩こしょうを振る。",
+        "皮を上にして、チーズを乗せ、くるくるーっときつめに巻き、ようじで止める。",
+        "小麦粉→卵→パン粉の順に付ける。",
+        "このまま冷凍保存ＯＫ☆\r\n揚げるときは凍ったまま油に入れてＯＫですよ♪",
+        "１７０度の油でこんがりするまで両面揚げたら出来上がり☆ \r\n\r\nレモンを絞り、醤油で食べるとさっぱりおいしいですよ♡"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "969826",
+    "advice": "",
+    "history": "さんまを沢山いただいたので、おいしく保存したくてフライにしました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "スライスチーズ",
+        "塩こしょう",
+        "卵"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/969826/100x141c/c05e3428fe09885c48e4d8641af6c0cd.jpg?u=1569939&p=1258555145"
+}

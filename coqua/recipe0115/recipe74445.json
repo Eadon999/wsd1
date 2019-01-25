@@ -1,0 +1,55 @@
+{
+    "name": "すごくおいしい！あっさり中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "artemis"
+    },
+    "image": "https://img.cpcdn.com/recipes/74445/464x260/3c979727bd384a28a00df42d5e598c80.jpg?u=8300&p=1214209563",
+    "datePublished": "2003-01-03",
+    "description": "レタスの外側の葉を使ったスープです。",
+    "recipeYield": "６人分",
+    "recipeIngredient": [
+        {
+            "name": "レタスの外葉",
+            "quantity": "４枚"
+        },
+        {
+            "name": "たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "トリガラスープの素",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小１"
+        },
+        {
+            "name": "水",
+            "quantity": "１Ｌ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "トリガラスープの素・水・塩を鍋に入れ沸騰させる。\r\nレタスの葉をちぎって入れて、再沸騰したらごま油を加える。",
+        "たまごを溶き、水を３０ｃｃほど加えてよく混ぜて穴杓子で加えていく。すぐに火を止め、出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "74445",
+    "advice": "もちろん、どこの部分でも＾＾",
+    "history": "レタスの外葉って、きれいでも捨てていました。でも、なんだかもったいなくって、スープに使うことを思いつきました＾＾",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あっさり中華スープ"
+    ],
+    "tsukurepo_count": "149",
+    "thumbnail": "https://img.cpcdn.com/recipes/74445/100x141c/5357ab44275b9ee638d0febca4b45dfc.jpg?u=8300&p=1214209563"
+}

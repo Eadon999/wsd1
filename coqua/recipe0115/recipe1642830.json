@@ -1,0 +1,88 @@
+{
+    "name": "ピリ辛✿ジャージャー麵",
+    "author": {
+        "@type": "Person",
+        "name": "やっちーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1642830/464x260/0cbedfe2fe41af38cbe54d97b48c6b1a.jpg?u=3460832&p=1323038236",
+    "datePublished": "2011-12-07",
+    "description": "ピリッと辛い肉味噌が癖になります。簡単でランチにもお勧めです、",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚切り落とし肉",
+            "quantity": "１００g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "小さめ１/２個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "２ｃｍ"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１/３袋"
+        },
+        {
+            "name": "＊味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "*酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "*砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "*おろしショウガ",
+            "quantity": "１かけ分"
+        },
+        {
+            "name": "*おろしにんにく",
+            "quantity": "１かけ分"
+        },
+        {
+            "name": "＊鷹の爪",
+            "quantity": "１本"
+        },
+        {
+            "name": "*すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "中華麺（お好みの麺で）",
+            "quantity": "２玉"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は粗めのみじん切り。玉ねぎ・にんじんをみじん切りにします。鷹の爪は種を取り小口切りにして肉みそのたれに混ぜます。",
+        "厚手の鍋に豚肉を入れ火にかけ、肉の色が変わったら玉ねぎ・にんじんを入れて炒めます。",
+        "野菜がしんなりしたら、肉みそだれを入れ良く混ぜ合わせます。１～２分程炒めたら、ラー油を加えて、火を止め混ぜ合わせます。",
+        "麵が茹で上がる直前に、もやしも加え一緒に茹でます。良くお湯をきり、器に盛り付け肉みそをのせて、青ネギを散らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1642830",
+    "advice": "麺は中華麺・うどん・ビーフン・素麺何でもあいますのでお好みで。",
+    "history": "ピリ辛の麺が食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ジャージャー麺"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャージャー麵"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1642830/100x141c/11ee549657872eb1d3f80e00c727728d.jpg?u=3460832&p=1323038236"
+}

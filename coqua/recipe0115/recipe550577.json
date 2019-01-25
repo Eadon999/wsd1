@@ -1,0 +1,70 @@
+{
+    "name": "ピーマンと舞茸の味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "おまめさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/550577/464x260/24456b8a7197f3d6abb599c51806e80a.jpg?u=205043&p=1214219563",
+    "datePublished": "2008-04-17",
+    "description": "ピーマンと舞茸をクタクタに炒めて、味噌味に仕立てました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "3個"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1袋"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "白胡麻",
+            "quantity": "適量"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンと舞茸は千切りにする。\r\n味噌、みりん、酒、醤油。おろしにんにくを良く混ぜ合わせておく。",
+        "熱した鍋にごま油を入れ、ピーマンと舞茸をクタクタになるまで良く炒める。",
+        "合わせた調味料を加えて良く混ぜる。\r\n最後に白胡麻を振りいれたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "550577",
+    "advice": "愛を込める。",
+    "history": "ピーマンが食べたかったけど、3個だけじゃ少なそうだったので舞茸を加えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "舞茸",
+        "味噌",
+        "みりん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/550577/100x141c/500a6ea203794fba5d8b457395c9d7c3.jpg?u=205043&p=1214219563"
+}

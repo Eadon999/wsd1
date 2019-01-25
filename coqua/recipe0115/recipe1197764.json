@@ -1,0 +1,56 @@
+{
+    "name": "簡単！さっぱり✫みょうが梅ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "+youcafe+"
+    },
+    "image": "https://img.cpcdn.com/recipes/1197764/464x260/2fd299ebae13e4e6ee113b58519f68ef.jpg?u=847894&p=1280658057",
+    "datePublished": "2010-08-01",
+    "description": "2016.8.3　話題入り☆ありがとう！食欲のない夏でもモリモリ行けちゃいます！　　おにぎりしてもOK ♫",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "2膳"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "1個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しは種を取り、フォークなどで つぶしておく。",
+        "みょうがは縦半分に切ってから、斜めにスライスする。",
+        "大葉は千切りにする。",
+        "①、②、③と 白ごまをごはんに混ぜたら出来上がり♪",
+        "おにぎりにしても　美味しいですよ～♬おにぎりの場合は、少しお塩を振ってくださいね♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "1197764",
+    "advice": "酸っぱいのがお好きな方は梅干し２個に増量してもOKです☆",
+    "history": "みょうがが大好きなので、ごはんと組み合わせてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "みょうが",
+        "大葉",
+        "梅干し"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1197764/100x141c/2514fa9dce0822cf2fd53ac23988a787.jpg?u=847894&p=1280658057"
+}

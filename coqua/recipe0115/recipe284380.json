@@ -1,0 +1,54 @@
+{
+    "name": "大葉にんにく醤油で♪タラコチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "tomimo"
+    },
+    "image": "https://img.cpcdn.com/recipes/284380/464x260/012716ddb51a7cdecdacc4887fa8ffb0.jpg?u=66622&p=1214213700",
+    "datePublished": "2006-09-24",
+    "description": "簡単で美味しい、風味の良いタラコチャーハンが出来ました♪",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "タラコまたは明太子",
+            "quantity": "１腹"
+        },
+        {
+            "name": "大葉にんにく醤油（ﾚｼﾋﾟID：248794）",
+            "quantity": "小１～"
+        },
+        {
+            "name": "御飯",
+            "quantity": "茶碗１杯強"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "彩り程度"
+        },
+        {
+            "name": "バターまたはマーガリン",
+            "quantity": "１０ｇぐらい"
+        }
+    ],
+    "recipeInstructions": [
+        "タラコまたは明太子は、皮を取り除き中身を出しておく。",
+        "フライパンを強火で熱し、バターを入れて溶けたら御飯を入れて炒める。",
+        "②に①を入れ、タラコをほぐすようにしてよく炒める。",
+        "よく混ざったら最後に鍋肌から大葉にんにく醤油を回しいれ、全体をよく混ぜて出来上がり。彩りにネギを散らしてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "284380",
+    "advice": "ご使用のタラコによって大葉にんにく醤油の量は加減してください。",
+    "history": "思い付きで大葉にんにく醤油を入れてみたら、タラコとの相性もバッチリ♪とても美味しかった！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": [
+        "たらこチャーハン 4位"
+    ],
+    "related_keywords": [
+        "たらこ チャーハン"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/284380/100x141c/ad73dd89832b7a63841c6f52ff6ec3fb.jpg?u=66622&p=1214213700"
+}

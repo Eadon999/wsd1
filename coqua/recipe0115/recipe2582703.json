@@ -1,0 +1,56 @@
+{
+    "name": "厚揚げの梅おろし",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2582703/464x260/3ca1be4ff4ff174dfc53594447c57917.jpg?u=4819316&p=1397217948",
+    "datePublished": "2014-04-11",
+    "description": "14/8/12話題入り有難う、厚揚げに焼き目が付いてカリッと香ばしく、梅おろしでさっぱりいただけます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１個"
+        },
+        {
+            "name": "大根",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げをグリルで両面焼く",
+        "梅干しは種を除き包丁で叩いてペースト状にする",
+        "大根をおろしと２の梅を混ぜる",
+        "お皿に厚揚げを乗せて、その上に３の梅おろしを乗せ、みじん切りにしたねぎを散らす",
+        "食べるときにめんつゆをかける"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2582703",
+    "advice": "厚揚げは表面がカリッとするぐらいまで焼くのが美味しいです",
+    "history": "厚揚げを焼いて大根おろしで食べるのは妻がよく作ってくれる料理です、そこに梅を混ぜて酸味を効かせてみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "大根",
+        "梅干し",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "145",
+    "thumbnail": "https://img.cpcdn.com/recipes/2582703/100x141c/0a23862c2a411e56cdf351f1bb655394.jpg?u=4819316&p=1397217948"
+}

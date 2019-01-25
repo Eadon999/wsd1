@@ -1,0 +1,57 @@
+{
+    "name": "とろろそば☆",
+    "author": {
+        "@type": "Person",
+        "name": "chia"
+    },
+    "image": "https://img.cpcdn.com/recipes/272762/464x260/52da27b3d42e3d3c2edd4557c0c7c42f.jpg?u=19011&p=1214213431",
+    "datePublished": "2006-08-09",
+    "description": "暑くて食欲のない日でもこれならツルツルッといけちゃいまぁす♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "そば",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "長芋",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "おくら",
+            "quantity": "４本"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "２個分"
+        },
+        {
+            "name": "天かす",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は皮をむいてすりおろし、おくらはサッとゆで小口切りにする。",
+        "たっぷりの湯でそばをゆで、冷水でよく冷やして水けをきる。\r\n",
+        "器にそばを盛り、長芋・オクラをかけ、天かす・刻み海苔を散らし、卵黄をのっける。めんつゆをかけたら出来上がりー！\r\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "272762",
+    "advice": "簡単すぎて特にコツはありません＾＾；",
+    "history": "長芋が余ってしまったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": [
+        "とろろそば 6位"
+    ],
+    "related_keywords": [
+        "とろろそば"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/272762/100x141c/991aad6ffa4ec604301e6f8f220f36e1.jpg?u=19011&p=1214213431"
+}

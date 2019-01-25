@@ -1,0 +1,50 @@
+{
+    "name": "長いもシャキシャキ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "りえおさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/249284/464x260/2f18973b26f253ecbbcbbc3b1611cc0c.jpg?u=218170&p=1214212879",
+    "datePublished": "2006-04-17",
+    "description": "簡単に出来ておいしい！ご飯＆お酒が進みます☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "バター",
+            "quantity": "大１～"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大２～"
+        },
+        {
+            "name": "わけぎ",
+            "quantity": "２本位"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮をむき、５ミリ幅の半月に切る。",
+        "フライパンにバターと長いもを入れ、バターが全体に絡まるように炒めたら、麺つゆを回しかけて馴染ませたら完成♪お皿に盛ってわけぎをパラパラ～",
+        "<秋バージョン>\r\nしめじも一緒に炒めました☆\r\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "249284",
+    "advice": "めんつゆはメーカーによって味が違う為、お好みで調整して下さい。我が家はバター＆めんつゆ多目に作る事が多いです☆",
+    "history": "友人宅でご馳走になったレンコンバター炒めの味を参考にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "バター",
+        "めんつゆ",
+        "わけぎ"
+    ],
+    "tsukurepo_count": "301",
+    "thumbnail": "https://img.cpcdn.com/recipes/249284/100x141c/dc2cdebc8ac59d4edba8cd036a74c5d1.jpg?u=218170&p=1214212879"
+}

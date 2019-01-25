@@ -1,0 +1,67 @@
+{
+    "name": "アスパラの生姜ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "ＴＯＭＯＷＡＴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2309185/464x260/a503cac1eea29c0bb7f74f44b5e89977.jpg?u=1024224&p=1461281730",
+    "datePublished": "2013-08-08",
+    "description": "生姜がピリッとくるナムルです♪14.3.3話題入りありがとうございます♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "生姜みじん切り",
+            "quantity": "小さじ２弱"
+        },
+        {
+            "name": "★　鶏がらスープ",
+            "quantity": "小１"
+        },
+        {
+            "name": "★　塩（美味しい物を）",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "★　ゴマ油",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "★　醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "★　酢",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラは、根本を切り落とし、下から５cmくらいピーラーで皮を剥く。\n",
+        "アスパラを塩（分量外）を入れた熱湯で茹で、茹で上がったら水にとる。",
+        "★印の調味料を合わせ、生姜のみじん切り、大葉は手でちぎり②のアスパラと和える。",
+        "14.02.23写真変更\n16.04.22写真変更"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2309185",
+    "advice": "コツ・ポイントは、ありません。",
+    "history": "検索したらなかったので。ナムルは、すぐ出来て、野菜がしっかり摂れるので大好き♥",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ",
+        "大葉",
+        "鶏がらスープ",
+        "塩"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/2309185/100x141c/77f5f7addbfeda2cc7733567a519a1c9.jpg?u=1024224&p=1461281730"
+}

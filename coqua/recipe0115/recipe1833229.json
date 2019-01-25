@@ -1,0 +1,54 @@
+{
+    "name": "キャベツとベーコンの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "ちりりん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1833229/464x260/1c8f793b8110ae9779b1be25e30a2eb3.jpg?u=4059264&p=1338369057",
+    "datePublished": "2012-05-30",
+    "description": "2012.9.4　話題入り感謝♪ご飯がすすむ！お弁当にも最適です♪ベーコンをハムやウィンナーにしてもＧＯＯＤ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "８等分"
+        },
+        {
+            "name": "ベーコン(ハーフサイズ)",
+            "quantity": "２パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ・ベーコンを一口大に切る。",
+        "ベーコンを軽く炒め、キャベツを入れて炒める。",
+        "塩・こしょうをふり、溶き卵を加える。\nざっくり混ぜ、卵に火が通ったらしょうゆをまわしかける。\n全体に混ぜてできあがり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1833229",
+    "advice": "卵に少し牛乳を入れると、できあがりがふんわりします♪味が薄ければ、塩・こしょうやしょうゆで調整してください。",
+    "history": "冷蔵庫のあまりものでボリュームおかずを…と思い、考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ベーコン",
+        "卵",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1833229/100x141c/06feefa7d52a3e2bdbccdfa75af7255e.jpg?u=4059264&p=1338369057"
+}

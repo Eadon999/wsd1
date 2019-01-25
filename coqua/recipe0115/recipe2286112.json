@@ -1,0 +1,50 @@
+{
+    "name": "オッサンのマヨ味噌ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2286112/464x260/079ac8f13dfcde5cf2a6926e5f9ec308.jpg?u=3323767&p=1373799851",
+    "datePublished": "2013-07-14",
+    "description": "サラダに野菜スティックに、混ぜるだけの簡単和風ドレッシングです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "生姜(チューブ)",
+            "quantity": "１～２センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全てをシッカリ混ぜれば完成。お好みの野菜でお召し上がり下さい☆"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2286112",
+    "advice": "味噌は、合わせ味噌を使ってます。お好みで味を見ながら、材料の分量を調整して下さい。",
+    "history": "味噌を使った和風のドレッシングですが、麺つゆを使って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング",
+        "その他/発酵食品・発酵調味料/味噌（みそ）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌 マヨネーズ ドレッシング"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/2286112/100x141c/1e138aef32d45b711c6b1f15d36c68a2.jpg?u=3323767&p=1373799851"
+}

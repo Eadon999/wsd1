@@ -1,0 +1,48 @@
+{
+    "name": "とろとろ～♪白ごまとネギの照りドレ納豆",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2470852/464x260/e87364ec5a6e3dd8b78290fa313cb108.jpg?u=3243126&p=1535492239",
+    "datePublished": "2014-01-21",
+    "description": "ごまとネギを入れた照り焼き風のドレッシングでとろとろ納豆の完成～♪納豆のニオイやネバネバが苦手な人にもおススメです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "★砂糖・醬油・みりん",
+            "quantity": "各大さじ1/2杯"
+        },
+        {
+            "name": "★長ネギ(または細ねぎ)",
+            "quantity": "(お好みで)20ｇ位"
+        },
+        {
+            "name": "★白ごま",
+            "quantity": "大さじ1/2杯～"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆をよくかき混ぜておきます。",
+        "長ねぎをみじん切りにし、他の★の材料と混ぜて、レンジで約30秒加熱します。",
+        "②を①にかけて混ぜれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2470852",
+    "advice": "②の工程では容器にラップをして、600ｗで約30秒加熱しています。(加熱時間は、ご家庭の電子レンジで調節してください。)",
+    "history": "納豆嫌いの子供にニオイとネバネバ阻止対策を考えていたら出来上がりました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白ごま",
+        "納豆 ネギ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2470852/100x141c/c6143c39aa376d5466b230ee91aaf4ff.jpg?u=3243126&p=1535492239"
+}

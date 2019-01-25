@@ -1,0 +1,56 @@
+{
+    "name": "ニンニクたっぷりなイカのソテー　",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/337474/464x260/0655021c23463a178ed33a51876a3fb4.jpg?u=405605&p=1240216758",
+    "datePublished": "2007-02-28",
+    "description": "ニンニクとイカって相性抜群ですよね。冷凍庫にイカがあればすぐに作っちゃう大好きなおつまみです♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "いか",
+            "quantity": "一杯"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "３個（もう少し多めでも）"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片～（２片）"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "1本"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "いかは皮をむき、細くカットしておく。ゲソも使う。（皮が気にならない方はそのままで）",
+        "フライパンに油とにんにくのみじん切りと鷹の爪を入れて、弱火で香りが出るまで炒める。いかを加える。",
+        "いかはあまり火を通さないように。仕上げに４つ切りにしたプチトマトを加えて塩コショウで味を整えたら完成。",
+        "器に盛って、オリーブオイルをほんの少し回しかけるとおいしいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "337474",
+    "advice": "残ったいかのお刺身でも十分です。ニンニクはたっぷりと！ ",
+    "history": "いかとニンニク炒めは大好き！冷蔵庫にあるもので試してます。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカソテー"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/337474/100x141c/4409f25b2a6ea0b73a1f7375a8506be6.jpg?u=405605&p=1240216758"
+}

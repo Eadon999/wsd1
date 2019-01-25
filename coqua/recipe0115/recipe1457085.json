@@ -1,0 +1,49 @@
+{
+    "name": "超簡単・ズッキーニのオリーブオイル焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1457085/464x260/f58ff841d690ea41a3b3e007e2b04c57.jpg?u=2124468&p=1306850354",
+    "datePublished": "2011-06-22",
+    "description": "塩こしょうだけの味つけ。オリーブオイルで焼くだけで、ズッキーニの甘みが口の中に広がります。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "1cmほどの厚さに輪切りにしたズッキーニをオリーブオイルを熱したフライパンに並べるて塩の半量とこしょうを振る。",
+        "強めの火で1分ほど焼いたらひっくり返して残りの塩とこしょうを振って1分ほど焼いて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1457085",
+    "advice": "",
+    "history": "ズッキーニのそのままの味を楽しみたかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "塩",
+        "こしょう",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1457085/100x141c/3e80f1c6091f7b133542d2b4bf3e107a.jpg?u=2124468&p=1306850354"
+}

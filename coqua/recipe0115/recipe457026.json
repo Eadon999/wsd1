@@ -1,0 +1,58 @@
+{
+    "name": "れんこんとベーコンのガーリックマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/457026/464x260/98316d0f955b421e5da213afdf2d8939.jpg?u=230354&p=1214217738",
+    "datePublished": "2007-11-09",
+    "description": "ガーリックマヨサラダ第3弾♫ れんこんもシャキシャキでおいしい～♡",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "1節"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは5ｍｍくらいの厚さの半月切りにし、水にさらす。にんにくは薄切りに、ベーコンは適当な大きさに切る。\r\n",
+        "フライパンににんにくとオリーブオイルを入れて火にかけ、香りが移ったらベーコンとれんこんを加えてよく炒める。",
+        "ボウルに移し、マヨネーズを和えて、塩・ブラックペッパーで味をととのえる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "457026",
+    "advice": "ベーコンの油が出るので、オリーブオイルは少なめでＯＫ♫",
+    "history": "ガーリックマヨサラダ好き♫ごぼうもおいしかったので、次はれんこん♫",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん サラダ",
+        "れんこん サラダ マヨネーズ",
+        "れんこん ベーコン",
+        "れんこん"
+    ],
+    "tsukurepo_count": "608",
+    "thumbnail": "https://img.cpcdn.com/recipes/457026/100x141c/d836f7d324a0da80b368ac2a6e52dfa3.jpg?u=230354&p=1214217738"
+}

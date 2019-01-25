@@ -1,0 +1,55 @@
+{
+    "name": "夜御飯*豚バラと茄子の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "♡シャルトリュー♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2778537/464x260/4e3623d75727ec2b2bdce8152597ac83.jpg?u=9570458&p=1409498636",
+    "datePublished": "2014-09-01",
+    "description": "簡単夕飯のおかず☆甘辛で御飯に合います♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ薄切り",
+            "quantity": "約200g"
+        },
+        {
+            "name": "茄子",
+            "quantity": "3本"
+        },
+        {
+            "name": "★醤油、みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★三温糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ食べやすい長さに切り、茄子は一口大の乱切りにする。調味料★を合わせておく。",
+        "フライパンにサラダ油を熱して茄子を炒める。火が通ってきたら、豚バラも入れて炒める。",
+        "豚が軽く焼けたら★を入れて2〜3分煮からめたら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2778537",
+    "advice": "",
+    "history": "よく作る茄子の照り焼きを豚バラと煮物風に",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "夜 おかず"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/2778537/100x141c/7602cf0be7df8bbe6351fabe35c0b89e.jpg?u=9570458&p=1409498636"
+}

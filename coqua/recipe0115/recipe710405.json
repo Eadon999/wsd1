@@ -1,0 +1,59 @@
+{
+    "name": "✿簡単✿山芋でもう一品✿",
+    "author": {
+        "@type": "Person",
+        "name": "ポアママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/710405/464x260/e1b723b53fa0894fcd7616a6089dc94f.jpg?u=634544&p=1231460760",
+    "datePublished": "2009-01-09",
+    "description": "安い山芋が大好きな私（笑） 旦那様のおつまみにも最適です♡2009年2月18日話題入りさせていただきました♬♫",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "山芋",
+            "quantity": "１５cmくらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "山芋を適度な厚さに切り、フライパンにごま油を熱して切った山芋を炒める。",
+        "焦げ目が付いたら、醤油をまわしかけ、七味をかけてお皿に盛る。",
+        "２の上に刻みネギをのせ、マヨネーズをかけたら出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "710405",
+    "advice": "海苔や鰹節をかけても美味しいです。",
+    "history": "山芋が大好きで夫のおつまみによく作っていました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋",
+        "醤油",
+        "ごま油",
+        "刻みネギ"
+    ],
+    "tsukurepo_count": "118",
+    "thumbnail": "https://img.cpcdn.com/recipes/710405/100x141c/35cd06aebe9612ea9e16a287bcde2b87.jpg?u=634544&p=1231460760"
+}

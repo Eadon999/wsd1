@@ -1,0 +1,49 @@
+{
+    "name": "簡単旨ウマ☆カレーマヨ納豆☆",
+    "author": {
+        "@type": "Person",
+        "name": "★おぺこ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/2412128/464x260/481b7fa5d527c48b4f52b4bcc5337a4a.jpg?u=4845601&p=1407139458",
+    "datePublished": "2013-11-21",
+    "description": "大好きな納豆とカレーの素敵なコラボ☆マヨネーズも入れてコクを出しました♪ジワジワ来る辛さがたまらない♡",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆（付属のタレも）",
+            "quantity": "1パック"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1/2～"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1～"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆をよく混ぜてから、タレ・カレー粉・マヨネーズを入れて混ぜ合わせ、お好みでネギをちらして完成☆",
+        "2013/12/16\n話題入りする事ができました☆\n本当にありがとうございます♡"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2412128",
+    "advice": "カレー粉・マヨネーズの量はお好みで♪",
+    "history": "カレーと納豆が大好きなのに、意外とやったことなかった組み合わせ。かと言って、カレーライスに納豆を入れるのは好きではないので、納豆にカレー粉を入れてみました♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "カレー粉",
+        "マヨネーズ",
+        "ネギ"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/2412128/100x141c/98ee2402ab9d697246b24b85c45cfa82.jpg?u=4845601&p=1407139458"
+}

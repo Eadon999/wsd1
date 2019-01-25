@@ -1,0 +1,60 @@
+{
+    "name": "かぼすの香りドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "kamala"
+    },
+    "image": "https://img.cpcdn.com/recipes/453629/464x260/499674e7b548fb2e79367c0af8b11e0e.jpg?u=623566&p=1214217676",
+    "datePublished": "2007-11-03",
+    "description": "シンプルなサラダはさっぱりほんのり香るドレッシングがいいですね。 オリーブオイルは善玉菌を増やしてくれます。体に栄養を！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カボス",
+            "quantity": "２個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "塩と同量"
+        },
+        {
+            "name": "たまねぎのみじん切り",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "バジルorこしょう",
+            "quantity": "ぱらっと"
+        }
+    ],
+    "recipeInstructions": [
+        "器にカボスを絞りすべて材料を混ぜる。\r\n\r\n※カボスによってはあまり絞れないものもあるのでそのときは量を増やす",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "453629",
+    "advice": "ポイントは「塩」と「砂糖」です。少量だとオリーブオイルの風味に負けてしまいますので味見をしながら多めに入れてください。",
+    "history": "水菜とサニーレタスの緑だけのサラダだったので香りのあるドレッシングを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼす ドレッシング",
+        "カボスのドレッシング"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/453629/100x141c/df8413791e7c6b188308234db316da95.jpg?u=623566&p=1214217676"
+}

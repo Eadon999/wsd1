@@ -1,0 +1,75 @@
+{
+    "name": "まいう～♪ぶりの竜田揚げ＆おろし和え",
+    "author": {
+        "@type": "Person",
+        "name": "meguJJ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2070629/464x260/104a46a202e45c27ba70831a67ae1c2c.jpg?u=4501141&p=1356847285",
+    "datePublished": "2012-12-30",
+    "description": "竜田揚げも美味しいんですが、さらにおろし和えにするともっともっとご飯がすすみま～す♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "Ａ酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "Ａみりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Ａ醤油",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "Ａごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Ａしょうが",
+            "quantity": "1片（千切り）"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "適量"
+        },
+        {
+            "name": "万能ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりは食べやすい大きさに切りＡを30分ほど漬けておく。",
+        "水気をふいて片栗粉をまぶします。袋に入れてシャカシャカするのもいいし、ぶりは水気が無いのできれいにつきます。",
+        "中温でこんがりと揚げていきます。同時に大根おろしを作っておきます。ネギも用意！",
+        "普通の竜田揚げでもいいし、大根があればおろし和えにしてみてください。美味しくてご飯がすすみます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2070629",
+    "advice": "ぶりは水気がないので片栗粉がよくつきます。揚げるのも苦ではないです＾＾",
+    "history": "大根が大量にあるのでおろし和えにしました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "片栗粉",
+        "大根おろし",
+        "万能ねぎ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2070629/100x141c/5e2aa7c9eb7e965c60b27e0787bde1c4.jpg?u=4501141&p=1356847285"
+}

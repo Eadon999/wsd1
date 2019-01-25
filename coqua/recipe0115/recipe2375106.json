@@ -1,0 +1,72 @@
+{
+    "name": "白菜と卵のとろとろ中華スープ♡",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2375106/464x260/634188bcefcb68b5af997a24fb86536d.jpg?u=603745&p=1447767370",
+    "datePublished": "2013-10-15",
+    "description": "白菜と卵で簡単スープ♡とろとろのスープで温まります♪付け合わせにどうぞ!!",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を細かく刻みます。",
+        "卵は溶いておきます。",
+        "水と白菜をお鍋に入れて柔らかくなるまで煮ます。",
+        "☆の調味料を加えます。",
+        "溶き卵を加えます。",
+        "水溶き片栗粉でとろみをつけます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2375106",
+    "advice": "お好みでベーコンなどを加えてくださいね♡",
+    "history": "残り物の白菜を使ってランチに作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 中華スープ",
+        "白菜 付け合わせ",
+        "白菜 鶏ガラスープ"
+    ],
+    "tsukurepo_count": "223",
+    "thumbnail": "https://img.cpcdn.com/recipes/2375106/100x141c/ccc4c5f448c1b717dcf434a5ce7e656f.jpg?u=603745&p=1447767370"
+}

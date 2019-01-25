@@ -1,0 +1,59 @@
+{
+    "name": "ほうれん草が主役の❤簡単クリーム煮❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1734466/464x260/9569150242cb041af8e6b597bd3bfdd3.jpg?u=2619264&p=1331297157",
+    "datePublished": "2012-03-13",
+    "description": "フライパン一つで出来るよ✿野菜がたっぷり摂れるヘルシーなクリーム煮です♪",
+    "recipeYield": "2~3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1袋～"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小1"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1片"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油少々とみじん切りのニンニクを入れて火をつけ、ニンニクの香りがしてきたら一口大に切った鶏肉を入れて炒める",
+        "鶏肉の色が変わったら薄切りの玉ねぎを加えて炒め合わせる。玉ねぎがしんなりしたら小麦粉を振りいれて更に炒め、牛乳を注ぐ。",
+        "コンソメと塩コショウ少々で調味し、ざく切りのほうれん草を加えて全体を混ぜて仕上げる"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1734466",
+    "advice": "ほうれん草を入れたらあまり火を通し過ぎないようにすると、ほうれん草の食感が生かせます♪",
+    "history": "たっぷりほうれん草を食べたら元気になりそう♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 クリーム煮"
+    ],
+    "tsukurepo_count": "170",
+    "thumbnail": "https://img.cpcdn.com/recipes/1734466/100x141c/7431bbcb371e5ed30059ee92a879e999.jpg?u=2619264&p=1331297157"
+}

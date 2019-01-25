@@ -1,0 +1,80 @@
+{
+    "name": "あったか～♪鍋焼きうどん",
+    "author": {
+        "@type": "Person",
+        "name": "ふたごっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/301206/464x260/a53c5b75c2d97670786dbeed4e5e22bc.jpg?u=330642&p=1214214071",
+    "datePublished": "2006-11-15",
+    "description": "寒くなると食べたくなる！！具沢山な鍋焼きうどんです♪子供達も大スキ♪",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍讃岐うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "鶏もも",
+            "quantity": "１／４枚"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１０ｃｍ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１コ"
+        },
+        {
+            "name": "なると",
+            "quantity": "１枚"
+        },
+        {
+            "name": "かき揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "麩",
+            "quantity": "１枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "型を抜いて１枚"
+        },
+        {
+            "name": "味付けの揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "☆かつおだし",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "☆めんつゆ(3倍濃縮)",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に☆のかつおだしとめんつゆを入れて火にかける。鶏ももは一口大に切る。長ネギは斜め切り。にんじんはクッキーの型で抜く。",
+        "沸騰したらうどんと鶏ももを投入。肉が白っぽくなったら卵以外の具を投入。",
+        "長ネギがしんなりしたら真ん中に卵を割り入れる。卵はお好みの固さでどうぞ♪\r\n",
+        "",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "301206",
+    "advice": "とにかくお好きな具をどうぞ♪エビ天なんて入れたらゴージャスですね～☆",
+    "history": "物心ついた時から食べてました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鍋焼きうどん",
+        "鍋焼きうどん　子供",
+        "鍋焼きうどん 冷凍うどん",
+        "鍋焼きうどん 具沢山"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/301206/100x141c/cf97789e318352b74219f0fa2bf410b8.jpg?u=330642&p=1214214071"
+}

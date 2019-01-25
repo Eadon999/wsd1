@@ -1,0 +1,59 @@
+{
+    "name": "塩鮭のチーズキャベツ蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1721766/464x260/55be898401de6a86c570c4556b71e401.jpg?u=602880&p=1338274212",
+    "datePublished": "2012-02-27",
+    "description": "★★★つくれぽ100人ありがとう★★★塩鮭をキャベツとチーズに合わせてみました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "塩鮭の切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ピザチーズ",
+            "quantity": "お好み量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "塩鮭は食べやすく3等分くらいに切っておく。キャベツは大きめにざく切り。",
+        "フライパンに水を煮立たせコンソメを入れ、鮭とキャベツを入れる。",
+        "塩コショウをして蓋をし、キャベツがクタクタになるまで蒸し煮にする。",
+        "チーズを上からかけてトロリとするまで蓋をして、完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1721766",
+    "advice": "",
+    "history": "塩鮭の使い道に悩んで辿り着きました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩鮭 キャベツ",
+        "塩鮭",
+        "鮭 キャベツ チーズ",
+        "鮭 キャベツ 蒸し"
+    ],
+    "tsukurepo_count": "145",
+    "thumbnail": "https://img.cpcdn.com/recipes/1721766/100x141c/45221f7d2afaca7ff5676f77b7522775.jpg?u=602880&p=1338274212"
+}

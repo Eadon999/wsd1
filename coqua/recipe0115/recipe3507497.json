@@ -1,0 +1,79 @@
+{
+    "name": "煮込むだけおでん",
+    "author": {
+        "@type": "Person",
+        "name": "ゆこごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3507497/464x260/a5cc6981ebc7599c5832f8dc249bcc48.jpg?u=12749237&p=1447078036",
+    "datePublished": "2015-11-09",
+    "description": "出汁も取らずに煮込むだけ。簡単シンプルおでんです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "出汁昆布",
+            "quantity": "30センチ"
+        },
+        {
+            "name": "鶏手羽元",
+            "quantity": "8本"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "はんぺん",
+            "quantity": "1枚"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "２個"
+        },
+        {
+            "name": "大根",
+            "quantity": "半分"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き、４等分に、こんにゃく、はんぺんも４等分に切る、ジャガイモは皮を剥き半分に、卵はかた茹でにしておく",
+        "鍋に具材を入れ、ひたひたになるまで水を入れ、昆布は４等分にカットして火にかける",
+        "具材に火が通ったら、酒を入れ一煮立ちさせ、醤油、塩を入れて煮込む",
+        "味見をし、味が薄いようなら塩を、濃いようなら水を足す。煮込んだら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3507497",
+    "advice": "大根、こんにゃくに隠し包丁を入れると味が染みやすいです。具材はなんでも。前の日に煮て、一晩ゆっくり味を染ませると美味しいです。味が薄い時に、醤油を足してしまうと、色が濃くなります。",
+    "history": "仕事が忙しい日の我が家の定番です。",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/おでん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "出汁昆布",
+        "鶏手羽元",
+        "さつま揚げ",
+        "はんぺん"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3507497/100x141c/210429e4ce4a2447340aaf15113b6d96.jpg?u=12749237&p=1447078036"
+}

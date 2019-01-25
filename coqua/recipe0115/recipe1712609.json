@@ -1,0 +1,76 @@
+{
+    "name": "生姜が香る！ふんわりとろ～り中華卵スープ",
+    "author": {
+        "@type": "Person",
+        "name": "スタイリッシュママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1712609/464x260/79a1a7bcb2d176fed5b70a6c6b8cbb3e.jpg?u=3674035&p=1437380582",
+    "datePublished": "2012-02-25",
+    "description": "ふんわりとろとろ優しい味わいの卵スープ♪生姜風味で女子力UP！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "生姜（千切り）",
+            "quantity": "１～１．５片（２０～３０ｇ）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "パセリ（トッピング用）",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "中華スープの素（ウエイパー）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜を千切りにする。",
+        "鍋にごま油を熱し、生姜を炒める。\n",
+        "香りがたって、色づき始めたら、水を入れる。沸騰したら、スープの素、酒、醤油、塩を入れ、水溶き片栗粉でとろみをつける。",
+        "再度沸騰したら、ときほぐした卵を流し入れ、かき混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1712609",
+    "advice": "ふんわり仕上げるには、スープにとろみがついて沸騰してから卵を入れます",
+    "history": "生姜がピリッときいた、シンプルな卵スープを作りたかった・・・",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生姜卵スープ"
+    ],
+    "tsukurepo_count": "140",
+    "thumbnail": "https://img.cpcdn.com/recipes/1712609/100x141c/10a26728e956df725759a9ee66f6ec43.jpg?u=3674035&p=1437380582"
+}

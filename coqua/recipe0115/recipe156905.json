@@ -1,0 +1,45 @@
+{
+    "name": "まさしく！トマト豚",
+    "author": {
+        "@type": "Person",
+        "name": "なが・あちゅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/156905/464x260/30d0118801e89e185e677b30085a9789.jpg?u=53377&p=1214211153",
+    "datePublished": "2004-08-20",
+    "description": "材料はトマトと豚肉の二つだけ。家族のお気に入りでよく作ります♪超簡単なのに侮れない美味しさです～♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中２個"
+        },
+        {
+            "name": "豚肉（ももうす切り）",
+            "quantity": "１５０g"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは皮つきのまま太さ１ｃｍ位のくし切りにする。",
+        "トマトに豚肉を巻き付け、つまようじで挿してとめ、塩・こしょうを両面にふる。",
+        "魚焼きグリルで両面焼いたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "156905",
+    "advice": "コツなんてございません♪　魚焼きグリルで焼くので余分な油も落ちてカロリーオフ☆",
+    "history": "焼き鳥屋さんのメニューがヒントになりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "豚肉",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/156905/100x141c/7771c2a496d21bdf6a9b0a5132844cae.jpg?u=53377&p=1214211153"
+}

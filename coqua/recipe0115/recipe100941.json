@@ -1,0 +1,59 @@
+{
+    "name": "カリフラワーの簡単ピクルス風",
+    "author": {
+        "@type": "Person",
+        "name": "アクアマリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/100941/464x260/fc9ddb5d58e90a2dfdcfe758a7df71d0.jpg?u=19941&p=1214210085",
+    "datePublished": "2003-07-18",
+    "description": "甘めのピクルスです。カリフラワーが傷む前に酢に漬け込んだら長く持ちます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カリフラワー　小さめ",
+            "quantity": "１株"
+        },
+        {
+            "name": "酢",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "お好みで小さじ1/2程度"
+        }
+    ],
+    "recipeInstructions": [
+        "酢･水・塩・砂糖･コショウを深めの容器に入れかき混ぜます。写真右側は基本のピクルス液にカレー粉を入れたものです。うちでは2種類作ります。",
+        "カリフラワーを子株に分けて、沸騰したお湯に入れて固めにゆでます。",
+        "茹で上がったら湯を切り、熱いまま液の中に入れます。冷めたら冷蔵庫で冷やして召し上がってください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "100941",
+    "advice": "",
+    "history": "小さい頃からの定番です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリフラワー ピクルス"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/100941/100x141c/c878350007d4fe24dbe2f35b55662ac0.jpg?u=19941&p=1214210085"
+}

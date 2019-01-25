@@ -1,0 +1,75 @@
+{
+    "name": "ご飯がすすむ～牛のきんぴら春雨",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/995708/464x260/b03958ca3ace8f2070df8f2f31d10b05.jpg?u=1109634&p=1261439599",
+    "datePublished": "2009-12-22",
+    "description": "味は吉野家風のしっかりした味です！ご飯にのせて牛のきんぴら丼にしも美味しいです！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛薄切り肉（豚肉でも）",
+            "quantity": "100g"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "春雨",
+            "quantity": "片手で軽く1つかみ、30g"
+        },
+        {
+            "name": "水",
+            "quantity": "150cc～200cc"
+        },
+        {
+            "name": "すった生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2.5"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "鰹だしのもと",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "☆具材の準備 \r\n牛蒡はささがきにしてよく洗い、人参は細切り、玉ねぎは薄切り、春雨は熱湯で戻して2～3等分に切る。",
+        "☆炒める\r\n生姜・牛肉・牛蒡・玉ねぎ・人参の順に炒めて、水を入れ蓋をしてやわらかくなったら、調味料・春雨を入れて炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "995708",
+    "advice": "☆レシピは長い牛蒡を使った分量です。☆牛蒡がしっかりやわらかくなって、味がしっかりつくまで炒めてください。",
+    "history": "美味しいきんぴらが作りたくて考えました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きんぴら春雨",
+        "牛肉 はるさめ"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/995708/100x141c/c9f73e2b6c44000b36cf9066401b0ad9.jpg?u=1109634&p=1261439599"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "◇鯛のかぶと煮◇",
+    "author": {
+        "@type": "Person",
+        "name": "chaccoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/1998433/464x260/7ddab62762e9334a52b43da9ea6c29fa.jpg?u=4015650&p=1350559648",
+    "datePublished": "2012-10-18",
+    "description": "美味しそうな鯛のあらを見つけたら　かぶと煮にしましょう✿　山椒の実がアクセントで美味しいよ♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鯛のあら（頭）",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "◇水",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "◇酒",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "◇みりん",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "◇醤油",
+            "quantity": "60ｃｃ"
+        },
+        {
+            "name": "◇砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "山椒の実",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に調味料を入れて　沸騰させる。\n鯛のあらを並べて　山椒の実を加える。",
+        "落としぶたをして（うちはリードペーパータオルを使っています）中火で　１５分ほど煮る。",
+        "出来上がり✿"
+    ],
+    "cookTime": null,
+    "recipe_id": "1998433",
+    "advice": "山椒の実は初夏にとって冷凍しておくと一年中使えて便利です。",
+    "history": "お祭りや祝日などで　鯛のお刺身がたくさん出ているときは　あらも美味しそうなのが　沢山出るので嬉しくて　かぶと煮を作ります。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鯛"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯛のあら",
+        "水",
+        "みりん",
+        "醤油"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/1998433/100x141c/689408027abb6219a9b6676f24d790be.jpg?u=4015650&p=1350559648"
+}

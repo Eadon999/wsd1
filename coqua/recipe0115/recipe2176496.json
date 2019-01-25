@@ -1,0 +1,68 @@
+{
+    "name": "しそ巻き豆腐の照焼き",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2176496/464x260/56cb97a00bed81eaead0e0e7e74d7ada.jpg?u=4819316&p=1376303219",
+    "datePublished": "2013-04-02",
+    "description": "14/2/26話題入りしました！ヘルシーな照焼きの中で、大葉がいい味を出します",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "８枚"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "＜豆腐を水切り＞豆腐を８つに切り、キッチンペーパーで包み、レンジ５００Wで３分加熱する",
+        "豆腐の粗熱が取れたら、大葉を巻き、片栗粉をまぶす",
+        "フライパンにごま油を加熱し、豆腐の両面を焼く",
+        "●を混ぜてフライパンに入れて豆腐に絡めるようにし、汁気がほどんどなくなれば出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2176496",
+    "advice": "豆腐はフライ返しなどを使って丁寧に扱ってください",
+    "history": "かつて鶏つくねの大葉巻き照焼きを作って美味しかったのですが、似たような物をもっと手軽にと思って作りました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "大葉",
+        "片栗粉",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2176496/100x141c/cf364b10e35fd82bf58ebd4da35e4872.jpg?u=4819316&p=1376303219"
+}

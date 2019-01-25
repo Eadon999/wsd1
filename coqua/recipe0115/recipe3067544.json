@@ -1,0 +1,59 @@
+{
+    "name": "とっても簡単♡鶏そぼろ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3067544/464x260/4e51a33b646246722746e39c8778243c.jpg?u=1228553&p=1426584922",
+    "datePublished": "2015-03-17",
+    "description": "泡だて器でとっても簡単に出来ちゃいます♪ふんわりポロポロ鶏そぼろ。(*´ｪ`*)",
+    "recipeYield": "200g分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうが（すりおろし）",
+            "quantity": "1片分（適量）"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に全ての材料を入れ泡だて器で軽く混ぜ合わせる\n",
+        "中火にかけ混ぜながら火を通してゆく（泡だて器を立ててお肉をつぶすようにしたりぐるりと混ぜたりしながら）",
+        "ぽろぽろになったらスプーンに持ち替え\n水分を飛ばすようにしっかりと煮詰めれば出来上がり♪",
+        "「お手軽♡鶏そぼろと三つ葉のお寿司♪」\nレシピID : 3067549"
+    ],
+    "cookTime": null,
+    "recipe_id": "3067544",
+    "advice": "しょうがはチューブでも出来るよう「すりおろし」にしましたが、もちろん「しぼり汁」でも♪醤油・砂糖の量はお好みで♡",
+    "history": "楽して鶏そぼろを作ろうとヾ(´ε｀*)ゝ ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ひき肉",
+        "醤油",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/3067544/100x141c/3f16d1c9c3f61cfb62fc8438b4e61f75.jpg?u=1228553&p=1426584922"
+}

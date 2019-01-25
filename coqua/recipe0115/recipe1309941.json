@@ -1,0 +1,79 @@
+{
+    "name": "チリコンカン",
+    "author": {
+        "@type": "Person",
+        "name": "moku×2"
+    },
+    "image": "https://img.cpcdn.com/recipes/1309941/464x260/a3a95f4a4ffdc5e776b8a57a25f3a02a.jpg?u=2727382&p=1292471112",
+    "datePublished": "2010-12-16",
+    "description": "野菜が苦手でもこうやって入ってしまってると子供もパクパク食べます。子供も食べるので辛みは入れていません。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "ミックスビーンズ（煮豆）",
+            "quantity": "100g"
+        },
+        {
+            "name": "タマネギ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１カケ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "カットトマト缶",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は全てみじん切りにする。",
+        "フライパンに油をひき、ニンニクが香るまで炒め、タマネギ・ニンジン・ピーマンを炒める。",
+        "野菜がしんなりしたら、ひき肉を入れ、赤い部分がなくなったら、小麦粉を入れてさらに炒める。",
+        "ミックスビーンズとトマト缶を入れ、ケチャップ・砂糖・塩・コショウを入れて、少し煮詰めれば出来上がり。",
+        "パンにつけてもGood",
+        "タコライスにしても美味しいですよ。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1309941",
+    "advice": "大人向けにはチリパウダーなどを入れて、辛みをつけるといいですよ。",
+    "history": "冷凍されていたミックスビーンズがあったので、作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/ミックスビーンズ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚挽肉 トマト缶 チリコンカン",
+        "チリコンカン"
+    ],
+    "tsukurepo_count": "267",
+    "thumbnail": "https://img.cpcdn.com/recipes/1309941/100x141c/147d5c27fe7aaa022b17f28b1eac5f0c.jpg?u=2727382&p=1292471112"
+}

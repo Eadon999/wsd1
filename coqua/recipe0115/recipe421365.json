@@ -1,0 +1,57 @@
+{
+    "name": "牛肉のしぐれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "紫の薔薇と真珠。"
+    },
+    "image": "https://img.cpcdn.com/recipes/421365/464x260/fa77bf5e5862f1d8938045d0fac1dfa7.jpg?u=549142&p=1214217052",
+    "datePublished": "2007-08-25",
+    "description": "和牛の切り落としのお買い得品があれば必ず作ります。お弁当のおかずにもよいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "和牛切り落とし",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "砂糖以外の調味料を混ぜておく。\n生姜は千切りにしておく。",
+        "鍋を強火に掛け薄く油を引く。（牛脂を使うと尚good)\n小さめに切った肉を広げ、生姜を散らす。",
+        "肉の上に砂糖をふり、すぐに①を回しかけ炒め煮にする。火を中〜弱火で調整し、煮汁が無くなるまで、焦がさないように煮きる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "421365",
+    "advice": "何度も作ったけど、やっぱり和牛で作るのが一番かな？冷蔵庫に保存すればかなり日持ちします。お弁当のおかずに大活躍です。",
+    "history": "。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "和牛 切り落とし",
+        "和牛 しぐれ煮",
+        "牛肉 しぐれ煮"
+    ],
+    "tsukurepo_count": "261",
+    "thumbnail": "https://img.cpcdn.com/recipes/421365/100x141c/74332cf0d91eef53303f9f7fc3998da3.jpg?u=549142&p=1214217052"
+}

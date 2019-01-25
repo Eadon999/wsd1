@@ -1,0 +1,61 @@
+{
+    "name": "☆えのきの混ぜご飯☆",
+    "author": {
+        "@type": "Person",
+        "name": "yuri0821"
+    },
+    "image": "https://img.cpcdn.com/recipes/2320303/464x260/df68f62c26d71474b341d096d4bf4d17.jpg?u=3704963&p=1377059096",
+    "datePublished": "2013-08-21",
+    "description": "炒めて混ぜるだけ！簡単でおいしいので、子供が大好きなメニューです(^^♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "一袋"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "一袋（3g）"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "茶碗２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは１cm位に切る。",
+        "フライパンでバターを熱して、えのきを投入。",
+        "えのきがしんなりしてきたら、めんつゆ＆みりんを入れて炒める。",
+        "かつお節を入れて混ぜたら、塩コショウで味を調える。",
+        "あたたかいごはんに混ぜたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2320303",
+    "advice": "○バターは多めかもしれませんが、その方が味にコクが出ます。○塩コショウは気持ち大目にかけた方がいいかも？○めんつゆは３倍希釈を使いました。２倍希釈のめんつゆの場合は、分量を調節してみてください。",
+    "history": "２歳の子供が大好きなレシピです。お昼に作るとよろこんで食べてくれます！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきの混ぜご飯"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2320303/100x141c/68a3a17800f4e1856d53ca11fb1e68ad.jpg?u=3704963&p=1377059096"
+}

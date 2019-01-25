@@ -1,0 +1,41 @@
+{
+    "name": "菊菜のおかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3158357/464x260/5070dc49700e2b197636ef2594186d90.jpg?u=3099986&p=1430821069",
+    "datePublished": "2015-05-05",
+    "description": "簡単。おいしい。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "菊菜",
+            "quantity": "2／3束"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "濃口しょうゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "菊菜は4センチ長さに切ってから茹でて水にさらして手で水気を切る。\n→皿に盛る。\n→かつおぶしをかける。\n→醤油をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3158357",
+    "advice": "切って茹でると扱いやすいです。",
+    "history": "すき焼きの残りの菊菜で作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 おかか和え"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3158357/100x141c/fbc337c8dc0a5cbb028beb4d827006d0.jpg?u=3099986&p=1430821069"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "赤魚のあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ぷくっとぷくまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/2470156/464x260/c0b18cd543b16d21ed47ebb231c7bfea.jpg?u=2717390&p=1390356749",
+    "datePublished": "2014-02-15",
+    "description": "♡話題入り感謝♡赤魚の煮付けにあきたら、あんかけはいかがでしょうか？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "赤魚",
+            "quantity": "４～５切れ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "玉ねぎ（千切り）",
+            "quantity": "1/2個分"
+        },
+        {
+            "name": "人参（千切り）",
+            "quantity": "５センチ分"
+        },
+        {
+            "name": "しょうゆ・みりん・お酢・料理酒",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "生姜のすり下ろし",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "120ｍL"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "片栗粉大さじ１～２に倍量の水"
+        }
+    ],
+    "recipeInstructions": [
+        "【あん】\n[あん]の材料のうち、水溶き片栗粉以外を小鍋に入れて火をつけ、玉ねぎと人参に火が通るまで煮る。",
+        "いったん火を止めて、水溶き片栗粉を少しずつ加え、再び火をつけてとろみをつける。",
+        "【赤魚】\n赤魚は塩を軽くふり、時間をおいてキッチンペーパーで水気を拭き取る。",
+        "赤魚の両面に小麦粉をまぶす。フライパンに油を熱して赤魚を両面焼く。火が通りにくい場合は蓋をして蒸し焼きにする。",
+        "お皿に赤魚を盛り、上から【あん】をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2470156",
+    "advice": "赤魚に限らず、たらやかれいでもどうぞ♪",
+    "history": "赤魚の煮付けに飽きたので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤魚 あんかけ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2470156/100x141c/ce2644943ef666b03b17af98fe6edfd0.jpg?u=2717390&p=1390356749"
+}

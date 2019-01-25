@@ -1,0 +1,59 @@
+{
+    "name": "タレなしで美味しい♪焼肉キムチ生春巻き☆",
+    "author": {
+        "@type": "Person",
+        "name": "らえさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1534896/464x260/9ea147937f27d9502745fa6324c33fcc.jpg?u=2467498&p=1314769923",
+    "datePublished": "2011-08-28",
+    "description": "焼肉とキムチを生春巻きで巻いたら、タレはいりません！おかずにもビールのおつまみにもおススメよ～♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "春雨",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "生春巻き",
+            "quantity": "8枚"
+        },
+        {
+            "name": "レタス",
+            "quantity": "8枚"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉を焼肉のタレで炒めて冷ましておきます。",
+        "春雨を茹でて冷まし、良く水気を切っておきます。",
+        "レタスも洗って、良く水気を切っておきます。",
+        "濡らした生春巻きにレタス→焼肉→キムチ→春雨とのせて、くるくるっと巻きます。",
+        "3～4等分してお皿に盛り付けます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1534896",
+    "advice": "牛肉は、こま切れでも切り落としでもな～んでもOK♪春雨を入れると、食感も楽しいしさっぱりした口あたりです。",
+    "history": "帰宅の遅いパパりんのビールのおつまみに、晩ごはんの残りの牛焼肉でクルクルっと巻いちゃいました☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/生春巻き"
+    ],
+    "rankings": [
+        "生春巻き 6位"
+    ],
+    "related_keywords": [
+        "生春巻き"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1534896/100x141c/573d7d94fafb22a04fb781801daa0862.jpg?u=2467498&p=1314769923"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "お弁当に☆ハムマヨの花♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/293609/464x260/c0fd6e51a622fac1020fc7ffcb9bb612.jpg?u=42283&p=1214213903",
+    "datePublished": "2006-10-24",
+    "description": "お弁当の片隅に♪ハムとマヨネーズを使ってチャチャッと一品('-'*)",
+    "recipeYield": "花２つ分",
+    "recipeIngredient": [
+        {
+            "name": "ロースハムスライス",
+            "quantity": "２枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリの微塵切り（又は乾燥パセリ又は青海苔でも）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムは２つに切る。マヨネーズをのせて、パセリの微塵切りなどを散らす。２枚を合わせて端からクルクル巻くだけですヽ('ｰ'#)/",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "293609",
+    "advice": "特にありません=*＾-＾*=",
+    "history": "お弁当の隙間に、以前から活躍してくれているおかずですヽ(*^^*)ノ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/293609/100x141c/0f9ac5e632e9f3ff819d607b57c5ea03.jpg?u=42283&p=1214213903"
+}

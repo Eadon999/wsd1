@@ -1,0 +1,49 @@
+{
+    "name": "簡単！キャベツのポン酢サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あけちゃんち。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2648875/464x260/a534cb1ff5cdbff4745dca70650621bf.jpg?u=8517295&p=1401365265",
+    "datePublished": "2014-05-29",
+    "description": "暑い日が続いたら、パッパッと出来る簡単サラダで夏を乗り切ろう。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "新キャベツ",
+            "quantity": "葉3〜4枚"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは芯と葉を分けて切る。\n耐熱容器に芯→葉の順に入れラップをして600w2分くらいそのままにしておく。",
+        "ボールに移し、ポン酢とごま油をかけ冷蔵庫で冷やす。冷えたら器に盛り付け、白ごまをふる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2648875",
+    "advice": "レンジにかけた後しばらくそのまま置いておくと余熱で加熱されるので丁度良い歯触りになります。",
+    "history": "暑くてキッチンに立つのが億劫になり、早く出来るレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新キャベツ",
+        "ポン酢",
+        "ごま油",
+        "白ごま"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2648875/100x141c/44744814ed1b7eee74c55eb5cb6dba42.jpg?u=8517295&p=1401365265"
+}

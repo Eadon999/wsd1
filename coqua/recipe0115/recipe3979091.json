@@ -1,0 +1,66 @@
+{
+    "name": "鶏とおネギの玉子とじ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3979091/464x260/991e3dba92c87a63c73dcbcd7e5fe9e1.jpg?u=9552524&p=1468661738",
+    "datePublished": "2016-07-17",
+    "description": "甘めの玉子とじです(^^)ご飯に乗っけても美味しいよ♡",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１００g"
+        },
+        {
+            "name": "玉子",
+            "quantity": "２個"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "２本"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は余分な脂を取り除きひと口大に切る。青ネギは４㎝長さに切る。",
+        "小鍋に☆を入れて火にかけ沸騰させます。",
+        "②に鶏肉を加え沸騰したら中火にして肉に火を通します。",
+        "ネギを加え再度沸いてきたら玉子を回し入れ沸々してきたらフタをして中火で火を通します。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3979091",
+    "advice": "いつもは一人用の土鍋で作ってそのまま食卓へ。洗い物削減(^^)",
+    "history": "こんなご飯に合う玉子とじまで・・・我が家の旦那様は芋焼酎のおともにします(-_-;)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉 卵とじ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3979091/100x141c/dd11db7342ec3fd0ab2916ac184f762a.jpg?u=9552524&p=1468661738"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "キュウリとベーコンの塩炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1526498/464x260/e23047b5e068c46e4442dab514c412ed.jpg?u=2513693&p=1313729788",
+    "datePublished": "2011-08-23",
+    "description": "キュウリの水分を塩でだしてから炒めると、青臭さがなくなって美味しい炒め物が出来ますよ。",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗引き黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは縦半分に切ってから乱切りにし、塩２つまみをまぶして５分おき、水気を絞っておきます。",
+        "ベーコンは３センチ程度に切っておきます。ニンニクは薄切りにしておきます。",
+        "フライパンにサラダ油とニンニクを入れ中火でニンニクの香りが出るまで炒め、次にベーコンを入れます。",
+        "ベーコンの油が出たらキュウリを入れ、強火で２分炒めて塩と粗引き黒コショウで味を調えて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1526498",
+    "advice": "キュウリは必ず強火で短時間で炒めて下さいね。",
+    "history": "キュウリを栽培しているので色んな食べ方をしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり ベーコン"
+    ],
+    "tsukurepo_count": "109",
+    "thumbnail": "https://img.cpcdn.com/recipes/1526498/100x141c/add599475795c81c45c7310f50730b57.jpg?u=2513693&p=1313729788"
+}

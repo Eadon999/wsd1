@@ -1,0 +1,67 @@
+{
+    "name": "蓮根入り肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3053415/464x260/49fddeab4c33e000b6d8c81657d935b1.jpg?u=2495483&p=1425695694",
+    "datePublished": "2015-03-07",
+    "description": "ほくほく蓮根が美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "じゃが芋",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "４分の１個"
+        },
+        {
+            "name": "糸こんにゃく",
+            "quantity": "２分の１袋"
+        },
+        {
+            "name": "牛肉",
+            "quantity": "１００g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は２センチ幅で４つに切る。じゃが芋は４等分。にんじんは乱切り。玉ねぎはくし切りに。",
+        "糸こんは下茹でして食べやすく切る。",
+        "鍋に水と１と２と牛肉を入れてじゃが芋がある程度柔らかくなったら調味料を入れて煮る"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3053415",
+    "advice": "",
+    "history": "蓮根が残ってたので入れてみたらほくほくして美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉じゃが れんこん"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3053415/100x141c/2aca655b05d0fb2320bcca7de39b111a.jpg?u=2495483&p=1425695694"
+}

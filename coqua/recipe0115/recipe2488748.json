@@ -1,0 +1,67 @@
+{
+    "name": "大豆と切干し大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2488748/464x260/e4483598b822b85eb72318a6a957597e.jpg?u=3900353&p=1391486380",
+    "datePublished": "2014-02-04",
+    "description": "地味だけど、滋味あふれる優しいおかず。",
+    "recipeYield": "4〜5人分",
+    "recipeIngredient": [
+        {
+            "name": "大豆水煮",
+            "quantity": "120g"
+        },
+        {
+            "name": "切干し大根",
+            "quantity": "乾燥30g"
+        },
+        {
+            "name": "人参",
+            "quantity": "40g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "20g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "出汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "切干し大根はぬるま湯で戻す。人参は千切り。油揚げは食べやすい大きさに切る。",
+        "軽く水を切った切干し大根を乾煎りし、砂糖、酒、人参、醤油、出汁、油揚げ、大豆を順に加える。",
+        "煮詰まる手前で味を見て、みりんを加減して加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2488748",
+    "advice": "人参の甘みが加わるので甘過ぎない様に、みりんの量は加減する。",
+    "history": "やりそうでやらなかった定番食材の組み合わせ、試してみたら美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根の煮物 大豆"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2488748/100x141c/d53716428feb7d00f90cb19d856e0f0e.jpg?u=3900353&p=1391486380"
+}

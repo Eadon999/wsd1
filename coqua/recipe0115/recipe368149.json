@@ -1,0 +1,54 @@
+{
+    "name": "『トマト好きになる』♡サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/368149/464x260/25ef288cc6b9930330ce44321836e8ba.jpg?u=322621&p=1214215537",
+    "datePublished": "2007-05-02",
+    "description": "ﾄﾏﾄ嫌いな娘が唯一『美味しい♡』と完食してくれるﾄﾏﾄｻﾗﾀﾞです♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "３個"
+        },
+        {
+            "name": "●玉ねぎのみじん切り",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "●にんにくのすりおろし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●ポン酢",
+            "quantity": "６０ｃｃ"
+        },
+        {
+            "name": "●ゴマ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはみじん切りにして　数回水を替えながらしばらく水にひたしておく　苦味がなくなれば水気をしっかり切っておく",
+        "食べやすい大きさに切ったﾄﾏﾄに１の玉ねぎと●を合わせたものを食べる直前で和えたら出来上がり",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "368149",
+    "advice": "ﾌﾟﾁﾄﾏﾄを半分にしたもので作っても　　にんにくは生のものをすり下ろすと辛いので市販品を使いました",
+    "history": "雑誌に掲載されていたものを我が家風にｱﾚﾝｼﾞしました",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "にんにくのすりおろし",
+        "ポン酢",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/368149/100x141c/f14aad928c1d03e95e5e9d1247749f7a.jpg?u=322621&p=1214215537"
+}

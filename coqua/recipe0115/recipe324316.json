@@ -1,0 +1,54 @@
+{
+    "name": "わかめ豆腐♥♡天かすのせ冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/324316/464x260/e309a9bdb1731d18fe7c0f5a445370b1.jpg?u=304393&p=1214214594",
+    "datePublished": "2007-01-30",
+    "description": "わかめも入れて天かすあとのせサクサクでいただきましょう。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "天かす",
+            "quantity": "大さじ４～"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "希釈３倍大さじ４"
+        },
+        {
+            "name": "水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は軽く水切りしておく。半分に切る。わかめは戻しておく。",
+        "器にわかめ・豆腐を入れ、薄めためんつゆをかけ、最後に天かすを乗せて召し上がれ。",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "324316",
+    "advice": "天かすは必ず最後に乗せてくださいね。",
+    "history": "いつもの冷奴を簡単アレンジ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "乾燥わかめ",
+        "天かす",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "406",
+    "thumbnail": "https://img.cpcdn.com/recipes/324316/100x141c/fc6359a707259e0b08d757b678d601fb.jpg?u=304393&p=1214214594"
+}

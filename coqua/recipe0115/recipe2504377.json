@@ -1,0 +1,62 @@
+{
+    "name": "ごぼうとれんこんの梅煮",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2504377/464x260/586799e9f66ffc2bfec03f1d36501cb0.jpg?u=4819316&p=1392385969",
+    "datePublished": "2014-02-15",
+    "description": "17/7/28話題入り有難うございます、甘酢で美味しく食べられるごぼうとれんこんを梅の酸味とで甘酸っぱく煮ました",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "１本"
+        },
+        {
+            "name": "れんこん",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "顆粒だしの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮をこそげて乱切りにして水に漬けてアク抜きをする",
+        "れんこんは皮をむいて１センチ厚さの半月に切る",
+        "鍋にれんこんとごぼうと水を入れて加熱する",
+        "煮えてきたら酒、みりん、顆粒だしの素を入れる",
+        "梅干しを種を除いて細かく叩いたものを４に加える",
+        "煮汁が半分ぐらいになったら火を止めて器に盛る"
+    ],
+    "cookTime": null,
+    "recipe_id": "2504377",
+    "advice": "",
+    "history": "酢れんこんや酢ごぼうがあるので、じゃあその酢っぱさを、酢ではなく梅干しで似たものを作れば、梅の香りも加わり美味しくなると思って作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん ごぼう 甘酢"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2504377/100x141c/96ae3d351e6b2946496c0dd71eadcca5.jpg?u=4819316&p=1392385969"
+}

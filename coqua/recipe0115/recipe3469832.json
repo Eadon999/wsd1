@@ -1,0 +1,57 @@
+{
+    "name": "しめじとえのきの青じそ炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "くにしゃん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/3469832/464x260/f9a0884697be69e7feca241eb7e0b8ab.jpg?u=7615655&p=1445427276",
+    "datePublished": "2015-10-20",
+    "description": "簡単に酒の肴を作りました(^o^)vこれが旨いんだよね～(^o^)v",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "半株"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1株"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "10枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1位"
+        },
+        {
+            "name": "ミツカン　味ぽん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじ、えのきは、根を切り、ほぐします♪青じそは、洗い、粗い千切りにします♪",
+        "フライパンを熱し、ごま油を入れ、しめじ、えのきを入れ炒めます♪",
+        "しめじ、えのきがしんなりなったら味ぽんを入れ混ぜ合わせ火を止めて青じそを絡めて出来上がり(^-^)v",
+        "お皿に入れて、ハイ！どうぞ召し上がれ＼(^-^)／"
+    ],
+    "cookTime": null,
+    "recipe_id": "3469832",
+    "advice": "火を止めて青じそを絡めます♪",
+    "history": "酒の肴が足らなかったので、野菜室の余り物で、即興で作りました(^o^)v",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじえのき",
+        "しめじ 大葉"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3469832/100x141c/d1603ec14c32bded8a913af7a34b2d9d.jpg?u=7615655&p=1445427276"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "ニラ玉納豆",
+    "author": {
+        "@type": "Person",
+        "name": "Kaz0731"
+    },
+    "image": "https://img.cpcdn.com/recipes/551205/464x260/23c57c73bcd0971ff2cf8528ebd2d0f6.jpg?u=539816&p=1214219573",
+    "datePublished": "2008-04-14",
+    "description": "くせになる味",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ　(はぶいてもいいよ)",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個（一人一個ね）"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ソース",
+            "quantity": "適宜"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは一束買ったのですが、ちょっと多そうだったので一応計ってみました40ｇ",
+        "卵3個納豆1パックニラをボールにいれます。",
+        "あわだてないようにそーっと混ぜる",
+        "熱したフライパンへ流し込み裏表焼きます",
+        "火が通ったらソースとマヨネーズをお好きなだけ・・・",
+        "ニラは冷凍でもOK\nレシピID：552082"
+    ],
+    "cookTime": null,
+    "recipe_id": "551205",
+    "advice": "手順3で混ぜすぎ注意、泡が立つほど混ぜない方がいいみたい。",
+    "history": "先日行った居酒屋さんで食べました。 あまり美味しかったので作ってみました、簡単です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "納豆",
+        "ソース"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/551205/100x141c/ef3483824a2b95242ee996edfa56eda8.jpg?u=539816&p=1214219573"
+}

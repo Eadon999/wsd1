@@ -1,0 +1,41 @@
+{
+    "name": "✿塩昆布＊ツナおにぎり✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/466847/464x260/08a02d8cf7d55bb638d9c12b295a0bdf.jpg?u=271833&p=1272869842",
+    "datePublished": "2007-11-28",
+    "description": "塩昆布の旨みとツナの味がとても良く合います♪",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗1杯半"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1/2缶"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルなどに材料を全て入れて混ぜ合わせ、おにぎりにします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "466847",
+    "advice": "ラップを使って形成すると手がベタつきません。",
+    "history": "家にある材料を組み合わせて、思いつきで作りました♪ ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩昆布 おにぎり ツナ"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/466847/100x141c/a406ed74750a4677acf05c692a1d7206.jpg?u=271833&p=1272869842"
+}

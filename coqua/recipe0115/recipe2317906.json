@@ -1,0 +1,62 @@
+{
+    "name": "なめこ・わかめ・大葉のお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "☆熊八☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2317906/464x260/2639b2f3c68abe0cc84c7e2b887337c0.jpg?u=4559708&p=1430916095",
+    "datePublished": "2013-09-01",
+    "description": "ツルっとしたなめこと大葉の香りが美味しいお味噌汁です☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なめこ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "大葉",
+            "quantity": "6枚"
+        },
+        {
+            "name": "カットわかめ(乾燥)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "だしの素(ほんだし)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉を粗くみじん切りにする。",
+        "鍋に湯(適量)を沸かして、なめこをさっと湯がく。",
+        "ザルにあげて流水で流す。",
+        "鍋に水(400cc)を入れて沸かし沸騰したらだしの素を入れる。\n弱火にして味噌を溶く。",
+        "なめこを入れて火を強める。",
+        "沸騰直前まで温めたらわかめを入れて火を止める。",
+        "わかめが広がったらお碗によそって、大葉を散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2317906",
+    "advice": "だしの素・味噌の量は味見して加減して下さい。",
+    "history": "さっぱり・飲みやすいので、暑い日によく作るお味噌汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめこ",
+        "大葉",
+        "カットわかめ",
+        "水"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2317906/100x141c/4a18ad501efcf8af9a46c2f8c27f8938.jpg?u=4559708&p=1430916095"
+}

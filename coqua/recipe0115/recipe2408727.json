@@ -1,0 +1,64 @@
+{
+    "name": "ベーコンと大根の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "☆yumix☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2408727/464x260/2cbf6bd84f943de4540f38127bbdce21.jpg?u=3025309&p=1384657258",
+    "datePublished": "2013-11-18",
+    "description": "残っていた大根を手軽な一品に☆和風で優しい味付けで、お弁当にも、オツマミにも♪2014年5月8日話題入りしました！",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ベーコン(出来れば厚切り)",
+            "quantity": "70g"
+        },
+        {
+            "name": "大根",
+            "quantity": "5～6cm"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆顆粒だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根も、ベーコンも拍子木切りにしておく。\n",
+        "フライパンに胡麻油をしき、ベーコンを炒め、続いて大根も炒める。\n",
+        "火が通ったら、☆の材料を入れ、水分がなくなるまで炒める。",
+        "お皿に盛りつけたら、鰹節をふりかけ完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2408727",
+    "advice": "調味料を入れたら、ちょっと炒め煮のようにして、大根に味を含ませます。",
+    "history": "冷蔵庫にちょっとだけ残っていた大根を、簡単なオツマミにアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベーコン",
+        "大根",
+        "胡麻油",
+        "顆粒だし"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/2408727/100x141c/4a49ffa2f8fcbb4286f4e309d1a37fe6.jpg?u=3025309&p=1384657258"
+}

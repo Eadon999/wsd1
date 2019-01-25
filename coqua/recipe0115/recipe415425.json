@@ -1,0 +1,50 @@
+{
+    "name": "超簡単!! 手作りなめ茸",
+    "author": {
+        "@type": "Person",
+        "name": "まりんぷー"
+    },
+    "image": "https://img.cpcdn.com/recipes/415425/464x260/347d7e65b4ed3f230909e67674087dd5.jpg?u=552723&p=1214216933",
+    "datePublished": "2007-08-09",
+    "description": "調味料とえのきを煮るだけの簡単レシピ。節約レシピとしてもおすすめです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "2袋"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ ３"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは軸を切り落とし、３等分にします。",
+        "調味料を鍋に入れ、煮たたせます。",
+        "２の鍋にえのきを加え、中火にし、とろみが出るまで煮詰めたら、出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "415425",
+    "advice": "コツは特にありません。とっても簡単です。防腐剤が入っていないため、長期の保存はできません。長期保存をされたい場合は冷凍してくださいね。",
+    "history": "安価なえのきの常備菜のなめ茸。家庭で作ってみようと思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "しょう油",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/415425/100x141c/c6309a2261d40c69558675b6c0e94210.jpg?u=552723&p=1214216933"
+}

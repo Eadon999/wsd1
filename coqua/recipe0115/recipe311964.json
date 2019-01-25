@@ -1,0 +1,58 @@
+{
+    "name": "えのきとちくわのマヨポン和え",
+    "author": {
+        "@type": "Person",
+        "name": "Lantana"
+    },
+    "image": "https://img.cpcdn.com/recipes/311964/464x260/fea2fedad81102fdcc49bae3cfa80fa8.jpg?u=14305&p=1214214330",
+    "datePublished": "2006-12-19",
+    "description": "簡単にできるので、もう一品という時にぜひお試し下さいね。",
+    "recipeYield": "2人",
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本～1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1弱"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ2弱"
+        },
+        {
+            "name": "煎りごま",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "えのき茸は根元を切り落とし、半分の長さに切って、レンジで３５秒ほど加熱する。",
+        "きゅうりはえのきと同じ位の長さの細切りにし、ちくわは薄めの輪切りにする。",
+        "えのき・きゅうり・ちくわをボウルに入れ、マヨネーズ、ポン酢、ごまを加えてよく和えて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "311964",
+    "advice": "えのきは加熱しすぎないようにしてくださいね。水分が出たときには、水をきってから他の材料と合わせてください。冷蔵庫に入っている他の野菜を入れちゃってもいいですよ。",
+    "history": "兄からマヨネーズポン酢味のお菓子が送られてきて「おいしい♪」と思ったので、身近にある材料で和え物にしてみました。マヨネーズ・ポン酢はお好みで加減してくださいね。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき茸",
+        "ちくわ",
+        "きゅうり",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/311964/100x141c/1096585d4c9f7846114cdc12ad344dbe.jpg?u=14305&p=1214214330"
+}

@@ -1,0 +1,84 @@
+{
+    "name": "ひじきのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2552615/464x260/95c3d3c4e9df137b75b2617af807606b.jpg?u=1194496&p=1395346208",
+    "datePublished": "2014-03-21",
+    "description": "マヨ不使用のさっぱりしたサラダです。シャキシャキを楽しんでください♬",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき（乾燥）",
+            "quantity": "５㌘"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "少々"
+        },
+        {
+            "name": "じゃがいも(小)",
+            "quantity": "1個"
+        },
+        {
+            "name": "人参",
+            "quantity": "25㌘"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "大きい葉2枚ほど"
+        },
+        {
+            "name": "★サラダ油",
+            "quantity": "小２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小２"
+        },
+        {
+            "name": "★塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "★生姜（チューブ）",
+            "quantity": "２㎝"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは水で戻し、☆の調味料で軽く煮て下味をつける。",
+        "じゃがいも、人参は千切りにしてさっと茹でて冷ましておく。\n\nしゃきしゃきのじゃがいもが苦手な方はもっと火を通して下さい。",
+        "キャベツは短冊切りにし、茹でる。\nざるにあげ、冷めたら水気を絞る。",
+        "★のドレッシングを作り、レンジで加熱する。（600Wで４０秒ほど。）\n加熱したら、冷ましておく。",
+        "冷めた野菜とドレッシングを和えて完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2552615",
+    "advice": "キャベツの水気はしっかりときってください。味が薄くなってしまいます。",
+    "history": "給食のメニューをちょっとアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "醤油",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/2552615/100x141c/a3f43c53d108da090f6177ec8baf46ea.jpg?u=1194496&p=1395346208"
+}

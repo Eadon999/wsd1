@@ -1,0 +1,52 @@
+{
+    "name": "ご飯がススム！照り焼き胸肉",
+    "author": {
+        "@type": "Person",
+        "name": "oninopantu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2950588/464x260/966a7a0dd81dc41bdb3a338d4ce8239d.jpg?u=8016002&p=1420417711",
+    "datePublished": "2015-01-05",
+    "description": "簡単・安い・うまい三拍子揃った主菜です",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ山盛り２"
+        },
+        {
+            "name": "砂糖・醤油",
+            "quantity": "大４"
+        },
+        {
+            "name": "酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "砂糖・醤油・酢は混ぜておく",
+        "鶏胸肉は皮を取り一口大のそぎ切りにし、ビニール袋に入れる\n小麦粉を投入し\n全体に行き渡る様にフルリフリ",
+        "多めの油をひいたフライパンに鶏肉を並べて中火で両面こんがり焼く\n",
+        "焼けたら弱火にし合わせ調味料を入れ煮絡めたら完成\n "
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2950588",
+    "advice": "味濃いめなので、薄味のお好きな方は調味料を減らして下さい",
+    "history": "家族全員が大好きな鶏胸肉で我が家の食卓に度々登場するメニューです",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "照り焼き胸肉"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/2950588/100x141c/6f388191b1b86d4d7236e73a228f60b3.jpg?u=8016002&p=1420417711"
+}

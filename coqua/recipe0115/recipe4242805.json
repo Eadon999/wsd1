@@ -1,0 +1,47 @@
+{
+    "name": "【簡単】キャベトマスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ちぃ兄やん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4242805/464x260/a907e965994dc8afea801e0f92c7e4f1.jpg?u=15009924&p=1482036952",
+    "datePublished": "2016-12-18",
+    "description": "朝の忙しい時・ランチのお供にもう１品！って時にどうぞ。すぐ出来てビタミン・食物繊維などの栄養も手軽に補給できます！",
+    "recipeYield": "1人前",
+    "recipeIngredient": [
+        {
+            "name": "トマトジュース（トマト系野菜ジュースOK)",
+            "quantity": "150～200cc"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "適量（器に半分位入る程度）"
+        },
+        {
+            "name": "粒状コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ブラックペッパー以外の材料を器に入れてラップ無しで500ｗ2分20秒（600ｗ2分10秒）加熱してよく混ぜたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "4242805",
+    "advice": "・味が物足りなければ分量外の塩で調整してください・ブラックペッパーはお好みで（入れた方が味が締まって美味しいと思います）",
+    "history": "サラダ用のキャベツの千切りが余ってる時にたまにやります",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/トマトスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマトジュース",
+        "キャベツ",
+        "ブラックペッパー"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4242805/100x141c/048ef1b88dec3eed9ca828f3013666a5.jpg?u=15009924&p=1482036952"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "ホタテのにんにくレモンバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/732011/464x260/6583c9adf14669275afc312984e53eb5.jpg?u=276760&p=1234298091",
+    "datePublished": "2009-02-11",
+    "description": "簡単なホタテのソテーです。にんにくとレモン、バターで味付け。最後にクレソルで風味づけ。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "刺身用のホタテ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "●バター",
+            "quantity": "１０グラム"
+        },
+        {
+            "name": "●にんにくのみじんぎり",
+            "quantity": "1かけ分"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "たらーっと好みで"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイルを熱し、ホタテを色よく焼いて器に盛りつける。",
+        "同じフライパンににんにくとバターを入れてにんにくが焦げないように弱火で炒め、酒を加える。レモン汁を加えて１にかける。",
+        "クレイジーソルトとドライパセリをふりかけて出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "732011",
+    "advice": "にんにくが焦げないように。",
+    "history": "刺身用のホタテが安かったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "刺身用 ホタテ ソテー",
+        "ホタテ ソテー",
+        "ガーリックレモンバター",
+        "帆立貝 ソテー"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/732011/100x141c/462057a2e40dae1251a433eeef527541.jpg?u=276760&p=1234298091"
+}

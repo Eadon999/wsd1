@@ -1,0 +1,55 @@
+{
+    "name": "芋蔓と蒟蒻の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "☆Rokko☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2842046/464x260/3c9025a8ec5a2bda6248c9e2cc96c32e.jpg?u=10625372&p=1413486629",
+    "datePublished": "2014-10-18",
+    "description": "芋蔓美味しく頂けますよ。ほっこりするお味です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "芋蔓",
+            "quantity": "1束"
+        },
+        {
+            "name": "蒟蒻",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "芋蔓はふきのようにぽきぽき折りながら、筋を取り、水につける。こんにゃくは塩でもんで、あく抜き。",
+        "水気を切り、フライパンにごま油をいれ芋蔓・蒟蒻を入れ火にかけ、強火、ふつふつしたら中火で炒める。",
+        "油がまわったら、調味料を入れて、蒸し煮に、しんなりしたらok"
+    ],
+    "cookTime": null,
+    "recipe_id": "2842046",
+    "advice": "芋蔓の下処理、今回は一度湯がかずに、水に浸けるのみで、フライパンに入れてみました。美味しくいただけました（＾＾；）。",
+    "history": "芋蔓と蒟蒻、相性が良さそうと思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "芋蔓"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2842046/100x141c/7ea965994d04181c26f8bf5fcfdabdc9.jpg?u=10625372&p=1413486629"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "トロトロ♪豆腐とえのきのかき玉スープ",
+    "author": {
+        "@type": "Person",
+        "name": "KT121"
+    },
+    "image": "https://img.cpcdn.com/recipes/364398/464x260/e9d3f8ef9c4b7d2f640f854acde9317f.jpg?u=270619&p=1294833293",
+    "datePublished": "2007-04-24",
+    "description": "柔らかいお豆腐がプルプル♪口当たりのいいスープです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１/２丁"
+        },
+        {
+            "name": "えのき",
+            "quantity": "半袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "生姜（おろす）",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "４５０ｃｃ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩・ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "少量"
+        },
+        {
+            "name": "水溶き片栗粉（なくても）",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "：豆腐は適当な一口大に角切り、えのきもカット。",
+        "：鍋に中華スープを煮立てて１と生姜を加える。豆腐を少し崩しながら火を通す。",
+        "：片栗粉ひとつまみ加えて溶いた卵を流しいれてフワフワに。ごま油を垂らして塩・ブラックペッパーで味を調える。",
+        "：お好みで水溶き片栗粉でとろみをつけて、刻みネギをのせてどうぞ。",
+        "＊Facebookページにておいしいもの配信→ http://p.tl/W977"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "364398",
+    "advice": "お豆腐は少し崩れた方がおいしいです。えのきで自然にスープにとろみが出ますが、お好みで水溶き片栗粉で更にトロトロにしても。",
+    "history": "かき玉スープが好きなので、家にあった材料で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐スープ",
+        "えのき スープ"
+    ],
+    "tsukurepo_count": "476",
+    "thumbnail": "https://img.cpcdn.com/recipes/364398/100x141c/e7ba0442dc7f26651bb56944f719714f.jpg?u=270619&p=1294833293"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "【農家のレシピ】小松菜の旨煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1262483/464x260/2d9e224a862ba0d3e9435b727b4e6c45.jpg?u=2513693&p=1287409714",
+    "datePublished": "2010-10-19",
+    "description": "コショウが決め手の、小松菜の旨煮。うどんにかけたり、どんぶりにしたりも出来ます。コショウ効果で体がとっても温まりますよ☆",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ２（大さじ２の水で溶いておく）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "小さじ3分の1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は洗って根を切り落とし5センチのざく切りにします。豚肉は食べやすい大きさに切っておきます",
+        "フライパンに油を入れ豚肉が白くなるまで中火で炒め、小松菜を入れます。",
+        "最初はフライパンからあふれそうですがすぐにかさが減ります。全体的にシナっとなったら【A】を入れ5分煮ます",
+        "最後に水溶き片栗粉を回しかけ、とろみをつけて完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "1262483",
+    "advice": "",
+    "history": "小松菜どんぶりを作ろうと思って出来たレシピです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "豚こま切れ肉",
+        "片栗粉",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/1262483/100x141c/aeccfeb9fa195ea32b3a40c60d5e7dc4.jpg?u=2513693&p=1287409714"
+}

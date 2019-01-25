@@ -1,0 +1,74 @@
+{
+    "name": "春雨の中華サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4148961/464x260/faf9022a8fd16fec49628ce6b80775ad.jpg?u=4819316&p=1477652664",
+    "datePublished": "2016-10-28",
+    "description": "17/2/8話題入り有難うございます、春雨を使っての中華サラダ、よくあるかと思います、豆板醤でピリ辛にしてみました",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "春雨（乾燥）",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "３センチ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじん、きゅうりは細切りにして塩でもんでしばらく置き水気を切る",
+        "ハムは細切りに切る",
+        "卵を焼いて錦糸卵を作る ",
+        "鍋に湯を沸かし、春雨を指示通りの時間茹で、食べやすい長さに切る",
+        "ボウルに●を入れ、にんじん、きゅうり、春雨、卵、ハムを入れて和える ",
+        "器に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4148961",
+    "advice": "はじめにきゅうりとにんじんに塩を振って水気を切ることで味がしまります",
+    "history": "我が家で普通に作る中華サラダです",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨サラダ 豆板醤"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/4148961/100x141c/0eb84f191ba5b3ab098ad0fd63b18349.jpg?u=4819316&p=1477652664"
+}

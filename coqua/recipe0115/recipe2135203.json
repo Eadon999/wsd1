@@ -1,0 +1,59 @@
+{
+    "name": "シンプル☆もやしとシメジの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2135203/464x260/954a50b603bcf1afc5814058faa06b91.jpg?u=603745&p=1447766367",
+    "datePublished": "2013-02-27",
+    "description": "とてもシンプルな野菜ときのこの炒め物。お弁当の付け合わせにも使えます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を下準備します。",
+        "フライパンで野菜とキノコを炒めます。",
+        "☆の調味料を加えて味付けをします。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2135203",
+    "advice": "",
+    "history": "冷蔵庫の余り物で、夕飯の付け合わせに1品作りました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし しめじ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2135203/100x141c/72ab7896c07d3b1e65763a52c217b5e2.jpg?u=603745&p=1447766367"
+}

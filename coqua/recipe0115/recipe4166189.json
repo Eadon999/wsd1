@@ -1,0 +1,64 @@
+{
+    "name": "ダシダで肉吸い風うどん",
+    "author": {
+        "@type": "Person",
+        "name": "うにらさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4166189/464x260/8b9629d26128dddff378e942ba17770c.jpg?u=10641847&p=1478437994",
+    "datePublished": "2016-11-06",
+    "description": "ダシダと白だしのWのコクで少量の肉でもおいしい☆　",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "300㏄"
+        },
+        {
+            "name": "ダシダ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "牛小間肉",
+            "quantity": "30g"
+        },
+        {
+            "name": "冷凍うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水、ダシダ、白だしを加え沸騰させ、牛小間肉を箸でほぐしながえら加えます。アクが出たら取り除いてくださいね。",
+        "冷凍うどんを加えます。",
+        "うどんと牛肉に火が通ったら丼に移します。　",
+        "スープに葱の斜め切りを加えすぐに火を止めます。",
+        "丼にスープを注げば出来上がり。お好みで粉山椒や七味唐辛子を振って召し上がれ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4166189",
+    "advice": "牛肉は出汁が沸騰したところに入れるのがコツです。　白だしはメーカーにより塩分が異なるので加減してください。",
+    "history": "クックモニターでいただいたダシダを使って肉吸い風うどんを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉吸い うどん",
+        "ダシダ うどん",
+        "肉吸い 白だし",
+        "肉吸い"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4166189/100x141c/1084e696d4368e24e26b7e97a3fc3d49.jpg?u=10641847&p=1478437994"
+}

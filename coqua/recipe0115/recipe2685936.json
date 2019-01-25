@@ -1,0 +1,62 @@
+{
+    "name": "簡単！卵とワカメの中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "♡シャルトリュー♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2685936/464x260/aee645862be1bbe8c9f52036502ac5d0.jpg?u=9570458&p=1403708253",
+    "datePublished": "2014-06-26",
+    "description": "お家にあるもので簡単速攻スープ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "乾燥ワカメ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "3カップ"
+        },
+        {
+            "name": "中華あじの素",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "数滴"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水と乾燥ワカメを入れて火にかける。",
+        "沸騰したら中華あじの素を入れて、軽く塩コショウする。",
+        "溶き卵を回し入れて、卵が浮き上がってきたら、ごま油と白ごまを入れて、ひと混ぜ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2685936",
+    "advice": "卵投入後あまり混ぜない。火加減は中火くらいで。",
+    "history": "中華系の献立にあわせて。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "乾燥ワカメ",
+        "中華あじの素",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2685936/100x141c/29dc1ff94f92443559ac6fece0c46fe8.jpg?u=9570458&p=1403708253"
+}

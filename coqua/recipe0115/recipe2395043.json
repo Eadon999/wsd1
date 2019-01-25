@@ -1,0 +1,48 @@
+{
+    "name": "★簡単★キャベツ塩昆布ツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "もんまりえ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2395043/464x260/7cfded15196cf23ae507ad54fe2f957d.jpg?u=5321518&p=1383464069",
+    "datePublished": "2013-11-03",
+    "description": "2013年12月30日、話題入り感謝★簡単にできます！キャベツの消費に。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/3個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切りにする。残りの材料を全て混ぜ、完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2395043",
+    "advice": "",
+    "history": "アボカドで同じような味付けで食べるのが好きで、キャベツでも美味しいかなと思い作りました。（アボカドの時はごま油を入れます。）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ツナ缶",
+        "塩昆布",
+        "いりごま"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2395043/100x141c/35aaec05c9874f583d0b0cf1dd663370.jpg?u=5321518&p=1383464069"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "炊飯器で白菜チキン",
+    "author": {
+        "@type": "Person",
+        "name": "3kie"
+    },
+    "image": "https://img.cpcdn.com/recipes/178365/464x260/5874f578810df7bc34526504fc4f4607.jpg?u=56026&p=1214211545",
+    "datePublished": "2005-01-18",
+    "description": "お肉がと～っても柔らかくなるので、炊飯器を使いました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚　（265g）"
+        },
+        {
+            "name": "白菜",
+            "quantity": "1/4株"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "1カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を8等分にし、塩コショウする。白菜はざく切りにする。",
+        "鶏肉をフライパンできつね色に焼く。",
+        "炊飯器に白菜を入れて、その上に[２]の鶏肉を入れ、調味料と水を入れたら早炊きでスイッチポン！",
+        "好みで、ごま油、豆板醤を入れてもいいでしょう。"
+    ],
+    "cookTime": null,
+    "recipe_id": "178365",
+    "advice": "白菜は鶏肉の下に敷いた方が旨みが出ます。白菜の水分が出るので、水はたくさん入れなくてもOKだと思います。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 鶏肉 炊飯器",
+        "白菜 炊飯器"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/178365/100x141c/12f9ffb4c58fe57a272d18813634fba6.jpg?u=56026&p=1214211545"
+}

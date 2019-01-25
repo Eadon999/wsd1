@@ -1,0 +1,57 @@
+{
+    "name": "たこと胡瓜とわかめの酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2078161/464x260/d647cadad6f470f541890d49e220bacd.jpg?u=1298841&p=1357732747",
+    "datePublished": "2013-01-09",
+    "description": "13/06/14話題入り☆ 分量さえおさえれば、酸っぱくなくて美味しい酢の物が簡単にできます☆お料理の箸休めに最適♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩蔵わかめ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "塩蔵わかめは水でよく塩を洗い流して水気を切り、食べやすい大きさに切る。胡瓜はスライサーでスライスし、たこも薄切りにする。",
+        "酢と白だしに砂糖を加えてよく溶かし、１を加えて和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2078161",
+    "advice": "",
+    "history": "我が家の簡単酢の物です♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ",
+        "きゅうり",
+        "塩蔵わかめ",
+        "酢"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2078161/100x141c/1444712ff7d070f309b184380077a574.jpg?u=1298841&p=1357732747"
+}

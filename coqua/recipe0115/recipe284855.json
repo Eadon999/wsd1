@@ -1,0 +1,67 @@
+{
+    "name": "超簡単！照り煮",
+    "author": {
+        "@type": "Person",
+        "name": "とろです"
+    },
+    "image": "https://img.cpcdn.com/recipes/284855/464x260/de5d5de0afbfe2b20421dd8025c04dd7.jpg?u=248457&p=1214213712",
+    "datePublished": "2006-09-26",
+    "description": "調味料が大さじ２ばかり！超簡単でふっくら照りのあるおいしい煮物です！",
+    "recipeYield": "4～５人",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "さつまあげ",
+            "quantity": "小なら８個程度"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "２個"
+        },
+        {
+            "name": "水",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "昆布",
+            "quantity": "１０センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "肉、じゃがいも、さつまあげを一口大にきる。全部の材料、調味料を鍋に入れる。中～強火で１０分くらい、ぐつぐつ煮る。汁気がなくなってきたら、火を止めてからめ蓋をする。蓋して１０分出来上がり♪",
+        "にんじんも入るとキレイですね",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "284855",
+    "advice": "超簡単で一瞬で覚えるレシピです！ ぜひ、さつまあげを入れてくださいね！他のものだと味が変わります＾＾",
+    "history": "じゃがいもが、だいこんになったり、にんじんになったり、その時あるもので作ります！照り照りで甘くておいしいよ～",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "さつまあげ",
+        "じゃがいも",
+        "水"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/284855/100x141c/c843d7e68e433ed9774bf3968b8c650e.jpg?u=248457&p=1214213712"
+}

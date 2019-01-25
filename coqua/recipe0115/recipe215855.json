@@ -1,0 +1,63 @@
+{
+    "name": "白胡麻ジェノベーゼ",
+    "author": {
+        "@type": "Person",
+        "name": "けいちょん＊megu"
+    },
+    "image": "https://img.cpcdn.com/recipes/215855/464x260/8da873c087bed9001c248c909b9a8e99.jpg?u=57833&p=1214212211",
+    "datePublished": "2005-09-11",
+    "description": "松の実がない！買いに行くのももったいない！で出来たレシピです。クセがなくあっさり食べられます。絶対オススメ！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "バジルの葉",
+            "quantity": "20～30㌘"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "200㌘"
+        }
+    ],
+    "recipeInstructions": [
+        "バジルの葉をきれいに洗って、フープロ（すり鉢など）に入れます。",
+        "残りの材料も入れたら、バジルの葉が細かくなるまですりつぶします。",
+        "茹で上がったパスタに絡めたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "215855",
+    "advice": "塩・パルメザンチーズはお好みで調節してください。チーズはなくても美味しいです！！手順はとっても簡単だけど、食べると驚くほど本格的な味です！！",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/ジェノベーゼ",
+        "今日のご飯・おかず/ソース・ドレッシング/パスタソース/ジェノベーゼソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "バジルの葉",
+        "にんにく",
+        "白いりごま",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/215855/100x141c/e71a5201c3a9436107e5d536c2473f85.jpg?u=57833&p=1214212211"
+}

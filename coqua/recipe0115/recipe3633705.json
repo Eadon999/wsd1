@@ -1,0 +1,51 @@
+{
+    "name": "だれでも簡単！ちくわの磯辺揚げ（コツあり",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3633705/464x260/3645ae4dfd52215fec5fc043c907a393.jpg?u=4376699&p=1453292586",
+    "datePublished": "2016-01-20",
+    "description": "ちくわは浮いてしまうのでちょっとコツあり",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "4本"
+        },
+        {
+            "name": "青のり",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "カップ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "カップ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "小麦粉、水をよく混ぜ青のりを加えて軽く混ぜる",
+        "ちくわを2等分にして天ぷら粉につける\n縦にして中の天ぷら粉を出してから160度の油に4個投入",
+        "2分程でまん丸とふくれてきます",
+        "網で押さえて20秒\nしっかり揚げて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3633705",
+    "advice": "揚げると膨らむので入れ過ぎ注意押さえてしっかり揚げると揚げ終わってからも元ほど細くなりませんお皿に盛ってから飾りで青のりを♪",
+    "history": "細い竹輪で美味しい磯部揚げに挑戦",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "青のり",
+        "小麦粉",
+        "水"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3633705/100x141c/672980f9fbeb8e5ff9b4e6ef63036d05.jpg?u=4376699&p=1453292586"
+}

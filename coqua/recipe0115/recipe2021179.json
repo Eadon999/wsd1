@@ -1,0 +1,53 @@
+{
+    "name": "鶏と白菜のコンソメ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ｏｎｊｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2021179/464x260/f2421b06eb4858ef08dfddee8f20e486.jpg?u=5036827&p=1352371414",
+    "datePublished": "2012-11-08",
+    "description": "材料をフライパンに入れるだけ　できあがりまで触らない　蒸し焼きされた鶏肉が超柔らかだよ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１／４"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は2cmのざく切りに　鶏もも肉は1cmの細切りにして酒をまぶしておく。",
+        "フライパンに白菜を敷いてコンソメを置く。",
+        "鶏もも肉を上に並べ塩、こしょうをする。",
+        "蓋をして中火にかけ　鶏もも肉に火が通れば完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2021179",
+    "advice": "水も油も使わない。白菜から出る水分で蒸し焼きされた鶏肉が柔らかで　白菜の甘味もしっかり味わえます。途中で触らないのがコツ。",
+    "history": "余った白菜を簡単においしくできないか考えてたらこうなった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉 白菜 コンソメ煮"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2021179/100x141c/62a3aa3c518c0614d83f09179ba209cf.jpg?u=5036827&p=1352371414"
+}

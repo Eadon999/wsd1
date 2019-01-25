@@ -1,0 +1,58 @@
+{
+    "name": "スープがウマ！あさりのコンソメバター",
+    "author": {
+        "@type": "Person",
+        "name": "Natsutach"
+    },
+    "image": "https://img.cpcdn.com/recipes/745152/464x260/ab8467f81b35bcac23300efdd8c38628.jpg?u=1166163&p=1409048090",
+    "datePublished": "2009-02-26",
+    "description": "感謝Wカテゴリ♫とにかくスープがおいしい！そして簡単！試してみてください。H23.5.12話題入りありがとう♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "500ｃｃ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1つ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "2粒"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "ひとかけ"
+        }
+    ],
+    "recipeInstructions": [
+        "砂抜きしたあさりと水、コンソメ、ニンニク（スライスまたはみじん切り）を入れフタをして火にかけます。",
+        "沸騰してあさりが開いたらそのまま2～3分あさりからダシを出すように煮ます。（吹き零れ注意） \n",
+        "最後に塩・コショウで味を整えて最後にバターを加えて出来上がり！！",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "745152",
+    "advice": "残ったスープでおじややパスタなどもおいしいです。って言ってもいつもほとんど残りませんが…。",
+    "history": "アサリバターがいつのまにかスープがメインになってしまいました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり",
+        "その他/限られた食材で工夫/あったか汁物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり コンソメ",
+        "あさり スープ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/745152/100x141c/97d18a21882de4cac43920ec257f7907.jpg?u=1166163&p=1409048090"
+}

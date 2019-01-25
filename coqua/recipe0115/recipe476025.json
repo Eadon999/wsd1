@@ -1,0 +1,53 @@
+{
+    "name": "じゃがバターご飯",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/476025/464x260/9031b2b7842350e7ba27204f9c9070f9.jpg?u=230354&p=1214218104",
+    "datePublished": "2007-12-19",
+    "description": "塩味がしっかりきいた、じゃがバター味のご飯です♫",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "大1個"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米を洗ってザルにあげておく。じゃがいもは皮をむいて、1センチ角に切り、水にさらす。",
+        "炊飯器に、米・2合の目盛りまでの水・塩を入れて軽く混ぜ、じゃがいも、バターを乗せてスイッチオン♫",
+        "炊き上がったら、じゃがいもをつぶさないように軽く混ぜ、器に盛って、きざみパセリを振りかけて出来上がり♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "476025",
+    "advice": "バターは今回無塩バターを使用しました。有塩バターを使用する場合は、塩を気持ち少なめで。",
+    "history": "じゃがバターが好きなので♫♬",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "じゃがいも",
+        "バター"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/476025/100x141c/a894fbcd134918e740078f87ceb3d85c.jpg?u=230354&p=1214218104"
+}

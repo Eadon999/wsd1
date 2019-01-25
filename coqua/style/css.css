@@ -81,6 +81,9 @@ p.switch{
 	background-size: auto 100%;
 	background-repeat: no-repeat;
 }
+div.page{
+	text-align: center;
+}
 /* レシピへのリンク */
 div.recipe{
 	display: flex;

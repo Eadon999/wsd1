@@ -1,0 +1,59 @@
+{
+    "name": "美味しすぎる❤イカのイカワタ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ﾋﾛﾘﾅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/912432/464x260/09a2a446571fe0214d92d8886527e512.jpg?u=338676&p=1252997323",
+    "datePublished": "2009-09-15",
+    "description": "子供も大人も大好き。イカワタのこくとおネギがまた合うんです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "刺身用イカ",
+            "quantity": "２はい"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★料理酒",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "イカはワタを取り出し、一口大に切る。ネギはみじん切りにしておく。",
+        "２はい分のわたを出し、★の調味料を混ぜておく。",
+        "フライパンに油をひきイカを炒める。火が通ったら２の調味料を投入。ざっと炒め合わせる。",
+        "お皿に盛り、ネギを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "912432",
+    "advice": "",
+    "history": "イカワタだけで焼いて食べていましたが子供用にイカを入れて炒めています。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネギ",
+        "醤油",
+        "味噌",
+        "料理酒"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/912432/100x141c/09e01d79042eb73ec428079f2311d5a9.jpg?u=338676&p=1252997323"
+}

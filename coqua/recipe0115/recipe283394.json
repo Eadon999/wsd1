@@ -1,0 +1,62 @@
+{
+    "name": "ゴロゴロ鮭とおじゃがのごま葱炒め",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/283394/464x260/3835cc194902b0f0d900bc0120c77a2a.jpg?u=57297&p=1214213679",
+    "datePublished": "2006-09-20",
+    "description": "おじゃがも鮭も香ばしい！♪どちらにも味が移って意外な美味しさです☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "中２個"
+        },
+        {
+            "name": "＠葱",
+            "quantity": "半本"
+        },
+        {
+            "name": "＠醤油",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "＠レモン汁",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "＠砂糖",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "＠ごま",
+            "quantity": "いっぱい"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭はぶつ切りにして塩胡椒小麦粉まぶしておきます。",
+        "おじゃが(中2個）は小さく切って少しの水を注し、ラップして5分チン水気を切っときます。",
+        "油を敷いて鮭を焼き、おじゃがも入れて炒めます。火が通ったら、タレを入れて絡めます。 \r\nタレ：醤油小匙２、砂糖小匙１、酢小匙１みじん切り葱とごまいっぱい"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "283394",
+    "advice": "おじゃがはレンジでチンなら簡単です",
+    "history": "鮭のムニエルをより食べやすく、おじゃがも加えてボリュームを出しました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭",
+        "じゃがいも",
+        "醤油",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "324",
+    "thumbnail": "https://img.cpcdn.com/recipes/283394/100x141c/7dbb2a5637c2a2681f7fb305f03d3a2b.jpg?u=57297&p=1214213679"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "小松菜とれんこんの煮浸し",
+    "author": {
+        "@type": "Person",
+        "name": "まるんくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3706315/464x260/d74e1495934ada101e72415fe5f13ba1.jpg?u=12173221&p=1456142478",
+    "datePublished": "2016-02-22",
+    "description": "カテゴリ掲載★フライパンひとつで5分で出来ちゃう(^^)副菜にどうぞ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1/2束（100g）"
+        },
+        {
+            "name": "れんこん",
+            "quantity": "60g"
+        },
+        {
+            "name": "人参",
+            "quantity": "15g"
+        },
+        {
+            "name": "油あげ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "湯",
+            "quantity": "100cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は4等分に切ったら、茎と葉の部分に分けておく。\n人参、れんこんも切り、れんこんは酢水につけておく。",
+        "油あげは熱湯にかけて油抜きをし、千切りにする。れんこんをざるに上げてサッと水をかけておく。",
+        "フライパンにごま油を熱して小松菜の茎、人参、れんこん、油あげをしっかり炒める。しんなりしたら葉も加える。",
+        "全体にさらにしんなりしたらAを加え、蓋をして5分くらい煮る。煮えたら暫く冷ましておくと、味がよく染み込みます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3706315",
+    "advice": "小松菜は根元を水につけて暫くおくと、泥や汚れが落ちます。",
+    "history": "れんこんも加えると食感が変わっていいかと思い、やってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 れんこん"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3706315/100x141c/4575ddc459d0942b3cda1ea3cd41e26c.jpg?u=12173221&p=1456142478"
+}

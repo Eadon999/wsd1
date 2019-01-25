@@ -1,0 +1,65 @@
+{
+    "name": "鶏ささみのオランダ揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "ぐっちぃぃー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1853978/464x260/96d43462901cd71481ffa12c3fa173fe.jpg?u=4177695&p=1340122241",
+    "datePublished": "2012-06-17",
+    "description": "ささみでヘルシーに☆でもボリュームたっぷり。揚げて液に浸けるだけの簡単メニューですよ〜",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "8本"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "50cc"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "50cc"
+        },
+        {
+            "name": "○酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "○酢",
+            "quantity": "30cc"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみに軽く塩胡椒し、片栗粉をまぶし油できつね色になるまで揚げる。",
+        "○の調味料をボールか深めのバットにすべて合わせ、【1】をその中に入れしばらく液をなじませる。",
+        "調味液が絡まったら皿に並べ、すりごまを少々ふって出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1853978",
+    "advice": "ささみがなければ鶏胸肉をそぎ切りにして同様にしても。液にしばらく浸しておくと片栗粉のおかげで少しとろみがついてきますので、ソースみたいに上にかけても○",
+    "history": "保育園に勤めていたときの人気メニューのひとつを家庭用にアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オランダ揚げ",
+        "ささみオランダ揚げ",
+        "ささみ　オランダ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1853978/100x141c/df456cf5a8c833b04fa049d7574ddacf.jpg?u=4177695&p=1340122241"
+}

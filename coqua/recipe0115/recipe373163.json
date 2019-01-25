@@ -1,0 +1,62 @@
+{
+    "name": "ごぼうとベーコンのガーリックマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/373163/464x260/202740af0134e83eb7a27ce22ff7779f.jpg?u=230354&p=1214215658",
+    "datePublished": "2007-05-14",
+    "description": "ニンニクで炒めたごぼうとベーコンをマヨネーズであえていただきます♡あったかいうちでも冷めてもおいしいサラダです♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮をこそげて5mm幅くらいの斜め切りにし、水にさらしてアクを抜く。にんにくは薄切りに、ベーコンは適当な大きさに切る。",
+        "フライパンににんにくとオリーブオイルを入れて中火にかけ、香りが移ったらベーコンとごぼうを加えてよく炒める。",
+        "ボウルに移し、マヨネーズを和えて、塩・ブラックペッパーで味をととのえる。\r\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "373163",
+    "advice": "ブラックペッパーたっぷりめがおいしいです♡",
+    "history": "そら豆とベーコンのガーリックマヨサラダがおいしかったので、ごぼうバージョン♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "ごぼう サラダ",
+        "ベーコン",
+        "にんにく"
+    ],
+    "tsukurepo_count": "793",
+    "thumbnail": "https://img.cpcdn.com/recipes/373163/100x141c/d3daddf6c47e47648461a773fecebd4a.jpg?u=230354&p=1214215658"
+}

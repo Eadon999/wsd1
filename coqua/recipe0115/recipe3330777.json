@@ -1,0 +1,76 @@
+{
+    "name": "れんこんの味噌きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "まるんくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3330777/464x260/8bcddf5c729aec314e7ee38b9f0fcac2.jpg?u=12173221&p=1438608140",
+    "datePublished": "2015-08-03",
+    "description": "カテゴリ掲載★ご飯もいいけど、思わずビ—ルをコクコク飲んでしまう味噌味のきんぴらです。キリッと冷えたビ—ルとどうぞ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "200g"
+        },
+        {
+            "name": "人参",
+            "quantity": "50g"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "小2本"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこん、人参、ちくわを切る。",
+        "A,Bそれぞれを合わせておく。",
+        "フライパンに唐辛子、ごま油を入れて弱火で香りを出す。",
+        "そこにれんこん、ちくわ、人参をよく炒める。",
+        "Aを加えてよく炒めたら、仕上げに合わせたBを加えたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3330777",
+    "advice": "れんこんは切ったら酢水につけると 、変色を防げます。",
+    "history": "普通のきんぴらに変化が欲しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "人参",
+        "ちくわ",
+        "唐辛子"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3330777/100x141c/c1b563b59cd1fe2db0416cfdcc133964.jpg?u=12173221&p=1438608140"
+}

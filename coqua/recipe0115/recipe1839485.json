@@ -1,0 +1,80 @@
+{
+    "name": "春雨中華サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1839485/464x260/3014d683b53376541fa0efc4f7f0b314.jpg?u=3671213&p=1338864627",
+    "datePublished": "2012-06-05",
+    "description": "春雨のヘルシー中華サラダ♪つる～っと美味しいよ☆（∈＾∇゜）ｷﾗｯ",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "きくらげ(乾燥)",
+            "quantity": "５ｇ程度"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★レモン汁（ポッカレモン100）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★煎りごま",
+            "quantity": "適量（多め）"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうり、ハムは細い千切り、きくらげも水でもどして千切りに。",
+        "人参も細い千切りにし、軽く塩もみし、さっと流し良く水気を切ります。",
+        "春雨は茹でて、水洗いし、良く水気を切ります。",
+        "★を混ぜ合わせた物に、１、２、３を良く混ぜ合わせたら出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1839485",
+    "advice": "春雨は緑豆春雨を使用し、４分茹でました♪(＾ｖ＾)",
+    "history": "中華春雨がむしょ～に食べたかったから(＾ｖ＾)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/中華風のサラダ",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨",
+        "きゅうり",
+        "人参",
+        "きくらげ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1839485/100x141c/c160fc707cd9e85e1a3e631159af6180.jpg?u=3671213&p=1338864627"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "ちくわのトマトときゅうりの中華和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/712442/464x260/ad0632fa7afd96fbb6d062444018719e.jpg?u=921598&p=1334549573",
+    "datePublished": "2009-01-12",
+    "description": "香味ソースが食材によく絡まって美味しいですよぉ！簡単なので、急な来客への対応もバッチリ！酒の肴や箸休めにもピッタリです♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ（生食用）",
+            "quantity": "5本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "●にんにく（みじん切り）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●しょうが（すりおろし）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●長ねぎ（みじん切り）",
+            "quantity": "10ｃｍ"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱ボウルに●の材料を混ぜ合わせ、電子レンジで約30秒加熱し、粗熱を取っておく。",
+        "ちくわは斜め切り、きゅうりは縦半分に切って斜め切り、トマトは1ｃｍ角に切る。",
+        "1のボウルに2を入れてよく混ぜ合わせ、冷蔵庫で10分ほど冷やしたら出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "712442",
+    "advice": "1で香味ソースを電子レンジで加熱することで香りが引き立ちますよぉ♪",
+    "history": "冷蔵庫によくある食材で、手作りの中華香味ソースで和えてみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "きゅうり",
+        "トマト",
+        "にんにく"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/712442/100x141c/ddf6e5eba430ff4846384212f79b0c97.jpg?u=921598&p=1334549573"
+}

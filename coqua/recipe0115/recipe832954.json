@@ -1,0 +1,64 @@
+{
+    "name": "肉じゃがに飽きたら！肉じゃが風味噌和え",
+    "author": {
+        "@type": "Person",
+        "name": "ふくけい"
+    },
+    "image": "https://img.cpcdn.com/recipes/832954/464x260/631449adc2e1e216e68eca89504a9a48.jpg?u=643021&p=1244525730",
+    "datePublished": "2009-06-09",
+    "description": "肉じゃがに飽きたら試してね。隠し味に焼肉のタレを！　2010.1.22話題のレシピ入りしました。ありがとうございます☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1本"
+        },
+        {
+            "name": "合挽きミンチ",
+            "quantity": "100g"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "味噌（あれば赤味噌）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "ひとかけ"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモとにんじんは食べやすい大きさに切り、茹でる。",
+        "ねぎを切り、にんにくはみじん切りにする。",
+        "にんにくのみじん切りをゴマ油をひいたフライパン入れ、合挽きミンチとネギを投入し炒める。",
+        "ミンチの色が変わってきたら、味噌と焼肉のタレを入れて炒め、下茹でしたジャガイモとにんじんを入れて、からめて出来上がり。",
+        "2010.1.22話題入りしました。ありがとうございます☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "832954",
+    "advice": "",
+    "history": "肉じゃがに飽きたので、少しアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "にんじん",
+        "合挽きミンチ",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/832954/100x141c/a4d86859c9791fecce65630bc5cffefc.jpg?u=643021&p=1244525730"
+}

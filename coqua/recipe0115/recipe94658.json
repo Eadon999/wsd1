@@ -1,0 +1,62 @@
+{
+    "name": "切り干し大根とピーマンの炒め煮。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/94658/464x260/a589d0bee764d027010acab23f4f72e7.jpg?u=4036&p=1214209963",
+    "datePublished": "2003-05-29",
+    "description": "しみじみ系のお惣菜です。特別変わった味付けでないのですが、なんだかあとを引きます。",
+    "recipeYield": "4～5人分",
+    "recipeIngredient": [
+        {
+            "name": "切り干し大根",
+            "quantity": "乾燥した状態で15g"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "中4個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "200cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "軽くひと握り。"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根はたっぷりの水で戻しておく。ピーマンはヘタと種を除いて細切りにしておく。",
+        "鍋にサラダ油・ピーマン・（水を絞った）切り干し大根を入れて中火で1分ほど炒める。",
+        "2.にだし汁・砂糖・しょうゆを入れて中火で煮る。水分が少なくなってきたら、ちりめんじゃこを入れ、箸などで焦げないように時々混ぜながら煮る。水分がほとんどなくなったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "94658",
+    "advice": "辛いのがお好みならば、鷹の爪を入れてもいいと思います。",
+    "history": "よく作るじゃこピーマンに変化をもたせたかったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根",
+        "ピーマン",
+        "だし汁",
+        "砂糖"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/94658/100x141c/77f20a57b4b29b7029e7f7129eb8cd38.jpg?u=4036&p=1214209963"
+}

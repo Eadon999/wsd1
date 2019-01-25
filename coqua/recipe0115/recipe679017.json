@@ -1,0 +1,61 @@
+{
+    "name": "たけのこ土佐煮",
+    "author": {
+        "@type": "Person",
+        "name": "ひゅうちゃま"
+    },
+    "image": "https://img.cpcdn.com/recipes/679017/464x260/05cd008d41885519e4e79d6fa90a288c.jpg?u=921221&p=1399031441",
+    "datePublished": "2008-11-08",
+    "description": "冷めてもおいしいので、お弁当によく入れています。調味料の配合も覚えやすく簡単に作れますよ。14年5月画像差し替えました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでたけのこ",
+            "quantity": "200g"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "さとう",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "5g"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのこは半月切り（大きい場合はいちょう切り）にする。",
+        "だし汁と調味料をあわせて煮立て、煮立ったらたけのこを加える。",
+        "弱めの中火で、おとし蓋をしてコトコト煮る。",
+        "汁けがなくなるまで煮たら、火を止めてかつお節を加え、手早く混ぜて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "679017",
+    "advice": "かつお節の量はお好みでどうぞ♪",
+    "history": "10年ほど前に何かの雑誌で見つけたレシピを少し改良しました。今では我が家の定番になっています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 土佐煮",
+        "土佐煮"
+    ],
+    "tsukurepo_count": "283",
+    "thumbnail": "https://img.cpcdn.com/recipes/679017/100x141c/7c7fc321a3cf68e9de2a31b157d991d3.jpg?u=921221&p=1399031441"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "カリッ！ふわ～の豆腐ステーキ☆",
+    "author": {
+        "@type": "Person",
+        "name": "まどりんこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/278308/464x260/e63c54bb08b52edbb020d0f78fe01de6.jpg?u=271498&p=1214213555",
+    "datePublished": "2006-09-02",
+    "description": "ご飯にも、酒の肴にも♪さっと出来ます。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ３位"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐の厚みを横半分に切り、さらに真中を半分に切る。",
+        "豆腐に小麦粉をつけ、\r\nサラダ油を入れたフライパンでかりっとするまで両面を焼く。\r\n（中火）",
+        "麺つゆ（濃縮タイプ）を入れ、全体にさっとからませる。\r\n好みでかつおぶしをかける。",
+        "★参考にしてレシピを作ってくださったまゆちびさんによると、完全に冷めても水分が出ないそうです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "278308",
+    "advice": "小麦粉をまぶすことで、かりっとして、さらに麺つゆがなじみます。",
+    "history": "冷蔵庫に何もないときに、作ってみたらおいしかったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "麺つゆ",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/278308/100x141c/351451dba4dc4527c98b6179cce74579.jpg?u=271498&p=1214213555"
+}

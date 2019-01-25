@@ -1,0 +1,60 @@
+{
+    "name": "美味♡大根と大葉の和風サラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "とろさうるす"
+    },
+    "image": "https://img.cpcdn.com/recipes/2035252/464x260/88a11a186fa00616e3915bef9212d5f3.jpg?u=2673894&p=1353415005",
+    "datePublished": "2012-11-20",
+    "description": "軽く塩もみした大根の歯ごたえがGOOD♪切って混ぜるだけの簡単メニューです。9/2話題入り♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "350g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆大葉(千切り）",
+            "quantity": "５枚"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆かつお節",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "☆ゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は細切りにして、塩をまぶし、３０分ほどおく。",
+        "水分があがって来ます。\nよ～く水気を絞る。",
+        "２に、☆印の材料を全部入れ、混ぜたら完成！！\n\n食べる直前に混ぜて下さいね。",
+        null,
+        "✿2013/9/2✿\n話題入りしました♪\nありがとうございます。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2035252",
+    "advice": "◎塩分が足りない場合は、塩を増やして下さい。◎食べる直前に、和えるのが美味しいです。",
+    "history": "大根をアッサリ、パリパリと沢山食べたかったから、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "塩",
+        "ごま油",
+        "かつお節"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2035252/100x141c/d9b1398c9e0e637f74a3e5ebb92a6038.jpg?u=2673894&p=1353415005"
+}

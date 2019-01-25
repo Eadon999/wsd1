@@ -1,0 +1,55 @@
+{
+    "name": "サツマイモと小松菜のごま酢和え",
+    "author": {
+        "@type": "Person",
+        "name": "ｎｏｃｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1609053/464x260/5a2c35dc4b81fcae73bfa3ab843b3077.jpg?u=571342&p=1319530166",
+    "datePublished": "2011-10-25",
+    "description": "さつまいもの甘味に、ごま酢のコクのある酸味がぴったりです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "サツマイモ",
+            "quantity": "中１/２"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "３株"
+        },
+        {
+            "name": "・白すりごま",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "・米酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "・砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "・しょう油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "サツマイモは太い拍子木切りにし、15分程度水にさらす。\n煮崩れない程度に柔らかくなるまで水から茹で、ざるにあける。\n",
+        "小松菜を茹でたら、固く水気を絞って、食べやすい大きさに切る。",
+        "ゴマ酢の材料を合わせ、粗熱のとれたサツマイモと、小松菜を入れてあえる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1609053",
+    "advice": "酢の分量はお好みで。サツマイモが少し温かいうちに和えると、酸味がやわらかくなります。",
+    "history": "いつもはかぼちゃで作りますが、さつまいもが旬なので。かぼちゃの時は、電子レンジでゆでます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 さつまいも"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/1609053/100x141c/117d9f6aba684d7b62e8e6dd5b3025fd.jpg?u=571342&p=1319530166"
+}

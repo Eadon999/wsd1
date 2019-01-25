@@ -1,0 +1,62 @@
+{
+    "name": "春キャベツとあさりのワイン蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ままみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/349232/464x260/575a9070e8405dfff65546cddaa20b24.jpg?u=339003&p=1214215129",
+    "datePublished": "2007-03-24",
+    "description": "あさりのだしがすごーク出ておいしいワイン蒸しです。今が旬の春キャベツがバクバク食べれちゃう!!",
+    "recipeYield": "5人前",
+    "recipeIngredient": [
+        {
+            "name": "あさり（殻つき）",
+            "quantity": "300g"
+        },
+        {
+            "name": "春キャベツ",
+            "quantity": "300g（5枚くらい）"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "100cc"
+        },
+        {
+            "name": "バター",
+            "quantity": "40g"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "あらびきこしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "あさりは塩水につけて砂だしします。キャベツは食べやすい大きさにちぎります。",
+        "フライパンにバターと油を熱し、あさりを炒めます。",
+        "コンソメ、白ワイン、キャベツを加えてふたをして蒸し煮します。あさりの口が開いたらあらびきこしょうを振り出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "349232",
+    "advice": "あさりは過熱し過ぎないことがポイントです。キャベツは、手でちぎったほうがビタミンが逃げず効率よく補給できます。",
+    "history": "スーパーで春キャベツが美味しそうに売っていたのでつくってみました。春の味がしました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "春キャベツ",
+        "白ワイン",
+        "バター"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/349232/100x141c/591ec32cc997c1b5afe3f8f0bf9a55de.jpg?u=339003&p=1214215129"
+}

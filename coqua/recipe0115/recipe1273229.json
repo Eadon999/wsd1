@@ -1,0 +1,56 @@
+{
+    "name": "【農家のレシピ】白菜とエノキのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1273229/464x260/721b9883db0b92c919f52015418ba150.jpg?u=2513693&p=1288599939",
+    "datePublished": "2010-11-05",
+    "description": "白菜、エノキ、ベーコン。３つの旨味抜群の素材が、コンソメスープに溶けだして最高の味を演出していますよ～☆",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜の葉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "エノキ",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "2個（5.3ｇ×2個）"
+        },
+        {
+            "name": "マーガリン（又はバター）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "600ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンは1センチ幅、エノキは石づきをとって半分に切りほぐし、白菜は1センチ幅のざく切りにしておきます",
+        "フライパン（鍋）にマーガリンを熱し中火でベーコンを炒めます",
+        "ベーコンの油が出てきたら白菜を入れ少ししんなりするくらい炒めてから水を入れ強火で煮ます。",
+        "水が沸騰したらコンソメとエノキを入れ3分煮て出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1273229",
+    "advice": "",
+    "history": "葉野菜を使ってコンソメスープはよく作るんですが、白菜のスープはよく作ります。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 えのき スープ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1273229/100x141c/70c30f7bd03d935df20e71fa51a2c759.jpg?u=2513693&p=1288599939"
+}

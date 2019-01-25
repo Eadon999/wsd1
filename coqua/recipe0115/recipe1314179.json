@@ -1,0 +1,60 @@
+{
+    "name": "魚肉ソーセージとジャガイモのオイマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "おこじょ1027"
+    },
+    "image": "https://img.cpcdn.com/recipes/1314179/464x260/deba65af85a9580523892f396256a0cc.jpg?u=787463&p=1292992626",
+    "datePublished": "2010-12-22",
+    "description": "一味唐辛子でピリッと！お酒のおつまみにどうぞ。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "魚肉ソーセージ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ジャガイモ",
+            "quantity": "小2個"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "魚肉ソーセージは適当な大きさに切ります。",
+        "じゃがいもは細切りまたは千切りにして水にさらして、水切りしておきます。",
+        "マヨネーズ・オイスターソース・一味唐辛子を混ぜておく。",
+        "熱したフライパンにサラダ油を敷いて、じゃがいもを入れて炒めます。火が通ったらソーセージを入れて炒めます。",
+        "③の調味料をいれて味付けして出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1314179",
+    "advice": "一味唐辛子はお好みで調整してください。",
+    "history": "魚肉ソーセージのモニターに当選したので、常備あるジャガイモでレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "魚肉ソーセージ",
+        "ジャガイモ",
+        "サラダ油",
+        "調味料"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1314179/100x141c/cd86a82be7df9d13dd6db582d809a86f.jpg?u=787463&p=1292992626"
+}

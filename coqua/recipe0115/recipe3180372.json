@@ -1,0 +1,85 @@
+{
+    "name": "ダイエット！タイ風☆しらたきパッタイ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3180372/464x260/c32652679a7a6a9bbdbe5b2d35c0d5c2.jpg?u=4376699&p=1467524822",
+    "datePublished": "2015-05-17",
+    "description": "ビーフンをしらたきにかえて本場の味を再現！100kcal/人",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しらたき",
+            "quantity": "100g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "50g"
+        },
+        {
+            "name": "ムネ肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "人参",
+            "quantity": "少々"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "少々"
+        },
+        {
+            "name": "パプリカ(赤)",
+            "quantity": "少々"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "しらたきを洗って半分に切りレンジ600w2分チンしてザルに取る\nもやしを洗って水気を切る\n他の野菜は細切り\n肉はそぎ切り",
+        "野菜はレンジ600w2分チンして水気を切る\n油少々を温め溶き卵をさっと炒め取り出す",
+        "肉しらたきを強火で炒めて水気を飛ばす\n野菜卵を戻したれを加えて炒めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3180372",
+    "advice": "しらたきの水気はしっかり飛ばしましょうエビやパクチーを入れるともっと本格的になります肉はももでも豚肉でもＯＫ本場の味を再現するのに、具、調味料はちょっと多めです♪",
+    "history": "パッタイ麺（タイ風焼きそば麺）の代わりにしらたきで挑戦",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パッタイ しらたき",
+        "しらたき タイ風",
+        "パッタイ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/3180372/100x141c/eba2e1d547d6483e250443e85bad38af.jpg?u=4376699&p=1467524822"
+}

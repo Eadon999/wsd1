@@ -1,0 +1,65 @@
+{
+    "name": "鶏ささみときゅうりの中華和え☆",
+    "author": {
+        "@type": "Person",
+        "name": "taka_jam"
+    },
+    "image": "https://img.cpcdn.com/recipes/250155/464x260/c5e212611209ab6b79d12d8b31dfa3f7.jpg?u=45889&p=1333794182",
+    "datePublished": "2006-04-22",
+    "description": "バンバンジーの変形です、さっぱりとして美味しいですよ。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "４つ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢",
+            "quantity": "おおさじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "おおさじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "おおさじ１"
+        },
+        {
+            "name": "白だし",
+            "quantity": "おおさじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "こさじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "たっぷりな湯でささみを５分茹でて、ざるに移し冷ます。",
+        "酢、酒、醤油、白だし、ごま、ごま油を混ぜて置く。",
+        "ささみを手でむしる様にほぐす。きゅうりは２ｍｍ～３ｍｍ角になるように切る。",
+        "ほぐしたささみ、きゅうり、ごまを作ったタレで和えれば出来上がり。１０分ほどおくとキュウリがしんなりします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "250155",
+    "advice": "ささみの水気はきりましょう。水っぽくなっては美味しくないです。",
+    "history": "小さい頃から、母が作っているのをまねてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "その他/おもてなし料理/お客様いろいろ！/外国からのお客様"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ きゅうり"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/250155/100x141c/e1b6b4fca16a6f22ab4d31c4ccc52d68.jpg?u=45889&p=1333794182"
+}

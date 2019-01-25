@@ -1,0 +1,58 @@
+{
+    "name": "♪ほうれん草と油揚げの簡単煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "mynameisyuko"
+    },
+    "image": "https://img.cpcdn.com/recipes/701713/464x260/f07c31ff63a6f4d6ad9e3309edacdedc.jpg?u=710086&p=1229608317",
+    "datePublished": "2008-12-18",
+    "description": "簡単にほうれん草と油揚げを煮ました！味がしみこんだ油揚げとほうれん草の優しい味にほっとします☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "150g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "ほんだし顆粒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草はよく洗い、3cm程度に切る。",
+        "油揚げは湯通しをし、水気を切って2cm程度の短冊切りにする。",
+        "小鍋に水を沸かし、油揚げを煮立てる。そこにほんだし、しょうゆ、みりんを加えて混ぜ、ひと煮たちさせる。",
+        "ほうれん草を加えて、ふたをして2・3分煮たらできあがり。",
+        "*10/02/15追記*\r\nつくれぽ10人になりました！皆さん作って頂いて感謝です☆",
+        "*13/12/11追記*\n12/3につくれぽ100件になりました！皆さん選んで作って下さって感謝です♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "701713",
+    "advice": "*味がしみこんだ油揚げが好きなので1枚使いましたが、半分でもいいと思います。",
+    "history": "あと一品ほしいと思い作りました。簡単にできるので、おすすめです☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 あぶらあげ"
+    ],
+    "tsukurepo_count": "348",
+    "thumbnail": "https://img.cpcdn.com/recipes/701713/100x141c/95636ec489685d60bfd23afe9fa10f3e.jpg?u=710086&p=1229608317"
+}

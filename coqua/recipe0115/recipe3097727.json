@@ -1,0 +1,44 @@
+{
+    "name": "ブロッコリーと卵のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3097727/464x260/96bc0c212df6ea54cef088223c0dac76.jpg?u=3099986&p=1427885911",
+    "datePublished": "2015-04-01",
+    "description": "簡単。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは茹でて湯きり。\n→皿に盛る。",
+        "1にゆで卵を盛り付け、マヨネーズをかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3097727",
+    "advice": "卵の茹で加減はお好みで。",
+    "history": "ブロッコリーが好きなので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ゆで卵",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3097727/100x141c/af8217f15396f11c961a7bc8655c50a1.jpg?u=3099986&p=1427885911"
+}

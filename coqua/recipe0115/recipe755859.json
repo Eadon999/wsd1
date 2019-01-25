@@ -1,0 +1,80 @@
+{
+    "name": "一番簡単★マカロニグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/755859/464x260/5c68493518ab71271c6904374ed1fb7b.jpg?u=1088838&p=1421395449",
+    "datePublished": "2009-03-11",
+    "description": "つくれぽ700人ありがとう！ 大好きなマカロニグラタンが２ステップで簡単にできちゃいます♪",
+    "recipeYield": "３人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "お任せ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大１"
+        },
+        {
+            "name": "★玉葱",
+            "quantity": "半分"
+        },
+        {
+            "name": "★鶏もも",
+            "quantity": "半分"
+        },
+        {
+            "name": "★しめじ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "★バター",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆ピザ用チーズ",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "小１／２"
+        },
+        {
+            "name": "☆牛乳",
+            "quantity": "４００ｍｌ"
+        },
+        {
+            "name": "☆早茹で４分マカロニ",
+            "quantity": "５０ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "★を軽く炒め、小麦粉も入れて炒める。",
+        "☆を入れてとろとろになったら耐熱皿に盛り、チーズﾞをかけて焼けば完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "755859",
+    "advice": "塩は味をみながら入れる。マカロニは茹でずに入れる。手順２は、マカロニの茹で時間が短いなら中火、長いなら中火以下で煮ると良い。",
+    "history": "休日、旦那に作ってもらえるように簡単なレシピを考えました♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/グラタン/マカロニグラタン"
+    ],
+    "rankings": [
+        "マカロニグラタン 4位",
+        "簡単グラタン 10位"
+    ],
+    "related_keywords": [
+        "マカロニグラタン",
+        "グラタン 簡単",
+        "マカロニ",
+        "グラタン"
+    ],
+    "tsukurepo_count": "917",
+    "thumbnail": "https://img.cpcdn.com/recipes/755859/100x141c/763d868be3eb089ea25b46220355118a.jpg?u=1088838&p=1421395449"
+}

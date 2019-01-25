@@ -1,0 +1,67 @@
+{
+    "name": "ナスのひき肉ピリ辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ｍｙｋ"
+    },
+    "image": "https://img.cpcdn.com/recipes/213834/464x260/39eb447ae4b1aefcf5098d4d5aab4af6.jpg?u=60840&p=1214212178",
+    "datePublished": "2005-08-29",
+    "description": "大量にもらったナスを消費するのに大変です(-_-;)好きだからいいんですけどね☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "大２本"
+        },
+        {
+            "name": "ひき肉",
+            "quantity": "100ｇ位かな？"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "１/２束"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "一カケ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆豆板醤",
+            "quantity": "小２"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは乱切りにして、水にさらしておきます。\r\nにんにくは、みじん切りにしておきます。",
+        "フライパンにサラダ油を入れ、にんにくを香りが出るまで炒めます。\r\n",
+        "ひき肉を入れ、軽く火が通ったら、水を切ったナスを入れ、弱火～中火くらいにして蓋をします。\r\n時々、蓋を開けてゆすったり、して下さい。",
+        "ある程度火が通ったら、ニラを入れて☆の調味料も入れます。\r\n汁気が減ったら、完成です。\r\nにんにくの芽を入れても、おいしいですよ＼(^o^)／"
+    ],
+    "cookTime": null,
+    "recipe_id": "213834",
+    "advice": "味の濃さなどはお好みで調整してください。",
+    "history": "家にあるもので仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ひき肉",
+        "ニラ",
+        "にんにく"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/213834/100x141c/43babd8b1ae4737a0c1a369a9bd50fb6.jpg?u=60840&p=1214212178"
+}

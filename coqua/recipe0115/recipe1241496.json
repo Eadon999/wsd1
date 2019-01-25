@@ -1,0 +1,68 @@
+{
+    "name": "【農家のレシピ】揚げナスの肉味噌のせ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1241496/464x260/03303ea27c0739f9db5d51f369102cd5.jpg?u=2513693&p=1285331428",
+    "datePublished": "2010-09-26",
+    "description": "ナスは油で揚げると美味しくなります。さらに味噌との相性バツグン♪ナス料理の私の一番おすすめの一品です。青シソが隠し味☆ ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "４本"
+        },
+        {
+            "name": "豚ミンチ",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "青シソ",
+            "quantity": "４枚"
+        },
+        {
+            "name": "赤味噌",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "しょうが（すりおろしておく）",
+            "quantity": "１かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は乱切りにし、中温の油で3分揚げます。\r\n",
+        "茄子を揚げている間に、肉味噌の準備をします\r\n",
+        "フライパンにサラダを薄く敷いて豚ミンチをほぐすように炒めます \n",
+        "豚ミンチがほぐれたら【Ａ】を入れ、焦げないよう木べらなどでかき混ぜながら５，６分間照りが出るまで煮ます \n",
+        "揚げたなすの上に④の肉味噌をのせ、千切りにした青シソをのせたらできあがりです\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1241496",
+    "advice": "2010.07.12：調味料の分量を変更しました。",
+    "history": "なすと味噌・ナスと青シソが合うのでＭＩＸしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "豚ミンチ",
+        "青シソ",
+        "赤味噌"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1241496/100x141c/91b0a8b0a335d6e18f822eed9c87fc4a.jpg?u=2513693&p=1285331428"
+}

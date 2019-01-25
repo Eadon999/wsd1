@@ -1,0 +1,62 @@
+{
+    "name": "❤トマトとツナの和風冷製パスタ❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/2253848/464x260/6ca261d1bc75baa3a4a497edd3c24d6a.jpg?u=2619264&p=1370990269",
+    "datePublished": "2013-06-14",
+    "description": "パスタを茹でている間に出来ちゃう和風ソースで簡単♪一人ランチにもいいよ✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5~6枚"
+        },
+        {
+            "name": "ニンニク(すりおろし)",
+            "quantity": "1片分"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "塩たっぷりの湯でパスタをゆで始める。ボウルにさいの目切りのトマト、ニンニク、ツナ缶(オイルごと)、めんつゆを合わせておく",
+        "茹であがったパスタを水で締めて良く水を切り、①のボウルに千切りの大葉(飾り用に少し残して)とともに加えて混ぜる。",
+        "味見をして足りなければ塩コショウで調味し、器に盛って残しておいた大葉を飾る。お好みで黒胡椒をかけて召し上がれ♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2253848",
+    "advice": "パスタの水はしっかり切ること♪水っぽくなっちゃうからね～✿",
+    "history": "暑くなると冷たい物が欲しくなる～☆買い物行くのも面倒なのでウチにあるもので(笑)",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/冷製・アイデアパスタ/冷製パスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "トマト",
+        "ツナ缶",
+        "大葉"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2253848/100x141c/09adca4dd5eee961dcf95ab3502db0df.jpg?u=2619264&p=1370990269"
+}

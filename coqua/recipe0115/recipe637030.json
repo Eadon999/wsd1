@@ -1,0 +1,62 @@
+{
+    "name": "あっさり☆かれいのおろし煮",
+    "author": {
+        "@type": "Person",
+        "name": "ＨＥＷＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/637030/464x260/4db7f1c67db08010f924be50353b7b0e.jpg?u=977600&p=1344643909",
+    "datePublished": "2008-09-02",
+    "description": "１００人目話題入り大感謝です♡大根おろしの水分は、捨てずに全部使ってね♪ ",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かれい（切り身）",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "８センチ分くらい"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁と酒を、鍋又はフライパンに入れて沸騰させる。",
+        "かれいを加えあくを取り、おろし以外を入れる。",
+        "落とし蓋をして、かれいに火がとおるまで１０分ほど煮る。",
+        "最後に大根おろしを入れ、軽く煮込んでできあがり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "637030",
+    "advice": "ごまを入れたり、ねぎの白い部分をかれいと同時に煮てもおいしいです。 大根の量にもよるので、調味料の分量は調節してくださいね。＊砂糖の分量変更しました。",
+    "history": "大根おろしが好きなので",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かれい"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレイ",
+        "カレイ みぞれ煮",
+        "かれいのおろし煮"
+    ],
+    "tsukurepo_count": "172",
+    "thumbnail": "https://img.cpcdn.com/recipes/637030/100x141c/3bc573e1fdc610b048c2c058e63f42f6.jpg?u=977600&p=1344643909"
+}

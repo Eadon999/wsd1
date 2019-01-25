@@ -1,0 +1,55 @@
+{
+    "name": "小松菜ベーコン卵バター醤油炒め！",
+    "author": {
+        "@type": "Person",
+        "name": "テオブロミン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2151409/464x260/e60ed48634dcd2c2161792bdc3e75774.jpg?u=5315907&p=1363090690",
+    "datePublished": "2013-03-13",
+    "description": "小松菜で貧血防止。ごはんにも合うよ！タイトル＝全材料！かんたん！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "２～３株"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜とベーコンを一口大に切ります。小松菜は泥が潜んでるのでよく洗って！",
+        "フライパンに油を敷かずに炒めます。",
+        "小松菜がしんなりしたら、卵を溶いて入れ、混ぜます。",
+        "最後にバターと醤油を入れ、バターが溶けたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2151409",
+    "advice": "小松菜の量やお好みで醤油の量を調節してください。",
+    "history": "妊婦時代に鉄分摂取のためによく作ってました。それ以来小松菜好きに。いろんな調味料で試せる一品。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ベーコン",
+        "卵",
+        "バター"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/2151409/100x141c/601f3c1c64a990557e29bf3002301ad5.jpg?u=5315907&p=1363090690"
+}

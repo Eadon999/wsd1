@@ -1,0 +1,67 @@
+{
+    "name": "アボガドと卵とレタスのサラダ！！",
+    "author": {
+        "@type": "Person",
+        "name": "kingkin"
+    },
+    "image": "https://img.cpcdn.com/recipes/295997/464x260/5244c4603190b2af4fa6baa3600f0cf3.jpg?u=257629&p=1214213948",
+    "datePublished": "2006-10-31",
+    "description": "アボガドと卵とレタスでマイルドなのにスパイシーで食感も楽しめるサラダを作ってみました。海老なんかを入れると　もっと美味しいかな～～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "アボガド",
+            "quantity": "１個"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１/６個"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大匙４"
+        },
+        {
+            "name": "☆カレーパウダー",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "☆粒マスタード",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "☆ブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を茹でる。",
+        "☆をすべて混ぜる。",
+        "アボガドの半分に割り皮を剥き　１．５センチ角に切る。\r\nレタスは手でちぎる。",
+        "☆と卵、アボガド、レタスを和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "295997",
+    "advice": "混ぜるだけです。時間がたつとレタスのシャキシャキ感がなくなるので食べる直前にソースと和えましょう！",
+    "history": "アボガドをスパイシーに食べてみたくて！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボガド",
+        "卵",
+        "レタス",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/295997/100x141c/61d247408e86edbbb375d36241397876.jpg?u=257629&p=1214213948"
+}

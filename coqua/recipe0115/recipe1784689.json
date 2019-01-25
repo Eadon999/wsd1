@@ -1,0 +1,56 @@
+{
+    "name": "お弁当にも♪ピーマンたまご",
+    "author": {
+        "@type": "Person",
+        "name": "miimiiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1784689/464x260/bb641d1d168127d9ddbbef506ea5446c.jpg?u=3776144&p=1334919132",
+    "datePublished": "2012-04-20",
+    "description": "彩りが良いのでお弁当の一品にも♪ピーマンが苦手な子供でも食べやすいです!",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "しらす干し",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを半分に切り\n種を取り除く。\n卵はしらす干し、塩胡椒を入れ\n溶いておく。",
+        "フライパンに油をひき、卵を流し入れ\n半熟のスクランブルエッグを作る。",
+        "スクランブルエッグを半分に分け\n半分に切ったピーマンにそれぞれ詰める。",
+        "お皿にのせ、電子レンジで1分(1000w)\n温める。\nさらにそれを半分に切りケチャップをかけてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1784689",
+    "advice": "卵に塩胡椒する時はしらす干しの塩気があるので加減しながらで。",
+    "history": "以前料理本で見かけたレシピを少しアレンジしました♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理",
+        "その他/お弁当/色別おかず/黄色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "卵",
+        "しらす干し",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1784689/100x141c/0465183e70beedd9735d77ac1ace166e.jpg?u=3776144&p=1334919132"
+}

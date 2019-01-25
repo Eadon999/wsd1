@@ -1,0 +1,79 @@
+{
+    "name": "にら麻婆豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "ゆいにゃんママ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1459369/464x260/92d3bf8f88db9fdd0560968f31c8d644.jpg?u=2292902&p=1307029233",
+    "datePublished": "2011-06-03",
+    "description": "簡単！あっという間にできちゃいます♪にらで栄養も彩りも良くつくりました。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐(切って水切りする)",
+            "quantity": "1丁"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "180g"
+        },
+        {
+            "name": "にら(長さ1cm)",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "長ねぎ(みじん切り)",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "しょうが(みじん切り)",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★鶏ガラスープの素(顆粒)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★水",
+            "quantity": "1/2cup"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油を熱し、しょうがを炒め香りが立ったらひき肉を加え軽くほぐし炒める。",
+        "★と豆腐を加えて少し煮詰め、にらと長ねぎを加えて混ぜる。",
+        "にらがしんなりしすぎないうちに火を止め、少量のごま油を垂らし香り付けしてできあがり。",
+        "好みで粉山椒をふる♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1459369",
+    "advice": "ひき肉はあまりいじらず、焼き付けるようにかたまりを作りボリューム感を出しました。辛味を加えていないので子供も食べれます。辛味を加えるなら、肉に火が通ったら豆板醤を！",
+    "history": "冷蔵庫のあり合わせで作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "豚ひき肉",
+        "にら",
+        "長ねぎ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1459369/100x141c/acf8c36069dcd75ad0af053a8ae1c607.jpg?u=2292902&p=1307029233"
+}

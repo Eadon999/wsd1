@@ -1,0 +1,59 @@
+{
+    "name": "薩摩芋と白菜、玉葱の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "inyako"
+    },
+    "image": "https://img.cpcdn.com/recipes/3177777/464x260/7531aa5172a7f62e3f4a2226401a4e32.jpg?u=2095785&p=1431701121",
+    "datePublished": "2015-05-15",
+    "description": "薩摩芋の甘さがホッコリ。話題感謝✿",
+    "recipeYield": "２",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋",
+            "quantity": "中半分"
+        },
+        {
+            "name": "玉ねぎ(新玉ねぎ）",
+            "quantity": "中半分"
+        },
+        {
+            "name": "白菜の葉っぱ",
+            "quantity": "中２枚ほど"
+        },
+        {
+            "name": "お好みの味噌",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁又は水",
+            "quantity": "４００～５００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま芋は所どころ皮をむき\n1㎝幅の半月ぎり",
+        "白菜ざく切り\n\n玉ねぎ５mm幅半月ぎり",
+        "鍋にだし汁(水）を入れて1と２の具を入れ\n火にかける",
+        "さつま芋が煮えたら味噌入れてお好みの濃さにして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3177777",
+    "advice": "ないです。各家庭の味噌と相談して下さい( '艸｀*)",
+    "history": "冷蔵庫に残っていた野菜たち処分がてら。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "さつまいも味噌汁 1位",
+        "白菜味噌汁 3位",
+        "さつまいもの味噌汁 1位"
+    ],
+    "related_keywords": [
+        "さつまいも 味噌汁",
+        "白菜 味噌汁",
+        "白菜 さつまいも",
+        "白菜 玉ねぎ 味噌汁"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3177777/100x141c/ee1f95b005ffc4573f8f5718200aba7e.jpg?u=2095785&p=1431701121"
+}

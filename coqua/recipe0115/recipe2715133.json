@@ -1,0 +1,58 @@
+{
+    "name": "トマトときゅうりの中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "管理栄養士miho"
+    },
+    "image": "https://img.cpcdn.com/recipes/2715133/464x260/47bd37e21a20a6a574d05c162210fca5.jpg?u=3397895&p=1405597580",
+    "datePublished": "2014-07-17",
+    "description": "ポン酢とごま油だけで簡単！ぱくぱく食べれちゃいます♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ１杯半"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/3～1/2杯"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "\nトマト、きゅうりは一口サイズに切り、きゅうりは塩でもんでおく。",
+        "\nきゅうりの水分が出たら、絞ってトマトと合わせる。",
+        "\nタレの材料を合わせて、トマト、きゅうりと和えれば完成♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2715133",
+    "advice": "きゅうりを塩揉みしておくことで水分が抜けて味が染みやすくなりますよ♪",
+    "history": "ポン酢とごま油の組み合わせが大好きで♪いつもの和え物やお浸しと雰囲気を変えてみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "きゅうり",
+        "塩",
+        "タレ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2715133/100x141c/853ba47e056162554e95de545ee5d9a2.jpg?u=3397895&p=1405597580"
+}

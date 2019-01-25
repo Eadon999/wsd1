@@ -1,0 +1,50 @@
+{
+    "name": "キャベツのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "miino"
+    },
+    "image": "https://img.cpcdn.com/recipes/448589/464x260/06a3d1fbc13cab7e5d8fb5f19e29735b.jpg?u=413625&p=1214217575",
+    "datePublished": "2007-10-26",
+    "description": "12/19話題入りさせて頂きました。感謝です。和えるだけのサラダです♫♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゃべつ",
+            "quantity": "食べる分だけ（４分の１）"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "お好みの量（大２～）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "お好みで（たっぷり）"
+        }
+    ],
+    "recipeInstructions": [
+        "お皿に、キャベツの千切りを盛り付け、ゆかり、ゴマ油をかけ、長ネギを散らす。混ぜて食べてくださいね♫♬",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "448589",
+    "advice": "長ネギは、お好みで、なくても、たっぶりでもおいしいです。",
+    "history": "キャベツを、沢山食べられる方法を考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゃべつ",
+        "ゆかり",
+        "ごま油",
+        "長ネギ"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/448589/100x141c/2014810128324cc1d1e1774068f0dd85.jpg?u=413625&p=1214217575"
+}

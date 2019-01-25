@@ -1,0 +1,71 @@
+{
+    "name": "トマトジュースでミネストローネ★",
+    "author": {
+        "@type": "Person",
+        "name": "hyi"
+    },
+    "image": "https://img.cpcdn.com/recipes/248367/464x260/9dca77ad544f9b421182d4bf4c705a21.jpg?u=203465&p=1214212861",
+    "datePublished": "2006-04-11",
+    "description": "トマトジュースを使って、簡単に野菜たっぷりのミネストローネができました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマトジュース100％",
+            "quantity": "300ml"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "１個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "アスパラガス",
+            "quantity": "１本"
+        },
+        {
+            "name": "コンソメスープ",
+            "quantity": "２粒"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "３かけら"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        }
+    ],
+    "recipeInstructions": [
+        "材料は全てさいころ状に、にんにくはみじんぎり。鍋にオリーブ油をひき、にんにくを弱火で炒める。",
+        "香りがでてきたら、その他の材料を軽くいためる。トマトジュースをいれ、につめる。水を徐々にいれて、コンソメスープのもとをいれる。",
+        "あとは、塩、こしょうで味付け。"
+    ],
+    "cookTime": null,
+    "recipe_id": "248367",
+    "advice": "野菜はなんでも、ベーコンはウィンナーでもＯｋ．トマトジュース１００％だとこくて、おいしくできます。水加減で濃さは調節してね。",
+    "history": "ミネストローネが飲みたいという家族の要望にこたえて・・・",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ミネストローネ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミネストローネ トマトジュース"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/248367/100x141c/6e680e64403cd7da46860d576ba2ee89.jpg?u=203465&p=1214212861"
+}

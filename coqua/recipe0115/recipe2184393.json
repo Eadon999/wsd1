@@ -1,0 +1,73 @@
+{
+    "name": "ニューヨークの味を再現！セサミチキン",
+    "author": {
+        "@type": "Person",
+        "name": "kazoomdub"
+    },
+    "image": "https://img.cpcdn.com/recipes/2184393/464x260/fabc1e1f1ca675d20c36abe0cd1631d9.jpg?u=394524&p=1365428972",
+    "datePublished": "2013-04-08",
+    "description": "2013.12.9話題入り感謝です！ニューヨークのチャイニーズデリでよく買ったセサミチキン。再現してみました。簡単です",
+    "recipeYield": "2〜3人前",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "120cc位"
+        },
+        {
+            "name": "●水溶き片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を小鍋に煮立て少し煮詰まったら水溶き片栗粉でとろみをつけてソースを作っておく。",
+        "鶏肉をそぎ切りにし、塩こしょう（分量外）をし、ポリ袋に入れ片栗粉を投入。よくまぶす。",
+        "フライパンにサラダ油を多めに熱し、こんがり揚げ焼きにする。",
+        "鶏に火が通ったら、1で作ったソースを入れ絡めながらサッと火を通す。",
+        "器に取り、白ごまをたっぷりかけて出来上り。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2184393",
+    "advice": "ソースは甘めです。甘いのが苦手な方は醤油を増やしたりして調節して下さい。それぞれの家庭の好みで！！",
+    "history": "ニューヨークのデリで気に入ってよく食べたセサミチキンを家で作ってみてから、ずっと我が家の定番です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セサミチキン"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2184393/100x141c/f5dddfab7e61f21ac9069404026e6ed5.jpg?u=394524&p=1365428972"
+}

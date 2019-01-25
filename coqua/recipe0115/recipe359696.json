@@ -1,0 +1,45 @@
+{
+    "name": "簡単！大根のバター醤油ステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "Fire-King"
+    },
+    "image": "https://img.cpcdn.com/recipes/359696/464x260/9a70c87bda947587d349fb617848fdb7.jpg?u=394490&p=1214215351",
+    "datePublished": "2007-04-14",
+    "description": "大根はレンジでチン！あとは焼くだけ～！またまた簡単！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は１～２cmの輪切りにして表面に切り込みを入れふわ～っとラップをしてレンジで５分チン！",
+        "フライパンにバターを溶かし、チンした大根を入れ両面焼く。\r\n半透明になったら醤油を入れ、色がつくまで焼く。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "359696",
+    "advice": "大根は表面に切れ目を入れると味がしみ込みやすくなります。",
+    "history": "大根のしっぽのほうが残ってたので、最小限の調味料で作ってみました。おかかや柚子胡椒を乗せても美味しいです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根ステーキ レンジ",
+        "大根ステーキ バター醤油",
+        "大根ステーキ 簡単"
+    ],
+    "tsukurepo_count": "182",
+    "thumbnail": "https://img.cpcdn.com/recipes/359696/100x141c/24158b064174b08a2c0b52ddd3eedab4.jpg?u=394490&p=1214215351"
+}

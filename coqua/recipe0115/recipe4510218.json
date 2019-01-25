@@ -1,0 +1,64 @@
+{
+    "name": "南瓜とエリンギの炒めもの",
+    "author": {
+        "@type": "Person",
+        "name": "uki345"
+    },
+    "image": "https://img.cpcdn.com/recipes/4510218/464x260/aed6c3a511585eec75a576cdb0b515e0.jpg?u=2669032&p=1494281371",
+    "datePublished": "2017-05-09",
+    "description": "素材を活かして簡単満足レシピ☆エリンギの食感がGOOD！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "南瓜（薄切り）",
+            "quantity": "1/8切れ"
+        },
+        {
+            "name": "エリンギ（短冊切り）",
+            "quantity": "１パック"
+        },
+        {
+            "name": "玉葱（櫛切り）",
+            "quantity": "中1/2個"
+        },
+        {
+            "name": "豚肉（一口大）",
+            "quantity": "150g"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を切る。南瓜は耐熱容器に入れて電子レンジ1000Wで１分加熱する。",
+        "フライパンにオリーブ油を熱し、豚肉・玉葱・エリンギ・南瓜を順に炒め、酒・醤油で味をととのえる。",
+        "器に盛り、すり胡麻をふったら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "4510218",
+    "advice": "南瓜はあらかじめ電子レンジで加熱したり、下茹でしておくと食材の仕上がりにばらつきが出ません。",
+    "history": "結婚当初からの２０年来のレシピです♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ エリンギ 豚肉",
+        "かぼちゃ エリンギ"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/4510218/100x141c/b353fb36a84dbec1ae32d9fc5bac1f7e.jpg?u=2669032&p=1494281371"
+}

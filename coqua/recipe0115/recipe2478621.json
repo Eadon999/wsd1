@@ -1,0 +1,60 @@
+{
+    "name": "簡単染みてる☆かぼちゃの煮物(南京煮)",
+    "author": {
+        "@type": "Person",
+        "name": "ゆっちゃん＊♡＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2478621/464x260/5a678f4d80fd8568b145fee3bee66ae8.jpg?u=8639744&p=1391050864",
+    "datePublished": "2014-01-28",
+    "description": "やわらか～いかぼちゃの南京煮です♡ほくほくで一口食べたらほっこりします(*´∀｀)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃを一口大に切る。",
+        "鍋にかぼちゃ、水、ほんだしを入れ、蓋をして中火で15分煮る。",
+        "砂糖、塩、醤油を入れ、落し蓋をして5分煮る。",
+        "すこし冷ますと味が染みておいしいです。",
+        "お皿に盛り付けてできあがり☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2478621",
+    "advice": "●荷崩れを防ぐため、鍋の中はかき回さないこと。●鰹節を入れて煮ても◎(*^^*)",
+    "history": "かぼちゃの煮付けが食べたくて(♥Ü♥)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "水",
+        "ほんだし",
+        "砂糖"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2478621/100x141c/0e299b0f7168a3213f0853bf803ef277.jpg?u=8639744&p=1391050864"
+}

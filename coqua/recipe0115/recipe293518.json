@@ -1,0 +1,54 @@
+{
+    "name": "簡単！長芋のチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "シェフミニー"
+    },
+    "image": "https://img.cpcdn.com/recipes/293518/464x260/baa40d1ab7518db20ea4631749a8815e.jpg?u=283288&p=1214213901",
+    "datePublished": "2006-10-24",
+    "description": "長芋とチーズだけで簡単手抜き料理です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "15cm"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は乱切りにする。グラタン皿にのせてコショウとクレイジーソルトを多めにふる。レンジのゆで野菜キーを使ってチンをする。（1000wで3分）",
+        "1にピザ用チーズをのせてオーブントースターで10分焼く。",
+        "仕上げにパセリをふって出来上がり(^^)/"
+    ],
+    "cookTime": null,
+    "recipe_id": "293518",
+    "advice": "クレイジーソルトは多めにふったほうがよいです。",
+    "history": "グラタンにしようかと思ったけど面倒だったのでf(^ー^;",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋",
+        "ピザ用チーズ",
+        "クレイジーソルト",
+        "黒胡椒"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/293518/100x141c/2f53e7aedabf509341ad31035700590c.jpg?u=283288&p=1214213901"
+}

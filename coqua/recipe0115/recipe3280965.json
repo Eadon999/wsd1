@@ -1,0 +1,54 @@
+{
+    "name": "茄子の塩もみ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3280965/464x260/f860ff9353c218550acdbc8a3c642568.jpg?u=9552524&p=1436220867",
+    "datePublished": "2015-07-07",
+    "description": "簡単！茄子の塩もみはｊかがですか(^^)箸休めやご飯のおともに♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "おろしショウガ",
+            "quantity": "少々"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子はヘタを取って半分に切り斜め薄切りにします。",
+        "①に塩を振って茄子が折れないように優しく手で揉みます。しんなりしたら水気をしっかり絞り、生姜を加えて混ぜる。",
+        "器に盛りかつお節を乗せます。\n醤油を垂らしていただきます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3280965",
+    "advice": "茄子は強く揉むと折れてしまうので塩で和えて少ししんなりさせてから揉みます。",
+    "history": "庭のプランターにでっかい茄子が２本ブラブラ（笑）採りたてを塩もみしてお茶漬けのおともに(^^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "塩",
+        "おろしショウガ",
+        "かつお節"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3280965/100x141c/8fba19a76f053c2ca01ee10875358914.jpg?u=9552524&p=1436220867"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "マヨポンde豚もやし",
+    "author": {
+        "@type": "Person",
+        "name": "rinraychi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1836342/464x260/a1aa9a579af0a10ce0743c83dd3855c3.jpg?u=1973604&p=1338910275",
+    "datePublished": "2012-06-02",
+    "description": "あっという間にできちゃいます♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉切り落とし",
+            "quantity": "150g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "薬味ねぎ（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで豚肉を炒める。この時酒を少々振り掛ける。",
+        "肉の色が変わる前にポン酢を流しいれ、煮る。",
+        "肉の色が変わったら、肉の上にもやしを蓋のようにし、蒸し焼きにする。",
+        "もやしがしんなりしたら、汁に柚子胡椒をとき、マヨネーズも加え、全体に混ぜ合わせる。",
+        "お皿に盛って、小口切りの薬味ねぎをちらして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1836342",
+    "advice": "マヨネーズ、柚子胡椒無しでもさっぱり味で十分おいしくできます。柚子胡椒をわさびに替えてもいいですよ。",
+    "history": "とにかく、時間の無い時に短時間でメインになるメニューとして作りました。我が家の鉄板メニューです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉切り落とし",
+        "もやし",
+        "酒",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1836342/100x141c/72557ded381f85b8d9ac563754e5e9f0.jpg?u=1973604&p=1338910275"
+}

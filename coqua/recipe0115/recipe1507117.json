@@ -1,0 +1,69 @@
+{
+    "name": "厚揚げのオクラあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ピンキーももこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1507117/464x260/e998735e5e9de71035c361b82911adb6.jpg?u=1084344&p=1311679423",
+    "datePublished": "2011-07-27",
+    "description": "簡単なのに美味しい一品です。2011年８月ピックアップに掲載されました♬感激！！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "★出汁",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大匙　１　１／２"
+        },
+        {
+            "name": "★味醂",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "水",
+            "quantity": "大匙　２"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げはカリカリにしたい場合はフライパンで焼く。ふわふわにしたい場合はレンジでチンし１ｃｍぐらいの厚さに切る。",
+        "オクラは小口切りにする。",
+        "生姜をすり下ろす。",
+        "★を煮立てオクラを入れ水溶き片栗粉でとろみをつける。",
+        "器に厚揚げをのせオクラあんをかけ　すりおろし生姜をのせて　はい出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1507117",
+    "advice": "醤油によってかなりお味が違ってきますのでお味を見ながら加減して下さい。",
+    "history": "ドライブに出かけた時に昼食でいただいたお味を再現しました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラあんかけ"
+    ],
+    "tsukurepo_count": "92",
+    "thumbnail": "https://img.cpcdn.com/recipes/1507117/100x141c/0237dadf3ba0425272fefcae59ec9652.jpg?u=1084344&p=1311679423"
+}

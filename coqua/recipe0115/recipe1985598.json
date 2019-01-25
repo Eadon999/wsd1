@@ -1,0 +1,65 @@
+{
+    "name": "うちのベーシック 鶏唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "ふなここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1985598/464x260/f5f7ef69983f9cfbcf34c2b504cb97d9.jpg?u=2943729&p=1392676664",
+    "datePublished": "2012-10-07",
+    "description": "♪13/7/10話題入り感謝です♪衣カリカリ・味しっかり^ ^基本的にはこの味が好きです。",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "500g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "にんにくチューブ",
+            "quantity": "4センチ"
+        },
+        {
+            "name": "しょうがチューブ",
+            "quantity": "4センチ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "5振り"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ8"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を一口大くらいに切る。\nキッチンバサミが便利です。\n袋に肉と調味料を入れてよくもみ、冷蔵庫に1時間くらい入れておく。",
+        "冷蔵庫から出した鶏肉をもう一度もみ、鶏肉にしっかり片栗粉をまぶし、180℃の油で色がつくまで揚げます。\nコツ読んで下さい"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "1985598",
+    "advice": "揚げるとき、お肉の皮を下にして丸めてから入れて、2〜3分は箸でつっついたり混ぜたりしない事が、カリカリにうまく揚がる秘訣です。",
+    "history": "旦那が唐揚げ大好きなんです！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏のから揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "醤油",
+        "酒",
+        "にんにくチューブ"
+    ],
+    "tsukurepo_count": "136",
+    "thumbnail": "https://img.cpcdn.com/recipes/1985598/100x141c/edc2aff8ad5e4def028d39e408b6b1cb.jpg?u=2943729&p=1392676664"
+}

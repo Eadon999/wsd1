@@ -1,0 +1,58 @@
+{
+    "name": "きゃべつで牛乳スープ",
+    "author": {
+        "@type": "Person",
+        "name": "スモップ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1340098/464x260/38d5432fdd4a89265346ac35cc549da7.jpg?u=2768009&p=1393248863",
+    "datePublished": "2011-01-25",
+    "description": "いつも冷蔵庫にあるキャベツ。コンソメスープにするけれどたまには違った味にしてみたい。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１／６個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "お椀２杯分"
+        },
+        {
+            "name": "水",
+            "quantity": "お椀２杯分"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "３個"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをざく切りにする。",
+        "鍋にキャベツ・牛乳・水・コンソメ・生姜を入れ吹きこぼれないように火にかける。",
+        "キャベツがやわらかくなったら、あじみをし、塩・こしょうで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1340098",
+    "advice": "強火にすると吹きこぼれるので気をつける。",
+    "history": "キャベツがいつも冷蔵庫にストックされているので何とか使い切りたいと考えました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "牛乳",
+        "水",
+        "コンソメ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/1340098/100x141c/292747451eb73bf64f59567f86ded404.jpg?u=2768009&p=1393248863"
+}

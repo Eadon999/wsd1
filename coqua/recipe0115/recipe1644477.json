@@ -1,0 +1,65 @@
+{
+    "name": "サツマイモと豚挽き肉の炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "chikopi♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1644477/464x260/1a1698206185b242e441be9e6d9d7b6b.jpg?u=3236727&p=1438731224",
+    "datePublished": "2011-12-05",
+    "description": "余ってるさつまいもがあればご飯に合う絶品おかず♪ほっこりして美味！マガジンVol.14に掲載していただきました♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚挽き肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "サツマイモ（小）",
+            "quantity": "3本くらい"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2程度"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "1/2カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "サツマイモを一口大の乱切りにし、水にさらす",
+        "挽き肉を炒め、色が変わったらサツマイモを入れさらに炒める。",
+        "酒、だし、醤油、砂糖の順に入れ、味が調ったらみりんを入れよくなじませる",
+        "弱火で20分以上煮込めば出来上がり！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1644477",
+    "advice": "とにかく煮込めば煮込むほど美味しくなりますがサツマイモが溶けない程度に！",
+    "history": "余ってるサツマイモを寄せ集めて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも",
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも ひき肉"
+    ],
+    "tsukurepo_count": "160",
+    "thumbnail": "https://img.cpcdn.com/recipes/1644477/100x141c/b04446de4ad7f5999b88b582c5bb8c91.jpg?u=3236727&p=1438731224"
+}

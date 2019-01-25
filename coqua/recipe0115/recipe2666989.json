@@ -1,0 +1,62 @@
+{
+    "name": "イカと大根と里芋の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "micchankon"
+    },
+    "image": "https://img.cpcdn.com/recipes/2666989/464x260/014c420e77bcd0e21a7fcaf584daee81.jpg?u=9923851&p=1402544840",
+    "datePublished": "2014-06-12",
+    "description": "少ない材料でもしっかり味がついてておいしいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "1ぱい"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "里芋（冷凍でも）",
+            "quantity": "4こ"
+        },
+        {
+            "name": "酒",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "それぞれ食べやすい大きさに切ります。",
+        "調味料を煮立てたところにイカを入れます。",
+        "イカの色が変わったら、大根を入れます。ひたひたになるまで水を加えて煮ます。",
+        "大根にはしがささるくらいになったら、里芋を入れて再び煮ます。",
+        "里芋に火が通ったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2666989",
+    "advice": "イカはカットしてあるもの、冷凍の里芋などを使うと手間なく簡単にできます。",
+    "history": "我が家は人数が多いので倍量で作っています。忙しくて朝のうちに夕食を作ることも多々あり、ストックの冷凍イカと冷凍里芋と大根などでぱぱっとできるものをと考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか 大根 里芋",
+        "里芋 イカ 大根 煮物"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2666989/100x141c/4259e0e43eb4dd2461a90a55e33ce14d.jpg?u=9923851&p=1402544840"
+}

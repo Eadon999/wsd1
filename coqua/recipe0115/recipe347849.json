@@ -1,0 +1,62 @@
+{
+    "name": "たまごとニラともやしのさっぱり炒め",
+    "author": {
+        "@type": "Person",
+        "name": "dora-neko"
+    },
+    "image": "https://img.cpcdn.com/recipes/347849/464x260/c9f2744bb6a1c89a9d7f838682097cea.jpg?u=410159&p=1214215103",
+    "datePublished": "2007-03-21",
+    "description": "おかずが物足りない時の1品に。でもメインにもなるかも！？08/4/16話題入りしました☆つくれぽくれた皆様ありがとうございます。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "3個"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "一束"
+        },
+        {
+            "name": "もやし",
+            "quantity": "一袋"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ガラスープの素",
+            "quantity": "大さじ1～2杯"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "玉子を割りほぐし、半熟のスクランブルエッグをつくる。\r\nニラを3～4センチに切る",
+        "フライパンにごま油をいれ、ニラともやしを炒める。\r\n塩コショウ、ガラスープの素で味付けをする。",
+        "（1）の玉子を入れ、しょうゆを回しいれ出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "347849",
+    "advice": "すばやく作る事が基本です。ニラももやしも炒めすぎると美味しくなくなります。",
+    "history": "ニラ大好きの息子のために作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまご",
+        "ニラ",
+        "もやし",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/347849/100x141c/2835149bd6942d27754eccabc39af610.jpg?u=410159&p=1214215103"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "グレープフルーツサラダ＆ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "たからずか"
+    },
+    "image": "https://img.cpcdn.com/recipes/801328/464x260/a69a4149bdb620928d3168a8f9fea8f8.jpg?u=63200&p=1341364855",
+    "datePublished": "2009-05-06",
+    "description": "さっぱりとしたグレープフルーツでサラダドレッシングです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "2－３枚"
+        },
+        {
+            "name": "サニーレタス",
+            "quantity": "3枚"
+        },
+        {
+            "name": "ﾙｯｺﾗ",
+            "quantity": "１/2パック"
+        },
+        {
+            "name": "ｸﾞﾚープフルーツ(ﾙﾋﾞｰ）（GF)",
+            "quantity": "１/2個"
+        },
+        {
+            "name": "★オリーブ油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大３"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "小２"
+        },
+        {
+            "name": "★黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "★GFの汁と実",
+            "quantity": "3袋ぐらい"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は適当な大きさに切って水を切っておく",
+        "★の調味料を混ぜておく。\r\n汁を絞った実も一緒に入れる。",
+        "野菜を大皿に盛りＧＦの実を袋から取り出し、適当にちぎって野菜の上におく。\r\n",
+        "★ドレッシングをよく混ぜてからかけてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "801328",
+    "advice": "お酢は黒酢でも美味しいです。野菜は水をしっかり切ってください。",
+    "history": "グレープ(ﾙﾋﾞｰ）が美味しそうだったので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "グレープフルーツ サラダ",
+        "グレープフルーツ ドレッシング"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/801328/100x141c/3219bc24bb290aa58293a236a2ae34b4.jpg?u=63200&p=1341364855"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "大根とレタスのコンソメスープ ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/250462/464x260/e0a367a8dacf4c3361bb3dc3110d5c9d.jpg?u=57297&p=1214212945",
+    "datePublished": "2006-04-23",
+    "description": "どって事ないけど、旨いよね(*´ｍ｀) レタスの外側の捨てるとこ使ってるよ(*´3｀) ",
+    "recipeYield": "3人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "外側の捨てるとこ3枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "20cmくらいをダイスに"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "1枚"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根はダイスに切って、オリーブオイルで炒め水を注して、ベーコンと固形コンソメ2個入れて圧力鍋で３～４分、",
+        "蓋が開いたら、レタスをちぎって入れてひと煮立ち、仕上げに塩胡椒。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "250462",
+    "advice": "http://plaza.rakuten.co.jp/ochazuke ここがお茶丸の楽天サイトです、楽しい日記を書いてるので覗いてみてね(^m^*)",
+    "history": "レタスは余さず使います。スープに入れることも多いです。結構美味しいの",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "大根",
+        "ベーコン",
+        "固形コンソメ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/250462/100x141c/4b0889e05c28b003acd081d2f5e4b817.jpg?u=57297&p=1214212945"
+}

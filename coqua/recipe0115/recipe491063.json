@@ -1,0 +1,54 @@
+{
+    "name": "ザーサイ炒飯",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/491063/464x260/12ee5e9c826b29fd778af0d5f6e03e8d.jpg?u=253314&p=1214218401",
+    "datePublished": "2008-01-19",
+    "description": "材料4つ♪　ｱﾀｼ好みの味ぃ♪♪気に入って頂けると嬉しいな（＾＾）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ザーサイ（味付き）",
+            "quantity": "３０ｇ（程）"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "茶碗大1杯"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "割りほぐした卵にご飯と細かく切ったザーサイを入れて混ぜる。",
+        "ネギも切っておく。小口切り、斜め切りお好みで♪",
+        "①を炒め、塩で味付けてネギを入れ　ひと混ぜして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "491063",
+    "advice": "ザーサイに味がついてますので、塩は加減しながらお好みの味付けにして下さいね。",
+    "history": "炒飯大好き♪ザーサイも好きぃ！　　だからコレ（笑）",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/お漬物を使ったチャーハン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ザーサイ",
+        "ごはん",
+        "卵",
+        "ネギ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/491063/100x141c/b5087e72578c014413aa51921d07e576.jpg?u=253314&p=1214218401"
+}

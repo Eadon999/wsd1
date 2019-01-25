@@ -1,0 +1,47 @@
+{
+    "name": "ピリッと辛いおにぎり②鮭フレーク",
+    "author": {
+        "@type": "Person",
+        "name": "シャンプーハット"
+    },
+    "image": "https://img.cpcdn.com/recipes/1190857/464x260/a8f4acff1bccec060bfc52ea96d2d862.jpg?u=2367334&p=1296881538",
+    "datePublished": "2010-07-20",
+    "description": "鮭と粗引きこしょうはいい相性です",
+    "recipeYield": "小さめ２個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "鮭フレーク(ニッスイ焼さけあらほぐし)",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "粗引き黒こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ごはんに鮭フレークと粗引きこしょうを混ぜてにぎるだけです",
+        "鮭フレークの塩味だけで充分だと思いますが、足りなければ塩を付けてにぎってください",
+        "使ったのはこれです",
+        "ゆかりバージョン\nID:1190852\n塩昆布バージョン\nID:1190251\nおかかバージョン\nID:1190856"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1190857",
+    "advice": "粗引きこしょうの量はお好みでどうぞ",
+    "history": "姪に教えてもらいました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり",
+        "その他/スパイス＆ハーブ/ブラックペッパー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "鮭フレーク",
+        "粗引き黒こしょう"
+    ],
+    "tsukurepo_count": "290",
+    "thumbnail": "https://img.cpcdn.com/recipes/1190857/100x141c/5ba5ce10c78e583e20781278477eb5ce.jpg?u=2367334&p=1296881538"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "長葱おかか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "knblue"
+    },
+    "image": "https://img.cpcdn.com/recipes/24091/464x260/ada9f0d5c686c1d142b2a6919de1eb59.jpg?u=7403&p=1214208615",
+    "datePublished": "2001-06-28",
+    "description": "こまった時のもう一品。ご飯がすすみます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "長葱",
+            "quantity": "１本"
+        },
+        {
+            "name": "削りかつお",
+            "quantity": "３g入り１袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長葱を小口切りにする。",
+        "フライパンを熱してサラダ油をなじませ、長葱を炒め、削りかつおをふり入れ、醤油を回しかけ、手早く混ぜる。",
+        "器に盛って刻み海苔をふれば出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "24091",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長葱",
+        "削りかつお",
+        "醤油",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/24091/100x141c/434c788d4da3f4411774fd69b623b39b.jpg?u=7403&p=1214208615"
+}

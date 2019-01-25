@@ -1,0 +1,56 @@
+{
+    "name": "かぼちゃとサツマイモのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "TOMOCOcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/59799/464x260/ebd59f417a1f6af5c26c0c4d39c016e3.jpg?u=10574&p=1214209287",
+    "datePublished": "2002-07-12",
+    "description": "ハマリます！めちゃくちゃ美味しくて。私のレシピの中でも一押し！ほんとに衝撃的な感じだよ。便秘解消にも。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4（３００g）"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "大１本（３５０g）"
+        },
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "プロセスチーズ",
+            "quantity": "６０g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "６０g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "卵はゆで卵にする。さつまいもは皮をむいて茹でる。かぼちゃも皮を取りレンジにかけて柔らかくする。チーズは１センチ角切りに。",
+        "ボウルにさつまいもとかぼちゃゆで卵を入れつぶしてマヨネーズ塩コショウで味付けする。最後にチーズを入れて混ぜる。",
+        "パンと耳をかりっとよく焼いて上にのせて食べるとおいしいです。もちろんそのままでも・・・"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "59799",
+    "advice": "パンの耳以外にクラッカーや玄米ご飯にもよくあいます。",
+    "history": "以前行った居酒屋さんのつきだしを真似して作っているうちに改良されていきました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも かぼちゃ",
+        "かぼちゃ さつまいも サラダ"
+    ],
+    "tsukurepo_count": "343",
+    "thumbnail": "https://img.cpcdn.com/recipes/59799/100x141c/af1fbf5f09d6141cec3b55724adb5ebb.jpg?u=10574&p=1214209287"
+}

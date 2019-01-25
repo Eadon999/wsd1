@@ -1,0 +1,83 @@
+{
+    "name": "切り昆布の煮もの",
+    "author": {
+        "@type": "Person",
+        "name": "夢夢555"
+    },
+    "image": "https://img.cpcdn.com/recipes/1896810/464x260/64abd79d8fa48eaad7e9695acd860ae4.jpg?u=4527450&p=1343431007",
+    "datePublished": "2012-07-28",
+    "description": "カテゴリ掲載感謝♡昆布はミネラルいっぱい　飽きのこない定番メニュー　エリンギの食感もまた格別　",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "切り昆布（もどしたもの）",
+            "quantity": "230ｇ"
+        },
+        {
+            "name": "人参(千切り)",
+            "quantity": "半本"
+        },
+        {
+            "name": "エリンギ（太めの千切り）",
+            "quantity": "１本"
+        },
+        {
+            "name": "油揚げ（千切り）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "いりごま(白)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "大さじ0.5"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊だしの素",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊水",
+            "quantity": "50ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "切り昆布を　食べやすい大きさに　切る",
+        "鍋に　ごま油を入れ　材料を　炒める",
+        "＊水と調味料を入れ　蓋をして　中火にしてから弱火にする　人参が柔らかく　なったら強火",
+        "＊汁けがなくなる位で　ゴマをいれる\nからめて　出来上がり"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1896810",
+    "advice": "お好みで　昆布の硬さ調整する　強火にしたら　蓋をしないで箸でかき混ぜながら　煮汁をとばす",
+    "history": "母の時代は　昆布と煮干しでした　子供心に　少し物足りなかった",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り昆布",
+        "人参",
+        "エリンギ",
+        "油揚げ"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/1896810/100x141c/b8d2a0e37341fc4b886951119bf70479.jpg?u=4527450&p=1343431007"
+}

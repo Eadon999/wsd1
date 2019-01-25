@@ -1,0 +1,70 @@
+{
+    "name": "簡単おいしい◎秩父の和点心「みそポテト」",
+    "author": {
+        "@type": "Person",
+        "name": "埼玉県"
+    },
+    "image": "https://img.cpcdn.com/recipes/2646547/464x260/25c6a2d6ed7d769eb1656c32b4490cce.jpg?u=8682884&p=1401244449",
+    "datePublished": "2014-06-09",
+    "description": "第5回埼玉B級ご当地グルメ王決定戦優勝メニュー！ジャガイモと甘辛いみそだれが絶妙で、秩父ではおかずやおつまみの定番です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "4個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "70㏄"
+        },
+        {
+            "name": "白みそ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "160ｇ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "酒",
+            "quantity": "100㏄"
+        },
+        {
+            "name": "柚子（みじん切り）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "みそだれの材料を合わせて火にかけ、たれを作っておく。",
+        "ジャガイモをゆでて皮をむき、一口大に切る。",
+        "小麦粉を水で溶いて作った衣をジャガイモに付ける。",
+        "衣を付けたジャガイモを180℃に熱した油で揚げる。",
+        "熱々のジャガイモにみそだれをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2646547",
+    "advice": "熱い油でカラッと揚げるのがポイントです！",
+    "history": "秩父に昔からある、農作業の合間など小腹がすいた時に食べる郷土料理「子昼飯」（こぢゅうはん）の1つ。他にもいろいろありますよ。出典：秩父商工会議所http://www.chichibu-cci.or.jp/category.php?id=38",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": [
+        "点心 2位"
+    ],
+    "related_keywords": [
+        "味噌ポテト 秩父",
+        "味噌ポテト",
+        "味噌ポテト 簡単",
+        "点心"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2646547/100x141c/1b650e5cd709425db758042e71abf423.jpg?u=8682884&p=1401244449"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "ブロッコリーと卵のとろ～りあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "kou2091"
+    },
+    "image": "https://img.cpcdn.com/recipes/320258/464x260/f8903661d4f62c009bb6ed0c42043b90.jpg?u=265712&p=1214214510",
+    "datePublished": "2007-01-18",
+    "description": "ブロッコリーと卵にとろ～っとかかった甘辛いタレが絶品☆いくらでも食べれるよ～。",
+    "recipeYield": "１皿分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "★中華の素（あれば）",
+            "quantity": "少々"
+        },
+        {
+            "name": "★水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーはゆでて食べやすい大きさにしておく。調味料は★印のものを合わせておく。",
+        "まずいり卵を作り、そこへブロッコリーを入れ少し炒める。",
+        "２をお皿に盛る",
+        "フライパンに★の調味料を入れて少し煮立たせた後、片栗粉でとろみをつける。それを３のお皿にまわしかけたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "320258",
+    "advice": "う～ん、特になし。とにかく簡単。とろみも卵のいり加減もブロッコリーの固さも全てお好みでどうぞ。",
+    "history": "天津飯を作った時に余ったタレをかけてみたのが始まり。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー 卵 あんかけ",
+        "ブロッコリー あんかけ"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/320258/100x141c/5b8cb4ecf31f59b5ce0ecec637562853.jpg?u=265712&p=1214214510"
+}

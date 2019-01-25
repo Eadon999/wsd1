@@ -1,0 +1,85 @@
+{
+    "name": "✿餃子そぼろ丼✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/2767388/464x260/89c27e501189f8c2facef2f0a1c2b8ff.jpg?u=271833&p=1408797193",
+    "datePublished": "2014-08-23",
+    "description": "餃子のたねに使う具材を炒めて味付けしたものをご飯に乗せました。餃子＆ライスの味を丼で♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/8玉"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "長ネギ（小口切り）",
+            "quantity": "1本（細めのもの）"
+        },
+        {
+            "name": "☆にんにく（すりおろし）",
+            "quantity": "ひとかけ分"
+        },
+        {
+            "name": "☆生姜（すりおろし）",
+            "quantity": "ひとかけ分"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆ラー油",
+            "quantity": "4～5滴"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "二膳分"
+        }
+    ],
+    "recipeInstructions": [
+        "器に☆を全て入れてよく混ぜ合わせておく。キャベツとニラは粗みじん切りにする。",
+        "フライパンにごま油を熱し、ひき肉・キャベツ・ニラ・ネギを炒める。",
+        "ひき肉の色が変わったら１で混ぜ合わせておいた調味料を加えて全体になじませる。",
+        "汁気がほぼなくなるまで炒め、あたたかいご飯の上に乗せる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2767388",
+    "advice": "特にありません。",
+    "history": "半端に余った野菜の消費に。パッと見て餃子の具に使う材料だったことから思いつきました＾＾",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "餃子のたね 丼",
+        "餃子 丼"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2767388/100x141c/5841187d68eb2f91ac9fbea34186ca6a.jpg?u=271833&p=1408797193"
+}

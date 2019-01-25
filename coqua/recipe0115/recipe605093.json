@@ -1,0 +1,53 @@
+{
+    "name": "カニカマといんげんのごまマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "なおタウリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/605093/464x260/5b566082639325d93933ce3102784608.jpg?u=386014&p=1215455308",
+    "datePublished": "2008-07-05",
+    "description": "ごまマヨとカニカマでコクうまな和え物です♪「",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "カニカマ",
+            "quantity": "大きめ３つ"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆めんつゆ(３倍濃縮）",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "大１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんは茹でて食べやすい長さに切る。\r\n",
+        "ボールに☆を合わせ、いんげんとほぐしたカニカマを和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "605093",
+    "advice": "写真で使用しているカニカマは、カニ身っぽい大ぶりのものです。カニカマにより、お好みで量を加減して下さい。",
+    "history": "カニカマのうまみを生かした和え物を作ろうと思いました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カニカマ",
+        "いんげん",
+        "マヨネーズ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/605093/100x141c/50c2f98a7d7ff2c48196aa159b0355ee.jpg?u=386014&p=1215455308"
+}

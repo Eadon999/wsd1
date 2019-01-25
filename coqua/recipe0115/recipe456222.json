@@ -1,0 +1,70 @@
+{
+    "name": "ニラと卵の中華スープ◎",
+    "author": {
+        "@type": "Person",
+        "name": "ユミニィ"
+    },
+    "image": "https://img.cpcdn.com/recipes/456222/464x260/85364e34ca996cce995fcb9450b884f3.jpg?u=516237&p=1214217725",
+    "datePublished": "2007-11-08",
+    "description": "ニラと卵は炒め物だけじゃなくて、スープにもバッチリ合います！【２００８年５月２７日に話題入りすることができました作って下さった皆様ありがとうございます♡】",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "２本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "鶏ガラスープ（顆粒）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "＊水",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを３cm位に切っておく。鍋に水と鶏ガラスープを入れ沸騰させる。",
+        "沸騰したら、調味料を入れ味付けをする。そこへニラを入れ一煮立ちしたら溶きほぐした卵を回し入れる。",
+        "卵がほぼ固まって来たら最後に水溶き片栗粉を回し入れ少しとろみを付けて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "456222",
+    "advice": "特にありません。",
+    "history": "ニラが２本余っていたので、お味噌汁というよりは卵スープの方が合うんじゃないかと思って作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "鶏ガラスープ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/456222/100x141c/5e8879a7264d3ab7fe2cb373e042f333.jpg?u=516237&p=1214217725"
+}

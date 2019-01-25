@@ -1,0 +1,52 @@
+{
+    "name": "お助け！白菜と塩昆布とベーコンのうま煮",
+    "author": {
+        "@type": "Person",
+        "name": "okiruko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1633434/464x260/4aadedfba56efa2b3d4ab41bad63b6ee.jpg?u=881149&p=1321848375",
+    "datePublished": "2011-11-21",
+    "description": "水なし調理で塩昆布とベーコンの旨みが白菜の甘みを引き立てます☆出汁はご飯にかけるとサイコーです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/４株"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "４枚（好きなだけ）"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は芯と葉を分け芯は３ｃｍそぎ切り、葉は３ｃｍ幅にカット。鍋に芯を並べ、その上にベーコン、塩昆布の半量をのせる。",
+        "その上に白菜の葉を全部のせ、更に残りのベーコン、塩昆布をのせ、日本酒をふりかける。",
+        "蓋をして中火で約１０～１５分蒸し煮する。出来上がったら上からごま油を回しかけ、お皿に盛って出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1633434",
+    "advice": "ベーコン以外にも、ウインナーやツナ、豚肉等でも合うと思います。",
+    "history": "冷蔵庫の白菜を使い切ってしまいたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 うま煮 ベーコン",
+        "白菜 ベーコン 塩昆布"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1633434/100x141c/a348af587dbf5c22a9d309fbdb23c65c.jpg?u=881149&p=1321848375"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "レモンが濃いクリーミードレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/349694/464x260/9f9dce2a70b79f369bd3a8f597618315.jpg?u=322945&p=1214215137",
+    "datePublished": "2007-03-31",
+    "description": "簡単混ぜるだけのドレッシングです。家で作ればお得です♪",
+    "recipeYield": "５人分",
+    "recipeIngredient": [
+        {
+            "name": "ポッカレモン１００",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全てを混ぜるだけです。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "349694",
+    "advice": "シーザーサラダなど、どんなサラダにも合います♪レモンをもっと増やしてもすっぱおいしいです♪",
+    "history": "家で作ると、安くてお得！しかもおいしい♪ので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レモンクリーミードレッシング",
+        "レモンドレッシング"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/349694/100x141c/c51194fc1bc2538f908b25962c027263.jpg?u=322945&p=1214215137"
+}

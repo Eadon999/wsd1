@@ -1,0 +1,44 @@
+{
+    "name": "お弁当のおかずに♪かまぼこ＆ツナマヨ★",
+    "author": {
+        "@type": "Person",
+        "name": "トモゾー"
+    },
+    "image": "https://img.cpcdn.com/recipes/285854/464x260/45a98c9f0672cbdeebfdedb80dd6bef9.jpg?u=245467&p=1214213730",
+    "datePublished": "2006-09-29",
+    "description": "お弁当の1品が３分で出来ちゃう！！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かまぼこ（赤）",
+            "quantity": "1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かまぼこを6等分する。真ん中に切り目を入れる。",
+        "ツナとマヨネーズ（お好みで）を混ぜ、①のかまぼこにはさむ。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "285854",
+    "advice": "コツは特にありません（＾-＾；）",
+    "history": "母親がよくお弁当に入れてくれました♪今では主人のお弁当のおかずになってますv(*'-^*)ｂ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かまぼこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かまぼこ おかず",
+        "お弁当 おかず かまぼこ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/285854/100x141c/fdd24e43e23b572afe2823aa4c68c1de.jpg?u=245467&p=1214213730"
+}

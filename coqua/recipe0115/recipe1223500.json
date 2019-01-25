@@ -1,0 +1,58 @@
+{
+    "name": "おくらのお味噌汁✿",
+    "author": {
+        "@type": "Person",
+        "name": "こいぬママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1223500/464x260/88a5c9838b30ee966b1ceb1dbb1cf457.jpg?u=1056424&p=1283346556",
+    "datePublished": "2010-09-01",
+    "description": "祝✿25人♡簡単オクラのお味噌汁♪ 子供たちもパクパクちゃんです✿ オクラを食べると頭が良くなるんですって！",
+    "recipeYield": "大人２人　幼児２人分",
+    "recipeIngredient": [
+        {
+            "name": "お水",
+            "quantity": "４００CC"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "５本"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "わかめ（乾燥）",
+            "quantity": "小さじ２～３程度"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "おくらを洗い、塩を振って板ずりし、細かく小口切りにする。",
+        "お鍋に水を入れ火にかけ、沸騰したら豆腐を入れる。",
+        "豆腐が温まったら、オクラ・わかめを入れ、再び沸騰してきたら、最後に顆粒だしを入れ味噌を溶いたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1223500",
+    "advice": "どの具もあまり煮なくても美味しい素材なので、簡単にパパッと出来ちゃうのが嬉しいです✿",
+    "history": "おくらを子供たちにも食べさせたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お水",
+        "オクラ",
+        "豆腐",
+        "わかめ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1223500/100x141c/d6127416939dea78e7e205bdd9142ace.jpg?u=1056424&p=1283346556"
+}

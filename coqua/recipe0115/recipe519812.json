@@ -1,0 +1,50 @@
+{
+    "name": "めかぶ納豆",
+    "author": {
+        "@type": "Person",
+        "name": "ひなねママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/519812/464x260/ef3503c6a3d5acb232e6471874208f42.jpg?u=312544&p=1214218931",
+    "datePublished": "2008-02-29",
+    "description": "生のめかぶを使って　納豆に混ぜるだけ　だけどすっごく美味しい☆めかぶ＆納豆大好き＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生めかぶ",
+            "quantity": "細かくしたの大匙２くらい"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１Ｐ"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "納豆のタレ",
+            "quantity": "１Ｐぶん"
+        }
+    ],
+    "recipeInstructions": [
+        "生のめかぶを使うので　ボールにめかぶを入れ熱湯を上からかけ緑色になるまで入れておく",
+        "１のめかぶをざるにあげてＦＰで細かくする",
+        "２のめかぶをお好みの量を納豆に混ぜ　納豆のタレとめんつゆ少々入れ出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "519812",
+    "advice": "生のメカブがちょうどあったので　作ったら美味しかったので　それからはメカブをわざわざ買って作ってます☆",
+    "history": "納豆とめかぶってあうと思ったので作りました",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/めかぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生めかぶ",
+        "納豆",
+        "めんつゆ",
+        "納豆のタレ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/519812/100x141c/e7d305e6f4f1f9f7149fb63f9086e555.jpg?u=312544&p=1214218931"
+}

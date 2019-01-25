@@ -1,0 +1,54 @@
+{
+    "name": "こくウマ♪人参とちくわのごまマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "なおタウリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1057799/464x260/b0e8ebcf31119b52d5e036247d5d44ad.jpg?u=386014&p=1267679438",
+    "datePublished": "2010-03-04",
+    "description": "食感がとってもいいサラダです♪しっかり味でお箸が止まらなくなります＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "小１本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "人参をピーラーで削る。　塩少々をもみこみしばらくおく。\r\nちくわを輪切りにする。",
+        "人参の水気をぎゅっと絞ってボウルに移し、ちくわと☆を加えてよく合える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1057799",
+    "advice": "ひらひら人参の食感がとてもいいです。オイスターとちくわで磯の風味がするおいしいサラダになります。",
+    "history": "人参のサラダが食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "ちくわ",
+        "マヨネーズ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/1057799/100x141c/72150273eb7250e123a05941b3bb0e42.jpg?u=386014&p=1267679438"
+}

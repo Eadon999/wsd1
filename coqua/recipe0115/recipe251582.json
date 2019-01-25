@@ -1,0 +1,66 @@
+{
+    "name": "☆チキン南蛮☆",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/251582/464x260/2827c89adbae62cb9f4309b56f892ee9.jpg?u=203689&p=1214212968",
+    "datePublished": "2006-04-29",
+    "description": "タルタルソースは市販品でお手軽にしました。やわらかいむね肉がカリッ、甘酢とタルタルでほっぺが落ちそう。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "★醤油・酒",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "★生姜",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆酢・醤油・砂糖",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "タルタルソース",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏むね肉は1枚を３つくらいにそぎ切りにして、★の調味料に10分くらい漬けておく。",
+        "①の鶏肉に、卵→小麦粉の順につけて、揚げる（少し多めの油で焼く）。",
+        "あつあつのうちに、☆の甘酢をかける。タルタルソースをつけていただきま～す♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "251582",
+    "advice": "下味をつけて、卵→小麦粉の順で衣をつけるので、衣も美味しいです。",
+    "history": "九州出身なので、ほか弁の「チキン南蛮」大好き。今は関東に住んでますがこちらにはないんです(T_T)。ほか弁のあの味を思い出しながら作ります。09/11月追記：最近はお店で買うことが出来ます(^^)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "生姜",
+        "小麦粉",
+        "卵"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/251582/100x141c/127159c117a30cf17ac75e0ffa1c5d08.jpg?u=203689&p=1214212968"
+}

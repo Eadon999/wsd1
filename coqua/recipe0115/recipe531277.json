@@ -1,0 +1,47 @@
+{
+    "name": "生椎茸の佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "qoouru"
+    },
+    "image": "https://img.cpcdn.com/recipes/531277/464x260/fca6eaa60e86c6cf82629e7c1397d4df.jpg?u=223009&p=1214219171",
+    "datePublished": "2008-03-16",
+    "description": "椎茸の軸まで全部使って、美味しさ閉じ込めちゃいました♪何といっても、プリップリ感は生椎茸ならでは♪",
+    "recipeYield": "1回分",
+    "recipeIngredient": [
+        {
+            "name": "生椎茸",
+            "quantity": "282g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ4"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸をキレイに洗って、細切りにする。",
+        "鍋に全部の材料を入れて、中火にかける。（写真はしいたけだけ入ってる状態）\r\n",
+        "5分くらいで、沸騰して写真のようになるので、灰汁を取る。",
+        "時々かき混ぜながら、椎茸からでた水分をまた椎茸に吸わせる。",
+        "このくらいまで煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "531277",
+    "advice": "焦がさないように火加減してください。私はずっと中火で煮詰めていきました。火にかけてから15分でできました。",
+    "history": "椎茸がいっぱいあったから。昆布を入れてもいいけど、椎茸だけの味も美味しいです。ご飯・そうめん・お寿司、何にでも合いそう♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生椎茸",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/531277/100x141c/11f45567a080fba128b113302db7c657.jpg?u=223009&p=1214219171"
+}

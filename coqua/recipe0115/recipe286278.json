@@ -1,0 +1,58 @@
+{
+    "name": "きゅうりともやしとかにかまのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "はっぴぃゆっこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/286278/464x260/5f4f9e9b69328d1fe0d9db0a3c6a2d0c.jpg?u=258684&p=1214213738",
+    "datePublished": "2006-09-30",
+    "description": "材料を混ぜるだけ、簡単なごま風味のサラダです",
+    "recipeYield": "５人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "３本くらい"
+        },
+        {
+            "name": "ポン酢醤油",
+            "quantity": "大さじ２くらい"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしをゆでる。\r\nきゅうりは千切りにし、かにかまは裂いておく。",
+        "すべての材料を混ぜ合わせる。",
+        "出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "286278",
+    "advice": "もやしは茹ですぎず、シャキシャキの方が美味しいです。味付けはお好みで加減してください。ちゃんと量ってないので･･･。",
+    "history": "ありあわせのもので作ってみたら美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "もやし",
+        "かにかま",
+        "ポン酢醤油"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/286278/100x141c/5d88e1f5c963b0c549c7cb613ff391e7.jpg?u=258684&p=1214213738"
+}

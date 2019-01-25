@@ -1,0 +1,59 @@
+{
+    "name": "鶏ミンチと紅生姜のお焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2597746/464x260/9410b64429c8f19a9b48851a5f34afe3.jpg?u=2696078&p=1398154995",
+    "datePublished": "2014-04-22",
+    "description": "紅生姜たっぷりでつまみにピッタリ。お弁当にもいいかも？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏挽き肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "紅生姜",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2杯"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "紅生姜とピーマンはみじん切りにする。",
+        "ボールに1と鶏挽き肉、調味料を合わせてよく混ぜ合わせる。",
+        "フライパンに油を入れ、弱火で両面焼き色がつくまで焼く。",
+        "（2014/04/23追記）片栗粉の分量を間違えていました。修正しました。（大さじ→小さじ）"
+    ],
+    "cookTime": null,
+    "recipe_id": "2597746",
+    "advice": "レモンを絞るとよりサッパリと食べれます。紅生姜が好きな方は倍量で。私は倍量。焼くときはスプーンでタネを落としスプーンの裏で軽く押さえつけるといいです。",
+    "history": "紅生姜が余ったときに困って、普通の生姜の代わりに使ってみたらおいしかったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏挽き肉",
+        "紅生姜",
+        "ピーマン",
+        "醤油"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2597746/100x141c/59db295d479530bd9cae2e73263d1f40.jpg?u=2696078&p=1398154995"
+}

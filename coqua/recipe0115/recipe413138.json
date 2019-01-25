@@ -1,0 +1,54 @@
+{
+    "name": "食べ過ぎ注意！！なすびのお漬物",
+    "author": {
+        "@type": "Person",
+        "name": "いなえもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/413138/464x260/ce8a4c73a7f334de813aa946026c7778.jpg?u=537791&p=1214216887",
+    "datePublished": "2007-08-03",
+    "description": "これだけでご飯大盛2杯は食べれます（笑）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "なすび",
+            "quantity": "2本"
+        },
+        {
+            "name": "酢",
+            "quantity": "15〜25ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "25ｃｃ"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすびを薄切り（太いものは半月切り）にする。",
+        "塩水に漬けギュッと絞る",
+        "酢　1：酒　1：醤油　2の割合の漬け汁に漬ける。酸っぱいのが苦手な方は酢を減らして下さい。",
+        "なすびの白いところにお醤油色が染み込んできたら食べごろです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "413138",
+    "advice": "そのまま食べてもおいしいですが、醤油をつけて食べると一層味が引き締まっておいしいです。",
+    "history": "母がよく作ってくれた大好きなお漬物です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なすび",
+        "酢",
+        "濃口醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/413138/100x141c/3f1ea7677ad345753cc8c9a1bb9c2f7c.jpg?u=537791&p=1214216887"
+}

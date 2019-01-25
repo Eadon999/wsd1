@@ -1,0 +1,49 @@
+{
+    "name": "★簡単美味しいもち米要らず栗ごはん・밤밥",
+    "author": {
+        "@type": "Person",
+        "name": "★いも★"
+    },
+    "image": "https://img.cpcdn.com/recipes/4116526/464x260/270fe9bff40b8f0cc7c21a5bcf7a2735.jpg?u=5679832&p=1476139794",
+    "datePublished": "2016-10-11",
+    "description": "もち米入りの栗ご飯だけじゃんない、いつもの米【うるち米）で炊いても美味しいくりごはんです。",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "栗",
+            "quantity": "10個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は普段通りに洗い、ザルで20分程置く。\n\n",
+        "栗の皮を綺麗に剥く（水に2～3時間浸けてからが剥きやすい）。\n",
+        "炊飯器に①のお米と②の栗を加え、普段通りの水と塩を入れて炊く。\n\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "4116526",
+    "advice": "出来上がった栗ごはんに黒ごまを振ると美味しく見えます。",
+    "history": "季節のもの好きな我が家、おいしそうな栗でご飯を炊きました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "栗ごはん もち米入り",
+        "栗ごはん もち米なし",
+        "栗ごはん"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4116526/100x141c/e3254e1367d541023472a42c5f1802c0.jpg?u=5679832&p=1476139794"
+}

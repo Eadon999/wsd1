@@ -1,0 +1,48 @@
+{
+    "name": "塩レモン冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "Ｄ−Ｔａｂｌｅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2748714/464x260/80909471508ac6bbc4ec26f38d7850eb.jpg?u=4288834&p=1407916779",
+    "datePublished": "2014-08-13",
+    "description": "【管理栄養士のおつまみレシピ】ビタミンB1・カルシウム・クエン酸が摂れる♪さっぱり美味しい冷奴",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1丁(300g)"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩レモン",
+            "quantity": "5g"
+        },
+        {
+            "name": "粗挽きこしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は水切りして4等分に切り分けます。",
+        "塩レモンは、ごく細かいみじん切りにします。",
+        "器に豆腐を盛り、(2)の塩レモンをのせ、オリーブ油をかけて粗挽きこしょうをふります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2748714",
+    "advice": "",
+    "history": "塩レモンを作ったので冷奴にのせてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩レモン　冷奴"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2748714/100x141c/4fe38cf1b1ed791e533346b46132faca.jpg?u=4288834&p=1407916779"
+}

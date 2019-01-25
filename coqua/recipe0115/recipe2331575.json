@@ -1,0 +1,65 @@
+{
+    "name": "手作り♪ゴマドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "ぷるりんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2331575/464x260/325b60ce351fd425a6677e1a13d0a6f4.jpg?u=672413&p=1378050430",
+    "datePublished": "2013-09-08",
+    "description": "我が家はゴマドレッシング大好き！手作りで美味しく食べられます♪",
+    "recipeYield": "約250cc",
+    "recipeIngredient": [
+        {
+            "name": "すりごま(白)",
+            "quantity": "30g"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "130cc"
+        },
+        {
+            "name": "酢",
+            "quantity": "40cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4~1/2個"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは１口大のサイズに切る。",
+        "材料すべてをミキサーに入れて、玉ねぎとニンニクの形が無くなるまで混ぜる。\n完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2331575",
+    "advice": "玉ねぎの量はお好みで調整して下さい。すりゴマ、またはゴマをすってからミキサーで混ぜた方がゴマの風味がよくします。一日経った方が味がよく馴染んでまろやかになります。",
+    "history": "ドレッシングってあっという間に無くなっちゃうので、手作りできたらいいなと思い、好みの味のゴマドレッシングを作りました！",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "すりごま",
+        "サラダ油",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2331575/100x141c/52d00f43fd7e2ea3adff5eb7393d82fb.jpg?u=672413&p=1378050430"
+}

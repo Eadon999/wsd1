@@ -1,0 +1,49 @@
+{
+    "name": "ゴーヤの味噌漬け",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1516857/464x260/1d02596fbbe4289596d386c8009eaf24.jpg?u=2124468&p=1312640576",
+    "datePublished": "2011-08-06",
+    "description": "味噌と味醂の甘味でゴーヤの苦味もマイルドに。ご飯の友にどうぞ。ご飯が止まりません。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "１本"
+        },
+        {
+            "name": "味噌",
+            "quantity": "50g"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤを5mm程度に切って沸騰した鍋に投入。再沸騰したら1分ほどで湯を切る。",
+        "ビニール袋に味噌と味醂、醤油を入れる。",
+        "１のゴーヤを加えてよくかき混ぜ、口を縛って冷蔵庫で寝かせる。2～3日で美味しく漬かります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1516857",
+    "advice": "",
+    "history": "ゴーヤの苦味に味噌の甘味を加えて漬物に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "味噌",
+        "醤油"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1516857/100x141c/7389ba437e8429bcc3d0ec4b2282641f.jpg?u=2124468&p=1312640576"
+}

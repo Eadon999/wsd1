@@ -1,0 +1,51 @@
+{
+    "name": "オクラとブロッコリーの辛子和え",
+    "author": {
+        "@type": "Person",
+        "name": "ＴＯＭＯＷＡＴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2272943/464x260/104690e3ec3f6fd7de351461e9dec8ca.jpg?u=1024224&p=1372621425",
+    "datePublished": "2013-07-01",
+    "description": "少しずつ残ってしまったオクラとブロッコリー…簡単にすぐ出来る１品です。",
+    "recipeYield": "小鉢２つ分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "約６０ｇ"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "４本"
+        },
+        {
+            "name": "＊ ポン酢",
+            "quantity": "小１強"
+        },
+        {
+            "name": "＊ 辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "みょうが・すりゴマ等（なくてもＯＫ）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラ・ブロッコリーは、好みの硬さに茹でる。\n（茹でた残りを使用）",
+        "ブロッコリーは、食べやすい大きさに分け、\nオクラは斜め切りに。",
+        "＊印を合わせて、②を和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2272943",
+    "advice": "コツはありません。野菜の量で、調味料は加減して下さい。",
+    "history": "中途半端に残ってしまったので、使い切りたくて、検索したらレシピがなくて。（探しきれなかっただけか？？）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら ブロッコリー"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2272943/100x141c/922f848f5c0c0eddc224335dec07e964.jpg?u=1024224&p=1372621425"
+}

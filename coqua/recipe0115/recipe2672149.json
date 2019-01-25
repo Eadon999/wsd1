@@ -1,0 +1,59 @@
+{
+    "name": "レタスのマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2672149/464x260/cc5cea066417809209818b5fc9fcf2ff.jpg?u=1570274&p=1402893106",
+    "datePublished": "2014-06-16",
+    "description": "レタスと材料を和えるだけでこんなに美味しい？どうぞお試し下さい。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "3-4枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "コーン",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大3"
+        },
+        {
+            "name": "●ヨーグルト",
+            "quantity": "大1弱"
+        },
+        {
+            "name": "●塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは手で適当な大きさにちぎる。ハムは細切りにする。",
+        "玉ねぎはスライスして水にさらす。",
+        "●印の調味料を混ぜた後、レタス、玉ねぎ、ハム、コーンの材料をを加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2672149",
+    "advice": "ヨーグルトを入れることによって味がまろやかになります。",
+    "history": "レタスの美味しい季節が来ました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス ハム コーン サラダ"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2672149/100x141c/074963725ed6036dae0f8303f65b0ea1.jpg?u=1570274&p=1402893106"
+}

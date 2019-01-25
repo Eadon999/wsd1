@@ -1,0 +1,49 @@
+{
+    "name": "レンジで☆めんつゆマヨでオクラの胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "ぷよりんご"
+    },
+    "image": "https://img.cpcdn.com/recipes/3364966/464x260/68002adcd1e3f6e6f9091e4aa39b8941.jpg?u=625603&p=1440556896",
+    "datePublished": "2015-08-26",
+    "description": "レンジで簡単！ 味つけもめんつゆで簡単！めんつゆマヨでコク深なオクラの胡麻和え手早くできる一品♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "10本程"
+        },
+        {
+            "name": "＊マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊めんつゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊白胡麻",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラはまな板にのせ、塩を振って転がしながらゴリゴリとこすり、水で洗う",
+        "ヘタを取り、食べやすい大きさに斜め切りし、ラップにくるんで500Wレンジで2分チン\n",
+        "＊をよく混ぜておく",
+        "チンしたオクラを熱いうちに〔3〕と和える",
+        "器に盛り、胡麻を少々振って、出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3364966",
+    "advice": "オクラをチンしてすぐ、熱いうちに和えます",
+    "history": "定番の胡麻和えに、マヨをプラスしてみました^^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ マヨネーズ レンジ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/3364966/100x141c/ba8a1dd2cbb0e82c24c2657ac2f44ee6.jpg?u=625603&p=1440556896"
+}

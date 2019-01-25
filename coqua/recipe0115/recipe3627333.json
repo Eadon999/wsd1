@@ -1,0 +1,57 @@
+{
+    "name": "キャベツとカニカマ和風コールスローサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3627333/464x260/89c4448bbcce6dedc6014ae883656ef5.jpg?u=13556534&p=1458851062",
+    "datePublished": "2016-01-17",
+    "description": "2016/7/23話題入り4/9クックパッドおいしい健康レシピ紹介有難う御座います。わさびピリリときいた和風コールスロー",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "８０g"
+        },
+        {
+            "name": "かに風味かまぼこ",
+            "quantity": "５０g"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "生わさび（チューブ）",
+            "quantity": "３cm"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにせん切りにしたキャベツと、ほぐしたかに風味かまぼこを入れる。",
+        "マヨネーズ、麺つゆ、白ごま、わさびを加え、キャベツとカニカマに混ぜあえる。皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3627333",
+    "advice": "材料を混ぜるだけ。簡単に作れます",
+    "history": "麺つゆとわさびがキャベツと良く合い、ご飯やお酒のおつまみに合います。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "かに風味かまぼこ",
+        "麺つゆ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/3627333/100x141c/8063f6d6a73c4ac7a5e25c195ee04ee9.jpg?u=13556534&p=1458851062"
+}

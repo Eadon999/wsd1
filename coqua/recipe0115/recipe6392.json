@@ -1,0 +1,96 @@
+{
+    "name": "揚げない酢豚",
+    "author": {
+        "@type": "Person",
+        "name": "しろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/6392/464x260/d2f42d02addc072f773f26fc7eb3c032.jpg?u=2601&p=1214208305",
+    "datePublished": "2000-07-12",
+    "description": "豚肉を揚げずに作る酢豚です。調味料の種類がちょっと多めですが、全部用意して順番に計量すれば、それほど時間はかかりません。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ももブロック",
+            "quantity": "150g"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2こ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2こ"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★片栗粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆中華だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は一口大に切り、★の酒としょうゆで下味をつける。\r\nたまねぎ・にんじん・ピーマンは乱切りにし、にんじんだけ下ゆで（orレンジ強で1分程加熱）する。",
+        "豚肉に★の片栗粉をまぶし、フライパンにサラダ油（分量外）を熱して炒める。",
+        "肉の色が変わってきたら、たまねぎ・ピーマン・にんじんの順に加えて炒める。",
+        "☆の合わせ調味料をよく混ぜてから回しかけ、肉と野菜にからませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "6392",
+    "advice": "合わせ調味料は、よく混ぜ合わせてから入れましょう。",
+    "history": "何かのレシピを参考にしたと思います。揚げ物が苦手なので、豚肉を揚げずに作れないかと思って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/酢豚"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ももブロック 酢豚 揚げない"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/6392/100x141c/e42bfd480ebc634701a2b7657b05e5bc.jpg?u=2601&p=1214208305"
+}

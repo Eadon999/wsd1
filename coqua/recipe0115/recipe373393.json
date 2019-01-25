@@ -1,0 +1,59 @@
+{
+    "name": "簡単！チンゲン菜のウマウマ♪ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/373393/464x260/f3ea06ba1e992a34d355f7a84a8901cd.jpg?u=356251&p=1214215662",
+    "datePublished": "2007-05-14",
+    "description": "いつもと違った食べ方も良いかも～❤他のお野菜でもＯＫです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２把"
+        },
+        {
+            "name": "○ゴマ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "○にんにく（摩り下ろし）",
+            "quantity": "１/２かけ～"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "○中華あじ",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "○砂糖（お好みで）",
+            "quantity": "１つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜を根元までキレイに洗い、好きな硬さに茹でる",
+        "２～３ｃｍに切って水分をよく切り○で和えて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "373393",
+    "advice": "チンゲン菜の大きさで調味料はお好みで加減して下さい。砂糖を入れると味がしまります。",
+    "history": "うちのナムルの配合です♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲンサイ",
+        "チンゲン菜 ナムル"
+    ],
+    "tsukurepo_count": "1898",
+    "thumbnail": "https://img.cpcdn.com/recipes/373393/100x141c/dae655355b260b375b7c6a6c5856e3c5.jpg?u=356251&p=1214215662"
+}

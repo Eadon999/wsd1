@@ -1,0 +1,51 @@
+{
+    "name": "☆菜の花の梅おかか和え☆",
+    "author": {
+        "@type": "Person",
+        "name": "キャラメルバニラ"
+    },
+    "image": "https://img.cpcdn.com/recipes/345323/464x260/d5789478fd1e58279adb4ba365a82ebc.jpg?u=64425&p=1214215052",
+    "datePublished": "2007-03-16",
+    "description": "菜の花の苦味もはちみつ入りの梅干しで食べやすく♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "2個"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "鎌田だし醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花は半分に切る。茎の太いのがあればそれも半分に切る。",
+        "沸騰したお湯に塩を入れて1分ゆがく。",
+        "菜の花は冷水にとりよく水気を絞る。",
+        "梅干しは種を取って包丁で叩く。",
+        "ボウルに菜の花、梅干し、かつお節、だし醤油を入れて混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "345323",
+    "advice": "菜の花は茹ですぎないように！梅干の塩分により量や醤油を増減してください。",
+    "history": "辛子和えを作ろうと思ったら辛子がなかったので、冷蔵庫にあった梅干しで作りました。梅干しは夫の好きな中田の紀州はちみつ入り完熟梅干しを使っているので甘めです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "梅干し",
+        "かつお節"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/345323/100x141c/904b720901f225974809f621e69d998d.jpg?u=64425&p=1214215052"
+}

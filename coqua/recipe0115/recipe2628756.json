@@ -1,0 +1,57 @@
+{
+    "name": "豆腐ときのこのみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2628756/464x260/974215fe3b98cdd8b3e977d7f2234e96.jpg?u=3099986&p=1400153175",
+    "datePublished": "2014-05-15",
+    "description": "具が、すぐ火が通るものなので早くできます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "生シイタケ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ4"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に1㎝角に切った豆腐・しめじ・生シイタケを入れる。\nだし汁を加えで煮てみそを入れる。青ネギをのせる。",
+        "2018、4、4 10人の方に作っていただき話題入りしました。ありがとうございました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2628756",
+    "advice": "味噌を入れてからが煮すぎない。",
+    "history": "他のメニューをつくって、残ったきのこと冷蔵庫にあった豆腐を具にしてみそ汁にしました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹豆腐",
+        "生シイタケ",
+        "しめじ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/2628756/100x141c/9b7f65037aa4720ded1333f35518f01a.jpg?u=3099986&p=1400153175"
+}

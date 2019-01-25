@@ -1,0 +1,55 @@
+{
+    "name": "きゅうりと桜海老の簡単サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/267750/464x260/b7a3083515f98aa94770b650d5ab74fb.jpg?u=252604&p=1222495113",
+    "datePublished": "2006-07-18",
+    "description": "桜海老の風味がとっても美味しいあっさりなサラダ。食べたいときにすぐ作れます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "桜海老（干し海老）",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大1"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小1"
+        },
+        {
+            "name": "大葉",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりを5mm幅にスライスします。（少し皮を剥きました）大葉は粗くみじん切りにしておきます。",
+        "ポン酢とゴマ油を混ぜあわせます。",
+        "きゅうり、桜海老、大葉と2をよく和えて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "267750",
+    "advice": "オイルは、ゴマ油、オリーブオイルなどお好みで。",
+    "history": "あと1品のレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/桜えび・干しえび"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "桜海老",
+        "ポン酢",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/267750/100x141c/021cc729a2233dc2219973ceff950081.jpg?u=252604&p=1222495113"
+}

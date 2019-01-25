@@ -1,0 +1,47 @@
+{
+    "name": "えのきのベーコン巻きポン酢がけ",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/211969/464x260/5cb309a20880f03d1600e33ba6872f1a.jpg?u=54489&p=1214212144",
+    "datePublished": "2005-08-15",
+    "description": "えのき茸をベーコンで巻いてレンジでチン！簡単で超美味しい☆お弁当のおかずにもオススメ(^∇^)b",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１０ｃｍ８枚"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "醤油大さじ１、レモン汁大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "えのき茸は８等分にする。",
+        "ベーコンでえのき茸を巻いて、お皿にのせてラップをし、レンジに約３分間かける。",
+        "ぽん酢をかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "211969",
+    "advice": "えのき茸はビタミンＢ１、Ｂ２、ビタミンＤ効果をもつエルゴステリンを含む。動画レシピ：http://www.youtube.com/watch?v=Hq1ASXYj81U",
+    "history": "お母さんがよくお弁当に入れてくれたレシピ。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理",
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき ベーコン巻き",
+        "えのき ベーコン巻き レンジ",
+        "えのき ベーコン巻き ポン酢",
+        "えのき ベーコン ポン酢"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/211969/100x141c/f793b36fd2a53cf3b15b6341dc76e71b.jpg?u=54489&p=1214212144"
+}

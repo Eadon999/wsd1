@@ -1,0 +1,45 @@
+{
+    "name": "筍の天ぷら。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/793324/464x260/e132ca1a0dca655978cbe46b13af3ebd.jpg?u=970306&p=1304037868",
+    "datePublished": "2009-04-26",
+    "description": "2010/5/23話題入りしました。皆さんに感謝。筍は油との相性もバッチリ。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "筍（下茹でしたもの）",
+            "quantity": "４００g"
+        },
+        {
+            "name": "塩*出来れば美味しい塩",
+            "quantity": "小さじ１/２弱"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "筍は食べやすく切り、キッチンペーパーなどで水分をふき取っておく。",
+        "ボールに筍を入れ、塩をふりかけて全体を混ぜ合わせる。薄力粉も加え、筍全体にまぶす。",
+        "１８０℃の油でカラッと揚げて完成。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "793324",
+    "advice": "下味の塩を省いて、食べる時にお好みの塩で食べるのもいいかも。 梅塩、山椒塩、レモン塩、カレー塩などいかがでしょう。",
+    "history": "天ぷら屋で食べた筍の天ぷら。 とっても美味しかったので、家でも作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 天ぷら",
+        "たけのこ"
+    ],
+    "tsukurepo_count": "269",
+    "thumbnail": "https://img.cpcdn.com/recipes/793324/100x141c/c0efbae9c0e954c7667134945fe05e26.jpg?u=970306&p=1304037868"
+}

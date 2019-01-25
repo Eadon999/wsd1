@@ -1,0 +1,43 @@
+{
+    "name": "枝豆のおいしい茹で方！！",
+    "author": {
+        "@type": "Person",
+        "name": "monemaruku"
+    },
+    "image": "https://img.cpcdn.com/recipes/110020/464x260/01fcce2fd6289bf25d95e4e0e8e44509.jpg?u=33068&p=1228264434",
+    "datePublished": "2003-10-02",
+    "description": "7/23話題のレシピつくれぽ10人ありがとうございましたm(_ _)m皆様にとても感謝しております。 職場の人に枝豆を頂きました♪ d(⌒o⌒)b♪この茹で方は豆がふっくらして、中まで塩味がしみてておいしいよ！！皆も試してみてね♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "枝豆",
+            "quantity": "てきりょう"
+        },
+        {
+            "name": "塩",
+            "quantity": "てきりょう"
+        }
+    ],
+    "recipeInstructions": [
+        "枝豆を水でサッと洗い塩を入れます。そして、手で枝豆をこすり合わせ水で洗います。",
+        "ボールに【1】を入れて、塩を入れ混ぜます。",
+        "フライパンに枝豆を入れ、コップ1杯弱の水を入れます。",
+        "蓋をして中火で5～10分蒸し茹でにします。",
+        "【4】をザルに入れ少し冷まします。熱くてもおいしいよ！！",
+        "お皿に盛り付けて、出来上がり！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "110020",
+    "advice": "枝豆を洗う時に、塩を入れ手でこすり合わせると枝豆の毛が取れます！！",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "枝豆",
+        "塩"
+    ],
+    "tsukurepo_count": "989",
+    "thumbnail": "https://img.cpcdn.com/recipes/110020/100x141c/0d02513ddbd9fd567bdb285e98632130.jpg?u=33068&p=1228264434"
+}

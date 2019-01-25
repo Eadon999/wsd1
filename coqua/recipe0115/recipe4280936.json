@@ -1,0 +1,78 @@
+{
+    "name": "ほうれん草＆コーンのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "舞依ちゅん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4280936/464x260/66ba4e6ab5faa6fa38b8c6c426239f2a.jpg?u=11430072&p=1484032888",
+    "datePublished": "2017-01-11",
+    "description": "炒めるだけ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１袋～"
+        },
+        {
+            "name": "冷凍コーン",
+            "quantity": "適量"
+        },
+        {
+            "name": "ロースハム",
+            "quantity": "3枚～"
+        },
+        {
+            "name": "玉ねぎ(スライス)",
+            "quantity": "1/２個"
+        },
+        {
+            "name": "卵(L)",
+            "quantity": "２個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "バターまたはマーガリン",
+            "quantity": "5g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "50g～"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を洗い5cm幅に切る\n玉ねぎをスライス\nハムを半分に切って1cm幅に切る",
+        "ハム・玉ねぎ・コーンをオリーブ油・バターで炒めほうれん草を入れて炒める\nしんなりしたら塩コショウ、めんつゆを入れ混ぜる",
+        "卵にマヨネーズを入れ溶き卵にする",
+        "溶き卵にを入れてチーズを入れ蓋をしてチーズが溶けたらさっと混ぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "4280936",
+    "advice": "～は自分好みで少なく・多くと変えるだけマヨネーズは後から追加okです。",
+    "history": "ほうれん草をもらってお浸し・ソテーしか思いつかづチャレンジ精神でチーズ・マヨネーズ最強",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 チーズ焼き",
+        "ほうれん草 ハム チーズ",
+        "ほうれん草 コーン チーズ"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4280936/100x141c/1772143f415b4d4dc552a41be272c564.jpg?u=11430072&p=1484032888"
+}

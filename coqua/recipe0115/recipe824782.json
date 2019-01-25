@@ -1,0 +1,58 @@
+{
+    "name": "☼☆味がしみしみ♪あぶら麩の卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/824782/464x260/d491a8dc999dd47328516e7c428c2b62.jpg?u=276760&p=1243847596",
+    "datePublished": "2009-06-02",
+    "description": "★つくれぽ10人★　味がじっくりしみた油麩を卵でとじて優しい味に♪最近はスーパーで気軽に買える食材になりましたね。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "あぶら麩",
+            "quantity": "１本"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１／２本分"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "●水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "●麺つゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは斜め切りにする。\r\nあぶら麩は、二センチ幅に切る。\r\n卵をといておく。",
+        "フライパンに●を入れて、ねぎを入れ、煮立てる。あぶら麩を加え、両面かえして、汁をしみこます。",
+        "溶き卵を流して、ほどよくとじたら出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "824782",
+    "advice": "参考にした番組では丼にしてたので、濃い目の味付け。確か、醤油とみりん各大さじ２と砂糖大さじ１／２だったと思います。我が家はそのままおつまみにするので、麺つゆでやさしめの味にしました。",
+    "history": "テレビ番組を参考に♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "仙台麩 卵とじ",
+        "仙台麩",
+        "油麩 卵とじ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/824782/100x141c/8e85c720b755cf51982f0465b4eb1934.jpg?u=276760&p=1243847596"
+}

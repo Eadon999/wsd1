@@ -1,0 +1,70 @@
+{
+    "name": "☼超簡単♪かにかまと豆腐の卵とろとろ鍋",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/684445/464x260/0588fff377d30fa807b0bc376ba667ee.jpg?u=276760&p=1226963180",
+    "datePublished": "2008-11-18",
+    "description": "★話題のレシピ★かにかまと豆腐と長ネギと卵♪優しい味の素材をとろみをつけて温まる一品に♪味付けは中華あじのみ♪超簡単。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "絹豆腐",
+            "quantity": "２００グラム位"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "５０グラムくらい"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１/２本分くらい"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "●水",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "●中華あじ粉末",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●おろししょうが",
+            "quantity": "ひとかけ分"
+        },
+        {
+            "name": "（塩",
+            "quantity": "味をみて適量）"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は適当な大きさに、ねぎは斜め切りにする。かにかまはほぐす。",
+        "鍋に●を入れて沸騰させ、１の材料を入れて煮る。\r\n（味をみて足りなかったら塩で調節）",
+        "水溶き片栗粉でとろみをつける。\r\n溶き卵を流しいれ、ふんわり火が通ったら出来上がり。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "684445",
+    "advice": "簡単すぎてコツなし。あっという間に出来るので困った時の一品にぴったり。",
+    "history": "以前から作ってるのをちょっと改良。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カニカマ鍋",
+        "かにかま 豆腐 卵",
+        "卵 鍋"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/684445/100x141c/23d22c3f5b9f620f579000d373488654.jpg?u=276760&p=1226963180"
+}

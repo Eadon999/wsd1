@@ -1,0 +1,84 @@
+{
+    "name": "とまとりぞっと。",
+    "author": {
+        "@type": "Person",
+        "name": "流"
+    },
+    "image": "https://img.cpcdn.com/recipes/106465/464x260/ae6f54cea007e8b5e27cd4b2daec04d3.jpg?u=31989&p=1214210188",
+    "datePublished": "2003-09-05",
+    "description": "ﾍﾞｰｺﾝとトマトの酸味を牛乳がマイルドに",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "ﾍﾞｰｺﾝ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少し"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "スライス1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "完熟トマト",
+        "",
+        "みじん切りしたにんにくを",
+        "ｻﾗﾀﾞｵｲﾙで炒め",
+        "",
+        "角切りトマトも軽く炒め",
+        "ご飯と塩、水を入れて強火にし",
+        "牛乳も加え",
+        "ﾍﾞｰｺﾝ投入",
+        "ざっくりかき混ぜ",
+        "チーズを入れ",
+        "",
+        "弱火で5分",
+        "",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "106465",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット",
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "トマト",
+        "牛乳",
+        "にんにく"
+    ],
+    "tsukurepo_count": "452",
+    "thumbnail": "https://img.cpcdn.com/recipes/106465/100x141c/12f0f0fc62a7a6d8ac110aeeda8cd84f.jpg?u=31989&p=1214210188"
+}

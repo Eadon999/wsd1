@@ -1,0 +1,67 @@
+{
+    "name": "鯵の梅しそだれ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "gnao_o"
+    },
+    "image": "https://img.cpcdn.com/recipes/419318/464x260/d83a500824afc1474b9763f483f58d7d.jpg?u=442748&p=1351838245",
+    "datePublished": "2007-08-22",
+    "description": "梅としその風味でさっぱり美味しいです♪どんなお魚でも合うタレで、簡単レシピ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鯵",
+            "quantity": "３尾"
+        },
+        {
+            "name": "しそ",
+            "quantity": "５～６枚"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鯵は三枚におろして塩少々と酒（分量外）をふって置いておく。",
+        "しょうゆ、みりん、砂糖、酒を合わせ、たたいた梅と千切りにしたしそを混ぜておく。しそは飾り用に少し取っておく。",
+        "鯵の水気を拭いて、片栗粉をまぶし、フライパンで両面を焼く。合わせたタレを加えてからませ、タレにとろみが付くくらいまで。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "419318",
+    "advice": "鰯や鯖でも美味しく出来ます。しそがなかったら、梅だけでも美味しいですよ。",
+    "history": "普通の蒲焼きにさっぱりと梅としそを加えただけ。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし",
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯵",
+        "しそ",
+        "梅干し",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "134",
+    "thumbnail": "https://img.cpcdn.com/recipes/419318/100x141c/41999dc87c5d3d3352b24a1d7f40b7b7.jpg?u=442748&p=1351838245"
+}

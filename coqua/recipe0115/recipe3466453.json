@@ -1,0 +1,50 @@
+{
+    "name": "明太子&マグロたたき丼",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3466453/464x260/0f180ef8db3728e84d47f7160b6e7cd2.jpg?u=822079&p=1445208852",
+    "datePublished": "2015-10-25",
+    "description": "赤が食欲をそそります＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "まぐろたたき",
+            "quantity": "１パック"
+        },
+        {
+            "name": "明太子",
+            "quantity": "２腹"
+        },
+        {
+            "name": "のり",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "大茶碗２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯にマグロのたたき　ほぐした明太子をのせる",
+        "1にのり　ねぎをのせわさび醤油などでめしあがれ♪めんつゆでもおいしいです＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "3466453",
+    "advice": "とくになしｗ",
+    "history": "大好きな２品でどんぶり",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": [
+        "マグロたたき 6位"
+    ],
+    "related_keywords": [
+        "まぐろたたき 丼",
+        "まぐろ 明太子",
+        "まぐろたたき"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3466453/100x141c/a7f19a394be175d262e580d9def0788e.jpg?u=822079&p=1445208852"
+}

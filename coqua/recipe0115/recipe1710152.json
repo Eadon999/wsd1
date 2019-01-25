@@ -1,0 +1,63 @@
+{
+    "name": "おやじ犬のもやしと白菜のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "おやじ犬"
+    },
+    "image": "https://img.cpcdn.com/recipes/1710152/464x260/ed2a8db32d87c3577601303a3260d158.jpg?u=3846404&p=1329481459",
+    "datePublished": "2012-02-27",
+    "description": "余り物で，簡単，安い，早いの洋風スープ＾＾ｖ",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/3袋"
+        },
+        {
+            "name": "白菜",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１パック（スライス）"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗っておき，白菜は薄めに棒切りに切っておきます。",
+        "ベーコンを切っておきます。",
+        "鍋に水を入れて，白菜，もやし，ベーコンを入れて，煮立たせます。",
+        "煮立ったら弱火にして，コンソメを入れて，５分ぐらい煮たら，塩，こしょうで，味を調えてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1710152",
+    "advice": "白菜を薄く切れば，あっという間にできますｗ",
+    "history": "冷蔵庫の余り物です。中途半端に残ったもやしと白菜を救済するために。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "犬 スープ 簡単",
+        "白菜もやしスープ",
+        "犬 スープ 白菜",
+        "白菜 もやし コンソメスープ"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/1710152/100x141c/ccd44ace8c213a805c3d12a0b80b391c.jpg?u=3846404&p=1329481459"
+}

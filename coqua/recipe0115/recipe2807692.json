@@ -1,0 +1,78 @@
+{
+    "name": "鮭缶で☆簡単鮭チャウダー",
+    "author": {
+        "@type": "Person",
+        "name": "olivecook"
+    },
+    "image": "https://img.cpcdn.com/recipes/2807692/464x260/93c50d891c6c7dbe10fdde586cf83cdd.jpg?u=9916351&p=1411356048",
+    "datePublished": "2014-09-25",
+    "description": "鮭缶を使って簡単でメインになるチャウダーです♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "ジャガイモ（中）",
+            "quantity": "2個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "500cc"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2/3"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は皮を、5㍉幅のいちょう切りに、玉ねぎは粗みじんに、皮をむいたジャガイモとエリンギは、1㌢角に切る。",
+        "エリンギ以外の野菜と水と一緒に鍋に入れて、落し蓋（アルミ箔とかでも）して10分煮る。",
+        "<2>の間に、牛乳200ccと小麦粉を混ぜる。",
+        "<2>に鮭缶（汁ごと）<3>とバターを加えて、3分煮る。",
+        "エリンギと残りの牛乳を加えて、中火で5分煮て、塩コショウしたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2807692",
+    "advice": "小麦粉がダマにならないように牛乳としっかり混ぜて下さいね。お野菜はお好みでどうぞ♪",
+    "history": "チャウダーが好きで、アサリ、鮭、ツナ缶でよく作ります！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/チャウダー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭缶 スープ",
+        "鮭缶 牛乳"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2807692/100x141c/04fac3c6e2b308767d3f977ab37f1914.jpg?u=9916351&p=1411356048"
+}

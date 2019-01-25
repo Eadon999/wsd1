@@ -1,0 +1,56 @@
+{
+    "name": "シーザーサラダドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1484125/464x260/f39d004299b6eb8f0f5942f7fd157bc9.jpg?u=2513693&p=1309383966",
+    "datePublished": "2011-06-30",
+    "description": "大好きなシーザーサラダ。その場でパパッとドレッシングを作って食べています。粉チーズは食べる時にかけてくださいね～♪",
+    "recipeYield": "約100cc分",
+    "recipeIngredient": [
+        {
+            "name": "粉チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ヨーグルト",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "にんにく（すりおろしておいてくださいね）",
+            "quantity": "１片分"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "粗挽き黒コショウ",
+            "quantity": "小さじ2分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "【A】をよく混ぜて完成です。このドレッシングをレタスと和えて、器に盛り、上から粉チーズをかけてくださいね。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1484125",
+    "advice": "粉チーズはドレッシングの中には混ぜないで、上からかける方が風味もよく、美味しいと思いますよ♪",
+    "history": "チーズがとっても好きなので、シーザーサラダも大好きです。なので簡単にすぐに作れるドレッシングを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "粉チーズ",
+        "マヨネーズ",
+        "ヨーグルト",
+        "にんにく"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1484125/100x141c/976f75e4eefca086968ea401e431d1bc.jpg?u=2513693&p=1309383966"
+}

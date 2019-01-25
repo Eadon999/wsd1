@@ -1,0 +1,58 @@
+{
+    "name": "新玉ねぎときゅうりのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "クッミ～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1446795/464x260/68b3bd0a94669bfc35e89b97f404853b.jpg?u=3089770&p=1306037089",
+    "datePublished": "2011-05-22",
+    "description": "暑い季節にぴったしの簡単サラダです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大3"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは軽く塩もみして、細切りにし、新玉ねぎはスライスします。",
+        "器にきゅうり新玉ねぎを入れ鰹節をちらし、白ゴマを潰しながらかける。",
+        "ポン酢とゴマ油を和えてかければ出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1446795",
+    "advice": "新玉ねぎは水にさらさない方がシャキシャキ感があって美味しいです。白ゴマは指で潰しながらふりかけると香りがたってより美味しく感じます。",
+    "history": "この季節新玉ねぎが新鮮でそのままの甘さを味わいたくてサラダにしました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "きゅうり",
+        "鰹節",
+        "白ごま"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1446795/100x141c/3b5c498f91d45790fb2b3e4f535dce00.jpg?u=3089770&p=1306037089"
+}

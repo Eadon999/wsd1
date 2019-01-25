@@ -1,0 +1,59 @@
+{
+    "name": "にんじんとツナのマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "pyonチャン"
+    },
+    "image": "https://img.cpcdn.com/recipes/281632/464x260/2a5b13881641b9402e65915e2505147d.jpg?u=32233&p=1214213637",
+    "datePublished": "2006-12-14",
+    "description": "おしょう油を入れてちょっぴり和風テイストに。サイドメニューにオススメです！お砂糖が隠し味？！",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは３～４センチくらいの少し太目の千切りにします。マッチ棒のサイズ。",
+        "塩を少し入れたお湯でにんじんを茹でます。茹で過ぎに気をつけてね。",
+        "茹で上がったにんじんをザルで冷ましている間に別のボールでツナ、マヨ、しょう油、塩、砂糖で合えておきます。",
+        "冷めたにんじんをボールに入れ軽く合えて出来上がりです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "281632",
+    "advice": "にんじんはゆで過ぎに注意！最後に合える時は軽く！",
+    "history": "にんじんを毎日食べたいのでレパートリーを増やしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "ツナ缶",
+        "マヨネーズ",
+        "しょう油"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/281632/100x141c/e7a7db92cd37ce10286c5a6b8f794744.jpg?u=32233&p=1214213637"
+}

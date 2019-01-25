@@ -1,0 +1,46 @@
+{
+    "name": "おばあちゃんのピーマン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "愛ゆー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1251342/464x260/6c5673098cc5fe85ad2fb199d1d8667d.jpg?u=1669202&p=1286285071",
+    "datePublished": "2010-10-05",
+    "description": "簡単であっという間にできます♪お勧めです！お弁当にも（＾＾）",
+    "recipeYield": "２~３人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１~２"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りにします。",
+        "フライパンでピーマンを炒めます。（強火）テフロン加工でないフライパンは油を引いて下さい。",
+        "しんなりしたら鰹節、醤油を回しかけて完成です。",
+        "あっという間にできました。（＾○＾）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1251342",
+    "advice": "強火でさっと炒めることです。",
+    "history": "おばあちゃんに教えてもらった手軽で簡単な1品です。あっという間にできます！お弁当やあと一品が欲しい時にお勧めです（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "鰹節",
+        "醤油"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1251342/100x141c/544b01618a2316631d58b94152abfaca.jpg?u=1669202&p=1286285071"
+}

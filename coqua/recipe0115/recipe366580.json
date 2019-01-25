@@ -1,0 +1,80 @@
+{
+    "name": "ちくわ de カレーコロッケ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Lantana"
+    },
+    "image": "https://img.cpcdn.com/recipes/366580/464x260/0a6b8a4aacc288d107a180efc8e74178.jpg?u=14305&p=1214215505",
+    "datePublished": "2007-04-28",
+    "description": "ちくわの中にカレー風味のマッシュポテトを入れちゃいました。ボリューム満点☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "１個"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "５本"
+        },
+        {
+            "name": "*カレー粉",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "*塩",
+            "quantity": "小さじ１/３"
+        },
+        {
+            "name": "*クミンパウダー（あれば）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "*ガラムマサラ（あれば）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "*マヨネーズ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは川を剥いて茹でて、マッシャーでつぶす。 ちくわは半分の長さに切り、切り目を一箇所入れておく。",
+        "①に*の調味料を入れてよく混ぜる。",
+        "ちくわの内側に軽く小麦粉をつけ、②のポテトを詰める。",
+        "③のちくわに小麦粉、卵、パン粉の順番でつけ、こんがり揚げれば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "366580",
+    "advice": "フライパンで揚げ焼きでも♪",
+    "history": "大好きなちくわとコロッケを一緒にしちゃいました～♪かなりボリューム満点なおかずになりますよ。お弁当にもいいかな？ 練り物製品コンテストで、優秀賞を頂いちゃいました。嬉しいな☆",
+    "categories": [
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ちくわ",
+        "油",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/366580/100x141c/626fd1f61ef5ef9f48cc942ed389095e.jpg?u=14305&p=1214215505"
+}

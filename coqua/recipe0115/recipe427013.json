@@ -1,0 +1,69 @@
+{
+    "name": "高野豆腐とひじきの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/427013/464x260/1062997c8f516c453069ee1eaaa0bc90.jpg?u=253314&p=1291794030",
+    "datePublished": "2007-09-07",
+    "description": "この2つ一緒に煮ても美味しいですよ。味噌味でｼｯｶﾘ味もついてます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "高野豆腐",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ひじき",
+            "quantity": "戻したもの１００g"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "うす揚げ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "３００ＣＣ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1強（お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥ひじきを水で戻す（水煮タイプならそのまま）　　高野豆腐も戻しておく。",
+        "高野豆腐を切る。厚みを半分に切り、短冊状に切る。",
+        "ダシでひじきを5分煮る。その後高野豆腐、人参、うす揚げを入れて☆の調味料も入れてコトコト♪\r\n",
+        "3～4分コトコトしたら味噌を入れて、煮汁がほぼ無くなるまで煮る。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "427013",
+    "advice": "水煮のひじきなら　③で他の具材も一緒に煮て下さい。",
+    "history": "乾物置いてるトコをのぞいてて。。。思いついた！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき 高野豆腐",
+        "高野豆腐"
+    ],
+    "tsukurepo_count": "324",
+    "thumbnail": "https://img.cpcdn.com/recipes/427013/100x141c/b5cf5210c681e32a1ea120d6b95f15be.jpg?u=253314&p=1291794030"
+}

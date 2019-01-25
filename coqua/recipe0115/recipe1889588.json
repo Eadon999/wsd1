@@ -1,0 +1,60 @@
+{
+    "name": "トマトとしいたけの温サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/1889588/464x260/ab6d0bc908bbbabf83b21f6ba82c0cc7.jpg?u=533232&p=1342778108",
+    "datePublished": "2012-07-24",
+    "description": "レンジで簡単に温サラダ！しょうゆとオリーブオイルににんにく風味が◎",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大1個"
+        },
+        {
+            "name": "シイタケ",
+            "quantity": "2~3個"
+        },
+        {
+            "name": "☆にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バジル（またはパセリ）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは洗って櫛形切りにし、シイタケはきれいにふき取って四つ切りにしておきます",
+        "耐熱容器に☆の材料を入れ、１を加えて混ぜ合わせ、酢と醤油も入れてラップをして電子レンジで2分程加熱します",
+        "バジルをみじん切りにして振りかけてできあがりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "1889588",
+    "advice": "レンジの加熱状態はそれぞれ調整されてください。",
+    "history": "後一品というときにさっとできるメニューを考えました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "その他/限られた食材で工夫/ガスを使わず簡単料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト 温サラダ"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/1889588/100x141c/a294896d1c28a7d4710a378057a21a72.jpg?u=533232&p=1342778108"
+}

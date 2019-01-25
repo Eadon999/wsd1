@@ -1,0 +1,50 @@
+{
+    "name": "【農家のレシピ】きゃべつのマスタード和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2235212/464x260/3c803c6ebc908f530eb866fbc552b363.jpg?u=2513693&p=1369484589",
+    "datePublished": "2013-05-27",
+    "description": "たくさんのきゃべつもさっと茹でて水気を絞ればかさが減りたくさん食べられますよ～",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "春きゃべつ（ざく切り）",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱湯できゃべつを30秒茹でざるにあげ、そのまま冷ます。",
+        "①の水気をぎゅっと絞り【A】で和えて完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2235212",
+    "advice": "",
+    "history": "春きゃべつがたくさんあるので、さっと茹でてかさを減らしてたくさん食べられるようにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ マスタード和え"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/2235212/100x141c/45baea9dea74976a434b8dd72dfc1014.jpg?u=2513693&p=1369484589"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "カレー風味の焼きブロッコリー",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2878649/464x260/15e498ad0d5e3a194e68a4a3fe4b8244.jpg?u=6957661&p=1415685209",
+    "datePublished": "2014-11-11",
+    "description": "健康の為にたくさん食べたい緑黄色野菜の王様ブロッコリーカレー風味でさっぱりと♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1株"
+        },
+        {
+            "name": "カレーパウダー",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは小房に分ける。沸騰したお湯に塩ひとつまみ入れて好みの硬さに茹でザルに上げておく。",
+        "フライパンに少量の油を引き、中火で1を広げ、焼き付ける様な感じで軽く焦げ目をつける。",
+        "塩胡椒を振り、カレーパウダーをかけたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2878649",
+    "advice": "フライパンの上ではあまり掻き混ぜず、裏返して上下を焼く。",
+    "history": "緑黄色野菜の王様ブロッコリーを飽きずにたくさん食べる為のバリエーションです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きブロッコリー"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2878649/100x141c/4006afa494a2186e3ede8ae1f3becc2a.jpg?u=6957661&p=1415685209"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "水菜とちくわのわさびマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "いさお飯"
+    },
+    "image": "https://img.cpcdn.com/recipes/244045/464x260/d4fe7e54fff70d635eaffdd7a2705630.jpg?u=226303&p=1214212780",
+    "datePublished": "2006-03-16",
+    "description": "「水菜、ちくわ、マヨネーズ、わさび、醤油、ゴマ」簡単美味しいサラダです",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "細めのを一房"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は4～5ｃｍ長さに切り、ちくわは薄切りにする",
+        "残りの材料を全て合わせ、水菜と和える",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "244045",
+    "advice": "マヨネーズやわさびなどの量はお好みで変えて下さい。私はゴマをたっぷり入れるのが気に入ってます♪ ちくわじゃなくても、かまぼこなど練り物なら何でもいいかと思います ",
+    "history": "水菜とちくわがあったのでササッと作れる物をと考えました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "ちくわ",
+        "マヨネーズ",
+        "わさび"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/244045/100x141c/03aa2ae9f41f23f815fb4360d4b9c1fc.jpg?u=226303&p=1214212780"
+}

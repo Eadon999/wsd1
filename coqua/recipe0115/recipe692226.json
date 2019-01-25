@@ -1,0 +1,63 @@
+{
+    "name": "かぶの豆乳スープ",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジ**"
+    },
+    "image": "https://img.cpcdn.com/recipes/692226/464x260/baa19f9af88f6b3810273b1fb258bffe.jpg?u=515565&p=1228124471",
+    "datePublished": "2008-12-01",
+    "description": "豚肉の旨みと豆乳と味噌が入ることで、とっても濃厚なスープになりました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "2個"
+        },
+        {
+            "name": "豚ロース",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "豆乳",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大1さじ"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは根元を少し残して、4等分にカットする。\r\n葉は３ｃｍ程にカット。\r\n豚肉は、一口大にカットして塩・胡椒をふる。",
+        "鍋にサラダ油を熱して、豚肉を炒める。\r\n豚肉の色が変わったらカブを加え軽く焼き、だし汁を入れる。",
+        "煮立ったら、アクを取り弱火にして５～８分煮る。\r\n",
+        "カブが柔らくなったら、いったん火を止め味噌と豆乳を加え溶かす、再び弱火で2分ほど煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "692226",
+    "advice": "カブが柔らかすぎない様に、注意して下さい。豆乳は、調整タイプで作りました。",
+    "history": "豆乳に味噌を加えるので、コクがあって最後まで飽きの来ないスープです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "豚ロース",
+        "豆乳",
+        "味噌"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/692226/100x141c/191b05886fa711f48920aaeb788e3467.jpg?u=515565&p=1228124471"
+}

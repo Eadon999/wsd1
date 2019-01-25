@@ -1,0 +1,64 @@
+{
+    "name": "うま辛しいたけ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/3773108/464x260/a72acd7212ee5a6f7dd369725c81f67a.jpg?u=230354&p=1459661018",
+    "datePublished": "2016-04-03",
+    "description": "我が家で人気、うま辛シリーズ。肉厚のしいたけで。うまーい。間違いなーい。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "6個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "にんにく(すりおろし)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけは石づきを取って1/4に切り、片栗粉をまぶし(袋などに入れて振るときれいにまぶせます)、油で揚げる。",
+        "タレの材料を火にかけてひと煮立ちさせたら火を止め、①を入れて絡める。全体に絡めば出来上がり。",
+        "お好みでゴマをまぶしてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3773108",
+    "advice": "うちでは、めちゃくちゃ大きくなったしいたけで作ったので、4個で作り6等分に切りました。",
+    "history": "父がたーくさん栽培しているしいたけ。おばけみたいな大きいのもたくさん採れたので、いくらでも食べられるうま辛に！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉厚のしいたけ",
+        "しいたけ"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3773108/100x141c/704997f24485d3f9d3b9d473f7ee9572.jpg?u=230354&p=1459661018"
+}

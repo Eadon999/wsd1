@@ -1,0 +1,48 @@
+{
+    "name": "受験ガンバ タヌキおにぎり♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1706124/464x260/b3dbecebb70816eedf2c08c9d14d0888.jpg?u=2920899&p=1329186613",
+    "datePublished": "2012-02-14",
+    "description": "麺つゆで炊いたご飯に、天かすを混ぜるだけで、うどん味なおにぎりが出来ちゃいます 2012/10/01話題入り感謝★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "☆米",
+            "quantity": "２合"
+        },
+        {
+            "name": "☆水",
+            "quantity": "２カップ弱"
+        },
+        {
+            "name": "☆麺つゆ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "天かす",
+            "quantity": "大さじ3~"
+        }
+    ],
+    "recipeInstructions": [
+        "麺つゆで炊いたご飯、お茶碗２杯分をボウルに取り分けて、粗熱を取る。",
+        "天かすを塗す。",
+        "握って出来上がり♡"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1706124",
+    "advice": "万能ねぎを入れたら、もっとうどんの味に近付けます！",
+    "history": "天かすが余っていたので。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "受験",
+        "たぬき おにぎり"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/1706124/100x141c/5367c19b88e68a02a46c1b47c67f682c.jpg?u=2920899&p=1329186613"
+}

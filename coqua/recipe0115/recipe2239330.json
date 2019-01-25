@@ -1,0 +1,53 @@
+{
+    "name": "簡単一品♪豚肉と舞茸のポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "at☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2239330/464x260/c39c7e03298a4456f782f4c9fecc8c2f.jpg?u=6610360&p=1369791544",
+    "datePublished": "2013-05-29",
+    "description": "ポン酢でさっぱり♪豚肉とろんで舞茸はコリっとした食感がマッチします♡低カロリーでササッとできちゃいます♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1.5～２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を食べやすい大きさに切り、舞茸は石づきを取っておく。\n舞茸は上画像くらい使ってます。\n",
+        "フライパンに少量の油を入れ、温まったら豚肉を入れる。\nその上に片栗粉をかけ、酒を入れて弱めの中火で炒める。",
+        "豚肉に火が通り、色が変わってきたら舞茸を入れてポン酢をまわしかけ、さらに炒める。",
+        "豚肉に完全に火が通り、舞茸もしんなりしてきたら完成。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2239330",
+    "advice": "レシピID2233028のポン酢バージョンです。豚肉は切り落とし肉を使ってます。短時間で火が通るので、時間のない時におすすめです。",
+    "history": "ポン酢大好き夫からのアドバイスで作りました(^^)v",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ 豚肉 ポン酢"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2239330/100x141c/1add112ab8beea50816dd71424529d1d.jpg?u=6610360&p=1369791544"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "鮭☆みそマヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/238167/464x260/fe44ebcfa3e1943950c9e0f59edd0720.jpg?u=212659&p=1425654838",
+    "datePublished": "2006-02-11",
+    "description": "焼くだけでも美味しい鮭を更に美味しく。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "甘塩鮭",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "万能ねぎみじん切り",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭をフライパン又は魚焼き器で焼いておく。",
+        "鮭以外の材料をすべて混ぜ、オーブントースターの天板に並べた１の鮭の上にのせ少し焦げ目がつくくらい焼く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "238167",
+    "advice": "鮭の塩加減で調味料の量を調節してください。",
+    "history": "時間をかけて夕食を作れないとき、焼き魚のみではあまりにも手抜きかな？と思い、見た目が少し豪華になれば、、、と思い作ってみました。味噌マヨは我が家の定番調味料です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ",
+        "その他/おもてなし料理/秋！おもてなし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭味噌マヨネーズ",
+        "鮭☆みそマヨ焼き"
+    ],
+    "tsukurepo_count": "1606",
+    "thumbnail": "https://img.cpcdn.com/recipes/238167/100x141c/743975f2f9da99b3a844677b8e584ae7.jpg?u=212659&p=1425654838"
+}

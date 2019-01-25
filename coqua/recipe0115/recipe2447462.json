@@ -1,0 +1,42 @@
+{
+    "name": "豚汁リメイク・ぞうすい",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2447462/464x260/9c72268f34da7850d4a46843bbc67e70.jpg?u=3099986&p=1388209062",
+    "datePublished": "2013-12-28",
+    "description": "5分で出来る。リメイクで簡単。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "豚汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "茶わん1杯"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚汁を温めて、ごはんを入れて青ネギをちらす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2447462",
+    "advice": "卵をプラスしてもおいしい。",
+    "history": "豚汁が残っていたので作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚汁 雑炊",
+        "豚汁 リメイク"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2447462/100x141c/289b4b830bd2491355ac3183b323384d.jpg?u=3099986&p=1388209062"
+}

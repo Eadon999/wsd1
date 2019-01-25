@@ -1,0 +1,72 @@
+{
+    "name": "さんまの南蛮漬け♡",
+    "author": {
+        "@type": "Person",
+        "name": "shinyui"
+    },
+    "image": "https://img.cpcdn.com/recipes/643460/464x260/9d72086cf42059f04226e015fcd150b0.jpg?u=473880&p=1221188344",
+    "datePublished": "2008-09-13",
+    "description": "揚げていないのでヘルシー♪すっぱ・ピリ辛で美味しい～♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "秋刀魚",
+            "quantity": "２匹"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★和風ダシの素",
+            "quantity": "小匙１/２"
+        },
+        {
+            "name": "★輪切りたかの爪",
+            "quantity": "１本"
+        },
+        {
+            "name": "★水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "★すだちの絞り汁",
+            "quantity": "１個分（あれば）"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料をボールに合わせて漬け汁を作っておく。",
+        "玉ねぎは薄切りにしておく。",
+        "秋刀魚は３枚におろして、それぞれ２等分に切り、片栗粉をまぶしフライパンに、サラダ油大匙１（分量外）を熱し両面焼く。",
+        "秋刀魚が熱いうちに、①で合せておいた漬け汁に、秋刀魚・玉ねぎを入れて漬けて、しばらくおいて出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "643460",
+    "advice": "すだちの絞り汁がない場合は、お酢やレモンなどでも美味しいと思います♪。冷やして食べても美味しいです♪",
+    "history": "秋刀魚をいただいたので＾＾",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま",
+        "その他/秋におすすめ料理/秋の魚おかず/秋のさんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "秋刀魚",
+        "玉ねぎ",
+        "片栗粉",
+        "酢"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/643460/100x141c/a6595eb934a89944712698c13527edfa.jpg?u=473880&p=1221188344"
+}

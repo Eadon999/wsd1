@@ -1,0 +1,72 @@
+{
+    "name": "大根の肉そぼろあんかけ。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/174764/464x260/6ca513f1db8029203ecf84cfa9d12f1a.jpg?u=14642&p=1214211489",
+    "datePublished": "2004-12-21",
+    "description": "胡麻風味の甘辛あんをたっぷりかけて。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "牛挽肉",
+            "quantity": "100㌘"
+        },
+        {
+            "name": "出汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて輪切りにし、面取りをして十字に切り込みを入れる。鍋に入れ、ひたひたの出汁を加えてやわらかく煮る。",
+        "フライパンにゴマ油を熱し、ひき肉を炒める。水1カップと○の調味料を加えて混ぜながら炒めあわせる。",
+        "煮立ってきたら火を弱めて少々煮、水溶き片栗粉を加えてとろみをつけ、すり胡麻も加えてざっと混ぜる。  \r\n \r\n",
+        "器に水を切った大根を盛り、3のそぼろあんをたっぷりとかけて出来上がり。  \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "174764",
+    "advice": "",
+    "history": "大根とひき肉が使いたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/お肉のおかず/挽き肉/牛挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "牛挽肉",
+        "出汁",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/174764/100x141c/a1e50ebd229a69fec27502661a2ea434.jpg?u=14642&p=1214211489"
+}

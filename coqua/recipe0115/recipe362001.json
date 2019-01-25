@@ -1,0 +1,62 @@
+{
+    "name": "お弁当に☆ささみのカレマヨソテー♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/362001/464x260/1d5fae97d5e9a368e714d406e65aeafe.jpg?u=42283&p=1214215408",
+    "datePublished": "2007-04-19",
+    "description": "ササミを少しでもコッテリさせて、高校生のお弁当に入れるか・・・考えました(^-^*)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ（鶏肉）",
+            "quantity": "３本程度"
+        },
+        {
+            "name": "○酒",
+            "quantity": "小２"
+        },
+        {
+            "name": "○小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "クレージーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小２分の１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１，５"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミは酒振り１０分くらいおいてから、水気を切って小麦粉をはたく。テフロンのフライパンにマヨネーズを入れて、ササミを炒める。クレージーソルトとカレー粉を振って絡ませる。",
+        "最後にパセリを振ったら出来上がりです(**´∀｀*)人(*´Ｕ｀**)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "362001",
+    "advice": "カレー粉でカレー味にすると、ささみでも食べてきてくれます(。^_・)ノ ",
+    "history": "男子高校生でも食べてくれる、ささみのおかずを考えていて(人´∀｀o)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "酒",
+        "小麦粉",
+        "クレージーソルト"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/362001/100x141c/c81e77ef4d894ef64cd8819208b38bf7.jpg?u=42283&p=1214215408"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "シャケフレークと白ごまのおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2166785/464x260/55a6d8e785959f8b7adf996393cf7105.jpg?u=3099986&p=1364219498",
+    "datePublished": "2013-03-25",
+    "description": "2013.11.23　10人話題入りレシピ⑦簡単。おいしい。",
+    "recipeYield": "おにぎり３個",
+    "recipeIngredient": [
+        {
+            "name": "シャケフレーク",
+            "quantity": "大さじ３くらい"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ２くらい"
+        },
+        {
+            "name": "炊いたご飯",
+            "quantity": "ごはん茶わん大盛り１杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "炊いたご飯にシャケフレークと白ごまをまぜる。",
+        "手に塩をつけて、おにぎりにする。",
+        "H.25.11.23 10人の方に作っていただき、話題入りしました。\nありがとうございました。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2166785",
+    "advice": "シャケフレークと白ごまの量は好みで調整してください。",
+    "history": "独身の時、お店で買っていたお気に入りのおにぎりを思い出して、再現した。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭フレーク おにぎり",
+        "白ごまおにぎり",
+        "鮭おにぎり"
+    ],
+    "tsukurepo_count": "121",
+    "thumbnail": "https://img.cpcdn.com/recipes/2166785/100x141c/46ab36a0ecbea7e8ef42930fff099579.jpg?u=3099986&p=1364219498"
+}

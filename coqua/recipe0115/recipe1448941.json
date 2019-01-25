@@ -1,0 +1,54 @@
+{
+    "name": "ちくわのマヨチーコーン焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "★TOMOMO★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1448941/464x260/e0de0db015ad4ec909cb8ca4fa0b28c1.jpg?u=1064060&p=1306199500",
+    "datePublished": "2011-05-24",
+    "description": "まぜてのっけて焼くだけの簡単レシピ♪隠し味に青のりを入れて風味をUP☆おつまみ、お弁当にもどうぞ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "★コーン",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★青のり",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ2/3～1"
+        },
+        {
+            "name": "★チーズ(シュレッドタイプ使用)",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを縦半分にカット、それを半分にカットし、8つ分にする",
+        "★の材料をすべて混ぜ合せる",
+        "②を①にのせてオーブントースターで10分ほど焼いて完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1448941",
+    "advice": "シュレッドチーズとは、ナチュラルチーズを細かく切ったもので、主にピザなどの料理に使われるチーズの事です(^_^)/",
+    "history": "ちくわで簡単おつまみを作りたくて･･･♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "コーン",
+        "青のり",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1448941/100x141c/a1cbe0b264f7bf89b19c6f14fcbd5768.jpg?u=1064060&p=1306199500"
+}

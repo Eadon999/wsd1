@@ -1,0 +1,53 @@
+{
+    "name": "秋です。天然なめこの絶品どんぶり",
+    "author": {
+        "@type": "Person",
+        "name": "白雲堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/2029109/464x260/cfd8f57498842ee5d1ff24171d14f1a1.jpg?u=2969322&p=1352896438",
+    "datePublished": "2012-11-14",
+    "description": "天然のうまさ！食感の良さとトロミ加減が最高！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "天然なめこ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "●本みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●すりおろし生姜",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２人分"
+        }
+    ],
+    "recipeInstructions": [
+        "これが天然のなめこです。",
+        "なめこの石突きは汚れていたら包丁で除く。ザルに入れて熱湯を回しかける。",
+        "鍋に２、●を入れて煮立て、混ぜながら数分煮る。煮汁は残っていてＯＫ。",
+        "ご飯をよそって３のなめこを載せ、煮汁を適量かける。※煮汁は全部かけると鹹過ぎるので注意！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2029109",
+    "advice": "作り方３で残った煮汁はなめこのうま味が入っていて、大変おいしいです。茹で野菜にかけたり、納豆に混ぜるとおいしいですよ。栽培なめこでもお試しくださいね。",
+    "history": "産直市で天然なめこを見つけました。初めて見るかも…。興味津津です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "天然なめこ",
+        "なめこ丼"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2029109/100x141c/a91a564436b89ec77b3a0abd21193618.jpg?u=2969322&p=1352896438"
+}

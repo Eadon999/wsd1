@@ -1,0 +1,60 @@
+{
+    "name": "☆豚バラと白菜のカマンベールチーズ鍋",
+    "author": {
+        "@type": "Organization",
+        "name": "とうほうキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/3582046/464x260/e62be80de26e71009e5f7018e01d5845.jpg?u=13303149&p=1450580824",
+    "datePublished": "2015-12-20",
+    "description": "豚バラと白菜のカマンベールチーズ鍋(小石原焼 マルワ窯の土鍋使用)",
+    "recipeYield": "２人前",
+    "recipeIngredient": [
+        {
+            "name": "天然だしパック",
+            "quantity": "１袋"
+        },
+        {
+            "name": "白だし",
+            "quantity": "適量"
+        },
+        {
+            "name": "白菜(中)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "豚バラ",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "あらびき黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "カマンベールチーズ",
+            "quantity": "1箱"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水500CCとだしパック1袋を入れて沸騰させ、5分程加熱する。\n",
+        "白菜・豚バラを交互に乗せていく。重ねたら、5~6cm幅で切っていく。",
+        "鍋に切った白菜と豚バラを外側から敷き詰めていく。",
+        "ふたたび火を入れて加熱。白菜の芯が柔らかくなってきたら、6等分したカマンベールチーズを中心に乗せて蓋をする。",
+        "そのまま火にかけ、チーズが溶けて野菜に火が通ったら、味を見ながら白だしと黒胡椒をかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3582046",
+    "advice": "土鍋は小石原焼マルワ窯https://www.facebook.com/maruwakama/白菜は東峰村の生産者直売所『つづみの里』で購入http://toho.main.jp/tuduminosato.html",
+    "history": "とうほうキッチン公認レシピ第１号レシピ開発者：Erina",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/その他アイデア鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カマンベールチーズ 鍋",
+        "白菜 豚肉 カマンベールチーズ",
+        "カマンベールチーズ 白菜",
+        "白菜 豚バラ チーズ"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/3582046/100x141c/97f2e31869261bdd84f559e4caf30cda.jpg?u=13303149&p=1450580824"
+}

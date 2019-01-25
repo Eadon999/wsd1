@@ -1,0 +1,54 @@
+{
+    "name": "アボカドとカニカマのマヨポン",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2369694/464x260/e89746c429cefff8677584ec38340aa3.jpg?u=6957661&p=1381314705",
+    "datePublished": "2013-10-09",
+    "description": "2013/10/30皆様のおかげで話題入り致しました(^з^)-☆アボカドとカニカマをマヨネーズとポン酢で和えました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "6本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドを一口大に切る",
+        "ボールに1を入れ、カニカマをほぐしながら加える。",
+        "マヨネーズとポン酢を入れて混ぜ合わせ、器に盛って七味をかける。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2369694",
+    "advice": "香り箱というカニカマがほぐれやすくて、味も良いのでお気に入りです。七味をたっぷりめにかけるとつまみにサイコーです。",
+    "history": "昔から作っていた超簡単サラダです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "マヨネーズ",
+        "ポン酢",
+        "七味唐辛子"
+    ],
+    "tsukurepo_count": "97",
+    "thumbnail": "https://img.cpcdn.com/recipes/2369694/100x141c/8cd9f38ccb65fcebeb1b3cc371abfcaf.jpg?u=6957661&p=1381314705"
+}

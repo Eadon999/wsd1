@@ -1,0 +1,56 @@
+{
+    "name": "焼き玉ねぎ",
+    "author": {
+        "@type": "Person",
+        "name": "tomokoshiawase"
+    },
+    "image": "https://img.cpcdn.com/recipes/441746/464x260/5ed3c0e19c904b6897958dfbecb2d965.jpg?u=453382&p=1214217459",
+    "datePublished": "2007-10-11",
+    "description": "焼いた玉ねぎが甘くて美味しい♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "生姜（すりおろし）",
+            "quantity": "小１片"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを１．５～２ｃｍ厚に切ります。輪切りでも半月切りでもお好みで。つまようじをさします。",
+        "フライパンに薄くごま油をしき、熱したところに玉ねぎを並べます。蓋をして弱火にし、じっくり蒸し焼きにします。色がついてから裏返します。",
+        "お皿に盛り、生姜すりおろし、かつおぶし、ネギのみじん切りをのせ、醤油をかけて出来上がり☆",
+        "甘味噌と頂いても美味しいです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "441746",
+    "advice": "",
+    "history": "野菜をたくさん取りたくて、味噌汁にしたり蒸したり焼いたりしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き玉ねぎ"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/441746/100x141c/193f9e6f6f649b5cfa4d6b8e25afc8fe.jpg?u=453382&p=1214217459"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "お弁当に☆塩さばタンドリー",
+    "author": {
+        "@type": "Person",
+        "name": "ぼのつま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1360480/464x260/3374a9cc948328c509ed64bce3eafc75.jpg?u=2660&p=1297685106",
+    "datePublished": "2011-02-14",
+    "description": "冷めてもおいしいお弁当のおかず。魚嫌いさんも試してみてね♡2013.8.3話題入り感謝！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "塩さば",
+            "quantity": "半身１枚"
+        },
+        {
+            "name": "☆プレーンヨーグルト",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆カレー粉",
+            "quantity": "小さじ0.5"
+        },
+        {
+            "name": "☆ガラムマサラ",
+            "quantity": "一振り"
+        },
+        {
+            "name": "☆おろしにんにく",
+            "quantity": "小さじ４分の１"
+        },
+        {
+            "name": "☆おろし生姜",
+            "quantity": "小さじ４分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "塩さばは20cmくらい。４つに切って皮に切れ目をいれる。",
+        "☆印を合わせて１にまぶし一晩置く。",
+        "ヨーグルトを軽くふきとって、グリルで焼く。電気両面焼き中火で８分くらい。\nフライパンでも大丈夫。",
+        "2013.8.3\n10人の方に作って頂きました！\n皆様ありがとうございました♡"
+    ],
+    "cookTime": "PT120M",
+    "recipe_id": "1360480",
+    "advice": "",
+    "history": "1枚100円の塩さばでおいしいお弁当のおかずを。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば タンドリー"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1360480/100x141c/c0f48cd8d70a7b4f65adad393466263b.jpg?u=2660&p=1297685106"
+}

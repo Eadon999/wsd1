@@ -1,0 +1,67 @@
+{
+    "name": "さばの味噌煮",
+    "author": {
+        "@type": "Person",
+        "name": "☆ちょこ♪☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1850836/464x260/b6a7234a38b16b4446c08f42f4f11019.jpg?u=4422555&p=1339849908",
+    "datePublished": "2012-06-16",
+    "description": "簡単にできるさば味噌です♪最初に調味料を合わせてしまうことで、味もしっかり調節することができます。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "半身"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1/2かけ分"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "小さめのフライパンに水、酒、しょうゆ、砂糖、みりん、味噌、しょうがの薄切りを入れて火にかける。",
+        "煮汁が沸いてきたら、味を調整する。\nさばの半身をさらに半分に切って、沸いた煮汁にそのまま入れる。",
+        "落し蓋をして、中弱火で10～15分煮る。",
+        "汁が水っぽいままなら、魚を取り出したあと汁だけ煮詰めて、かけたら完成。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1850836",
+    "advice": "コツが必要ないほど、ラクラクレシピです。一度試してみてください。",
+    "history": "「きのう何食べた？」レシピです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば",
+        "しょうが",
+        "水",
+        "砂糖"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1850836/100x141c/910b11d79da4ab4a632206b85d100aff.jpg?u=4422555&p=1339849908"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "ちんげん菜のからし和え★",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1177840/464x260/137df05f76106960e99b32ec493fed0c.jpg?u=268332&p=1278370516",
+    "datePublished": "2010-07-06",
+    "description": "ちんげん菜って意外と和洋中のどれでも使えて便利！今日はささっとからし和えに★2013,11,25話題入り♡",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "ちんげん菜",
+            "quantity": "１株"
+        },
+        {
+            "name": "からし（チューブ）",
+            "quantity": "１ｃｍくらい"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小２"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲンサイを軽く塩茹でし、冷水にとったらしっかりしぼる。",
+        "ボウルにからしとしょうゆを入れて混ぜ合わす。",
+        "チンゲンサイを３ｃｍくらいに切り、ボウルに入れて和える。かつおぶしをふって軽く和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1177840",
+    "advice": "切ってからボウルに入れる時にも軽くもう一度水をしぼることで、調味料をしっかり吸いこんでくれます！水分もでないから、お弁当にもぴったり！",
+    "history": "ちんげん菜が余っていてのでからし和えにしてみました（＾＾）久々に作ったけど、ちんげん菜で作るのは初めてだったけど、とってもおいしいよ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "からしあえ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1177840/100x141c/c7adf76aa6e95457f30786dcc1176099.jpg?u=268332&p=1278370516"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "ほっこりするね☆大根とベーコンの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "TARO_HANA"
+    },
+    "image": "https://img.cpcdn.com/recipes/699564/464x260/b7548f698bc8b18892db8365a4200e43.jpg?u=990730&p=1229254417",
+    "datePublished": "2008-12-14",
+    "description": "ベーコンのうまみが大根にしみて美味しいですよ！",
+    "recipeYield": "２人前",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１／４"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "４枚"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "カップ３杯"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１と１／２杯"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１杯"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を２ｃｍのイチョウ切りにする。",
+        "ベーコンは、４当分に切る。",
+        "鍋に、１・２とすべての調味料を入れて大根に火が通るまで中火で約１０分ほど煮る。",
+        "３の作業が終わったら、予熱を利用してベーコンのうまみを大根にしみこませて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "699564",
+    "advice": "大根に火が通ったら、あとは予熱でじっくりとベーコンのうまみをしみこませるのがポイント！食べる際に、もう一度温めてくださいね！",
+    "history": "大根の煮物を作る際に、お肉が冷蔵庫になかったのでベーコンで代用してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ベーコン 煮物",
+        "大根 ベーコン 煮物 めんつゆ"
+    ],
+    "tsukurepo_count": "188",
+    "thumbnail": "https://img.cpcdn.com/recipes/699564/100x141c/1ae8403161cb6de4fb111cb3c6f53e76.jpg?u=990730&p=1229254417"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "キャベツ(☆^艸^*)むしゃむしゃ♫♬",
+    "author": {
+        "@type": "Person",
+        "name": "chunko"
+    },
+    "image": "https://img.cpcdn.com/recipes/347493/464x260/6889db81412e75f66aeb4e82e4bff738.jpg?u=409198&p=1214215096",
+    "datePublished": "2007-03-21",
+    "description": "これでキャベツたっぷ食べれます♫♬おぃしぃ(☆>▽<*)ﾉ☆。*+,‘",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "醤油(ポン酢でもＯＫ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをすきな大きさに小さめに切る。（今回は千切りにしています。）",
+        "お鍋でキャベツをゆでる。",
+        "ざるで水を切り、器に盛り付けマヨネーズ、醤油、かつお節をかければ完成☆★",
+        "",
+        "marinecko さん!!!コメントまちがってのせずにOKしちゃぃました(≧ω≦)ごめんなさい!!!ありがとぉ☆★"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "347493",
+    "advice": "本当はゆでてから切ったほうが栄養成分を閉じ込めておくことができるので、ゆでてから切ってもＯＫです♫♬",
+    "history": "野菜をたっぷりとりたい時は温野菜にするのが一番(☆^艸^*)♪  ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/サラダ/あったかいサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "醤油",
+        "かつお節",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "537",
+    "thumbnail": "https://img.cpcdn.com/recipes/347493/100x141c/bf969d4c02fc85174ede275e6d0414bb.jpg?u=409198&p=1214215096"
+}

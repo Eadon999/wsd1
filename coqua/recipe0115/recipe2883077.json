@@ -1,0 +1,46 @@
+{
+    "name": "簡単！フライドポテト",
+    "author": {
+        "@type": "Person",
+        "name": "毎日楽しい"
+    },
+    "image": "https://img.cpcdn.com/recipes/2883077/464x260/469a92fad0bd91cc9dc1c60b09863ea1.jpg?u=560969&p=1415924381",
+    "datePublished": "2014-11-14",
+    "description": "家にあるじゃがいもでお酒のおつまみやこどものおやつに簡単メニューです。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "３～４個"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむき、１ｃｍ角の棒状に切ります。\n水にさらします。",
+        "水気をしっかりキッチンペーパーで拭き取り、１７０～１８０度の油で揚げます。\n（２～３回に分けて）",
+        "熱いうちに塩を振って出来上がり。\n",
+        "＊好みでカレー塩\nやたっぷりの黒胡椒を振ってもOK!\n自分で味付け調整できるのでgood\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2883077",
+    "advice": "揚げたてを食べるのが一番！たくさん入れすぎると油の温度が急に下がってしますので数回に分けてあげるのがコツ",
+    "history": "ファーストフードのポテトは味付けが濃いのと（たまに食べると美味しいけど）実家からもらったじゃがいもがたくさんあったので・・主人の得意料理です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "揚げ油",
+        "塩"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2883077/100x141c/02ed7a8a4956121d0e1cd58c4b3247e5.jpg?u=560969&p=1415924381"
+}

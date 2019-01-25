@@ -1,0 +1,43 @@
+{
+    "name": "塩コンブとキャベツとごま油。。。",
+    "author": {
+        "@type": "Person",
+        "name": "きょーにゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/291617/464x260/13f9fcb2b59a5f8d96f2d10b5f6a422a.jpg?u=252293&p=1214213865",
+    "datePublished": "2006-10-18",
+    "description": "タイトル通り、塩コンブとキャベツとごま油だけなんです。。。知り合いに教えてもらったのですが、おいしくてキャベツをパクパク食べちゃいました♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "塩コンブ",
+            "quantity": "適量"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは好みの大きさにザク切りして器に盛る。",
+        "塩コンブをキャベツの上に好きなだけパラパラとかける。",
+        "ごま油をまわしかけたら出来上がり。\r\n"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "291617",
+    "advice": "１度間違えて無香性の透明のごま油を使ったらおいしくなかった。。。（＾＾；）しっかりごま油らしい香りのするものを使って下さいね。 塩コンブもごま油も、多めがおいしいと思います♪",
+    "history": "知り合いが、居酒屋のつきだしに出てきて美味しかったものを真似して作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 塩こんぶ ごま油"
+    ],
+    "tsukurepo_count": "331",
+    "thumbnail": "https://img.cpcdn.com/recipes/291617/100x141c/7cd6ec966ec347ba46e11e92f09d85b7.jpg?u=252293&p=1214213865"
+}

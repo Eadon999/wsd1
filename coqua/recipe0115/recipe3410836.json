@@ -1,0 +1,72 @@
+{
+    "name": "ちくわの明太ポテトフライ",
+    "author": {
+        "@type": "Person",
+        "name": "そうジロー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3410836/464x260/51fd2271bf96f99032f49602d16eeb9a.jpg?u=2635681&p=1443155277",
+    "datePublished": "2017-04-03",
+    "description": "竹輪に明太ポテトを詰めてボリュームup！！しっかり味がついているのでお弁当にもピッタリ♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "５本"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "小２個"
+        },
+        {
+            "name": "明太子",
+            "quantity": "２分の１腹"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "●天ぷら粉",
+            "quantity": "大"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "●水",
+            "quantity": "大"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋皮むき適当な大きさに切りレンジで加熱し柔らかくする\n明太子は薄皮とりほぐしておく",
+        "じゃが芋が柔らかくなったら潰し、ほぐした明太子、マヨネーズこしょう加え混ぜる。\n味を見て塩で整える。",
+        "竹輪に縦に切り込み入れ（下まで切り離さないように）明太じゃが芋詰める。\n",
+        "バッター液絡めパン粉つけ、１８０度で揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3410836",
+    "advice": "",
+    "history": "竹輪の賞味期限が近付いていたので、何とかおかずになるものを作りたくて",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ 明太子"
+    ],
+    "tsukurepo_count": "0",
+    "thumbnail": "https://img.cpcdn.com/recipes/3410836/100x141c/f665dfe1d2dab6585d3c3186afa0c7b7.jpg?u=2635681&p=1443155277"
+}

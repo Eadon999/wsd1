@@ -1,0 +1,84 @@
+{
+    "name": "さばの薬味煮",
+    "author": {
+        "@type": "Organization",
+        "name": "シュガーカット"
+    },
+    "image": "https://img.cpcdn.com/recipes/3409971/464x260/164c01117b008fc297ffacfe62486e04.jpg?u=12921744&p=1442454869",
+    "datePublished": "2016-07-20",
+    "description": "にんにくやしょうがで青魚のくせをおさえながらこっくりと煮た、韓国風の煮魚です。",
+    "recipeYield": " 2人分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "2切れ(160g)"
+        },
+        {
+            "name": "大根",
+            "quantity": "100g"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "にら",
+            "quantity": "1/3束"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "A にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "A しょうが",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "A しょうゆ",
+            "quantity": "大さじ1と1/3"
+        },
+        {
+            "name": "A 水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "A 粉とうがらし",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "A シュガーカットゼロ",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根はやや厚めの短冊切りにし、にらは4cm長さに切る。ねぎは3cm長さに切る。  \n",
+        "Aのにんにくとしょうがはすりおろす。  \n",
+        "鍋にごま油を熱してさばを入れ、両面を焼きつける。  \n",
+        "3にAを加え、魚のわきに大根とねぎを入れ、煮立ったら中火にして、煮汁をかけながら煮る。  \n",
+        "大根が煮えたら、にらを加えてさっと煮、最後にすりごまを加えて火を止める。  \n"
+    ],
+    "cookTime": null,
+    "recipe_id": "3409971",
+    "advice": "魚と野菜、お互いのうま味を移して煮ます。さばは塩をしていない生を使うので、選ぶときに気をつけましょう。",
+    "history": "シュガーカットを使用した低カロリー＆低糖質のレシピです。カロリー244kcal、糖質5.9g（1人分）砂糖使用時より６kcalダウン詳しい栄養価はシュガーカットレシピ倶楽部で公開中！http://www.sugarcut.jp/",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば",
+        "大根",
+        "ごま油",
+        "白すりごま"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3409971/100x141c/032038ea5ef0a377388f204dafea19b1.jpg?u=12921744&p=1442454869"
+}

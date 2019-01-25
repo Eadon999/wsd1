@@ -1,0 +1,51 @@
+{
+    "name": "卵白のＩｔａｌｉａｎオムレツ♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "CoffeeCoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/296676/464x260/c4546d9185355c574bb4d52b450a3357.jpg?u=276503&p=1214213961",
+    "datePublished": "2006-11-02",
+    "description": "こんなに簡単にできるなんて！５分もかかりません♪♪卵白オンリーなのでかなりローカロリーですよ☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵白",
+            "quantity": "２個分"
+        },
+        {
+            "name": "ドライハーブ",
+            "quantity": "バジル、パセリ、オレガノなどお好みで"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "溶けるチーズ",
+            "quantity": "お好み（一掴みほど）"
+        },
+        {
+            "name": "（お好みで）",
+            "quantity": "ガーリックパウダー"
+        }
+    ],
+    "recipeInstructions": [
+        "卵白をきるようによくまぜ、ハーブ、塩胡椒、ガーリックパウダーをいれて混ぜる。",
+        "普段オムレツを作る要領でフライパンに流しいれ少し固まってきたらチーズを乗せる。",
+        "チーズがとろけてきたら包み、（たりなかったら折るような感じで）皿にもる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "296676",
+    "advice": "味はしっかりついてるので何もつけなくてもおいしく食べられます。でも好みで醤油、マヨなどなんでも～～♪",
+    "history": "蛋白な味の卵白を使って。卵黄を使ってあまったんだけどおいしく調理したくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵白 オムレツ"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/296676/100x141c/6047947cd814138ae773d08713b829db.jpg?u=276503&p=1214213961"
+}

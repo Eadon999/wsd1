@@ -1,0 +1,62 @@
+{
+    "name": "いんげんの炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "アクアマリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/67591/464x260/a6065343b1428b4094d6fb5666807b56.jpg?u=19941&p=1214209431",
+    "datePublished": "2002-10-22",
+    "description": "いんげんがたくさんあっても食べ切れます。大量消費にも是非！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "薄切り豚肉",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんは両端を取り食べやすい大きさに切り、豚肉は１cmくらいに切ります。ベーコンでもいいですが、醤油を減らしてください。",
+        "フライパンに油を敷き、豚肉を炒め火が通ったらいんげんを入れ炒めます。色が鮮やかになってきたら調味料と水を入れます。",
+        "中火にして汁気がなくなったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "67591",
+    "advice": "豚肉を入れずにごま油で炒めてもおいしいです。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "薄切り豚肉",
+        "サラダ油",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/67591/100x141c/7d2d8aec9e1c0ad6109e8aadd5b9904d.jpg?u=19941&p=1214209431"
+}

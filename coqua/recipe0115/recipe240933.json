@@ -1,0 +1,56 @@
+{
+    "name": "野菜たっぷり☆ナンプラー焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "せつぶんひじき"
+    },
+    "image": "https://img.cpcdn.com/recipes/240933/464x260/8a2ae0c8c475a5fa535add9b64b27b47.jpg?u=57172&p=1439817410",
+    "datePublished": "2006-02-26",
+    "description": "味つけはナンプラーだけ。これだけで味が決まるナンプラーは偉いです！　 ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "焼きそばの麺",
+            "quantity": "１玉"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "５０ｇぐらい～"
+        },
+        {
+            "name": "キャベツ、もやし、椎茸など",
+            "quantity": "お茶碗１杯分ぐらい～"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン",
+            "quantity": "１／６個"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉と野菜は食べやすく切る。麺は袋ごとレンジに３０秒ほどかけておく。",
+        "フライパンにサラダ油を熱し豚肉と野菜を炒める。麺を加えてよく炒める。",
+        "ナンプラーを回しかけて炒めあわせたら出来上がり。くし切りのレモンを添えてどうぞ。",
+        "掲載されました。\nＰ.46"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "240933",
+    "advice": "ナンプラーだけでシンプルに。他に加えるなら胡椒ぐらいで。　",
+    "history": "ナンプラーの使い道を考えて。　",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/焼きそば"
+    ],
+    "rankings": [
+        "ナンプラー 7位"
+    ],
+    "related_keywords": [
+        "ナンプラー",
+        "ナンプラー 焼きそば",
+        "やきそば"
+    ],
+    "tsukurepo_count": "384",
+    "thumbnail": "https://img.cpcdn.com/recipes/240933/100x141c/fbc6917765fa0cc641226c743e41008f.jpg?u=57172&p=1439817410"
+}

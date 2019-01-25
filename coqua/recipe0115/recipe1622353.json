@@ -1,0 +1,63 @@
+{
+    "name": "一人ランチにいかが？簡単納豆のパスタ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ぽっぽっぽ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1622353/464x260/2559b2874e28e4d0338727fcbf4f61cb.jpg?u=3155632&p=1320751211",
+    "datePublished": "2011-11-08",
+    "description": "納豆とパスタがこんなに合うなんて♡パスタを茹でで絡めるだけの簡単パスタ♪☆祝2012.2.27話題入りありがとう☆",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "たまご",
+            "quantity": "1個"
+        },
+        {
+            "name": "●納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "●めんつゆ（3倍濃縮）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●昆布茶",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ1～"
+        },
+        {
+            "name": "刻みのり（あれば）",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタを茹でる。",
+        "器にたまごを入れ、ふわっと泡がたつくらいまで泡立てる。\n",
+        "2へ●を加えてさらに混ぜる。",
+        "茹であがったパスタと3を絡めて、刻みのりをのせたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1622353",
+    "advice": "※醤油の量はお好みで加えてください。",
+    "history": "家に納豆があったので",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "たまご",
+        "納豆",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/1622353/100x141c/f87185b92ef3932b9b160e798e170923.jpg?u=3155632&p=1320751211"
+}

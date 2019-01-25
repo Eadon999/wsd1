@@ -1,0 +1,72 @@
+{
+    "name": "かぼちゃとブロッコリーのデリ風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/4408767/464x260/bf6f65b8b577e0bbf89b291e4b06b5c4.jpg?u=230354&p=1489321865",
+    "datePublished": "2017-03-13",
+    "description": "我が家の定番デリ風サラダです。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "ブロックベーコン",
+            "quantity": "100g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "キューピーマヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "練乳",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩・ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは種を取って2cm角に切る。スチームケースなどに入れ、レンジで5分加熱し、荒熱を取る。",
+        "ブロッコリーは小房に分けて茹で、ザルに上げ、水気をしっかり切る。",
+        "ベーコンは1cm幅に切る。にんにくは皮をむいて薄切りに。",
+        "少量のオリーブオイルをひいたフライパンに、にんにくとベーコンを入れ、ベーコンに焦げ目がつくくらいまで焼く。",
+        "①②④の荒熱が取れたら、ドレッシングで和え、塩・ブラックペッパーで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4408767",
+    "advice": "ゆで卵を足しても◎④で、にんにくが先に焦げてきそうだったら、先に取り出してください。",
+    "history": "よく作るデリ風サラダです。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ ブロッコリー サラダ",
+        "かぼちゃ サラダ",
+        "かぼちゃ ブロッコリー",
+        "デリ風 ブロッコリー"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/4408767/100x141c/ebd02708071e5b81a35fe8119e2a53bd.jpg?u=230354&p=1489321865"
+}

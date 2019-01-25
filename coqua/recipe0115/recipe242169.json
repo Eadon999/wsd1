@@ -1,0 +1,47 @@
+{
+    "name": "5分で出来る☆カリッ！パリッ！ウィンナー",
+    "author": {
+        "@type": "Person",
+        "name": "saijun"
+    },
+    "image": "https://img.cpcdn.com/recipes/242169/464x260/3bd3c26760715143cc8a35a117f617d8.jpg?u=675&p=1214212737",
+    "datePublished": "2006-03-05",
+    "description": "簡単！すぐ出来るし後一品という時のお助けレシピです。お酒のおつまみにも最高！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ウィンナー",
+            "quantity": "7本"
+        },
+        {
+            "name": "餃子の皮",
+            "quantity": "13枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ウィンナーを餃子の皮でまいて、両端を楊枝で止めて半分に切る。",
+        "フライパンに大めの油を入れて、①のウィンナーをこんがり焼く。余った餃子の皮を、大めの油で焼く。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "242169",
+    "advice": "",
+    "history": "思いついて作ってみたら、美味しかった！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理",
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ",
+        "その他/クリスマス/持ち寄り・プレゼント/持ち寄りレシピ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウィンナー",
+        "餃子の皮",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "180",
+    "thumbnail": "https://img.cpcdn.com/recipes/242169/100x141c/e22b289d69812f4291e46b48d834f692.jpg?u=675&p=1214212737"
+}

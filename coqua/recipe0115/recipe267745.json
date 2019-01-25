@@ -1,0 +1,79 @@
+{
+    "name": "醤爆鶏丁（台湾風、鶏ときゅうりの炒め物）",
+    "author": {
+        "@type": "Person",
+        "name": "yamalu"
+    },
+    "image": "https://img.cpcdn.com/recipes/267745/464x260/96e6f73b1c0c3ee26f160c41da8d1777.jpg?u=204351&p=1214213323",
+    "datePublished": "2006-07-17",
+    "description": "台北で食べた醤爆鶏丁ってのを再現してみました～炒めたキュウリと鶏、これをＸＯ醤で絡める。これがビックリの美味さになるんですよ！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "鳥むね肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "赤味噌",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ＸＯ醤",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは斜めに切って、鳥肉は小さく切って、片栗粉５ｇ、しょう油大さじ１、ニンニク１片すりおろし、ゴマ油小さじ１を合わせて揉む。",
+        "鳥肉を炒め始め、全体に火が通り始めたらキュウリを入れて火を通す。",
+        "キュウリがシンナリしたら、しょう油・酒・ＸＯ醤・赤味噌・砂糖・豆板醤を入れて、片栗粉でとろみをつけて完成♪",
+        "ご飯にもビールにも合いますよん♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "267745",
+    "advice": "鳥肉は火をしっかり通しましょうね～",
+    "history": "台北で食べたのがすごく美味しくって・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鳥むね肉",
+        "キュウリ",
+        "ニンニク",
+        "しょう油"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/267745/100x141c/fc6738fdd7a123459c2a47dc85bafbe6.jpg?u=204351&p=1214213323"
+}

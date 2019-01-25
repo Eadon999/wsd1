@@ -1,0 +1,39 @@
+{
+    "name": "簡単★温泉玉子の作り方",
+    "author": {
+        "@type": "Person",
+        "name": "アトリエ・キッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/432712/464x260/ef0231251809ba2029e25e1f9b2b25af.jpg?u=477046&p=1214217278",
+    "datePublished": "2007-09-20",
+    "description": "何度も失敗した経験あり！やっと上手にできるようになりました。",
+    "recipeYield": "人数分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "人数分"
+        },
+        {
+            "name": "水",
+            "quantity": "卵がかぶるくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れ沸騰させたら火をとめ冷蔵庫から出した卵をそっと入れてふたをする。30分放置する。",
+        "卵を取り出して器に割る。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "432712",
+    "advice": "30分たったら必ず卵を取り出すこと。（固くなってしまいます） 追記ご使用のお鍋の種類によっては時間差があるようです。",
+    "history": "何度も何度も失敗した経験からやっと納得できる温泉玉子をつくることができるようになりました。 固さの好みはいろいろあると思うけど、目安は卵を割ったときにするっと抜ける感じにしています。 もう少し固めが好きなかたは放置時間を長くしてみてくださいね。 ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/温泉たまご・味付たまご"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温泉卵 作り方"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/432712/100x141c/5c9618bc7003ef8d00d0c3a74b815c7d.jpg?u=477046&p=1214217278"
+}

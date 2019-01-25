@@ -1,0 +1,80 @@
+{
+    "name": "✿豚肉とキャベツの甜麺醤炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "まりみぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1258937/464x260/14e46a9008c9428875a9f1f5c3ea5ca6.jpg?u=1939623&p=1287055499",
+    "datePublished": "2010-10-14",
+    "description": "✿2011年９月25日話題入り✿炒めて絡めるだけの簡単豚キャベツ炒め☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "¼個"
+        },
+        {
+            "name": "●甜麺醤",
+            "quantity": "大１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大½"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●おろしにんにく",
+            "quantity": "小½"
+        },
+        {
+            "name": "※サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "※いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは、ザク切りにします。",
+        "容器に、●を入れ混ぜ合わせておきます",
+        "フライパンに、サラダ油をひき、強火で豚肉を十分炒め、一端、皿に移します。",
+        "サラダ油を足し、強火でキャベツをサッと炒めます。",
+        "豚肉を戻し、②を回しかけ絡めます。",
+        "器に盛り、いりごまをふりかけて、出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1258937",
+    "advice": "",
+    "history": "甜麺醤を使った豚キャベツ炒めが作りたくて",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": [
+        "甜麺醤 8位"
+    ],
+    "related_keywords": [
+        "甜麺醤"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1258937/100x141c/a1a7a2a9b27fc7c937cb780e9da8d721.jpg?u=1939623&p=1287055499"
+}

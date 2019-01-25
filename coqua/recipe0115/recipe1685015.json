@@ -1,0 +1,64 @@
+{
+    "name": "【農家のレシピ】大根としめじの炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1685015/464x260/10cbe3670ffd3cdfab9fe57b785454fb.jpg?u=2513693&p=1327467101",
+    "datePublished": "2012-01-26",
+    "description": "中華スープでコトコト煮て汁けがなくなるまで煮た大根は冷めてもおいしいおかずです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き、厚さ5ミリ程度の短冊切りにし、シメジは石づきをとりほぐし、豚肉は1センチ幅に切っておきます。",
+        "フライパンにごま油を熱し、中火で豚肉の表面が白くなるまで炒め、次に大根を入れ3分程度じっくり炒めます。",
+        "シメジを入れさっと炒めたら次に【A】を入れ汁けがなくなるまで中火で煮ます。",
+        "汁けがなくなったら鍋はだから醤油（小さじ１）をまわしかけざっと炒めて完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1685015",
+    "advice": "中華スープは私は「水２００ｃｃ＋ウェイパー４ｇ」で作りました",
+    "history": "常に大根はあるのでいろんな味付けで楽しんでいます。今回は中華スープを使って汁けがなくなるまで煮込んでみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 しめじ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1685015/100x141c/26648faa38d2bf1c65e28f8bb8d75fd2.jpg?u=2513693&p=1327467101"
+}

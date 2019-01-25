@@ -1,0 +1,52 @@
+{
+    "name": "✿ほくほく✿かぼちゃの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "yoshiko0131"
+    },
+    "image": "https://img.cpcdn.com/recipes/838593/464x260/f0ed6e995717ef233d3d5e61f5921f0e.jpg?u=880068&p=1367044675",
+    "datePublished": "2009-06-15",
+    "description": "ほくほく甘いかぼちゃの煮物。 かぼちゃの煮物が苦手なダンナさんも「これなら食べれる♡」と絶賛です♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "※水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "※砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "※しょうゆ",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃのわたと種を取り除き、1口大に切って、面取りをしてから皮の一部を切り取る（味をしみこませるため）",
+        "鍋に※の材料を入れて、かぼちゃの皮の面を下にしてなべ底に並べる",
+        "中火で熱して、沸騰したらふたをして、弱火で10～15分煮る（竹串がすっと通るくらいまで）",
+        "ふたをとり、中火～強火にして、汁気を飛ばす（焦げないように、鍋を振るう）",
+        "うっすらなべ底に汁が残る程度で火をとめ、お皿に盛り付けて完成☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "838593",
+    "advice": "",
+    "history": "大学生の時、かぼちゃにハマって1週間に1回くらい作ってました(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "水",
+        "砂糖",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/838593/100x141c/95c7d1d357c79fbe62b3f74783e0504f.jpg?u=880068&p=1367044675"
+}

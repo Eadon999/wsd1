@@ -1,0 +1,62 @@
+{
+    "name": "レタスとベーコンのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2191969/464x260/4691059e175baaf6733348f5b2d88486.jpg?u=3280486&p=1365987283",
+    "datePublished": "2013-04-15",
+    "description": "レタスをスープで味わう一品です♪ベーコンの旨みと一緒にどうぞ☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス（一口大・手でちぎる）",
+            "quantity": "100g"
+        },
+        {
+            "name": "タマネギ（薄切り）",
+            "quantity": "40g"
+        },
+        {
+            "name": "ベーコン（2cmに切る）",
+            "quantity": "40g"
+        },
+        {
+            "name": "鶏ガラスープ",
+            "quantity": "600ml"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油・サラダ油",
+            "quantity": "各小さじ1"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油を入れてタマネギとベーコンを中火で炒める。",
+        "しんなりしたらスープと酒を加えて強火。沸騰したら弱火で5分煮る。",
+        "レタスを加えて1分煮て、醤油・塩・胡椒で味を調えたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2191969",
+    "advice": "レタスは少し「シャキシャキ感」を残すと、食感も楽しめて美味しく食べられますよ★",
+    "history": "レタスをスープで食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "タマネギ",
+        "ベーコン",
+        "鶏ガラスープ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2191969/100x141c/09df4d5f5e44c08dccb3b58f5a7c51e8.jpg?u=3280486&p=1365987283"
+}

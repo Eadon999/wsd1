@@ -1,0 +1,61 @@
+{
+    "name": "茹でキャベツのねぎおかか和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2442299/464x260/c3f200e933250f8120e693dda102d484.jpg?u=1228553&p=1387698400",
+    "datePublished": "2014-01-23",
+    "description": "「Oisix」さんで発売中の献立キットレシピです♪ちぎったキャベツをサッと茹でてねぎとおかかで和えました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "250g（小さめ1/2個弱位）"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "15g（適量）"
+        },
+        {
+            "name": "☆鰹節",
+            "quantity": "1パック（3g）"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは大きめひと口大にちぎり",
+        "お好みの硬さに茹でたらザルにあげておく",
+        "☆を混ぜ合わせたら",
+        "ねぎも入れ和え",
+        "軽く絞った2も加え和えたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2442299",
+    "advice": "キャベツの量によって調味料は調節してください♪https://www.oisix.com/OtameshiTouroku.lp.g6--top--top-shinki_domo_weekkit_b__html.htm?mi2=kit",
+    "history": "本日より公開&発売になる、「クックパッド」と「Oisix」のコラボ企画、「クックパッドレシピエールの20分で完成！旬を味わう晩ごはん」の副菜として考えました(o´ω｀o)字数足りなかったので←のコツ・ポイント欄にURLのせました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": [
+        "ゆでキャベツ 3位"
+    ],
+    "related_keywords": [
+        "茹でキャベツ かつおぶし",
+        "茹でキャベツ",
+        "茹でネギ"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/2442299/100x141c/ff369712eb5479fdc3504fd7e96177d0.jpg?u=1228553&p=1387698400"
+}

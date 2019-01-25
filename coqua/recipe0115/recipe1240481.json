@@ -1,0 +1,61 @@
+{
+    "name": "【農家のレシピ】冷た～い☆中華風蒸しなす",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1240481/464x260/0dbcb66656f39be384b101089dce5929.jpg?u=2513693&p=1402202028",
+    "datePublished": "2010-09-27",
+    "description": "レンジで蒸しなすを作って、タレをかけて冷やすだけ☆中華風で食欲のないときでも食べやすいですよ。調理時間はわずか１０分♪ ",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "３本（300ｇ）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "らー油",
+            "quantity": "少々"
+        },
+        {
+            "name": "青ねぎ（小口切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスはヘタの周りに浅く切り込みを入れ、１つずつラップにくるんで、レンジで５～６分加熱する(500w) \n",
+        "①を縦に8等分し、熱いうちに　【A】をからめ冷蔵庫で冷やす\n\n",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1240481",
+    "advice": "ナスをレンジで蒸すときはヘタの周りに浅く切り込みを入れてくださいね。切って蒸してもいいのですが、おいしい野菜の出汁が出てしまいますし、そのせいでタレが薄くなってしまいます ",
+    "history": "暑くて食欲が無いときに食べられるようにお酢をつかってさっぱり仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": [
+        "蒸しなす 1位"
+    ],
+    "related_keywords": [
+        "むしなす"
+    ],
+    "tsukurepo_count": "863",
+    "thumbnail": "https://img.cpcdn.com/recipes/1240481/100x141c/9bc653a765aa2ff68a17f9195f6a9e3e.jpg?u=2513693&p=1402202028"
+}

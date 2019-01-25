@@ -1,0 +1,58 @@
+{
+    "name": "かつおバターで♪筍ソテー",
+    "author": {
+        "@type": "Person",
+        "name": "ゆしゅな"
+    },
+    "image": "https://img.cpcdn.com/recipes/751198/464x260/3691b59adb61d560fcde4a0a1bc2c1be.jpg?u=666864&p=1272281375",
+    "datePublished": "2009-03-11",
+    "description": "毎年作ってます。煮物に飽きたら是非コレ！洋風要素入ったタケノコ料理。ビールを冷やす季節になってきますね。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ゆでた筍",
+            "quantity": "２５０ｇ程度"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２くらい"
+        },
+        {
+            "name": "バター（orマーガリン）",
+            "quantity": "２０グラム"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "３０cc"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "３～５グラム１パック"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "筍は５ミリ厚に、こしょうをふって袋に入れ、小麦粉をまぶす。",
+        "バターを熱したフライパンで筍を焼きます",
+        "両面こうばしく焼き色がついたら、めんつゆ、かつお節を入れ、ざっと絡ませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "751198",
+    "advice": "バターはけちらずたっぷり。堀立ての柔らかい筍だったら分厚く切る。フライパンに残った鰹節も、カリカリ美味しいからね。",
+    "history": "パパが筍の煮物が苦手で、エグミを感じないレシピを。穂先はご飯や吸い物に、固い部分はコレで歯ごたえ。１０年以上前から毎年何度も作ってます。無意識に改良されているように思うけど、これで定着かな。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小麦粉",
+        "バター",
+        "めんつゆ",
+        "鰹節"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/751198/100x141c/6cb9e04821033cd4eb5b1fac42a32c0b.jpg?u=666864&p=1272281375"
+}

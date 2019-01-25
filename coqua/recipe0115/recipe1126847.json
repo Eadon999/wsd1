@@ -1,0 +1,66 @@
+{
+    "name": "ニンジンと小松菜の韓流和え",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1126847/464x260/3ccccf62bf0d43e10206164b0def5fa8.jpg?u=220679&p=1273897801",
+    "datePublished": "2010-05-15",
+    "description": "コチュジャンとごま油で簡単に韓国料理っぽく。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "200g"
+        },
+        {
+            "name": "◎コチュジャン",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎はちみつ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎胡麻油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎ゴマ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜をさっとゆでて水に取ってから、水気をしっかり絞り、3センチ長さに切る。",
+        "ニンジンは千切り。",
+        "◎の材料を良く混ぜて小松菜とニンジンを合えれば出来上がり。 \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1126847",
+    "advice": "小松菜の水気をしっかりしぼることです。 辛いのが好きな方はコチュジャン多目で。 ",
+    "history": "頂き物の小松菜消費のため。お浸しや炒め物ばかりでは飽きたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "小松菜",
+        "コチュジャン",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1126847/100x141c/2c48fa6d30d4c9283e28ca869bb0b101.jpg?u=220679&p=1273897801"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "簡単！玉ねぎの青のりつゆ浸し",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/389424/464x260/c465dc3ee25b4d34843fd96aaae0e6eb.jpg?u=356251&p=1214216396",
+    "datePublished": "2007-06-15",
+    "description": "麺つゆに浸すだけで簡単に出来ます。冷蔵庫で冷やしてどうぞ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ（玉ねぎ）",
+            "quantity": "１個"
+        },
+        {
+            "name": "青のりorもみ海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "麺つゆ（３倍濃縮）",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "練り辛子",
+            "quantity": "小さじ１/２～"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを薄くスライスします。",
+        "耐熱容器に玉ねぎを入れラップをしてレンジで１分３０秒チン\r\n※水でさらすとシャキシャキ感が味わえます。（その場合スライサーが良いかも）",
+        "２が冷めたら水分を絞り麺つゆ青のり練り辛子で和え冷蔵庫で冷やして出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "389424",
+    "advice": "お好みでゴマ油を加えても美味しいです。 ◎辛子多目がお勧めです。辛いのがお好きな方は麺つゆを醤油に♪",
+    "history": "玉ねぎを大量に頂いたので手軽に１品",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "麺つゆ",
+        "練り辛子",
+        "胡麻油"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/389424/100x141c/a261ec9aee22acdd9ab42713c91bcfe6.jpg?u=356251&p=1214216396"
+}

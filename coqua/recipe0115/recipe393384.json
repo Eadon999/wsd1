@@ -1,0 +1,55 @@
+{
+    "name": "パクパクいんげんっ！",
+    "author": {
+        "@type": "Person",
+        "name": "ハリハリ戦士"
+    },
+    "image": "https://img.cpcdn.com/recipes/393384/464x260/fd512a864c5d8201fe2206614df2aee5.jpg?u=409625&p=1214216488",
+    "datePublished": "2007-06-22",
+    "description": "いんげんがパクパク食べられる我が家のレシピです。少しいんげんが苦手な主人もこれなら完食❤簡単に出来るのも嬉しい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "１５本"
+        },
+        {
+            "name": "✿ツナ缶（油を切って）",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "✿玉ねぎ（微塵きり）",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "✿マヨネーズ",
+            "quantity": "小３"
+        },
+        {
+            "name": "✿醤油",
+            "quantity": "小１弱"
+        },
+        {
+            "name": "✿塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんを塩を少々入れた熱湯で茹でてしっかり水を切ってください。",
+        "✿を全て混ぜて良く水の切れた①を入れて混ぜたら出来上がりです。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "393384",
+    "advice": "水をしっかり切る事くらいです。",
+    "history": "家ではいんげんは和え物が定番でしたが、どうしたら主人にもっと食べてもらえるかな・・と考え思いつきました。お子様にも食べやすいと思います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/393384/100x141c/554f29ef706b77566a6d6d8233d419e0.jpg?u=409625&p=1214216488"
+}

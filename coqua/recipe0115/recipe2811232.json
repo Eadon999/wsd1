@@ -1,0 +1,53 @@
+{
+    "name": "簡単ヘルシーレシピ♪にんじんしりしり",
+    "author": {
+        "@type": "Person",
+        "name": "シトリンさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2811232/464x260/04b471e95faf5f99447703b8205240ec.jpg?u=10602215&p=1411569266",
+    "datePublished": "2014-09-25",
+    "description": "沖縄料理のにんじんしりしりを出来るだけ簡単にシンプルな材料で作ってみました。家にあるものだけで、美味しくできました♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本（約２００g）"
+        },
+        {
+            "name": "卵(M)",
+            "quantity": "１個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "Ⅰパック（５g）"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "オリーブオイル(サラダ油)",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは皮をむいて斜め薄切りにし、縦に細切りにする。",
+        "フライパンにオリーブオイルを中火で熱し、にんじんを炒める。",
+        "にんじんをじっくり炒めたら、塩を加えて全体に混ざるように炒める。",
+        "かつおぶしを入れて、全体に混ざるように炒める。",
+        "にんじんを片側に寄せ、空いたところに溶き卵を入れて固まってきたら、全体を混ぜて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2811232",
+    "advice": "ポイントは、にんじんをじっくり炒めて甘みを引き出すこと。",
+    "history": "大好きなにんじんしりしりを、家でいつでも簡単に作れるように、できるだけシンプルな材料と手順で作りました。しみじみにんじんが美味しい！http://citrine.jp/recipes-japanese-ninjinshirishiri/",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじんしりしり ヘルシー"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2811232/100x141c/60357bce4b41b11b3417f4905545218a.jpg?u=10602215&p=1411569266"
+}

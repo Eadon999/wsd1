@@ -1,0 +1,59 @@
+{
+    "name": "中国の家庭料理☆じゃがいもとピーマン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "kou2091"
+    },
+    "image": "https://img.cpcdn.com/recipes/279836/464x260/f3883625234fd65058acb28999b41bff.jpg?u=265712&p=1214213585",
+    "datePublished": "2006-09-13",
+    "description": "中国人の義父母に教えてもらった中国の家庭料理レシピ。ささっと一品作りたい時に・・・。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "小６個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "半分"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "★花椒",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "★味の素（あれば）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもとピーマン薄く切る。",
+        "多めに油を入れ、まだ熱していないうちにじゃがいもと醤油以外の調味料を入れ、火をつけて炒め始める。",
+        "じゃがいもがちょっと透き通ってきたらピーマンを入れ、更に炒める。",
+        "醤油を入れ、醤油が全体に行き渡ったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "279836",
+    "advice": "",
+    "history": "中国から出産のお手伝いに来てくれた義父母から教えてもらったレシピ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ピーマン",
+        "塩",
+        "花椒"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/279836/100x141c/116dc23b161d03b0a91c7a8aeb99ddd5.jpg?u=265712&p=1214213585"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "*万能ニラだれ＊",
+    "author": {
+        "@type": "Person",
+        "name": "satohayami"
+    },
+    "image": "https://img.cpcdn.com/recipes/1449163/464x260/347c85b26e207549cd8c3076bbba752b.jpg?u=1235467&p=1364802234",
+    "datePublished": "2011-05-24",
+    "description": "白ごはんにかけても美味しい♡万能ニラだれ",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "一束"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "大さじ１～２（お好みで）"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を混ぜたものに刻んだニラを入れて冷蔵庫で放置。翌日から使います。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1449163",
+    "advice": "ニラは多くても漬けこむことでなじみます。辛みが欲しければ、一味や唐辛子を入れてもいいです。",
+    "history": "ニラ束がたくさんあったので、何にかけても万能なニラだれを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": [
+        "ニラだれ 5位"
+    ],
+    "related_keywords": [
+        "万能ニラダレ",
+        "ニラだれ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1449163/100x141c/f4f3767a9a83836ca0894d29317c0f47.jpg?u=1235467&p=1364802234"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "本当に美味しい！ウマウマ筍",
+    "author": {
+        "@type": "Person",
+        "name": "ユチキ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1791952/464x260/c28e5198f025403f204d6dc4540cac12.jpg?u=499861&p=1335329757",
+    "datePublished": "2012-04-25",
+    "description": "美味し過ぎてお箸が止まりません♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茹で筍",
+            "quantity": "200g"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★めんつゆ（３倍希釈）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小ねぎ",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "筍は長さ5cm程の薄切りにする。",
+        "フライパンにサラダ油入れて筍を炒め、★の調味料を入れて炒める。\n",
+        "最後に小ねぎを散らして完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1791952",
+    "advice": "マヨネーズで筍のあくが弱まるので子供も大好き❤パクパクお箸が止まりません～♬",
+    "history": "季節の筍を使って子供も好きなレシピを考えてみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茹で筍",
+        "サラダ油",
+        "めんつゆ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1791952/100x141c/6eaddbc306a356b2fe8615f5a609c3d7.jpg?u=499861&p=1335329757"
+}

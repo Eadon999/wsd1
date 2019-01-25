@@ -1,0 +1,51 @@
+{
+    "name": "ちくわとキュウリのスイートチリあえ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/290295/464x260/df94fd2d0ee88755c251eb6cd7ded846.jpg?u=274122&p=1243151519",
+    "datePublished": "2006-10-13",
+    "description": "とっても簡単　切ってまぜるだけ。 スイートチリがちくわ＆キュウリにピッタリです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "短いちくわなら２本"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "だし醤油（しょうゆ）",
+            "quantity": "小さじ１／２～１"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわとキュウリは細く切る。",
+        "スイートチリとしょうゆをあわせておく。",
+        "ちくわ・キュウリとスイートチリしょうゆを和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "290295",
+    "advice": "切ってまぜるだけなので＾＾；心を込めて和える。 ",
+    "history": "最近スイートチリソースにはまっているので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "キュウリ",
+        "スイートチリソース",
+        "だし醤油"
+    ],
+    "tsukurepo_count": "191",
+    "thumbnail": "https://img.cpcdn.com/recipes/290295/100x141c/5df14d719080fda76655a2caab355e3f.jpg?u=274122&p=1243151519"
+}

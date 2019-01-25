@@ -1,0 +1,54 @@
+{
+    "name": "新たまねぎのマヨポン冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "蒼緑茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/247127/464x260/eb8d6634c9d8daa48400c1f00dc85a00.jpg?u=234500&p=1334722089",
+    "datePublished": "2006-04-04",
+    "description": "簡単でおつまみにぴったり。お試しください！※2012/4/18 画像変更しました",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "新たまねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "新たまねぎはスライサーで薄くスライスし、冷水にさらす。",
+        "絹ごし豆腐1丁を4等分して器に入れ、水気を切った1のたまねぎをのせる。",
+        "かつおぶし、マヨネーズ、ポン酢をかけ、あればネギをそえて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "247127",
+    "advice": "新たまねぎでなくてもおいしいですが、少し辛味が強くなります。",
+    "history": "お店で食べたものをアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新たまねぎ",
+        "絹ごし豆腐",
+        "かつおぶし",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "300",
+    "thumbnail": "https://img.cpcdn.com/recipes/247127/100x141c/ed05fa8534928742d46051f4b65217b1.jpg?u=234500&p=1334722089"
+}

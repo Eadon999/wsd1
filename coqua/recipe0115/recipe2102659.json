@@ -1,0 +1,39 @@
+{
+    "name": "生姜納豆",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2102659/464x260/f04c4a3752131e8c94adf8d7fda061f9.jpg?u=2495483&p=1359980925",
+    "datePublished": "2013-02-04",
+    "description": "生姜＆納豆美味しいです☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生姜",
+            "quantity": "ひとかけら"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜を千切りにして納豆と混ぜる。付属のたれはお好みで",
+        "ご飯に混ぜても美味しい♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2102659",
+    "advice": "",
+    "history": "納豆と生姜、体によさそうなものを組み合わせました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生姜",
+        "納豆"
+    ],
+    "tsukurepo_count": "130",
+    "thumbnail": "https://img.cpcdn.com/recipes/2102659/100x141c/17ca9067c7f3926d3aa8cbd0c1031fce.jpg?u=2495483&p=1359980925"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "簡単！丸ごと新玉ねぎのコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ゾネキチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2608760/464x260/74aa5b310143f70f00892949019f3ba2.jpg?u=8589204&p=1431833487",
+    "datePublished": "2014-05-24",
+    "description": "コンソメスープに新玉ねぎを入れて煮込むだけ。春ならではの一品。ニンニクと生姜を効かせてます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "4個"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1片"
+        },
+        {
+            "name": "生姜",
+            "quantity": "小1個"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "4個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "1,600ml"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎの皮を剥き、ニンニクをみじん切りにし、生姜を摩り下ろす。",
+        "鍋にオリーブオイルを敷いてニンニクを弱火で炒める。",
+        "水・コンソメキューブ・玉ねぎを入れてフタをし、中火で30分間程煮込む。",
+        "玉ねぎが柔らかくなって来たら、生姜を加え、最後に塩コショウで味を整える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2608760",
+    "advice": "新玉ねぎに切れ目を入れておくと食べやすい。摩り下ろし生姜は、食べるときに生でトッピングする分を少し残しておく。",
+    "history": "新玉ねぎの季節が終わる前に食べておこうかと。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "ニンニク",
+        "生姜",
+        "コンソメキューブ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2608760/100x141c/c5dea7ec729fcd16bddefcb85a7f7aea.jpg?u=8589204&p=1431833487"
+}

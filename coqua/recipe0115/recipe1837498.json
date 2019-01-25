@@ -1,0 +1,52 @@
+{
+    "name": "とっておきのマッシュポテト★お店の味",
+    "author": {
+        "@type": "Person",
+        "name": "JlovesS"
+    },
+    "image": "https://img.cpcdn.com/recipes/1837498/464x260/41183e957709681314f9e6bf0148652f.jpg?u=4191242&p=1338710108",
+    "datePublished": "2012-06-06",
+    "description": "生クリーム不使用なのにあのコク！となめらかさを裏ごし不要で再現！2012/09/27話題入りしました。れぽに感謝★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "大２個"
+        },
+        {
+            "name": "牛乳（今回は無脂肪ですがなんでもOK）",
+            "quantity": "70cc"
+        },
+        {
+            "name": "バター",
+            "quantity": "３g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ダシダ（ORコンソメ粉）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモをシリコンスチーマーでチンしてやわらかくしておく。ボールに入れてフォークで軽くマッシュ。\n形が少し残るくらい。",
+        "小さな鍋に牛乳を入れて弱火にかけて１を入れる。スパチュラで練りながらじゃがいもに牛乳の味を入れる。じゃがいもを更につぶす",
+        "練り続けて水気がほとんどなくなってきたら他の材料を入れて味を見る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1837498",
+    "advice": "しっかりと鍋のなかで練る事です。",
+    "history": "マッシュポテトが大好きなので研究しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マッシュポテト",
+        "マッシュポテト　お店"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/1837498/100x141c/18a0a0d1f124b34b8c5de95ea0a0d893.jpg?u=4191242&p=1338710108"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "アボカド＊和風クリームドリア＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/1021745/464x260/c5180da0aaca589ec569fbec2ec63ad0.jpg?u=239563&p=1264580345",
+    "datePublished": "2010-01-27",
+    "description": "MY人気レシピのアボカド和風クリームパスタのドリアバージョンです♪ドリアにしても美味しい！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗２杯"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★めんつゆ（３倍濃縮）",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "★鰹節",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "きざみ海苔",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは種を取り皮をむき、ボウルに入れてマッシャーまたはフォークでつぶす（少し形が残るくらいに）",
+        "①に★の材料をすべて入れてよく混ぜ合わせる。",
+        "耐熱容器にごはんを入れその上に②をかけ、チーズを乗せる。",
+        "トースターで少し焦げ目がつくくらいに焼き、きざみ海苔をかけたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1021745",
+    "advice": "アボカドは少し形を残した方が食感を楽しめます。 パスタバージョンは　http://cookpad.com/recipe/687410",
+    "history": "いつものパスタをドリアバージョンにしてみました。どちらも美味しくいただけます。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/ドリア"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "アボカド",
+        "マヨネーズ",
+        "牛乳"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1021745/100x141c/5e2c14dd1addcd47f67a37976c633eb8.jpg?u=239563&p=1264580345"
+}

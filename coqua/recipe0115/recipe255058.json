@@ -1,0 +1,54 @@
+{
+    "name": "朝食に♪セロリとキャベツのコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/255058/464x260/562670a06912a13ed847a2e953abe753.jpg?u=63805&p=1214213036",
+    "datePublished": "2006-05-19",
+    "description": "セロリが美味しい簡単コンソメスープ♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "２個"
+        },
+        {
+            "name": "水",
+            "quantity": "７００cc"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "お鍋に水を沸かす。セロリは(葉っぱも使います)乱切りに、キャベツはざく切りにする。",
+        "お湯が沸いたら、コンソメ、セロリ、キャベツを入れる。野菜が少しだけ柔らかくなったら火を止める。",
+        "器に入れ、ブラックペッパーをふって出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "255058",
+    "advice": "固形コンソメ…パッケージには３００ｃｃにつき１個と書かれてますが、それでは我が家には濃い味なので、お水の量を増やしています。酸味が欲しい時は、プチトマトを入れてもグー！！",
+    "history": "子供達も大好きなセロリ、スープにすると、セロリの独特な味が広がって、これまた大人気の１品となりました♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "キャベツ",
+        "コンソメ",
+        "水"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/255058/100x141c/dce616df1a50ab1ffa49fb375a627675.jpg?u=63805&p=1214213036"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "豚肉とキャベツの昆布茶煮",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1185144/464x260/e47ccc7fb991569707ffbbdbafa0dfa3.jpg?u=933655&p=1279396844",
+    "datePublished": "2010-07-18",
+    "description": "汁まで美味しい～！ほったらかしで簡単！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "豚バラ",
+            "quantity": "１３０g"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切りにします\r\n\r\n豚は一口大に切ります。",
+        "豚肉に塩・こしょうをしておきます",
+        "大き目の鍋にキャベツを半分敷き、豚肉を並べ、またキャベツを重ねます\r\n\r\n昆布茶を酒を合わせて上からかけ、蓋をして煮ます",
+        "５分位したら、ざっくりと混ぜ、もう一度５～１０分煮ます。最後にしょうゆで味を調えたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1185144",
+    "advice": "４のかき混ぜたところで、少し味を見て、塩・こしょうが足りない場合はそこで調節します。作ってからしばらくおくとさらに味がしみ込みます",
+    "history": "豚とキャベツの重ね煮を良く作ります。昆布茶を入れて作ってみたら、汁までおいしかったので、分量を量ってレシピにしてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "豚バラ",
+        "昆布茶",
+        "塩"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1185144/100x141c/ffcc253c698e1402f60928bab4d3bd96.jpg?u=933655&p=1279396844"
+}

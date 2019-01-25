@@ -1,0 +1,77 @@
+{
+    "name": "和食♬ぜんまいの煮物♬",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2007644/464x260/296dae7b3c15b955c36fb2f03b01ffe3.jpg?u=841338&p=1353575491",
+    "datePublished": "2012-11-28",
+    "description": "ほっとする味です。うちの定番のぜんまいの煮物です♬",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぜんまい水煮",
+            "quantity": "1袋(150～180g)"
+        },
+        {
+            "name": "糸こんにゃく",
+            "quantity": "1袋"
+        },
+        {
+            "name": "人参",
+            "quantity": "6センチ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2～3枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■味醂",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "■だしの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "■水",
+            "quantity": "100CC"
+        }
+    ],
+    "recipeInstructions": [
+        "ぜんまいと糸こんにゃくは、ザルに入れ、水で洗い食べやすい大きさに切る。人参は短冊切り、油揚げは細切りにする。",
+        "ごま油を引いたフライパンに、具材を入れ炒めます。",
+        "炒めたら、■の調味料を入れ、味見をして、丁度いい味になるまで煮詰めたら完成です♬"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2007644",
+    "advice": "ごま油で炒めること。鶏もも肉や椎茸をプラスすると、さらに美味しいです！輪切りの唐辛子をプラスしても、ピリ辛で美味しいです！",
+    "history": "母の味です♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": [
+        "ぜんまいの煮物 7位"
+    ],
+    "related_keywords": [
+        "ぜんまいの煮物"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2007644/100x141c/d96919263e68d056e00ca69e86d6ca2e.jpg?u=841338&p=1353575491"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "セロリの葉と茎のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "いいくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/730707/464x260/ca9589c88aa5ea23b39393fbd5810a49.jpg?u=475613&p=1234095293",
+    "datePublished": "2009-02-09",
+    "description": "☆話題入り感謝☆セロリの葉と細い茎を使ったつまみです ごま油・調味料はお好みでどうぞ",
+    "recipeYield": "１～２人",
+    "recipeIngredient": [
+        {
+            "name": "セロリの葉・茎",
+            "quantity": "一束分（１～２本分）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "塩",
+            "quantity": "パラパラ"
+        },
+        {
+            "name": "にんにく（チューブ）",
+            "quantity": "５ｍｍ～１ｃｍ"
+        },
+        {
+            "name": "白胡麻",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリの太い茎から葉と細い茎を手で（むしり）取る",
+        "白胡麻以外の調味料を混ぜておく",
+        "１をさっと茹で、水に取り冷ました後に水気を切る（軽く絞ってOK)",
+        "３を２に混ぜて、胡麻を加えて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "730707",
+    "advice": "葉の量によって塩・油加減を調整願います。 手順４の後でも調整可能なので、最初（手順２）は 少しの塩と油から初めてみて下さい。 ",
+    "history": "香りが強い葉もナムルにすれば食べやすいと思ったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ ナムル"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/730707/100x141c/a8830bfb094c03c7e61cc7331a64ed16.jpg?u=475613&p=1234095293"
+}

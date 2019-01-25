@@ -1,0 +1,74 @@
+{
+    "name": "*我が家の豚汁*",
+    "author": {
+        "@type": "Person",
+        "name": "あまちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/318859/464x260/68ee15b86b58f9e6cf88f6718fa9a33e.jpg?u=67561&p=1214214469",
+    "datePublished": "2007-01-15",
+    "description": "もうご存知の方がいればお恥ずかしい！肉と野菜をごま油で炒めてから煮込むとコクと甘みが引き出されて、さらに美味しくなりますよ！材料は適当に、ごま油で炒めることだけが重要です（笑）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "適量"
+        },
+        {
+            "name": "白菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "薄あげ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "半分"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1ぐらい"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "適量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "肉と野菜、その他の具は適当な大きさに切る。\r\n鍋にごま油を入れ、切った具材を炒める。",
+        "1に水を入れて野菜が柔らかくなったら、ほんだしを入れ味噌を溶く。",
+        "最後にネギをちらして出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "318859",
+    "advice": "肉と野菜をゴマ油で炒めると野菜の甘みが出て美味しくなります。 具材はお好きなもので！ 切り方もお好みで！",
+    "history": "先輩主婦さんから教えていただきました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/豚汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ薄切り肉",
+        "大根",
+        "にんじん",
+        "白菜"
+    ],
+    "tsukurepo_count": "184",
+    "thumbnail": "https://img.cpcdn.com/recipes/318859/100x141c/51a9128920834b326ee9b14d69eb5e70.jpg?u=67561&p=1214214469"
+}

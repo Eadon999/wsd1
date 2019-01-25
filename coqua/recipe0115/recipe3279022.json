@@ -1,0 +1,55 @@
+{
+    "name": "塩さばとたまねぎのバター蒸し✾",
+    "author": {
+        "@type": "Person",
+        "name": "おかあちゃん✿"
+    },
+    "image": "https://img.cpcdn.com/recipes/3279022/464x260/bdf58d0ebd1d929883afa4b0e80f0ccf.jpg?u=10858962&p=1436141490",
+    "datePublished": "2015-07-06",
+    "description": "実に簡単…!ほどよい塩加減で食べられますよ（＾ｖ＾）",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "塩さば",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０g"
+        },
+        {
+            "name": "酒",
+            "quantity": "３０cc"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに塩さばを並べ、その上にスライスした玉ねぎとバターを乗せる",
+        "初め中火で焼き、ジュージューしてきたら酒を加え、弱火で蒸し焼きにする\n（蓋をして焼いてください）",
+        "火が通ったら、軽くこしょうを振り、皿に盛り付け、仕上げにドライパセリを振る✾"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3279022",
+    "advice": "玉ねぎは塩さばと食べるとほどよい塩加減になるかと思いますが、ものたりないな…という場合は、軽く塩を振ってください✾",
+    "history": "実家から届いたどっさりの新玉ねぎ✾今日は魚料理でいただきました（＾ｖ＾）あま～～～い♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩さば 蒸し"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/3279022/100x141c/b190121b45b01aa645c7dbf3da85d8c7.jpg?u=10858962&p=1436141490"
+}

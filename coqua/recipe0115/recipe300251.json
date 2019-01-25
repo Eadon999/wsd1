@@ -1,0 +1,62 @@
+{
+    "name": "梅肉とかりかりしらすでさっぱり豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/300251/464x260/4195aefa7babdbd6e2f383b4be55f8ad.jpg?u=322945&p=1215720193",
+    "datePublished": "2006-11-13",
+    "description": "豆腐の上にごま油をかけたしらすをカリカリに焼いたものをのせ、梅肉と合わせさっぱり、ボリュームも栄養も満点です♪　　　　　　",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "しらす",
+            "quantity": "５０g"
+        },
+        {
+            "name": "梅干",
+            "quantity": "3～４個"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま、刻みのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "純正ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "レモン汁・しょう油",
+            "quantity": "各大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は水を切っておく。しらすはアルミ箔にのせごま油をかけオーブントースターでカリカリに焼く。梅干は種を取りたたいておく。",
+        "豆腐を食べやすい大きさに切りお皿に並べ、梅肉をのせ、上にカリカリしらす、ねぎ、ごまをかけ、刻みねぎをふわっとのせ完成。レモン汁としょう油を合わせたもの又はポン酢をかけて召し上がってください。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "300251",
+    "advice": "しらすをカリカリに焼いてください、ごま油の香りが最高です。レモンがなければポン酢で！",
+    "history": "梅干を何か料理に使いたくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "しらす",
+        "梅干",
+        "刻みねぎ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/300251/100x141c/34567eb0ca7de66e923070f485986f3c.jpg?u=322945&p=1215720193"
+}

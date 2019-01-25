@@ -1,0 +1,59 @@
+{
+    "name": "春キャベツとしめじの塩ごまナムル",
+    "author": {
+        "@type": "Person",
+        "name": "foo♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1765659/464x260/c225edb337d1d21a29798906a862596c.jpg?u=3311160&p=1333516237",
+    "datePublished": "2012-04-04",
+    "description": "チンするだけ！柔らかい春キャベツならではの短時間で簡単な一品です",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ又はキャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "半～１パック"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★中華顆粒だし",
+            "quantity": "少々"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "★胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "春キャベツは適当な大きさにちぎって（芯は包丁で半割り）ボールに入れ軽くラップし、レンジにより30～４0秒チン",
+        "しめじは小房に分け、1のキャベツに加え30秒ほど更にチン",
+        "温かいうちに炒り胡麻、先に★のごま油だけを入れざっくり混ぜてから残りの★を入れて味を調える。\n冷蔵庫で味を馴染ませて完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1765659",
+    "advice": "レンジの時間は機種により調整して下さい★はお好みの塩分に加減して下さい",
+    "history": "簡単、短時間に…春キャベツの美味しい季節ならではと思って",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ しめじ"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1765659/100x141c/5c2c6b72ff3128b0880cfa111df45d8c.jpg?u=3311160&p=1333516237"
+}

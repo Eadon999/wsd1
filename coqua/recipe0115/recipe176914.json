@@ -1,0 +1,54 @@
+{
+    "name": "ウメ～！ねぎイカ",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/176914/464x260/aacb7b4511a4cdc61a09f804d74550bc.jpg?u=39686&p=1214211523",
+    "datePublished": "2005-01-08",
+    "description": "プシュッ！！！ビールくれ！！！な小鉢。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "１杯"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "純正ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "イカはさばいて胴の部分は開いて５～１０mm幅の５cm長さに、足は食べやすい長さに切る。長ネギは千切りにして氷水にさらしてからよく水気を切る。",
+        "①で用意したイカは塩少々を入れた熱湯でさっと茹で、ざるに揚げて水気を切る。（水で冷まさない）",
+        "イカとねぎを塩・胡椒・ごま油で和える。",
+        "アレンジ：長ネギと蛸で。",
+        "アレンジ：ホタテの貝ひもと長ネギで。",
+        "アレンジ：ホタテの貝ひもと新玉葱+さっとゆでた三つ葉で"
+    ],
+    "cookTime": null,
+    "recipe_id": "176914",
+    "advice": "イカは火を通しすぎないこと！蛸でもできます。",
+    "history": "義姉から教えてもらったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか ねぎ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/176914/100x141c/319b232ec805b69701b4a787d8a6c2a1.jpg?u=39686&p=1214211523"
+}

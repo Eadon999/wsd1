@@ -1,0 +1,53 @@
+{
+    "name": "簡単☆キャベツのポンマヨ胡麻和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1902428/464x260/d719a3a39d08e0e09b807915b1ec4479.jpg?u=1228553&p=1345695105",
+    "datePublished": "2012-08-03",
+    "description": "とっても簡単♪手でちぎれば包丁もいらない～（o´ω｀o）ぅふふ ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ（中）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "大さじ１程度"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切り又は手でちぎり、お好みの硬さに茹でたらさっと水をかけ粗熱をとりぎゅーっと絞る",
+        "調味料全てとよく和えたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1902428",
+    "advice": "キャベツの水気をしっかり絞ることです～（＊´ｪ`＊）キャベツの大きさによって調味料は調節してください♪",
+    "history": "パパッともう一品ほしくて♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ポン酢",
+        "マヨネーズ",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1902428/100x141c/7bc2311655eb9516fd24bf999037210e.jpg?u=1228553&p=1345695105"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "ブロッコリーと鳥肉の辛し炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ゆーきchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/688534/464x260/16339e51a61a0e7fa0e5a4e78b182b0b.jpg?u=826028&p=1227583710",
+    "datePublished": "2008-11-25",
+    "description": "少しピリっと、でも、美味しい！ ご飯のおかずにも、お酒のつまみにもいい味です。2011/2/8話題入りありがとう♡",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１/２株"
+        },
+        {
+            "name": "鳥（ムネorモモ）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●からし",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを一口サイズに切ってレンジで2分～3分チンして火を通す",
+        "鶏肉も一口サイズに切って、片栗粉を全体的につける",
+        "●の調味料を全部混ぜ合わせる",
+        "フライパンに多めの油を入れて、鶏肉を炒め、火が通ったらブロッコリーと混ぜた●の調味料を加えサっと炒めたらでき上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "688534",
+    "advice": "炒める時、ブロッコリーには火が通っているので調味料を絡める感じでサっとすると火が通り過ぎなくて歯ごたえも残って美味しいです",
+    "history": "新鮮なブロッコリーを美味しく！おかずでも肴でもいい感じに～",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "鳥",
+        "片栗粉",
+        "醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/688534/100x141c/c6bed5ef2d494bfa891c9f9fbb2319ef.jpg?u=826028&p=1227583710"
+}

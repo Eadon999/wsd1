@@ -1,0 +1,73 @@
+{
+    "name": "チーズinチキン　バルサミコソース",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2767684/464x260/35e80d60b0ec760a73076c353efddb2f.jpg?u=4376699&p=1408802912",
+    "datePublished": "2014-08-24",
+    "description": "簡単だけど・・・お洒落なディナーに！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ムネ肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "とろけるスライスチーズ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "衣(小麦粉,卵,パン粉)",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ムネ肉の皮を取り水平に2等分\n内側に塩胡椒小麦粉を振り\nチーズを2回たたんで真ん中に乗せて肉を重ねる",
+        "外側にも小麦粉を振り溶き卵につけパン粉をしっかりつける\nフライパンにオリーブオイルを温め肉を焼く(片面3分ずつ)",
+        "フライパンの油を捨て、醤油、酒、みりん、砂糖を弱火で煮詰めてお皿に敷いてカツを乗せる\n",
+        "バルサミコ酢はフライパンで火を入れて少し酢を飛ばしてかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2767684",
+    "advice": "野菜はお好みでジャガイモや玉ねぎなどお好みで",
+    "history": "チーズinミルフィーユカツレツスイートバルサミコソースを食べてみてアレンジしてみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お洒落 ディナー",
+        "鶏肉バルサミコ酢"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2767684/100x141c/e71d323f569461275f5e2aac22f131e0.jpg?u=4376699&p=1408802912"
+}

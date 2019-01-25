@@ -1,0 +1,66 @@
+{
+    "name": "干し貝柱の中国風粥",
+    "author": {
+        "@type": "Person",
+        "name": "shazumi"
+    },
+    "image": "https://img.cpcdn.com/recipes/459159/464x260/7c5017f726cdf6c1c57b932d5009e2d7.jpg?u=588274&p=1215133408",
+    "datePublished": "2007-11-13",
+    "description": "干し貝柱の旨みたっぷり、ごはんでかんたんスピード中華粥",
+    "recipeYield": "5人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗3～4杯分"
+        },
+        {
+            "name": "水",
+            "quantity": "ごはんの3倍量"
+        },
+        {
+            "name": "干し貝柱(小粒のもの)",
+            "quantity": "100～120g"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "半カップ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ネギのスライス",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "干し貝柱はぬるま湯に浸して戻します。\r\n鍋にごはん・水を入れ煮立て、日本酒・戻した貝柱・戻し汁を加え弱火で時々かき混ぜながら30分位コトコト煮込みます。",
+        "お粥状になったら、オイスターソース・塩・ごま油を加え味を調え、ネギのスライスをトッピングします。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "459159",
+    "advice": "干し貝柱は良く戻しておきます。",
+    "history": "干し貝柱をお土産にいただいたので作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥"
+    ],
+    "rankings": [
+        "干し貝柱 4位"
+    ],
+    "related_keywords": [
+        "干し貝柱 お粥",
+        "干し貝柱"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/459159/100x141c/1665c8e7fb27dfc5928ee80e4c65dd2f.jpg?u=588274&p=1215133408"
+}

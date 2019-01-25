@@ -1,0 +1,68 @@
+{
+    "name": "コブサラダドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "kazz72"
+    },
+    "image": "https://img.cpcdn.com/recipes/1163729/464x260/3e5a0ed2cc78c150e7b6d6a00501223c.jpg?u=2056962&p=1363977798",
+    "datePublished": "2010-06-20",
+    "description": "おもてなしにぴったりなカラフルなサラダに 、コクのあるドレッシングを添えて。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ（カロリーハーフ使用）",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "バルサミコ酢(無ければ普通の米酢）",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "無糖ヨーグルト",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "レモンの絞り汁",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙２分の１～小匙１"
+        },
+        {
+            "name": "ドライパセリやブラックペッパー",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜サラダの準備をします。\n今回はスティックブロッコリー、サーモン、新玉ねぎ、アボガド、ワサビ菜、トマト、茹で卵です。",
+        "ボールにドレッシングの調味料を全て入れ、混ぜ合わせます。",
+        "食べる直前にドレッシングを回しかけます。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1163729",
+    "advice": "お野菜はお好みの具で。。。 動物性の食べ応えのある具（チキン、海老、サーモン、ベーコンなど）を 加えると栄養のバランスも良くなりますね。",
+    "history": "おもてなしに、見栄えの良いサラダをと思い作りました。＾＾",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コブサラダ ドレッシング",
+        "コブサラダ"
+    ],
+    "tsukurepo_count": "234",
+    "thumbnail": "https://img.cpcdn.com/recipes/1163729/100x141c/f8ebb74c00bf7ef7c61659d7e5afe2c3.jpg?u=2056962&p=1363977798"
+}

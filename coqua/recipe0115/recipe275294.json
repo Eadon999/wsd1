@@ -1,0 +1,57 @@
+{
+    "name": "簡単！モロヘイヤとトマトのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "もえたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/275294/464x260/42c455331ca818c821083c352a3472a0.jpg?u=56696&p=1214213482",
+    "datePublished": "2006-08-21",
+    "description": "レシピと言えるほどでもありませんが、毎年沢山できる、モロヘイヤで、よく作るサラダです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "モロヘイヤ",
+            "quantity": "適量"
+        },
+        {
+            "name": "トマト",
+            "quantity": "大１個"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "適量"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "おかか",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "モロヘイヤは、サッと茹で食べやすい大きさに、切ります。\r\nトマトは、湯剥きし、食べやすい大きさに切ります。たまねぎは、スライスします。",
+        "ボールに、材料をいれ、混ぜます。麺つゆで味を調え、おかかをのせて出来上がりです。簡単すぎて、すみません。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "275294",
+    "advice": "酢の物にしても美味しいです。",
+    "history": "畑にある、モロヘイヤと、トマトで、簡単にサラダを作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/モロヘイヤ"
+    ],
+    "rankings": [
+        "モロヘイヤ 9位"
+    ],
+    "related_keywords": [
+        "モロヘイヤ サラダ"
+    ],
+    "tsukurepo_count": "376",
+    "thumbnail": "https://img.cpcdn.com/recipes/275294/100x141c/459502cab68345aa3ad6c7446546b028.jpg?u=56696&p=1214213482"
+}

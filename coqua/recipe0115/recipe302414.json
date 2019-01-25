@@ -1,0 +1,46 @@
+{
+    "name": "豚肉の大葉巻き（串焼き）",
+    "author": {
+        "@type": "Person",
+        "name": "おざKING"
+    },
+    "image": "https://img.cpcdn.com/recipes/302414/464x260/36a2fea2bc8728d23a52cd28aad4ac1d.jpg?u=221335&p=1214214093",
+    "datePublished": "2006-11-21",
+    "description": "簡単なのにおいし～い！お酒のおつまみや夕飯のおかずにも☆ しっかり味をつければ、お弁当のおかずにもなります♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚肉（うす切り）",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "15枚"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚うす切り肉を３～４枚、端が少し重なるようにならべる。",
+        "豚肉の上に、大葉を３～４枚ならべる。",
+        "端からクルクル丸めて、棒状にする。",
+        "1.5～２ｃｍの厚さに切って、串にさす。",
+        "塩・こしょうをして、グリルかフライパンで両面こんがりと焼く。盛り付けて出来上がり！",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "302414",
+    "advice": "お弁当にはつまようじに刺して小さめに作ったり、串からばらして入れちゃってます☆ちょっと多目かな？くらいの塩・こしょう加減が良いと思います。",
+    "history": "どこかに食事をしに行ったときに食べて、家でも作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "串焼き"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/302414/100x141c/112b114daf47d3b36ca0ff0ca2479059.jpg?u=221335&p=1214214093"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "☆鶏の蜂蜜照り焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2503301/464x260/8a849c589005f1f26fcf47eeb574c6fb.jpg?u=8803837&p=1392348871",
+    "datePublished": "2014-02-14",
+    "description": "蜂蜜の照りとコクでふっくらジューシーな照り焼きです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "３５０ｇ"
+        },
+        {
+            "name": "塩胡椒・片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆醤油・酒・はちみつ",
+            "quantity": "各大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "一口大に切った鶏もも肉に塩胡椒をふり、片栗粉をまぶしておく。",
+        "油をひいたフライパンで皮の方から強火で焼き、\n\n皮にこんがり焼き色がついたら裏返し\n\n弱火にして蓋をして中まで火を通す",
+        "鶏肉に火が通ったら余分な油をキッチンペーパーで拭き取り、\n\n☆の調味料を加え中火で煮詰めて鶏肉に絡ませれば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2503301",
+    "advice": "鶏肉を焼く時は、できるだけ動かさない方がきれいに焼けます。冷めてもおいしいので、お弁当のおかずにも。",
+    "history": "蜂蜜のまろやかな甘みが好きなので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏の照り焼き はちみつ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2503301/100x141c/74e699f48400d771cd6a48a9b2420fdd.jpg?u=8803837&p=1392348871"
+}

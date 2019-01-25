@@ -1,0 +1,75 @@
+{
+    "name": "カフェ風♪豚肉のチリソース焼き",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/383261/464x260/fb7838a3be7a32d99b881fdec5300d71.jpg?u=496128&p=1214216269",
+    "datePublished": "2007-06-02",
+    "description": "焼いて、たれを絡めるだけで本格的な味。全部ごはんにのせてアジア風丼もおすすめ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉薄切り",
+            "quantity": "170g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "適量"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "①豚肉を食べやすい大きさに切る。玉ねぎは粗みじん切りにする。 \n\n",
+        "②②フライパンに油を熱し、半熟目玉焼きを作る。 \n\n",
+        "③フライパンに油を熱し、玉ねぎを炒め、色が変わったら皿に取る。",
+        "④片栗粉をまぶした豚肉を焼く。",
+        "⑤④に玉ねぎを戻し、ソースを絡める。",
+        "⑥皿にキャベツ、半熟目玉焼き、⑤を盛り付ける。",
+        "⑦半熟目玉焼きにスイートチリソースをかける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "383261",
+    "advice": "マヨネーズ掛けキャベツもチリソースによく合います。全部絡めながら食べてみてください。それほど辛くないので子供も大丈夫。",
+    "history": "スイートチリソースが余っていたので。 ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉チリソース"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/383261/100x141c/f0e78e1a4a6d104b146a133bb3a1cff1.jpg?u=496128&p=1214216269"
+}

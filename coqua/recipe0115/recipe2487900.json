@@ -1,0 +1,47 @@
+{
+    "name": "5分でできる☆簡単あつあつスープ餃子",
+    "author": {
+        "@type": "Person",
+        "name": "ゆっちゃん＊♡＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2487900/464x260/52f02f1fbaf5cb37eaa9ce5282200f78.jpg?u=8639744&p=1403825403",
+    "datePublished": "2014-02-03",
+    "description": "余った餃子があれば5分でできる☆つるつるの皮がたまんないお手軽時短レシピです(♥Ü♥)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "餃子",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "ウエイパー or 鶏ガラスープの素",
+            "quantity": "小さじ1強"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水、ウエイパー、醤油を入れひと煮立ちさせる。",
+        "餃子を入れて4分ほど煮込む。",
+        "お好みでネギを散らしてできあがり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2487900",
+    "advice": "●ここに春雨を入れても◎です(♥Ü♥)",
+    "history": "冷蔵庫に餃子が余っていたのでスープにしてみした(*´ω｀*)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "餃子スープ"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2487900/100x141c/838c96e8bc09b7cabc7943fda378f1de.jpg?u=8639744&p=1403825403"
+}

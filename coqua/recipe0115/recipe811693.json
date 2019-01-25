@@ -1,0 +1,63 @@
+{
+    "name": "ほうれん草と油揚げの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "モカニャン"
+    },
+    "image": "https://img.cpcdn.com/recipes/811693/464x260/15e7ed3411e0eacd14addc3ecdbdcafa.jpg?u=539057&p=1242650160",
+    "datePublished": "2009-05-18",
+    "description": "想像以上においしいです！アレンジできます。H23.3.14つくれぽ10人達成！！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１把"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２、３枚"
+        },
+        {
+            "name": "豚コマ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "２まわし（大１弱？）"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草はざく切り、油揚げも１センチくらいの厚さに切る。",
+        "油を引いて豚コマを塩こしょうで炒める。",
+        "ほうれん草と油揚げを追加投入！酒を加えて炒める。",
+        "醤油で味付け。２周り位ですが、大さじ１弱位かな？お好みで量を調整してください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "811693",
+    "advice": "醤油は味を見ながら調整してください☆私はしょうゆさしに入った醤油を大きく２まわし入れて、あとは微調整してます。※あるもの、ある分でアレンジしてください♪融通がききます(^_^)v",
+    "history": "お母さんが教えてくれたレシピをお肉追加でアレンジ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "油揚げ",
+        "豚コマ",
+        "醤油"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/811693/100x141c/b87f6d30a9bd786cb1b9cf590616eca9.jpg?u=539057&p=1242650160"
+}

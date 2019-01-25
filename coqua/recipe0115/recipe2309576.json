@@ -1,0 +1,70 @@
+{
+    "name": "煮物に飽きたら！切干大根のツナマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "tanachu24"
+    },
+    "image": "https://img.cpcdn.com/recipes/2309576/464x260/bab28bbaf07ebff9557a40623472df8f.jpg?u=1892718&p=1375941719",
+    "datePublished": "2013-08-08",
+    "description": "切干大根の使い道は煮物だけじゃない☆カルシウム・食物繊維・鉄分＋カリウムで妊婦さんにも嬉しいサラダになりました！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根は水で戻し、しっかりと水気を切る。\nきゅうりは千切りに。\nツナは汁気を切っておく。",
+        "●の調味料を混ぜ、そこに①を入れ和える。",
+        "仕上げにお好みですりごまをかけて完成！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2309576",
+    "advice": "切干大根は水につけ過ぎると旨みも流れてしまうので、つけ過ぎには注意です。あとは混ぜるだけなので簡単です！",
+    "history": "栄養満点の切干大根を煮物以外の方法で食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "きゅうり",
+        "ツナ缶",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/2309576/100x141c/294f26107df226b327ebf9084384656e.jpg?u=1892718&p=1375941719"
+}

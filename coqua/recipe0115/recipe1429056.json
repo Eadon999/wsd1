@@ -1,0 +1,59 @@
+{
+    "name": "子供が喜ぶ鶏肉とピーマンのカレー風味",
+    "author": {
+        "@type": "Person",
+        "name": "Ritotsu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1429056/464x260/4484f96bcc1c291ac9ea5d3f31dbd6a0.jpg?u=1035999&p=1304486046",
+    "datePublished": "2011-05-04",
+    "description": "ピーマン以外にも冷蔵庫に残った野菜をざくざく切って一緒に炒めると美味しいです♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "約５００ｇ"
+        },
+        {
+            "name": "たまねぎ（スライス）",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "カレールー（市販のお好みで）",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "４～５個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙２～３"
+        },
+        {
+            "name": "水",
+            "quantity": "大匙２～３"
+        }
+    ],
+    "recipeInstructions": [
+        "もも肉を角切りに切りカレールーをおろし金でおろす。",
+        "ビニール袋に１とスライスした玉ねぎを入れてよくもむ。\n時間があれば３０分程度放置しておく。",
+        "フライパンで表面に焼き色をつけて水と醤油を入れて、よく混ぜる。",
+        "３の水分がなくなったらピーマンをいれて、しんなりするまで炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1429056",
+    "advice": "カレールーによった味が違うので、醤油の量は、加減して下さい。小さいお子様には、ケッチャプを足すともっと食べやすくなると思います。",
+    "history": "ピーマンが苦手な子供が喜んでくれるレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "たまねぎ",
+        "カレールー",
+        "ピーマン"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1429056/100x141c/557ecc57aebbd99b973a8e6f72caf376.jpg?u=1035999&p=1304486046"
+}

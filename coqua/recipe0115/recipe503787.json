@@ -1,0 +1,54 @@
+{
+    "name": "セロリのナンプラー浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/503787/464x260/41e229491f4509d756a139740f81f53c.jpg?u=405605&p=1214218643",
+    "datePublished": "2008-02-10",
+    "description": "ナンプラーとレモンのさっぱりした浅漬け。",
+    "recipeYield": "セロリ１本分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "大１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大１"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "１本"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリの芯の筋を取ってから斜め切りにする。",
+        "ビニール袋に調味料を入れ、薄切りにしたセロリをもみこむ。調味液を吸うように手でしっかりもんで下さい。冷蔵庫で1時間休ませて出来上がり。",
+        "セロリを薄めに切るとしんなりしますが、厚めに切るとポリポリします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "503787",
+    "advice": "調味液とセロリをもんで下さいね。",
+    "history": "セロリの浅漬けをいつもと違う食べ方にしたかったので。。大好きなナンプラーを使いました。レモンとポン酢で食べやすくなってます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "ナンプラー",
+        "レモン汁",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "120",
+    "thumbnail": "https://img.cpcdn.com/recipes/503787/100x141c/8b7c6ab552ebdc414edb5024aa86daf8.jpg?u=405605&p=1214218643"
+}

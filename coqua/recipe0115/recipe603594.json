@@ -1,0 +1,69 @@
+{
+    "name": "ザーサイ奴。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/603594/464x260/061b955a61770a82fb2a6aea2a904848.jpg?u=4036&p=1215133554",
+    "datePublished": "2008-07-03",
+    "description": "簡単でとても美味しい！おかずにも、おつまみにもなって重宝しています。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁（絹でも木綿でも）"
+        },
+        {
+            "name": "味付けザーサイ",
+            "quantity": "80g程度"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白炒り胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "お好みで（無くてもOK）"
+        }
+    ],
+    "recipeInstructions": [
+        "【タレを作る】耐熱容器に、醤油・オイスターソース・酢・砂糖を入れて電子レンジで30秒ほどチン。胡麻油・ラー油を加えてよくかき混ぜる。",
+        "ザーサイは粗いみじん切りにする。豆腐を４等分してザーサイを乗せ、1.のタレをかける。最後に胡麻をパラッと振ればできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "603594",
+    "advice": "※ タレはかける直前に再度混ぜてください。　　※ タレは市販の中華ドレッシングでも代用できます。",
+    "history": "数年前に家人がどこかのお店で食べたものを、話を元に作ってみました。以来ずっと我が家の定番奴です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "醤油",
+        "オイスターソース",
+        "酢"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/603594/100x141c/f196bb5cfb8e9c37ace3e362517fabcd.jpg?u=4036&p=1215133554"
+}

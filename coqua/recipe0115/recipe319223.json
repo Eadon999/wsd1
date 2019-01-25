@@ -1,0 +1,51 @@
+{
+    "name": "カニ缶で☆大根サラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ふたごっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/319223/464x260/271000f4a5a7e2120c50173744dba23c.jpg?u=330642&p=1214214476",
+    "datePublished": "2007-01-15",
+    "description": "カニ缶と大根さえあれば、即出来ちゃいます♪お安いカニ缶で充分ですよ～！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "正味３００グラム"
+        },
+        {
+            "name": "カニ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３～４"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は少し太めの千切りにして塩を振ってしんなりさせる。\r\nしんなりしたら塩気をさっと洗い流して、水気をしっかり取る。\r\nカニ缶は汁気をよ～く切る。",
+        "ボールに大根、カニ缶を入れて、塩こしょう、マヨネーズで味を付ける。",
+        "お皿に盛ってパセリを乗せたら出来上がり♪\r\n彩りでグリーンアスパラを添えてみました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "319223",
+    "advice": "食べる直前にマヨネーズを混ぜてくださいね。水気が出て味が薄くなってしまいます。本物のカニで作ったらリッチでしょうね～(*^_^*)",
+    "history": "どこかで食べた記憶が・・・ホタテ缶でも作っていたような・・・",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/蟹"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 カニ缶"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/319223/100x141c/0d5a9d27db74ab167ce5af7db1a678a5.jpg?u=330642&p=1214214476"
+}

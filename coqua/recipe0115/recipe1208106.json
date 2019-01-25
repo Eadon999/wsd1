@@ -1,0 +1,56 @@
+{
+    "name": "ご飯がモリモリ！水菜ふりかけ♪",
+    "author": {
+        "@type": "Person",
+        "name": "yamita"
+    },
+    "image": "https://img.cpcdn.com/recipes/1208106/464x260/d446f56a77560aca9baaa1fbcbf90410.jpg?u=612172&p=1281484436",
+    "datePublished": "2010-08-11",
+    "description": "食欲のない時でも、これがあればご飯がモリモリ食べられます！朝食におすすめ～♪✿11.5.24話題入り感謝✿",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "一束（今回は200ｇでした）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "①醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "②味塩(塩）",
+            "quantity": "少々"
+        },
+        {
+            "name": "③かつおぶしパック",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は良く洗い水気をきり、1ｃｍくらいの長さに切る。",
+        "熱したフライパンにごま油を入れ、水菜を炒める。\r\n①～③の順に加えて炒めて仕上げにごまを振りかけ出来上がり。",
+        "※かつお節が余分な水分を吸収し、旨みをプラスしてくれます。",
+        "レシピID:886431\n『ご飯がモリモリいける大根葉ふりかけ\n』も作り方は同様です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1208106",
+    "advice": "水分が出やすいので強火で一気に仕上げて下さい。",
+    "history": "いつもは大根の葉で作っていますが、手に入らない時は水菜バージョン♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜ふりかけ"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/1208106/100x141c/1f1523fc74c318c2c7a146083759ed05.jpg?u=612172&p=1281484436"
+}

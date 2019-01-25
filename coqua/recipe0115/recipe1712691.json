@@ -1,0 +1,56 @@
+{
+    "name": "簡単すぎる☆白菜の梅ゴマヨおかかサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "なおすけ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1712691/464x260/01ddcdddb580d180801d485ec6d1e7bf.jpg?u=1097131&p=1329668625",
+    "datePublished": "2012-02-20",
+    "description": "H25.1.22 祝☆話題入り！白菜消費に、お弁当に、晩ご飯のあと一品！に。いろんな場面で大活躍のサラダです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "２〜３枚"
+        },
+        {
+            "name": "梅干しor梅肉ペースト",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は洗って５ミリ幅にザクザク切り、大きめのタッパーに入れる。",
+        "１のタッパーに塩少々を入れ、フタをしてシャカシャカ振る。\n水分が出てくるので少し置いておく。",
+        "５分程度置いておいたら白菜から水分が出てくるので、手で少ししぼる。",
+        "たたいた梅干しか梅ペースト、ゴマ、マヨネーズ、かつおぶしをお好みの量入れて混ぜる。梅に塩分が多いのでマヨ入れ過ぎ注意。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1712691",
+    "advice": "ハムやちくわを入れてボリュームUPする時もあります！",
+    "history": "白菜のクイックサラダ、あと一品！っていう時にも活躍♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜おかかサラダ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1712691/100x141c/638928dd30b91994c634ab671725ea1e.jpg?u=1097131&p=1329668625"
+}

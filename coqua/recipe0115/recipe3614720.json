@@ -1,0 +1,55 @@
+{
+    "name": "鶏もも肉の味噌マスタード焼き",
+    "author": {
+        "@type": "Person",
+        "name": "sacchiん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3614720/464x260/841ddd1484593ebc66a6e169e937ee4b.jpg?u=413915&p=1452421121",
+    "datePublished": "2016-01-10",
+    "description": "味噌味でご飯が止まりません！マスタードの酸味がアクセント。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は分厚いところを切り開き、厚さを均等にして一枚を半分に切る",
+        "バットにすべての調味料を合わせて鶏肉を入れ両面に馴染ませたら20分漬け置く",
+        "サラダ油を熱したフライパンで両面焼いたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3614720",
+    "advice": "焦げやすいので注意しながら焼く。均等の厚さにすると火の通りも良くなります。",
+    "history": "ご飯にぴったりの肉料理が食べたくて。家族にも好評でした。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チキン マスタード焼き"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3614720/100x141c/dd22845b5628a27d67ae901eb8a91dd6.jpg?u=413915&p=1452421121"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "簡単！けんちん汁(まいたけ)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4107236/464x260/3da077be09f827f8da3a96eca8950d6e.jpg?u=4376699&p=1475681148",
+    "datePublished": "2016-10-06",
+    "description": "きのこたっぷり入れましょう♪たっぷり2人分！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "2個"
+        },
+        {
+            "name": "きのこ(舞茸)",
+            "quantity": "1/2"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2"
+        },
+        {
+            "name": "大根",
+            "quantity": "3cm"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "20cm"
+        },
+        {
+            "name": "豆腐(木綿でも絹でも)",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/5"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は薄切り\n豆腐は小さく切る",
+        "ごま油小さじ１で野菜を炒める\n",
+        "調味料を加えて蓋をして10分\n",
+        "豆腐を加えて温まれば完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4107236",
+    "advice": "里芋と豆腐があれば後はなんでもＯＫキノコもお好みで！10分煮で芯はなくなりますがお好みもう数分！レンチン3分してから煮れば5分でＯＫ",
+    "history": "冷蔵庫にあった食材でけんちん汁本格的なけんちん汁なら　ID:2996138",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/けんちん汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "けんちん汁 簡単",
+        "けんちん汁",
+        "けんちん汁 まいたけ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4107236/100x141c/6474c362531062b9579187dac80fdc61.jpg?u=4376699&p=1475681148"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "簡単おかず＊鱈と野菜のホイル焼き",
+    "author": {
+        "@type": "Person",
+        "name": "＊Ａｎｎａ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2698851/464x260/bb4d1305ce809ede704470fd297c82cc.jpg?u=2200256&p=1404562287",
+    "datePublished": "2014-07-05",
+    "description": "お好みの野菜と一緒に包んで焼くだけ♪マジックソルトだけのシンプルな味付けですが美味しいです♡洗い物も少なくて楽チン♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "生真だら(皮なし)",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "4個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "4房"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1～2片"
+        },
+        {
+            "name": "EVオリーブオイル",
+            "quantity": "小2"
+        },
+        {
+            "name": "マジックソルト",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アルミホイルを広げ、真だらと野菜類を乗せる。\n(ミニトマトは半分にカット、しめじは解す、にんにくは薄くスライス)",
+        "オリーブオイルを半量ずつ回しかけ、上から均等にマジックソルトを振る(10～15振り位)。",
+        "アルミホイルで包む。",
+        "フライパンに3を並べ、蓋をして弱火で10分程蒸し焼きにしたら、完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2698851",
+    "advice": "野菜はお好きな野菜でOKです。味が薄い様でしたら食べる時に、マジックソルトで味を調整して下さい。",
+    "history": "思い付きです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たら ホイル焼き ブロッコリー",
+        "たら ホイル焼き にんにく"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2698851/100x141c/e0b121e65b49164d7437bcec72cab9fc.jpg?u=2200256&p=1404562287"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "舞茸と人参の甘辛炒め 柚子胡椒風味。",
+    "author": {
+        "@type": "Person",
+        "name": "しあわせな食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/717594/464x260/d429fb08beb09a54842eb241c1176667.jpg?u=500885&p=1232632020",
+    "datePublished": "2009-01-22",
+    "description": "ごはんに合う和風おかず。お弁当に、食卓の一品にどうぞ（*＾＾*）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "１パック"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／３本"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１と１／２"
+        },
+        {
+            "name": "●柚子胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸は軽くほぐし、にんじんは細切りにします。",
+        "フライパンを熱してサラダ油をひき、舞茸とにんじんを加えて炒めます。",
+        "舞茸とにんじんに火が通ったら●の調味料を加えて味付けし、出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "717594",
+    "advice": "柚子胡椒はお好みで少々～小さじ１程度加えてください。",
+    "history": "きのこの甘辛煮と柚子胡椒の組み合わせが好きなので、人参も加えておかずにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "にんじん",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/717594/100x141c/02408f182af9dd71f3f0ed4780487031.jpg?u=500885&p=1232632020"
+}

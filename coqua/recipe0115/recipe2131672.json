@@ -1,0 +1,85 @@
+{
+    "name": "月見きつねうどん",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2131672/464x260/71552c1269630cd1fec426dab96b3922.jpg?u=4819316&p=1361682470",
+    "datePublished": "2013-02-28",
+    "description": "14/1/31話題入りしました、シンプルに、一人ランチにぴったりです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１／２枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "▲水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "▲顆粒和風だし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "▲しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "▲酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "▲みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "▲塩",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは熱湯で油切りし、●を合わせて炊く",
+        "▲を合わせて煮立たせる",
+        "別の鍋でうどんをゆでる",
+        "茹でたうどんを器に盛り、真ん中に卵を入れ、横に１の油揚げを置いて、２のだしをかけ、ねぎを添えて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2131672",
+    "advice": "卵をうっすら白濁するぐらいが見栄えが良い、アツアツのうどんにアツアツのだしをかけて下さい",
+    "history": "昔、会社の食堂のきつねうどんにプラス２０円で月見にしてもらうのが好きでした。転勤して食堂が変わり、それが食べられなくなりました。こんな感じだったと思います。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "月見きつねうどん",
+        "月見うどん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2131672/100x141c/264eedda1ac87f2d7dd93f0fa8c0adb6.jpg?u=4819316&p=1361682470"
+}

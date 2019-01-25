@@ -1,0 +1,64 @@
+{
+    "name": "こってり うまうま♪鯖のニンニク生姜醤油",
+    "author": {
+        "@type": "Person",
+        "name": "みえ０４"
+    },
+    "image": "https://img.cpcdn.com/recipes/2370685/464x260/a6bb3c7cd348a8654ebabc669ea2bb90.jpg?u=1696836&p=1381410629",
+    "datePublished": "2013-10-10",
+    "description": "サバの塩焼き大好き♪でも、たまには違った味でたべたい…そんな時にオススメです。こってり うまうま♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "サバ（塩サバでも生でも◯）",
+            "quantity": "半身×2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大1.5〜2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大１〜2"
+        },
+        {
+            "name": "☆生姜＆ニンニク（ニンニクはいれなくても◯）",
+            "quantity": "各1かけ"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サバは4〜5等分に切り、ビニール袋に入れて片栗粉を絡める。",
+        "☆を合わせる\n\nニンニクと生姜はお好みで調整してください。",
+        "フライパンに多めに油をしき、1を揚げ焼きする。（揚げても◯）",
+        "サバに火が通ったら、☆を入れお好みの濃さになるまで煮詰めたら出来上がり〜"
+    ],
+    "cookTime": null,
+    "recipe_id": "2370685",
+    "advice": "塩サバで作る場合は、しょっぱくなりすぎない様、タレの量を調整してください。",
+    "history": "昔母が作ってくれたサバの生姜醤油和えを思い出して…",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖　しょうが醤油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2370685/100x141c/db2b2d5cb2f228749dbd98ce9104c5ba.jpg?u=1696836&p=1381410629"
+}

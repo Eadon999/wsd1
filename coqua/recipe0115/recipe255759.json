@@ -1,0 +1,44 @@
+{
+    "name": "簡単手作り♪ピザソース",
+    "author": {
+        "@type": "Person",
+        "name": "つくしぐみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/255759/464x260/828f49a37ad967878a8f0cd464baded5.jpg?u=67545&p=1214213051",
+    "datePublished": "2006-05-22",
+    "description": "シンプルで簡単、自家製ピザソースです。作りおきして小分けに冷凍しておくと便利。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマトダイス缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ４"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくは粗みじん切りにして、小さめの鍋、またはフライパンにオリーブオイルで炒めます。",
+        "香りが出てきたら、トマトも加えて、約１５分ほど煮込みます。途中、何度かかき混ぜてください。トマトが煮崩れてソースらしくなったら出来上がりです。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "255759",
+    "advice": "ウチはコドモが小さいのでこのまま使います。このままでも、チーズやベーコンなどの塩味で美味しくいただけます。お好みでドライハーブを加えたり、塩味をつけてください。",
+    "history": "母の味。だったけど、本当にこんなにシンプルだったかは。。。覚えてません。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにく",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/255759/100x141c/56e96466824a1954419e7aa40bbbef58.jpg?u=67545&p=1214213051"
+}

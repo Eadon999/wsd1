@@ -1,0 +1,52 @@
+{
+    "name": "我が家の定番✿照り焼きソース",
+    "author": {
+        "@type": "Person",
+        "name": "ＨＥＷＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/769204/464x260/655138a0eaaae4cf4c9037cf436ae270.jpg?u=977600&p=1238042864",
+    "datePublished": "2009-03-26",
+    "description": "肉・魚・野菜なんでもどうぞ✿H.21.10.1話題入りありがとうございます♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１、５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ半分"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全部混ぜてからめるだけ♪",
+        "厚揚げに片栗粉をまぶして焼いてから♪",
+        "かれいに片栗粉をまぶして焼いてから♪",
+        "お弁当にin✿ \r\n小さじで量りました♪",
+        "新じゃがを半分に切って素揚げ✿\r\nそれからフライパンで焼きからめる♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "769204",
+    "advice": "特にありません✿",
+    "history": "甘すぎず、しょうゆ辛くない分量を探しました♪",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "砂糖",
+        "酒",
+        "みりん",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/769204/100x141c/909d1e9224cf9ddd8d9680aa081ed07f.jpg?u=977600&p=1238042864"
+}

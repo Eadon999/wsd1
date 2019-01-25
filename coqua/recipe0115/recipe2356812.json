@@ -1,0 +1,59 @@
+{
+    "name": "簡単！もやしと卵のレンジ蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2356812/464x260/d5254e1ca6f941959a1a5d70b63beb00.jpg?u=603745&p=1447724717",
+    "datePublished": "2013-09-26",
+    "description": "電子レンジで作る簡単おかず♡もやしを使うので安上がりに出来ます!!何かもう1品足りない～って時にも便利♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウル等にもやしを入れます。",
+        "卵を１つ割って入れます。",
+        "良く混ぜ合わせます。",
+        "お皿に移し、ラップをかけて1分50秒加熱します。\n（ラップはふんわりかけてください）",
+        "加熱が終わったら取り出します。",
+        "☆の調味料を加えて良く混ぜ合わせます。",
+        "もう1度ラップをかけて40秒ほど加熱します。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2356812",
+    "advice": "お好みで刻みネギ等トッピングすると見た目も少し綺麗になりますｗ",
+    "history": "何か1品足りないなぁ～って時に冷蔵庫に残っていたもやしを使って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モヤシ レンジ蒸し"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2356812/100x141c/53982b3fbff475425e298c7559efbab3.jpg?u=603745&p=1447724717"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "納豆オクラもずく酢",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2771366/464x260/b9ad9a05627812095e1d3ee00d4fc17a.jpg?u=4819316&p=1409056319",
+    "datePublished": "2014-08-26",
+    "description": "15/6/29話題入り有難うございます、ねばねば３兄弟をまとめてみました、ずるずるっと食べるのが美味しいでしょう",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "３本"
+        },
+        {
+            "name": "もずく酢",
+            "quantity": "１パック"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは鍋に湯を沸かしてさっと茹で、水に取る",
+        "オクラの水気をふき取りへたを落として小口切りにする",
+        "ボウルに納豆を入れて混ぜ、粘りを出す",
+        "オクラ、もずく酢、しょうゆを入れて混ぜる",
+        "器に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2771366",
+    "advice": "ずるずるっと食べて下さい",
+    "history": "会社の食堂でねばねば３兄弟というネーミングで出てました。簡単に出来ると思ったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もずく酢 納豆"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/2771366/100x141c/7b5399f00c5310301105d17459f43e6c.jpg?u=4819316&p=1409056319"
+}

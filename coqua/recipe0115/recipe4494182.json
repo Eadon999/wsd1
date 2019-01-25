@@ -1,0 +1,53 @@
+{
+    "name": "液体塩こうじで♪梅とツナの炊き込みご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4494182/464x260/151897140d00c73d01edd95c628c4762.jpg?u=7089749&p=1530162412",
+    "datePublished": "2017-04-27",
+    "description": "液体塩こうじで！！簡単！炊き込みご飯をお楽しみ下さい♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２個"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "大葉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキ「液体塩こうじ」を使用します。",
+        "①米は洗い、水加減を２合に合わせ、大さじ２杯分減らしておく。",
+        "②梅干しは種を取り、包丁で刻んでおく。ボウルに梅干し、軽く油をきったツナ、液体塩こうじを混ぜ合わせ、米の上に乗せて炊く。",
+        "③炊き上がったら混ぜ合わせ、蒸らす。刻んだ大葉をのせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4494182",
+    "advice": "梅干の大きさにもよるので、お好みで増やしてみてください♪",
+    "history": "液体塩こうじを使う事により、やさしい塩加減で、お米につやが出ます♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "液体塩こうじ",
+        "ツナ 大葉 炊き込みご飯"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4494182/100x141c/720ae0ce7cc37e62bcbe70a3ed3be942.jpg?u=7089749&p=1530162412"
+}

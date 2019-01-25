@@ -1,0 +1,74 @@
+{
+    "name": "★飲み屋の味を再現★茄子のにんにく醤油味",
+    "author": {
+        "@type": "Person",
+        "name": "よょぅこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2818793/464x260/0bc7b6efbb6cd4ca8a493031d5c8da69.jpg?u=537512&p=1434676000",
+    "datePublished": "2014-09-30",
+    "description": "飲み屋さんで食べた味を思い出して作ってみたら思った以上に、ジュワッとしてふわっとしておいしい！(o^^o)",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "3本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "30cc"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小さじ1/3位"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "小さじ1位"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子はヘタを切り落とし、縦半分に切って皮側に斜めの切り込みを入れる。合わせダレを合わせておく。",
+        "熱したフライパンにサラダ油とごま油を入れ、茄子を焼く。中火で両面3分ずつくらい。",
+        "茄子の上から合わせダレを回しかけ、3分程煮る。出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2818793",
+    "advice": "特にコツはないです。最近はズッキーニと乱切りにしてしめじも入れたりしてます。なかなか良いです。",
+    "history": "飲み屋さんで食べたのが、凄く美味しかったので、家でも食べてみたくて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "サラダ油",
+        "ごま油",
+        "醤油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2818793/100x141c/90d52b068a24d01c8810e8ac0407dd6c.jpg?u=537512&p=1434676000"
+}

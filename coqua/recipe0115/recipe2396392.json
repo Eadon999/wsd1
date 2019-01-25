@@ -1,0 +1,61 @@
+{
+    "name": "ダイエット！ブロッコリーと舞茸炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2396392/464x260/fa22a43181b085e6a4255733ed4d7128.jpg?u=4376699&p=1515077204",
+    "datePublished": "2013-11-04",
+    "description": "クックパッド　やせるレシピ２、Tarzan　掲載　ダイエットレシピ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1株"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1袋"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを適当に切って水洗い\n舞茸は裂いておく\n",
+        "ブロッコリーと舞茸をシリコンスチーマーでレンジ600w2分チン",
+        "フライパンに移しソースを加え強火でさっと炒め\n蓋をしてそのまま1分蒸して完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2396392",
+    "advice": "ブロッコリーは煮ない方が栄養が残ります",
+    "history": "免疫アップに舞茸とブロッコリーをたっぷり使いました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸 ブロッコリー",
+        "やせるレシピ",
+        "ブロッコリー ダイエット"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2396392/100x141c/a4e89b684e32306ba91c02c452f3a0e7.jpg?u=4376699&p=1515077204"
+}

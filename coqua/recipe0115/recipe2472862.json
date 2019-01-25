@@ -1,0 +1,67 @@
+{
+    "name": "☆キャベツと卵のカニカマサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "yuki☆nao"
+    },
+    "image": "https://img.cpcdn.com/recipes/2472862/464x260/a9b72e96dce445db156e84f9d1d75038.jpg?u=8344640&p=1399037762",
+    "datePublished": "2014-01-23",
+    "description": "おかずにもなる簡単サラダ♪彩りも綺麗♪ソースが激うまっ！是非お試しアレ＼(^^)／",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4分の1"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大匙3~4"
+        },
+        {
+            "name": "●醤油、胡麻油",
+            "quantity": "各  小匙2"
+        },
+        {
+            "name": "●鶏ガラスープ",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "●にんにくすりおろし",
+            "quantity": "1かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをざく切りにし耐熱皿に入れてふんわりラップをしレンジで600w2分チンする。(御家庭のレンジによる)",
+        "卵に塩コショウを入れて炒り卵を作っておく。●は合わせておく。",
+        "キャベツをサッと水にさらし水気をしっかりときりボールへ…そこへ炒り卵とカニカマを裂いて入れる。",
+        "合わせておいた●を加えて混ぜ合わせ完成(^_^)v"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2472862",
+    "advice": "キャベツはしっかりと水切りして下さい♪",
+    "history": "キャベツを消費したくてドレッシングにしていたソースを絡めてみました(*^^*)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ カニカマ",
+        "カニカマ 卵",
+        "キャベツ カニカマ 卵",
+        "カニカマ サラダ"
+    ],
+    "tsukurepo_count": "213",
+    "thumbnail": "https://img.cpcdn.com/recipes/2472862/100x141c/a39dbf6a8cc45f6f1f139fd314391667.jpg?u=8344640&p=1399037762"
+}

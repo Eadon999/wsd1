@@ -1,0 +1,51 @@
+{
+    "name": "ちょっと一品！シイタケのバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "とんかつだいすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3747747/464x260/41ce2ec78dcd46d339a3b1646ac90fde.jpg?u=5804714&p=1458025505",
+    "datePublished": "2016-03-15",
+    "description": "シイタケをさっとバターで炒めました",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "生椎茸",
+            "quantity": "1パック"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸は石突きを切り取り、薄切りにする。",
+        "石突きの部分も、硬いところは切り取ってから、縦に細切りにする。 ",
+        "フライパンにバターを入れて火にかけ、溶け始めたらシイタケを炒める。",
+        "胡椒をし、最後に醤油を加えてさっと炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3747747",
+    "advice": "バターが溶け始めたら、焦げないうちに素早く炒めてください",
+    "history": "生椎茸が安く売られていたので、一品おかずに加えたいと思い、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生椎茸",
+        "バター",
+        "胡椒",
+        "醤油"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3747747/100x141c/68608518a13f0af7a7f07a08a10c9ba5.jpg?u=5804714&p=1458025505"
+}

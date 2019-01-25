@@ -1,0 +1,45 @@
+{
+    "name": "美味しいキャベツの食べ方＊",
+    "author": {
+        "@type": "Person",
+        "name": "フェミ"
+    },
+    "image": "https://img.cpcdn.com/recipes/250084/464x260/21ee41b52071b3ead1f674f0d9c3134a.jpg?u=39393&p=1214212938",
+    "datePublished": "2006-04-21",
+    "description": "これでキャベツが幾らでも食べられる！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "約1/2玉"
+        },
+        {
+            "name": "無塩バター",
+            "quantity": "10ｇくらい"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは洗ってザクザクと切ります。",
+        "大きめの鍋にバターを入れて火にかけ、バターが溶けてきたらキャベツを投入。ふたをして弱火にして約５分。",
+        "塩・コショウして軽くかき混ぜ、再びふたをしてキャベツがお好みの柔らかさになったら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "250084",
+    "advice": "焦がさないように火加減に注意です◎",
+    "history": "普段はソテーするところを蒸し焼きにしてみたら大成功！炒めるよりお手軽にキャベツが美味しくなりました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "無塩バター",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/250084/100x141c/a301d6d6d1efa494ffd35a68acce16cc.jpg?u=39393&p=1214212938"
+}

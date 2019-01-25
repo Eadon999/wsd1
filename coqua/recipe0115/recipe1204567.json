@@ -1,0 +1,59 @@
+{
+    "name": "✿蒟蒻とごぼうの胡麻和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1204567/464x260/2029b1591632201892bfe31da32461a7.jpg?u=271833&p=1281091876",
+    "datePublished": "2010-08-06",
+    "description": "蒟蒻とごぼうを使ったヘルシーな一品です。 お弁当のおかずにもおすすめ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "蒟蒻",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆顆粒だし（ほんだしなど）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1弱"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮をこそげ落とし、ささがきにして水にさらしておく。蒟蒻は細切りにする。",
+        "鍋に湯を沸かし、１を5分程茹でる。ざるにあけて水気をよく切る。",
+        "ボウルに☆を入れてよく混ぜ合わせ、２を加えて和える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1204567",
+    "advice": "調味料の分量は、味をみてお好みで加減して下さい。",
+    "history": "ごぼうが沢山あるので、蒟蒻と組み合わせてヘルシーな一品を作りました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく",
+        "その他/お弁当/色別おかず/黒・茶系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蒟蒻",
+        "ごぼう",
+        "すりごま",
+        "顆粒だし"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1204567/100x141c/32b613008015764ddf42fcdde1b28a26.jpg?u=271833&p=1281091876"
+}

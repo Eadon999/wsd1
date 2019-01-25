@@ -1,0 +1,78 @@
+{
+    "name": "あったか☆オニオンスープパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "猫毛玉"
+    },
+    "image": "https://img.cpcdn.com/recipes/277959/464x260/bbd3cdbc15bb8835424c80e0fc4aa757.jpg?u=264312&p=1214213547",
+    "datePublished": "2006-08-31",
+    "description": "財布にも心にもあったかいパスタです('ー`*)",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "スパゲッティ乾麺",
+            "quantity": "2人分"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "スライス3枚"
+        },
+        {
+            "name": "にんにくチューブ",
+            "quantity": "少々"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "0.5個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "0.5袋"
+        },
+        {
+            "name": "まいたけ",
+            "quantity": "0.5袋"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "1.5個"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ（乾燥）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブ油を入れ1cm幅に切ったベーコンとにんにくを炒める。ベーコンがカリカリになったら取り出しておいておく。",
+        "鍋にサラダ油を熱し薄切りにした玉ねぎを炒め、しんなりしてきたら一口大にさいた茸類を入れ炒める。油がまわったら火を止め、水と固形コンソメを入れ少し煮る。",
+        "煮ている間にパスタを少し硬めにゆでる。",
+        "煮ていたスープの味を塩・黒胡椒で整え、茹で上がったパスタを入れ混ぜる。",
+        "温めておいた器に麺→具→スープの順に入れ、パセリを散らして出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "277959",
+    "advice": "黒胡椒が好きな方は多めに入れちゃいましょう♪",
+    "history": "オニオンスープが好きなので＾＾",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/スープパスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オニオンスープパスタ",
+        "あったかいパスタ"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/277959/100x141c/4cd38bacb58040025b829a1ba06d74dd.jpg?u=264312&p=1214213547"
+}

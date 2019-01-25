@@ -1,0 +1,49 @@
+{
+    "name": "♢✧七夕そうめん✧♢",
+    "author": {
+        "@type": "Person",
+        "name": "なっち船長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2266230/464x260/dbb559fe93a0aba362f925625a947755.jpg?u=3492561&p=1372041268",
+    "datePublished": "2013-06-25",
+    "description": "七夕の日に食べたい。そんな楽しい素麺です。　　天の川に見たてた素麺に七夕の数字７をかけて　　　7種の具材を乗せました♬",
+    "recipeYield": "１人前～",
+    "recipeIngredient": [
+        {
+            "name": "素麺",
+            "quantity": "人数×100g"
+        },
+        {
+            "name": "■具材",
+            "quantity": "お好みで7種"
+        },
+        {
+            "name": "■めんつゆ",
+            "quantity": "市販のもので"
+        },
+        {
+            "name": "■薬味(ねぎ・生姜・胡麻など）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "具材の準備から。\nお好みのものをできれば7種用意してください。素麺も麺つゆもお好みのもので♬",
+        "参考までに。左からツナ・人参・ささみ・きゅうり・錦糸卵・カニカマ・大葉。飾りのオクラ❀"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2266230",
+    "advice": "7種類の具材を考えること☺七夕なので",
+    "history": "七夕をテーマにレシピを考えていた時に思いついたものです☆⌒いつもの素麺を楽しく美味しく食べたくて♬",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "素麺",
+        "具材",
+        "めんつゆ",
+        "薬味"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2266230/100x141c/3a0ddf1f2b2dc570c501d7f154926f4b.jpg?u=3492561&p=1372041268"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "切干大根のシーマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ちわここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/766698/464x260/9d645aa91e48cda40c6a967b272db6e5.jpg?u=640846&p=1268812906",
+    "datePublished": "2009-03-24",
+    "description": "お店のランチで食べて美味しかったので再現してみました♪100人の方に作って頂きましたありがとうございます♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "シーチキン",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根は5分ぐらい水に漬けてから水気をよく絞り、食べやすい大きさに切る",
+        "フライパン（鍋）に油を入れ熱し切干大根を軽く炒める",
+        "◎印を加え味が馴染む程度に炒めたら、火を止め冷ましておく",
+        "冷めた③にシーチキンとマヨネーズを加え混ぜれば出来上がり",
+        "水菜を混ぜても美味しいのでぜひ試してください"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "766698",
+    "advice": "マヨネーズの量はお好みで加減してください",
+    "history": "お店で食べて美味しかったので",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根"
+    ],
+    "tsukurepo_count": "871",
+    "thumbnail": "https://img.cpcdn.com/recipes/766698/100x141c/7e7606bebb7f7d59ac96022eeb640053.jpg?u=640846&p=1268812906"
+}

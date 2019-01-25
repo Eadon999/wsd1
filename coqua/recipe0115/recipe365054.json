@@ -1,0 +1,63 @@
+{
+    "name": "小松菜＆舞茸と豚肉炒め（一押しです）",
+    "author": {
+        "@type": "Person",
+        "name": "coffeemilkcrazy"
+    },
+    "image": "https://img.cpcdn.com/recipes/365054/464x260/76ac13c05d97a1a317bbf64f4162ae86.jpg?u=464683&p=1214215472",
+    "datePublished": "2007-04-25",
+    "description": "おつまみでも喜ばれました。小松菜がいっぱい食べられて、栄養もたっぷり！簡単で、まいたけの味が効いてます！ 簡単でおいしいので是非試してみてね！！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "まいたけ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "中華だし(鶏がらスープ等でも）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉、小松菜、まいたけを、一口大にする。",
+        "フライパンに油を引き、豚肉を炒める。\n\n豚肉に大体火が通ったらまいたけ、小松菜を入れ炒める。",
+        "酒、中華だし、オイスターソースを入れからめる。 \r\n火を止める直前に、水溶き片栗粉を入れてからめ、出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "365054",
+    "advice": "小松菜をチンゲン菜に、まいたけをしめじにしてもいけます！",
+    "history": "オイスターソースの味が好きなので以前から作っています。少し水分が出てしまったので、片栗粉でとろみをつけてみたら、おいしかったので、それ以来そういうレシピになりましたｗ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ 豚肉"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/365054/100x141c/c390d15a45b936a034b0383894376a8d.jpg?u=464683&p=1214215472"
+}

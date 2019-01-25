@@ -1,0 +1,43 @@
+{
+    "name": "アスパラの天ぷら♪",
+    "author": {
+        "@type": "Person",
+        "name": "foo♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1835449/464x260/5a46b1a20c8d9d9b729e4bc1c2c20880.jpg?u=3311160&p=1372396678",
+    "datePublished": "2012-06-01",
+    "description": "旬のうちの美味しい甘味を逃がさず味わいたいなら迷わず「天ぷら」です！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "美味しいアスパラ",
+            "quantity": "太いもの4～6本"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "美味しい塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラは下の方2～3㎝の皮をピーラーで剥く。\n",
+        "簡単にカラッと揚がる天ぷら粉で170～180℃で2～3分で揚げ、しっかりと油切りする。\n",
+        "美味しい塩をパラリと振り掛けて噛り付く(^^)"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1835449",
+    "advice": "旬のアスパラは柔らかいので、たらたら揚げずに余熱でも火が通りますから短時間で！これに限って“天つゆ”は厳禁！先ずは美味しい塩だけで味わって下さい",
+    "history": "北海道からアスパラが届きました。鮮度の落ちないうちに真っ先に作るのが天ぷら…甘味が凝縮されて旨し！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ 天ぷら"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1835449/100x141c/b83715c176595fdec13802285dccfe5d.jpg?u=3311160&p=1372396678"
+}

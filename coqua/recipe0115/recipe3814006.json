@@ -1,0 +1,54 @@
+{
+    "name": "ほうれん草としめじの塩さば和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/3814006/464x260/0c5bf50a3403ed17cfd3bdace85b41c5.jpg?u=2513693&p=1460988860",
+    "datePublished": "2016-09-30",
+    "description": "茹でたほうれん草と、しめじを焼いた塩サバをほぐしたもので和えてますとっても簡単だし、なんだか体によさそうでしょう",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "塩サバ（こんがり焼いて身をほぐしておく）",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "１袋（２００ｇ）"
+        },
+        {
+            "name": "しめじ（石づきを取りほぐす）",
+            "quantity": "１パック（１００ｇ）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は熱湯で根元を30秒、全体を入れてさらに30秒茹でる。冷水にとって水けを絞り3㎝長さに切る。",
+        "しめじは耐熱容器に入れ酒をふりかけラップをし、しんなりするまで加熱する（約1分）取り出して水けを絞る。\n\n\n\n",
+        "ボウルにほうれん草、しめじ、塩サバを入れて軽く混ぜ、しょうゆで調味する。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3814006",
+    "advice": "",
+    "history": "塩味のきいた塩サバは野菜の和え物にあいそうな感じがしたので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば ほうれん草",
+        "塩さば ほぐし",
+        "鯖ほぐし",
+        "塩さば しめじ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3814006/100x141c/1747038f292076c0a2ea31eae2403c51.jpg?u=2513693&p=1460988860"
+}

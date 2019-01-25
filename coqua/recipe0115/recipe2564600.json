@@ -1,0 +1,51 @@
+{
+    "name": "簡単☆高菜チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2564600/464x260/59fa31be4fac72f1ea347ed9fe493031.jpg?u=1690437&p=1396138412",
+    "datePublished": "2014-03-30",
+    "description": "2014・6・17話題入りに感謝です♪一人ご飯に最適。高菜漬けと卵で簡単チャーハン。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "200g"
+        },
+        {
+            "name": "高菜漬け",
+            "quantity": "50g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンを熱し油を入れ卵を割り入れたらご飯を入れ卵をほぐしながらご飯を手早く炒める。",
+        "高菜を加えて更に炒め塩コショウして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2564600",
+    "advice": "手元にごはん、たまご、高菜、調味料を準備しておくと手早くできます。しらすがあればさらに美味しく出来ます。うちの高菜は漬けものをごま油で炒めごまを振ってあります。",
+    "history": "一人ご飯にすぐ出来るチャーハンを作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/お漬物を使ったチャーハン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高菜 感謝",
+        "高菜チャーハン"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/2564600/100x141c/8d87fb8b0dd2a0270d257bbce5c8854c.jpg?u=1690437&p=1396138412"
+}

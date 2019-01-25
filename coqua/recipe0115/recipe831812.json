@@ -1,0 +1,47 @@
+{
+    "name": "お酒のお供に♫茄子のガーリックソテー",
+    "author": {
+        "@type": "Person",
+        "name": "ポヨ太"
+    },
+    "image": "https://img.cpcdn.com/recipes/831812/464x260/1f2037bf1c3c1b069576f9f564f9459d.jpg?u=990636&p=1244432318",
+    "datePublished": "2009-06-08",
+    "description": "【１００れぽ感謝♪】お酒がついつい進んでしまう大人の味おつまみにどうぞ♫",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "２本"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "３カケ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ３〜４"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子を厚さ１cmの斜め切りにし、塩をふって約１５分アク抜きをする。水で洗って絞り、水気をふき取る。",
+        "にんにくを潰して芯を取りのぞく。",
+        "オイル、にんにくを弱火で温める。\r\nオイルに香りが移ったら取りだす。",
+        "茄子を中火で炒めて両面に焼き色が付いたら完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "831812",
+    "advice": "①にんにくを焦がさない",
+    "history": "大量の茄子の消費に",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす ガーリックソテー",
+        "なす おつまみ",
+        "お酒のあて 茄子",
+        "なす ソテー"
+    ],
+    "tsukurepo_count": "160",
+    "thumbnail": "https://img.cpcdn.com/recipes/831812/100x141c/23384914d113b99f4bd75db1e7ed8330.jpg?u=990636&p=1244432318"
+}

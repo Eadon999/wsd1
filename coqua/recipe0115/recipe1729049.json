@@ -1,0 +1,51 @@
+{
+    "name": "たぬき（天かす）の冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "クッキーシアス"
+    },
+    "image": "https://img.cpcdn.com/recipes/1729049/464x260/36e858a26009fd3b024c2f44a587fa9e.jpg?u=2031294&p=1372778509",
+    "datePublished": "2012-03-07",
+    "description": "揚げ玉と青ネギをのせた冷奴ですサクサクした食感が美味しい～♪7/9/2013✿２度目の話題入り　どうも有り難う",
+    "recipeYield": "豆腐一丁分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "揚げ玉",
+            "quantity": "大さじ３~"
+        },
+        {
+            "name": "ネギのみじん切り",
+            "quantity": "大さじ２~"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ１~"
+        },
+        {
+            "name": "七味（好みで）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を好みの大きさに切って器に盛る。麺つゆは少し濃い目に水で薄める。",
+        "切った豆腐に揚げ玉とみじん切りにしたネギをのせて麺つゆをかける。好みで七味を振って出来上がりです。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1729049",
+    "advice": "＊絹、木綿どちらでも好みの豆腐を使って下さい＊冬は温奴でも",
+    "history": "天かすが余っていたのでかけてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷奴",
+        "天かす"
+    ],
+    "tsukurepo_count": "492",
+    "thumbnail": "https://img.cpcdn.com/recipes/1729049/100x141c/1b5463cd6e985765bcbf9a7c6906a421.jpg?u=2031294&p=1372778509"
+}

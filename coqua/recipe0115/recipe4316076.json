@@ -1,0 +1,53 @@
+{
+    "name": "オッサンのもずく豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/4316076/464x260/ff9210f45d3fc9a708662e207a7a9322.jpg?u=3323767&p=1485574037",
+    "datePublished": "2017-01-28",
+    "description": "単に乗せるだけ。ヘルシーだとは思うけど、料理と言えるのかなぁ。。。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1／２丁"
+        },
+        {
+            "name": "もずく",
+            "quantity": "７０グラム"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "１本"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "もずくに麺つゆ、白だしを入れて混ぜます。",
+        "豆腐に１をかけ、刻んだネギをかけたら出来上がり☆"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "4316076",
+    "advice": "特にコツは、ありません。もずくは、１カップで70グラムでした。",
+    "history": "冷蔵庫にもずくと豆腐があったので、簡単にアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": [
+        "もずく 4位"
+    ],
+    "related_keywords": [
+        "もずく",
+        "もずく豆腐"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/4316076/100x141c/2f1f5a4e9794adec65e4b14f78ca8a93.jpg?u=3323767&p=1485574037"
+}

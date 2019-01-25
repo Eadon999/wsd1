@@ -1,0 +1,56 @@
+{
+    "name": "あと一品に♪キュウリとジャガイモの中華炒",
+    "author": {
+        "@type": "Person",
+        "name": "みなこっこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/849809/464x260/b0b9f0e833cef8223fdfa34cc7d760c3.jpg?u=234577&p=1246096605",
+    "datePublished": "2009-06-27",
+    "description": "シャキシャキ感がたまらない☆癖になる美味しさで一皿ぺろり！材料も安い物ばっかりで経済的です♪",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ジャガイモ",
+            "quantity": "大１個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "中華スープの素（なくてもOK）",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリとジャガイモを細めの千切りにして、ジャガイモは水にさらす。",
+        "フライパンにみじん切りにしたニンニクをごま油で香りが出るまで炒め、そこにジャガイモを入れ火が通るまで炒める。",
+        "中華スープの素、塩こしょうを入れ全体になじんだら、キュウリを入れてさっと炒めて完成。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "849809",
+    "advice": "中華スープの素（私は『味覇』を使ってます）がなければコンソメでもOKだし、それもなければ塩こしょうだけでも美味しいよ☆",
+    "history": "サラダじゃ物足りないけど、こってり炒め物は重いし・・・、という時に生まれたレシピです♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ 中華炒め"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/849809/100x141c/cffe34209d74a013fa442f57f0f10ad0.jpg?u=234577&p=1246096605"
+}

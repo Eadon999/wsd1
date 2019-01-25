@@ -1,0 +1,66 @@
+{
+    "name": "豚肉と大根の和風煮込み",
+    "author": {
+        "@type": "Person",
+        "name": "chikopi♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1607265/464x260/4b0f9f7a6240f61c34ef52a57841d7ce.jpg?u=3236727&p=1438737047",
+    "datePublished": "2011-10-23",
+    "description": "大根に味が良くしみた煮込み。豚バラのコクでごはんによく合う！簡単なのに絶品でわが家の定番です。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "大根",
+            "quantity": "半分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "30～40cc"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラは食べやすい大きさにカット。大根は厚さ1センチくらいにイチョウ切り。",
+        "油を熱した鍋で、豚バラを炒め、火が通ったら大根を入れて炒める。",
+        "大根に火が通ったら、水とだしを入れる。少し煮立たせる。",
+        "煮立ったら、酒、みりん、砂糖を入れよく混ぜ、醤油を入れて味を調える。",
+        "後はひたすら煮込んで出来上がり！ストーブの上で1時間くらい煮込むといい感じに味がしみ込み美味しい！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1607265",
+    "advice": "ストーブがない場合は、コンロで20分くらい煮込めばOK",
+    "history": "ストーブを使えば、味のしみ込み具合が違いますよ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉 煮込み 和風"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1607265/100x141c/d892fbe8d3166c3ccea7c5b0ec92bbc3.jpg?u=3236727&p=1438737047"
+}

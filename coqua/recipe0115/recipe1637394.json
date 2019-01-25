@@ -1,0 +1,61 @@
+{
+    "name": "かんたんバター醤油うどん",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/1637394/464x260/d8adf9973860e774a8f5c92c78c452b2.jpg?u=3707330&p=1372170550",
+    "datePublished": "2011-11-26",
+    "description": "5分で出来る！！濃厚バターうどんをおためしあれ♪話題入り感謝(*≧∀≦*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "2個"
+        },
+        {
+            "name": "バター",
+            "quantity": "20グラム"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "小口切りをお好みで"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "粒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "器にバターを入れておきます",
+        "冷凍うどんを好みの硬さにゆでる（1分～2分）",
+        "茹で上がったうどんを直接バターの入った器に入れる",
+        "軽く混ぜてバターが絡んだら、粉チーズをふりかける",
+        "刻みのり、ネギ、粒コショウをトッピングしたら、だし醤油をまわしかける"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1637394",
+    "advice": "熱々のうどんをすぐにバターと絡める、これだけです(^^)v",
+    "history": "休みの日、家にある物でパパッと作りたかったので＊",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷凍うどん バター醤油"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1637394/100x141c/d9c3cc7a13ee09c5f5e2d16960cd07d3.jpg?u=3707330&p=1372170550"
+}

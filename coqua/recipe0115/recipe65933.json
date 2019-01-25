@@ -1,0 +1,67 @@
+{
+    "name": "Hummus",
+    "author": {
+        "@type": "Person",
+        "name": "Yちゃん食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/65933/464x260/6574811ddee988813b5e4eea814eb406.jpg?u=12425&p=1214209402",
+    "datePublished": "2002-10-01",
+    "description": "フムス、ハムス、ハマス・・・アラビア語らしいのでどの呼び方が一番近いのかわからないけど、ひよこ豆のペーストです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ひよこ豆（ガルバンゾ）",
+            "quantity": "１缶（４２５ｇ）"
+        },
+        {
+            "name": "缶詰の汁",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "タヒニ（白ごまペースト）",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "レモン",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "クミン",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4～"
+        }
+    ],
+    "recipeInstructions": [
+        "塩以外の材料をミキサーかフードプロセッサーに入れ、なめらかになるまで攪拌します。",
+        "缶詰の塩分が影響するので、塩は最後に様子を見ながら入れて下さい。",
+        "トーストした全粒粉パンにたっぷり塗るのもおいしくておすすめ。",
+        "ピタパンとは相性ばつぐん"
+    ],
+    "cookTime": null,
+    "recipe_id": "65933",
+    "advice": "ピタパンや全粒粉パンと一緒に食べるとおいしい。ディップとしてクラッカーや野菜と合わせたり、サンドイッチのマヨ代わりにも。",
+    "history": "レシピは随分いろいろあるみたいですが、あれこれ参考にしつつ、味を見つつこれが好みかな、と。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/ひよこ豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひよこ豆",
+        "にんにく",
+        "タヒニ",
+        "レモン"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/65933/100x141c/58a42e324ead378c384c97d7c9e45d0a.jpg?u=12425&p=1214209402"
+}

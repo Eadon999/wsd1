@@ -1,0 +1,53 @@
+{
+    "name": "＊長芋と小松菜のおかか炒め＊",
+    "author": {
+        "@type": "Person",
+        "name": "happyspice"
+    },
+    "image": "https://img.cpcdn.com/recipes/2472512/464x260/a0eaf3c1346c7198bb24c3ae464aae15.jpg?u=3874463&p=1390393776",
+    "datePublished": "2014-01-22",
+    "description": "おつまみにもオススメですヽ(・∀・)ノ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "★長芋（短冊切り）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★小松菜（食べやすく切る）",
+            "quantity": "１株"
+        },
+        {
+            "name": "麺つゆ(３倍濃縮)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "油",
+            "quantity": "小さじ１/2"
+        }
+    ],
+    "recipeInstructions": [
+        "★を油で炒める。",
+        "１に麺つゆを加えて味をなじませる。",
+        "仕上げに鰹節をかけて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2472512",
+    "advice": "長芋のサクサク感を味わうために炒めすぎないように気をつけてね！",
+    "history": "長芋をたくさん買ったのでレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 長芋",
+        "長芋と小松菜の炒め物"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2472512/100x141c/3ad81e4fb62591794758c6bf9882f8e4.jpg?u=3874463&p=1390393776"
+}

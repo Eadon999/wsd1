@@ -1,0 +1,56 @@
+{
+    "name": "★簡単！さつまいもの炊き込みご飯★",
+    "author": {
+        "@type": "Person",
+        "name": "あやのんのママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2741931/464x260/abf0b6990f5eeaa94f34e478e1559929.jpg?u=10134309&p=1407488326",
+    "datePublished": "2014-08-08",
+    "description": "子どもたちが大好きなさつまいもご飯です♪話題のレシピになりました。ありがとうございます！",
+    "recipeYield": "3人前",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "2合"
+        },
+        {
+            "name": "金時さつまいも",
+            "quantity": "1本"
+        },
+        {
+            "name": "黒ゴマ(ごま塩でもok)",
+            "quantity": "少々"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもはよく洗い1.5センチ角に切る。皮は、私はむきましたが、洗って皮付きでも大丈夫です。",
+        "米を洗い普通よりも気持ち多めに水を入れて調味料を入れ、10分置きます。そこへ芋を入れ白ご飯と同じようにたきます。",
+        "炊き上がったら、お茶碗に盛り、黒ゴマをふりかけたら出来上がりです。",
+        "10月20日\n\nさつまいもと黒米を小さじ1いれてつくりました。"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "2741931",
+    "advice": "黒ゴマをごま塩にかえても、美味しいです。",
+    "history": "金時さつまいもをもらったので、希望を聞いて作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "金時さつまいも"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2741931/100x141c/88f4c379d4f62da9b71f5405deeb8cc3.jpg?u=10134309&p=1407488326"
+}

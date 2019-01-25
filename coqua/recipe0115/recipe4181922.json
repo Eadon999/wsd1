@@ -1,0 +1,72 @@
+{
+    "name": "白菜とベーコンのとろ〜りみそミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4181922/464x260/d41662ff9e4349b17cc72c8615b4424b.jpg?u=9664115&p=1479135364",
+    "datePublished": "2016-11-16",
+    "description": "スープの半分は優しさで出来ています。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "大きめ2枚分ぐらい"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "4〜5枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1塩"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ1程度"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100cc"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜・スライスベーコンを1cmほどの短冊切りに。",
+        "鍋にオリーブオイルをひき、1の白菜とベーコンを炒める。\nひとつまみの塩をふる。\n中火で。",
+        "白菜がくたっとしてきたら、\n火を少し弱めて\nコンソメ・水・塩昆布を入れ沸騰する手前まで煮る。",
+        "味噌を入れ、牛乳と片栗粉を混ぜたものを入れる。\n数分コトコト煮たら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4181922",
+    "advice": "とろみ加減、塩加減はお好みで。",
+    "history": "白菜のおいしい季節、優しいスープを。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 スープ 牛乳",
+        "白菜 スープ 牛乳 味噌",
+        "ミルク味噌スープ",
+        "白菜 ベーコン スープ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/4181922/100x141c/fb3da7af9d98c96045c9fbcde880e571.jpg?u=9664115&p=1479135364"
+}

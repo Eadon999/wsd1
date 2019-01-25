@@ -1,0 +1,66 @@
+{
+    "name": "もやしのしょうが入り中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2573466/464x260/ab9e392c9e0a710436c3a4ddcb1026ef.jpg?u=4819316&p=1396677099",
+    "datePublished": "2014-04-05",
+    "description": "14/6/29話題入り有難うございます、ぴりっと生姜が効いた中華のもやしスープです、あたたまって下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１／４袋（５０ｇ）"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうが（チューブ）",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を沸騰させ、もやしを入れて加熱し柔らかくなると、鶏がらスープの素、しょうゆ、ごま油を入れてひと煮立ちさせる",
+        "器におろししょうがを入れ、１を入れてごまとねぎを散らす"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2573466",
+    "advice": "調味料はお好みで加減して下さい",
+    "history": "自分のレシピ「わかめスープ」（2242281）を参考にしています、ぴりっとしょうがを効かせた中華スープが食べたくて、もやしで作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ねぎ",
+        "しょうが",
+        "水"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2573466/100x141c/6634fb2bc377b0046a1928ace7763168.jpg?u=4819316&p=1396677099"
+}

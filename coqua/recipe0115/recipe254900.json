@@ -1,0 +1,70 @@
+{
+    "name": "☆ほうれん草の肉味噌和え☆",
+    "author": {
+        "@type": "Person",
+        "name": "キャラメルバニラ"
+    },
+    "image": "https://img.cpcdn.com/recipes/254900/464x260/fe82ddd2fb900ac97930bff17715fb5d.jpg?u=64425&p=1214213033",
+    "datePublished": "2006-05-19",
+    "description": "ごまとほんのり生姜が香る和え物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１/２束"
+        },
+        {
+            "name": "豚ミンチ",
+            "quantity": "25ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●濃口醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "●塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "☆仕上げ　濃口醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆すりおろし生姜",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて、３センチ位の長さに切る。",
+        "小さな鍋にごま油を熱し、豚ミンチを炒める。●の調味料を加えて冷ましておく。",
+        "ゆでたほうれん草とミンチをボウルに入れ、☆と一緒に合える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "254900",
+    "advice": "鶏や合挽きミンチで作っても良いと思います。冷蔵庫で冷やすと、ミンチの脂が固まってしまうので、冷やさないほうが良いです。",
+    "history": "冷蔵庫にあるもので簡単に作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "豚ミンチ",
+        "ごま油",
+        "酒"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/254900/100x141c/3c1a2e0651535324060f3d5349ac8424.jpg?u=64425&p=1214213033"
+}

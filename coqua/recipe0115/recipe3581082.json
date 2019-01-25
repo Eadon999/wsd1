@@ -1,0 +1,50 @@
+{
+    "name": "ハムとチーズのおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "てん吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3581082/464x260/fa5165c730039fe3f8824009dbf7e440.jpg?u=13466102&p=1450511396",
+    "datePublished": "2015-12-19",
+    "description": "とっても簡単、ハムとチーズのおにぎり。女子のお弁当にどうぞ^^あ、男子のお弁当にもどうぞ（笑）",
+    "recipeYield": "3個分くらい",
+    "recipeIngredient": [
+        {
+            "name": "ごはん（茶碗軽く２杯分）",
+            "quantity": "約３００ｇ"
+        },
+        {
+            "name": "ハム",
+            "quantity": "１~２枚"
+        },
+        {
+            "name": "シュレッドチーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "マジックソルト（塩コショウでも）",
+            "quantity": "少々"
+        },
+        {
+            "name": "のり（１２切り）",
+            "quantity": "6枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに入れた温かいごはんに刻んだハムと他の材料を入れ、よく混ぜます。",
+        "おにぎりににぎって海苔を巻いたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3581082",
+    "advice": "あったかいご飯で作るのがポイントですね～チーズが溶けていい感じになります^^冷めるとそれが固まって、またいい感じ^^",
+    "history": "こういうのはきっとあるんだろうけど、お弁当にちょっと変わったのが欲しいなって思って。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハムおにぎり"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3581082/100x141c/12332e154571ec8785c254bdf216e5b5.jpg?u=13466102&p=1450511396"
+}

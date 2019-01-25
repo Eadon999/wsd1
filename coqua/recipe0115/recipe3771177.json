@@ -1,0 +1,42 @@
+{
+    "name": "簡単！うまっ♡キャベツとツナのサラダ♡",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/3771177/464x260/b818dd36cbc1b5b17a11d343d95c53e6.jpg?u=7113147&p=1479879651",
+    "datePublished": "2016-03-27",
+    "description": "たくさん作ればサンドの具にも(*^_^*)",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "シーチキン",
+            "quantity": "70g"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切りし、塩でもんで10分置いておく。軽く水で洗いよくしぼる。",
+        "シーチキンをオイルを絞らないでキャベツと和える。ドレッシングいらずで完成です♡"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3771177",
+    "advice": "本当に簡単です(*^_^*)",
+    "history": "シーチキン大好き家族に♡サンドしても美味しくすぐなくなります(•ө•)♡",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ツナ サラダ"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/3771177/100x141c/300f85463dd6a3dc2633f3595c91e01d.jpg?u=7113147&p=1479879651"
+}

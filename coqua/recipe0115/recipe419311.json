@@ -1,0 +1,50 @@
+{
+    "name": "✿鱈の味噌煮✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/419311/464x260/8bd8829c827ca48f0c0af4618390ec38.jpg?u=271833&p=1267098522",
+    "datePublished": "2007-08-20",
+    "description": "調理時間約10分☆柔らかく煮えた鱈に味噌がよく合い美味しいです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "たら",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "300ml"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に☆を入れて火にかけ、沸騰したら火を弱めて味噌を溶き、たらを入れる。",
+        "蓋をして弱めの中火で7～8分煮て出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "419311",
+    "advice": "煮えたあと、お鍋の中でそのまま冷ますと味がよくしみます。",
+    "history": "煮魚が大好き。味噌味でも試してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たらの味噌煮"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/419311/100x141c/224c3eaab9a83d7eff55aa26cf2a272a.jpg?u=271833&p=1267098522"
+}

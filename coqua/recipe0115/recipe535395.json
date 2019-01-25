@@ -1,0 +1,70 @@
+{
+    "name": "オクラの鰹節和え",
+    "author": {
+        "@type": "Person",
+        "name": "坂田夫婦"
+    },
+    "image": "https://img.cpcdn.com/recipes/535395/464x260/199a87a87fbfd7bc4313d0ea165d88d0.jpg?u=727966&p=1214219245",
+    "datePublished": "2008-03-22",
+    "description": "食卓にな～んかもう一品欲しいときに。オクラさえあれば簡単にできますよ～。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "１０本"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "２パック"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "◇だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇醤油",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "手に塩をつけオクラをこすり合わせてうぶ毛をとる。",
+        "オクラを熱湯で２分ゆでる。",
+        "ゆであがったら冷水で冷まし、５ミリ程度に切る。",
+        "◇を混ぜ合わせオクラ、鰹節を入れねばりがでるまでよ～く混ぜる。塩で味を調える。",
+        "お皿に盛って梅肉をトッピングすれば完成！！",
+        "お陰様で話題のレシピ入りさせていただきました。皆様ありがとうございます♪♪♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "535395",
+    "advice": "オクラは茹ですぎないように！！茹で上がったら手早く冷水で冷ますとシャキッとします。",
+    "history": "食卓に一品足りなかったのであるもので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "かつおぶし",
+        "梅干し",
+        "だし"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/535395/100x141c/13d9a45e272deb903fbde72d202e3470.jpg?u=727966&p=1214219245"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "じゃがいもともあえ",
+    "author": {
+        "@type": "Person",
+        "name": "Keit3"
+    },
+    "image": "https://img.cpcdn.com/recipes/1568524/464x260/85d4ab53e5374a7ee8618d52f4f010c5.jpg?u=1383293&p=1315802566",
+    "datePublished": "2011-09-12",
+    "description": "簡単！じゃがいも料理じゃがいもと調味料さえあれば、すぐできます。７/１話題入り♡ありがとうございます♪",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "小４個"
+        },
+        {
+            "name": "☆みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは、蒸すかゆでる（レンジでチンしてもよい）",
+        "☆印を、すり鉢で合わせる",
+        "じゃがいもの半分を２に入れ、なめらかにする",
+        "残りのじゃがいもを、1口大に切り、３に合わせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "1568524",
+    "advice": "お味噌は、家庭によって違うので、味付けはお好みで！",
+    "history": "お味噌料理が好きで、何もない時によく作る1品です。義母がよく作っていたそうですが、直接教えてもらった事はなく、自分なりに作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "みそ",
+        "砂糖",
+        "すりごま"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1568524/100x141c/c4bda556f5422470e087b1c426be7cbc.jpg?u=1383293&p=1315802566"
+}

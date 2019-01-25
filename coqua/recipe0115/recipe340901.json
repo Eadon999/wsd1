@@ -1,0 +1,51 @@
+{
+    "name": "簡単！　ニラとたまご炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Fire-King"
+    },
+    "image": "https://img.cpcdn.com/recipes/340901/464x260/0666a94bea1f60ef41064d52c641dd09.jpg?u=394490&p=1214214953",
+    "datePublished": "2007-03-08",
+    "description": "ニラと卵を炒めるだけ！簡単！安い！うまい！ でも、レシピと言ってよいのか・・・先にあやまります。ごめんなさい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1/3袋分"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵はといておきます。\r\nニラは３cmに切る。",
+        "フライパンを熱しごま油を入れ、ニラと卵を炒めます。",
+        "塩、コショウで味を調えるだけです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "340901",
+    "advice": "炒める時、フライパンの半分でニラを炒め、もう半分で卵を炒り、卵に少し火が通ったらニラと混ぜるとキレイです。",
+    "history": "今日は面倒だな～と言う日に冷蔵庫にあるもので作ったのが始まりです。面倒な日は調味料も最小限で作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "ごま油",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/340901/100x141c/9c29ab24e817430b139b2fa64b9556c2.jpg?u=394490&p=1214214953"
+}

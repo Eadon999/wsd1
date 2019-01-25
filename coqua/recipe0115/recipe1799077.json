@@ -1,0 +1,46 @@
+{
+    "name": "キスのカリカリ揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "ダウリ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1799077/464x260/33d230b81bf944ec35370bcecb5fb704.jpg?u=4170772&p=1335964425",
+    "datePublished": "2012-05-02",
+    "description": "骨ごとサクサクと食べれてとても美味！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キス（小さくてもOK)",
+            "quantity": "６尾"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キスはきれいに鱗と頭を取って、三枚おろしにするような感じでしっかりと切れ目を入れる。",
+        "1に塩を軽く振って、片栗粉を全体にしっかりとまぶす。",
+        "２を１8０℃位の油で時間をかけてカリッとするまで揚げる。",
+        "3をお皿に盛り付けて、お好みでレモンを添えれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1799077",
+    "advice": "骨はつけたままですので、三枚おろしが出来なくても大丈夫、ある程度切れ目が入ればOK。骨を捨てないためフライか天ぷらに出来ない小キスでも大丈夫。",
+    "history": "骨が大好きなので、つけたまま美味しく食べたいなと思い作ってみたら、結構いい感じに仕上がりました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/きす"
+    ],
+    "rankings": [
+        "キス 4位"
+    ],
+    "related_keywords": [
+        "キス"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/1799077/100x141c/1ac8b93d27010db6b5d1b932afe7ac2b.jpg?u=4170772&p=1335964425"
+}

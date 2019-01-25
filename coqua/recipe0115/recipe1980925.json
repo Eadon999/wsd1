@@ -1,0 +1,55 @@
+{
+    "name": "オクラの豚肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1980925/464x260/3848717d5c1394d303c9315458af5cd6.jpg?u=1298841&p=1349233203",
+    "datePublished": "2012-10-03",
+    "description": "【つくれぽ６6】話題入り☆薄切りの豚肉で巻いたオクラを醤油とみりんで味付けした簡単おかず♪お弁当や野菜が苦手なお子様に☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "しゃぶしゃぶ用豚肉",
+            "quantity": "オクラと同じ枚数"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラの硬い部分を包丁で丁寧に取り除き、豚肉を巻きつける。",
+        "油を引いたフライパンに肉の巻き終わりを下にして焼き、焼き目がついたら上下を返し、軽く火を通す。",
+        "醤油とみりんを加え、全体に絡めながら少々煮詰まる程度に火を通す。",
+        "【ブログ】\n\nLINEで更新通知が届きます♪\n\nhttp://ys-recipe.blog.jp/ "
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1980925",
+    "advice": "クックパッドに載せていないレシピも沢山あるのでブログへも是非遊びに来てくださいね☆ ",
+    "history": "お肉と野菜のバランスのよい副菜☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しゃぶしゃぶ用豚肉",
+        "オクラ",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/1980925/100x141c/5d1189a920a93ca3118609a2f63bf849.jpg?u=1298841&p=1349233203"
+}

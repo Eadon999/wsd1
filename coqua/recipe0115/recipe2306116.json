@@ -1,0 +1,51 @@
+{
+    "name": "厚揚げのマヨポンソテー",
+    "author": {
+        "@type": "Person",
+        "name": "★Ayako"
+    },
+    "image": "https://img.cpcdn.com/recipes/2306116/464x260/69ddbdcba12164aa6c17e5fa40274035.jpg?u=4834749&p=1375621502",
+    "datePublished": "2013-08-04",
+    "description": "2013.10.5 話題入り感謝^^ポン酢でさっぱりしつつ、マヨネーズでコクもあり美味しいですもう1品ほしいときに♪",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "1つかみ"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げを食べやすい大きさに切る",
+        "熱したフライパンに、マヨネーズを入れて、厚揚げを両面軽く焦げ目がつくまでソテーする",
+        "ポン酢を回し入れて、火をとめる",
+        "お皿に盛って、刻みネギをかけたら完成♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2306116",
+    "advice": "特にありません☆",
+    "history": "厚揚げが好きで、煮たり焼いたりして、よく食べるのですが、いつもとちょっと違い、マヨネーズで焼いてみたら美味しいかも..と思って作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "マヨネーズ",
+        "ポン酢",
+        "刻みネギ"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/2306116/100x141c/885446a424b6affff26521029ee70aac.jpg?u=4834749&p=1375621502"
+}

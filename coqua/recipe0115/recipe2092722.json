@@ -1,0 +1,43 @@
+{
+    "name": "パパッと⭐ダイコンゆかり和え",
+    "author": {
+        "@type": "Person",
+        "name": "あぐうあ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2092722/464x260/ba24e35ff1b1ac5b8f2e0ab01a514d1d.jpg?u=5463894&p=1418156713",
+    "datePublished": "2013-01-23",
+    "description": "簡単に箸休めの一品できます。",
+    "recipeYield": "4人分程度",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "約１０cm程度お好みで増減"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "市販のゆかり",
+            "quantity": "小さじ1程度お好みで増減"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は薄い輪切りにしてから細く切る。",
+        "細く切った大根に塩少々をふり、しばらくおいてから洗ってしぼる。",
+        "しぼった大根をゆかりで和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2092722",
+    "advice": "翌日も美味しく頂けます。大根はピンク色になってますが(･_･;✳︎ゆかりにも梅入りがありました。こちらで作ると梅風味も美味しいです。",
+    "history": "あっさりしたものが欲しくて、たまたまやってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根ゆかり和え"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2092722/100x141c/4696bad882d258e5ac002826086bc0a7.jpg?u=5463894&p=1418156713"
+}

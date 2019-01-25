@@ -1,0 +1,50 @@
+{
+    "name": "初めてでも簡単♪ニラ玉（ふわふわ卵）",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3160427/464x260/db3a121b9d7351a40cc951ed08dd0e3f.jpg?u=4376699&p=1431516738",
+    "datePublished": "2015-05-13",
+    "description": "卵を先に炒めてフワフワに！140kcal/人",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "■ふわふわ卵\nフライパンに油大さじ１を強火で2分\nボールで卵を溶いて一気に流しいれ箸でさっと混ぜてボールに戻す",
+        "ニラの茎を切り落とし葉を3cm程に切り強火で１分炒める\n調味料を加え中火で1分炒める\n卵を戻し全体を混ぜて完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3160427",
+    "advice": "ニラがしんなりすれば早めに卵を戻してもＯＫ",
+    "history": "ニラ玉を初めて作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ玉 簡単 ふわふわ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/3160427/100x141c/7dee71c26b350e17af54b4947861c65c.jpg?u=4376699&p=1431516738"
+}

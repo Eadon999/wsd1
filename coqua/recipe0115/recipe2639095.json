@@ -1,0 +1,61 @@
+{
+    "name": "カワハギの煮つけ",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2639095/464x260/78e2d6c3e8590dd11118daf70eb1a657.jpg?u=3099986&p=1400755162",
+    "datePublished": "2014-05-22",
+    "description": "簡単。おいしい。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カワハギ",
+            "quantity": "1匹分"
+        },
+        {
+            "name": "水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "1/3カップ"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●濃口しょうゆ",
+            "quantity": "大さじ4"
+        }
+    ],
+    "recipeInstructions": [
+        "カワハギ。",
+        "水に●の調味料を軽く煮たてて、カワハギを入れる。(中華鍋を使っています)",
+        "キッチンペーパーで落し蓋をする。",
+        "蓋をして煮る。",
+        "煮えました。",
+        "5の後で、1～2分、煮汁をかけながら味を含ませます。",
+        "皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2639095",
+    "advice": "大きな卵やきももついていて、身の部分とはちがった おいしさです。",
+    "history": "美味しそうなので買った。(兵庫県・淡路島産・天然)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": [
+        "カワハギ 10位"
+    ],
+    "related_keywords": [
+        "カワハギ 煮付け"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2639095/100x141c/572bca97bc477782dadaf68bf26ff8d7.jpg?u=3099986&p=1400755162"
+}

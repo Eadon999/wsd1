@@ -1,0 +1,68 @@
+{
+    "name": "豚バラの味噌照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/780362/464x260/98f6ab33a97f2e8ba978e48c674593d9.jpg?u=39686&p=1239322950",
+    "datePublished": "2009-04-10",
+    "description": "生姜たっぷりの味噌タレを絡めた豚バラの照り焼き。味噌の味でバラ肉がしつこくなく食べられます。",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉（塊）",
+            "quantity": "500ｇ"
+        },
+        {
+            "name": "生姜すり下ろし",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ菜（洗って水きり）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "キャベツの千切り",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉は7ｍｍ厚さに切る。タレの材料は全て合わせておく。",
+        "テフロンのフライパンを熱してばら肉をこんがりと焼き目がつくように両面焼く。タレを入れて煮絡める。",
+        "皿にサラダ菜、キャベツの千切りを盛り、２を盛り付けて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "780362",
+    "advice": "焼いている途中で脂が多く溶け出してきたらキッチンペーパーでふき取ってください。",
+    "history": "レシピブログモニターのハウスすりおろししょうがレシピ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラの味噌照り焼き",
+        "豚 味噌"
+    ],
+    "tsukurepo_count": "161",
+    "thumbnail": "https://img.cpcdn.com/recipes/780362/100x141c/ce8297f384100ba9b6991c67411ba1ee.jpg?u=39686&p=1239322950"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "かぼちゃ煮物リメイクもっちり焼きおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3923977/464x260/2b61137af3f3cb2ccb4094ec3f865e3e.jpg?u=13556534&p=1466054620",
+    "datePublished": "2016-06-16",
+    "description": "子供も喜ぶカボチャ煮物リメイク。ご飯を軽くつぶしかぼちゃ煮物を混ぜ、外はカリッ中はモチもちっとした焼きおにぎりです。",
+    "recipeYield": "１人分ミニサイズ２個分",
+    "recipeIngredient": [
+        {
+            "name": "温かいご飯",
+            "quantity": "８０g"
+        },
+        {
+            "name": "かぼちゃ煮物",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに温かいご飯を入れ綿棒である程度つぶす。かぼちゃ煮物、片栗粉を加え混ぜて２等分にして、おにぎりを握る",
+        "２等分したおにぎりを両面に軽く片栗粉をまぶす",
+        "フライパンにゴマ油を入れ両面ほどよい焼き色がついたら出来上がり",
+        "おにぎりがあたたかいうちに海苔を巻く"
+    ],
+    "cookTime": null,
+    "recipe_id": "3923977",
+    "advice": "特にコツはありません。簡単に作れます。",
+    "history": "表面はカリッとして中はもっちりのかぼちゃ煮物リメイクおにぎりです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ煮物 リメイク"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3923977/100x141c/f28ea5cb28c7fe47f0d735e05f936ca0.jpg?u=13556534&p=1466054620"
+}

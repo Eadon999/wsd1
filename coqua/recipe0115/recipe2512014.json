@@ -1,0 +1,48 @@
+{
+    "name": "しめじ納豆",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2512014/464x260/6f3d854758930cbb51730f50fb6b3158.jpg?u=2124468&p=1392814354",
+    "datePublished": "2014-02-19",
+    "description": "ブナシメジの香りと食感が納豆の香りになじみます。お酒にもご飯にもよく合います。",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "小1パック"
+        },
+        {
+            "name": "ブナシメジ",
+            "quantity": "1/4パック"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "練り辛子（チューブ）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ブナシメジの石突を取除き、ばらして器に入れる。\nレンジで30秒ほど加熱。\n水が出るので切っておく。",
+        "納豆をよく練り、添付のタレを加えてさらに練る。\nこれを１のブナシメジにのせて、刻みネギを散らしてできあがり。",
+        "練り辛子を添えてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2512014",
+    "advice": "",
+    "history": "レンジでチンでブナシメジの香りが楽しめる！！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ納豆"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2512014/100x141c/b5efc4f8710e67498e8d1498f67d13a5.jpg?u=2124468&p=1392814354"
+}

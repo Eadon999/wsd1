@@ -1,0 +1,45 @@
+{
+    "name": "ピリッと辛いおにぎり①ゆかり",
+    "author": {
+        "@type": "Person",
+        "name": "シャンプーハット"
+    },
+    "image": "https://img.cpcdn.com/recipes/1190852/464x260/44b8516183b0290f6690c3e7d2bd20de.jpg?u=2367334&p=1310695480",
+    "datePublished": "2010-07-20",
+    "description": "ゆかりおにぎりに粗引きこしょうをプラスしたら意外なおいしさ発見です",
+    "recipeYield": "小さめ２個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "粗引き黒こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ゆかりふりかけ",
+            "quantity": "小さじ１/２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "ごはんにゆかり、粗引きこしょうを混ぜてにぎるだけです",
+        "今回は三島のゆかりを使いました。ゆかりの塩味だけで充分だと思いますが、足りなければ塩を付けてにぎって下さい。",
+        "鮭フレークバージョンID:1190857\n塩昆布バージョン\nID:1190251\nおかかバージョン\nID:1190856"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1190852",
+    "advice": "粗引きこしょうの量はお好みでどうぞ7/15写真変更",
+    "history": "姪に教えてもらいました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "粗引き黒こしょう",
+        "ゆかりふりかけ"
+    ],
+    "tsukurepo_count": "273",
+    "thumbnail": "https://img.cpcdn.com/recipes/1190852/100x141c/96896866f355801845e5a629e01f2694.jpg?u=2367334&p=1310695480"
+}

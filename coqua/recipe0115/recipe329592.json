@@ -1,0 +1,66 @@
+{
+    "name": "妊婦さんにおすすめひじきのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "羽会梨亜"
+    },
+    "image": "https://img.cpcdn.com/recipes/329592/464x260/a29dd99270395b758c7a7ae5fe9516ad.jpg?u=332227&p=1214214690",
+    "datePublished": "2012-09-05",
+    "description": "二人目妊娠中からずっとお世話になっているレシピです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき",
+            "quantity": "１缶"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "４０グラム"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ホールコーン",
+            "quantity": "５０グラム"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリ、ニンジンはせん切りにする。コーンは水気を切っておく。",
+        "白ゴマ、マヨネーズ、酢、しょうゆを合わせる。",
+        "ひじき、キュウリ、ニンジン、コーンを２であえる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "329592",
+    "advice": "ひじきは乾燥のものを戻して使う場合は、２０グラムです。ひじきの缶詰はドライパックで内容量１１０グラムのものを使いました。",
+    "history": "保健センターの母親学級で教えてもらったレシピをもとに手軽に作れるようにアレンジしました。簡単にひじきが食べられておいしいです。 ",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "妊婦",
+        "妊婦 おすすめ",
+        "妊婦 サラダ",
+        "ひじき サラダ"
+    ],
+    "tsukurepo_count": "729",
+    "thumbnail": "https://img.cpcdn.com/recipes/329592/100x141c/776e7d39281f6874e62dfd0cf8121581.jpg?u=332227&p=1214214690"
+}

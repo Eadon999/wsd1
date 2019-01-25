@@ -1,0 +1,60 @@
+{
+    "name": "バター入り♪炒めねぎの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "creamcrepe"
+    },
+    "image": "https://img.cpcdn.com/recipes/2019535/464x260/0527ffcd8f9bdbd92de4550f5a93ea01.jpg?u=1296640&p=1352200010",
+    "datePublished": "2012-11-06",
+    "description": "２０１３年２月１４日話題入り☆バターで炒めた長ねぎをたっぷり入れた味噌汁です☆コクがあって暖まります♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎを斜め薄切りにする。",
+        "小鍋を火にかけてバターを落とす。バターが溶けてふつふつしてきたらねぎを入れて炒める。",
+        "ねぎがしんなりしたら水とだしの素を入れて蓋をする。",
+        "沸騰したら味噌と生姜を入れて火を止めて完成♪",
+        "薄切りにしたアスパラガスも入れてみました♪いろいろアレンジお試しいただけると嬉しいです☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2019535",
+    "advice": "ねぎはたっぷりが美味しいです。",
+    "history": "寒くなってきた時期にこっくりしたお味噌汁が飲みたくなって考えました。生姜を入れてさらに体を温める効果を♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長ネギ",
+        "バター",
+        "水",
+        "だしの素"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2019535/100x141c/88aa2219fac0e8e36456cf643590605d.jpg?u=1296640&p=1352200010"
+}

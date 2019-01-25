@@ -1,0 +1,51 @@
+{
+    "name": "レンジで時短！いんげんのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2058410/464x260/d01da87fbcf4dd9975d59b769e9ec807.jpg?u=4819316&p=1355561145",
+    "datePublished": "2012-12-15",
+    "description": "14/5/28話題入り感謝、昔母親がよく作ってくれました。今では電子レンジを使ってあっという間にできます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "２０本"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんはへたを落としてスジをとる",
+        "ラップに包んで電子レンジ５００Ｗで１分半加熱し、冷水に放す",
+        "水気をよく切り、食べやすい長さに切る",
+        "めんつゆとみりんを混ぜて和え、小鉢に盛ってごまをふる"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2058410",
+    "advice": "加熱時間は加減して下さい",
+    "history": "こういう昔ながらのメニューを食べてみたくなって、レンジの取説読めばいんげんも加熱できそうなので、作ってみました。レンジは便利ですね。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "ごま",
+        "めんつゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2058410/100x141c/3bfebafdbbf17ca114f42654db0f5bfd.jpg?u=4819316&p=1355561145"
+}

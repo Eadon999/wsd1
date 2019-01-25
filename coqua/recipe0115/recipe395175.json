@@ -1,0 +1,50 @@
+{
+    "name": "ちくわと塩コンブのマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "そらうた"
+    },
+    "image": "https://img.cpcdn.com/recipes/395175/464x260/2da86cdd6378280af8c4d004efc329ef.jpg?u=390080&p=1214216523",
+    "datePublished": "2007-06-27",
+    "description": "スピード一品！お弁当の隙間に♪マヨと塩コンブもあいますよ～。 07/08/02話題入りさせて頂きました。ありがとうございます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "塩コンブ",
+            "quantity": "1つまみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々（1～2滴）"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを適当な大きさに切る。",
+        "フライパンにマヨネーズを熱しちくわと塩コンブを入れ炒め火を止める直前に醤油をたらしてまぜたら出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "395175",
+    "advice": "塩コンブを後から入れると柔らかくならないので最初に入れて下さい。",
+    "history": "お弁当で最近よく使うちくわと好きなマヨ＆塩コンブの組み合わせです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "塩コンブ",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/395175/100x141c/5480e0f29f782093ad20871dd7e58f94.jpg?u=390080&p=1214216523"
+}

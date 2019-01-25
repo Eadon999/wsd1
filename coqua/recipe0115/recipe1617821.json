@@ -1,0 +1,66 @@
+{
+    "name": "＊さつまいもと大根のやさしい煮物＊",
+    "author": {
+        "@type": "Person",
+        "name": "Yutaeri"
+    },
+    "image": "https://img.cpcdn.com/recipes/1617821/464x260/e8daad4bf57df4270506e705893d489a.jpg?u=3196192&p=1320331426",
+    "datePublished": "2011-11-04",
+    "description": "感謝★2012.5.6話題入り♪バーバ伝授のやさしい煮物 ずっと受け継いでいこうと決めた味です 材料入れれば完成＊",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根（今回は聖護院大根）",
+            "quantity": "小なら１本程"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "小３本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "大３枚"
+        },
+        {
+            "name": "さんど豆",
+            "quantity": "６本"
+        },
+        {
+            "name": "★水",
+            "quantity": "材料がかぶる程度"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大４"
+        },
+        {
+            "name": "★ほんだし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "めんつゆ(３倍濃縮)",
+            "quantity": "大３"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき、イチョウ切りに。しいたけは石づきを切って半分に。さつまいもはキレイに洗って輪切りに。",
+        "１を全て鍋に入れ、★を加えてやわらかくなるまで煮る。",
+        "仕上げにめんつゆつゆを加えて味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1617821",
+    "advice": "＊さんど豆は今回は大きくて結構しっかりしたものを使用したので１度に入れましたが、小さめの場合、煮詰める最終段階で入れないと崩れてしまうので注意。",
+    "history": "さつまいもを使った煮物に挑戦♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "さつまいも",
+        "しいたけ",
+        "さんど豆"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1617821/100x141c/a42cc79d2ffd5f9b8031138042c18677.jpg?u=3196192&p=1320331426"
+}

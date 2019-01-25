@@ -1,0 +1,79 @@
+{
+    "name": "厚揚げと小松菜の炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/224822/464x260/08706b1f67987ab1f7d7acfa97277d01.jpg?u=54489&p=1214212376",
+    "datePublished": "2005-11-06",
+    "description": "ご飯に合う中華風味の炒め物です☆とろみがついてるから丼にしちゃってもいいかも♪((((*´∇｀))",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１/４束"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "豚挽き肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "湯",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "中華スープの素（顆粒）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１/３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "水大さじ１、片栗粉大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は５ｃｍくらいに切る。にんじんは細切りにする。厚揚げは油抜きをし、５ｍｍ幅に切る。",
+        "豚挽き肉をごま油で炒め、パラパラになってきたらにんじん、小松菜を加え、最後に厚揚げを加え炒める。",
+        "湯を注ぎ、中華スープの素、砂糖、醤油、塩コショウで調味する。",
+        "煮立ってきたら水溶き片栗粉でとろみをつけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "224822",
+    "advice": "小松菜はカルシウム・ビタミンＡ・鉄・カリウム・食物繊維などを多く含んでいる。ほうれん草と栄養価が似ているが、カルシウムは５倍！",
+    "history": "ある日の夕飯です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "にんじん",
+        "厚揚げ",
+        "豚挽き肉"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/224822/100x141c/2e24f60faa1f572bd66b58d834849f56.jpg?u=54489&p=1214212376"
+}

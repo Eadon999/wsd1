@@ -1,0 +1,47 @@
+{
+    "name": "すごくおいしい！カボチャとゆでたまごのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "artemis"
+    },
+    "image": "https://img.cpcdn.com/recipes/81492/464x260/bb2a4fbbf119c23f0b4507170090f1be.jpg?u=8300&p=1214209699",
+    "datePublished": "2003-02-27",
+    "description": "我が家の定番＾＾おいしいです＾＾",
+    "recipeYield": "６～８人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ゆでたまご",
+            "quantity": "２個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはラップしてレンジで１０～１５分加熱して、やわらかくなったら熱いうちにスプーンで実をボウルに移し、粗くつぶす。",
+        "きゅうりは輪切りにし、塩を振って水分を抜き、ギュッと搾る。ゆでたまごは粗微塵に切る。",
+        "かぼちゃとゆでたまごが冷めたら全てボウルに入れ、よく混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "81492",
+    "advice": "",
+    "history": "よく我が家の食卓に上がる一品です＾＾この組み合わせが一番おいしいので気に入っています＾＾",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃゆで卵サラダ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/81492/100x141c/7595642242a7847e3564b37603c309e7.jpg?u=8300&p=1214209699"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "ツナマヨチーズ餃子",
+    "author": {
+        "@type": "Person",
+        "name": "Heart様"
+    },
+    "image": "https://img.cpcdn.com/recipes/1348608/464x260/eeb13a81d18fc68b50f8e9db01d8f3a0.jpg?u=413111&p=1361706564",
+    "datePublished": "2011-02-03",
+    "description": "餃子の皮が余ったので、お弁当のおかず用に作りました♪とろけるチーズがポイントです*^-^*",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "餃子の皮",
+            "quantity": "15枚くらい"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小1個"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "半分"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱とキャベツをみじん切りにして、レンジで軽くチン♪\n（柔らかくするため）",
+        "ボウルに、水気を絞ったツナと①、とろけるチーズも入れて\nマヨネーズ、塩・胡椒・醤油少々で味付けをする",
+        "餃子の皮で②を包み、フライパンに多めにオリーブオイルをひき、カリッと焼き揚げて出来上がり♪\n＊醤油やポン酢でどうぞ",
+        "話題のレシピになりました。\nありがとうございました☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1348608",
+    "advice": "",
+    "history": "餃子の皮が余ったので、お弁当のおかず用に作りました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ チーズ 餃子"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1348608/100x141c/b67b9d2fad3501f6544c34f59ecb2936.jpg?u=413111&p=1361706564"
+}

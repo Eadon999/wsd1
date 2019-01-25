@@ -1,0 +1,59 @@
+{
+    "name": "大根の葉がたっぷり食べれるそぼろふりかけ",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/929103/464x260/898cabead9212c1e6d4a730367635036.jpg?u=1109634&p=1254769548",
+    "datePublished": "2009-10-06",
+    "description": "そぼろの味付けだから、甘くて子供のご飯が進むよ～！！",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "大根の葉",
+            "quantity": "10㎝×20本"
+        },
+        {
+            "name": "豚挽肉",
+            "quantity": "100g（片手で1つかみ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の葉を細かくみじん切りにする。",
+        "フライパンに油を入れて、豚挽肉を色よく炒めたら、大根の葉を入れ、調味料をすべて入れて汁がなくなるまで炒める。",
+        null,
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "929103",
+    "advice": "☆大根の葉は細かい方がふりかけのように食べやすくなります。☆箸で混ぜながら炒めると、味がなじみやすく汁気もとびます。☆お好みでゴマや海苔を入れて栄養満点にしてみてください。",
+    "history": "大根の葉は根よりも栄養があるのでいっぱい食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根の葉",
+        "豚挽肉",
+        "味付け",
+        "醤油"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/929103/100x141c/7ace6c7b10b374e7f5811066b5654f14.jpg?u=1109634&p=1254769548"
+}

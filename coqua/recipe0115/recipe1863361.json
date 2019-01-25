@@ -1,0 +1,66 @@
+{
+    "name": "【農家のレシピ】キュウリのピリ辛漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1863361/464x260/509b7ebb4d4f8cb58a897f7f12a86502.jpg?u=2513693&p=1340627819",
+    "datePublished": "2012-06-26",
+    "description": "熱い漬け汁にキュウリを半日漬けるだけ。簡単中華風お漬物です。中華料理のお供にどうぞ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "３本（３００ｇ）"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ３分の１"
+        },
+        {
+            "name": "赤唐辛子（半分に切って種を取り除く）",
+            "quantity": "１本"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは縦に４等分、横は4センチ程度の長さに切ります。",
+        "【A】を煮立たせ①のキュウリを入れ火を止め、全体を良くかき混ぜます。",
+        "最初は漬け汁が少ないので途中で２回程度かき混ぜ漬け汁がなじむようにし半日おいて白ゴマを加えて完成です"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1863361",
+    "advice": "一度にたくさん漬け込むと味が薄くなってしまので、多くてもキュウリは３００ｇまでにしてくださいね。",
+    "history": "きゅうちゃん漬けを作るときは熱い漬け汁に何度も生のきゅうりを漬け込むのですが、同じように熱い漬け汁に漬けて味をしっかり染み込ませました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ",
+        "白ゴマ",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1863361/100x141c/9c33c0d4e2dffdd90615b538eb6d8e50.jpg?u=2513693&p=1340627819"
+}

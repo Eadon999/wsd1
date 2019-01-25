@@ -1,0 +1,84 @@
+{
+    "name": "なすと鶏ひき肉のそうめん",
+    "author": {
+        "@type": "Person",
+        "name": "cooktorako"
+    },
+    "image": "https://img.cpcdn.com/recipes/873883/464x260/625d3283c45e3788af7462ccb22eb8ce.jpg?u=1452025&p=1279204584",
+    "datePublished": "2009-07-25",
+    "description": "夏野菜でいただくボリューム満点のそうめんです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "２束"
+        },
+        {
+            "name": "鶏ひき肉",
+            "quantity": "100グラム"
+        },
+        {
+            "name": "なす",
+            "quantity": "大1コ"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "６〜７本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "ちょこっと"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんを茹でる。",
+        "なすをいちょう切りにし、いんげんとにんじんは斜め切りにする。",
+        "フライパンにごま油をひき、鶏ひき肉を炒める。",
+        "３に、なす、いんげん、にんじんを加えてさらに炒める。",
+        "４に☆を入れてさっとからめる。",
+        "茹でて冷水でしめたそうめんをお皿に盛る。\n",
+        "６の上に５を盛り、めんつゆをまわしかける。",
+        "お好みで一味唐辛子をふって、完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "873883",
+    "advice": "いんげんとにんじんは、火が通りやすいように薄く切るのがポイント。",
+    "history": "なすといんげんをたくさんいただき、とにかく毎日食べることになったので。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん ひき肉"
+    ],
+    "tsukurepo_count": "275",
+    "thumbnail": "https://img.cpcdn.com/recipes/873883/100x141c/b01cef63fd2da53bbfa5a8c29ab4e5bb.jpg?u=1452025&p=1279204584"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "レンジで簡単♪春キャベツのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "ひれまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1098277/464x260/27d69e062ee0ac354fe6c043f1240d42.jpg?u=1727762&p=1271160917",
+    "datePublished": "2010-04-13",
+    "description": "やわらかい春キャベツならレンジでチン！するだけで簡単おひたしに変身です＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "120グラム"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "10グラム"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大１/2～1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを適当な大きさにザク切りにして耐熱容器に入れ、塩昆布とポン酢をのせる。",
+        "ラップをかけてレンジで2分加熱。（600Wの場合）\r\n加熱後、ささっと混ぜて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1098277",
+    "advice": "簡単すぎてすみません！パクパクいけますよ～（＾　＾）Ｖ　加熱時間・ポン酢の量はび調整してください。塩昆布だけでも美味しいです！",
+    "history": "春キャベツを美味しく・たくさん食べたーい一心で・・・＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おひたし キャベツ レンジ"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/1098277/100x141c/f32d5900e0483effe988cbe611d82b13.jpg?u=1727762&p=1271160917"
+}

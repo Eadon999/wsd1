@@ -1,0 +1,58 @@
+{
+    "name": "作り置き♡切り干し大根の酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/3903524/464x260/88401205d20b6ecaff1a69ce42fe268d.jpg?u=230354&p=1466717849",
+    "datePublished": "2016-06-24",
+    "description": "パリパリ食感が美味しい、切り干し大根の酢の物。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "切り干し大根",
+            "quantity": "40g"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根を袋の表示時間で戻す。にんじんときゅうりは千切りにして、それぞれ塩をふって置いておく。",
+        "切り干し大根はザルに上げ、水気を絞ってざく切りにする。きゅうり、にんじんを、それぞれしっかり絞って水気を切る。",
+        "調味料をすべてよく混ぜ、②と和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3903524",
+    "advice": "",
+    "history": "煮物もいいけど、夏はさっぱり、食感のいいもので食欲アップ。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根 酢の物",
+        "切り干し大根 酢",
+        "作り置き 酢の物",
+        "切り干し大根 人参 酢の物"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/3903524/100x141c/a102c9a674221f7ed29a236d669295bf.jpg?u=230354&p=1466717849"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "サクっふわっと♪キスのチーズフライ",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/3403572/464x260/fb0287415434f18f256f7b740f379841.jpg?u=9664115&p=1442181077",
+    "datePublished": "2015-09-14",
+    "description": "てんぷらだけじゃない！洋風でもいけちゃうチーズの風味が効いたフライです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キス",
+            "quantity": "好きなだけ匹"
+        },
+        {
+            "name": "塩(下味用)",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉(衣)",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵(衣)",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉(衣)",
+            "quantity": "適量"
+        },
+        {
+            "name": "粉チーズ(衣)",
+            "quantity": "パン粉の1/3"
+        }
+    ],
+    "recipeInstructions": [
+        "開いたキスに塩で軽く下味をつける。",
+        "衣の準備。\nパン粉と粉チーズを混ぜておく。",
+        "小麦粉→卵→チーズパン粉の順につけ、\n多めの油をひいたフライパンで中火で焼き揚げる。\n両面ともきつね色になったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3403572",
+    "advice": "今回は量が少なかったので、揚げ焼きにしました。もちろん普通に170℃〜180℃程度の油で揚げてもオッケーです。",
+    "history": "キス釣りに行ってきまして。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/きす"
+    ],
+    "rankings": [
+        "キス 7位"
+    ],
+    "related_keywords": [
+        "キスフライ",
+        "キス",
+        "きす フライ",
+        "キス フライパン"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3403572/100x141c/d0801ed9e36b16110c7d3615c82e4649.jpg?u=9664115&p=1442181077"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "鶏むね肉のアボカドとトマトの中華サラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2027013/464x260/9abd28a15ee34f3d9170b5647ba64651.jpg?u=921598&p=1401487919",
+    "datePublished": "2012-11-19",
+    "description": "豆板醤が効いたピリ辛のドレッシングにヘルシーな鶏むね肉とたっぷり野菜を使った簡単な中華サラダに仕上がり美味しいですよぉ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "アボカド（1ｃｍ角カット）",
+            "quantity": "1個"
+        },
+        {
+            "name": "トマト（乱切り）",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "玉ねぎ（スライス）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ1/3"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに、●の調味料を入れてよく混ぜ合わせておく。",
+        "鶏むね肉はボイルして食べ易い大きさに割き、玉ねぎは水にさらしてよく水気を切っておく。",
+        "1のボウルに、むね肉・玉ねぎ・アボカド・トマト・きゅうり（縦半分の斜め切り）を入れてよく和えたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2027013",
+    "advice": "むね肉をボイルする時に少量のお酒を入れると臭みが取れますよぉ！ささみでの代用もOKです♪",
+    "history": "鶏むね肉を使った中華サラダを作ってみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/中華風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "アボカド",
+        "トマト",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2027013/100x141c/0e0fb2744bf3b1f49f413ae2530b1c05.jpg?u=921598&p=1401487919"
+}

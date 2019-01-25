@@ -1,0 +1,59 @@
+{
+    "name": "焼き厚揚げのおかかマヨ和え。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/508926/464x260/477f165c3720f9c9f60fff8b5aa53397.jpg?u=4036&p=1214218721",
+    "datePublished": "2008-02-15",
+    "description": "あともう一品という時のお役立ち料理です。削り節のだしがきいてます。",
+    "recipeYield": "厚揚げ２丁分",
+    "recipeIngredient": [
+        {
+            "name": "削り節",
+            "quantity": "３g"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "２丁"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "100g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "七味",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は根を落とし、1センチ程度の長さに切り、軽く塩茹でにする。その後水分をぎゅっと絞っておく。ボウルにこのほうれん草・削り節・マヨネーズ・醤油を入れてよく混ぜ合わせておく。",
+        "厚揚げはトースターでこんがりと焼き、食べやすい大きさに切る。油を引かずにフライパンで両面焼いても良い。",
+        "1.のボウルに焼いた厚揚げを入れてざっくりと混ぜ合わせる。お皿に盛り、七味を好みの分量ふればできあがり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "508926",
+    "advice": "できたてが美味しいです。",
+    "history": "厚揚げを焼いて、ねぎ・生姜・かつおぶし・醤油で食べるのが好きなのでそこから思い浮かびました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "削り節",
+        "厚揚げ",
+        "ほうれん草",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/508926/100x141c/320f3bbfc709f1448883ad3a135e28d7.jpg?u=4036&p=1214218721"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "しらすとニラの中華風和え物",
+    "author": {
+        "@type": "Person",
+        "name": "ミぁー"
+    },
+    "image": "https://img.cpcdn.com/recipes/546978/464x260/be2927869af2b998085cfd0c5b9b1c1e.jpg?u=697389&p=1278333550",
+    "datePublished": "2008-04-08",
+    "description": "０８／１０／８話題入り。レンジでチョイっとやるだけ♪ニラが驚くほど食べたくなるカモ…♪おつまみにも～",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "しらす",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "煎りゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お皿にザク切りにしたニラ、その上にしらすを入れます。",
+        "調味料を上から回しかけ、ラップをかけて２分加熱します。",
+        "ゴマをふりかけ、全体をかき混ぜます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "546978",
+    "advice": "しらすに塩分が含まれているので、醤油は少しで＾＾",
+    "history": "あるものの組み合わせです。お弁当に簡単レンジレシピを考えてます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "しらす",
+        "ごま油",
+        "酒"
+    ],
+    "tsukurepo_count": "134",
+    "thumbnail": "https://img.cpcdn.com/recipes/546978/100x141c/dbe4205a343ff0fa4c86c6b322549d42.jpg?u=697389&p=1278333550"
+}

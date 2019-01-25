@@ -1,0 +1,63 @@
+{
+    "name": "簡単親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "jounday"
+    },
+    "image": "https://img.cpcdn.com/recipes/2030624/464x260/f26d581bb59da6eeec56a4cabd9ca0b5.jpg?u=4833180&p=1353035185",
+    "datePublished": "2012-11-16",
+    "description": "材料簡単、作り方簡単♪",
+    "recipeYield": "2 人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "300 g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "大1 ／2"
+        },
+        {
+            "name": "卵",
+            "quantity": "2 個"
+        },
+        {
+            "name": "醤油、みりん",
+            "quantity": "50 ml ずつ"
+        },
+        {
+            "name": "水",
+            "quantity": "200 ml"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小2 ／3"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ、鶏肉は食べやすく切って油を少し入れフライパンに炒める｡",
+        "水、ほんだし、醤油、みりんを入れて沸騰させて5 分ぐらい煮る。",
+        "溶いた卵を入れて沸騰したら完成～"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2030624",
+    "advice": "フライパンに炒めなくて全部入れて沸騰させてもいいです。",
+    "history": "忙しい時よく作ります｡",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "玉ねぎ",
+        "卵",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2030624/100x141c/48e98c36b98180c08a56a8f5aa985479.jpg?u=4833180&p=1353035185"
+}

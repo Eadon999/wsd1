@@ -1,0 +1,56 @@
+{
+    "name": "キャベツときゅうりの簡単サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "megumi6348"
+    },
+    "image": "https://img.cpcdn.com/recipes/1236931/464x260/4cab0ff270fc46e737c3bbae9c236c52.jpg?u=2517216&p=1329124543",
+    "datePublished": "2010-09-20",
+    "description": "キャベツが沢山食べれちゃう美味しいサラダ♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4玉"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★煎りごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "千切りにしたキャベツとキュウリに★を全てかけて良く混ぜたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1236931",
+    "advice": "写真はさっと茹でたもやしも入っています(*´ω｀*)辛いのが好きな人は一味唐辛子、酸味が欲しい場合はお酢を入れても美味しいですよ！",
+    "history": "余ってたキャベツときゅうりを消費するために考えたレシピです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "きゅうり",
+        "ごま油",
+        "塩"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1236931/100x141c/92346892131f8ee752fc2fa1013749b9.jpg?u=2517216&p=1329124543"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "初めてでも簡単♪基本のカキフライ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2485325/464x260/48c2ec2aabadd563b19016de4a165fba.jpg?u=4376699&p=1480254291",
+    "datePublished": "2014-02-01",
+    "description": "下処理しっかりで牡蠣が苦手な方でも大丈夫♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣",
+            "quantity": "120g"
+        },
+        {
+            "name": "小麦粉卵パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "■下処理\n水洗い→塩揉み→水洗い→小麦粉揉み→水洗い→クッキングペーパーで水気を取る",
+        "小麦粉、卵、パン粉を準備\n卵は白身をよく切って混ぜておく\nパン粉はお好みで細かくたたいておく",
+        "小麦粉をまぶす\n箸てつまんでまぶす",
+        "卵をつける",
+        "パン粉に乗せ上にパン粉を掛ける",
+        "軽く握るか軽く転がすだけでＯＫ\n",
+        "油を160～170度に温め3,4個投入\n3分揚げて反して1分揚げて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2485325",
+    "advice": "牡蠣の下処理　ID:3672615牡蠣の揚げ時間は生も好きな方は3分で♪",
+    "history": "苦手な人にも食べてほしいので工夫していますタルタルソース　ID:2444451",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カキフライ 下処理",
+        "カキフライ 基本",
+        "カキフライ 簡単"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2485325/100x141c/67bed689ea6d6dd5fd7f4c3d8d08499c.jpg?u=4376699&p=1480254291"
+}

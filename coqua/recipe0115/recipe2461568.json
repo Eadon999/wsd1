@@ -1,0 +1,47 @@
+{
+    "name": "レンジで簡単ほうれん草のお浸し★もう一品",
+    "author": {
+        "@type": "Person",
+        "name": "カジオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2461568/464x260/b37ba402851c8d85b5e20b8541e381a7.jpg?u=4517605&p=1389602356",
+    "datePublished": "2014-01-13",
+    "description": "もう一品欲しい時に、レンジで簡単お浸し中華風",
+    "recipeYield": "1",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "2本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を5cmくらいに切ってレンジ600Wで1分半。\nいつもラップはしません。",
+        "小皿に盛りつけ、ポン酢、ごま油、ごまをふって完成です。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2461568",
+    "advice": "簡単すぎて、、、",
+    "history": "レンジでお浸し作れちゃうんですね。味の配分はこれが一番好きです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 おひたし レンジ",
+        "ほうれん草 レンジ"
+    ],
+    "tsukurepo_count": "168",
+    "thumbnail": "https://img.cpcdn.com/recipes/2461568/100x141c/a422725c2da4bcd9ea86d84b456742e8.jpg?u=4517605&p=1389602356"
+}

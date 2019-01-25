@@ -1,0 +1,74 @@
+{
+    "name": "ベーコンとしめじのクリームパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/893036/464x260/b19cbab0f3b49818f7bdbb4eb2bef4ea.jpg?u=377757&p=1250838340",
+    "datePublished": "2009-08-21",
+    "description": "簡単スピーディー、うちの定番クリームパスタです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２人分"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "一掴み"
+        }
+    ],
+    "recipeInstructions": [
+        "たっぷりのお湯に塩を入れパスタを茹で始める。\nしめじは石突を取って割いておく。ベーコンは１ｃｍ幅に切る。",
+        "フライパンにバターを入れ、ベーコンとしめじを炒める。ブラックペッパーで味付け。\n",
+        "だいたい火が通ったら、おたま半分くらいのパスタの茹で汁を入れ、コンソメを割りいれる。",
+        "少し火を弱めて、牛乳と生クリームを入れる。周りから泡が出てきたら、チーズを入れる。",
+        "味見をしながらブラックペッパーを入れる。\n味が整ったら、火を止め茹で上がったパスタとあえて完成！",
+        "お好みで、上からブラックペッパー、オリーブオイルをかけても！",
+        "具材を変えたパスタ♪\n\nhttp://ameblo.jp/uzukaji/entry-10438572860.html"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "893036",
+    "advice": "牛乳：生クリーム＝１：１を守れば、失敗しないはずです。",
+    "history": "クリームパスタが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/クリームソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "バター",
+        "コンソメ",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/893036/100x141c/596447c11a54d998550984bcc05aa92b.jpg?u=377757&p=1250838340"
+}

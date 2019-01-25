@@ -1,0 +1,58 @@
+{
+    "name": "ブロッコリーとソーセージのミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "aiyuumama"
+    },
+    "image": "https://img.cpcdn.com/recipes/1009011/464x260/175f6f1acfb3f55802bd43cd638fb1d2.jpg?u=1687911&p=1263863353",
+    "datePublished": "2010-01-12",
+    "description": "簡単に短時間で出来るので、朝食にぴったりです♪食欲がなくても、飲めちゃいます♡温まりますよ(^^)b",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "４本"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは小房に分け、ソーセージは斜めに輪切りする。",
+        "鍋に水とコンソメを入れ、沸騰させる。",
+        "②にブロッコリーを生のまま入れる。",
+        "煮立ってきたら、ソーセージを入れ、１～２分煮る。",
+        "④に牛乳を入れ、温まったら、塩・こしょうで味をととのえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1009011",
+    "advice": "ブロッコリーを１株使うときは、他の材料を３倍にしてください。",
+    "history": "沢山頂いた、ブロッコリーの消費に。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー 牛乳 スープ",
+        "ブロッコリー スープ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1009011/100x141c/73bc49041a3ee98affde3df5b012c6f5.jpg?u=1687911&p=1263863353"
+}

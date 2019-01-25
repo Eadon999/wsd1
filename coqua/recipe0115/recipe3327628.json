@@ -1,0 +1,49 @@
+{
+    "name": "大根としめじのお味噌汁✿",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3327628/464x260/1cac2c5443520fc48d501a0831577658.jpg?u=3540419&p=1438432849",
+    "datePublished": "2015-08-01",
+    "description": "大根のやさしい甘みがおいしいお味噌汁です♡簡単！すぐにできます(^-^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "4cm"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/4パック"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ4"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は5～6mm厚さのいちょう切りにし、しめじはバラバラにする",
+        "鍋にだし汁と大根、しめじを入れ、中火にかける",
+        "5～6分煮て、大根が柔らかく煮えたら、火を弱めて味噌を溶き入れる"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3327628",
+    "advice": "お好みで味噌の量はかげんしてください。だし汁は、顆粒だしを使ってもOKです。",
+    "history": "冷蔵庫に残っていた大根としめじで夕飯に作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根しめじ",
+        "大根 しめじ 味噌汁"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3327628/100x141c/54266fd306ef6e317352bcd4d7722a76.jpg?u=3540419&p=1438432849"
+}

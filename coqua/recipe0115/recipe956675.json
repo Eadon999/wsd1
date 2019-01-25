@@ -1,0 +1,59 @@
+{
+    "name": "揚げない♡ブロッコリーのフライ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ぱんだカフェcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/956675/464x260/bdf438c1374ba31cd9729aaaa2e98332.jpg?u=1003914&p=1408834650",
+    "datePublished": "2009-11-04",
+    "description": "簡単に衣サクサクの ブロッコリーのフライが出来ます♫ マヨネーズを使うので味も付いて美味しいですよ♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１/２株"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★味の素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを小房に分ける",
+        "ブロッコリーはラップをしてレンジで２分加熱する",
+        "ブロッコリーに★をかける",
+        "ブロッコリーの葉の部分にマヨネーズをつけパン粉をつける",
+        "トースターでパン粉に焼き色が薄くつくまで焼く",
+        "できあがり♫"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "956675",
+    "advice": "",
+    "history": "油を使いたくなく。。♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サクサクブロッコリー",
+        "ブロッコリー フライ"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/956675/100x141c/2b69abdfc20fe6a0bcae57610bac61c2.jpg?u=1003914&p=1408834650"
+}

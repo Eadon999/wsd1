@@ -1,0 +1,66 @@
+{
+    "name": "止まらない～♪ツナ大根♪",
+    "author": {
+        "@type": "Person",
+        "name": "ｼﾞｭﾝｼﾞｭﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/267698/464x260/e52545d2a5ced1d3aaec6bd5cfa749c4.jpg?u=220927&p=1214213322",
+    "datePublished": "2006-07-17",
+    "description": "早い･安い・ウマイ♪我が家の定番サラダです。",
+    "recipeYield": "ボウル１杯分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "2分の1本"
+        },
+        {
+            "name": "ツナ缶（油を切る）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は千切りにして塩を全体にまぶし、しんなりするまで置く。\r\n水分をぎゅっと絞りボウルへ。",
+        "材料・調味料を全て入れて混ぜる。\r\nパセリを散らして完成～♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "267698",
+    "advice": "調味料はお好みで調節してください。カニカマ、ホタテ缶を入れるとより美味。",
+    "history": "冷蔵庫の余った大根で作ってみました。かなりの量の大根がペロっと食べられます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ツナ缶",
+        "塩",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/267698/100x141c/09d59c8f191fd8c2bd17d606f2cc2191.jpg?u=220927&p=1214213322"
+}

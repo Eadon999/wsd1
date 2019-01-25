@@ -1,0 +1,55 @@
+{
+    "name": "落とし卵の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2940878/464x260/6375e86ece29ffbd6ac14a684e1d34d0.jpg?u=4819316&p=1419511733",
+    "datePublished": "2014-12-25",
+    "description": "15/10/23話題入り有難うございます、お味噌汁の具がなくて困った時、卵だけでも立派なお味噌汁になります",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "●顆粒和風だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を冷蔵庫から出して常温に戻し、お椀に割っておく",
+        "鍋に●を入れて加熱し沸騰させる",
+        "火を弱めてかき回して水流を作り、卵を落とし、お玉などを使って形を整える",
+        "白身が固まり始めたらお椀に入れて刻みねぎを散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2940878",
+    "advice": "白身が白濁して固まり始めるぐらい、黄身が生に近いぐらいで留めるのがちょうど美味しく頂けることでしょう",
+    "history": "自分のレシピ「卵ととろろ昆布のすまし汁」(ID=2266911)の味噌汁アレンジです",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お味噌汁 落とし卵",
+        "お味噌汁 卵",
+        "落とし卵",
+        "卵の味噌汁"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2940878/100x141c/2c280db0b4ad09d9afeb2199f3b89005.jpg?u=4819316&p=1419511733"
+}

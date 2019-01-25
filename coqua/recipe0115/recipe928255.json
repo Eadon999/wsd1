@@ -1,0 +1,62 @@
+{
+    "name": "鶏ササミのニンニク醤油",
+    "author": {
+        "@type": "Person",
+        "name": "K/S"
+    },
+    "image": "https://img.cpcdn.com/recipes/928255/464x260/8815b3f0631f0dfff09d3f84bb7635cb.jpg?u=928830&p=1254704804",
+    "datePublished": "2009-10-05",
+    "description": "ご飯が進みます！12/5/19話題入り♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ササミ",
+            "quantity": "2本"
+        },
+        {
+            "name": "＠ニンニク（チューブ可）",
+            "quantity": "1/2（お好み）"
+        },
+        {
+            "name": "＠醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "＠酒",
+            "quantity": "小2"
+        },
+        {
+            "name": "＠砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミ→食べやすく切る\r\n\r\nニンニク→すりおろして＠に混ぜる",
+        "ササミに小麦粉をまぶし両面焼く",
+        "火が通ったら余ったタレを加える"
+    ],
+    "cookTime": null,
+    "recipe_id": "928255",
+    "advice": "ササミは＠のタレに2～3分漬け込んでください！",
+    "history": "良く作るので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ササミ",
+        "ニンニク",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/928255/100x141c/167ed516c49a03a63af948a6a78accfd.jpg?u=928830&p=1254704804"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "ラム肉のチリソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/950593/464x260/54650d7709cfe0f87c5ab0acc6487af9.jpg?u=496128&p=1256815536",
+    "datePublished": "2009-10-29",
+    "description": "ラム肉買ったらこれ！箸がすすんじゃうソースです。臭みも気にならず美味しいです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "ラム肉薄切り",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "（あれば）ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "①玉ねぎを薄切り、ピーマンを細切りする。",
+        "②沸騰したお湯に①を入れ、玉ねぎの色が変わってきたらザルにあける。",
+        "③フライパンに油を熱し、肉を炒める。",
+        "④②とたれの材料を加え、ソースが絡むように炒める。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "950593",
+    "advice": "②の必要はないのですが、下茹でしてから加えた方が野菜の食感が残り、美味しいです。",
+    "history": "チリソースとラム肉どっちも好きなので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ラム肉"
+    ],
+    "rankings": [
+        "ラム肉 5位"
+    ],
+    "related_keywords": [
+        "ラム肉",
+        "ラム肉 薄切り",
+        "ラム肉 炒め"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/950593/100x141c/2e6376a07402c177a315567d1faa6ae7.jpg?u=496128&p=1256815536"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "我が家の冷や奴☆胡麻い～っぱい！",
+    "author": {
+        "@type": "Person",
+        "name": "nao-mi"
+    },
+    "image": "https://img.cpcdn.com/recipes/548759/464x260/3b0b9d42401d3a479017843733563a0f.jpg?u=542585&p=1214219511",
+    "datePublished": "2008-04-11",
+    "description": "すり胡麻たっぷり　大葉とポン酢でさっぱり☆ 　我が家の大好きな冷や奴の食べ方です♪08年9月21日話題入りありがとう",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "た～っぷり"
+        },
+        {
+            "name": "大葉",
+            "quantity": "６枚程度"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "お好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉はせん切りにする。お豆腐は洗ってよく水をきって器に盛る。（ど～んと１丁でもいいし、食べやすい大きさに切り分けてもいいです。）",
+        "お豆腐にたっぷりめにすり胡麻をかけて、せん切りにした大葉を乗せ、ポン酢でいただきます♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "548759",
+    "advice": "すり胡麻も大葉もたっぷりめが美味しいです♪",
+    "history": "胡麻も大葉も大好きな我が家。忙しい時の一品にヘルシーで栄養もたっぷり摂れて、めちゃくちゃ美味しいこの組み合わせが重宝してます☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "すり胡麻",
+        "大葉",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/548759/100x141c/60eedd662b08c17aafd6b3dcd9798d01.jpg?u=542585&p=1214219511"
+}

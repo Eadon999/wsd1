@@ -1,0 +1,49 @@
+{
+    "name": "スピードレシピ☆レタススープ",
+    "author": {
+        "@type": "Person",
+        "name": "。・うらら。・。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1161916/464x260/5830996a555282af975df362c8de70bd.jpg?u=1865673&p=1286120880",
+    "datePublished": "2010-06-17",
+    "description": "サラダにするには硬い、一番外側の葉を使って 、あっという間に出来てしまう、美味しいスープです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とコンソメ、ベーコンを入れて火にかけます。",
+        "食べる直前に、適当に切った(ちぎった)レタスを鍋に入れて、軽く煮たたせて出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1161916",
+    "advice": "もちろん、内側の葉でもスープに出来ます。レタスのシャキシャキ感を残した方が、美味しいですよ♪ ",
+    "history": "昔から食べているので、生い立ち思い出せません(^_^;)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "ベーコン",
+        "コンソメ",
+        "水"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/1161916/100x141c/d7cb5aa0441fd176164dd692cfb4aef5.jpg?u=1865673&p=1286120880"
+}

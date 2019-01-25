@@ -1,0 +1,76 @@
+{
+    "name": "豚汁うどん",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3142033/464x260/b69793710b69b3e549841441b2910fee.jpg?u=4819316&p=1429958672",
+    "datePublished": "2015-04-26",
+    "description": "豚汁にうどんを入れてみました、ガッツリいって下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "大根",
+            "quantity": "１センチ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "青ねぎ（小口切り）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "顆粒和風だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは薄く輪切り、大根は５ミリ厚さのいちょう切り、しめじはばらけさせる",
+        "鍋にごま油を加熱し豚肉を炒める",
+        "鍋に水を加えて沸騰したら大根、にんじん、しめじを入れて中火で１０分煮る",
+        "だしの素と味噌を溶いて入れ弱火でかき混ぜて味噌を溶かす",
+        "うどんを茹でる",
+        "鉢にうどんを入れて４の豚汁をかけて、ねぎを散らす"
+    ],
+    "cookTime": null,
+    "recipe_id": "3142033",
+    "advice": "うどんの具は自在にアレンジして下さい",
+    "history": "自分のレシピ「かす汁うどん」（ID=2130317）の応用です、豚汁でもいけると思って作りました",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": [
+        "豚汁うどん 5位"
+    ],
+    "related_keywords": [
+        "豚汁うどん"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3142033/100x141c/238bc17f984b3cd06a8cd54ab817defa.jpg?u=4819316&p=1429958672"
+}

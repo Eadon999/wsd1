@@ -1,0 +1,58 @@
+{
+    "name": "油揚げとキャベツのさっと煮",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/1864204/464x260/6a23af8b29f9d7587029c34054feb50d.jpg?u=533232&p=1340699523",
+    "datePublished": "2012-06-26",
+    "description": "白だしでさっと簡単な煮物です。油揚げからのじゅわっとした煮汁が◎2013/3/13写真追加　2013/7/13話題入り♡",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "しょうが(みじん切り）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆水",
+            "quantity": "50mil"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは湯通しして食べやすい大きさに切ります",
+        "キャベツは洗ってざく切りにします",
+        "厚手の鍋にキャベツ、油揚げ、しょうがと☆の材料を加えて落し蓋をし弱火で10分ほど加熱してできあがりです",
+        "追加でおかかをかけても◎",
+        "トマト入りバージョンです♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1864204",
+    "advice": "キャベツから水分が出るので水の量は調整なさってください。油揚げは厚手のものがおすすめ☆です。",
+    "history": "冷蔵庫であるもので簡単な煮ものです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 油揚げ 白だし"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1864204/100x141c/0428395fdb72bc22a3d98e79eddfa5b4.jpg?u=533232&p=1340699523"
+}

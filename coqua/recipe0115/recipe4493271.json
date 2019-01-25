@@ -1,0 +1,72 @@
+{
+    "name": "バター醤油で和風パスタ☆",
+    "author": {
+        "@type": "Person",
+        "name": "☆nao703☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/4493271/464x260/74e951ae5834305271e5c41f977bc900.jpg?u=11000068&p=1493205524",
+    "datePublished": "2017-04-26",
+    "description": "にんにくを効かせた和風パスタです(*´˘`*)♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "2束"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "中2本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "3枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "2片"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "20g"
+        },
+        {
+            "name": "◆塩・黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "◆だし粉末",
+            "quantity": "小1"
+        },
+        {
+            "name": "◆しょうゆ",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋でパスタを茹でる。\n(袋の表示時間より30秒〜1分短めに茹でる)",
+        "エリンギ・ベーコンは食べやすい大きさに切り、にんにくは薄切り、大葉は千切りにします。",
+        "フライパンにバターとにんにくを入れ香りが出てきたらベーコンを入れ焼き目がついてきたらエリンギを入れ炒める。",
+        "お玉一杯の茹で汁を入れて乳化させ、パスタを入れ炒める。\n◆を入れて味をととのえる。",
+        "お皿に盛り付け大葉を散らしたら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "4493271",
+    "advice": "お好きなきのこを入れて下さいね☆",
+    "history": "パスタソースを作るのが面倒なときはパパッと和風パスタを作ります☆",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "エリンギ",
+        "ベーコン",
+        "にんにく"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4493271/100x141c/2b7d95715c0ab9454fe2a98547d8b9ca.jpg?u=11000068&p=1493205524"
+}

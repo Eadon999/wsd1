@@ -1,0 +1,74 @@
+{
+    "name": "切干大根のごまごまサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kokokuma"
+    },
+    "image": "https://img.cpcdn.com/recipes/1458862/464x260/4392350144a11774df3158ff0da78f0f.jpg?u=3232833&p=1307002749",
+    "datePublished": "2011-06-02",
+    "description": "切干大根の栄養も摂りたいので水で戻す代わりに調味料とともに煮ました。ごまもたっぷり入って栄養満点！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "３５ｇ（１袋）"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／４本"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "１本"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根はサッと水洗いし、鍋に入れる。千切りにした人参、水、醤油、砂糖、酢、サラダ油を加えて中火で１０分ほど煮る。",
+        "胡瓜とハムは千切りにする。",
+        "１が冷めたら胡瓜、ハム、すりごまを加えて和える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1458862",
+    "advice": "",
+    "history": "いつも切干大根を使うときはだいたい煮物にするくらいでしたが、切干大根を煮ていて思いついたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "人参",
+        "水",
+        "醤油"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1458862/100x141c/51f0fb161da46d262a8b2f296b4b745f.jpg?u=3232833&p=1307002749"
+}

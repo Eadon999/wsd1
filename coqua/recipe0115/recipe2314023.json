@@ -1,0 +1,54 @@
+{
+    "name": "鶏手羽中のにんにく醤油漬け込み焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ogamonja"
+    },
+    "image": "https://img.cpcdn.com/recipes/2314023/464x260/1bce0ab12f69d834a62470ef7647b05d.jpg?u=2301644&p=1376392381",
+    "datePublished": "2013-08-13",
+    "description": "甘辛のにんにく醤油に漬け込んでオーブンで焼くだけのとっても簡単にできる鶏スペアリブの照り焼き",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（手羽中・スペアリブ）",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "100cc"
+        },
+        {
+            "name": "☆日本酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくをスライスして☆の中にいれ、そこに鶏スペアリブを漬け込む。15分たったら裏返して、さらに15分待つ。合計30分。",
+        "漬け込んだ鶏スペアリブをオーブン皿に並べて、230度で10分間焼けば出来上がり。",
+        null
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2314023",
+    "advice": "・砂糖の量で甘辛味のバランスを調節してください。・鶏肉の皮がちょっとだけ焦げるくらいが香ばしくて美味しい。",
+    "history": "ビールの簡単なおつまみとして、鶏もも肉の照り焼きの代わりに小さな手羽中スペアリブを使い、にんにく醤油で甘辛味をしっかりと出したかった。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽中 漬け込み",
+        "鶏肉 漬け込み",
+        "鶏スペアリブ オーブン",
+        "鶏手羽中 オーブン"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2314023/100x141c/f091a5c25e54270aef066531019f5e2f.jpg?u=2301644&p=1376392381"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "鯖のタンドリー風♡",
+    "author": {
+        "@type": "Person",
+        "name": "nasubeam"
+    },
+    "image": "https://img.cpcdn.com/recipes/1785439/464x260/bfee727f673f072bb59ade25d9e7275c.jpg?u=2944712&p=1341060695",
+    "datePublished": "2012-04-21",
+    "description": "鯖の塩焼きや煮付けも美味しいけど、たまにはこんな味も♡カレー味でお子様にも食べやすい♪フライパンで簡単に～♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖の切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "☆ヨーグルト",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆カレー粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆すりおろしにんにく",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "バットや皿に☆を入れて混ぜ、鯖の切り身を1時間以上、出来れば半日ぐらいつけておく。",
+        "フライパンにサラダ油少々を熱し、１．を入れて両面こんがりと焼く。\n",
+        "※焼き方コツ\n肉厚な切り身の場合は、焼き色がついた後、一度蓋をして蒸し焼きにしてください。（中までしっかり火を通す!!）"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1785439",
+    "advice": "✿ 切り身は肉厚のものより、薄い切り身の方が味が染みて美味しいです。✿ 焼いてる途中にひっくり返す時は、フライ返しなどを使ってください。",
+    "history": "大好きな鯖を使って♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば タンドリー"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/1785439/100x141c/19b8534af466574b0b809cb2d7bb7944.jpg?u=2944712&p=1341060695"
+}

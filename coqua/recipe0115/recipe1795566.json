@@ -1,0 +1,50 @@
+{
+    "name": "くせになる☆かぼちゃベーコン",
+    "author": {
+        "@type": "Person",
+        "name": "makoron"
+    },
+    "image": "https://img.cpcdn.com/recipes/1795566/464x260/9fb6ce2560d6cbd9c29167c674bff6f2.jpg?u=395961&p=1335611769",
+    "datePublished": "2012-04-29",
+    "description": "味付けは粗塩だけ！シンプル＆ヘルシーなのに味わい深いフライパンメニューです☆ お弁当にも♫",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "80g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "粗塩",
+            "quantity": "小さじ1/4くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは１cmの厚さに、ベーコンは５mmの厚さに切る。にんにくは薄切りに。",
+        "ベーコンとにんにくを炒め、ベーコンの脂がフライパン全体に回ったら、かぼちゃを入れて、やわらかくなるまで炒める。",
+        "粗塩をふってできあがり～"
+    ],
+    "cookTime": null,
+    "recipe_id": "1795566",
+    "advice": "油を加えないヘルシーレシピです！",
+    "history": "我が家のカンタン副菜メニューです☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "ベーコン",
+        "にんにく",
+        "粗塩"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/1795566/100x141c/61bd9a17e1bdf7e0934cee836e0f9eba.jpg?u=395961&p=1335611769"
+}

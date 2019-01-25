@@ -1,0 +1,60 @@
+{
+    "name": "ネギトロ丼",
+    "author": {
+        "@type": "Person",
+        "name": "rosenkranz"
+    },
+    "image": "https://img.cpcdn.com/recipes/935360/464x260/7e2a70576afb9b35db9a99468588a4b9.jpg?u=225908&p=1255368088",
+    "datePublished": "2009-10-13",
+    "description": "激ウマです。2011.5.9 話題のレシピ入り☆　感謝♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "みじん切りまぐろ",
+            "quantity": "５０グラム"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１個"
+        },
+        {
+            "name": "みじん切り葱",
+            "quantity": "２０グラム"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯の上に、他の材料全てを乗せて完成。",
+        "れぽ感謝♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "935360",
+    "advice": "塩加減はお好みで┏○",
+    "history": "ある材料で((φ(-ω-｀*)ﾒﾓﾒﾓ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネギトロ丼",
+        "ネギトロ丼 タレ",
+        "ネギトロ丼 めんつゆ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/935360/100x141c/0fa226cb7fe79db9f34c54f7da09aff9.jpg?u=225908&p=1255368088"
+}

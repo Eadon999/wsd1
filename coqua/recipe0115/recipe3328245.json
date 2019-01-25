@@ -1,0 +1,75 @@
+{
+    "name": "もやしとハムのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "ぴんの☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3328245/464x260/43436a01dab047f87c18c1f6fbd251b5.jpg?u=10966659&p=1438485258",
+    "datePublished": "2015-08-02",
+    "description": "少ない材料で、簡単に出来る、副菜です。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ハム（千切り）",
+            "quantity": "2枚"
+        },
+        {
+            "name": "きゅうり(千切り)",
+            "quantity": "1本"
+        },
+        {
+            "name": "錦糸卵",
+            "quantity": "卵1"
+        },
+        {
+            "name": "＊ポン酢醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやし、一袋をさっと茹でる。\nザルに広げて、粗熱を取る。",
+        "ハム、きゅうり、を千切りにする。",
+        "錦糸卵を作る。",
+        "ドレッシングを合わせたボールに、1と2を入れて、ざっくり混ぜる。\n錦糸卵とゴマをかける。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "3328245",
+    "advice": "野菜を冷やして置いて、食べる時にドレッシングで合えると、水分が出なくていいですよ！",
+    "history": "手軽に出来て、沢山野菜が食べらます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ハム",
+        "きゅうり",
+        "錦糸卵"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3328245/100x141c/9877b9f23ba535c4bf7562e578104e8f.jpg?u=10966659&p=1438485258"
+}

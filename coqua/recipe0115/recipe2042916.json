@@ -1,0 +1,85 @@
+{
+    "name": "厚揚げと白菜の旨味あんかけ！",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2042916/464x260/d194d01aa4773f1e17f5fcf6da3daa67.jpg?u=841338&p=1354094812",
+    "datePublished": "2012-11-29",
+    "description": "簡単にできて、ほっこり温まる一品！白菜と厚揚げに、とろとろの和風あんが絡んで、とっても美味しいです♬あつあつをどうぞ！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚(250～300g)"
+        },
+        {
+            "name": "白菜",
+            "quantity": "3～4枚"
+        },
+        {
+            "name": "ひき肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "人参",
+            "quantity": "5cm"
+        },
+        {
+            "name": "生姜(みじん切り)",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●だしの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "適量(お好み)"
+        },
+        {
+            "name": "片栗粉＋水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "具材を食べやすい大きさに切る。●の調味料を混ぜ合わせておく。",
+        "フライパンにごま油をひき、生姜とひき肉を炒める。",
+        "次に、白菜と人参をしんなりするまで炒め、●の調味料と厚揚げを入れ煮込む。",
+        "味見をして、好みの濃さになったら、水溶き片栗粉でとろみをつけ、仕上げに、お好みでラー油を回しかけたら完成です！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2042916",
+    "advice": "丼にしても美味しいです♬",
+    "history": "あんかけが好きで！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ 白菜 あんかけ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2042916/100x141c/559479ec262d27236c4e91583c96bbbd.jpg?u=841338&p=1354094812"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "簡単！もやしとわかめの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4145487/464x260/fe6396734f36b93bc04ef35169223592.jpg?u=4376699&p=1477500186",
+    "datePublished": "2016-10-30",
+    "description": "しゃきしゃきもやしが良いですね♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/4袋"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "少々"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗っておく\n小鍋にわかめと水を入れて沸騰したらもやし、ほんだし、味噌を入れて中火で1，2分の煮て完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4145487",
+    "advice": "もやしの量はお好みで♪",
+    "history": "わかめの味噌汁の予定がもやしが余っていたので入れてみましたちょっと早めに火を止めてシャキシャキでいただきました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "もやし味噌汁 10位"
+    ],
+    "related_keywords": [
+        "もやし わかめ 味噌汁",
+        "モヤシ みそ汁"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/4145487/100x141c/db584446613b593592724fd97a32dc0a.jpg?u=4376699&p=1477500186"
+}

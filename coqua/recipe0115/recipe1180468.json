@@ -1,0 +1,62 @@
+{
+    "name": "簡単おうちイタリアン❤イカトマト",
+    "author": {
+        "@type": "Person",
+        "name": "DELICE"
+    },
+    "image": "https://img.cpcdn.com/recipes/1180468/464x260/ea50d257ae80793f551a46e8e7f3ea5b.jpg?u=2328410&p=1278598262",
+    "datePublished": "2010-07-08",
+    "description": "身近な材料でここまでおいしくいただけますよ♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "１杯"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "小さじ１～２（お好みで調節）"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "（あれば彩り用に♪）バジルorパセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "イカ胴体と足に分ける。\r\n内臓、軟骨を取り除く。\r\n足のとがった部分を切る。\r\n水気を切り、５～６㎜の輪切りに。",
+        "トマトを皮ごと１㎝のざく切りに。\r\nにんにくはみじん切り。チューブのものでもOK.。",
+        "フライパンにオリーブオイルを強火で熱し、イカを炒める。白色に変わったらにんにくを加え、香りが立つまで混ぜ合わせる。",
+        "トマトを加える。\r\nトマトの角が崩れ始めたら、しょうゆを加える。水分をとばしながら炒め、バターを加えて混ぜ合わせて完成♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1180468",
+    "advice": "すぐに火がとおる食材なので、炒めるのは短時間です。",
+    "history": "ひと工夫でできあがり♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ トマト",
+        "イカ イタリアン",
+        "簡単おうちイタリアン"
+    ],
+    "tsukurepo_count": "305",
+    "thumbnail": "https://img.cpcdn.com/recipes/1180468/100x141c/ad9ac82b690afa3d21796626a432ae4a.jpg?u=2328410&p=1278598262"
+}

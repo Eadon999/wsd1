@@ -1,0 +1,76 @@
+{
+    "name": "麩わっ☆とろっ☆ヘルシー丼",
+    "author": {
+        "@type": "Person",
+        "name": "33nakama18"
+    },
+    "image": "https://img.cpcdn.com/recipes/1507741/464x260/5a69a912d3274545e4b8137ac12fb1dd.jpg?u=3255169&p=1311745820",
+    "datePublished": "2011-07-27",
+    "description": "超簡単です。麩を入れると柔らかく食感がとてもいいです！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "適量"
+        },
+        {
+            "name": "焼き麩",
+            "quantity": "１０個くらい"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "〇しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "〇みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "〇砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "〇酒",
+            "quantity": "小1"
+        },
+        {
+            "name": "〇水",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "〇だし",
+            "quantity": "小2"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを細切りにしておく。",
+        "小鍋に〇を煮立て、玉ねぎを入れ中火で煮る。　水に戻し、軽くしぼった焼き麩も一緒に煮る。",
+        "２に溶いた卵を流し、フタをして火を\n通す。",
+        "器にご飯を入れて、３を汁も一緒に盛り付ける。",
+        "お好みでネギや紅しょうがをトッピングすれば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1507741",
+    "advice": "",
+    "history": "鶏肉がなかったので代わりに麩を使ってみました。食感がふわっ！とろっ！として、鶏肉と間違える？程の味で美味ですよ。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "焼き麩",
+        "玉ねぎ",
+        "卵"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1507741/100x141c/ff2ef83b04157a7f3a1e8cc196ec71a6.jpg?u=3255169&p=1311745820"
+}

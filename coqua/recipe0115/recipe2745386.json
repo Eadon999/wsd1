@@ -1,0 +1,58 @@
+{
+    "name": "ししとうとベーコンのごま和え",
+    "author": {
+        "@type": "Person",
+        "name": "ねっちゃんっ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2745386/464x260/ab0bda3909bf968dc4fa80631bb2746c.jpg?u=1181844&p=1431762409",
+    "datePublished": "2014-08-12",
+    "description": "ベーコンがいい味出してます♪旨味たっぷりのごま和えは副菜ながらご飯が進んじゃう旨さです♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ししとう",
+            "quantity": "10本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "1枚"
+        },
+        {
+            "name": "☆めんつゆ",
+            "quantity": "小2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆すり胡麻",
+            "quantity": "大1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "ししとうはヘタを取り縦半分にカットして種を除く※辛いのが当たっても大丈夫な方は省略して包丁で切り込みを入れる",
+        "ベーコンは食べやすくカットして①のししとうと一緒にごま油で炒める",
+        "☆の調味料を合わせて②を加えよく混ぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2745386",
+    "advice": "ごま油で炒めるとコクが出ますがヘルシーに茹でたりレンジ加熱でもOKです♪",
+    "history": "苦くてたまに辛いししとう、甘めのごま和えなら子供にも食べられるかな～？と思って‥‥ダメだったけど笑",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ししとう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししとう",
+        "ベーコン",
+        "めんつゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2745386/100x141c/acff153008e6a5394c98e8fd71af5600.jpg?u=1181844&p=1431762409"
+}

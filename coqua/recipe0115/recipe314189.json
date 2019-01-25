@@ -1,0 +1,48 @@
+{
+    "name": "ちっかのクリーム明太入り",
+    "author": {
+        "@type": "Person",
+        "name": "myukitty"
+    },
+    "image": "https://img.cpcdn.com/recipes/314189/464x260/c7904c079b5aa69777b1dd8d4643ba54.jpg?u=63267&p=1214214373",
+    "datePublished": "2006-12-27",
+    "description": "明太子とクリームチーズを混ぜてちくわに入れました。おつまみにいいかも～♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "3本"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "２０ｇくらい"
+        },
+        {
+            "name": "明太子",
+            "quantity": "１腹"
+        }
+    ],
+    "recipeInstructions": [
+        "こんな感じ～♪",
+        "明太子を袋から出して、クリームチーズと混ぜる。",
+        "大雑把でかまいませんよ～（笑）",
+        "ちくわを縦に切れ目を入れて開く。",
+        "３を詰める。",
+        "適当に切っておしまい。"
+    ],
+    "cookTime": null,
+    "recipe_id": "314189",
+    "advice": "穴に詰めるのが面倒でうまくいかないと思ったので、切り開いてみました。",
+    "history": "明太子マヨネーズを詰めようと思ったけど、クリームチーズが目に付いた（笑）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "クリームチーズ",
+        "明太子"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/314189/100x141c/ef562e20151d9337615f191bc08ad5d8.jpg?u=63267&p=1214214373"
+}

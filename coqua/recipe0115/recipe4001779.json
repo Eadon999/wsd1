@@ -1,0 +1,62 @@
+{
+    "name": "若イカの生姜煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "くにしゃん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/4001779/464x260/88ae65ba43bb88b455c800092212aa5c.jpg?u=7615655&p=1469947950",
+    "datePublished": "2016-08-01",
+    "description": "美味しいよ(^-^)/若イカの生姜煮♪酒の肴に♪お弁当にも♪勿論温かいご飯に乗せても(^-^)/美味しい一品です♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "若イカ",
+            "quantity": "12杯"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "1カップ(200cc)"
+        },
+        {
+            "name": "生姜",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜は皮を剥き千切りします♪",
+        "イカは骨を指で取り除き、水洗いしておきます♪※若イカなので、内臓・目は取り除きません。",
+        "鍋に出し汁を入れ沸騰させイカを入れ調味料、生姜を入れ煮ます♪",
+        "6～8分煮たら出来上がり(^-^)v",
+        "器に盛って、ハイ！どうぞ召し上がれ(^-^)/"
+    ],
+    "cookTime": null,
+    "recipe_id": "4001779",
+    "advice": "煮過ぎないように(^o^)v",
+    "history": "若イカが手に入ったので、生姜煮を作ってみました(^-^)/　美味しく出来たのでレシピ化しました(^-^)/",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "若イカ",
+        "若いか"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4001779/100x141c/ead481b70cc06df941f6c4b4be3b9e3c.jpg?u=7615655&p=1469947950"
+}

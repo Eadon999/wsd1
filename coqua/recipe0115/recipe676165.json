@@ -1,0 +1,59 @@
+{
+    "name": "サンマのポン酢deさっぱり煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "shinyui"
+    },
+    "image": "https://img.cpcdn.com/recipes/676165/464x260/1467ee4c23ee6617d63c23b96485621c.jpg?u=473880&p=1225745615",
+    "datePublished": "2008-11-05",
+    "description": "簡単♪ポン酢で煮るとさっぱり＆ふっくらで美味しい＾＾",
+    "recipeYield": "３尾分",
+    "recipeIngredient": [
+        {
+            "name": "秋刀魚",
+            "quantity": "３尾"
+        },
+        {
+            "name": "生姜の細切り",
+            "quantity": "１片"
+        },
+        {
+            "name": "輪切り鷹の爪",
+            "quantity": "１本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "酢",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "秋刀魚は頭と尾を切り落し、ワタを取って、４等分にする。",
+        "鍋に、酒とお酢をいれて煮立たせ、秋刀魚が重ならないように並べ、生姜・鷹の爪・ポン酢を入れて蓋をして、１０分位煮る。",
+        "蓋を取り、落とし蓋をして、煮汁がある程度なくなるまで煮たら出来上がり。",
+        "今回のポン酢は「ヤマサ昆布ぽん酢」を使いました＾＾"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "676165",
+    "advice": "お好みで、万能葱をかけて食べても美味しいです♪。",
+    "history": "昆布ポン酢を頂いたので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま",
+        "その他/秋におすすめ料理/秋の魚おかず/秋のさんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "秋刀魚",
+        "ポン酢",
+        "酒"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/676165/100x141c/95375e1bc359fc83ad7f51616e5b414b.jpg?u=473880&p=1225745615"
+}

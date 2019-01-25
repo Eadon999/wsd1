@@ -1,0 +1,70 @@
+{
+    "name": "ご飯に合う！牛肉ブロッコリーのオイスター",
+    "author": {
+        "@type": "Person",
+        "name": "alohafork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1129267/464x260/8fb8bdfa5b808cace39a48985ca3dc5c.jpg?u=2122688&p=1274095470",
+    "datePublished": "2010-05-17",
+    "description": "オイスターのコクが、ものすごくご飯に合います！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "焼き肉用牛肉",
+            "quantity": "３００グラム"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●にんにくすりおろし",
+            "quantity": "２かけ分"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは軽く茹でておく。 \r\n牛肉に下味をつける。 \r\n●の材料に牛肉をつける。",
+        "フライパンにごま油をひき、１の牛肉を強火で炒める",
+        "色が変わったら、ブロッコリーを入れ、オイスターソースで味付けをし、軽く炒めれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1129267",
+    "advice": "中華は強火で調理です♪",
+    "history": "ご飯に合う中華を作りたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 ブロッコリー",
+        "牛肉ブロッコリーのオイスター",
+        "ご飯に合う 牛肉",
+        "ブロッコリー オイスター"
+    ],
+    "tsukurepo_count": "501",
+    "thumbnail": "https://img.cpcdn.com/recipes/1129267/100x141c/dc0b1bf6c936b3bb6736f248e2fa0f2e.jpg?u=2122688&p=1274095470"
+}

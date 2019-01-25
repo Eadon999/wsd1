@@ -1,0 +1,69 @@
+{
+    "name": "ヘルシー！とうふのドライカレー",
+    "author": {
+        "@type": "Person",
+        "name": "オーチャードストリート"
+    },
+    "image": "https://img.cpcdn.com/recipes/296925/464x260/f4768c6deafa886f97e92eef2a152efd.jpg?u=252997&p=1214419576",
+    "datePublished": "2006-11-03",
+    "description": "つくれぽ100件ありがとうございます。ハウスのコンテスト入賞レシピです☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "ひき肉(牛or豚）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "一かけ"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "とうふは水切りをしておく。",
+        "みじん切りにした玉ねぎをフライパンで炒め、ひき肉も加えて炒める。",
+        "とうふを崩しながら加えて炒める。",
+        "刻んだルー、カレー粉、ケチャップ、みそ、しょうゆを水に溶いておき、加えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "296925",
+    "advice": "ハウス食品のカレーレシピコンテストで入賞することができたレシピです。ルーを少なめにすることでカロリーオフになっています。",
+    "history": "伯母から教えてもらったヘルシードライカレーのレシピです。味噌などのおかげでコクがでます。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/挽肉を使ったカレー",
+        "今日のご飯・おかず/ごはんもの/カレー/ドライカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ヘルシー カレー"
+    ],
+    "tsukurepo_count": "102",
+    "thumbnail": "https://img.cpcdn.com/recipes/296925/100x141c/bea1b4d59d952ebcd96eeb8227eff9dc.jpg?u=252997&p=1214419576"
+}

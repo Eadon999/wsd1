@@ -1,0 +1,53 @@
+{
+    "name": "れんこんのツナマヨ明太サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2159122/464x260/b06877bcba1c5d88c24f4bd9b07b0f87.jpg?u=3671213&p=1363666036",
+    "datePublished": "2013-03-19",
+    "description": "お酒のお供にいかがですか～♪シャキシャキのれんこんサラダ☆ツナマヨ明太やばいです（∈＾∇゜）ｷﾗｯ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "★明太子",
+            "quantity": "２腹(６０ｇ)"
+        },
+        {
+            "name": "★ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは皮を剥き５～７ミリのいちょう切りにして、水にさらしておく。その間に２へ～♪",
+        "★を混ぜ合わせる。（明太子は皮を剥がして混ぜます）",
+        "少量の酢を入れたお湯で１を茹で、さっと冷水にさらし良く水気を切る。(大体４～５分茹でました)硬さはお好みで～♪",
+        "２と３を良く絡めて出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2159122",
+    "advice": "シャキッと感を楽しみたかったので厚めに切りました♪(＾v＾)明太子の代わりにたらこでも美味しいよ☆",
+    "history": "れんこんが特売だったので♪(＾v＾)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこんサラダ 明太子"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2159122/100x141c/f177eecec621e77a91811b190c91aaaa.jpg?u=3671213&p=1363666036"
+}

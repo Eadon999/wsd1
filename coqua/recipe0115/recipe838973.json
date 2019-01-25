@@ -1,0 +1,50 @@
+{
+    "name": "ピザ風ちくわ♥",
+    "author": {
+        "@type": "Person",
+        "name": "紅葉ｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/838973/464x260/f90644e9ae8e27b9fb4130785ff049a2.jpg?u=1389109&p=1342162732",
+    "datePublished": "2009-06-18",
+    "description": "ちくわの上で熱々のケチャップに　とろーりチーズが重なって美味しい１品ができました＾＾",
+    "recipeYield": "1本分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "適量"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒こしょう　or　パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを4等分にします。",
+        "ちくわの凹にケチャップ、チーズをのせる。",
+        "トースターで5分間焼いて、黒こしょうかパセリを振ったら出来上がり。",
+        "１０人目のｗａｔｙａｍｉさん❤ \n\nお弁当に入れてもいいですね！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "838973",
+    "advice": "切って、のせて、焼くだけの簡単レシピです。",
+    "history": "何にでも合う、万能食品「ちくわ」今ちくわの美味しい食べ方を考えてます！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "トマトケチャップ",
+        "とろけるチーズ"
+    ],
+    "tsukurepo_count": "791",
+    "thumbnail": "https://img.cpcdn.com/recipes/838973/100x141c/88e5b142af5b3376925976b19caac046.jpg?u=1389109&p=1342162732"
+}

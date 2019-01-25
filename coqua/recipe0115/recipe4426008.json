@@ -1,0 +1,66 @@
+{
+    "name": "煮込むだけ◎手羽元の旨煮",
+    "author": {
+        "@type": "Person",
+        "name": "かとうこうめい"
+    },
+    "image": "https://img.cpcdn.com/recipes/4426008/464x260/f2ed9e2ad87caafc96dce4ae6c83a80e.jpg?u=16742351&p=1490073344",
+    "datePublished": "2017-03-21",
+    "description": "ご飯のお供にぴったり☆甘辛手羽元の旨煮です◎",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "200g"
+        },
+        {
+            "name": "水",
+            "quantity": "180cc"
+        },
+        {
+            "name": "本だし",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "180cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "180cc"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "180cc"
+        },
+        {
+            "name": "上白糖",
+            "quantity": "90g"
+        },
+        {
+            "name": "ごま",
+            "quantity": "1g"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水、本だし、料理酒、みりん、濃口醤油、上白糖を入れて、手羽元を入れて強火にかける。",
+        "落としぶたをして、沸騰するまで待つ。",
+        "沸騰したら落としぶたをしたまま、弱火にしてタレにとろみが出るまでじっくり煮込む。",
+        "出来上がれば皿に盛り、タレをかけて、ごまを振りかけて完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "4426008",
+    "advice": "煮込み過ぎると焦げやすくなるので、お気をつけ下さい♪",
+    "history": "酒に合う、ご飯が進む肉料理が食べたかったので作りました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元うま煮",
+        "手羽元の旨煮",
+        "煮込むだけ◎手羽元の旨煮"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4426008/100x141c/bb9e6c8a864838f7ab4adeeec4aed640.jpg?u=16742351&p=1490073344"
+}

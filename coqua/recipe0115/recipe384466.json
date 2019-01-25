@@ -1,0 +1,58 @@
+{
+    "name": "お弁当の赤に☆あっという間のかにカマ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "tommikko"
+    },
+    "image": "https://img.cpcdn.com/recipes/384466/464x260/280ba83b9a4907a29844e32f960c6749.jpg?u=478476&p=1214216294",
+    "datePublished": "2007-06-05",
+    "description": "簡単すぎてごめんなさい。。（*∀*）でも赤をおいしく簡単にプラスできちゃいます♪2007.12.27初めての話題入り♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "かにかま",
+            "quantity": "２本"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "少量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "かにカマに小麦粉をまぶし、油を熱したフライパンで焼く。",
+        "かにカマの表面に焼き色がついて火が通ってきたら、火を止め皿に取る。",
+        "フライパンの余熱で◎を溶かし混ぜて、２にかければ完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "384466",
+    "advice": "たれは焦げやすいので、必ず火を止めて入れ混ぜて下さい♪切ってから焼くと、形が綺麗に焼けます（＾ー＾*）",
+    "history": "ミニトマト以外にお弁当に赤を取り入れたくて、かにカマを焼いてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かにかま",
+        "小麦粉",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/384466/100x141c/6815fc53045f0417e3023558eb971b0a.jpg?u=478476&p=1214216294"
+}

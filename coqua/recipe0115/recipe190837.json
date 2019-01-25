@@ -1,0 +1,63 @@
+{
+    "name": "なすのきんぴら風炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/190837/464x260/f1ff94faa985a7c57c1f5f7441c1dfaa.jpg?u=54489&p=1214211766",
+    "datePublished": "2005-04-02",
+    "description": "おかずにしても、丼にしても、ご飯がすすむ一品です♪(^o^*) 動画アリ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "５本（３６０g）"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１.５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１.５"
+        },
+        {
+            "name": "かつおだしの素",
+            "quantity": "小さじ１/３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２（味をみながら調節）"
+        },
+        {
+            "name": "白すりゴマ",
+            "quantity": "大さじ１.５"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "なすを縦半分に切り、更に縦半分に切って乱切りにし、水にさらし、ザルにあげ、水を切る。",
+        "フライパンにごま油をひいて、なすを炒める。",
+        "砂糖、だしの素、みりんを加え、甘みをなじませるように軽く炒め煮、仕上げに味をみながら醤油とすりゴマをふり入れて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "190837",
+    "advice": "なすの紫色の成分ナスニンとポリフェノールはコレステロール値を下げる効果がある。ポリフェノールは活性酵素の働きを抑え、老化防止やガン予防になる。動画レシピ：http://www.youtube.com/watch?v=C3ZcVgJtU1Q",
+    "history": "うちの定番！お気に入りなので更新しました♪as of 9/1/2006",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "その他/お弁当/色別おかず/黒・茶系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "みりん",
+        "砂糖",
+        "かつおだしの素"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/190837/100x141c/3a3731ba0137bf089a607e4d3fdf112c.jpg?u=54489&p=1214211766"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "【農家のレシピ】長ネギの肉巻フライ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1399287/464x260/18445b262c683f35c3e6d46814176950.jpg?u=2513693&p=1301583130",
+    "datePublished": "2011-04-01",
+    "description": "１人分、たった５０gの豚肉で長ネギを包んで美味しいフライを作りましょう。疲労回復レシピだよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは４等分にして、軽く塩コショウをした豚ばら肉を巻きます。\n",
+        "豚ばら肉を巻いた白ネギに小麦粉→卵→パン粉をつけます。\n",
+        "次に１８０度に熱した油でカラッとあげて出来上がり。\n",
+        "ウスターソースをつけてどうぞ。\n\n長ネギがぶちゅーっと熱い汁をだす事もあるので、一口サイズに切ってね。\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1399287",
+    "advice": "",
+    "history": "長ネギを豚肉など合わせるとビタミンB１が無駄なく吸収できるので、豚巻きフライにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白ねぎ 肉巻きフライ",
+        "長ネギフライ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1399287/100x141c/a96821f42b84b57f432332cc019018d5.jpg?u=2513693&p=1301583130"
+}

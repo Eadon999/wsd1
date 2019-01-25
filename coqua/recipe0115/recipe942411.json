@@ -1,0 +1,59 @@
+{
+    "name": "ちんげん菜でもう一品",
+    "author": {
+        "@type": "Person",
+        "name": "☆とおこ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/942411/464x260/4dacc6f73280f3fcea445d5b4dc2c73b.jpg?u=1626885&p=1256020840",
+    "datePublished": "2009-10-20",
+    "description": "ちんげん菜　ネギ　　しょうがだけで簡単に出来る一品です",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ちんげん菜",
+            "quantity": "２かぶ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "★ゴマ油",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ　１"
+        }
+    ],
+    "recipeInstructions": [
+        "ちんげん菜を１枚づつにして\r\n熱湯でサッと茹でます",
+        "ネギとしょうがはみじん切りにします",
+        "★の調味料を混ぜます",
+        "茹でたちんげん菜に混ぜた調味料をかけるだけで\r\n出来あがり～♪\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "942411",
+    "advice": "",
+    "history": "酢の物好きな旦那サンの為に大好物のちんげん菜でアッという間にに出来る一品ですゴマ油好きにもたまらない味ですよ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちんげん菜",
+        "ねぎ",
+        "しょうが",
+        "酢"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/942411/100x141c/061dfef5acea4868b756ae478c83fbbb.jpg?u=1626885&p=1256020840"
+}

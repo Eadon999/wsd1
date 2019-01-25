@@ -1,0 +1,60 @@
+{
+    "name": "刺身より旨っ！☆まぐろの角煮",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3369866/464x260/d721f67348b5fdd11e4f1bbcda9fd1d4.jpg?u=10112198&p=1457166885",
+    "datePublished": "2015-09-03",
+    "description": "ご飯がすすみます。お酒にも合います。お弁当のおかずにもぴったり♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "まぐろかたまり(刺身のさくでも)",
+            "quantity": "1かたまり"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1片"
+        }
+    ],
+    "recipeInstructions": [
+        "まぐろを食べやすい大きさに切ります。\n生姜は細かく切ります。",
+        "フライパンに調味料を入れ熱し、まぐろを入れる。弱火にし\nアク取りペーパーをかぶせる(落とし蓋でも)",
+        "弱火で汁がなくなるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3369866",
+    "advice": "落とし蓋かアク取りペーパーをしたほうがいいと思います。",
+    "history": "よく行く魚屋さんは、刺身で売れない、筋のあるまぐろのかたまりを、たまに売っています。本まぐろなので、煮るととても美味しくて、見かけると必ず購入します。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": [
+        "刺身 8位"
+    ],
+    "related_keywords": [
+        "まぐろかたまり",
+        "まぐろ 角煮",
+        "まぐろ",
+        "マグロ 刺身"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/3369866/100x141c/e83989279de519f0706c7bc454bb3be3.jpg?u=10112198&p=1457166885"
+}

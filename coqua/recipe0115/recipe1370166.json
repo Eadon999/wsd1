@@ -1,0 +1,61 @@
+{
+    "name": "カボチャのさっぱりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1370166/464x260/d4212a183d99f869ec70e8acdb4cd050.jpg?u=1194496&p=1512965400",
+    "datePublished": "2011-02-23",
+    "description": "甘さと酸味でさっぱりと♪",
+    "recipeYield": "２人分　",
+    "recipeIngredient": [
+        {
+            "name": "カボチャ",
+            "quantity": "３００㌘"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "胡桃ｏｒスライスアーモンド",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイルまたはサラダ油",
+            "quantity": "大さじ１と２分の１"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "大さじ半分"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャのわたを取り、１口大に切り電子レンジで柔らかくなるまでチンする。お好みの大きさに潰す。",
+        "ボールに、ドレッシングの材料をよく混ぜる。",
+        "チンしたカボチャにドレッシング材料をかけ、さめたらマヨネーズを加えあえる。",
+        "お皿に盛り、お好みで胡桃やスライスアーモンドをふる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1370166",
+    "advice": "マヨネーズはお好みですが、少なめでもさっぱりとしておいしいですよ♪",
+    "history": "お酢がきいたカボチャのサラダが食べてみたいと思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ",
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ サラダ"
+    ],
+    "tsukurepo_count": "149",
+    "thumbnail": "https://img.cpcdn.com/recipes/1370166/100x141c/7238a6e30cbd6f40eb9da630bb1f9aeb.jpg?u=1194496&p=1512965400"
+}

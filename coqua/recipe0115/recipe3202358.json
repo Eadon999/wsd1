@@ -1,0 +1,77 @@
+{
+    "name": "具だくさん♫　ミネストローネ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3202358/464x260/61948d22b1da02cda4370993c1e4fb96.jpg?u=3280486&p=1432772673",
+    "datePublished": "2015-05-28",
+    "description": "具だくさんのミネストローネ（●＾o＾●）「酸味ひかえめ」で食べやすい1品です☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "シメジ（ほぐす）",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉葱（粗みじん）",
+            "quantity": "100g（1/2個）"
+        },
+        {
+            "name": "人参（粗みじん）",
+            "quantity": "50g"
+        },
+        {
+            "name": "ソーセージ（1cmに切る）",
+            "quantity": "50g"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "カットトマト（缶詰）",
+            "quantity": "400g（1缶）"
+        },
+        {
+            "name": "水",
+            "quantity": "400ml"
+        },
+        {
+            "name": "固形ブイヨン",
+            "quantity": "2個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油を入れて、強火で玉葱と人参を1分炒めます。",
+        "シメジとソーセージを加えて1分炒めます。",
+        "<スープ>を入れて混ぜ合わせます。",
+        "煮立ったら蓋をして弱火で10分煮ます。",
+        "<調味料>で味を調えたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3202358",
+    "advice": "固形ブイヨンの代わりに「スープの素大さじ1」や「かつおダシ大さじ1」でも作れます!(^^)!",
+    "history": "具がたくさん入った、トマト味のスープを食べたくて考えました♫",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ミネストローネ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミネストローネ 味噌"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3202358/100x141c/65a1e0b9996a103ca496b83de7afc584.jpg?u=3280486&p=1432772673"
+}

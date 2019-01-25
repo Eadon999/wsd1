@@ -1,0 +1,57 @@
+{
+    "name": "鮭の卵パン粉焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kotomam100"
+    },
+    "image": "https://img.cpcdn.com/recipes/1944010/464x260/37257812de280b2ad567eaa921b3236f.jpg?u=4444957&p=1348305477",
+    "datePublished": "2012-09-08",
+    "description": "鮭にふんわり卵のソースをかけてトースターで焼くだけの簡単レシピ♪余ればお弁当の一品にもできます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭の切身",
+            "quantity": "3切"
+        },
+        {
+            "name": "○卵(ゆで)みじん",
+            "quantity": "2個"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大4"
+        },
+        {
+            "name": "○塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アルミホイルに薄く油をひく\n(鮭が下に引っ付かないように)",
+        "1に鮭を隙間なく並べ、混ぜ合わせた○をまんべんなく上に塗る",
+        "オーブントースターで中火で焼き、鮭に火が通ったら一度取り出しパン粉をかける",
+        "再び入れて強火でパン粉にうっすら焦げ目がついたら、パセリを散らして出来上がり",
+        "専門家厳選レシピ（キッズ）に登録して頂きました！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1944010",
+    "advice": "卵のソースとパン粉のふわっサクッとした食感を出すため、パン粉に少し焦げ目をつけます",
+    "history": "小さい頃に食べていた母の味を少しアレンジしました簡単に作れて美味しいんです",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭 卵"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1944010/100x141c/ef8e21ca3ae5d5733c2bd3d72e0f2237.jpg?u=4444957&p=1348305477"
+}

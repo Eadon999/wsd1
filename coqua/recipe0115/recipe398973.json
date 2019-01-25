@@ -1,0 +1,57 @@
+{
+    "name": "♫お弁当のおかず♫豚肉チーズピカタ",
+    "author": {
+        "@type": "Person",
+        "name": "オーブル"
+    },
+    "image": "https://img.cpcdn.com/recipes/398973/464x260/5fa3aae756a7d9ad024f86c927dca7a9.jpg?u=260414&p=1214216598",
+    "datePublished": "2007-07-04",
+    "description": "簡単にサッと出来ます♪味もついているのでそのまま食べれてラクチンです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "玉子",
+            "quantity": "1個"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大1"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "5滴"
+        },
+        {
+            "name": "青味・塩コショー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お肉以外を全部混ぜ、3切れほどに分けたお肉を玉子液にくぐらせ、油を引いたフライパンで焼く",
+        "両面焼けたら、もう一度玉子液にくぐらせてまた焼く",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "398973",
+    "advice": "玉子液は必ず余っちゃいますので、そのまま朝食の1品にオムレツとかで使ってください",
+    "history": "お弁当にありがちなハム・ウインナーに飽きたけど、揚げ物は朝からしたくない。。。そういう時は迷わずこれにしています",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": [
+        "豚肉のピカタ 9位"
+    ],
+    "related_keywords": [
+        "豚薄切り肉",
+        "玉子",
+        "粉チーズ",
+        "トマトケチャップ"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/398973/100x141c/7bf3090e2ecfa70d0035759f39e3243d.jpg?u=260414&p=1214216598"
+}

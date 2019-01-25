@@ -1,0 +1,58 @@
+{
+    "name": "箸が止まらないズッキーニの漬物",
+    "author": {
+        "@type": "Person",
+        "name": "perthlove3"
+    },
+    "image": "https://img.cpcdn.com/recipes/1867945/464x260/5ee5ed6ba3873206e34c2536edd4fc9d.jpg?u=3134610&p=1373238411",
+    "datePublished": "2012-06-29",
+    "description": "ピリッと甘酸っぱいズッキーニのお漬物♪パクパクとお箸が止まりませんよ♪つくれぽ１００人ありがとうございます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "中１本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "鷹の爪(小口切り)",
+            "quantity": "1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは縦に何本が皮を剥き、約7ミリの輪切りにする。\n塩（分量外）で揉み、１５分ほど置いておく。",
+        "ズッキーニから出た水分をギューっと絞る。\n合わせた調味料に漬け、一晩おく。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1867945",
+    "advice": "キュウリを塩揉みするように、ズッキーニをギューっと絞って水分を出してあげる。",
+    "history": "スーパーの試食で食べたズッキーニの漬物が美味しくてびっくり！さっそく再現してみましたが、満足いく仕上がりになりました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "調味料",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "250",
+    "thumbnail": "https://img.cpcdn.com/recipes/1867945/100x141c/77ce47f644624ca52c55c889178f9e05.jpg?u=3134610&p=1373238411"
+}

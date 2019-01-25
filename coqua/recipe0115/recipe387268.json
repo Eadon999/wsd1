@@ -1,0 +1,59 @@
+{
+    "name": "簡単！エリンギのマヨステーキ♪",
+    "author": {
+        "@type": "Person",
+        "name": "annkoronn"
+    },
+    "image": "https://img.cpcdn.com/recipes/387268/464x260/906268539580fbc965f8a6ba35acd035.jpg?u=457265&p=1214216347",
+    "datePublished": "2007-06-10",
+    "description": "早い！安い！旨い！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは、縦にスライスします",
+        "中火で熱したフライパンにマヨネーズを入れエリンギも入れます。両面焼きます。\r\n\r\n\r\n\r\n\r\n",
+        "白ワインを入れ、蓋をして、暫し待ちます。",
+        "エリンギがしんなりしたら、黒コショウ、醤油を少々入れ、ざっと絡めてお皿に盛り、ドライパセリをかけて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "387268",
+    "advice": "マヨらーには、たまらん一品です。",
+    "history": "前ーに　しんごママが、マヨネーズで炒めるのを見て、私なりにアレンジしてみました。我が家では定番メニューです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "マヨネーズ",
+        "白ワイン",
+        "黒コショウ"
+    ],
+    "tsukurepo_count": "259",
+    "thumbnail": "https://img.cpcdn.com/recipes/387268/100x141c/ae1e050238b2a1a42ffdd3d4a6e429cf.jpg?u=457265&p=1214216347"
+}

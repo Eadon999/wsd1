@@ -1,0 +1,77 @@
+{
+    "name": "一番簡単★シチュー",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/706222/464x260/4cf257e36ca7650b677b554dab6db2dc.jpg?u=1088838&p=1358322529",
+    "datePublished": "2008-12-30",
+    "description": "話題入りありがとう！ こんなに簡単なのにとっても美味しい、手作りシチュー♪",
+    "recipeYield": "約４人分",
+    "recipeIngredient": [
+        {
+            "name": "★玉ねぎ",
+            "quantity": "１こ"
+        },
+        {
+            "name": "★鶏もも",
+            "quantity": "１／２枚"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小１／２"
+        },
+        {
+            "name": "★バター",
+            "quantity": "２カケ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大２．５"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "１こ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "６００ｍｌ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "大１"
+        },
+        {
+            "name": "コーン",
+            "quantity": "１缶"
+        }
+    ],
+    "recipeInstructions": [
+        "★を軽く炒め、小麦粉も入れて炒めたら、牛乳600のうち先に200入れてダマをなくす。",
+        "残りの材料を全部入れて、とろみが出るまでコトコト煮たら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "706222",
+    "advice": "牛乳が吹きこぼれない様、早く仕上げる為に野菜は薄く切ること。",
+    "history": "市販のルーを使わずに作りたいと思ったのがきっかけで、試行錯誤しました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/シチュー/クリームシチュー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "鶏もも",
+        "塩",
+        "バター"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/706222/100x141c/cb7633861ebdfcfac2e7d443d1218ee1.jpg?u=1088838&p=1358322529"
+}

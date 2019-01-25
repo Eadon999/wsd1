@@ -1,0 +1,54 @@
+{
+    "name": "もやしのにんにくゴマ和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "こは＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1839666/464x260/e5fd249f7c6c0c9c71e5b629eb9e8fa1.jpg?u=792028&p=1338873993",
+    "datePublished": "2012-06-05",
+    "description": "にんにくのおかげで、もやしがモリモリ食べれますよ。大豆もやしだと、更に歯ごたえ抜群です。",
+    "recipeYield": "もやし１袋分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "おろしにんにく(チューブでも可)",
+            "quantity": "大きめひとかけorチューブ2㎝~"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは、さっとゆで、水気をきる。\n\n調味料を全て合わせておく。",
+        "もやしが熱いうちに、合わせた調味料と和えて完成。\n\nすぐ食べても、冷蔵庫において味をなじませても美味しいです。",
+        "普通のもやしバージョン。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1839666",
+    "advice": "もやしは、水気をしっかりきり、温かいまま調味料と合わせて下さい。大豆もやしでなく、普通のもやしでもおいしいです。",
+    "history": "もやしだけで簡単に。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "しょうゆ",
+        "砂糖",
+        "すりごま"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1839666/100x141c/6df93a99b45c906427ab6e3d31318938.jpg?u=792028&p=1338873993"
+}

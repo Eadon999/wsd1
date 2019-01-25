@@ -1,0 +1,55 @@
+{
+    "name": "ささみのごままぶし焼き　カレー粉でね",
+    "author": {
+        "@type": "Person",
+        "name": "とだかちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2495290/464x260/1876dcf9410d144aa07ab3cbbdd7f5f7.jpg?u=712677&p=1391876220",
+    "datePublished": "2014-02-09",
+    "description": "ささみに塩こしょうとカレー粉で味をつけ、ごまをまぶして焼きました。ごまの香りとカレー粉でやみつき！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "３本"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵液",
+            "quantity": "１個"
+        },
+        {
+            "name": "煎りゴマ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみのすじを取り１本を２～３カットして塩こしょう、カレー粉をまぶす。",
+        "卵液につけてごまをぐるっとまわしつける。",
+        "フライパンにサラダ油を入れてなじませ、ごまをつけたささみを焼いていく。\n火が通ればOK"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2495290",
+    "advice": "卵液をつけることでさくっといきます。",
+    "history": "塩こしょうだけでもおいしいけどカレー粉を＋したら食欲も出るかなとしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ カレー粉"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2495290/100x141c/c88dd616dfd9b5c9981d94d229c1ea9c.jpg?u=712677&p=1391876220"
+}

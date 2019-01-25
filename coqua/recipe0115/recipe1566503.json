@@ -1,0 +1,54 @@
+{
+    "name": "✿ほうれん草とツナの彩り和風サラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "Ｔ，ＳＡＥＫＯ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1566503/464x260/2f83ed75de910471896166aaedd413f5.jpg?u=1176627&p=1336792297",
+    "datePublished": "2011-09-10",
+    "description": "副菜やお弁当のちょっとした隙間に♪簡単へるし～な一品です☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "半束"
+        },
+        {
+            "name": "ノンオイルツナ缶",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "５㎝"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は５㎝幅に切って茹でて水につけておく。\n人参は千切りにして塩を振り水出ししておく。",
+        "ボウルに①の水分を固く絞った野菜を入れ　ツナ缶は水分を切り中身を入れる。\n麺つゆでよく混ぜあわせる。",
+        "器に盛って出来上がり♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "1566503",
+    "advice": "ほぅれん草も人参もよく水を切ること程度です。",
+    "history": "叔母から教えてもらったことを思い出しながら作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "人参",
+        "麺つゆ",
+        "塩"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1566503/100x141c/ec8b7b82bc79e92b743888676bb17a5d.jpg?u=1176627&p=1336792297"
+}

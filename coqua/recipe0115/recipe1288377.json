@@ -1,0 +1,58 @@
+{
+    "name": "さつまいも入りかぼちゃサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1288377/464x260/f08f16e8944dcac9ffb36d6c11082a40.jpg?u=377757&p=1290167614",
+    "datePublished": "2010-11-19",
+    "description": "クリームチーズがなくてもプレーンヨーグルトで出来ちゃう、さつまいも入りのかぼちゃサラダ☆子供も大好き♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中１本"
+        },
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "プレーンヨーグルト",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ベビーチーズ",
+            "quantity": "1個"
+        },
+        {
+            "name": "レーズン",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは皮をむいて輪切りにし、かぼちゃは、適当なサイズに切ってルクエで約７分。ふんわりラップをして耐熱容器でも可能。",
+        "１をマッシュしてなめらかになったらヨーグルトとマヨネーズを入れて混ぜる。",
+        "ベビーチーズを手でちぎりながら入れて、レーズンも入れて混ぜれば完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1288377",
+    "advice": "チーズとレーズンはお好みで♪パンに挟んで食べても美味しいです＾＾",
+    "history": "さつまいもを入れて、もっとおやつ感覚のかぼちゃサラダにしたくて考えたレシピ！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "かぼちゃ",
+        "プレーンヨーグルト",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1288377/100x141c/1e33cb20388c8c1373b75c6d0f8c185b.jpg?u=377757&p=1290167614"
+}

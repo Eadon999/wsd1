@@ -1,0 +1,75 @@
+{
+    "name": "簡単★アレンジ  ナポリタンうどん",
+    "author": {
+        "@type": "Person",
+        "name": "WesternMama"
+    },
+    "image": "https://img.cpcdn.com/recipes/36183/464x260/16d8f7cd94bbac4f98c90f7052bcb787.jpg?u=5199&p=1214208840",
+    "datePublished": "2001-12-01",
+    "description": "ナポリタンスパゲッティーのうどんバージョンです。歯ごたえもっちりでなかなかいけますよ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "3cm"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "4本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大3"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1/3個"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大1と1/2"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんを茹でる。市販のゆで麺を利用してもOK。",
+        "にんにくはみじん切り、その他は千切りにする。うどんに少量のオリーブ油をふり、レンジで温める。。",
+        "フライパンににんにくとオリーブ油を入れ、具を炒める。調味料と②のうどんを加えて味をととのえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "36183",
+    "advice": "具は、お好みのものを利用して下さい。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん アレンジ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/36183/100x141c/042c57f2f4b0b5a14a562ad26f91c761.jpg?u=5199&p=1214208840"
+}

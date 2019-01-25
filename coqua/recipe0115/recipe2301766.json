@@ -1,0 +1,55 @@
+{
+    "name": "簡単☆油揚げとキャベツのうまソース炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "jjcream"
+    },
+    "image": "https://img.cpcdn.com/recipes/2301766/464x260/b3784d49df77425d01a987718bfc67e4.jpg?u=1156502&p=1375190681",
+    "datePublished": "2013-07-30",
+    "description": "油揚げとキャベツを炒め、甘辛なソース味に仕上げました。ごはんの進む、美味しいおかずです。ヘルシーなおつまみにしてもＯＫ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは１ｃｍ幅に切ります。\nキャベツは食べやすい大きさに切ります。\nソースとみりんを合わせておきます。\n",
+        "油揚げをフライパンで乾煎りし、取り出しておきます。\nフライパンにごま油を熱し、キャベツを炒めます。\n",
+        "色が鮮やかになったら、ソースをかけ、油揚げを戻し入れます。\nさっと和え、仕上げにごまをふります。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2301766",
+    "advice": "甘めのソースであれば、みりんは加減してください。卵でとじて、ごはんに乗せてもおいしいです。",
+    "history": "あと一品欲しくて、有り合わせで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 油揚げ 炒め"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2301766/100x141c/ae139a44da09e3b0dbcb8c031988aec8.jpg?u=1156502&p=1375190681"
+}

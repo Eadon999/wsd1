@@ -1,0 +1,80 @@
+{
+    "name": "❤大根煮物たまにはカレー風味で❤",
+    "author": {
+        "@type": "Person",
+        "name": "ooみうoo"
+    },
+    "image": "https://img.cpcdn.com/recipes/2520514/464x260/ee670e4bb85ec7fdf5d2c9a2d92cfe49.jpg?u=3447396&p=1393371869",
+    "datePublished": "2014-02-26",
+    "description": "カレー風味でご飯も進むよ(･x･) いつもの味に飽きたら是非作ってみてね♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ひき肉(豚でも合挽きでも）",
+            "quantity": "100g弱"
+        },
+        {
+            "name": "水",
+            "quantity": "300ml"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "ソース",
+            "quantity": "小1"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小1～"
+        }
+    ],
+    "recipeInstructions": [
+        "大根・人参は厚めのいちょう切り。\n大根は軽く下茹でしておく。",
+        "熱した鍋分量外のサラダ油を入れひき肉を炒める。カレー粉1/2を入れひき肉に味をつける。なじんだら大根・人参も入れ炒める。",
+        "水300mlとだしの素を入れる。\n煮立ったら☆を入れる。5分ほど経ったら醤油とソース・残りのカレー粉も入れる。",
+        "落し蓋をして汁気が1/3になるまで煮込んだら完成～♬",
+        "火を消してお鍋の中でそのままおいておくと更にしみます!"
+    ],
+    "cookTime": null,
+    "recipe_id": "2520514",
+    "advice": "*ひき肉じゃなくてもお肉ならなんでも大丈夫だと思います!*煮こむときは弱中火で。仕上げは強火で汁気を飛ばしました!",
+    "history": "*いつもの煮物と違う味を作りたくて♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "ひき肉",
+        "水"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2520514/100x141c/bb0bee491e92185ccb5a63eef8fba249.jpg?u=3447396&p=1393371869"
+}

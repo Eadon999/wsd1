@@ -1,0 +1,62 @@
+{
+    "name": "簡単！醤油の炊き込みご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2189569/464x260/47a7f17370fc3315af6efd8030b7c59f.jpg?u=921598&p=1365823542",
+    "datePublished": "2013-04-13",
+    "description": "父のリクエストで作った醤油味の炊き込みご飯☆具無しですが鰹だしがポイント！素朴な味でモリモリ進んじゃう美味しさです＾＾♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "●水",
+            "quantity": "500ｃｃ"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●かつおだしの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "大葉（千切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に●の材料を入れて煮立たせ、冷ましておく。",
+        "炊飯器に1と研いで水気を切ったお米を入れてセットし、炊き上がったら茶碗に盛って大葉を乗せたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2189569",
+    "advice": "煮汁はお好みのご飯の硬さで調整して下さいねぇ♪",
+    "history": "父のリクエストで作りましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "具なし炊き込みご飯"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2189569/100x141c/1fab20e5e3d0a82f361f6804f42dd066.jpg?u=921598&p=1365823542"
+}

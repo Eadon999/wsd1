@@ -1,0 +1,54 @@
+{
+    "name": "さっぱりおいしい★オクラの梅肉和え",
+    "author": {
+        "@type": "Person",
+        "name": "蒼緑茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/268417/464x260/88dd9231e62b7debd3728d8c8b76379c.jpg?u=234500&p=1214213336",
+    "datePublished": "2006-07-21",
+    "description": "夏にうれしい、さっぱりした一品です★簡単すぎてごめんなさい(^^ゞ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "5～6本"
+        },
+        {
+            "name": "梅",
+            "quantity": "1個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラに塩をまぶし、うぶ毛をとるようにこすりつける。塩がついたまま熱湯で2分程ゆでて冷水にとる。",
+        "梅は種をとり包丁で細かくたたく。",
+        "水気をとったオクラを輪切りにして器に盛り付け、かつおぶし、梅肉をのせる。お好みでめんつゆをかけてできあがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "268417",
+    "advice": "食べる時は混ぜてください。さっぱりとおいしいです♪",
+    "history": "いつの頃からか夏の定番メニューです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "梅",
+        "かつおぶし",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/268417/100x141c/4ad538722c3409f3a8c41d39348b50fc.jpg?u=234500&p=1214213336"
+}

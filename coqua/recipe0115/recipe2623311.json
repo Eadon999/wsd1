@@ -1,0 +1,55 @@
+{
+    "name": "小松菜のにんにくお浸し",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2623311/464x260/e34c5bb336039402a8e9e63e62136508.jpg?u=4819316&p=1399813038",
+    "datePublished": "2014-05-11",
+    "description": "14/6/27話題入り有難うございます、和風のお浸しだけど、にんにくを効かせてぐっとくる味にしてみました",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束（２００ｇ）"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●炒りごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はラップに包んでレンジ５００Ｗで２分半加熱する",
+        "小松菜を水に放してしっかり絞って水気を切り、４センチ長さに切る",
+        "ボウルに小松菜とみじん切りにしたにんにくと●を入れて混ぜる",
+        "器に盛って出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2623311",
+    "advice": "にんにくの量はお好みで加減して下さい",
+    "history": "パンチの効いたお浸しを作ってみたいと思って、にんにくを入れてみてもいけそうな野菜を選んで作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "にんにく",
+        "しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2623311/100x141c/b1725c49a83ce19e2eaf5217a46b990a.jpg?u=4819316&p=1399813038"
+}

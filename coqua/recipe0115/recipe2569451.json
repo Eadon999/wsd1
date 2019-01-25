@@ -1,0 +1,48 @@
+{
+    "name": "大根とワカメのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ﾒｸﾞﾏ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2569451/464x260/3725c0e7bf7ae6d47e0bec778b1ff397.jpg?u=7111839&p=1396440902",
+    "datePublished": "2014-04-02",
+    "description": "私の定番、お味噌汁です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "３㎝～お好みで"
+        },
+        {
+            "name": "乾燥ワカメ",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "出汁(顆粒、パックなど)",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "水、味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は太めの千切り。\n水から大根を茹でていきます。\n出汁も水から一緒に入れて、大根がやわらかくなるまで煮ます。",
+        "大根が煮えたら、味噌、ワカメを加えて完成♪                               "
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2569451",
+    "advice": "大根は太めが美味しいです♪",
+    "history": "私も息子も大好きなお味噌汁です♪人に聞くと「大根とワカメは珍しい！」の意見が多かったのでレシピにしてみました(^^)/",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "乾燥ワカメ",
+        "出汁"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2569451/100x141c/2f606cbce32864642fb8fa82f743bde5.jpg?u=7111839&p=1396440902"
+}

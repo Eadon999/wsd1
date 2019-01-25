@@ -1,0 +1,70 @@
+{
+    "name": "ちくわとしいたけのコクしょうゆ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "石持ち"
+    },
+    "image": "https://img.cpcdn.com/recipes/598170/464x260/30b5b5332f377b76ce0bb59401521b6f.jpg?u=416919&p=1215133479",
+    "datePublished": "2008-06-24",
+    "description": "簡単安上がりレシピです。しょうがとにんにくがいい仕事してます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "小５本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "にんにく、しょうが",
+            "quantity": "１かけずつ"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは斜め切り。しいたけは６等分。\nしいたけは肉厚のがうまいよ。",
+        "フライパンにサラダ油、しょうが･にんにくのみじん切りをいれ、点火。香りが立ったら、ちくわとしいたけを投入。\n",
+        "軽くいためて、○印の調味料を入れ、からめる。最後に白ゴマを振って完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "598170",
+    "advice": "甘めのほうがおいしい。",
+    "history": "嫁さんの定番です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "しいたけ",
+        "サラダ油",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/598170/100x141c/a2c202d193591cef4c3f2cbff86c2d47.jpg?u=416919&p=1215133479"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "和風♪じゃがいものチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "かざぴー"
+    },
+    "image": "https://img.cpcdn.com/recipes/551975/464x260/ff015884b0ccb96056c8756628fde67e.jpg?u=671779&p=1285394787",
+    "datePublished": "2008-04-17",
+    "description": "ごま油、麺つゆで味付けをしてちょっと和風にいただきます。チーズとの相性は◎",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "大1/2個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "①じゃがいもは食べやすい大きさの薄切りにする。\r\n②フライパンにごま油を熱し、じゃがいもにほんのりと焦げ目が付くまで裏表炒める。",
+        "③②のじゃがいもに麺つゆをかけ、チーズをパラパラと乗せたら、フライパンに蓋をし、蒸し焼きにする。\r\n",
+        "④チーズが溶けてきたら蓋をはずし、チーズがこんがりとしてきたら、皿に盛る。\r\nお好みで細ネギを散らす。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "551975",
+    "advice": "すぐにチーズが固まってしまうので、熱々なうちに食べてくださいね。",
+    "history": "洋風な食べ物をお醤油味で食べるのが好きなので和風に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ごま油",
+        "めんつゆ",
+        "とろけるチーズ"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/551975/100x141c/435b0d75faa4c4564b96f3bf11a4191c.jpg?u=671779&p=1285394787"
+}

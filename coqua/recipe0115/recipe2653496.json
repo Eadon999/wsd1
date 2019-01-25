@@ -1,0 +1,73 @@
+{
+    "name": "鶏のみそつくね♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2653496/464x260/458ba06b359e562d9667950bbd0caaf3.jpg?u=9552524&p=1401703573",
+    "datePublished": "2014-06-02",
+    "description": "味がしっかり付いた柔らか～いつくね♡お弁当にもいいですよ(^^♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "★鶏ひき肉（もも肉）",
+            "quantity": "２００g"
+        },
+        {
+            "name": "★白ネギ（みじん切り）",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "★しめじ（みじん切り）",
+            "quantity": "１/４パック"
+        },
+        {
+            "name": "★玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "★パン粉",
+            "quantity": "１/２cup"
+        },
+        {
+            "name": "★おろしショウガ",
+            "quantity": "少々"
+        },
+        {
+            "name": "♡味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "♡砂糖",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "♡酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "♡を合わせて味噌を溶いておきます。",
+        "ボールに★と①を入れよく混ぜます。（柔らかいタネになります。）",
+        "フライパンに油を熱し②をスプーンですくって（８等分）フライパンに並べ平らにして焼きます。",
+        "両面こんがり焼けたらアルミホイルでフタをして弱火で中まで火を通します。",
+        "好みの野菜と共に器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2653496",
+    "advice": "柔らかいタネなのでスプーンですくってフライパンの上で形を整えてね(^^♪うちは家庭菜園で作ったキュウリとマヨネーズを添えました♪",
+    "history": "子供達が高校生の頃はお弁当によく入れてました♪　今は旦那くんの芋焼酎のおともです(^^♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/つくね"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌つくね"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2653496/100x141c/e970dca1444773b8cf6dd7833491faad.jpg?u=9552524&p=1401703573"
+}

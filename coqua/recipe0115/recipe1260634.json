@@ -1,0 +1,59 @@
+{
+    "name": "【農家のレシピ】胡麻ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1260634/464x260/97f707d70350ead003fbc0adced62ee5.jpg?u=2513693&p=1287230052",
+    "datePublished": "2010-10-17",
+    "description": "葉野菜とお刺身にぴったりの「胡麻ドレッシング」特に水菜との相性抜群です。材料をビンに入れてシェイクするだけですよ～☆",
+    "recipeYield": "約200ｃｃ",
+    "recipeIngredient": [
+        {
+            "name": "サラダ油",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "擦りごま",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ3分の2"
+        }
+    ],
+    "recipeInstructions": [
+        "材料をすべてビンに入れて・・",
+        "シェイクシェイク！完成です～！20回くらいね～☆",
+        "水菜、レタス、サラダホウレンソウなどの葉野菜やマグロなどのお刺身にぴったりですよ☆",
+        "0221：レシピ名を変更しました。\n『葉野菜の胡麻ドレッシング』→『胡麻ドレッシング』"
+    ],
+    "cookTime": null,
+    "recipe_id": "1260634",
+    "advice": "",
+    "history": "水菜やサニーレタスなど葉野菜にあうドレッシングを調合してみました",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サラダ油",
+        "擦りごま",
+        "しょうゆ",
+        "酢"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1260634/100x141c/6244084c93f54ca8fc221b6c0e0578fd.jpg?u=2513693&p=1287230052"
+}

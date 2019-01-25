@@ -1,0 +1,64 @@
+{
+    "name": "じゃがいものガッツリにんにく甘露煮",
+    "author": {
+        "@type": "Person",
+        "name": "koyayashi"
+    },
+    "image": "https://img.cpcdn.com/recipes/3246795/464x260/29de4c64bc083d0c929a635dfbc7250c.jpg?u=3581488&p=1437906096",
+    "datePublished": "2015-07-28",
+    "description": "じゃがいもで作るにんにくマシマシの甘露煮のレシピです(๑•̀ㅁ•́ฅ✧",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "500g"
+        },
+        {
+            "name": "ａ:醤油",
+            "quantity": "40cc"
+        },
+        {
+            "name": "ａ:みりん",
+            "quantity": "70cc"
+        },
+        {
+            "name": "ａ:料理酒",
+            "quantity": "70cc"
+        },
+        {
+            "name": "ａ:ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ａ:にんにくみじん切り",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ａ:一味唐辛子",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは良く洗い、皮付きのまま大きめの一口大に切る。",
+        "鍋にａの材料を入れ約20分程弱火で煮込む。時折混ぜて焦げ付かないようにする。",
+        "じゃがいもに火が通ったら蓋を取り、鍋をあおってタレを煮詰めて照りを出して行く。",
+        "ある程度照りが出たらお皿に盛り付け、白ゴマを振ったら完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3246795",
+    "advice": "小粒な新じゃがでしたら切らずにそのまま使ってください(・∀・)煮ている時に焦げ付きそうでしたらみりんと料理酒を足して調整してみてください。",
+    "history": "本で甘露煮のレシピを見て家で余ってたじゃがいもをガッツリにんにくレシピにしてみました(ง •̀ω•́)ง",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも 甘露煮"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3246795/100x141c/aab089f2acacd31f2a2e665c1a955252.jpg?u=3581488&p=1437906096"
+}

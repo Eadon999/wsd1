@@ -1,0 +1,59 @@
+{
+    "name": "もやし・豚挽肉・ピーマンのごま醤油炒め。",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3277112/464x260/8e4f83147272e5bc77f538ddc123867c.jpg?u=10053239&p=1436057998",
+    "datePublished": "2015-07-05",
+    "description": "サッと！出来る節約炒め物です。摺りごまを使いワンパターンになりがちな味付けに工夫しました。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "豚挽肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１/２"
+        },
+        {
+            "name": "摺りごま",
+            "quantity": "大匙３"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは細切り、もやしは洗っておく。",
+        "ごま油を熱し、ひき肉を炒め火が通ったら１を炒める。",
+        "２に分量の摺りごまと醤油、砂糖を入れ更に炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3277112",
+    "advice": "辛味が入っていませんので、好きな方はこしょうやとうがらしなどを入れて下さい。きゃべつや、たまねぎなど有り合わせで作ってください。",
+    "history": "いつもの野菜炒めと違う物をと考えました。定番の調味料なのでさほどの失敗はないと思い作りました。ご飯に良く合う１品になり、さらに安上がりなのも気に入ってます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし ピーマン ひき肉"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/3277112/100x141c/154214f8df91ec412ecbd71e3590f57f.jpg?u=10053239&p=1436057998"
+}

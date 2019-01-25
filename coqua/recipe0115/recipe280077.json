@@ -1,0 +1,62 @@
+{
+    "name": "えのきとキュウリのゴマ和え",
+    "author": {
+        "@type": "Person",
+        "name": "なおざくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/280077/464x260/6d1456392ed51c48ffbdc19ac7e9ad21.jpg?u=50249&p=1214213605",
+    "datePublished": "2006-09-09",
+    "description": "さっと出来てしまいます☆副菜に",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "1本"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1房"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆白すりゴマ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げとえのきはほぐしてサっと湯通しする。キュウリは薄くｽﾗｲｽし、塩水につけしんなりしたら水気を絞る。揚げは千切り。",
+        "☆印の調味料を混ぜて、１の材料も入れ和えれば完成♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "280077",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ",
+        "えのき",
+        "油揚げ",
+        "酢"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/280077/100x141c/a8d12f5560c9e04695dc19e0ff8b5cd9.jpg?u=50249&p=1214213605"
+}

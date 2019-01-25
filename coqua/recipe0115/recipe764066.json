@@ -1,0 +1,63 @@
+{
+    "name": "焼肉の香り～✿納豆ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ぷのぷの"
+    },
+    "image": "https://img.cpcdn.com/recipes/764066/464x260/13a287dd7f36d2a362d827fe97df37b6.jpg?u=1138183&p=1237465883",
+    "datePublished": "2009-03-19",
+    "description": "スタミナたっぷりな錯覚を起こしつつヘルシーな納豆ご飯です。いつもの納豆に飽きたらぜひ♪　2009.5.17話題入り感謝♥",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "小さじ1～"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗1杯"
+        },
+        {
+            "name": "海苔",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆に焼肉のタレ、ゴマ、刻みネギを加えて混ぜる。\r\n辛いのがお好きな方はここでコチュジャンも加える。",
+        "お茶碗によそったご飯の上に①の納豆をかけ、お好みで海苔を添えて、出来上がり♪",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "764066",
+    "advice": "☆辛目の焼肉のタレ使用の場合は、砂糖をほんの一つまみ加えるとまろやかになります。",
+    "history": "いつもと違う味付けで納豆を食べたいと思い、冷蔵庫を物色。焼肉のタレが目に留まり、試したらおいしかったので♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "焼肉のタレ",
+        "白ゴマ",
+        "刻みネギ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/764066/100x141c/fc6f683314766c3f8de656601e23dc43.jpg?u=1138183&p=1237465883"
+}

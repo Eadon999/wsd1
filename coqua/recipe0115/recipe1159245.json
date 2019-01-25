@@ -1,0 +1,56 @@
+{
+    "name": "超簡単！わかさぎのから揚げ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1159245/464x260/bda9e2b7ce63d71f9600b7ff3643eecd.jpg?u=1228553&p=1313658194",
+    "datePublished": "2010-06-15",
+    "description": "丸ごと食べられるわかさぎのから揚げ、カルシウムも取れて良いですね♪ 抹茶塩でパクパクとまりません。笑",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "わかさぎ",
+            "quantity": "５・６匹"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しし唐",
+            "quantity": "２・３個"
+        },
+        {
+            "name": "粉末抹茶",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "抹茶塩用塩",
+            "quantity": "小さじ１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "しし唐（彩りなので他の野菜でもおｋ） \nのへたをとり、切り目をいれ素揚げしておく",
+        "わかさぎはサッと洗い、水気をふきとり、ビニール袋に片栗粉とともにいれ、シャカシャカし、揚げる",
+        "抹茶粉末と塩を混ぜ合わせ添える \n又は塩をふり、レモンを添えて出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1159245",
+    "advice": "写真では抹茶塩もレモンも写っていなくてすみません；；でもどちらでも美味しいです♪",
+    "history": "わかさぎが特売でしたΣ(ﾉ∀｀*)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/わかさぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかさぎ から揚げ",
+        "わかさぎ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1159245/100x141c/5e70082bab2e5d851d95534eccf51cce.jpg?u=1228553&p=1313658194"
+}

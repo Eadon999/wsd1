@@ -1,0 +1,58 @@
+{
+    "name": "お弁当のお供に！おにぎりススム卵焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "sayuriaya"
+    },
+    "image": "https://img.cpcdn.com/recipes/351506/464x260/fec283cd4fc2df618f86189d97fef80f.jpg?u=353166&p=1214215183",
+    "datePublished": "2007-03-29",
+    "description": "家にある材料で手軽に♪ これはご飯が進むよ～♪ 梅干し好きな子供達がめっちゃ喜んだよ！！　　　　　　　（０７．６．２話題入りさせていただきました～☆ありがとうございます♪♪）",
+    "recipeYield": "卵１個につき",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２個（１個でもＯＫ♪）"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "好きなだけ♪"
+        },
+        {
+            "name": "本だし",
+            "quantity": "小１～２"
+        },
+        {
+            "name": "水",
+            "quantity": "大１～２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "【初めに注意】　　\r\n私が使った梅干は、はちみつ梅という梅干しの為、すーーっぱーい梅干しを使用される場合は、梅干の量を加減してください・・・。",
+        "梅干を包丁で細かくする",
+        "ネギと本だしと、水を入れて卵焼きを作る\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "351506",
+    "advice": "コツは・・・。良くかき混ぜる事かな！？＾＾",
+    "history": "家にある材料で手軽に作ってみました～♪水を入れるだけで簡単にプルプル卵焼き♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "梅干し",
+        "ネギ",
+        "本だし"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/351506/100x141c/4337fcc24e8bc7c87a109706104c5aa1.jpg?u=353166&p=1214215183"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "厚揚げのポークチャップ風",
+    "author": {
+        "@type": "Person",
+        "name": "kahoo"
+    },
+    "image": "https://img.cpcdn.com/recipes/546430/464x260/0a9d35430f08f0a086895f66be2ce6ef.jpg?u=343147&p=1214219467",
+    "datePublished": "2008-04-08",
+    "description": "お肉を使わず、厚揚げで作ったポークチャップもどきです。お肉じゃなくても十分いけます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "◆ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◆ウスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◆はちみつ",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは1㎝幅に切っておく。玉ねぎはくし型切りにする。",
+        "フライパンに少量の油をひき、玉ねぎ、厚揚げを炒める。",
+        "◆の材料を混ぜ合わせたものを入れ更に炒めたら出来上がり。",
+        "Ｈ20.9.27　13個目の話題入りしました～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "546430",
+    "advice": "調味料の量はお好みで調整してください。",
+    "history": "冷蔵庫に1枚残っていた厚揚げをおいしく食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "玉ねぎ",
+        "ケチャップ",
+        "ウスターソース"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/546430/100x141c/7c630ce9ff75bfaeb8a20be924d07fb9.jpg?u=343147&p=1214219467"
+}

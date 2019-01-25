@@ -1,0 +1,72 @@
+{
+    "name": "ストウブ料理「たこ飯」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/2083949/464x260/fd813b0fbae3b438ba4f0edb622fbdbc.jpg?u=535158&p=1358219206",
+    "datePublished": "2013-01-18",
+    "description": "いつものたこ飯をストウブで簡単に美味しく作りました。",
+    "recipeYield": "2~3人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "たこ",
+            "quantity": "200g"
+        },
+        {
+            "name": "水",
+            "quantity": "350㏄~400㏄"
+        },
+        {
+            "name": "昆布",
+            "quantity": "10㎝角"
+        },
+        {
+            "name": "生姜(千切り)",
+            "quantity": "1片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "水菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "大葉(千切り)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米はといでざるに上げる。",
+        "たこは３ミリ厚さの輪切りに、しょうがはせん切りにする。",
+        "ストウブ鍋に調味料Aと米、たこを入れて、弱火にかけ、ふつふつと沸騰したら蓋を閉めて12分、火を止めて15分放置。",
+        "好みで水菜・大葉の千切りを乗せて頂きます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2083949",
+    "advice": "炊飯器でも美味しく炊けます。",
+    "history": "いつものたこ飯をストウブで炊き上げてみました。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ飯 ストウブ"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/2083949/100x141c/938760136f1bcb56ef858e06762e3c38.jpg?u=535158&p=1358219206"
+}

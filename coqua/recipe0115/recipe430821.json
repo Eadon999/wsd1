@@ -1,0 +1,48 @@
+{
+    "name": "いんげんと桜えび炒め♫♬",
+    "author": {
+        "@type": "Person",
+        "name": "miino"
+    },
+    "image": "https://img.cpcdn.com/recipes/430821/464x260/83b7895ede1f72c7b20222c4feec292d.jpg?u=413625&p=1214420072",
+    "datePublished": "2007-09-17",
+    "description": "風味のよい桜えびと、いんげんを合わせました♫♬",
+    "recipeYield": "1皿分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "一袋"
+        },
+        {
+            "name": "桜えび",
+            "quantity": "１０ｇ～(適量）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "クレージーソルト",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは、下茹でか、電子レンジでﾁﾝしておく。",
+        "フライパンで桜えびを、乾煎りして、一旦取り出しておく。",
+        "フライパンにインゲン、マヨネーズを入れ味が馴染むように炒める。",
+        "最後に桜えびを混ぜ、お好みでクレージーソルトを振り完成♫♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "430821",
+    "advice": "特にありません。",
+    "history": "さやいんげんが、沢山あるので、色々試しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん　桜えび"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/430821/100x141c/0b191232d14c2c0ac23e42f08199808c.jpg?u=413625&p=1214420072"
+}

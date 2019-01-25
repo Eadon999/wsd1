@@ -1,0 +1,67 @@
+{
+    "name": "さつま揚げと大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2928747/464x260/57f1ed82c4aa6b604a91dab8d6d5a22e.jpg?u=4819316&p=1418649779",
+    "datePublished": "2014-12-15",
+    "description": "15/2/22話題入り有難う、冬には大根の煮物がいいですよね、さつま揚げと一緒に煮てみました、昔ながらの煮物です",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "●顆粒和風だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は２センチ幅のいちょう切りにしてラップに包みレンジ５００Ｗで５分加熱する",
+        "さつま揚げは食べやすい大きさに切る",
+        "鍋に●とさつま揚げと大根を入れて中火で煮る",
+        "汁気が１／４ぐらいになれば火を止めて器に盛って出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2928747",
+    "advice": "大根を予めレンジ加熱しておくことで、短時間で料理できます",
+    "history": "おでんの感覚で大根の煮物が食べたくて、さつま揚げと大根を煮てみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ",
+        "大根",
+        "顆粒和風だしの素",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2928747/100x141c/6cf52354bbcf70168912e14dd7c2f423.jpg?u=4819316&p=1418649779"
+}

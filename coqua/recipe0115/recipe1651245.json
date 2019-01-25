@@ -1,0 +1,51 @@
+{
+    "name": "【農家のレシピ】とろとろれんこんスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1651245/464x260/0288c2f06905007d65f01fc1d2f7b08d.jpg?u=2513693&p=1323868298",
+    "datePublished": "2011-12-15",
+    "description": "中華スープにすりおろしたレンコンと少しの調味料を入れて煮ただけで、とろとろのヘルシーなスープの完成です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "青ネギ（小口切り）",
+            "quantity": "少々"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に皮を剥いてすりおろしたレンコンと【A】を入れ中火でトロッとするまで煮て、スープカップに注ぎ青ネギをちらして完成です♪",
+        "温まるよ～"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1651245",
+    "advice": "中華スープは水４００ｃｃ＋ウェイパー８ｇを使いました。",
+    "history": "いろんな野菜をすりおろしてスープにしたりしていますが、れんこんはとろとろしていてスープ向きの野菜です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん スープ",
+        "すりおろし れんこん スープ"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/1651245/100x141c/97661f11ee744085690b0d80f0101c47.jpg?u=2513693&p=1323868298"
+}

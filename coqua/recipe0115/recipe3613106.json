@@ -1,0 +1,66 @@
+{
+    "name": "簡単！白菜生姜たっぷり和風パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3613106/464x260/68b57e4e46ea98b08f8cdc3c1fc937d2.jpg?u=4376699&p=1452339220",
+    "datePublished": "2016-01-10",
+    "description": "生姜がきいた簡単パスタ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "4枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "魚肉ソーセージ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "2cm"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタを規定時間煮る\n白菜人参を千切り、ソーセージを細切り\nレンジ600w2分チン",
+        "油少々を温め野菜を軽く炒め\nソースを加えて1分煮る",
+        "パスタの水を切り加える\n軽く混ぜて皿に取って完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3613106",
+    "advice": "野菜はレンチンせずパスタと一緒に1分程煮てもＯＫ",
+    "history": "白菜をパスタに使ってみようと・・・焼きパスタにしようとして生姜ソースに変更■産直「みやもと農園」利用",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ウインナー パスタ",
+        "白菜 パスタ 和風",
+        "白菜 魚肉ソーセージ 炒め",
+        "白菜 ウインナー パスタ 和風"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3613106/100x141c/f7e760a5afd9874a515dbcea8e39da32.jpg?u=4376699&p=1452339220"
+}

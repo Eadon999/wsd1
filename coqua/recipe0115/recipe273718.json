@@ -1,0 +1,50 @@
+{
+    "name": "簡単☆鶏ハム",
+    "author": {
+        "@type": "Person",
+        "name": "ｄｏｕｘｃｅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/273718/464x260/78be3fa827ee8cb5f8c75fa3114ab8a0.jpg?u=277255&p=1214213447",
+    "datePublished": "2006-08-13",
+    "description": "なんと材料は鶏胸肉１枚と調味料3つだけ！！でもお味は本物のハムに負けないくらいおいしいです♪そのままで食べても調理してもおいしいです！ぜひお試しください。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ1 １/2"
+        },
+        {
+            "name": "荒挽き黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "まず砂糖を両面にまぶす。すりこむ。ザラザラしなくなったら塩コショウを加えよくすりこむ。保存袋に入れてしっかり空気抜く。冷蔵庫で1日寝かす",
+        "30分程水につけておく。",
+        "弱火でコトコト５～６分火を通す。火を止めそのまま半日寝かす"
+    ],
+    "cookTime": null,
+    "recipe_id": "273718",
+    "advice": "☆火を通す時は必ず弱火で行って下さい。火を通しすぎるとハムが真っ白になりピンク色になりません",
+    "history": "以前友人に教えて貰った作り方を自分なりにアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/手作り！自家製ハム"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "砂糖",
+        "塩",
+        "荒挽き黒コショウ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/273718/100x141c/2c118058a950dc35f5f26a204670df6e.jpg?u=277255&p=1214213447"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "簡単！水菜と生ハムの巻くだけサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "kotoe。"
+    },
+    "image": "https://img.cpcdn.com/recipes/976403/464x260/d5d40bd5df9040678a9b6a79516ec7fd.jpg?u=1678530&p=1259287423",
+    "datePublished": "2009-11-27",
+    "description": "クルクルするだけで直ぐに完成♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1株"
+        },
+        {
+            "name": "生ハム",
+            "quantity": "6枚"
+        },
+        {
+            "name": "＊ハーブソルト",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "＊粉チーズ",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "＊オリーブオイル",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "＊レモン果汁",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を洗い、5cmくらいの長さに切り水気をきっておく。",
+        "生ハムを広げその上に水菜をのせて巻く。",
+        "お皿に並べて＊の材料をそれぞれ全体に綺麗にかけて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "976403",
+    "advice": "レモン果汁が無い場合はバルサミコ酢をかけても美味しいですし、無しでも大丈夫です。",
+    "history": "急なお客様の時に火を使わずとりあえずの一品を！と巻いてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生ハム 水菜",
+        "サラダ 水菜 生ハム",
+        "生ハムサラダ"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/976403/100x141c/4b6fb02f1a5572ba5bd8e58958287b4e.jpg?u=1678530&p=1259287423"
+}

@@ -1,0 +1,78 @@
+{
+    "name": "大根がたっぷり食べられる大根のさっぱり煮",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/964414/464x260/f9244db6c94c81fc5bfaf7f14625e50d.jpg?u=1109634&p=1258069557",
+    "datePublished": "2009-11-13",
+    "description": "我家の冬の定番煮物です！20分でできてすぐに食べられま～す！お酢を使ってさっぱり、くせになる味です！",
+    "recipeYield": "4～6人前",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "半分"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "800cc（4カップ）"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "昆布だしの素（または乾燥昆布）",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "☆具材を切る \r\n大根は1.5cmに切り、包丁で浅く切れ目を入れ（味が染みやすい）、人参・鶏肉も食べやすい大きさに切る。",
+        "☆炒め煮る \r\n生姜と鶏肉を炒め、大根・人参を入れ軽く炒めたら、水・だしの素2種類を入れて、蓋をして強火で10分煮る。",
+        "☆味付け \r\n酒・醤油・砂糖・酢をすべて入れて蓋をして強火で5分煮たら完成。\r\n"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "964414",
+    "advice": "☆大根は短時間で作るため、薄く切ります。☆すぐに食べれますが、出来上がって少し汁に含ませておくと、もっと美味しくなります。",
+    "history": "大根をいっぺんに食べたくて考えました～",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "鶏もも肉",
+        "味付け"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/964414/100x141c/c53e812d1be6ea7f8655d9b7f86499ec.jpg?u=1109634&p=1258069557"
+}

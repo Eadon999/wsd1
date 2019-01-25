@@ -1,0 +1,54 @@
+{
+    "name": "チンゲンサイと春雨のスープ",
+    "author": {
+        "@type": "Person",
+        "name": "e_sunday18"
+    },
+    "image": "https://img.cpcdn.com/recipes/234037/464x260/09fa6164d2ba3b9a1ba4027b8c9b6632.jpg?u=38681&p=1214212563",
+    "datePublished": "2006-01-12",
+    "description": "春雨で少しボリュームアップ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "チンゲンサイ",
+            "quantity": "5〜６枚"
+        },
+        {
+            "name": "春雨",
+            "quantity": "適宜"
+        },
+        {
+            "name": "中華スープ（水とウェイパー）",
+            "quantity": "600cc（水600cc、ウェイパー大さじ1）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩、胡椒、ごま油、ごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲンサイは葉の部分は適当な大きさに切り、根元の方は縦長に薄く切る。",
+        "鍋に中華スープ（水とウェイパー）を入れ沸騰してきたら、春雨とチンゲンサイを加える。\n春雨は水で戻さずそのまま入れてオッケー。",
+        "醤油、塩、胡椒で味を調整する。\n最後にごま油をひと垂らし。さらに胡麻も加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "234037",
+    "advice": "春雨は水で戻さずそのまま入れて、少し柔らかくなったら料理用ハサミで切ります。",
+    "history": "スープだけでは少し物足りなかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲンサイ",
+        "春雨",
+        "中華スープ",
+        "醤油"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/234037/100x141c/a7b2bb67a7331642361b7958a4600093.jpg?u=38681&p=1214212563"
+}

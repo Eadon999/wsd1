@@ -1,0 +1,74 @@
+{
+    "name": "圧力鍋☆柔らかイカ大根☆",
+    "author": {
+        "@type": "Person",
+        "name": "giba"
+    },
+    "image": "https://img.cpcdn.com/recipes/1471258/464x260/e521f922dc8c4cbe4e508ea72462e7f4.jpg?u=498322&p=1308134976",
+    "datePublished": "2011-06-15",
+    "description": "圧力鍋で調理したイカの柔らかさは驚きの一言です！お試しあれ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ(するめいか)",
+            "quantity": "1杯"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "★水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★本だし(かつおだし)",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "★しょうが",
+            "quantity": "2,3切れ"
+        },
+        {
+            "name": "★オイスターソース(あれば)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "大葉(お好みで)",
+            "quantity": "2,3枚"
+        }
+    ],
+    "recipeInstructions": [
+        "イカと大根を輪切りにし、★を入れた圧力鍋に並べます。",
+        "フタをして、強火にする。圧力がかかったら弱火で2分加圧し、火を止める。",
+        "鍋の圧力が下がったらふたを開け、盛り付ける。\n最後に大葉を振りかけて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1471258",
+    "advice": "加圧しすぎるとイカが柔らかくなり過ぎるかも？加圧時間は短くても大根は十分に染みてくれます。",
+    "history": "圧力鍋レシピの第二弾！イカの柔らかさにビックリです！！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": [
+        "イカ大根 10位"
+    ],
+    "related_keywords": [
+        "いか大根 圧力鍋",
+        "イカ大根"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/1471258/100x141c/1c5f1c81e234d79f1d4ce31dfd9febc0.jpg?u=498322&p=1308134976"
+}

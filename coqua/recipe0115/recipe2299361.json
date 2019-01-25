@@ -1,0 +1,56 @@
+{
+    "name": "いつかあなたと☆焼き厚揚げは塩麹でね♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2299361/464x260/9b6b6c392ef9042bf1afff92876b5b60.jpg?u=2920899&p=1375003736",
+    "datePublished": "2013-07-28",
+    "description": "厚揚げ焼いただけだけど、ダーリン、塩麹につけて食べようよ♪2014/06/30話題入り感謝です(*´з`)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "しょうが(すりおろし)",
+            "quantity": "適宜"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適宜"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大匙1"
+        }
+    ],
+    "recipeInstructions": [
+        "食べ易い大きさにカットした厚揚げを、グリル又はオーブントースターで焦げ目をつける程度に焼く。",
+        null,
+        "醤油と塩麹を和えて、別の付け皿に盛る。",
+        "焼き上がった厚揚げに、②を乗せたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2299361",
+    "advice": "薬味はお好みで♪",
+    "history": "塩麹にはまったので、大好きな厚揚げをつけて食べたいなと思ったから。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ",
+        "その他/発酵食品・発酵調味料/塩麹"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "しょうが",
+        "鰹節",
+        "醤油"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2299361/100x141c/dd3d8288571601bdad60094c61b1c891.jpg?u=2920899&p=1375003736"
+}

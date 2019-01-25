@@ -1,0 +1,65 @@
+{
+    "name": "お弁当に☆鱈の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうゆう0221"
+    },
+    "image": "https://img.cpcdn.com/recipes/1766669/464x260/637d90f1d9d4738cb20a2fe605700a28.jpg?u=309279&p=1333586173",
+    "datePublished": "2012-04-05",
+    "description": "塩こしょうで下味を付けて揚げ焼きにします。冷めても美味しいので、お弁当にお薦めです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "生鱈",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "酒",
+            "quantity": "小2"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "タラは一口大に切り、酒、塩こしょうを振り、15分おき、水分を軽く拭き取る。小麦粉を塗し、多めの油で揚げ焼きをします。",
+        "フライパンに★を入れ、軽く煮詰めます。鱈を入れ、強火で照りをつけます。\n",
+        "器に盛り付け、万能ネギの小口切りを散らします。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1766669",
+    "advice": "※小さめのタラの場合は調味料を少なめに入れて下さい。",
+    "history": "お弁当のおかずを考えていた時に、思い付きで出来た料理です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鱈 照り焼き",
+        "たら 照り焼き",
+        "タラ お弁当"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1766669/100x141c/13224736bc176a9c647d3d36b2551fb2.jpg?u=309279&p=1333586173"
+}

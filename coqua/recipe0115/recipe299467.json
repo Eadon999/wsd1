@@ -1,0 +1,48 @@
+{
+    "name": "1分でできちゃう☆もやしメンマ♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/299467/464x260/4205e15dfce1b3a9f388420c4f452d58.jpg?u=42283&p=1214214021",
+    "datePublished": "2006-11-10",
+    "description": "急なお客様のおつまみに☆時間が無い時のお夕飯の一品に♪ヽ(*^^*)ノ",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "２分の１袋"
+        },
+        {
+            "name": "ピリ辛メンマ",
+            "quantity": "２分の１瓶"
+        },
+        {
+            "name": "自然塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き黒胡椒",
+            "quantity": "お好み量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは塩少々入れた熱湯で３０秒茹でる。",
+        "この瓶のが好きでして・・・(。^_・)ノ　でも、他のでも構いません☆",
+        "メンマともやしを和えて、胡椒振り、自然塩で味を調整して出来上がりです('-'*)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "299467",
+    "advice": "パパッとできてすぐ食べられて☆私はとっても好きなおかずですヽ('ｰ'#)/ ",
+    "history": "そもそもピリ辛メンマが昔から好物でして、もやしのシャキシャキとも合うのではと作ったら好評でしたヽ(〃'▽'〃)ﾉ☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし メンマ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/299467/100x141c/a43e3a3eb20ead6f7ed4bf9ec1b18d6f.jpg?u=42283&p=1214214021"
+}

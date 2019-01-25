@@ -1,0 +1,49 @@
+{
+    "name": "☆濃厚ジンジャーコーンスープ☆",
+    "author": {
+        "@type": "Person",
+        "name": "＊はと＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1653124/464x260/a6512aa9667cbbc4ccf11af748bb7ca7.jpg?u=1935538&p=1324098257",
+    "datePublished": "2011-12-20",
+    "description": "寒くなってきました。お湯を注ぐだけ…ではなく、生姜もプラスしてお鍋でコトコト♡濃厚コーンスープ☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "コーンスープ粉末",
+            "quantity": "2袋"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "320cc"
+        },
+        {
+            "name": "チューブ生姜",
+            "quantity": "1〜2㎝"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小さい鍋にコーンスープ粉末と牛乳・生姜を入れる。",
+        "弱火にかけて小さめな泡立て器でよくかき混ぜる。",
+        "器に盛ってパセリを振って出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1653124",
+    "advice": "1人分の牛乳の量=記載の熱湯の量＋10ccです。生姜の量はお好みで増減してください。",
+    "history": "粉末のコーンスープを美味しく♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コーンスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛乳",
+        "チューブ生姜",
+        "乾燥パセリ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/1653124/100x141c/f825baf89a5babd0df300df0675b4e31.jpg?u=1935538&p=1324098257"
+}

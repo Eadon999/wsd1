@@ -1,0 +1,63 @@
+{
+    "name": "三つ葉の香りがうまい♪ツナ缶サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "シャア専用料理長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2625055/464x260/a1916310365538e97489913106df26b3.jpg?u=9399727&p=1412517244",
+    "datePublished": "2014-05-13",
+    "description": "三つ葉をサッと湯がいて、ツナ缶、プチトマトとあえるだけ。三つ葉の爽やかな香りと胡麻の風味が美味しい♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "三つ葉",
+            "quantity": "1束"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "3個"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "三つ葉は4~5cmくらいにザク切りし、塩を入れ沸騰したお湯で40秒ほど湯がく。\nざるに上げ、水気をきっておく。",
+        "ツナ、プチトマト、全ての調味料とよくあえる。",
+        "お皿に盛り付け、お好みで黒胡椒をふって召し上がれ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2625055",
+    "advice": "湯がきすぎると香りが飛ぶので、短い時間であげましょう。",
+    "history": "美味しそうな三つ葉を買ったので、サラダにしました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "三つ葉 サラダ シーチキン"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2625055/100x141c/e86de5e0ca60015381deec99dac03963.jpg?u=9399727&p=1412517244"
+}

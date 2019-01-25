@@ -1,0 +1,59 @@
+{
+    "name": "キャベツの☆シンプルじゃこ和え♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/329938/464x260/b7ec1e70478f02b767a1b4c3b36d3ba6.jpg?u=42283&p=1214214697",
+    "datePublished": "2007-02-13",
+    "description": "とっても簡単♪キャベツとじゃこのヘルシーおかずですヽ(*^^*)ノ",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３枚程度"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎七味唐辛子",
+            "quantity": "お好み量"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎海苔",
+            "quantity": "お好み量"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま油でじゃこを炒める。七味唐辛子と醤油で味付けする。キャベツは千切りにしてサッと塩茹でして、軽く絞る。",
+        "絞ったキャベツとジャコをあわせる。",
+        "上に海苔を散らして出来上がりです(。^_・)ノ　",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "329938",
+    "advice": "特にありませんが、キャベツは茹で過ぎないようにお願いします<(_ _*)> ",
+    "history": "キャベツであと一品作りたかったのです=*^-^*=",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ちりめんじゃこ",
+        "ごま油",
+        "七味唐辛子"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/329938/100x141c/012b3d57325aabce1303ad2d626e9ede.jpg?u=42283&p=1214214697"
+}

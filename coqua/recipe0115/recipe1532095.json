@@ -1,0 +1,55 @@
+{
+    "name": "鶏胸ときゅうりのナムル風",
+    "author": {
+        "@type": "Person",
+        "name": "あぁるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1532095/464x260/8d729930291a5ca8341708ec21d4f15e.jpg?u=803201&p=1314769923",
+    "datePublished": "2011-08-26",
+    "description": "安いとり胸でボリュームたっぷり♬ごま油と塩だけ簡単味付けです。ビールのお供にも。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "１枚（１３０ｇ位）"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小１/２～１"
+        },
+        {
+            "name": "お酒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉にフォークで数箇所穴をあけ、お酒少々をふってレンジで加熱する。",
+        "きゅうりを千切りにする。",
+        "１の鶏肉が冷めたら細く裂く。\n皮は包丁で細切り。",
+        "２と３を●であえる。\n★鶏肉を加熱した時の肉汁も少し入れてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1532095",
+    "advice": "皮はお好みで。我が家は皮が好きなので入れてます。調味料はお好みで加減してください。肉を加熱した時の肉汁も入れると美味しいです。",
+    "history": "安いとりむねを使っていつも作っています。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "きゅうり",
+        "ごま油",
+        "塩"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1532095/100x141c/74a49a9ce9eda983237b7db2a7cfbede.jpg?u=803201&p=1314769923"
+}

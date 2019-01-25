@@ -1,0 +1,68 @@
+{
+    "name": "定番♪♪✿ごぼうと豚肉の❀煮物✿",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/595397/464x260/4b6b93312dc4d1270946d1562dd614b0.jpg?u=42283&p=1214420418",
+    "datePublished": "2008-06-20",
+    "description": "しっかり味の豚肉と牛蒡の和風簡単煮物です（*´ー`) ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉薄切り",
+            "quantity": "５００ｇ"
+        },
+        {
+            "name": "牛蒡（ごぼう）",
+            "quantity": "１本"
+        },
+        {
+            "name": "○生姜（千切り）",
+            "quantity": "４０ｇ"
+        },
+        {
+            "name": "○水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "○酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大５"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大４"
+        },
+        {
+            "name": "☆醤油（ラストに）",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "牛蒡はよ～く洗って、汚い部分は皮を取り除く。斜め薄切りにして、酢水でアクを抜く。水気を切る。",
+        "○を入れて火にかける。ごぼうを入れて、蓋して１０分煮る。豚肉を入れて蓋して１５分煮る。",
+        "最後に醤油大１を回しかけて、２分くらい煮たら出来上がりです❤",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "595397",
+    "advice": "特にありませんが、蓋したらじっくり煮込んで下さいねo(^o^o)(o^o^)o",
+    "history": "ご飯の進む、我が家の定番おかずの１つです♫♫♫",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉薄切り",
+        "牛蒡",
+        "生姜",
+        "水"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/595397/100x141c/6993caccfa255192f10e560ba81abdeb.jpg?u=42283&p=1214420418"
+}

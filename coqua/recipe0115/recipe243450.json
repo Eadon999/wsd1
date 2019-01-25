@@ -1,0 +1,55 @@
+{
+    "name": "ささみのしそ巻きあげ",
+    "author": {
+        "@type": "Person",
+        "name": "ポメマル"
+    },
+    "image": "https://img.cpcdn.com/recipes/243450/464x260/ed441a66e1f90b4d4d18ef2a453918c2.jpg?u=63723&p=1214212767",
+    "datePublished": "2006-03-12",
+    "description": "ささみの竜田揚げのバリエーションとしてしその葉を巻いて揚げてみました。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "６本"
+        },
+        {
+            "name": "しその葉",
+            "quantity": "１束"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●薄口醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●生姜の汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋を取って１本を斜めに３つに切る。●で下味を付ける。",
+        "しその葉は縦半分に切る。\r\nささみにしその葉を巻き付ける。",
+        "片栗粉をたっぷり付けて180℃の油で揚げる。でこぽんの薄皮を剥いた物を付け合わせました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "243450",
+    "advice": "白っぽい方がしその緑がきれいなので下味には薄口醤油をつかいましたが濃い口しょうゆでもいいです。",
+    "history": "コストコでささみの２㎏入りを買ってきました。ワンコのハンナ用にと思いましたがたくさんあるのでまずは人間用にと昔から竜田揚げはよく作りましたが、今回はしそを巻いてみました。しその香りがささみの淡泊な味にあいます。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 大葉 竜田揚げ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/243450/100x141c/f4780fa079ecaa3a67ac22de29d86839.jpg?u=63723&p=1214212767"
+}

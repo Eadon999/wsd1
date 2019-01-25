@@ -1,0 +1,50 @@
+{
+    "name": "ブロッコリーのマヨ柚子胡椒",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2886828/464x260/e2aeb56f01aa617013afc7532cba9f21.jpg?u=6957661&p=1416121699",
+    "datePublished": "2014-11-16",
+    "description": "毎日食べたい緑黄色野菜の王様ブロッコリーのバリエーションに♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1株"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ1〜"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは小房に分け、沸騰したお湯に塩ひとつまみ入少し堅めに茹でてザルにあげておく。",
+        "フライパンにマヨネーズと柚子胡椒を入れ中火にかける。マヨがふつふつしてきたらよく混ぜ1を投入する。",
+        "全体に絡め、味をみながら塩胡椒を振って出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2886828",
+    "advice": "マヨネーズと柚子胡椒の分量は好みで増やしても美味しく食べられます。",
+    "history": "旬のブロッコリーを飽きずに食べるために^ ^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "マヨネーズ",
+        "柚子胡椒",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/2886828/100x141c/f7aacee8a01b82442f53c31c019c8763.jpg?u=6957661&p=1416121699"
+}

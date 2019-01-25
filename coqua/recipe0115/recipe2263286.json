@@ -1,0 +1,86 @@
+{
+    "name": "中華風豆腐とキクラゲの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "Yini"
+    },
+    "image": "https://img.cpcdn.com/recipes/2263286/464x260/ebc30fc9410adb9cc2a2588834277740.jpg?u=5486727&p=1371778750",
+    "datePublished": "2013-06-21",
+    "description": "ヘルシーな中華です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "２丁"
+        },
+        {
+            "name": "キクラゲ（水で戻したもの）",
+            "quantity": "５０g"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "４本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "☆片栗粉水",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆片栗粉を溶かす水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "木綿豆腐を１㎝の厚さ４㎝の大きさで切る。ペーパーで余分な水をふく。玉ねぎとお黒を一口サイズに切る。",
+        "フライパンに油をひき、豆腐を両面キツネ色になるまで焼く。焼いたら、一度取り出す。",
+        "フライパンに残った油を使って、玉ねぎ、キクラゲの順番で炒める。",
+        "焼いた豆腐をフライパンに戻り、オクラも入れて、一緒に炒める。",
+        "調味料Aを加えて少し煮詰める。",
+        "☆を入れて混ぜる。\nお皿に移したら、黒胡椒を散らして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2263286",
+    "advice": "強火で手早く炒めること。",
+    "history": "冷蔵庫が空っぽの時、あるものを全部使って作った料理でした。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐きくらげ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2263286/100x141c/c6e5e193558d10f466c79f20ad7c0dc1.jpg?u=5486727&p=1371778750"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "生姜入り春雨スープ",
+    "author": {
+        "@type": "Person",
+        "name": "kururin18"
+    },
+    "image": "https://img.cpcdn.com/recipes/1420494/464x260/ee43c38ebfb7d941c67f01813968eb3b.jpg?u=2859574&p=1349948630",
+    "datePublished": "2011-04-24",
+    "description": "春雨が生姜風味のスープをすいこんでヘルシーでおいしいスープです♪",
+    "recipeYield": "約4人分",
+    "recipeIngredient": [
+        {
+            "name": "緑豆春雨",
+            "quantity": "戻した状態で50g"
+        },
+        {
+            "name": "人参",
+            "quantity": "30g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "50g"
+        },
+        {
+            "name": "コーン",
+            "quantity": "30g"
+        },
+        {
+            "name": "水菜",
+            "quantity": "40g"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "2個(10g)"
+        },
+        {
+            "name": "すりおろし生姜",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "700cc"
+        }
+    ],
+    "recipeInstructions": [
+        "戻した春雨は食べやすい長さに切っておきます。",
+        "人参、玉ねぎは約3cmの細切りにして、水菜も約3cmの長さに切り揃えておきます。",
+        "鍋に水を入れ沸騰したら人参、玉ねぎ、コンソメキューブを入れます。",
+        "人参、玉ねぎがやわらかくなったら、水菜、コーン、春雨、生姜を入れます。",
+        "鍋がふつふつしたら、味見をしてよければ出来上がりです。",
+        "2011.12.9　おかげ様で話題入りすることができました。ありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1420494",
+    "advice": "野菜は冷蔵庫にあるもので何でもOKです。",
+    "history": "風が強く肌寒い日の仕事帰りに、体が冷えきってしまい代謝をよくするために生姜を入れて作ったら、美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "緑豆春雨",
+        "人参",
+        "玉ねぎ",
+        "コーン"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1420494/100x141c/853da57d534ca84f96ea6b035ffeea8a.jpg?u=2859574&p=1349948630"
+}

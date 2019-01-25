@@ -1,0 +1,49 @@
+{
+    "name": "おからと山芋のナゲット",
+    "author": {
+        "@type": "Person",
+        "name": "さなえポン"
+    },
+    "image": "https://img.cpcdn.com/recipes/481679/464x260/54099f7d7f23ad56e8356b05378fbb67.jpg?u=389445&p=1214218220",
+    "datePublished": "2007-12-31",
+    "description": "山芋がふわふわで、外はかりっとおいしい♪簡単でヘルシーです(^O^)ビールのおつまみに最高！",
+    "recipeYield": "５個分",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "山芋",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "おからを乾煎りします。山芋をすりおろしておからと良く混ぜ、塩、こしょうで下味をつけます",
+        "油を熱したフライパンに、①をスプーンですくって落としいれ、キツネ色になるまでからっと揚げて出来上がり♪ケチャップでどうぞ～！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "481679",
+    "advice": "簡単すぎて特に何も・・・",
+    "history": "おからケーキの残りで、余っていたおからと冷蔵庫の山芋で適当におつまみ作ったらおいしかったので・・・",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "山芋",
+        "サラダ油",
+        "塩、こしょう"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/481679/100x141c/62189fa758104ac574e6990879d05898.jpg?u=389445&p=1214218220"
+}

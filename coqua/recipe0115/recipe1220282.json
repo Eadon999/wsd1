@@ -1,0 +1,51 @@
+{
+    "name": "にんじんのピリ辛塩昆布炒め",
+    "author": {
+        "@type": "Person",
+        "name": "cafe0305"
+    },
+    "image": "https://img.cpcdn.com/recipes/1220282/464x260/54da648b04ad845e17eec6a1db8f5405.jpg?u=2161354&p=1282978674",
+    "datePublished": "2010-08-28",
+    "description": "味付けは塩昆布だけ。 ごま油の香りと鷹の爪のピリッで、ごはんもお酒も進む1品です。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "1本"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ふたつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは千切りに、鷹の爪は輪切りにする",
+        "鍋にごま油を熱し、1のにんじんと鷹の爪を入れて中火で炒める",
+        "にんじんの色が変わってきたら塩昆布を入れてさらに炒める",
+        "全体に塩昆布がなじんだらできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1220282",
+    "advice": "☆手早く、炒めすぎず。にんじんの食感を味わってください",
+    "history": "塩昆布、実は初めて使ってみました。 これだけで十分おいしくてびっくり！ ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "鷹の爪",
+        "ごま油",
+        "塩昆布"
+    ],
+    "tsukurepo_count": "174",
+    "thumbnail": "https://img.cpcdn.com/recipes/1220282/100x141c/7db1ba4e67951d61b978847e2f4a4528.jpg?u=2161354&p=1282978674"
+}

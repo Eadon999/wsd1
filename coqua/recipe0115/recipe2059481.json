@@ -1,0 +1,50 @@
+{
+    "name": "＋１品の簡単副菜：納豆のホウレン草和え",
+    "author": {
+        "@type": "Person",
+        "name": "kiki05"
+    },
+    "image": "https://img.cpcdn.com/recipes/2059481/464x260/a780c718e8cc0276248eb849cdb3ea3d.jpg?u=1566819&p=1355663986",
+    "datePublished": "2013-01-28",
+    "description": "趣向を変えた納豆の超簡単な一品！粗挽き胡椒がホウレン草の甘みを引き立て意外と納豆と合う我が家の定番、自慢の一品です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ホウレン草",
+            "quantity": "50g"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粗挽き黒こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ホウレン草は茹でて水を絞り１cm程に刻んでおく",
+        "ボールに納豆、ホウレン草を入れて軽く混ぜる",
+        "だし醤油、胡椒を入れて和える（付属のお醤油を使う場合は塩味をみて、だし醤油を追加する）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2059481",
+    "advice": "特には無いですが、あえていうならホウレン草は茹で過ぎず食感を残す方が納豆の食感と相まってイイ感じです。",
+    "history": "簡単にできるヘルシーなプラス１品！がテーマ。家族の健康を考え、野菜中心のシンプルな免疫力強化＆栄養補強の健康副菜です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ホウレン草",
+        "だし醤油",
+        "粗挽き黒こしょう"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/2059481/100x141c/e56b6bd3d87de8a4a878fc14307c74b7.jpg?u=1566819&p=1355663986"
+}

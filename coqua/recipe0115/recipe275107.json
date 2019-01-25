@@ -1,0 +1,55 @@
+{
+    "name": "牛肉とかぼちゃのピリ辛中華",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/275107/464x260/0cba2f46ce502e1bf89c4fba3ee71a39.jpg?u=57297&p=1214213478",
+    "datePublished": "2006-08-20",
+    "description": "《ボリュームあって美味しいよ♪☆》 ",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/8くらい"
+        },
+        {
+            "name": "牛肉",
+            "quantity": "２００～２５０ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大匙1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小匙1(お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはスライスして少しの水を注しラップして3分ほどチン（量にもよるけど）",
+        "牛肉に醤油小匙１、砂糖小匙１、片栗粉小匙１を降りよ～くもみ込んどきます 。\r\nごま油で牛肉を炒め、かぼちゃも入れてタレを絡ませ、水分飛ばします。",
+        "タレ：オイスターソース１、酢1/2、砂糖小匙２、豆板醤小匙１"
+    ],
+    "cookTime": null,
+    "recipe_id": "275107",
+    "advice": "かぼちゃをチンしとくと、火の通りが早い！",
+    "history": "夏はピリ辛で",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ 牛肉"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/275107/100x141c/bd67ebf1ae175f9d954fd892a9e9eab1.jpg?u=57297&p=1214213478"
+}

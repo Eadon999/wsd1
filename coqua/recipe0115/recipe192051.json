@@ -1,0 +1,52 @@
+{
+    "name": "生鮭の☆マヨ味噌オーブン焼き",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/192051/464x260/9f408f2e658cff976267fb5ccc84b0a6.jpg?u=42283&p=1214211791",
+    "datePublished": "2005-04-10",
+    "description": "こんなに簡単なのに主人の好物です♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "○（八丁）味噌",
+            "quantity": "小１弱"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭は一切れを３等分して、酒を軽く振っておく（分量外）。",
+        "味噌とマヨネーズをよく混ぜておく。",
+        "アルミホイルにごま油を塗って、鮭を置き、上にマヨ味噌を塗る。オーブン２００℃程度で１５分焼く。",
+        "出来上がりです☆上に青海苔を振っても美味しいです(^○^)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "192051",
+    "advice": "マヨ味噌の中に、長ネギのみじん切りを混ぜておいていただいても美味です(ﾟ人ﾟ)(-人-)お味噌は塩分によって、加減して下さいね(♥´人`）",
+    "history": "マヨ味噌をおかずに活用したかったので作りました（*＾＾*) ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生鮭",
+        "味噌",
+        "マヨネーズ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/192051/100x141c/b9f3629a49220161d5a4266e7f620adb.jpg?u=42283&p=1214211791"
+}

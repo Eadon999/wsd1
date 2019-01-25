@@ -1,0 +1,69 @@
+{
+    "name": "ほっこり鳥と大根、人参の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "mumi"
+    },
+    "image": "https://img.cpcdn.com/recipes/2556233/464x260/12aa575072a573c9a853124aadbdd01a.jpg?u=517925&p=1395845606",
+    "datePublished": "2014-03-23",
+    "description": "子供も大好きな優しい味の煮物です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "鶏肉",
+            "quantity": "1枚（２５０−３００ｇ）"
+        },
+        {
+            "name": "蒟蒻",
+            "quantity": "1枚（２５０ｇ位）"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "和風顆粒だし",
+            "quantity": "小袋１（５ｇ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "だしつゆ（3倍濃縮）",
+            "quantity": "小さじ１～大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉、野菜を一口大に切ります。",
+        "鶏肉は皮を下にして弱火のフライパンで5分ほど熱します。\n油が出てくるので、この油で野菜、蒟蒻をいれて軽く炒めます。",
+        "酒、砂糖、顆粒だしを加えて軽く炒めたら水1カップ（２００ｃｃ）を加えて蓋をします。そのまま弱めの中火で15分煮込みます。",
+        "蓋をあけて醤油を加えて、蓋をして更に5分煮込みます。\n味をみて、足りないようであればだしつゆで調整。",
+        "煮汁が殆どなくなるまで10分程かき混ぜながら煮詰めて完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2556233",
+    "advice": "鳥の皮の脂を使うことで、旨みが増します。",
+    "history": "ほっこり美味しい煮物が食べたくて。子供達にも大好評です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 人参 鶏肉"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/2556233/100x141c/95b65e3ddcda5264f7a0af35643a8ced.jpg?u=517925&p=1395845606"
+}

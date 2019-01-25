@@ -1,0 +1,82 @@
+{
+    "name": "ヘルシーな鶏だんご汁",
+    "author": {
+        "@type": "Person",
+        "name": "やすみずまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/2963966/464x260/9cfbd680289899600582242a4c639f86.jpg?u=5407729&p=1421234229",
+    "datePublished": "2015-01-14",
+    "description": "簡単でヘルシー。味噌味も醤油味も美味しいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "400g"
+        },
+        {
+            "name": "れんこん",
+            "quantity": "200g"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "一本"
+        },
+        {
+            "name": "白菜",
+            "quantity": "4枚"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "4こ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "生姜",
+            "quantity": "親指大"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "煮干",
+            "quantity": "15本"
+        }
+    ],
+    "recipeInstructions": [
+        "煮干を2ℓのお水を入れた鍋に入れておく。",
+        "すった蓮根を鶏挽肉に混ぜてねぎの青い部分のみじん切り、すった生姜も混ぜて、塩胡椒、酒、醤油も混ぜてこねる。",
+        "お鍋に火をつけて、お出汁が出てきたら、白菜、ねぎの白い部分、椎茸、しめじを入れて煮る。",
+        "2をスプーンでお団子にしてお鍋に入れる。",
+        "鶏だんごに火が通ったらお味噌を入れて出来上がり。",
+        "醤油味にしたい時は鶏だんごに醤油でなく味噌を混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2963966",
+    "advice": "煮干を使うのでインスタント出汁じゃないのに簡単です。野菜を沢山食べる為にお団子より先に野菜を入れてトロトロにします。",
+    "history": "ヘルシーで簡単で美味しくがモットーです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏団子 汁"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2963966/100x141c/b0050ded1bf516bd126d91bacf570374.jpg?u=5407729&p=1421234229"
+}

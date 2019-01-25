@@ -1,0 +1,64 @@
+{
+    "name": "ピーマンのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "美しきロクサーヌ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1099186/464x260/d8916b9e822a372779796df69f91a92b.jpg?u=2049727&p=1282032425",
+    "datePublished": "2010-04-14",
+    "description": "ピーマン嫌いも大丈夫\\≧ω≦/ お弁当に最適♡",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1袋（5個くらい）"
+        },
+        {
+            "name": "しらす",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1～2"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りにする。",
+        "フライパンにごま油を熱し、しらすを炒める。",
+        "しらすに油が回ったらピーマンを入れ更に炒める。",
+        "全体に油が回ったら、酒、みりん、醤油の順に入れ中火で炒める。水分がほんの少し残る程度で火を止める。",
+        "火を止めたらごまを全体に混ぜ器に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1099186",
+    "advice": "醤油はしらすの量によって加減して下さい。",
+    "history": "子供が小さいころは、なんでも細切り、みじん切りで作りました。その名残かな。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "しらす",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1099186/100x141c/e3a58c8731dad0ea8a0074b0efdd2add.jpg?u=2049727&p=1282032425"
+}

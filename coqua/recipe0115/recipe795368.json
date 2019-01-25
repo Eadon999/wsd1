@@ -1,0 +1,68 @@
+{
+    "name": "洋風炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/795368/464x260/97387f6c708e73650b9a5efbd658891d.jpg?u=1088838&p=1424072829",
+    "datePublished": "2009-05-05",
+    "description": "話題入りありがとう！コンソメ味の炊き込みご飯、と～っても美味しいですよ♪冷めても美味しいのでお弁当にも是非どうぞ♪",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "★人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "★ベーコン",
+            "quantity": "４枚"
+        },
+        {
+            "name": "★コーン",
+            "quantity": "大５"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小１／２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "米に☆を入れ、２合のメモリより少し少ない位まで水を足してよく混ぜる。★を乗せる。",
+        "炊けたらよく混ぜて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "795368",
+    "advice": "人参は炊きあがって混ぜる時に小さすぎると潰れてしまうので、さいの目切りよりもう少し大きめ位で切ること。",
+    "history": "炊き込みご飯が大好きなので、コンソメ味も作ってみたいと思って考えました♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "洋風炊き込みご飯 8位"
+    ],
+    "related_keywords": [
+        "洋風炊き込みご飯"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/795368/100x141c/af5b7328b9ee5148fdd6f9d23080895f.jpg?u=1088838&p=1424072829"
+}

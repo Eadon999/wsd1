@@ -1,0 +1,66 @@
+{
+    "name": "山いものふわしゅわ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "鹿村美奈"
+    },
+    "image": "https://img.cpcdn.com/recipes/2233415/464x260/591f2be00f8e22244dad8ecbd7c641af.jpg?u=6070344&p=1369353225",
+    "datePublished": "2013-05-24",
+    "description": "祝！不二食品の昆布茶コンテスト優秀賞に選ばれました！山芋の「ふわふわ」で「しゅわ」っとした食感がたまりませんよ。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "山芋",
+            "quantity": "２５０グラム"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "昆布茶(粉末)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "（↑なければ顆粒だしでも可）",
+            "quantity": "（小さじ１）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "バター",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "山芋はすりおろし、片栗粉と昆布茶、卵を入れ空気を含ませるようによく混ぜる",
+        "フライパンに油をひき、両面がきつね色になるまでこんがり焼く",
+        "お好みで海苔、バター、七味唐辛子をのせて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2233415",
+    "advice": "片面が焼けたら、生地をひっくり返す時、大きなお皿に生地を移して焼くと上手に焼けます！",
+    "history": "子供が山芋が大好きなのに、生だと痒くなる為、焼くことを思いつきました＾＾/　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋",
+        "卵",
+        "昆布茶",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/2233415/100x141c/2be4a93aad72e64f895b78dabc9754b1.jpg?u=6070344&p=1369353225"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "簡単やわらか～い☆豚こまのしょうが焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/2873234/464x260/c0cc9f3e18de8f3a235eb21b490f9cd9.jpg?u=7510994&p=1415359729",
+    "datePublished": "2014-11-07",
+    "description": "豚こまで美味しいしょうが焼きに♪片栗粉をまぶして焼くので冷めても柔らかいですよ。お弁当にもどうぞ。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま",
+            "quantity": "350g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●おろし生姜",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "●砂糖、みりん、酒",
+            "quantity": "各大さじ2"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2.5"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "パックに入ったままの豚こまに片栗粉をまぶす。(汚れ物を減らすため)",
+        "サラダ油を熱したフライパンに1を入れて炒める。半分位色が変われば、くし切りにした玉ねぎを一緒に炒める。",
+        "2に●を入れて中火で炒め、タレが絡んだら出来上がり。",
+        "薄切りロースでも美味しい♪",
+        "手羽中バージョンはこちら。\nレシピID:4429966"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2873234",
+    "advice": "生姜は多めが美味しいです。",
+    "history": "柔らかいしょうが焼きが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま しょうが焼き",
+        "しょうが焼き",
+        "しょうが焼き 簡単",
+        "豚こま"
+    ],
+    "tsukurepo_count": "750",
+    "thumbnail": "https://img.cpcdn.com/recipes/2873234/100x141c/0ac64af33e6280e0a191897fe2a75bd5.jpg?u=7510994&p=1415359729"
+}

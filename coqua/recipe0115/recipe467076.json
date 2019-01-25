@@ -1,0 +1,52 @@
+{
+    "name": "白菜のナムル　塩ダレ味☆",
+    "author": {
+        "@type": "Person",
+        "name": "あや村"
+    },
+    "image": "https://img.cpcdn.com/recipes/467076/464x260/298df542f116a73ed58effa32d2e5fac.jpg?u=518324&p=1214217932",
+    "datePublished": "2007-12-15",
+    "description": "簡単でとってもおいしい！白菜の消費に。 おかげさまで１００レポ達成しました！　 本当にありがとうございます♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "小１/４カット"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "鳥ガラスープの素",
+            "quantity": "お好みで少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を太目の千切りにする。　耐熱ボールに入れラップをして２～３分チンして、荒熱がとれたら水気をギュッとしぼる。",
+        "調味料を全部入れ、良く混ぜて出来上がり☆ \r\n",
+        "※味を見ながら、鳥ガラスープの素を加えて下さい。入れなくても美味しいです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "467076",
+    "advice": "キャベツでも出来ます。　白菜の柔らかさはお好みで調整してください。にんにくを入れても美味しいと思います。",
+    "history": "白菜の消費に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ナムル",
+        "塩ダレ 白菜"
+    ],
+    "tsukurepo_count": "373",
+    "thumbnail": "https://img.cpcdn.com/recipes/467076/100x141c/8739e3a8feabfeb8675aac5b6de90250.jpg?u=518324&p=1214217932"
+}

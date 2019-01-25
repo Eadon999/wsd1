@@ -1,0 +1,63 @@
+{
+    "name": "大根と水菜のおかか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "なこなここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/740839/464x260/70d398ceb802fd70b5f3164d961fc4d5.jpg?u=1091643&p=1255535023",
+    "datePublished": "2009-02-21",
+    "description": "しゃきしゃきとした大根と水菜の歯ざわりがおいしいです。 H22.11.3　つくれぽ10件ありがとうございます☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "水菜",
+            "quantity": "ひと束"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "一袋"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をスライサーで細切りにし、水菜は3センチ程度に切る。",
+        "油を引いて大根をいため、少ししんなりしたら、水菜とかつお節を加える。",
+        "仕上げにお酒、醤油、塩を加えて全体を混ぜ合わせて出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "740839",
+    "advice": "しんなりしたら出来上がりです。煮込まず、しゃきしゃきするぐらいで火を止めてください。",
+    "history": "余った大根をおいしく食べたいと思い、作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "水菜",
+        "かつお節",
+        "油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/740839/100x141c/85494d2cb07c07d8e967df06e6e120e4.jpg?u=1091643&p=1255535023"
+}

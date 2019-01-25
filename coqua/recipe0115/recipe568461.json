@@ -1,0 +1,50 @@
+{
+    "name": "炊飯器一つで☆筍ごはん☆",
+    "author": {
+        "@type": "Person",
+        "name": "kachimachi"
+    },
+    "image": "https://img.cpcdn.com/recipes/568461/464x260/51a5c0d20eb8e15a7a450f4d9d2b6195.jpg?u=686749&p=1271293595",
+    "datePublished": "2008-05-12",
+    "description": "ビックリするくらい簡単に上品な味の筍ごはんの出来上がり♪2010.4.15のピックアップレシピに採用していただきました。",
+    "recipeYield": "３合分",
+    "recipeIngredient": [
+        {
+            "name": "筍（水煮）",
+            "quantity": "100g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "白だし",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "（あれば）木の芽",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お米をといで炊飯器に入れ、白だしを入れます。 \r\nその上から水（分量外）を３合になるように足します。",
+        "油揚げを好みの大きさにカットし、筍はスライスして入れます。\r\n炊飯し、炊き上がったら10分程度蒸らして出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "568461",
+    "advice": "木の芽はお好みで♪なくても十分美味しいです。",
+    "history": "筍の水煮があったので、炊き込みご飯にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "筍ご飯 炊飯器"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/568461/100x141c/1ee230edaccff6af856f46b1691f464e.jpg?u=686749&p=1271293595"
+}

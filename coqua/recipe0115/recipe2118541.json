@@ -1,0 +1,67 @@
+{
+    "name": "誰でも作れる 簡単！ヘルシー雑炊",
+    "author": {
+        "@type": "Person",
+        "name": "あいわい。さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2118541/464x260/4d855007951647dd9246e4453eafbf2d.jpg?u=5084550&p=1360822120",
+    "datePublished": "2013-02-14",
+    "description": "誰でも作れる簡単でヘルシーな雑炊です。体も温まりますよ＾＾",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗半分～1杯"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "80g"
+        },
+        {
+            "name": "A水",
+            "quantity": "200～250cc"
+        },
+        {
+            "name": "A白だし",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "A塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "A麺つゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "薬味ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ねぎは小口切りにする。\n",
+        "1人用土鍋などにAの材料をすべて入れ沸騰させ、ご飯と豆腐を入れる。（豆腐は手で潰しながら入れる）\n\n",
+        "ご飯が少しふっくらとしたら火を止め、割りほぐした卵を流し入れる。（完全に火を通したい場合は蓋をする）\n",
+        "（３）にねぎを散らして完成です。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2118541",
+    "advice": "お好みで鶏のささみや、きのこなどを入れても美味しく仕上がります。イロイロとアレンジをして、お召し上がりください。",
+    "history": "シンプルなこの雑炊が好きで、よく作ります。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "卵",
+        "木綿豆腐",
+        "薬味ねぎ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2118541/100x141c/655796ee4b11a482ab7b3a793ec6efa3.jpg?u=5084550&p=1360822120"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "【農家のレシピ】きゅうりのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2674819/464x260/5c3fbf646b559d6ed738bab943b3dd21.jpg?u=2513693&p=1403041998",
+    "datePublished": "2014-06-18",
+    "description": "パパッと簡単に作れるナムル。あと１品何かほしいな～と思ったときに、すぐに作れるので、よかったら作ってみてくださいね～",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり（細切り）",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "１片"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうり２本を細切りにして塩を混ぜて１０分置き、水けをギュッと絞り【Ａ】で和える",
+        "ビールのあてにする時は、塩を少し多い目にするとビールがグイグイすすみます～"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2674819",
+    "advice": "",
+    "history": "色んな野菜でナムルを作っていますが、きゅうりは少し青臭いので酢をプラスしてさっぱり仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "塩",
+        "にんにく",
+        "白ごま"
+    ],
+    "tsukurepo_count": "102",
+    "thumbnail": "https://img.cpcdn.com/recipes/2674819/100x141c/e3c84ca9f617b969765aa9d7bff25249.jpg?u=2513693&p=1403041998"
+}

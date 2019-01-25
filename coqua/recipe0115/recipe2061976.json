@@ -1,0 +1,53 @@
+{
+    "name": "薄揚げのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2061976/464x260/fc4049536313fd0d538c3551f827bbdf.jpg?u=2124468&p=1355912743",
+    "datePublished": "2012-12-19",
+    "description": "サクサクお揚げにとろけたチーズが絡みつき、パセリの香りも加わります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "薄揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ピザ用とろけるチーズ",
+            "quantity": "30～50g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻みパセリ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモン",
+            "quantity": "一切れ"
+        }
+    ],
+    "recipeInstructions": [
+        "薄揚げをオーブントースターに投入。焦げ目が付くまで焼く。",
+        "こんがり焼けたら1センチ程度にカット。",
+        "アルミフォイルに乗せて塩コショウを振り、チーズ・パセリを散らす。",
+        "再度、オーブントースターでチーズが溶けるまで焼けば出来上がりです。\nレモンを絞ってどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2061976",
+    "advice": "チーズを乗せてからの焼き加減はお好みで。チーズがとろける程度でもよし。焦げるまで焼いてもよし。",
+    "history": "急のお客さんのときのための簡単レシピです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ",
+        "その他/おつまみ/ワインに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うすあげ チーズ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2061976/100x141c/822df0c631cf41f17634eb0b130bc7cf.jpg?u=2124468&p=1355912743"
+}

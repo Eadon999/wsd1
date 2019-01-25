@@ -1,0 +1,57 @@
+{
+    "name": "椎茸とコンニャクのサッと煮",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3425447/464x260/0e33cc98c49532ea2335a7df537c306e.jpg?u=3280486&p=1443231200",
+    "datePublished": "2015-09-26",
+    "description": "彩りはあまり良くないです(>_<)ただ、味が染み込み、椎茸の旨みを堪能できる一品です(*^^)v",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "椎茸",
+            "quantity": "5個"
+        },
+        {
+            "name": "コンニャク",
+            "quantity": "約220g"
+        },
+        {
+            "name": "酒",
+            "quantity": "50ml"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸はカサと軸を切り分け、カサは削ぎ切りにします。軸は石づき（下の固い部分）を取り除きます。",
+        "コンニャクは味が染み込みやすいように手でちぎります。",
+        "フライパンに②を入れて強火で1分位空炒りをし、水気を飛ばします。",
+        "①を加えてサッと炒め合わせたら酒を加えます。蓋をして弱火で1分酒蒸しにします。",
+        "醤油と砂糖を加えて強火で1分位煮詰めます。お皿に盛り、七味をかけたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3425447",
+    "advice": "コンニャクは「1パック220g」のものを使いましたが、200～250gであればokですよ♫",
+    "history": "椎茸の旨みを味わう一品を作りたくて考えました（●＾o＾●）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけこんにゃく"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/3425447/100x141c/0ba7d33444e7e74ac9996c02fe05ce6a.jpg?u=3280486&p=1443231200"
+}

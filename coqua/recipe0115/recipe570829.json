@@ -1,0 +1,55 @@
+{
+    "name": "ピーマンと舞茸のおかか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "なおタウリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/570829/464x260/111e6febbd9eb847fe0a9316a9b09a36.jpg?u=386014&p=1214219968",
+    "datePublished": "2008-05-15",
+    "description": "ピーマンが沢山食べれます。　簡単にもう一品という時にどうぞ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "１袋（５個）"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "１パック"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは細切りにする。　舞茸は食べやすくほぐす。",
+        "油をひいたフライパンでピーマン→舞茸の順に炒める。　しんなりとしてきたら、●を入れて汁気を飛ばしながら炒める。",
+        "汁気がなくなったら火を止めて鰹節を入れて全体にからめる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "570829",
+    "advice": "ピーマンは太めでＯＫです。舞茸のうまみがじゅわっと味わえる炒め物です♪",
+    "history": "冷蔵庫の残り物であと一品作ってみました＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ ピーマン"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/570829/100x141c/893fc1808c432f8798300b13885c4aa6.jpg?u=386014&p=1214219968"
+}

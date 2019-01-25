@@ -1,0 +1,60 @@
+{
+    "name": "✿筍と新玉ねぎの塩にんにく炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1109829/464x260/ce65251e4b719ab20d76a228f60349d9.jpg?u=271833&p=1272206698",
+    "datePublished": "2010-04-26",
+    "description": "筍と新玉ねぎを使った中華風の味付けの炒め物です。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "筍（水煮）",
+            "quantity": "200g"
+        },
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆ウェイパー",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "☆胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "筍は5ミリくらいの厚さのいちょう切りにし、玉ねぎは薄切りにする。にんにくはみじん切りにする。",
+        "フライパンにごま油とにんにくを入れて火にかけ、にんにくの香りが立ったら玉ねぎを入れてじっくり炒める。",
+        "玉ねぎが透き通ってきたら筍も加えて２分程炒め、☆を加えて更に炒める。調味料が全体によくなじめば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1109829",
+    "advice": "調味料の分量は、味をみてお好みで加減して下さい。",
+    "history": "有り合わせのものを使って作った簡単な炒め物です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新たまねぎ にんにく炒め"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1109829/100x141c/7c086ef509d79a21262b86d3eb4bd047.jpg?u=271833&p=1272206698"
+}

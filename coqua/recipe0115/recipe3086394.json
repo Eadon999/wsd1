@@ -1,0 +1,55 @@
+{
+    "name": "ちくわとインゲンの柚子胡椒マヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/3086394/464x260/3eeccfdaad7865c694ed803163eb055e.jpg?u=1397778&p=1427266532",
+    "datePublished": "2015-04-02",
+    "description": "あと一品に♪簡単なのでお弁当にもどうぞ☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "インゲン豆",
+            "quantity": "10～12本位"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "柚子胡椒（チューブ）",
+            "quantity": "1.5㎝～"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンをさっと茹でて切っておく。ちくわを食べやすい大きさに切る。",
+        "1をフライパンに入れて、マヨネーズも入れて炒める。",
+        "2に醤油と柚子胡椒も入れてさらに炒める。",
+        "お皿に盛って完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3086394",
+    "advice": "簡単すぎて特にありませんが、焦げやすいので注意してくださいね^^インゲンの代わりに、ピーマンや絹さや、スナップエンドウやアスパラなどあるものでもＯＫ♪柚子胡椒の分量はお好みで増減してください。",
+    "history": "冷蔵庫にあるものでささっと作ってみたら美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "インゲン豆",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/3086394/100x141c/a49b5893ebc08c19fade7c89d004a983.jpg?u=1397778&p=1427266532"
+}

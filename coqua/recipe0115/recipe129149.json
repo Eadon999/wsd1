@@ -1,0 +1,70 @@
+{
+    "name": "タンドリーチキン",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/129149/464x260/d1e5df8606daddfb713cd816595d4a4c.jpg?u=39686&p=1214210629",
+    "datePublished": "2004-02-10",
+    "description": "ヨーグルトでマリネしたチキンがやわらか～い♪漬け込んで焼くだけ簡単タンドリーチキンです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏モモ肉",
+            "quantity": "700～800ｇ"
+        },
+        {
+            "name": "*ヨーグルト",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "*レモン汁",
+            "quantity": "大さじ1(あればライム汁)"
+        },
+        {
+            "name": "*サラダオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "*砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "*塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "*生姜すりおろし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "*にんにくすりおろし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "*カレー粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "*パプリカパウダー",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏モモ肉を大きめに切る(モモ肉１枚を６等分くらい)。＊印の材料を混ぜ合わせてビニールに入れ、鶏モモ肉を漬け込む。冷蔵庫に入れて一晩おく。",
+        "オーブンを250℃に温める。バットにアルミホイルなどを敷き、1を並べて約２０分焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "129149",
+    "advice": "一晩くらい漬け込んだほうが美味しいです。最低でも２～３時間は漬け込んでください。",
+    "history": "タンドリーチキンが食べたい。。。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏モモ肉"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/129149/100x141c/69dbe7cc06c364c0d13e1861fd4c5d8e.jpg?u=39686&p=1214210629"
+}

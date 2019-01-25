@@ -1,0 +1,64 @@
+{
+    "name": "カブと鶏肉の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "yumipurin"
+    },
+    "image": "https://img.cpcdn.com/recipes/1792504/464x260/5aa694dd6fcba4de10d2dff1f8e97cb5.jpg?u=328783&p=1335483157",
+    "datePublished": "2012-04-28",
+    "description": "カブの炒め物♪お弁当のおかずにも＾＾",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "カブ",
+            "quantity": "3個"
+        },
+        {
+            "name": "生姜",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大、カブは洗って皮を剥き８等分、葉を3cmほどに切りる。\n生姜は千切りにする。",
+        "鶏肉を皮目から入れて焼き目を付け、余分な油は捨てる。",
+        "カブを加えて炒め焼き目を付けて透明になってきたら生姜を入れ炒める。",
+        "カブの葉を加えて炒め、合わせ調味料を入れ更に炒めて出来上がり。",
+        "2012/06/09　\n話題入りしました。\n\nつくれぽを下さった方にお礼を申し上げます。\nありがとうございます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1792504",
+    "advice": "味付けは薄めかな？と、思うのでお好みで変えて下さい。",
+    "history": "カブがお安くなっていたので、漬物以外のおかずになるものを、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 鶏もも 炒め",
+        "鶏もも肉 かぶ お弁当",
+        "かぶ 鶏肉 炒め",
+        "かぶ 鶏肉"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1792504/100x141c/d86a0bc48fbd23d283c0c022d1f0d2f9.jpg?u=328783&p=1335483157"
+}

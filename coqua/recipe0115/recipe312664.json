@@ -1,0 +1,56 @@
+{
+    "name": "ぴっちぃのり",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/312664/464x260/a10e53ca9dfd77983f30dfb1397d7981.jpg?u=253314&p=1214214344",
+    "datePublished": "2006-12-21",
+    "description": "自分で作るのり佃煮。味の調節できるし、何より安心♪♪皆様も「オリジナルのり」を作ってみませんか？ 湿った海苔の救済ﾚｼﾋﾟです（＾＾）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "焼き海苔",
+            "quantity": "全形１０枚"
+        },
+        {
+            "name": "みりん",
+            "quantity": "１００cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "３００cc"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋で煮切りみりんを作る。",
+        "①の鍋に荒くちぎった海苔を入れる。",
+        "②に水を加えて火にかける。",
+        "味をみながら、砂糖、醤油を加えて煮詰める。",
+        "１０枚で、写真の瓶２本チョイ出来ました。（大きさわかるかな？磯じ○んの瓶です）"
+    ],
+    "cookTime": null,
+    "recipe_id": "312664",
+    "advice": "途中、味を確認しつつ　お好みの味にして下さい♪",
+    "history": "子供が海苔の佃煮が好きなんですが、たくさんの量を１度に食べるんです。市販のは味が濃いので、薄味のなら多く食べてもいいかなって思い作りました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き海苔",
+        "みりん",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/312664/100x141c/99766dfd03aa681dc8c7970c583af90a.jpg?u=253314&p=1214214344"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "これは美味！『春菊の納豆和え』",
+    "author": {
+        "@type": "Person",
+        "name": "つちかな"
+    },
+    "image": "https://img.cpcdn.com/recipes/1603936/464x260/3be6092323de185da9ed7f075ad4f4f7.jpg?u=3167869&p=1319085033",
+    "datePublished": "2011-10-20",
+    "description": "春菊の美味しい季節！簡単＆ヘルシー❤箸やすめにもピッタリ❤",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "納豆（小粒）",
+            "quantity": "1パック"
+        },
+        {
+            "name": "★いりごま",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★麺つゆ（3倍濃縮）",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★だしの素",
+            "quantity": "小さじ1/2ｓ"
+        },
+        {
+            "name": "塩（茹で用）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊は葉を摘んで、塩を入れたお湯でサッと茹でる。水にさらして、水気を絞る。幅1ｃｍくらいに切る。",
+        "ボウルに納豆を入れて、★の材料を加えて混ぜ合わせる。春菊も加えて全体を混ぜ合わせて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1603936",
+    "advice": "",
+    "history": "有り合わせで作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊",
+        "納豆",
+        "いりごま",
+        "麺つゆ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1603936/100x141c/28e8f32b7926fe3374bd354d7b30c663.jpg?u=3167869&p=1319085033"
+}

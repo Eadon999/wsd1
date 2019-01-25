@@ -1,0 +1,53 @@
+{
+    "name": "白菜&ほうれん草noごま和え",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3577779/464x260/cf48d4c98187beaf1fc3be25a1b39079.jpg?u=10112198&p=1450341548",
+    "datePublished": "2015-12-17",
+    "description": "冬の白菜もほうれん草も甘くて美味しい♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "3枚(なまの状態で380g)"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "大さじ6"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3(ゴマの半量)"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1と1/2(砂糖の半量)"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は食べやすい長さに切り、茹でる。水に晒しきつく絞る。",
+        "ほうれん草を茹でたお湯で白菜も茹でる\n一口大に切った茎を先に入れる。",
+        "茎が柔らかくなったら、葉を加える。水に晒しきつく絞る。",
+        "もう一度野菜を絞りながら、混ぜたゴマ衣と和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3577779",
+    "advice": "和える前に、野菜をきつく絞ることかな。",
+    "history": "冬の白菜は美味しいので。少し甘めの味付です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ほうれん草",
+        "白菜 ごま和え"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3577779/100x141c/f56edc9a90073836ab5b317c5f273f43.jpg?u=10112198&p=1450341548"
+}

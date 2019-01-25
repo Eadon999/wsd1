@@ -1,0 +1,57 @@
+{
+    "name": "厚切ベーコンステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "ryo1com"
+    },
+    "image": "https://img.cpcdn.com/recipes/1520847/464x260/c1c4a89b33cd2a43fda79e7836c0183b.jpg?u=3392482&p=1313056005",
+    "datePublished": "2011-08-11",
+    "description": "ブロックベーコンを厚切りでステーキにしました！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロックベーコン",
+            "quantity": "１㎝幅６枚"
+        },
+        {
+            "name": "サラダピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "ブラップペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆すりおろしニンニク",
+            "quantity": "１欠片"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆赤ワイン",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロックベーコンを１㎝幅にカットし、オリーブオイルをしいたフライパンで炒め、ブラックペッパーをパラパラ！",
+        "ベーコンを焼いた後フライパンに肉汁が残るので、そこに☆印の材料を入れ、一煮立ちさせればソースの完成！",
+        "お皿に焼いたベーコンと種をとって輪切りにしたサラダピーマンをのせて、２のソースをかければ完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1520847",
+    "advice": "ブロックベーコンは豪快に厚切りで！ｗ",
+    "history": "ブロックベーコンを大人買い出来るようになり、一度は作ってみたかった料理デス！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロックベーコン ステーキ",
+        "ベーコンステーキ",
+        "ベーコン 厚切り ステーキ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1520847/100x141c/a3828db72b07ca3bded655c401599344.jpg?u=3392482&p=1313056005"
+}

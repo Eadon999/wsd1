@@ -1,0 +1,64 @@
+{
+    "name": "鯵の蒲焼き丼",
+    "author": {
+        "@type": "Person",
+        "name": "ゆなママ♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/845314/464x260/6fee2562a16917d3221ac5d93b9e4927.jpg?u=1114063&p=1245654502",
+    "datePublished": "2009-06-22",
+    "description": "鯵の蒲焼きもおススメです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯵",
+            "quantity": "4尾"
+        },
+        {
+            "name": "大葉",
+            "quantity": "10枚"
+        },
+        {
+            "name": "生姜",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鯵を三枚におろし、骨をキレイに取る。 \r\n",
+        "鯵に塩コショウをし、小麦粉を薄くまぶしてサラダ油を入れたフライパンで両面がカリッとするまで焼く。\r\n",
+        "フライパンの余分な油をふき取り、合わせたたれを加えて煮絡める。\r\n",
+        "大葉、生姜は千切りにする。\r\n",
+        "丼にご飯を入れ、鯵の蒲焼きをのせ、大葉、生姜を添える。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "845314",
+    "advice": "三枚におろしてから骨を取るのが面倒ですが、しっかりとって下さい。",
+    "history": "買って来た鯵はフライにしようかと思ったけど、袋で大量に買った大葉があったので、蒲焼きにすることにしました。 いわしではよく蒲焼き丼を作りますが、鯵で作るのは初めてです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯵",
+        "大葉",
+        "生姜",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/845314/100x141c/a50bdff0ffca59608e2ca93af8dc3c71.jpg?u=1114063&p=1245654502"
+}

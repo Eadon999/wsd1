@@ -1,0 +1,40 @@
+{
+    "name": "塩サバの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ますこちゃん！"
+    },
+    "image": "https://img.cpcdn.com/recipes/1161844/464x260/3bc5f6aa74dc0418ddf26ff6e16d2a9c.jpg?u=1142597&p=1276779033",
+    "datePublished": "2010-06-17",
+    "description": "つくれぽ１０人達成有難う♪材料は塩サバと生姜だけ。たっぷりのせた生姜が、いつもの塩サバを一味違う美味しさにしてくれます。",
+    "recipeYield": "３人前",
+    "recipeIngredient": [
+        {
+            "name": "塩サバ",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "大１片"
+        }
+    ],
+    "recipeInstructions": [
+        "①塩サバは、皮側に縦に３個所ほど深めに切りこみを入れ、おろし生姜を皮全体にたっぷりのせる。",
+        "②温めておいた両面グリルに皮を上にして入れ、皮が焦げすぎないように気をつけながら焼く。",
+        "③器に塩サバを盛りつけ、そのままいただく。塩味が足りない時は、醤油をかけても美味しい。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1161844",
+    "advice": "片面グリルの時は、おろし生姜をのせずにまず身を７分通り焼き、裏返してからおろし生姜をのせて、皮側も焼くと良いです。",
+    "history": "義母が作っていたレシピのアレンジです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩サバ",
+        "生姜"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1161844/100x141c/e2552940ff5735c965d77502c951514c.jpg?u=1142597&p=1276779033"
+}

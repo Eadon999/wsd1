@@ -1,0 +1,89 @@
+{
+    "name": "豆腐とひき肉のレンジ蒸し甘酢あん",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2676038/464x260/bf5feffdd331fca0d7bd2eb2c12d3d14.jpg?u=4819316&p=1403097172",
+    "datePublished": "2014-06-18",
+    "description": "和風のようにも見えますが中華味です、しょうがが効いて甘酸っぱく食べられます",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１／２丁"
+        },
+        {
+            "name": "鶏ひき肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "１０センチ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "枝豆（なくてもＯＫ）",
+            "quantity": "２０粒ぐらい"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "▲酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "▲しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ねぎとしょうがはみじん切り、枝豆は茹でて粒を取り出す",
+        "ボウルに豆腐を入れて手で潰し、鶏ひき肉、ねぎ、しょうが、卵と▲を混ぜる",
+        "器に２を入れてラップをし、レンジ５００Ｗで５分加熱する",
+        "●を鍋で沸騰させて、水溶き片栗粉を混ぜて甘酢あんを作る",
+        "３の上に枝豆を乗せて、その上に４のあんをかけて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2676038",
+    "advice": "緑の物が少し入ると綺麗に見えるかと枝豆を入れてみました、別の物でも構いませんし、なくてもＯＫです",
+    "history": "豆腐のレンジ蒸しがなかなか気に入っていて、それを中華味にしてみたいと作ってみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひき肉　豆腐　レンジ蒸し"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2676038/100x141c/ee7eb98d4062b97e8efe764a9b8d8e50.jpg?u=4819316&p=1403097172"
+}

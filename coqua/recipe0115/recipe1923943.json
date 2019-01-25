@@ -1,0 +1,59 @@
+{
+    "name": "超簡単☆ピーマン丼♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1923943/464x260/db5f8db142b52808ece1fa1c84b1e493.jpg?u=1228553&p=1345344370",
+    "datePublished": "2012-08-19",
+    "description": "ピーマン好きさんいらっしゃい～ヽ(･∀･)ﾉ とっても簡単・でもはまっちゃう♪1人ランチや朝ごはんにも(っ´∀｀c)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "少々"
+        },
+        {
+            "name": "七味",
+            "quantity": "少々（お好み）"
+        }
+    ],
+    "recipeInstructions": [
+        "油をひいた小さめのフライパンで細切りのピーマンを炒め",
+        "めんつゆ&水を投入",
+        "お好みの煮え加減で溶き卵を流しいれ、蓋をして少々で出来上がり♪",
+        "ご飯の上にのせて～炒り胡麻&七味をふって～(*´ｪ`*)"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1923943",
+    "advice": "ピーマンに火を通すほど苦みはなくなってゆきます♪めんつゆは「にんべん　つゆの素」を使いました。お使いの物に合わせて水の量は調節してください☆",
+    "history": "ピーマンたっぷりの卵丼が食べたくて(o´ω｀o)ぅふふ ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "卵",
+        "めんつゆ",
+        "炒り胡麻"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1923943/100x141c/6b3daff3c1efeaeb7e31e1ed44d48850.jpg?u=1228553&p=1345344370"
+}

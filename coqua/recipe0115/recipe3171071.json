@@ -1,0 +1,53 @@
+{
+    "name": "舞茸といんげんの味噌汁♪",
+    "author": {
+        "@type": "Person",
+        "name": "みんとこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3171071/464x260/d7523eefe56c20bc171b1b6913ec4bea.jpg?u=568287&p=1431432883",
+    "datePublished": "2015-05-12",
+    "description": "話題入り感謝です♪味噌汁に舞茸といんげん入れてみました♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "100g"
+        },
+        {
+            "name": "いんげん(生でも冷凍でも)",
+            "quantity": "50g"
+        },
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1〜2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1半〜2"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸、いんげんは食べやすい大きさに切る。\n鍋に、水、だしの素を入れて沸かす。\nいんげんを入れて柔らかくなるまで煮る。",
+        "いんげんが柔らかくなったら、舞茸を入れる。味噌を入れて味を整える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3171071",
+    "advice": "冷凍なら、茹で時間もなく、簡単です。お好みで調味料も調節してください。",
+    "history": "娘が味噌汁にいんげん入れてみたらと言ったので入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "いんげん",
+        "水",
+        "だしの素"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3171071/100x141c/42d559c3274a481ea4ef506b31b0203b.jpg?u=568287&p=1431432883"
+}

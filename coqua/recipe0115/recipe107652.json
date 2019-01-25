@@ -1,0 +1,55 @@
+{
+    "name": "ピーマンと油揚げのレンジ煮浸し。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/107652/464x260/1070953ca143e65a9a844555074b598a.jpg?u=14642&p=1214210212",
+    "datePublished": "2003-09-16",
+    "description": "レンジで煮てほっとくだけの簡単・手軽な副菜です。もう一品足りない、、なんて時にどうぞ。出汁の染み込んだ油揚げがおいしい～。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "○だし汁",
+            "quantity": "3分の2カップ"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○味醂",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは縦半分に切り、ヘタと種を取って、細切りにしておく。油揚げは熱湯をかけて油抜きし、細切りにしておく。",
+        "耐熱容器に○の調味料と1のピーマンと油揚げを入れ、レンジで2分くらい加熱し、味が染み込むように少々時間をおいて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "107652",
+    "advice": "",
+    "history": "とことん手軽に、簡単に。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/調理器具/電子レンジ調理/レンジでサブおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン 油揚げ 煮浸し"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/107652/100x141c/a8d8fb134736533323e5e99aed450ab6.jpg?u=14642&p=1214210212"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "簡単♪豚バラ肉たっぷり♪肉うどん",
+    "author": {
+        "@type": "Person",
+        "name": "カジオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2163368/464x260/005ff74bc544470fc619411a7be7af41.jpg?u=4517605&p=1363957117",
+    "datePublished": "2013-03-22",
+    "description": "１玉１９円のうどんを美味しくいただきます！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "白だし",
+            "quantity": "50cc"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/4株"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に、水・白だしを入れ、沸いたら豚バラ肉・しめじを入れます。バラ肉の赤みが無くなったら、火を止めます。",
+        "うどんを別の鍋で茹でます。",
+        "どんぶりに、茹でたうどんを入れ、豚バラ肉としめじをのせて、スープを入れます。ネギを散らして完成♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2163368",
+    "advice": "豚バラ肉は茹で過ぎない程度に。",
+    "history": "安いうどんをより美味しく食べたくて、作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉うどん 豚バラ",
+        "肉うどん",
+        "肉うどん 豚肉",
+        "肉うどん 豚 白だし"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/2163368/100x141c/195695e6216661554b588e4ff8d07c13.jpg?u=4517605&p=1363957117"
+}

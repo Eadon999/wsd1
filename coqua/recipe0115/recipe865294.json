@@ -1,0 +1,58 @@
+{
+    "name": "ツナと大豆のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/865294/464x260/7a7c81369845aa15b7291375683589b3.jpg?u=1423987&p=1247566084",
+    "datePublished": "2009-07-14",
+    "description": "大豆のくさみをかんじさせません。たくさん食べちゃうお気に入りのサラダです。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "大豆の水煮",
+            "quantity": "1袋（固形量180ｇ）"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小1缶"
+        },
+        {
+            "name": "●粒マスタード",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "大豆は水をきっておく。 \r\n玉ねぎは薄くスライスして塩少々（分量外）でもみ、洗い流して水気をしぼる。",
+        "1の大豆と玉ねぎを合わせ、水気をきったツナ缶、●の材料を加え混ぜ合わせる。\r\n塩・コショウで味をととのえる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "865294",
+    "advice": "ノンオイルのツナ缶でも美味しく出来ます♪",
+    "history": "ためしに作ってみたところ、旦那がぱくぱく食べてくれたのでレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大豆"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/865294/100x141c/1b0a389d617e5cebcd65e5ec86a0f314.jpg?u=1423987&p=1247566084"
+}

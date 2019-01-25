@@ -1,0 +1,61 @@
+{
+    "name": "栄養満点！かぼちゃサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ニコニコプーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1309368/464x260/eab9b0d5d79d57f70531b7ebc9df61d8.jpg?u=1429885&p=1292397045",
+    "datePublished": "2010-12-15",
+    "description": "かぼちゃの濃厚な味には、いろんな野菜が相性抜群！今日はツナやハムでボリュームたっぷりサラダにしました。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "コーン",
+            "quantity": "１０g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは２cm幅でカットし、レンジで３分加熱する。玉ねぎはスライスし水にさらしておく。ハムは１センチ幅で細切りする。",
+        "かぼちゃは軽くつぶし、他のすべての材料を混ぜ合わせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1309368",
+    "advice": "きゅうりやキャベツなどを入れてもいいです。トーストに乗せても美味しいです！",
+    "history": "かぼちゃをたくさん食べられる我が家のかぼちゃサラダです",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "ハム",
+        "玉ねぎ",
+        "コーン"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1309368/100x141c/b672fe4a8942c891bdb607840cb2a5b5.jpg?u=1429885&p=1292397045"
+}

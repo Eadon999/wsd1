@@ -1,0 +1,62 @@
+{
+    "name": "超簡単！手作りスープの醤油ラーメン♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1790272/464x260/6df0e36aa68dc6cbac9e0a042ab165ff.jpg?u=603745&p=1447766414",
+    "datePublished": "2012-04-24",
+    "description": "沸いたお湯に調味料を入れるだけ！簡単スープの出来あがり♪麺さえあればすぐに出来ちゃいます☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "２玉"
+        },
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお湯を沸かします。",
+        "☆の調味料を全て加えてひと煮立ちさせたらスープの出来あがりです。",
+        "中華麺をパッケージに従って茹でてください。",
+        "丼に麺とスープを入れてお好きな具材をお好みでトッピングしてください♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1790272",
+    "advice": "",
+    "history": "残った中華麺の処理を兼ねて、家にあるものだけで作りました。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": [
+        "ラーメンスープ 10位",
+        "しょうゆラーメン 7位"
+    ],
+    "related_keywords": [
+        "ラーメンスープ 手作り",
+        "醤油ラーメンスープ 手作り",
+        "ラーメンスープ 手作り 簡単",
+        "ラーメンスープ"
+    ],
+    "tsukurepo_count": "164",
+    "thumbnail": "https://img.cpcdn.com/recipes/1790272/100x141c/6dee213ccb2e786dac0c28883885869c.jpg?u=603745&p=1447766414"
+}

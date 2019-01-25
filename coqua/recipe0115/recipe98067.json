@@ -1,0 +1,68 @@
+{
+    "name": "和風！居酒屋のお通しみたいな七味仕上げ",
+    "author": {
+        "@type": "Person",
+        "name": "saijun"
+    },
+    "image": "https://img.cpcdn.com/recipes/98067/464x260/a34872f245bbe9e838b94ab41bd5bd52.jpg?u=675&p=1225630667",
+    "datePublished": "2003-06-25",
+    "description": "さつま揚げとシーチキンってスゴク合うんです！お酒のおつまみにも最高だし、おかずでもご飯がすすみます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "小5枚"
+        },
+        {
+            "name": "シーチキン",
+            "quantity": "１缶"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "七味",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "そばつゆ",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま揚げは短冊切り。\r\n万能ネギは薄切り。\r\nフライパンにゴマ油を熱しさつま揚げに焦げ目がつくように強火で炒め、シーチキン、万能ネギを入れ30秒位炒める。",
+        "①にそばつゆ、水、砂糖、みりん、七味を入れ一煮立ちしたら火を止める。",
+        "皿に盛り好みで七味を上に振る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "98067",
+    "advice": "",
+    "history": "居酒屋さんみたいなおつまみを作りたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お通し",
+        "居酒屋 お通し"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/98067/100x141c/7dd5e34eb05388143b06d2ff6e31f173.jpg?u=675&p=1225630667"
+}

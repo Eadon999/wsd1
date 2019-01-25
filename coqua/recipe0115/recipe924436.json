@@ -1,0 +1,80 @@
+{
+    "name": "大分とり天♡",
+    "author": {
+        "@type": "Person",
+        "name": "4110"
+    },
+    "image": "https://img.cpcdn.com/recipes/924436/464x260/5fff12eaf31ac9fd3136163679cb28c9.jpg?u=918681&p=1258899537",
+    "datePublished": "2009-10-05",
+    "description": "「とり天」それは大分のソウルフード♡ 熱々ジューシーなとり天を召し上がれ♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉又はむね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎おろし生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎おろしにんにく",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "■卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "■小麦粉・片栗粉",
+            "quantity": "各1/3カップ"
+        },
+        {
+            "name": "■水",
+            "quantity": "60cc"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "《つけダレ》",
+            "quantity": "酢醤油、ポン酢、天つゆなど"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉をひと口大にそぎ切りする。\nボウルに鶏肉と◎の調味料を入れ、もみ込み下味をつける。(10分程)",
+        "別のボウルに■を入れさっくりと混ぜ合わせ衣を作る。 \n鶏肉に衣をつけ、180℃の油でカラッと揚げ出来上がり。",
+        "お好みのつけダレで召し上がれ♪\n※そのままでも美味です♡"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "924436",
+    "advice": "もも肉・胸肉どちらでもお好みで♡【もも肉】・・旨み＆ジューシー【むね肉】・・あっさり＆お肉柔らかつけダレは大分では、酢醤油に辛子添えが人気♥",
+    "history": "いつも作ってるうちのとり天です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": [
+        "とり天 2位"
+    ],
+    "related_keywords": [
+        "とり天",
+        "とり天 大分",
+        "とり天 つけだれ",
+        "とり天 もも肉"
+    ],
+    "tsukurepo_count": "1545",
+    "thumbnail": "https://img.cpcdn.com/recipes/924436/100x141c/1ae6a1f3cd37a3d9b0b6e12a0bdd192b.jpg?u=918681&p=1258899537"
+}

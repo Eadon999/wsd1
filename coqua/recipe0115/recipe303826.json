@@ -1,0 +1,47 @@
+{
+    "name": "にんじんバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/303826/464x260/0476e73b51c75d54e5f03a7242d5eb53.jpg?u=274122&p=1214214136",
+    "datePublished": "2006-11-23",
+    "description": "ﾊﾞﾀｰで炒めたにんじんはとっても甘くておいしいです。気づいたらにんじん２本完食なんてこともよくあります。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "中２本（２５０～３００グラム）"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０グラム"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは皮をむき細く切る。",
+        "フライパンにバターをとかし、中火で焦げないようににんじんを炒める。",
+        "塩・黒コショウで味をととのえてできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "303826",
+    "advice": "にんじんはお好きな炒め加減にしてくださいね。私はわりと長時間炒めてしんなりするぐらいが好きです。お好みで仕上げにしょうゆを回しかけてもおいしいです。",
+    "history": "喫茶店に勤めている知り合いに教えてもらった食べ方です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん バターソテー"
+    ],
+    "tsukurepo_count": "255",
+    "thumbnail": "https://img.cpcdn.com/recipes/303826/100x141c/b6819d5b009675c275b84ab4852e75cf.jpg?u=274122&p=1214214136"
+}

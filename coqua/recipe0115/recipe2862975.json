@@ -1,0 +1,55 @@
+{
+    "name": "小松菜としめじのマヨポン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/2862975/464x260/ddde481907c65e2b4bedc134f29c2bd2.jpg?u=1397778&p=1414825090",
+    "datePublished": "2014-11-01",
+    "description": "ささっと出来るのであと一品に♪2014.1118話題入り感謝です♫",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は綺麗に洗って３～4㎝に切る。しめじは石づきを切ってほぐしておく。",
+        "フライパンに油を熱し、1を入れて炒める。",
+        "2にマヨネーズとポン酢を入れて水分がなくなるまで炒める。塩コショウを入れて味を調える。",
+        "3をお皿に盛ったら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2862975",
+    "advice": "簡単すぎて特にありません。",
+    "history": "冷蔵庫に使い切れなかったしめじと小松菜があったので好きな味つけのマヨネーズ＋ポン酢で炒めたら美味しかったから。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "しめじ",
+        "マヨネーズ",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2862975/100x141c/89005ef1c23fcf21c3e54761cf45880f.jpg?u=1397778&p=1414825090"
+}

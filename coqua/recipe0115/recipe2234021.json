@@ -1,0 +1,68 @@
+{
+    "name": "カニ缶の中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "テオブロミン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2234021/464x260/590d9e8a7bf499ec370b6f6088b0825f.jpg?u=5315907&p=1369398723",
+    "datePublished": "2013-05-24",
+    "description": "カニの風味がきいた本格中華っぽいスープです。カニ缶もらった時限定メニュー！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カニ缶（ほぐし身）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "レタス外葉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "●にんにくチューブ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "●しょうがチューブ",
+            "quantity": "２ｃｍくらい"
+        },
+        {
+            "name": "片栗粉（水で溶く）",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水を沸かし、●の調味料をすべて入れる。カニ缶も入れる。レタスも入れちゃいます。",
+        "軽く沸騰した状態で溶き卵を細く流し入れる。",
+        "水で溶いた片栗粉を混ぜながら加え、とろみをつける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2234021",
+    "advice": "レタスの外葉が余ってたので入れましたが、これは何でもいいです。中華っぽいやつで！",
+    "history": "カニ缶のほぐし身をもらったのですが、シーチキンの方が美味しいという悲しい現実が。どうにか美味しくいただけないかと、スープにしてみました。こ・・・これもシーチキンの方が！？",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス カニ缶 スープ",
+        "カニ缶スープ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2234021/100x141c/6c27ecaa3b8f7ba9f60fedabd21f94fd.jpg?u=5315907&p=1369398723"
+}

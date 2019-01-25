@@ -1,0 +1,63 @@
+{
+    "name": "簡単　かぼちゃのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ＪＫ☆クック"
+    },
+    "image": "https://img.cpcdn.com/recipes/2848814/464x260/f06984983da477374e111b758bb4e69d.jpg?u=10781559&p=1413941289",
+    "datePublished": "2014-10-22",
+    "description": "かぼちゃの甘さが感じられ、体もあったまります。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ(正味)",
+            "quantity": "160～170グラム"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "マギーコンソメ",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "マーガリン",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にかぼちゃ（皮はとる）・玉ねぎのスライス・水をいれ、柔らかくなるまで煮る。",
+        "少し冷めたら、ミキサーに入れ滑らかにする。",
+        "鍋に戻し入れ、\n牛乳、コンソメをいれる。\n塩、こしょう、マーガリンを入れる。",
+        "出来上がり！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2848814",
+    "advice": "コクを出したいなら、バターがおすすめ！！私は、手軽にマーガリンにしちゃいましたが・・・",
+    "history": "いつも煮物だったりのかぼちゃを、食べやすく考えました。体も温まるし、この時期おすすめです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "玉ねぎ",
+        "水",
+        "牛乳"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2848814/100x141c/06d04e7f0fc8fef821ab0112aee110b5.jpg?u=10781559&p=1413941289"
+}

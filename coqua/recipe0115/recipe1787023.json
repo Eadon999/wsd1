@@ -1,0 +1,62 @@
+{
+    "name": "青梗菜ともやしの胡麻豆板醤和え",
+    "author": {
+        "@type": "Person",
+        "name": "kazoomdub"
+    },
+    "image": "https://img.cpcdn.com/recipes/1787023/464x260/c4c357d41108eb11476e339f864453f8.jpg?u=394524&p=1335007294",
+    "datePublished": "2012-04-21",
+    "description": "中華料理の時の副菜に。野菜を蒸している間にワカメを戻せば、すぐ出来る。スピードレシピです。",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜",
+            "quantity": "１株"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "2/1カップ"
+        },
+        {
+            "name": "★豆板醤",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★麺つゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★胡麻油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥わかめを水に放し戻しておく。",
+        "お鍋に１cmほど水を張り、青梗菜、もやしを投入。そのまま１分３０秒強火で加熱し、ザルに空け流水で冷やしておく。",
+        "戻したワカメを２と合わせ、★を混ぜ合わせた調味液で和える。\n最後に胡麻を振る。\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1787023",
+    "advice": "野菜は蒸し上がったら、色が変わらないうちに流水で冷やすと良いです。他の料理をしながらでも隣のコンロで作れるので時間のない時にどうぞ。",
+    "history": "麻婆豆腐の副菜にしようと思って作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "青梗菜",
+        "もやし",
+        "乾燥わかめ",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1787023/100x141c/27f3891dcf2ba15d39aa26a41788b497.jpg?u=394524&p=1335007294"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "キャベツとちくわの炒めみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "こは＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2226137/464x260/edcdbcd8e2c5809f134799746e1e2c29.jpg?u=792028&p=1386845721",
+    "datePublished": "2013-05-17",
+    "description": "ひと手間で、いつものみそ汁にコクと旨みがアップします！top画像変更しました＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "水（だし汁）",
+            "quantity": "人数分"
+        },
+        {
+            "name": "みそ",
+            "quantity": "お持ちの味噌の表示通りに"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは、細切り、ちくわは、タテ半分に切り５ミリ位の厚さに切る。",
+        "鍋に、ごま油を熱し、ちくわを炒める。\n\n少し色づいてきたら、キャベツも炒める。\n\n",
+        "キャベツがしんなりしたら、水をいれ、後はいつものようにお味噌汁を作って、出来あがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2226137",
+    "advice": "炒めるひと手間が、ちくわの香ばしさとキャベツの旨みを引き出します。カロリーアップにはなるけど。",
+    "history": "子供のお気に入りです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ味噌汁",
+        "キャベツ 味噌汁"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/2226137/100x141c/b0dfef24f52127a28a5d32898e566942.jpg?u=792028&p=1386845721"
+}

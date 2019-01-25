@@ -1,0 +1,67 @@
+{
+    "name": "チンゲン菜とベーコンのミルク煮",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきながまり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2911148/464x260/071e13052f0a783bb9dd3836a4c4ab1b.jpg?u=646253&p=1417490615",
+    "datePublished": "2014-12-02",
+    "description": "和風に仕上げてあるので　ご飯にも　パンにも合いますよ　料理研究家　行長万里",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２株"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "小１個"
+        },
+        {
+            "name": "ベーコンスライス",
+            "quantity": "３枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１／４カップ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１/４カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は　葉と茎にわけ、茎は２ｃｍ位　葉はざく切りにする。\n玉ねぎは　薄切り、ベーコンは１ｃｍ幅に切る。\n",
+        "鍋にサラダ油を入れて玉ねぎを炒め、ベーコン、チンゲン菜を炒め　小麦粉を振り入れる。\n",
+        "２にだしを入れて　沸騰したら　牛乳、塩、薄口しょうゆを入れて味を調える"
+    ],
+    "cookTime": null,
+    "recipe_id": "2911148",
+    "advice": "牛乳を入れてからはあまり強火にしないこと　分離します",
+    "history": "お手頃なチンゲン菜　中華だけでなく洋風和風にもと言う事で　作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "青梗菜　ミルク煮"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2911148/100x141c/29b794bf02e4ee83b61ef40b1de5cf48.jpg?u=646253&p=1417490615"
+}

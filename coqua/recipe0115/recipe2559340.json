@@ -1,0 +1,48 @@
+{
+    "name": "ニンジンとしらすのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2559340/464x260/3bc58c3675a823790f053e09bda93ce8.jpg?u=3280486&p=1395797612",
+    "datePublished": "2014-03-26",
+    "description": "食卓にあと一品欲しい時に、サッとできる一品です(*´∀｀*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン（皮付き千切り）",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ごま油・酒",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油を入れてニンジンを強火で1分炒める。",
+        "酒を入れて炒め合わせたらしらすを加えて炒め合わせる。塩・胡椒で味を整えたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2559340",
+    "advice": "お酒を加えることで、雑味が取れて、やさしい食感になりますよ。",
+    "history": "ヘルシーで簡単な副菜を食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "しらす",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2559340/100x141c/84b3dcc43630ea119b748896db864e2b.jpg?u=3280486&p=1395797612"
+}

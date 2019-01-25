@@ -1,0 +1,72 @@
+{
+    "name": "しめじと大葉の豆腐あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "maeとも"
+    },
+    "image": "https://img.cpcdn.com/recipes/1281393/464x260/b57684570807af8e6efcf28a2b61a184.jpg?u=1297041&p=1289474356",
+    "datePublished": "2010-11-12",
+    "description": "ちょっと変わったあったか豆腐。焼き豆腐に純和風あんかけをかけて、上品な味にしました。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "焼き豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "大葉",
+            "quantity": "8枚"
+        },
+        {
+            "name": "●水",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "●だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじ、大葉は粗みじんに切る。",
+        "●の材料でダシを作り、水溶き片栗粉でとろみをつける。",
+        "しめじ、大葉を入れてさっと火を通す。",
+        "豆腐を切って入れる。しばらく煮込んで豆腐に味をなじませる。",
+        "28.5.4　話題入りしました！ありがとうございます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1281393",
+    "advice": "今回は焼き豆腐を使いましたが、絹こし豆腐や木綿豆腐でもOKです。",
+    "history": "あったか～いものが食べたい！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き豆腐",
+        "しめじ",
+        "大葉",
+        "あんかけ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1281393/100x141c/e68121e936e856feae3d4c136d96a5dc.jpg?u=1297041&p=1289474356"
+}

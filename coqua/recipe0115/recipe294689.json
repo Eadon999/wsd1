@@ -1,0 +1,52 @@
+{
+    "name": "レンジで簡単♡塩こんぶ温奴",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/294689/464x260/80b513e81cbc19b0a31b09337b1c40b1.jpg?u=274122&p=1223695825",
+    "datePublished": "2006-10-27",
+    "description": "あっというまに塩こんぶ温奴♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１００グラムぐらい"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "ひとつまみぐらい"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はラップをかけ、５００Wで1分～２分レンジであたためる。",
+        "水分を捨て（少し残ってOK)塩こんぶ・ネギ・ごま・七味をお好みでかける。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "294689",
+    "advice": "レンジによって加熱時間は加減をしてください。私はだいたい１分１５秒ぐらい加熱しています。",
+    "history": "塩こんぶが大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温奴 レンジ",
+        "温奴"
+    ],
+    "tsukurepo_count": "124",
+    "thumbnail": "https://img.cpcdn.com/recipes/294689/100x141c/16f8fba28ede0b7df08cdbcbd5423373.jpg?u=274122&p=1223695825"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "新じゃがと挽肉のころころ煮",
+    "author": {
+        "@type": "Person",
+        "name": "まもる"
+    },
+    "image": "https://img.cpcdn.com/recipes/14389/464x260/133e1ff583e34c4dae7527d94b0e1cfd.jpg?u=4996&p=1214208440",
+    "datePublished": "2001-01-31",
+    "description": "八百屋さんで新じゃがを発見。挽肉と甘辛に炒め煮しました。ご飯にとってもよく合います。小さいころ母がよくつくってくれたおかずです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "新じゃがいも",
+            "quantity": "一袋"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "１個"
+        },
+        {
+            "name": "豚挽肉",
+            "quantity": "１５０㌘"
+        },
+        {
+            "name": "ショウガ",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "だし汁（または水）",
+            "quantity": "材料ひたひた"
+        }
+    ],
+    "recipeInstructions": [
+        "新じゃがは洗って、汚れを落とし、大きい場合は半分に切る。（皮付きのまま）。\r\n玉葱、しょうがはみじん切り。",
+        "鍋にサラダ油を熱し、ショウガ、タマネギを炒め、豚挽肉を炒め \r\n色が変わったら新じゃがを入れて更に炒める。",
+        "材料が隠れるよりもちょっと少なめのだしか水、酒、砂糖\r\nしょうゆを入れ、アクをとりながら煮る。煮汁がほとんどなくなって、照りがでてきたら\r\nできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "14389",
+    "advice": "しんじゃがはよく洗って皮付きのまま使ってね。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新じゃがいも",
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新じゃがいも",
+        "玉葱",
+        "豚挽肉",
+        "ショウガ"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/14389/100x141c/5c54b84f328da4315ca20fe6ac73677d.jpg?u=4996&p=1214208440"
+}

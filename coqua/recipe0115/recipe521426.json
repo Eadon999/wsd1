@@ -1,0 +1,60 @@
+{
+    "name": "カルボナーラ風♡卵かけご飯",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/521426/464x260/cb4a71ce01acb38f25b5b915b5c39950.jpg?u=230354&p=1214218975",
+    "datePublished": "2008-03-07",
+    "description": "火を使わずにぱっと作れます♫カルボナーラの味がするような気のする卵かけご飯です。←弱気( *´艸`）",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ベーコン",
+            "quantity": "1枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "小1かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンを7～8mmに切る。にんにくは薄切りにする。耐熱皿ににんにくを入れ、その上にベーコンを乗せ、オリーブオイルをかけて、ラップをせずにレンジで50秒～1分加熱する。",
+        "ご飯を器に盛り、卵を割りいれ、①をのせて、塩・ブラックペッパー・粉チーズをかける。",
+        "よ～くかき混ぜて食べてくださいね♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "521426",
+    "advice": "朝ご飯などでニオイが気になる場合は、ニンニク抜きでもおいしいですよ♫",
+    "history": "朝ご飯もちょっとのんびりになっちゃって、普通の卵かけご飯じゃちょっとだけ物足りない気がしたので、ブランチ用に作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵かけご飯 カルボナーラ",
+        "カルボナーラ風卵かけご飯"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/521426/100x141c/1f29a243ac4ef66ef4c0d2b1a33fbc67.jpg?u=230354&p=1214218975"
+}

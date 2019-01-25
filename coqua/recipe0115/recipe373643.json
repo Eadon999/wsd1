@@ -1,0 +1,63 @@
+{
+    "name": "トマトとルッコラのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぶーすかおくさま"
+    },
+    "image": "https://img.cpcdn.com/recipes/373643/464x260/9bf254b0c8ae496d590448f2f3ad2e9a.jpg?u=326472&p=1214215667",
+    "datePublished": "2007-05-14",
+    "description": "彩りが綺麗な簡単サラダ。コレがあるだけでメインが引き立ちます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大1個"
+        },
+        {
+            "name": "ルッコラ",
+            "quantity": "５〜６株"
+        },
+        {
+            "name": "●オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "●おろしニンニク",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは湯むきして、くし切りにする。",
+        "ルッコラは５ｃｍ幅に切る。",
+        "ボールにドレッシングの材料を乳白色になるまでよく混ぜ合わせ、２のルッコラを加えてドレッシングと和える。",
+        "お皿に１のトマトを輪になるように並べ、その中心に３のルッコラを盛りつけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "373643",
+    "advice": "一手間ですがトマトを湯むきした方が口当たりが滑らかで美味しいですよ☆",
+    "history": "お店で食べるような前菜をイメージして簡単に作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": [
+        "ルッコラ 4位"
+    ],
+    "related_keywords": [
+        "ルッコラ サラダ",
+        "ルッコラ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/373643/100x141c/046947e79c58371d73ad959b85c04e48.jpg?u=326472&p=1214215667"
+}

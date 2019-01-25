@@ -1,0 +1,66 @@
+{
+    "name": "いつもの常備菜　大根と竹輪の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2359850/464x260/7dbaa1e29dd82c45d3eb0360ac62d5a6.jpg?u=6238111&p=1380498234",
+    "datePublished": "2013-09-30",
+    "description": "放っておくだけの煮物ですが、甘辛味でご飯が進みます。多めに作ったら、翌日は味がしみてさらに美味。お弁当にもグッド。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根（半月切り）",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "人参（輪切り）",
+            "quantity": "1本"
+        },
+        {
+            "name": "ちくわ（斜め切り）",
+            "quantity": "2本"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｍｌ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "三温糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にみりん以外の材料を入れ、火にかける。\n沸いたら、中火にし、15分煮る。",
+        "大根が柔らかくなったら、みりんを加え、5分煮る。",
+        "火を止めたら、10分程度蒸らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2359850",
+    "advice": "日持ちをよくするなら、汁気を飛ばします。",
+    "history": "冷蔵庫にあるもので、もう一品。切ってお鍋に入れるだけなので、あっという間に作れます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "ちくわ",
+        "水"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2359850/100x141c/c437af43f713c61e4eb7292884d44dcf.jpg?u=6238111&p=1380498234"
+}

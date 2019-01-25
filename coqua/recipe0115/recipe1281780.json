@@ -1,0 +1,66 @@
+{
+    "name": "【農家のレシピ】切り干し大根のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1281780/464x260/da57d23d8f9953f14b119d0ecde85e13.jpg?u=2513693&p=1289481570",
+    "datePublished": "2010-11-12",
+    "description": "切り干し大根を、水でもどして、マヨネーズなどで和えるだけ。コリコリ美味しいサラダの完成です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "切り干し大根",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "ハム又はベーコン",
+            "quantity": "少々（細切り）"
+        },
+        {
+            "name": "水菜",
+            "quantity": "少々（さっと茹でて２センチに切る）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ヨーグルト",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "粗挽き黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根はまず水で軽くもみ洗いし細かいごみを取り除きます。",
+        "たっぷりの水に浸して柔らかく戻します。約１５～２０分",
+        "切り干し大根の水けを絞って【A】で和えて出来上がりです"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1281780",
+    "advice": "ハム、ベーコンや水菜などは色どり綺麗にするために入れてます。他にコーンやツナなど入れても美味しいよ。",
+    "history": "自家製切り干し大根を使っていろんな味付けのサラダを作っています",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根",
+        "水菜",
+        "マヨネーズ",
+        "ヨーグルト"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1281780/100x141c/8dde6138779f8a2e3320906c2c3d27d1.jpg?u=2513693&p=1289481570"
+}

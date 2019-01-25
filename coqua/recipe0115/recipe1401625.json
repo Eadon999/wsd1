@@ -1,0 +1,52 @@
+{
+    "name": "レタスのオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1401625/464x260/01032ef99c7041ae86f28f8f485832b7.jpg?u=2513693&p=1301839329",
+    "datePublished": "2011-04-04",
+    "description": "たった5分で完成の、美味しいレタス炒め。1人1個でも食べられる感じです。レタスって炒めると結構美味しいですよ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "1個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにゴマ油を熱し、洗って手で食べやすい大きさにちぎったレタスを入れます。",
+        "強火で１～2分炒め、しんなりしてきたら【A】を入れさらに1分炒めて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1401625",
+    "advice": "",
+    "history": "レタスも栽培していて、たくさんあるときに炒めて食べています。量がとっても減るのでたくさん食べられます。その中でオイスターソースで味付けする食べ方が一番好きです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス 炒め",
+        "レタス",
+        "レタス オイスターソース"
+    ],
+    "tsukurepo_count": "142",
+    "thumbnail": "https://img.cpcdn.com/recipes/1401625/100x141c/479de856b2ad9c22d36c7d78b73d5e3c.jpg?u=2513693&p=1301839329"
+}

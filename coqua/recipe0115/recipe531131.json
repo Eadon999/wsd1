@@ -1,0 +1,62 @@
+{
+    "name": "簡単♡長ねぎとツナのマヨグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/531131/464x260/1b46d076854bc936951188177481f7b4.jpg?u=230354&p=1214219169",
+    "datePublished": "2008-03-16",
+    "description": "乏しい冷蔵庫の中身でも、火を使わず簡単に出来ちゃって、満足出来るおかず♡",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "長ねぎ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ5～6"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "1～2かけ"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎは7～8mmの斜め切りにして、耐熱容器に入れてラップをし、レンジで1分～1分半加熱。ツナ缶はオイルを切る。",
+        "マヨネーズ・卵・すりおろしにんにく・胡椒を泡立て器でよく混ぜ、長ねぎとツナを和える。",
+        "耐熱皿に②を入れて、パン粉をかけ、トースターかオーブンでいい焼き色がつくまで焼く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "531131",
+    "advice": "小さなココット型に入れて1人分ずつにしても♫",
+    "history": "出産を控えているので、いつ留守にするかと思うと、あまり買い物にも行けず。あるもので出来るだけ満足出来るおかずを考えてます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白ネギ グラタン",
+        "長ネギ",
+        "ねぎ グラタン",
+        "ツナ グラタン"
+    ],
+    "tsukurepo_count": "383",
+    "thumbnail": "https://img.cpcdn.com/recipes/531131/100x141c/01ae0d9e6eec17d9400c607fc354fb99.jpg?u=230354&p=1214219169"
+}

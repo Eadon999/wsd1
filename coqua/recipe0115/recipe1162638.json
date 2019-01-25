@@ -1,0 +1,95 @@
+{
+    "name": "ポークビーンズ",
+    "author": {
+        "@type": "Person",
+        "name": "ココハルママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1162638/464x260/1aa57d5fb976db3012324fc566b58e15.jpg?u=2272559&p=1276859723",
+    "datePublished": "2010-06-18",
+    "description": "栄養満点おかず☆ご飯にもパンにも合いますよ。",
+    "recipeYield": "５人分",
+    "recipeIngredient": [
+        {
+            "name": "水煮大豆",
+            "quantity": "１袋（２００g）"
+        },
+        {
+            "name": "豚こま肉（ざく切り）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "カットトマト",
+            "quantity": "１缶（２４０g）"
+        },
+        {
+            "name": "玉ねぎ（１㎝角）",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参（１㎝角）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ピーマン（みじん切り）",
+            "quantity": "１個"
+        },
+        {
+            "name": "ベーコンハーフサイズ（１㎝角）",
+            "quantity": "３枚"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "とんかつソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "にんにくチューブ",
+            "quantity": "１㎝くらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を切り、鍋に油を入れ野菜を炒める。玉ねぎが透明になってきたら豚肉、ベーコンを加える。",
+        "豚肉の色が変わったら、トマト缶、水、大豆を加える。",
+        "調味料の塩以外をすべて入れ、弱火で時々かき混ぜながら２０～３０分煮る。",
+        "仕上げに味が足りなければ、塩で味を調えてできあがり。\r\n作りたてより少しおいたほうが味がなじんでおいしい！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1162638",
+    "advice": "",
+    "history": "保育園で子どもに人気の献立。家ではピーマンやベーコンを加えて家族が好きな味にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水煮大豆",
+        "豚こま肉",
+        "カットトマト",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1162638/100x141c/76d32f46be624fdefc42b6a08757668f.jpg?u=2272559&p=1276859723"
+}

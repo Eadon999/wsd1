@@ -1,0 +1,64 @@
+{
+    "name": "ブロッコリーのスフレサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "four santa"
+    },
+    "image": "https://img.cpcdn.com/recipes/701465/464x260/fffc1bff77f49618108a59a187109d89.jpg?u=1105140&p=1229580162",
+    "datePublished": "2008-12-18",
+    "description": "ふわふわで、おいしい♪冷めても、温かくてもおいしいです。おもてなしのときは作っておいて冷やして出してもOK! ",
+    "recipeYield": "直径18cm皿　（5～6人）",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー（茹でた）",
+            "quantity": "180ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "Lサイズ1個"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "100ml"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "固形ブイヨン",
+            "quantity": "2分の1"
+        },
+        {
+            "name": "お湯",
+            "quantity": "100ml"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブイヨンをお湯に入れて溶かしておく。 \r\n\r\nミキサーにチーズ以外の材料を入れクリーム状にする",
+        "皿に流し入れ、泡の部分は取り除く。\r\n\r\nパルメザンチーズを軽く振りかける。",
+        "200度のオーブンで25分焼く。 \r\n表面がこんがりきつね色になれば焼き上がり。 \r\n中はふわふわ、で崩れやすいです。",
+        "小皿に盛り付けるときは、生クリームにカレー粉を添えてもおいしいですよ♪ \r\nそのまま大皿で出してもOK! \r\n"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "701465",
+    "advice": "※ハンドミキサーでも大丈夫です。※キッシュのように生地がかたく無いので、スプーンで取り分けてください。",
+    "history": "10年前に主人の母から教えてもらったレシピです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリースフレ"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/701465/100x141c/403b8b28f1045e901b076c494c7f2149.jpg?u=1105140&p=1229580162"
+}

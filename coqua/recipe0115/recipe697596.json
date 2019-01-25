@@ -1,0 +1,71 @@
+{
+    "name": "エビたまと水菜の＊和風炒め＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/697596/464x260/1adabbdc3763a1485a0ea33cf6a2e748.jpg?u=239563&p=1228916497",
+    "datePublished": "2008-12-11",
+    "description": "プリプリの海老にシャキシャキの水菜の食感が美味しいエビたまです。にんにく＆カツオ風味の味付けです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "むき海老（冷凍）",
+            "quantity": "300g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "たまご",
+            "quantity": "２個"
+        },
+        {
+            "name": "水菜",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "和風だし（顆粒）",
+            "quantity": "小さじ　山盛１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "ひとつかみ（３ｇ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ　1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "海老は解凍してから、酒と塩で下味をつける。にんにくはみじん切りにする。玉子は溶いておく。",
+        "フライパンにサラダ油大さじ１（分量外）を熱し、にんにくを炒める。",
+        "香り立ったら海老を炒め、色が変わったら和風だし、鰹節を加え混ぜる。",
+        "溶いた玉子を入れふんわりと炒めたら水菜を加えサッと炒める。最後に醤油を回し入れたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "697596",
+    "advice": "解凍した海老はキッチンタオルなどで水気を切ってから下味をつけてください。鰹節は多めに入れます。",
+    "history": "小えびを使った簡単メイン料理を考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "むき海老",
+        "酒",
+        "にんにく",
+        "たまご"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/697596/100x141c/3c76f79800009ca61fb4bdac7a7924f0.jpg?u=239563&p=1228916497"
+}

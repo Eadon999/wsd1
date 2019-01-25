@@ -1,0 +1,54 @@
+{
+    "name": "ちくわの明太子マヨ",
+    "author": {
+        "@type": "Person",
+        "name": "来夢☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2547483/464x260/c33f3c816c27829a8139c5f0c91370ba.jpg?u=7766960&p=1395048274",
+    "datePublished": "2014-03-17",
+    "description": "ちくわがお洒落に…大変身！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "3本"
+        },
+        {
+            "name": "明太子",
+            "quantity": "20g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "明太子・マヨネーズを混ぜ合わせる。",
+        "ちくわを縦に二等分する。",
+        "ちくわの溝に1を入れる。",
+        "チーズをちくわの溝より細く切り、明太子の上にのせる。",
+        "チーズの上にパン粉を少し振りかける。",
+        "トースター200wで5～7分焼く。トースターによって加熱時間が違うと思いますので、パン粉に少し焼き色がついたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2547483",
+    "advice": "明太子を山盛りに入れると、上にのせたチーズが焼いた時にはみ出すので控えめに。チーズは細く切って明太子の中央に置いて下さい。",
+    "history": "お弁当のおかずやおつまみ用に！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太マヨネーズ ちくわ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2547483/100x141c/1772c680436f9230544293ba47a07e35.jpg?u=7766960&p=1395048274"
+}

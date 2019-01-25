@@ -1,0 +1,67 @@
+{
+    "name": "【ヘルシー♪鶏ミンチと豆腐のハンバーグ】",
+    "author": {
+        "@type": "Person",
+        "name": "CHI〜CHAN"
+    },
+    "image": "https://img.cpcdn.com/recipes/1452465/464x260/e4eb2275eea787dfa55297c0d977ae34.jpg?u=3117718&p=1306487411",
+    "datePublished": "2011-05-27",
+    "description": "コストが安いので鶏のハンバーグはイィ☆ソースはオーロラです(^O^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸ミンチ（ももでもOK♪）",
+            "quantity": "３００g"
+        },
+        {
+            "name": "豆腐（絹）",
+            "quantity": "半丁"
+        },
+        {
+            "name": "●パン粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ（あれば）",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ミンチと豆腐をよ～くこね、柔らかくなったら●を入れさらにこねる。\n★を混ぜておく。",
+        "フライパンに油を熱し、両面を焼く。\n蒸すように焼く方が柔らかくなります☆",
+        "お皿に盛りつけソースをかけパセリをふって完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1452465",
+    "advice": "お豆腐をもっとたくさん入れても美味しいです。こねればこねる程美味しくなります(^O^)ﾉ",
+    "history": "牛豚の合い挽きももちろん美味しいけど鶏のミンチも好きなので作りましたッ！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/ハンバーグ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸ミンチ ハンバーグ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1452465/100x141c/5693164ff53b25851b7bda611a21d1d1.jpg?u=3117718&p=1306487411"
+}

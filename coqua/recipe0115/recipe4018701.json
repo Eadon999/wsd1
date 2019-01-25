@@ -1,0 +1,67 @@
+{
+    "name": "オッサンのタコ＆オクラ酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/4018701/464x260/132c01d2f6913ebec70219cd79243aa7.jpg?u=3323767&p=1470973112",
+    "datePublished": "2016-08-12",
+    "description": "パパッと混ぜるだけの酢の物。ちょっと中華風にアレンジです。",
+    "recipeYield": "小鉢２人分",
+    "recipeIngredient": [
+        {
+            "name": "タコ",
+            "quantity": "５０グラム"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "３～４本"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "５グラム"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鶏がらスープの素(顆粒)",
+            "quantity": "小さじ０．５"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめは、たっぷりのお水で戻します。\n戻したら水気を絞ります。",
+        "オクラは、サッと下茹して、食べやすい大きさに切ります。\nタコも食べやすい大きさに切っておきます。",
+        "材料をすべて混ぜ合わせ、２０分位おけば出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4018701",
+    "advice": "タコは、刺身用を使っています。味付けはお好みで調整して下さい。",
+    "history": "タコが余っていたので、酢の物を作ろうと思ったんですが、ちょっと中華風にアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら たこ 酢"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/4018701/100x141c/482ec4ec25a9462770445a83272e8be2.jpg?u=3323767&p=1470973112"
+}

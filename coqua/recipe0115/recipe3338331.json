@@ -1,0 +1,54 @@
+{
+    "name": "まるでパプリカ！ピーマンウインナー",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3338331/464x260/6256941d75f779939cd4ff6d71a8e813.jpg?u=2920899&p=1439016213",
+    "datePublished": "2015-08-08",
+    "description": "ピーマンをパプリカ粉で炒めたら.あら不思議、ピーマンがパプリカみたい(笑)2015/11/08話題入感謝☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "5個"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "5～6本"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適宜"
+        },
+        {
+            "name": "パプリカ粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "サラダオイル（炒め用）",
+            "quantity": "大匙1"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンとウインナーは食べやすい大きさにカットする。",
+        "熱したフライパンにサラダオイルを敷き、①をさっと炒める。",
+        "塩胡椒で味を調え、お好みの量だけパプリカ粉を振り掛けて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3338331",
+    "advice": "サラダオイルがオリーブオイルでも美味しいです",
+    "history": "パプリカが微妙に高くても、パプリカ粉で若干代用できるかも、というある種の遊び心です(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "ウインナー",
+        "塩胡椒",
+        "パプリカ粉"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3338331/100x141c/34a18937679b0d73a50c63461aa1218b.jpg?u=2920899&p=1439016213"
+}

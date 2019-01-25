@@ -1,0 +1,77 @@
+{
+    "name": "テッパン！サトイモと鶏牛蒡煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "Saluppa☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2044683/464x260/748e04a0bc7dde5e086c6e433561357c.jpg?u=5164512&p=1354250628",
+    "datePublished": "2012-11-30",
+    "description": "難しいことは考えないで、ガーッと煮込んで作っちゃおう！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "サトイモ",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "ゴボウ",
+            "quantity": "1本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "水",
+            "quantity": "400ｃｃ"
+        },
+        {
+            "name": "白だし（8倍濃縮）",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "粉山椒",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉は一口大に切って、塩、酒(分量外）を少しふってなじませておく。",
+        "サトイモの皮をむいて、適当な大きさに切る。ゴボウ、にんじんも皮をむいて乱切りにしておく。",
+        "鍋に煮汁の材料を全部入れて、鶏もも肉、サトイモ、ゴボウ、にんじんを投入。\n強火にかける。\n粉山椒はこの時、お好みで！",
+        "鍋がグツグツしてきたらあくを取って、中火に。アルミホイルで落とし蓋をする。",
+        "「野菜が柔らかくなってきたな」と思ったら、完成！\n大体25分くらい。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "2044683",
+    "advice": "材料を切ってしまえば、まとめて煮るだけ！とっても簡単レシピです。",
+    "history": "「煮物」って難しい…そう思っていたのに、作ってみたら意外と簡単☆時間さえあれば出来るのでよく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋 ごぼう"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2044683/100x141c/9e452bc2df38eeb8381fb98b5b19bfbb.jpg?u=5164512&p=1354250628"
+}

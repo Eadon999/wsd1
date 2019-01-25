@@ -1,0 +1,63 @@
+{
+    "name": "お弁当にも！　厚揚げの豚バラ巻き",
+    "author": {
+        "@type": "Person",
+        "name": "coffeedge"
+    },
+    "image": "https://img.cpcdn.com/recipes/4115164/464x260/850e14d145d6438183b1351a230eb729.jpg?u=13890988&p=1476072835",
+    "datePublished": "2017-04-17",
+    "description": "厚揚げを豚バラで巻き、カリッと焼いて、たれで絡めましたお弁当のおかずにも最適です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ豆腐　2枚入り",
+            "quantity": "1パック"
+        },
+        {
+            "name": "豚バラ肉 or 豚こま肉",
+            "quantity": "120g"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "各少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げそれぞれ4等分する。\n\n豚バラ肉を厚揚げに巻いて手でギュッと握り、塩、胡椒して片栗粉をまんべんなくつける。",
+        "フライパンを弱めの中火で熱し、豚バラの巻き終わりを下にして焼く。\n\n",
+        "豚肉に火が通ったら、弱火にして、キッチンペーパーで脂をふき取り、☆印をかけてからめる。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "4115164",
+    "advice": "2　強火で焼くと豚肉が焦げて、厚揚げに火が入りません、弱めの中火でじっくり焼いて下さい。",
+    "history": "家で作る定番料理です。簡単でボリュームもあるのでお弁当にも入れます。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ 厚揚げ",
+        "厚揚げ 豚バラ 巻き",
+        "お弁当 おかず 豚バラ",
+        "厚揚げ 豚肉 お弁当"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/4115164/100x141c/fae6a4e5c62f515eebf6f54543e9931a.jpg?u=13890988&p=1476072835"
+}

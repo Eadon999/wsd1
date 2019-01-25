@@ -1,0 +1,54 @@
+{
+    "name": "水菜と切り干し大根の和えもの☆",
+    "author": {
+        "@type": "Person",
+        "name": "けいりすさん。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1479587/464x260/81a563c278a59141d459dff0da710961.jpg?u=2860115&p=1308913359",
+    "datePublished": "2011-06-24",
+    "description": "切り干し大根はサラダにすると食感がいいです(^^)水菜がたくさんたべれます☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "切り干し大根",
+            "quantity": "50g"
+        },
+        {
+            "name": "水菜",
+            "quantity": "小2束(大1束)"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根を水で戻す。つけておくよりも、３回くらい水を取り替えてゴシゴシともみ洗いします。\r\n水気をしぼります。",
+        "水菜を１cmに切る。\r\n",
+        "すべての材料を和え、出来上がり☆\r\n切り干し大根はほぐしながらまぜてください。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1479587",
+    "advice": "切り干し大根は水でよくもみ洗いしてください。切り干し大根と水菜はだいたい同量です。",
+    "history": "水菜をたくさんたべたくて☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切り干し大根",
+        "水菜",
+        "醤油",
+        "ごま油"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/1479587/100x141c/9a509965c41378f6cf3843859929f5a9.jpg?u=2860115&p=1308913359"
+}

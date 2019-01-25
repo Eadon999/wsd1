@@ -1,0 +1,45 @@
+{
+    "name": "菜の花納豆",
+    "author": {
+        "@type": "Person",
+        "name": "満月１５２０００"
+    },
+    "image": "https://img.cpcdn.com/recipes/522922/464x260/38857d7958ed2d693d2cfce46a9940f3.jpg?u=664985&p=1214219003",
+    "datePublished": "2008-03-04",
+    "description": "'10.3.9　話題入り♪ 茹でた菜の花と納豆を和えただけです。ホロ苦くて美味しいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "半束"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "仕上げのゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆は付属のタレを入れて、よく混ぜる。",
+        "菜の花は塩ゆでして、軽く絞り、3センチくらいの長さに切る。",
+        "ボールに菜の花と納豆を入れてよく混ぜ合わせる。",
+        "盛り付けてゴマをパラパラ。\r\nお好みで食べる時に醤油をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "522922",
+    "advice": "菜の花は茹でた後、水に取らず、そのまま冷まします。（うちわであおいで冷ますと色が綺麗ですよ。）",
+    "history": "　菜の花って少しトロリとしていますよね。このとろみと納豆って合うような気がして作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "納豆"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/522922/100x141c/371bc6c3551b7034e650bfae436d7855.jpg?u=664985&p=1214219003"
+}

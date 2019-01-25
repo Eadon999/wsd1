@@ -1,0 +1,46 @@
+{
+    "name": "豆乳マヨネーズ",
+    "author": {
+        "@type": "Person",
+        "name": "mooのお家"
+    },
+    "image": "https://img.cpcdn.com/recipes/739325/464x260/a55d36e104be779ce1e50a7f26407a34.jpg?u=28263&p=1235029832",
+    "datePublished": "2009-02-19",
+    "description": "レモン汁を「やさしいお酢」に変えたらマクロビマヨネーズが出来ました。マイルドなお酢ならなんでも美味しいと思います。",
+    "recipeYield": "1回分",
+    "recipeIngredient": [
+        {
+            "name": "豆乳",
+            "quantity": "1/2cup"
+        },
+        {
+            "name": "やさしいお酢",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "豆乳にお酢を加えて混ぜる",
+        "コーヒーフィルターで漉す（1時間くらい）",
+        "漉したクリームに塩を混ぜて出来上がり",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "739325",
+    "advice": "漉された液体はサワードリンクとして飲めます！ツンとしなくて美味しい！",
+    "history": "レモン汁で作るとサワークリーム。「やさしいお酢」なら出来るかも！？　とやってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マクロビ 豆乳マヨネーズ",
+        "豆乳マヨネーズ 卵なし",
+        "豆乳マヨネーズ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/739325/100x141c/03ace613df2d3d1c2251d33fe8b179fb.jpg?u=28263&p=1235029832"
+}

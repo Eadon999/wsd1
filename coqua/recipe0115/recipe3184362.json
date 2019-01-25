@@ -1,0 +1,48 @@
+{
+    "name": "簡単手羽先の塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/3184362/464x260/bb3b637934e37d8ae57a9fc46f926962.jpg?u=4609610&p=1432013124",
+    "datePublished": "2015-05-19",
+    "description": "シンプルで簡単な塩焼き",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽先",
+            "quantity": "８本"
+        },
+        {
+            "name": "あら塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ半分"
+        }
+    ],
+    "recipeInstructions": [
+        "手羽先にサラダ油をからめる。サラダ油を絡めることでまんべんなく焼き色つきやすいです。",
+        "１に塩、こしょうを手早くまんべんなく絡める。",
+        "オーブンで２００度で１５～２０分焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3184362",
+    "advice": "最初にサラダ油をからめることと、塩をまぶしたらすぐ焼いてください。焼き加減は家庭の電化製品によって違うので加減してください。魚焼きグリルでもいいですね。",
+    "history": "甘辛い手羽先もいいけど、焼き鳥屋さんみたいな塩がきいた手羽先が恋しくて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽先 塩焼き オーブン",
+        "手羽先 塩焼き"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3184362/100x141c/a6ba96878da5044383fe6bbda6103a7c.jpg?u=4609610&p=1432013124"
+}

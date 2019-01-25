@@ -1,0 +1,54 @@
+{
+    "name": "まぐろの漬け丼",
+    "author": {
+        "@type": "Person",
+        "name": "真さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/391068/464x260/73400d9169155b99e22f22464c65c2c7.jpg?u=211554&p=1214216439",
+    "datePublished": "2007-06-18",
+    "description": "☆話題入り感謝☆美味しい生マグロでささっとつくろう！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび",
+            "quantity": "適量"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "熱々ご飯",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "器にわさびをお好みの量入れ醤油で溶きます。そこに薄くスライスしたマグロを入れからめます。",
+        "熱々ご飯を盛りつけ①のマグロを放射状に並べ、のりをかけて出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "391068",
+    "advice": "醤油と酒を煮切って半日マグロを漬け込むだとか、シャリを作るだとかは何にもしません！美味しい生マグロを美味しい醤油にからめたら熱々ご飯にオン！コツはなし！塩昆布バージョンはこちら→レシピID：722985",
+    "history": "余分なことはしないほうが旨い時がある。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まぐろ",
+        "醤油",
+        "わさび",
+        "刻みのり"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/391068/100x141c/e4543fc40cc4427649d7e20538c78ac0.jpg?u=211554&p=1214216439"
+}

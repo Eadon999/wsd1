@@ -1,0 +1,63 @@
+{
+    "name": "★☆★バター照り焼きサーモン★☆★",
+    "author": {
+        "@type": "Person",
+        "name": "ひろのぞみゆうま"
+    },
+    "image": "https://img.cpcdn.com/recipes/262998/464x260/88bfd68eb78d6c106c2b1b7cfb866c1a.jpg?u=210919&p=1214213221",
+    "datePublished": "2006-06-26",
+    "description": "フライパン１つで簡単！いつもと少し違った鮭の楽しみ方です♪美味しいので是非②お試しあれ☆大絶賛の本に掲載して頂きました♥",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "４切"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎お酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "バター",
+            "quantity": "大１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭に塩コショウをし、小麦粉をまぶします。",
+        "フライパンにバターを入れ熱し、鮭を中火で火が通るまで焼きます。",
+        "１度鮭を取りだし、同じフライパンに（洗わずに）、◎を入れテリが出るまで煮詰めたら鮭をフライパンに戻し、ソースと絡めたら完成です♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "262998",
+    "advice": "照り焼きソースを作るフライパンには、鮭の旨味＆バター味が入っているので、絶対に洗わないで使って下さい☆",
+    "history": "食べに行ったときに「照り焼きサーモン」がお品書きにあって、「へーー!!!」と思って食べてみるとすごく美味しかったので、再現してみました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サーモン 照り焼き"
+    ],
+    "tsukurepo_count": "111",
+    "thumbnail": "https://img.cpcdn.com/recipes/262998/100x141c/52319caa17db7e7a899e0811c48dd89d.jpg?u=210919&p=1214213221"
+}

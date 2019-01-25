@@ -1,0 +1,50 @@
+{
+    "name": "ぷりっぷり☆バタぽんバジルでいか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ふなここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1985011/464x260/63576e7f2e352770c0f46df24f2277df.jpg?u=2943729&p=1429621917",
+    "datePublished": "2012-10-06",
+    "description": "♪13/07/16話題入り感謝です♪ぽん酢とバターとバジルの組み合わせ最高～☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "いか",
+            "quantity": "2ハイ"
+        },
+        {
+            "name": "バター",
+            "quantity": "15g"
+        },
+        {
+            "name": "ぽん酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "乾燥バジル(生でも)",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "いかの内臓をきれいにとり、胴は1センチ、足は2、3本に切る。",
+        "フライパンにバターを入れていかを炒め色が変わったらすぐぽん酢を回しかけバジルをかけて完成です。",
+        "写真のイカは開いて売っていたイカで作りました。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1985011",
+    "advice": "手早くぱぱっと炒めます。生バジルを使うときはみじん切りにしてください。",
+    "history": "冷蔵庫にいかが2ハイあったので、簡単にすぐ出来る一品を作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか",
+        "バター",
+        "ぽん酢",
+        "乾燥バジル"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1985011/100x141c/7a971e19902f458c76ff463a550ea6f9.jpg?u=2943729&p=1429621917"
+}

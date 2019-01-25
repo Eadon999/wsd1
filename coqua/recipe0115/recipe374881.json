@@ -1,0 +1,64 @@
+{
+    "name": "ポン酢チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "ななまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/374881/464x260/7a53883a7e044bd7cd674074e4c8bf18.jpg?u=125655&p=1214216095",
+    "datePublished": "2007-08-29",
+    "description": "醤油の代わりにポン酢で味付け♪バターも入れて，こっくりで、ほんのりすっぱい美味しいチャーハンです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗多めに2杯分"
+        },
+        {
+            "name": "卵",
+            "quantity": "Ⅰ個"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "半本"
+        },
+        {
+            "name": "じゃこ",
+            "quantity": "大３"
+        },
+        {
+            "name": "ハム",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは荒みじんに切る。\nハムは短冊に切る。\n温かいご飯にといた卵を混ぜておく。",
+        "フライパンに油を熱して長ネギハムを炒める。ご飯を入れてパラパラに炒める。じゃこも入れて，最後にポン酢とバター、塩こしょうで味を整える。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "374881",
+    "advice": "ポン酢はあまりお高くない普通ので十分です。",
+    "history": "酸っぱい物好きです。残ったすし飯でチャーハン作っているので，ポン酢でも出来そうと思いました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ポン酢チャーハン",
+        "バター ポン酢 チャーハン"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/374881/100x141c/dd78eb5f95f2b3a5d76f9acc55fc2841.jpg?u=125655&p=1214216095"
+}

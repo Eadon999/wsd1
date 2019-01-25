@@ -1,0 +1,47 @@
+{
+    "name": "豚バラのマヨ巻き",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2108562/464x260/0567fbdbc979b03e8fc9e882ebd47c78.jpg?u=1690437&p=1360140881",
+    "datePublished": "2013-02-06",
+    "description": "薄切り肉を何も巻かずマヨのみで素巻きにして焼きました。2013・7・5話題入りしました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉(薄切り)",
+            "quantity": "200g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉を広げマヨネーズをひく。端からくるくる巻く。",
+        "肉から油が出るので油は引かず巻きながらどんどんフライパンへ。",
+        "巻き終わりを下にして焼く。両面焼いたら転がしながら火を通す。",
+        "余分な脂はペーパーでふき取る。ふたをすると仕上がりが早い。",
+        "塩胡椒して出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2108562",
+    "advice": "肉は豚ロース薄切り肉でもよい。途中でふたをすると時短。",
+    "history": "お友達に教えてもらいました。「何も巻かなくても美味しいよ」って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "マヨネーズ",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2108562/100x141c/8556328215dd0db1182be1549f4aaf8c.jpg?u=1690437&p=1360140881"
+}

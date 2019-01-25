@@ -1,0 +1,63 @@
+{
+    "name": "パクパク食べれる☆カプレーゼ",
+    "author": {
+        "@type": "Person",
+        "name": "梅オカン"
+    },
+    "image": "https://img.cpcdn.com/recipes/279145/464x260/ab1dcaba1cafc2a763092d95a6267639.jpg?u=240448&p=1214213573",
+    "datePublished": "2006-09-05",
+    "description": "旦那が毎日食べたい！と言うほど我が家のヘビロテ品☆12/8/21話題入り！！レポ頂いた皆さま本当にありがとうございます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "モッツァレラチーズ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "生ハム",
+            "quantity": "10 ～ 12枚入"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "バジル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマト ・ アボカド ･ モッツァレラチーズを同じぐらいの大きさに切る。",
+        "トマトに塩をお好みで振りかけ、1の材料を全て重ねて生ハムで巻く。",
+        "オリーブオイル ･ 黒こしょう ･ バジルを振り掛ける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "279145",
+    "advice": "トマト、アボカドは薄めに切った方が巻きやすいです。",
+    "history": "カプレーゼを作っていくうちに進化しちゃいました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カプレーゼ 生ハム アボカド"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/279145/100x141c/e39f0f71af74e21724dd995a07ae4a3d.jpg?u=240448&p=1214213573"
+}

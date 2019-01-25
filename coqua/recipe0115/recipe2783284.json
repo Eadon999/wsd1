@@ -1,0 +1,61 @@
+{
+    "name": "トマトとしらすの簡単サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "☆Haru☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2783284/464x260/3f6a0586166a5fa840b8fa7383ab3027.jpg?u=4415435&p=1409809082",
+    "datePublished": "2014-09-04",
+    "description": "爽やかなトマトとしその香り、栄養たっぷりのしらすを美味しいゴマドレと合わせてみました＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト(中)",
+            "quantity": "１個（今回は３２０ｇでした）"
+        },
+        {
+            "name": "しらす",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "しその葉",
+            "quantity": "５枚"
+        },
+        {
+            "name": "◆EXVオリーブオイル",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "◆麺つゆ（３倍濃縮）",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "◆すりごま（白）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◆（お好みで）ガーリックパウダー",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは食べ易い大きさ、しそは細切りにする。",
+        "ボウルに◆の調味料をいれよく混ぜ合わせる。",
+        "２のボウルに１のトマト・しそ、そしてしらすをいれて（トマトが崩れないように）ざっくり混ぜて完成♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2783284",
+    "advice": "★調味料はトマトの大きさやしらすの塩分、お好みにより調整して下さい＾＾",
+    "history": "冷蔵庫にあった元気のない大葉、賞味期限切れ間近のしらす、そして目にとまったトマト、組み合わせてみました～♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト しらす",
+        "しらす サラダ",
+        "トマトしらすサラダ"
+    ],
+    "tsukurepo_count": "288",
+    "thumbnail": "https://img.cpcdn.com/recipes/2783284/100x141c/f65c99ac70b7f38138376e4aedc0f124.jpg?u=4415435&p=1409809082"
+}

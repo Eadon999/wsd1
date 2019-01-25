@@ -1,0 +1,69 @@
+{
+    "name": "作り置き、トマトの和風マリネ。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3970100/464x260/1d9858142aaf51d7fc6d2d89741d4a85.jpg?u=4036&p=1468218520",
+    "datePublished": "2016-07-11",
+    "description": "作り置きシリーズ！　和の食事に合わせるマリネです。暑い夏に嬉しい一品です。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "300g"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "200cc"
+        },
+        {
+            "name": "●薄口醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●生姜すりおろし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "大葉",
+            "quantity": "3枚"
+        }
+    ],
+    "recipeInstructions": [
+        "【マリネ液】●の材料を鍋に入れ、火にかけてひと煮立ちさせたら火を止めて粗熱をとる。",
+        "トマトはヘタを取り、食べやすい一口大に切る。大葉は、縦半分に切ってから千切りにする。",
+        "密閉容器にトマトを入れ、手順1のマリネ液と大葉も入れて一混ぜしたら蓋をして冷蔵庫で冷やす。",
+        "冷たくして召し上がってください。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3970100",
+    "advice": "トマトはお好みのものでどうぞ。一種類でも、何種類か混ぜても。写真は赤いミディトマトとオレンジっぽい黄色のミニトマトで作っています。",
+    "history": "レシピID : 3293335のアレンジです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト マリネ",
+        "トマト マリネ 作り置き"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/3970100/100x141c/1c1f415075c0355e97aed249ee2b7864.jpg?u=4036&p=1468218520"
+}

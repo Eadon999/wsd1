@@ -1,0 +1,63 @@
+{
+    "name": "ダイコンとベーコンのスープ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/47308/464x260/61fcdfdc83372680b5f9121af354e0d3.jpg?u=4036&p=1214209050",
+    "datePublished": "2002-03-29",
+    "description": "和洋折衷煮物。",
+    "recipeYield": "4～5人分",
+    "recipeIngredient": [
+        {
+            "name": "だいこん",
+            "quantity": "400g"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "3～4枚"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "1個"
+        },
+        {
+            "name": "バター",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "だいこんは大きめの一口大に切る。ベーコンは1センチ角ぐらいに切る。",
+        "鍋にだいこんとベーコンを入れて、水をひたひたよりやや多めに入れ、コンソメキューブ・砂糖・バターも入れて火にかける。",
+        "だいこんが柔らかく煮えて、汁気が少なくなったらしょうゆ少々で味を整えて火からおろす。\r\nお皿に盛り付けてねぎを散らして完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "47308",
+    "advice": "",
+    "history": "むかーーーし、友人が『こんな食べ方もあるらしい』って教えてくれた大根料理。自分なりにレシピにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ベーコン",
+        "大根 スープ煮",
+        "ベーコン",
+        "大根 ベーコン スープ煮"
+    ],
+    "tsukurepo_count": "517",
+    "thumbnail": "https://img.cpcdn.com/recipes/47308/100x141c/6d4c8701834809ab49bad268dc32149b.jpg?u=4036&p=1214209050"
+}

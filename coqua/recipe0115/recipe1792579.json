@@ -1,0 +1,68 @@
+{
+    "name": "【農家のレシピ】彩り野菜とタコのマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1792579/464x260/e61bae028ce233a5de16356eff36d115.jpg?u=2513693&p=1335361854",
+    "datePublished": "2012-05-01",
+    "description": "このマリネ、タコももちろん美味しいんですけど、何と言ってもパプリカが最高なんですよ。ちょっと火を通した甘いパプリカです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でタコ（刺身用）",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "５個"
+        },
+        {
+            "name": "パプリカ（赤）",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "パプリカ（黄）",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "粗びき黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パプリカは薄く油を敷いたフライパンで表面が少し焦げるくらいに強火で焼き２センチ角に切ります。",
+        "キュウリとタコは乱切り、ミニトマトは半分に切っておきます。\n【A】で和えて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1792579",
+    "advice": "パプリカは表面だけを強火で少しこげるくらい焼くとジューシーで甘くて美味しいんですよ。皮だけ焦げ目が付けばいいので、半生という感じです。",
+    "history": "パプリカのマリネを作るときも焼いてから作ります。他の野菜も入れて彩りが綺麗なマリネを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": [
+        "タコマリネ 2位"
+    ],
+    "related_keywords": [
+        "タコのマリネ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1792579/100x141c/14b38c8d9183f51afa5d2e444d34c22b.jpg?u=2513693&p=1335361854"
+}

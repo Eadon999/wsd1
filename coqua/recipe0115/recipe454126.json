@@ -1,0 +1,60 @@
+{
+    "name": "白菜とベーコンのクリームコーン煮",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/454126/464x260/57d12bc30117c2764ae204c323070d91.jpg?u=212659&p=1223736010",
+    "datePublished": "2007-11-04",
+    "description": "コーンシチューのような山盛り白菜のおかず",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１０枚　約９００g"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１０枚　約２００g"
+        },
+        {
+            "name": "クリームコーン",
+            "quantity": "1缶　４００g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩　胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "適当な大きさに切ったベーコンを少量のオリーブオイルでゆっくりカリカリになるまで炒める。",
+        "適当な大きさに切った白菜を加えて強火で炒める。かさが少し減ってきたらクリームコーンと牛乳、コンソメキューブを加えて加熱する。",
+        "白菜がしんなりしてきたら塩と胡椒で味を調える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "454126",
+    "advice": "ベーコンはカリカリに炒めるのが美味しいです。白菜を加熱しすぎない方がいいでよ。",
+    "history": "白菜たっぷりのシチューのようなものを作りたかったので・・・白菜の水分でスープも甘くて美味しいものが出来ました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 コーンクリーム",
+        "コーンクリーム缶"
+    ],
+    "tsukurepo_count": "152",
+    "thumbnail": "https://img.cpcdn.com/recipes/454126/100x141c/cf31513bfbe6fcfcb114a45923af69e0.jpg?u=212659&p=1223736010"
+}

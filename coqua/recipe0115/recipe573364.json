@@ -1,0 +1,63 @@
+{
+    "name": "*もやしの中華風和え物*",
+    "author": {
+        "@type": "Person",
+        "name": "Ｕｓａｐｉｙｏ"
+    },
+    "image": "https://img.cpcdn.com/recipes/573364/464x260/56fff6d67a285ed130cc9016eba8e6e5.jpg?u=769474&p=1214220015",
+    "datePublished": "2008-05-20",
+    "description": "和えるだけ！の簡単レシピ(｡･ｰ･｡) もやしがたくさん食べられます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ハム（自家製使用）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "かいわれ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを洗い、茹でる。茹で上がる直前に、食べやすい長さに切ったかいわれも入れる。ハムはたんざく切り。",
+        "ボウルで、材料をすべて合わせ、少し冷蔵庫で冷やし味をなじませると一層おいしぃ♪\r\n",
+        "かいわれは入れなくてもd(･ω･,,)",
+        "かいわれ⇒ニラver．"
+    ],
+    "cookTime": null,
+    "recipe_id": "573364",
+    "advice": "もやしは食感が大事！茹ですぎないこと。自家製鶏ハム使用。",
+    "history": "冷蔵庫にあるもので！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ハム",
+        "かいわれ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/573364/100x141c/19267a905d0f8dc59df14bc725a82eba.jpg?u=769474&p=1214220015"
+}

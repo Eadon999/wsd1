@@ -1,0 +1,59 @@
+{
+    "name": "明太子と人参のマヨきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきほ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3404998/464x260/c3f0cb5dac8bfeb6badf3152fa93a8a0.jpg?u=206866&p=1444225828",
+    "datePublished": "2015-10-07",
+    "description": "薄めのきんぴら風味で人参に下味をつけ、マヨで和えた明太子が絡めました。いつ出しても人気の副菜です。カテゴリ登録感謝！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "明太子",
+            "quantity": "1腹"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "千切りにしたニンジンをごま油で炒める。しんなりしてきたら、みりんと醤油・ゴマを入れ、さらに炒める。",
+        "皮から出した明太子とマヨネーズを混ぜる。火からおろし、粗熱が取れてから全体に絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3404998",
+    "advice": "お子様向けには、たらこでどうぞ。明太子やニンジンの大きさで、塩加減が変わります。最初は明太子を少な目に混ぜて、徐々に増やし、お好みの味にしてください。お酒の共にするには、もっと投入しても良いです(笑)",
+    "history": "ニンジンと明太子の炒め物を作ったのですが、明太子が全て絡まなかったため、マヨを投入。それが好評で、箸の止まらない副菜になりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太子　人気",
+        "人参 明太子 マヨネーズ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3404998/100x141c/afde5062ce1f0403d20354e77cd000c1.jpg?u=206866&p=1444225828"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ひじきと人参のきんぴら…",
+    "author": {
+        "@type": "Person",
+        "name": "みっこ＊mikko"
+    },
+    "image": "https://img.cpcdn.com/recipes/2471691/464x260/fdd5c32227ac8f591c7bcdffe1707601.jpg?u=4576996&p=1390352523",
+    "datePublished": "2014-01-22",
+    "description": "2015.12.17話題入り♪鉄分豊富なひじき！人参と合わせてきんぴらに^^白いご飯にも良く合います。。。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥ひじき",
+            "quantity": "２ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは水で戻し、ざるに上げて水気をきる。\n人参は皮をむいて、千切りにする。",
+        "フライパンにサラダ油を熱し、にんじんを入れる。\n油が全体に回ったら酒も加え、しんなりとするまで炒める。",
+        "水で戻したひじき・◎の調味料を加えていりつける。",
+        "最後に七味唐辛子をふる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2471691",
+    "advice": "人参は油でしっかりと炒めます。。。七味唐辛子でなく、鷹の爪を使ってもいいですね^^",
+    "history": "キッチンに常備している人参と（乾燥）ひじき。。。白いご飯のお供になりました^^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき きんぴら"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2471691/100x141c/3ab01b280e6bc926fde4a78712102b05.jpg?u=4576996&p=1390352523"
+}

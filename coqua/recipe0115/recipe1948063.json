@@ -1,0 +1,67 @@
+{
+    "name": "子供もパクパク！サバのカレー竜田揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "はるんぼうや"
+    },
+    "image": "https://img.cpcdn.com/recipes/1948063/464x260/62fcb933d1bb477e5606457bc4d23d9a.jpg?u=3643701&p=1347169994",
+    "datePublished": "2012-09-09",
+    "description": "中はふわふわ、外はカリッ！子供も大好きなカレー味にすれば、臭みも取れて、たくさん食べられます♪マヨのおかげで冷めても◎！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖",
+            "quantity": "4切（約1匹分）"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "サバに、調味料Aを全て混ぜ、軽く揉み、冷蔵庫で30分以上置く。",
+        "片栗粉にカレー粉を混ぜ、1のサバにしっかりまぶす。",
+        "油できつね色になるまで揚げたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1948063",
+    "advice": "竜田の衣ははがれやすいので、極力触らないように！油に入れて、3分はそのままいじらないでくださいね。衣にカレー粉を混ぜることによって風味もアップ！！",
+    "history": "お弁当に入れても美味しいサバの竜田揚げを作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば 竜田揚げ カレー"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1948063/100x141c/600e2c07a1d11be50c6b4b06afc7457f.jpg?u=3643701&p=1347169994"
+}

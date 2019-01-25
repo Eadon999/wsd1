@@ -1,0 +1,53 @@
+{
+    "name": "簡単ヘルシー☆大根と人参で紅白納豆サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/2887229/464x260/0e4e04feb65b870043240e4bed1c1e03.jpg?u=7510994&p=1416136818",
+    "datePublished": "2014-11-16",
+    "description": "大根と人参たっぷりの納豆サラダです。マヨネーズでまろやかな味になります。あと一品という時にどうぞ。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "200g"
+        },
+        {
+            "name": "人参",
+            "quantity": "150g (1本)"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参を長さ3cm の千切りにし、塩小さじ1弱を混ぜる。5分経ったら水分をぎゅっと絞る。",
+        "1に納豆と添付のタレとからし、マヨネーズを混ぜる。塩コショウで味を調えたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2887229",
+    "advice": "大根と人参の水分はしっかり絞って下さいね。水分を絞るとかなり量が少なくなります。",
+    "history": "あと一品という時に。残り物で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "納豆",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2887229/100x141c/4a2fb4c8cbacc82a3a5b34e0e0e913e8.jpg?u=7510994&p=1416136818"
+}

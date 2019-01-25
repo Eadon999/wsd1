@@ -1,0 +1,54 @@
+{
+    "name": "ゴマを摂ろう！『マヨ味噌和え』",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/397218/464x260/0ae33fa4daf3aae25af9cb2167166c29.jpg?u=322621&p=1214216564",
+    "datePublished": "2007-06-30",
+    "description": "何でもお好きな野菜で和えてみてね(｡◠‿◠｡)",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白すりゴマ",
+            "quantity": "大さじ２～お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "茹でた　いんげん豆やお好みの野菜などに調味料を全て合わせたもので和える",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "397218",
+    "advice": "ごまの栄養をいっぱい摂ろう！皮付きのままだと　ほとんど栄養は摂取されないそうですすりゴマにして　いっぱい食べよう！",
+    "history": "大人も子供もOKな味にしたくて（｡◕‿◕｡)",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マヨネーズ",
+        "味噌",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/397218/100x141c/66b1d1fa0c016a35c8533a0e957ab3d7.jpg?u=322621&p=1214216564"
+}

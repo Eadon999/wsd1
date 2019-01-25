@@ -1,0 +1,44 @@
+{
+    "name": "うまっ！塩とオリーブオイルで蒸した長ネギ",
+    "author": {
+        "@type": "Person",
+        "name": "ogamonja"
+    },
+    "image": "https://img.cpcdn.com/recipes/2918343/464x260/d8f4ff1f2894a8e585b3b8b013de4bce.jpg?u=2301644&p=1417949603",
+    "datePublished": "2014-12-07",
+    "description": "塩をふってオリーブオイルで蒸すだけの、とてもシンプルだけど甘くて美味しい長ネギ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "2～3本"
+        },
+        {
+            "name": "オリーブオイル(炒め用)",
+            "quantity": "小1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギを食べやすいように3～4cmの長さに切っておく。",
+        "オリーブオイルをフライパンにひき、強火で十分熱っしておく。",
+        "2に、１の長ネギを入れて塩をふる。",
+        "3に蓋をして、1～2分間中火～強火で熱すれば、出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2918343",
+    "advice": "・ステップ4で、長ネギの焦げる部分が集中しないように、たまにフライパンをゆする。",
+    "history": "農家から直送の長ネギをそのままでなるべく簡単に食べる方法としてオリーブオイル蒸しにしたところ、甘くてとろっとした食感でとても美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蒸しねぎ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2918343/100x141c/773dd25da7b4461881588c4d36633e07.jpg?u=2301644&p=1417949603"
+}

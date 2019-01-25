@@ -1,0 +1,58 @@
+{
+    "name": "エンペラとゲソ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/303313/464x260/7069102084fb681f48f65d88d0bf5a3a.jpg?u=304393&p=1235990436",
+    "datePublished": "2006-11-21",
+    "description": "いかのお刺身の後に残りがちなエンペラとゲソを簡単に炒めるだけでおつまみになります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "いか（げそ・えんぺら）",
+            "quantity": "いちよう１はい分"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "（チューブ）２ｃｍくらい"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "いかはマヨネーズ以外の調味料に漬けておく。",
+        "あとはマヨネーズをフライパンにいれ焼くだけ。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "303313",
+    "advice": "調味液が多くなってしまった時は減らしてから焼いてください。しょっぱくなるので。カロリーを気にする方は油もマヨもなしで焼いても大丈夫です。",
+    "history": "うちの定番おつまみです。 ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか",
+        "しょうが",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/303313/100x141c/662209c0b406b026170a9ead1ae3e2a8.jpg?u=304393&p=1235990436"
+}

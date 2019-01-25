@@ -1,0 +1,71 @@
+{
+    "name": "舞茸と豚肉の焼きうどん♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2652281/464x260/d500eedc6fcd163945a279c22c0cbc49.jpg?u=9552524&p=1401615202",
+    "datePublished": "2014-06-01",
+    "description": "舞茸の旨味がうどんに染みてめっちゃおいし～い♪簡単！こってり味の焼きうどんです♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "舞茸（小房に分ける）",
+            "quantity": "１パック"
+        },
+        {
+            "name": "豚こま肉",
+            "quantity": "１５０g"
+        },
+        {
+            "name": "貝割れ大根（根を切る）",
+            "quantity": "１/２パック"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "１片分"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "★は合わせておきます。",
+        "フライパンにごま油とにんにくを入れ火にかけ香りが出たら豚肉と舞茸を炒め軽く塩コショウを振ります。",
+        "レンジで解凍したうどんを加え炒め合わせて①を回しかけ、味を絡めながら炒めます。",
+        "器に盛りカイワレを乗せます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2652281",
+    "advice": "冷凍うどんは水っぽくならない様にレンジで解凍してね(^^♪",
+    "history": "少ない材料でチャチャっとできるので♪お昼ご飯によく作ります(*^^)v",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/焼きうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷凍うどん",
+        "舞茸",
+        "豚こま肉",
+        "貝割れ大根"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2652281/100x141c/2432ccffb6c3fca22ba81f140bf10323.jpg?u=9552524&p=1401615202"
+}

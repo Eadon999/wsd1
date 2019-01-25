@@ -1,0 +1,54 @@
+{
+    "name": "パプリカの柚子こしょうマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "oBsession"
+    },
+    "image": "https://img.cpcdn.com/recipes/471248/464x260/46145aef75154f4b5e8ab8e9462f36c3.jpg?u=466461&p=1214218016",
+    "datePublished": "2007-12-06",
+    "description": "簡単にできる、ワインにぴったりの即席おつまみです。パプリカを柚子こしょうのドレッシングで和えました。2008.5.12話題入りしました。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "赤ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "黄ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "柚子こしょう",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "赤ピーマン、黄ピーマンはそれぞれ種を取り1ｃｍ角に切り、ラップをかけて電子レンジで2分程加熱する。",
+        "オリーブ油、ポン酢、柚子こしょうを混ぜ合わせてドレッシングとする。",
+        "1と2を和えてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "471248",
+    "advice": "柚子こしょうの量は好みで加減してください。冷して食べるとよりおいしくなります。",
+    "history": "すぐにできるワインのおつまみを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤ピーマン",
+        "柚子こしょう",
+        "ポン酢",
+        "オリーブ油"
+    ],
+    "tsukurepo_count": "217",
+    "thumbnail": "https://img.cpcdn.com/recipes/471248/100x141c/d7f4590179561ce21a048fdd564a166b.jpg?u=466461&p=1214218016"
+}

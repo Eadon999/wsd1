@@ -1,0 +1,57 @@
+{
+    "name": "もやしとワカメの簡単和え物",
+    "author": {
+        "@type": "Person",
+        "name": "cureo"
+    },
+    "image": "https://img.cpcdn.com/recipes/262362/464x260/c1be2442ec1e14f0c75b2591453ab7ac.jpg?u=63563&p=1275547879",
+    "datePublished": "2006-06-23",
+    "description": "もやしとワカメのさっぱりとした和え物。ごま油の香りがポイント！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "塩蔵わかめ",
+            "quantity": "20g"
+        },
+        {
+            "name": "生食用ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしはさっと茹でてザルにあげ、粗熱を取っておく。わかめは戻して、食べやすい大きさに切る。ちくわは5mm程の輪切りに。",
+        "ボウルにポン酢、ごま油、白ごまを混ぜ合わせた所へもやし、わかめ、ちくわを加えて和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "262362",
+    "advice": "色が変わるので、食べる直前に和えて下さい。ちくわの代わりにツナ缶を使ったり、貝割れを加えても美味しいですよ。",
+    "history": "実家での定番のおかず。わかめが沢山摂れるのが嬉しい。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "塩蔵わかめ",
+        "ポン酢",
+        "ごま油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/262362/100x141c/68be1da3b125fe92854249006ddacfbc.jpg?u=63563&p=1275547879"
+}

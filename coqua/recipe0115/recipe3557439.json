@@ -1,0 +1,78 @@
+{
+    "name": "簡単辛旨！ベーコントマトのアラビアータ",
+    "author": {
+        "@type": "Person",
+        "name": "おれんち厨房"
+    },
+    "image": "https://img.cpcdn.com/recipes/3557439/464x260/53e58d9816eb1ef9fd1cc7008c311afd.jpg?u=13009872&p=1449373757",
+    "datePublished": "2015-12-06",
+    "description": "カーっと暑くなる、アラビアータ。１５分で作れて本格的です！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カットトマト",
+            "quantity": "200g"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "少々"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "一人前"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニクをみじん切りに。",
+        "ベーコンもカット",
+        "パスタを茹でる",
+        "フライパンにオリーブオイルをしいて、鷹の爪とニンニクを炒める",
+        "ニンニクの香りが立ったらベーコン投入",
+        "ベーコンがかりっとなれば、カットトマト投入。塩、ブラックペッパーで味付け。",
+        "パルメザンチーズを投入",
+        "茹でたパスタを絡める",
+        "完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3557439",
+    "advice": "ニンニクは弱火で香りを出す。",
+    "history": "すぐに食べられる簡単パスタ",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/アラビアータ"
+    ],
+    "rankings": [
+        "アラビアータ 1位"
+    ],
+    "related_keywords": [
+        "アラビアータ",
+        "アラビアータ 本格",
+        "アラビアータ ベーコン",
+        "トマトのアラビアータ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/3557439/100x141c/bbbe420dce621a3dbb4667d1dd9fa326.jpg?u=13009872&p=1449373757"
+}

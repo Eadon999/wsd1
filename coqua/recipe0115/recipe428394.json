@@ -1,0 +1,71 @@
+{
+    "name": "なすとピーマンの大葉味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "chieko333"
+    },
+    "image": "https://img.cpcdn.com/recipes/428394/464x260/f527dae0ff6d1287ba896b02ed4b30d7.jpg?u=277337&p=1214217186",
+    "datePublished": "2007-09-10",
+    "description": "母から伝授されたレシピです！H20/4/13 話題入りさせていただきました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンを熱し、大さじ１の油で、ナス・ピーマンを炒める。",
+        "しんなりしてきたら、酒大さじ２、みりん大さじ２、味噌大さじ１、醤油小さじ1/2、ほんだし小さじ1/2を溶き合わせておいたものを入れて、よく煮絡める。",
+        "仕上げに、大葉5枚をみじん切りにしたものを混ぜ合わせて出来上がり。",
+        "H20/4/13 話題入りさせていただきました！"
+    ],
+    "cookTime": null,
+    "recipe_id": "428394",
+    "advice": "大葉を入れてからは、あまり長く火を通さないほうが、香りがたつような気がします。なすだけでも、十分美味しいです。",
+    "history": "うちの実家の母の味です。だんだんここのキッチンも母に侵略されてきたような気がします。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ピーマン",
+        "大葉",
+        "酒"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/428394/100x141c/f370475ee24a8c787bee5e09052e1381.jpg?u=277337&p=1214217186"
+}

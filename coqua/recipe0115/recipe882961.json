@@ -1,0 +1,50 @@
+{
+    "name": "マヨコーンちくわ❤",
+    "author": {
+        "@type": "Person",
+        "name": "紅葉ｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/882961/464x260/9a80ac31801ee5d19abc65c3e36b2404.jpg?u=1389109&p=1342162508",
+    "datePublished": "2009-08-08",
+    "description": "ちくわにマヨコーンをトッピングして美味しく、可愛く焼きあがりました",
+    "recipeYield": "４個",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "コーン",
+            "quantity": "適量"
+        },
+        {
+            "name": "お好みでﾊﾟｾﾘorｹﾁｬｯﾌﾟ",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "適量のマヨネーズとコーンを混ぜ合わせておく。",
+        "ちくわを４等分にする。",
+        "ちくわの凹に混ぜ合わせたマヨコーンをのせる。",
+        "トースターで約５分間焼いたらでき上がり。お好みでパセリやケチャップをかけてね！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "882961",
+    "advice": "焼きたては熱いので火傷に気をつけて下さい。コーンは冷凍のままでも大丈夫です！",
+    "history": "大好きなちくわに合うトッピングを考えててできた一品です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "マヨネーズ",
+        "コーン"
+    ],
+    "tsukurepo_count": "397",
+    "thumbnail": "https://img.cpcdn.com/recipes/882961/100x141c/250c33160ee3c587d2ec231b38643016.jpg?u=1389109&p=1342162508"
+}

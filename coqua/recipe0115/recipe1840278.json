@@ -1,0 +1,64 @@
+{
+    "name": "トマトときゅうりのコチュジャンサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "xiaochu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1840278/464x260/cb2cfbe343c151537af5e03167eb5756.jpg?u=3031595&p=1338902339",
+    "datePublished": "2012-06-05",
+    "description": "2012年8月13日に嬉しい「話題のレシピ」仲間入り！皆さんつくれぽありがとうございます(*´◡`*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩(塩もみ用)",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは斜めに、その後千切りにする。\n塩を少々入れ、塩もみし5分程置く。",
+        "トマトは乱切りにする。",
+        "塩もみしたキュウリの汁気を軽く切り、トマト、ドレッシングと合わせる。\n最後にゴマをふる。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1840278",
+    "advice": "キュウリを塩もみして、しんなりさせるのが、ポイント！あまり辛くない方がいいかたは、コチュジャンを少なめにして",
+    "history": "いつものサラダと一味違う、辛みと酸味の絶妙なバランスがGoodです(･∀･)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "キュウリ",
+        "塩",
+        "ゴマ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1840278/100x141c/c222ed7b4b7ed94d1b05950ef1eeb620.jpg?u=3031595&p=1338902339"
+}

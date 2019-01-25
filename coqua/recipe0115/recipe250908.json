@@ -1,0 +1,50 @@
+{
+    "name": "豚のポリポリ",
+    "author": {
+        "@type": "Person",
+        "name": "かのんママ（'-'*）"
+    },
+    "image": "https://img.cpcdn.com/recipes/250908/464x260/1ee1ab2eb18b35fbc0dda214e7c1b9e7.jpg?u=68236&p=1214212955",
+    "datePublished": "2006-04-26",
+    "description": "豚肉とスナップエンドウって実に合う♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ",
+            "quantity": "100g"
+        },
+        {
+            "name": "スナップエンドウ",
+            "quantity": "5本"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "こしょう・白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "スナップエンドウは筋を取る。豚肉を炒める。",
+        "豚肉の色が半分くらい変わったら、スナップエンドウを入れる。",
+        "仕上げに塩昆布・こしょうを入れて、からめる。白ごまを振ったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "250908",
+    "advice": "スナップエンドウはポリポリの食感を残すようにしてくださいね。今回は油を使わなかったのですが、あれば少量のごま油で炒めても風味が増して美味しいですよ♡",
+    "history": "塩昆布・・・なかなか減らないな～と思って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/スナップえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま切れ",
+        "スナップエンドウ",
+        "塩昆布"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/250908/100x141c/84865f0376f867f78bc3f0c3515e3881.jpg?u=68236&p=1214212955"
+}

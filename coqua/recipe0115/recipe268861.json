@@ -1,0 +1,52 @@
+{
+    "name": "甘酸っぱい♪ピンク色の紫たまねぎの漬物",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/268861/464x260/01b4393615dca7edc38688156bd0e815.jpg?u=252604&p=1214213344",
+    "datePublished": "2006-07-23",
+    "description": "ピンク色のとっても綺麗な甘酢漬けです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "紫たまねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "みりん",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "酢",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大4"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/3"
+        }
+    ],
+    "recipeInstructions": [
+        "紫たまねぎの皮をむき、5ｍｍ幅程度に薄くスライスします。",
+        "甘酢を作ります。鍋にみりんを入れ、火にかけ沸騰したら火を止めます。そこに砂糖、塩、酢を入れ、混ぜあわせ甘酢を作ります。",
+        "甘酢が熱いうちに、紫たまねぎを漬け込みます。",
+        "一晩甘酢に漬けておくと、きれいなピンク色になります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "268861",
+    "advice": "残った甘酢は、酢飯などにも使えます。カレーと一緒に食べたり、箸休めにどうぞ♪",
+    "history": "爽やか♪みょうがご飯（レシピID:256376）の甘酢を使いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "紫玉ねぎ 漬け物"
+    ],
+    "tsukurepo_count": "105",
+    "thumbnail": "https://img.cpcdn.com/recipes/268861/100x141c/4b9281101aea9b40f82d82193b3a146d.jpg?u=252604&p=1214213344"
+}

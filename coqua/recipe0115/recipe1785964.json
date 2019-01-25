@@ -1,0 +1,53 @@
+{
+    "name": "ほうれん草のポタージュスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1785964/464x260/b98528a6eee5e6e1b8e0a2514ef97ae2.jpg?u=2513693&p=1334926549",
+    "datePublished": "2012-04-21",
+    "description": "ほうれん草のグリーンが鮮やかなポタージュスープ。粉チーズでコクをだしています♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "コンソメ（固形）",
+            "quantity": "２個　＊細かく刻んでおく"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ホウレンソウは熱湯で1分茹で流水で洗い、根を切り落とし5センチ幅に切り、牛乳と一緒にミキサーにかけてから鍋に移します\n",
+        "【A】と①を混ぜ一煮立ちさせ完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1785964",
+    "advice": "ホウレンソウにはシュウ酸が含まれていますので、下茹でしてから流水でさっと洗う事をおススメします。",
+    "history": "朝から元気が出そうなスープ。ホウレンソウ以外の野菜は入れずシンプルに作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "牛乳",
+        "コンソメ",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1785964/100x141c/323b177dc649cace0f426479ca3a3ca4.jpg?u=2513693&p=1334926549"
+}

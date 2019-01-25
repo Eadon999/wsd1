@@ -1,0 +1,49 @@
+{
+    "name": "❤しめじとピーマンのオイマヨ炒め❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/2796242/464x260/f997d017489f720ffe083956b4cdc2bb.jpg?u=2619264&p=1410615140",
+    "datePublished": "2014-09-21",
+    "description": "お肉なしでもオイマヨ効果でコクが出ます♪簡単に作れるので、朝のお弁当作りにもいいよ～✿",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "3～5個"
+        },
+        {
+            "name": "マヨネーズ、オイスターソース",
+            "quantity": "各大1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは一口大に切り、しめじはほぐしておく。",
+        "油少々入れたフライパンでピーマンとしめじを入れ、強火で1分ほど炒めて軽く塩コショウする。",
+        "マヨとオイスターソースを入れて強火のまま30秒ほどフライパンをあおりながら炒めたら出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2796242",
+    "advice": "しめじ以外のキノコでもいいし、もちろんウインナーや肉を加えても♪",
+    "history": "お肉の付け合わせに、早く作れるもの～！ってことで✿",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "ピーマン",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/2796242/100x141c/994d27d63d857986f1f2a26d58bf13ba.jpg?u=2619264&p=1410615140"
+}

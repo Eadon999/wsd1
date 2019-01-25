@@ -1,0 +1,60 @@
+{
+    "name": "簡単！野菜たっぷり玉子スープ",
+    "author": {
+        "@type": "Person",
+        "name": "来夢☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2525601/464x260/498dd119f551e17cabdf14a00a55090f.jpg?u=7766960&p=1400930103",
+    "datePublished": "2014-03-01",
+    "description": "冷蔵庫の野菜でパッと作れる簡単スープです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "250g"
+        },
+        {
+            "name": "人参",
+            "quantity": "40g"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "2個"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ2.5～3"
+        },
+        {
+            "name": "水",
+            "quantity": "1200ｃｃ"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を切る。\nキャベツはざく切り、人参は拍子切り、椎茸は千切りする。",
+        "鍋に水・鶏がらスープの素を入れ、沸騰してきたら１の材料を全て入れる。",
+        "野菜に火が通ったら、ときほぐした卵をまわし入れる。\n容器の口に箸をそえ、少しずつ入れる。",
+        "卵がふんわり浮いてきたら火を止める。最後に塩コショウで味を調える。器に盛り付け出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2525601",
+    "advice": "鶏がらスープの素で簡単に、冷蔵庫に残った野菜を刻んで作ります。",
+    "history": "冷蔵庫に少しずつ残っている野菜を使うため。その後は、色々な具材で作ってます。つくれぽ 10人 ありがとう！ 2017/02/08",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "野菜卵スープ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2525601/100x141c/72b5be509c8d3f09026d64356b7b5f16.jpg?u=7766960&p=1400930103"
+}

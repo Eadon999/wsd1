@@ -1,0 +1,65 @@
+{
+    "name": "大根とこんにゃくの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1734567/464x260/bf02e59636f2502d9695773c9d2f4748.jpg?u=602880&p=1331302467",
+    "datePublished": "2012-03-09",
+    "description": "★★★話題入りありがとう★★★カテゴリ掲載ありがとう★★★大根の煮物にこんにゃくをプラスしました。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根(小さい物)",
+            "quantity": "1本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "4個"
+        },
+        {
+            "name": "水",
+            "quantity": "1000cc"
+        },
+        {
+            "name": "顆粒昆布だし",
+            "quantity": "6g"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を作っておきます。大根は輪切りにして水から煮ておきます。",
+        "板こんにゃくを使う場合は食べやすく切ってアク抜きしておきます。",
+        "大根が柔らかくなってきたら、アクを取って昆布だしを加えます。",
+        "●の調味料を加えて、味がしみるまで煮たら完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1734567",
+    "advice": "こんにゃくのアク抜きは水を張った容器に入れてレンジで1分半くらい加熱すれば簡単です。",
+    "history": "家にあるもので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "昆布だし 大根 煮物",
+        "大根こんにゃく煮物"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1734567/100x141c/4022aed6b24681a6c302cc041eb82a07.jpg?u=602880&p=1331302467"
+}

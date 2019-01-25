@@ -1,0 +1,62 @@
+{
+    "name": "ワカメとエノキの胡麻ラー油",
+    "author": {
+        "@type": "Person",
+        "name": "さとみわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/305152/464x260/81f10c44db7a9d1763412353f8e81ba7.jpg?u=317578&p=1214214171",
+    "datePublished": "2006-11-27",
+    "description": "たっぷり胡麻とピリ辛味でワカメがたくさん食べれます☆　繊維たっぷりヘルシーな一品です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ワカメ",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "◎すり胡麻",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎ラー油",
+            "quantity": "小さじ1/2～１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ワカメはサッと茹でて食べやすい大きさに切る。\r\nエノキも食べやすい大きさに切り、サッと茹でておく。",
+        "◎を合わせ、１を和えて出来上がり♪（ラー油は好みで量を調節してください）",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "305152",
+    "advice": "ワカメの茹ですぎに注意してください。",
+    "history": "ワカメがたくさん食べれるヘルシーなおかずを作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ワカメ",
+        "えのき",
+        "すり胡麻",
+        "醤油"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/305152/100x141c/8b09db1e7e31d65349fc3fa6b379fe71.jpg?u=317578&p=1214214171"
+}

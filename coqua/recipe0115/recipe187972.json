@@ -1,0 +1,63 @@
+{
+    "name": "ツナとほうれん草の納豆和え。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/187972/464x260/aa540ef305f17d355c9ac6bb194693e2.jpg?u=4036&p=1214211716",
+    "datePublished": "2005-03-16",
+    "description": "ねばふわとろ～。栄養価の高い副菜です。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "250g"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "黒炒り胡麻",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "和辛子",
+            "quantity": "小さじ1～2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は塩少々（分量外）を加えたお湯で堅めに湯がいて水分を絞り、2センチ程度の長さに揃えておく。黒炒り胡麻は粗くすっておく。ツナ缶は水分を切っておく。",
+        "【胡麻マヨだれ】マヨネーズ・砂糖・胡麻・和辛子を合わせておく。納豆のパックにタレや和辛子が付いていればそれも一緒に混ぜておく。",
+        "ボウルなどに、ほうれん草・ツナ・2.の胡麻マヨだれ・納豆を入れて混ぜ合わせれば完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "187972",
+    "advice": "",
+    "history": "納豆が大好きなんです。ツナも、胡麻も・・・",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ほうれん草 ツナ",
+        "ほうれん草 納豆",
+        "納豆和え"
+    ],
+    "tsukurepo_count": "195",
+    "thumbnail": "https://img.cpcdn.com/recipes/187972/100x141c/bd10380928de0fa5afbfd12d58da927d.jpg?u=4036&p=1214211716"
+}

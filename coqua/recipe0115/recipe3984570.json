@@ -1,0 +1,71 @@
+{
+    "name": "居酒屋おつまみ♪鶏ささみのネギねぎナムル",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/3984570/464x260/07a68aeb6a7c930aac1e88865fd03ee9.jpg?u=9664115&p=1468933006",
+    "datePublished": "2016-07-20",
+    "description": "食べだしたら箸が止まらない。。ヘルシーなささみと2種類のねぎが無限のおいしさに。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "長ネギ（白）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "5〜6本"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆具入りラー油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆ごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆ポン酢",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお湯を沸かし、ささみの筋を取り茹でる。\nお酒を大さじ1入れるとしっとりします。",
+        "火が通ったらお湯からあげて冷ます。\n冷めたら手で細かくほぐす。",
+        "長ネギは3センチくらいに切ってから縦に千切りにする。白髪葱ですね。",
+        "万能ねぎは2センチくらいに切る。",
+        "ささみ・白髪葱・万能ねぎ、☆の調味料を全てボウルに入れてよく和える。",
+        "15分程放置してまた和えたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3984570",
+    "advice": "和えたら時間をおいて味を馴染ませる。",
+    "history": "ねぎを主役で一品作ろうと思い、いつも大好きなささみと。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "居酒屋 おつまみ",
+        "居酒屋メニュー"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3984570/100x141c/0acd1ca081ab1335333c444f8007b2a8.jpg?u=9664115&p=1468933006"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "～コクうま♪鶏もも肉とカリフラワー炒め～",
+    "author": {
+        "@type": "Person",
+        "name": "トーイまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/4281218/464x260/98e5e854878d6d80df7c98b7b96558de.jpg?u=3184600&p=1484040413",
+    "datePublished": "2017-01-10",
+    "description": "あるものでシンプルに作りました♪(*´▽｀*)",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "カリフラワー",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "パプリカ(赤、黄)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大1"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "小1（肉用）"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "小1/2（野菜用）"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小1"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "生姜(すりおろし)",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は水でサッと洗い水気をふき取り一口大に切り\nクレイジーソルトをまぶし馴染んだら片栗粉を全体にまぶす。",
+        "カリフラワーは子房に分けて塩ゆでしておく。\nパプリカは一口サイズに切る。",
+        "フライパンにサラダ油をひき、にんにく、しょうがを入れ鶏肉を焼く。",
+        "鶏肉に大体火が通ったら、野菜を入れてクレイジーソルト（野菜用）、鶏ガラスープの素を入れて味を整えて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "4281218",
+    "advice": "",
+    "history": "パプリカの残りと頂いたカリフラワーがあったのでシンプルな味で作ってみました♡(^O^)／",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリフラワー 鶏肉",
+        "鶏もも肉 カリフラワー"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4281218/100x141c/b6dbb06f12daa70df163a3a1c157ab25.jpg?u=3184600&p=1484040413"
+}

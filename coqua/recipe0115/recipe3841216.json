@@ -1,0 +1,52 @@
+{
+    "name": "ごま油がいい感じ～簡単しらす丼ぶり♪",
+    "author": {
+        "@type": "Person",
+        "name": "taePごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3841216/464x260/0635998f58d9f754b2f1ed5f39a53a4b.jpg?u=8955867&p=1462366123",
+    "datePublished": "2016-05-04",
+    "description": "混ぜて～ご飯にのせるだけなのに～とっても美味しい！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "★しらす",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "★小ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★麺つゆ(3倍濃縮)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "１人分（多め）"
+        }
+    ],
+    "recipeInstructions": [
+        "材料をそろえます（小ネギは切ります）",
+        "★を混ぜます",
+        "ご飯に２をのせて完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "3841216",
+    "advice": "調味料はお好みで増減させてくださいね！",
+    "history": "簡単な「しらす丼ぶり」が食べたくて！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらす丼 簡単",
+        "しらす丼"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/3841216/100x141c/92d3d3b2e9cc1e1f269dce63c9b53143.jpg?u=8955867&p=1462366123"
+}

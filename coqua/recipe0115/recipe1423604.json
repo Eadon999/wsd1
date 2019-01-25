@@ -1,0 +1,61 @@
+{
+    "name": "手間要らずの鶏チャーシュー",
+    "author": {
+        "@type": "Person",
+        "name": "MrsYummy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1423604/464x260/e11e3e3fd313790992fa7cda78b039dd.jpg?u=2633450&p=1303954018",
+    "datePublished": "2011-04-28",
+    "description": "2013/10/13 話題入り２５☆感謝です。煮立てたら、ほったらかし。しっとり、おいしいチャーシューですよ。",
+    "recipeYield": "２本分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "しお",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうが（すりおろし）",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "１かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉の両面に塩を少量すりこみ、丸めて糸で縛ります。\n残りの材料と鍋に入れ落し蓋をし、弱中火でゆっくりに立てます。",
+        "煮立ったら、火を消して後は時々ひっくり返して味をしみこませます。\n熱が取れたらジップロックに煮汁ごと入れ冷蔵庫へ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1423604",
+    "advice": "時間のないときは、熱が取れたらチャーシューをスライスし煮汁に戻して出来上がりです。ゆで卵も一緒に入れて煮卵に。",
+    "history": "ラーメン用のチャーシューを簡単に作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "酒",
+        "しょうゆ",
+        "はちみつ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1423604/100x141c/6b61d9550447cca5e4effe40898010ce.jpg?u=2633450&p=1303954018"
+}

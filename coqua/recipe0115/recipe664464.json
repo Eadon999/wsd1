@@ -1,0 +1,81 @@
+{
+    "name": "糸こんでなんちゃってすき焼き風☆",
+    "author": {
+        "@type": "Person",
+        "name": "Ｎｏｒａａ"
+    },
+    "image": "https://img.cpcdn.com/recipes/664464/464x260/3b7a804b9e4c0ea257a536caab0908f3.jpg?u=646175&p=1225330027",
+    "datePublished": "2008-10-16",
+    "description": "甘辛に煮た糸こんに卵黄を絡めていただくなんちゃってすき焼き。一人ですき焼きが食べたくなった時に！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "糸こんにゃく",
+            "quantity": "１パック"
+        },
+        {
+            "name": "豚コマｏｒ牛コマ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "５ｃｍ程度"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４ヶ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "半パック"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "粉末かつおだし",
+            "quantity": "半パック（５ｇ）"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１ヶ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "お好みで！"
+        }
+    ],
+    "recipeInstructions": [
+        "糸こんは軽く茹で適当な長さに切っておく。人参、玉ねぎは千切りする。",
+        "肉を油で炒め軽く塩こしょうをし、糸こん、野菜も炒めていく。砂糖→醤油→粉末かつおだしを入れ味付け。",
+        "熱湯をひたひた注ぎ水分が１/３程度になるまで煮る。片栗粉で少しとろみをつける。",
+        "お皿に移し、卵黄を置き、好みでネギを散らして完成。",
+        "09.11.09\r\nお陰様で話題入りできました♪見て下さった皆様ありがとう！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "664464",
+    "advice": "具材、味付けはお好みで！ 煮汁と卵黄を混ぜて絡めて食べるとウマウマです♡",
+    "history": "甘辛に煮た糸こんに卵黄を乗せたらすき焼きになりました！",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なんちゃってすき焼き"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/664464/100x141c/00b7ab4c360891478fde0938c1c60c44.jpg?u=646175&p=1225330027"
+}

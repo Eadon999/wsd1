@@ -1,0 +1,53 @@
+{
+    "name": "お弁当おかず♪さつまいもとウインナー炒め",
+    "author": {
+        "@type": "Person",
+        "name": "amamimo"
+    },
+    "image": "https://img.cpcdn.com/recipes/2019111/464x260/18048358983433be919b6c35c0da939e.jpg?u=885665&p=1352179288",
+    "datePublished": "2012-11-06",
+    "description": "さつまいもで簡単おかず♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "小１本"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "１袋"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもを細切りにして水にさらす。",
+        "ウィンナーも細切りにする。",
+        "熱したフライパンにオリーブオイルをひいて、水を切ったさつまいもを炒める。（中火でね）",
+        "さつまいもの色が変わってきたら、ウィンナーも入れて炒め、塩で味付け。",
+        "仕上げにパセリを振ってできあがり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2019111",
+    "advice": "さつまいもの方が火の通りが遅いので、時間差で炒めてください。",
+    "history": "沢山さつまいもをいただいたので、飽きないようにいろいろ試しています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも ウインナー 炒め"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/2019111/100x141c/d4931c703e9d263cd55b46e8255d9651.jpg?u=885665&p=1352179288"
+}

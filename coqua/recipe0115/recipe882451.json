@@ -1,0 +1,78 @@
+{
+    "name": "キャベツいっぱいのお好み焼き",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/882451/464x260/0e4c80d52d31643b14d598fae4f31518.jpg?u=377757&p=1249447153",
+    "datePublished": "2009-08-05",
+    "description": "キャベツいっぱいの、ふわふわ美味しい豆腐入りお好み焼きです！",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ（みじん切り）",
+            "quantity": "１／２（４００ｇ）"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "１３０ｇ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "豆腐（絹）",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ＢＰ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "コーン、天かす、豚肉、チーズ、お餅等",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ソース",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ以外の生地の材料をボールに入れ混ぜ合わせる。混ざったらキャベツとトッピングの材料（肉類以外）を入れる。",
+        "油を引いたフライパンに１をおたまですくい、焼いていく。ここで肉類を広げて上の写真のように並べていく。",
+        "ひっくり返して焦げ目がつくまで焼いていく。",
+        "肉の面はこんな感じ。",
+        "ソース等をかけて完成！",
+        "\n話題入りしました！\n作っていただいたみなさん、ありがとうございました＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "882451",
+    "advice": "きゃべつは出来るだけ細かくみじん切り。ＦＰなどを使うと早いです！",
+    "history": "大きなキャベツがあったので。",
+    "categories": [
+        "今日のご飯・おかず/粉もの/お好み焼き/アレンジお好み焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツいっぱいのお好み焼き"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/882451/100x141c/70b2ac14ba8f63a7135a6171f7aa95ac.jpg?u=377757&p=1249447153"
+}

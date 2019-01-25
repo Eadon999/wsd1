@@ -1,0 +1,54 @@
+{
+    "name": "めんつゆで簡単❀長芋グラタン",
+    "author": {
+        "@type": "Person",
+        "name": "たらこ226"
+    },
+    "image": "https://img.cpcdn.com/recipes/3103866/464x260/dfa1f2cd3a563cf378a90b9eb8b577bb.jpg?u=7770230&p=1428240343",
+    "datePublished": "2015-04-05",
+    "description": "めんつゆマヨで熱々フワフワのシンプルグラタンです。あと一品にどうぞ♬",
+    "recipeYield": "少なめ2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "正味180g"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮を剥いてすりおろして、小さめボウルに入れる。\n",
+        "１によく溶いた卵とマヨネーズ、めんつゆを加えて混ぜ合わせて器に流し入れる。",
+        "のりをまぶし、トースター(1000W)で１０～１２分焼けば出来上がり♬"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3103866",
+    "advice": "濃い目の味が好きな方は、塩(コショウ)を少々足してくださいね。",
+    "history": "長いも消費に、簡単にあるもので。と思いパパっと作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": [
+        "長いもグラタン 7位"
+    ],
+    "related_keywords": [
+        "長いもグラタン",
+        "長いもグラタン 簡単"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/3103866/100x141c/b5dbffb6b5bbdab42614ac1f526c9e42.jpg?u=7770230&p=1428240343"
+}

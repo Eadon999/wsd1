@@ -1,0 +1,58 @@
+{
+    "name": "松茸香る雑炊",
+    "author": {
+        "@type": "Person",
+        "name": "miyumiyu.f"
+    },
+    "image": "https://img.cpcdn.com/recipes/457345/464x260/56f693962429e68c24cb0ea9ad8b57d1.jpg?u=336615&p=1214217744",
+    "datePublished": "2007-11-09",
+    "description": "ダイエットに・・・寒い季節に・・・手軽に作れる雑炊はいかがでしょうか？",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "永谷園松茸の味お吸い物",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "茶碗半分"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "好みの野菜（大根・白菜・人参など）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に２５０ccの水を入れ、火にかける。沸いてきたら野菜類を入れる。",
+        "永谷園松茸の味お吸い物と、ごはんを加えて　５～１０分ほど炊く。",
+        "味をみながら　薄口醤油と塩を加えて　溶き卵を回しかける。",
+        "蓋をして卵がふんわりとすれば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "457345",
+    "advice": "水を記載されている分量よりも多めに入れて　ふやかしました。",
+    "history": "寒い季節になってきたので　簡単においしい雑炊が作りたくて・・・。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "永谷園 お吸い物 雑炊",
+        "松茸のお吸い物 雑炊",
+        "永谷園 雑炊"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/457345/100x141c/c3767665b27e8bbd411448ae479e7802.jpg?u=336615&p=1214217744"
+}

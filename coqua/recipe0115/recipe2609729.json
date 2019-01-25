@@ -1,0 +1,52 @@
+{
+    "name": "舞茸風味一杯！舞茸とキャベツの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2609729/464x260/054bf2aa783fe211907cd05f1caddef9.jpg?u=4376699&p=1398861208",
+    "datePublished": "2014-04-30",
+    "description": "免疫力アップ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "100g"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "50g"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/8"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをザク切り\n舞茸は手でほぐして\n小鍋に入れ水と味噌、ほんだしを加えて煮る\n沸騰したら2分で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2609729",
+    "advice": "キャベツの固さはお好みで！煮込んでも美味しいです",
+    "history": "舞茸とキャベツの炒めものをしようとして味噌汁に変更おにぎりと具沢山味噌汁！お勧めです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "舞茸",
+        "味噌",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2609729/100x141c/7ac779535fb72974e820525fbbf4bd6e.jpg?u=4376699&p=1398861208"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "ミックスビーンズサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "まるをちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/458740/464x260/8a6c9812727ba1d4c9afb1e2791f1c46.jpg?u=638057&p=1214217768",
+    "datePublished": "2007-11-13",
+    "description": "ドレッシングは手作りなのに、まったく手間はかかりません。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ミックスビーンズ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "2個"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "4個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "レモン",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ドライバジル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "レタス",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "バジル",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルにレモンを絞って（１：１）、ドライバジル・塩・ブラックペッパーで味付けてドレッシングは完成。",
+        "さいの目に切ったプチトマトとチーズ、ミックスビーンズをドレッシングと混ぜて完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "458740",
+    "advice": "市販のドレッシングを使ってもおいしいです。イタリアン、サウザン、胡麻もいいですよね。",
+    "history": "ドレッシングの買い置きがないときに、ちゃちゃっと簡単ドレッシングで作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/イタリアンサラダ",
+        "今日のご飯・おかず/野菜のおかず/豆類/ミックスビーンズ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミックスビーンズ",
+        "チーズ",
+        "プチトマト",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/458740/100x141c/c9583aa69890945c37ca8df88893c83d.jpg?u=638057&p=1214217768"
+}

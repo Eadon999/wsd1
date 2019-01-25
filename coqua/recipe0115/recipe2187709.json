@@ -1,0 +1,60 @@
+{
+    "name": "結びしらたきの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/2187709/464x260/74a233fc7a4784e7ca60debef3a3c502.jpg?u=3707330&p=1378869475",
+    "datePublished": "2014-01-07",
+    "description": "ヘルシーなのに、満腹感も得られる結びしらたき。あと一品、おつまみにも☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "結びしらたき",
+            "quantity": "10個分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "個包装のもの1/2袋"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "結びしらたきは3分位アク抜きの為に下茹でした後、水気を切っておきます",
+        "フライパンにごま油を入れ結びしらたきを炒め、種をとって輪切りした唐辛子を加えます",
+        "醤油とみりんを入れて味を絡ませます",
+        "水分がなくなりかけたら、かつおぶしを加えて混ざったら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2187709",
+    "advice": "結びしらたきは、下茹でしたほうが味も入りやすくなるので是非ひと手間かけて下さいね☆",
+    "history": "間違えて結んだしらたきを買ったのでシンプルな味付けにしてみました(笑)",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": [
+        "結び白滝 2位"
+    ],
+    "related_keywords": [
+        "結びしらたき",
+        "結びしらたき おつまみ",
+        "結び糸こんにゃく"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/2187709/100x141c/b0e5bae126bc907b7ee2ba8a28e0d8ce.jpg?u=3707330&p=1378869475"
+}

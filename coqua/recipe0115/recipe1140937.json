@@ -1,0 +1,58 @@
+{
+    "name": "ほっこりカフェ　カブのポタージュスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ほっこりかふぇ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1140937/464x260/14694ceabc072d35543252aeeafe8633.jpg?u=2257572&p=1317822973",
+    "datePublished": "2010-05-28",
+    "description": "淡白なカブがこってりスープに大変身！ブログも遊びに来てねhttp://ameblo.jp/hokkoricafe2/",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "大2個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "小1個"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100cc"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "カブ2個を適当な大きさに切ります。\r\n玉ねぎはみじん切りにします。",
+        "カブと玉ねぎをバターで炒めます。\r\nカブがやわらかくなったら水とコンソメを入れて、15分ほど煮込みます。",
+        "ジューサーに入れて、トロトロにします。",
+        "再び鍋に入れ、牛乳を100cc入れて煮込んだら出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1140937",
+    "advice": "カブの葉っぱがついているようなら、塩茹でにして細かく刻んで上に乗せると彩りよくなりますよ。なければパセリなどを飾ってください。",
+    "history": "新鮮なカブが手に入ったので、スープを作ってみようと思いました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ ポタージュスープ",
+        "ポタージュスープ",
+        "かぶ ポタージュスープ ▲ミキサー"
+    ],
+    "tsukurepo_count": "190",
+    "thumbnail": "https://img.cpcdn.com/recipes/1140937/100x141c/04903827abdfdaaf67fefe6e86e336e6.jpg?u=2257572&p=1317822973"
+}

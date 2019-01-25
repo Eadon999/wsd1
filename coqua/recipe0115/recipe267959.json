@@ -1,0 +1,63 @@
+{
+    "name": "しゃっきり‡いんげんの塩きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "スノウ"
+    },
+    "image": "https://img.cpcdn.com/recipes/267959/464x260/a7705b9f37f4606d868efcdf830a8667.jpg?u=69349&p=1214213327",
+    "datePublished": "2006-07-20",
+    "description": "しゃきしゃきいんげんが主役のきんぴらです。さっぱり塩味で驚くほどたくさん食べられます。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "１０本くらい"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3～1/2本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2/3"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3～1/2"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげん・にんじんは斜めに太めの千切り。エリンギも同様に切る。",
+        "フライパンに油を熱して、にんじん→いんげん→エリンギの順に炒める。",
+        "いんげんがしんなりする前に酒を加えて煽る。塩で味を整える。",
+        "白ごまをたっぷりとふり、出来上がり。なんて簡単（笑）"
+    ],
+    "cookTime": null,
+    "recipe_id": "267959",
+    "advice": "野菜はあまり細く切らないで、歯ごたえを残した仕上がりに。",
+    "history": "夏用きんぴらです。醤油味よりさっぱり食べられます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "エリンギ",
+        "サラダ油",
+        "日本酒"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/267959/100x141c/f9998e54109abdd04a9740e1fbd8c089.jpg?u=69349&p=1214213327"
+}

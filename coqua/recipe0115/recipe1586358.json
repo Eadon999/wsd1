@@ -1,0 +1,45 @@
+{
+    "name": "茗荷のチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "春小町"
+    },
+    "image": "https://img.cpcdn.com/recipes/1586358/464x260/4e6b98962dca1e99d2aac1142a32dc3a.jpg?u=532341&p=1317482074",
+    "datePublished": "2011-10-02",
+    "description": "茗荷とチーズそれだけ、あつあつとろ～り♪香りと食感がくせになります♡",
+    "recipeYield": "グラタン皿1枚分",
+    "recipeIngredient": [
+        {
+            "name": "茗荷",
+            "quantity": "3個"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "ひとつかみ"
+        }
+    ],
+    "recipeInstructions": [
+        "茗荷は縦に1/4位に切り良く洗って水分をキッチンペーパーなどでとります。",
+        "茗荷を耐熱容器に入れめんつゆを絡め平らに並べます。",
+        "チーズを好きなだけのせオーブントースター高温で5～7分こんがり焼く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1586358",
+    "advice": "茗荷の水分を良くとって焼いてください。",
+    "history": "加熱した茗荷が好きでチーズとあわせてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/みょうが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茗荷",
+        "めんつゆ",
+        "ピザ用チーズ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1586358/100x141c/1c844fdafa2e6871ce3426fb82b25ba9.jpg?u=532341&p=1317482074"
+}

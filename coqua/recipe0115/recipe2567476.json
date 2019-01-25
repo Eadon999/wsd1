@@ -1,0 +1,54 @@
+{
+    "name": "大根とにんじんのコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "しょーコ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2567476/464x260/5ddba831f5fb77d2d36da13635001304.jpg?u=4703789&p=1396364688",
+    "datePublished": "2014-04-01",
+    "description": "あっさりうまー。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "5cmぐらい(使ったのは真ん中らへん)"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3～1/2ぐらい"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とコンソメ入れてそれっぽく切った大根とにんじんを入れて蓋して煮ます。",
+        "大根とにんじんに箸刺して煮えてたら塩胡椒して味を整えお好みでパセリを振って下さい。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2567476",
+    "advice": "煮えたか箸刺して確認。私めっちゃ箸刺すのでほとんどの具に穴が空きます。",
+    "history": "コンソメスープを作ろうと思ったら大根がいっぱいあったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 にんじん スープ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2567476/100x141c/5b816a90e5efb0a609d9af7e33712666.jpg?u=4703789&p=1396364688"
+}

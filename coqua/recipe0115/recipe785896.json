@@ -1,0 +1,61 @@
+{
+    "name": "和みの味★なめこモヤシ味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "フシッチェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/785896/464x260/88855011538c8ca850b00209af46b3c2.jpg?u=881219&p=1239935836",
+    "datePublished": "2009-04-17",
+    "description": "★2011.2.26話題入り★低カロリーでミネラル豊富なモヤシのシャキ②感とヌルツルなめこは相性抜群っ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "2cup強"
+        },
+        {
+            "name": "もやし",
+            "quantity": "一掴み"
+        },
+        {
+            "name": "ナメコ",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大1.5くらい"
+        },
+        {
+            "name": "ワケギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "お鍋にだし汁をいれ、湯気がたってきたらもやしとナメコを入れ、もやしの色が変わるくらいまで茹でる。",
+        "火を止めて味噌を加える。（※味噌を入れてから沸騰させると香りが抜けるので注意）",
+        "ごま油、ワケギを入れ、お味噌汁の器に盛って出来上がり！",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "785896",
+    "advice": "・だし汁はかつお節と昆布でとったものを使いました。・味噌の量はお好みで調整してください。",
+    "history": "モヤシを使ったお味噌汁研究。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "ミノ 4位"
+    ],
+    "related_keywords": [
+        "だし汁",
+        "もやし",
+        "ナメコ",
+        "味噌"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/785896/100x141c/71131ea3d1f37d0024bcb29e5ae8f347.jpg?u=881219&p=1239935836"
+}

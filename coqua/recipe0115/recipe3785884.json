@@ -1,0 +1,66 @@
+{
+    "name": "青梗菜とわかめの和え物",
+    "author": {
+        "@type": "Person",
+        "name": "うららまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/3785884/464x260/a6fae1e52d7f050598f9af190491b43e.jpg?u=13881000&p=1459689542",
+    "datePublished": "2016-04-03",
+    "description": "しらすの塩っ気が青梗菜のやさしい味にマッチ。ごま油がポイントです♪",
+    "recipeYield": "四人分",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "50g"
+        },
+        {
+            "name": "しらす",
+            "quantity": "30g"
+        },
+        {
+            "name": "◯だし(濃縮)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◯醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◯ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "青梗菜は沸騰した湯で1分ほど塩茹でし、ザルにあげる。わかめは水につけて塩を抜いておく",
+        "よく水を切った①を食べやすい大きさに切る",
+        "ボールに◯の材料を入れ混ぜて、②をいれる。しらすと白ごまも合わせて完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3785884",
+    "advice": "青梗菜はよく水を切ってください。青梗菜とごま油は相性抜群！",
+    "history": "旬のしらすを青梗菜と一緒にさっぱり食べたくて作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "青梗菜",
+        "わかめ",
+        "しらす",
+        "だし"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3785884/100x141c/a3aeb85fd223a0657a88b6b80c9f7894.jpg?u=13881000&p=1459689542"
+}

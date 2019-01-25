@@ -1,0 +1,67 @@
+{
+    "name": "土鍋でご飯♪たけのこご飯",
+    "author": {
+        "@type": "Person",
+        "name": "けい♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/353121/464x260/df85d38f671f4019edbff217e9354704.jpg?u=60994&p=1214215215",
+    "datePublished": "2007-04-01",
+    "description": "春の味。土鍋で炊いた方が美味しいけど、炊飯器でも出来ます。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "筍の水煮",
+            "quantity": "100g"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "削り節",
+            "quantity": "1袋（5g）"
+        }
+    ],
+    "recipeInstructions": [
+        "米はといで土鍋に入れる。だし汁も入れて30分置く。\r\n",
+        "筍の水煮は薄く切っておく。\r\n1に★を入れて軽く混ぜ、筍を乗せてフタをして強火にかける。",
+        "フタの淵から小さい泡が出たらすぐに弱火にし、8分加熱。\r\n最後に強火にして1分加熱して火を止めて、そのまま蒸らす。",
+        "10分たったら、手早くフタを開けて削り節を入れてフタを閉める。そのまま5分蒸らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "353121",
+    "advice": "",
+    "history": "定番。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "だし汁",
+        "筍の水煮",
+        "醤油"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/353121/100x141c/3629cba57673dfc93931eaa762e8126b.jpg?u=60994&p=1214215215"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "アボカドそのまんまグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "大さんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/336303/464x260/0f2afe400856aa59e88cb7b7bcf7ee46.jpg?u=379053&p=1214214847",
+    "datePublished": "2007-02-26",
+    "description": "アボカドをそのまんま使ったクリーミーグラタンです♪簡単、すぐ出来ますヽ(´▽｀)/",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "各少々"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは半分に切って、中身をスプーン等でくり抜く。ハムは短冊切りにする。",
+        "アボカドとハムをマヨネーズで和えて、塩、こしょうで味を整える。",
+        "アボカドの器に２を入れ、チーズをのせてトースターで焼く。",
+        "トンギュウさん、間違えてコメント書かずに掲載してしまいました。ゴメンなさい。作って下さってありがとうございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "336303",
+    "advice": "アボカドの皮を破らない様に♪",
+    "history": "アボカドの可愛い形をそのまんま使いたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": [
+        "アボカドグラタン 3位"
+    ],
+    "related_keywords": [
+        "アボカド グラタン",
+        "アボカドそのまんまグラタン"
+    ],
+    "tsukurepo_count": "147",
+    "thumbnail": "https://img.cpcdn.com/recipes/336303/100x141c/95970fbb039c1e2f84e6841ba5991b66.jpg?u=379053&p=1214214847"
+}

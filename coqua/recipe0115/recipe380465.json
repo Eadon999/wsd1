@@ -1,0 +1,51 @@
+{
+    "name": "にんにくの芽と海苔のナムル風",
+    "author": {
+        "@type": "Person",
+        "name": "じゅん１３"
+    },
+    "image": "https://img.cpcdn.com/recipes/380465/464x260/b0c5514e8eedf14b1768c83131f31042.jpg?u=258977&p=1214216215",
+    "datePublished": "2007-05-28",
+    "description": "レンジでできます。シャキシャキのにんにくの芽に海苔のうまみ。韓国風の和え物です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "にんにくの芽",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１枚"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆にんにくチューブ（又はパウダー）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくの芽は４ｃｍ長さに切り、耐熱容器に入れてラップをし、レンジ（６００Ｗ）でまず１分加熱します。",
+        "一旦取り出して混ぜ、もう一度レンジで１分～１分半、お好みの食感になるまで加熱します。",
+        "☆の材料で和えて冷まし、ちぎった海苔を加えて混ぜます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "380465",
+    "advice": "調味料は全て小さじ１より少なかったので、詳しく表記していませんが、お好みで加減してください。味付けにお好みで醤油やラー油、コチュジャンなどを加えてみてもおいしいです。",
+    "history": "にんにくの芽で簡単に一品。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にんにくの芽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにくの芽 ナムル"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/380465/100x141c/d09cd0f4ebf4a60af07b32598483656a.jpg?u=258977&p=1214216215"
+}

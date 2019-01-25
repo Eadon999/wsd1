@@ -1,0 +1,51 @@
+{
+    "name": "砂肝が美味いっ酢！",
+    "author": {
+        "@type": "Person",
+        "name": "beruba"
+    },
+    "image": "https://img.cpcdn.com/recipes/292755/464x260/6b3ffaf0f3aa54a91d26c7c0f847ba13.jpg?u=58352&p=1214213886",
+    "datePublished": "2006-10-21",
+    "description": "ホントに簡単、茹でて切って漬けるだけ、失敗なんか絶対無い、食べてビックリ、箸が止まらない♪",
+    "recipeYield": "１家族分",
+    "recipeIngredient": [
+        {
+            "name": "砂肝",
+            "quantity": "１２～１５個"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "●砂糖＜隠し味＞",
+            "quantity": "小匙半分"
+        }
+    ],
+    "recipeInstructions": [
+        "丸ごと茹でて下さい１０分～１５分、多少中が赤くても大丈夫です。今回は画像の２倍ですよ♪",
+        "茹でている間に調味料全部合わせて置きます。",
+        "こんな感じに切ってタレに漬け込むだけ、直ぐ食べられます。翌日も美味しくいただけますよ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "292755",
+    "advice": "ご飯にもお酒にも合います、お客様が有る時は便利なメニュー、安価で作り置き出来て言う事なし♪",
+    "history": "３０年前に、お酒好きのお友達が教えてくれました。因みにうちはあまりお酒を飲みません（笑）",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/砂肝"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "砂肝"
+    ],
+    "tsukurepo_count": "304",
+    "thumbnail": "https://img.cpcdn.com/recipes/292755/100x141c/6862ad4ebb3bff278096e7ee501361d6.jpg?u=58352&p=1214213886"
+}

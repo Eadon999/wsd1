@@ -1,0 +1,56 @@
+{
+    "name": "ほうれん草とツナのバター炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2770725/464x260/a1c3ff15169b576f0d4a87222d19685d.jpg?u=9552524&p=1409047920",
+    "datePublished": "2014-08-27",
+    "description": "ツナのお出汁が絡んだほうれん草～♪めちゃウマ♡(^^♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１８０g（１束）"
+        },
+        {
+            "name": "ツナ缶(小)",
+            "quantity": "８０g"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２パック"
+        },
+        {
+            "name": "バター(マーガリン可)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草はサッと塩茹でし冷水にとって水気をしっかり絞って４㎝長さに切る。しめじはほぐす。ツナ缶は缶汁を切っておく。",
+        "フライパンにバターを熱し、しめじとツナを炒めます。",
+        "しめじに火が通ったらほうれん草を加えてサッと炒め合わせ★を加えて味を整えます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2770725",
+    "advice": "ほうれん草を茹でる時は沸騰した湯でサッと茹でてすぐに冷水にとってね(^^♪ツナに塩気があるので好みですが、塩コショウは少しでOKです♡",
+    "history": "鉄分補給に♪たくさん食べたい時は炒めちゃいます(^^♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 バター炒め ツナ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2770725/100x141c/d36276d8a183ca7f4b3c7e588682c063.jpg?u=9552524&p=1409047920"
+}

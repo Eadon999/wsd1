@@ -1,0 +1,59 @@
+{
+    "name": "旨いよ☆かぼちゃのツナ味噌サラダ ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/277421/464x260/d2cb24d2bf3cf4e36255aaadb9a92ea3.jpg?u=57297&p=1214213531",
+    "datePublished": "2006-08-29",
+    "description": "《ほんのり甘くてピリッとしてるよ♪》",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/8"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "ソース：ツナ大匙１くらい、味噌小匙１、砂糖小匙２、マヨネーズ小匙２粒マスタード小匙１",
+        "かぼちゃ1/8くらい、ダイスに切って少しの水を注しラップして2～3分チン(量によるけど）",
+        "ソースを絡めて出来上がり～"
+    ],
+    "cookTime": null,
+    "recipe_id": "277421",
+    "advice": "チンしてタレと混ぜるだけ。もう一品のお助けレシピです。これだけ食べても後引くけどね(^m^*)",
+    "history": "かぼちゃって無償に食べたくなる事あります(*^ｍ^)o",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ",
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "ツナ",
+        "味噌",
+        "砂糖"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/277421/100x141c/96f897617793d2fb3e3b8f39229c062f.jpg?u=57297&p=1214213531"
+}

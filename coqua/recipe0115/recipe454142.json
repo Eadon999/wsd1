@@ -1,0 +1,58 @@
+{
+    "name": "✿厚揚げホイコーロー✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/454142/464x260/5eb091ebea2314aa16c5c0167fcc18a2.jpg?u=271833&p=1263571579",
+    "datePublished": "2007-11-04",
+    "description": "お肉の代わりに厚揚げを使ったホイコーロー風の炒め物です。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "大1枚"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "3個"
+        },
+        {
+            "name": "☆中華あじ",
+            "quantity": "小さじ2弱"
+        },
+        {
+            "name": "☆甜麺醤(テンメンジャン)",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げ・キャベツ・ピーマンはそれぞれ食べやすい大きさに切る。",
+        "フライパンに油を熱し、キャベツとピーマンを強火で炒める。しんなりしてきたら厚揚げも加えて軽く炒める。",
+        "火を弱め、☆を加えて更に炒める。調味料が全体によくなじんだら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "454142",
+    "advice": "調味料の分量は、お好みに応じて加減して下さい。",
+    "history": "豚肉の代わりに厚揚げを使って作ったホイコーロー風の炒めもの。 ヘルシー＆安上がりな一品です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "キャベツ",
+        "ピーマン",
+        "中華あじ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/454142/100x141c/b061639baa962d80d0e10deed5d4f433.jpg?u=271833&p=1263571579"
+}

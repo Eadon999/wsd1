@@ -1,0 +1,67 @@
+{
+    "name": "ツンとしないおふの酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "夢夢555"
+    },
+    "image": "https://img.cpcdn.com/recipes/3372067/464x260/13d789d28cc409a3eb1a3f32c825395d.jpg?u=4527450&p=1488195667",
+    "datePublished": "2015-09-17",
+    "description": "お酢が苦手な人におすすめ～優しい味の酢の物です〰♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "胡瓜",
+            "quantity": "1本"
+        },
+        {
+            "name": "お麩",
+            "quantity": "適量"
+        },
+        {
+            "name": "○水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○顆粒だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "胡瓜を輪切にして、塩少々振りかけとく。",
+        "おふは、耐熱容器に水ひたひたかぶる位入れレンジで約30秒チンする。\n（おふの量に合わせてください）",
+        "おふは、ザルに上げ硬くしぼってください。",
+        "○調味料を耐熱容器に入れ20秒チンしてください。\nよくかき混ぜます。",
+        "①の胡瓜を硬くしぼり、③のおふと④の調味料を合わせて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3372067",
+    "advice": "きゅうりにかける塩はそのまま使うので、沢山かけないでね；",
+    "history": "お酢が苦手(・_;)でも身体に酢の物良いので、ツンとしない優しい味にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": [
+        "おふ 9位"
+    ],
+    "related_keywords": [
+        "おふ 酢の物"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3372067/100x141c/48fafb755ca8ec94dd44377ca1e5ea7b.jpg?u=4527450&p=1488195667"
+}

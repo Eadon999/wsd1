@@ -1,0 +1,53 @@
+{
+    "name": "即席！しいたけの青のりマヨチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "meguo2929"
+    },
+    "image": "https://img.cpcdn.com/recipes/2824465/464x260/50113ca47deee454679865ec6f4f74ec.jpg?u=5616121&p=1412432845",
+    "datePublished": "2014-10-04",
+    "description": "ビールのおつまみに最高！マヨチーズと青のりでビールがすすむすすむ（笑）冷めても美味しいのでお弁当にも♬",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "6個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけは石づきを切り、内側にマヨネーズとピザ用チーズをのせる。グリル（中火）で7、8分焼く。",
+        "①に青のりをかけ、お好みで醤油をたらす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2824465",
+    "advice": "肉厚のしいたけで是非♬",
+    "history": "お友達がおつまみにとご馳走してくれとても美味しかったので、青のり+でアレンジしたら更にgood^^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ",
+        "マヨネーズ",
+        "ピザ用チーズ",
+        "青のり"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2824465/100x141c/a770cb7e6966c40acf81a562a30ba8b4.jpg?u=5616121&p=1412432845"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "かぶの優しいミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "みるすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/307666/464x260/7cd381ffde542440c108fa6d53bce5be.jpg?u=60852&p=1214214234",
+    "datePublished": "2006-12-05",
+    "description": "かぶと牛乳の優しい甘さがおいしいシンプルなスープです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "５個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "２個"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは皮をむいて６等分のくし切りにする。ベーコンは５ｍｍ幅に切る。にんにくはみじん切り。",
+        "鍋にサラダ油とにんにくを入れ熱し、香りが出たらベーコンを入れ炒め、かぶも入れ炒める。",
+        "２へ水とコンソメを入れ、かぶがやわらかくなるまで煮る。",
+        "３へ牛乳・バター・を入れ塩コショウで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "307666",
+    "advice": "寒い日はやわらか～く煮たかぶのあったかスープで、暖まってくださいね。牛乳を入れてからは、煮立てない様に気を付けて・・・",
+    "history": "かぶを使って簡単なスープを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ ミルクスープ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/307666/100x141c/62421d6f5595a3570bf726b43c3740b6.jpg?u=60852&p=1214214234"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "【農家のレシピ】バジルドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1242449/464x260/3eb82f22566084d23df6f28464677a18.jpg?u=2513693&p=1285421640",
+    "datePublished": "2010-09-26",
+    "description": "ビンに材料を入れてシェイクするだけ！このドレッシングでトマトを食べると本格的なイタリアンの味です♪ ",
+    "recipeYield": "約150ｃｃ",
+    "recipeIngredient": [
+        {
+            "name": "バジルの葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "サラダ油又はオリーブ油",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "バジルの葉とニンニクはみじん切りにします\r\n",
+        "ビンなどのフタのついた容器にバジルとニンニクと調味料全て入れて、シェイクして出来上がり！\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1242449",
+    "advice": "",
+    "history": "イタリアン料理店で食べたトマトサラダを思い出して作りました。バルサミコ酢とニンニクとトマトの相性はばっちしです！",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング",
+        "その他/スパイス＆ハーブ/バジル"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "バジルドレッシング",
+        "イタリアンドレッシング 本格的"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/1242449/100x141c/450a88320c4b61722855b524cf99c50b.jpg?u=2513693&p=1285421640"
+}

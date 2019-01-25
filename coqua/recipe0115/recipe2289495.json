@@ -1,0 +1,67 @@
+{
+    "name": "超簡単☆海苔とわかめの黒々スープ",
+    "author": {
+        "@type": "Person",
+        "name": "kyumitama"
+    },
+    "image": "https://img.cpcdn.com/recipes/2289495/464x260/aea7dfd624cbdb36e58c61e6437ee7a0.jpg?u=7246703&p=1374123540",
+    "datePublished": "2013-07-18",
+    "description": "食材5色のうち最も不足しがちな「黒」をおいしく簡単に食べられる中華スープです^ ^",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ふえるわかめ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "2〜3枚"
+        },
+        {
+            "name": "水",
+            "quantity": "400ml"
+        },
+        {
+            "name": "鶏ガラスープ(顆粒)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "白ごま、白髪ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "焼き海苔を適当な大きさにちぎります。",
+        "鍋にちぎった海苔、わかめ、水、鶏ガラスープを入れ火にかけます。",
+        "煮立って、海苔がとろとろになれば火を止め、塩こしょうで味を整えます。",
+        "ごま油をたらし、お好みで白ごまや白髪ねぎをトッピングすれば出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2289495",
+    "advice": "わかめや鶏ガラスープには塩気があるので、塩＆こしょうをする際は必ず味見をしてからにしましょう♪",
+    "history": "みそ汁を作ろうと冷蔵庫を見ると、味噌を切らしていたもので^^; ずぼら主婦の即興料理です！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き海苔",
+        "水",
+        "鶏ガラスープ",
+        "こしょう"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2289495/100x141c/6f4db02ac4b84d63691cc6f1fde942ac.jpg?u=7246703&p=1374123540"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "シリコンスチーマーで簡単あさりの酒蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ひささま"
+    },
+    "image": "https://img.cpcdn.com/recipes/2149932/464x260/beb08f81259afb80df47abda214fb7c5.jpg?u=3393895&p=1363011950",
+    "datePublished": "2013-03-11",
+    "description": "電子レンジでチン！そのまま食卓へ～♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "あらかじめあさりを砂出しをしておく。",
+        "シリコンスチーマーに材料をすべて入れて、ふたをして電子レンジに600ｗ2分30秒チン♪",
+        "あさりの口が完全に開いたら出来上がり。（あさりの口が開いてない場合加熱追加して）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2149932",
+    "advice": "レンジ加熱中ふきこぼれに注意！",
+    "history": "洗い物が少なく簡単に作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり",
+        "その他/調理器具/シリコンスチーマー/シリコンスチーマーでおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさりの酒蒸し シリコンスチーマー"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2149932/100x141c/56370ef06d3f401e5234c050ecf96a2e.jpg?u=3393895&p=1363011950"
+}

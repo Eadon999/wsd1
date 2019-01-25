@@ -1,0 +1,56 @@
+{
+    "name": "エリンギとハムのバター醤油ソテー",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2380852/464x260/e46466f5e14424810bebb4d0842e9f3a.jpg?u=603745&p=1447810189",
+    "datePublished": "2013-10-20",
+    "description": "とても簡単に出来る付け合わせです♪脇役にはもちろん、お弁当に使えます♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "1枚"
+        },
+        {
+            "name": "マーガリン",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは石づきを取り、スライスします。\nハムも細めに切っておきます。",
+        "マーガリンをフライパンに乗せて火をかけ、溶かします。",
+        "エリンギを炒めます。",
+        "エリンギがしんなりしてきたらハムを加えます。",
+        "塩コショウと醤油で味付けをします。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2380852",
+    "advice": "",
+    "history": "余ったエリンギを使って付け合わせにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "ハム",
+        "マーガリン",
+        "醤油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2380852/100x141c/7ac08d66f01b5e1861980f5b5a3d0365.jpg?u=603745&p=1447810189"
+}

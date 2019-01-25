@@ -1,0 +1,48 @@
+{
+    "name": "ごま和えのごま味噌",
+    "author": {
+        "@type": "Person",
+        "name": "tobimama"
+    },
+    "image": "https://img.cpcdn.com/recipes/252633/464x260/a2f6c2767c44b0ea6bca073abcca1807.jpg?u=211647&p=1374065775",
+    "datePublished": "2006-05-06",
+    "description": "作っておくと便利なので多めに作って、ベースにしていろいろアレンジしてます。山菜・ほうれん草のごま和え・炒め物の味付けなど…(^_^)「１００万人が選んだ大絶賛おかず」の本に「ごま和えのごま味噌」を載せて頂き有り難うございますm(__)m",
+    "recipeYield": "１回分",
+    "recipeIngredient": [
+        {
+            "name": "味噌",
+            "quantity": "300g"
+        },
+        {
+            "name": "みりん",
+            "quantity": "50g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "100g"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "100g"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に味噌、本みりん、砂糖を入れ強火で練ります。照りが出て滑らかになったら中火にします。",
+        "１に煎ったすりごまを入れ中火のままよく混ぜて練り合わせる。熱いのでやけどに注意！",
+        "火を止め冷ましてから、野菜と和える。残りを容器に入れ保存する。\r\n",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "252633",
+    "advice": "すりごまを煎ると風味が増します。使用する味噌によって塩分が違うので、お好みで調味料を加減して下さい！加熱した味噌はとても熱いので、やけどに注意してください・",
+    "history": "山菜の和え物に使うために作っておきます。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大絶賛おかず"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/252633/100x141c/6f167a585aacf469d55c3b3ac56c7939.jpg?u=211647&p=1374065775"
+}

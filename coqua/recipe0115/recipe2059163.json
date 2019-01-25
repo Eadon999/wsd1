@@ -1,0 +1,49 @@
+{
+    "name": "白菜おかかサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "nojihana"
+    },
+    "image": "https://img.cpcdn.com/recipes/2059163/464x260/52cb3b68143d5eabb4ca96d1a71fd9a5.jpg?u=1838289&p=1355648369",
+    "datePublished": "2012-12-16",
+    "description": "後１品！というときにこのサラダです。ダイエットな夜にも強い見方ですよ！",
+    "recipeYield": "5皿分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/8本"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "1パック"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "細く刻んだ白菜にかつお節、ゴマ、ポン酢をかけてしんなりするまで待つ。",
+        "出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2059163",
+    "advice": "",
+    "history": "実家の母の定番料理でした。最近私はダイエットな日はこれを作って食べています。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜おかかサラダ",
+        "白菜サラダ ダイエット",
+        "夜 ダイエット",
+        "白菜おかか"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2059163/100x141c/1eca752ccac99c24a27b08bb1c449ce2.jpg?u=1838289&p=1355648369"
+}

@@ -1,0 +1,82 @@
+{
+    "name": "合計127円！厚揚げともやしの中華炒め★",
+    "author": {
+        "@type": "Person",
+        "name": "かぼちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/258256/464x260/8d0b845f898da53af34f39d0a83f0719.jpg?u=58787&p=1214213099",
+    "datePublished": "2006-06-04",
+    "description": "厚揚げ98円＋もやし29円＝127円！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★中華スープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "50ml"
+        },
+        {
+            "name": "★チューブのおろししょうが",
+            "quantity": "３～４cmくらい"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "★印の調味料をあらかじめ混ぜておく。",
+        "フライパンにごま油を熱し、もやしと適当な大きさに切った厚揚げをさっと炒め、塩コショウする。",
+        "２のフライパンに１の調味料を入れ、とろみがついたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "258256",
+    "advice": "「もやしはシャキシャキが好き！」という方は、もやしを炒める時間を少なめにしてください！",
+    "history": "「厚揚げ」も「もやし」も本日のお買い得品でした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "もやし",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/258256/100x141c/6f48a7f4df807d833f10b4206fcda0b5.jpg?u=58787&p=1214213099"
+}

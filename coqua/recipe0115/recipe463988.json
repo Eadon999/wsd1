@@ -1,0 +1,45 @@
+{
+    "name": "ヤーコンの味噌漬",
+    "author": {
+        "@type": "Person",
+        "name": "ゆっこっこー"
+    },
+    "image": "https://img.cpcdn.com/recipes/463988/464x260/7492149ab275055bc7f4c0253a9fe96f.jpg?u=347121&p=1214217879",
+    "datePublished": "2007-11-22",
+    "description": "ヤーコンの甘みと味噌の風味がおいしいシャキシャキ漬物です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ヤーコン",
+            "quantity": "中1本"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ヤーコンは皮をむいて縦半分にスライスし、10分ほど水につけてアクをぬく。",
+        "ビニール袋に味噌と酒を入れ、混ぜ合わせる。",
+        "水気を拭いたヤーコンを2のビニール袋に入れ、味噌をよくなじませる。\r\n袋の空気を抜いて、１晩以上漬ける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "463988",
+    "advice": "■水にさらし、アクを抜いてから漬けましょう！■味噌はお好みのものでどうぞ。",
+    "history": "祖母に教えてもらいました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/ヤーコン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ヤーコン 漬物",
+        "ヤーコン 味噌漬け",
+        "ヤーコン"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/463988/100x141c/b232a2a84bd015924ba3adad9da70e0a.jpg?u=347121&p=1214217879"
+}

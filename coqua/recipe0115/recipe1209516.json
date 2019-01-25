@@ -1,0 +1,53 @@
+{
+    "name": "さつまいも～はママの味～♪",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1209516/464x260/1916d07def86339d32cd88fc15762c94.jpg?u=268332&p=1281650632",
+    "datePublished": "2010-08-13",
+    "description": "2015*9*9話題入り♡ママの作るさつまいも煮はとってもおいしかった！お弁当にも、夕飯にも登場したママの味～♪",
+    "recipeYield": "１～２人",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "１本（極小）"
+        },
+        {
+            "name": "砂糖、みりん",
+            "quantity": "各小１"
+        },
+        {
+            "name": "粉末だし",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小１/２弱"
+        },
+        {
+            "name": "水",
+            "quantity": "ひたひた"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもをよく洗い輪切りにして鍋に入れる。",
+        "水をひたひたに入れて調味料を入れる。弱火の強めで１０分ほど煮汁がほとんどなくなるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1209516",
+    "advice": "隠し味程度にだしや醤油が入っているので食べやすいです♪皮が嫌な人はむいてＯＫ！",
+    "history": "お弁当によく入っていたさつまいもの甘煮♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "粉末だし",
+        "しょうゆ",
+        "水"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1209516/100x141c/fd39c9a94da682b56e58af1f2aa5fe7f.jpg?u=268332&p=1281650632"
+}

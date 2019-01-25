@@ -1,0 +1,80 @@
+{
+    "name": "牛肉と水菜のまろやかしぐれ丼",
+    "author": {
+        "@type": "Person",
+        "name": "莉愛魁羚"
+    },
+    "image": "https://img.cpcdn.com/recipes/1642404/464x260/453450407a346a6bf0be58ff21446bfa.jpg?u=2532346&p=1323005980",
+    "datePublished": "2011-12-04",
+    "description": "生卵の卵黄部分を入れるとまろやかな味に♪",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉小間切れ",
+            "quantity": "300グラム"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "2個"
+        },
+        {
+            "name": "水菜",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "★すりおろし生姜",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "180cc"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "80cc"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "80cc"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "卵(卵黄部分)",
+            "quantity": "3〜4個"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰したお鍋に牛肉を入れてさっと茹で、お皿に一度取り出し、お鍋の中の茹で汁を捨てる。",
+        "あくを取り除いたお鍋に★の材料を全て入れ、火にかけ玉葱、あらかじめ茹でておいた牛肉をお鍋に戻す。",
+        "まんべんなく汁を全体にかけ、落し蓋をして弱火でしばらく煮込む。\n",
+        "玉葱の色が茶色くなり味が染み込めば、ご飯の上に水菜を盛り、その上に牛肉と玉葱を盛り付ける。",
+        "お好みで生卵(卵黄部分)、白ごま、ネギをのせて下さい。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1642404",
+    "advice": "牛肉はあくが出るのであらかじめ、茹でておく。",
+    "history": "うどんに合う丼が欲しかったので、これにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉小間切れ",
+        "玉葱",
+        "水菜",
+        "すりおろし生姜"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1642404/100x141c/91a44c1812f681d52dce35c61329d210.jpg?u=2532346&p=1323005980"
+}

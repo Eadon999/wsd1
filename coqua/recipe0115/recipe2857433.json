@@ -1,0 +1,48 @@
+{
+    "name": "加賀れんこんの天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2857433/464x260/018986527cc4b2043f736df360581d47.jpg?u=3099986&p=1414490282",
+    "datePublished": "2014-10-28",
+    "description": "加賀野菜・加賀れんこんで作りました。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "１節"
+        },
+        {
+            "name": "天ぷら粉＋水",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "加賀れんこん。",
+        "洗って皮をむき、輪切りにする。",
+        "天ぷら粉を水でといたものをつけて、サラダ油を熱して揚げる。",
+        "キッチンペーパーの上において、油をきる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2857433",
+    "advice": "市販の天ぷら粉で簡単。",
+    "history": "金沢の旅行で加賀れんこんを買ったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": [
+        "れんこん天ぷら 5位"
+    ],
+    "related_keywords": [
+        "加賀れんこん",
+        "れんこん 天ぷら",
+        "レンコンの天ぷら"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2857433/100x141c/0ac0a4297bdd8bd3a07f0d23921526be.jpg?u=3099986&p=1414490282"
+}

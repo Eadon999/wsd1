@@ -1,0 +1,51 @@
+{
+    "name": "デリ風★リンゴとさつまいものサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "とむまろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/226347/464x260/4b3a1826ddc33bfcd36ea12389774478.jpg?u=49307&p=1285904551",
+    "datePublished": "2005-11-15",
+    "description": "マヨで和えるだけ！の簡単DELI風サラダです。マスタードがアクセント♪カレーの付け合せに合います♪",
+    "recipeYield": "2～４人分",
+    "recipeIngredient": [
+        {
+            "name": "りんご",
+            "quantity": "１個"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは厚さ1センチの輪切りにして水にさらし　耐熱皿に並べラップをして5分チン。",
+        "りんごと１のさつまいもをいちょう切り又はサイコロ状に切る。食感を楽しむために厚めに切ってOK。",
+        "マヨネーズとマスタード、黒こしょうで和えてできあがり！マヨネーズは多い方がクリーミーでおいしいです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "226347",
+    "advice": "お子様にはマスタード抜きで♪",
+    "history": "ママがピクニックの時持ってきてくれて以来、わたしの大好物です。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも りんご サラダ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/226347/100x141c/28dbdabaeb6303bbb94f29a706a937eb.jpg?u=49307&p=1285904551"
+}

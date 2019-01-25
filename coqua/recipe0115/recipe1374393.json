@@ -1,0 +1,50 @@
+{
+    "name": "菜の花のカレーたまごサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "るびにゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1374393/464x260/564685f5bc15adcb8a0d4b7bd90bd5d2.jpg?u=1584158&p=1488865925",
+    "datePublished": "2011-02-28",
+    "description": "菜の花で春らしいサラダ♪たまごとマヨネーズで苦味が和らぎます♪お子さまでも、苦くない。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "１/２束（パックの半分）"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花は、さっと湯がいて、水気をよく絞り、４ｃｍに切ります。\nゆで卵は、固ゆでにしてみじん切りにします。",
+        "ゆで卵、マヨネーズ、カレー粉を混ぜ合わせ、菜の花を入れて、さっくり混ぜます。",
+        "ゆで卵をみじん切りにする時に卵黄は、ボウルに入れて混ぜるときにつぶすとまな板が汚れません（笑）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1374393",
+    "advice": "菜の花は、ゆですぎないでください。",
+    "history": "娘が、菜の花の苦味が苦手だというので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "ゆで卵",
+        "マヨネーズ",
+        "カレー粉"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1374393/100x141c/dfd50f1f266fdcc88b564c0112b4a975.jpg?u=1584158&p=1488865925"
+}

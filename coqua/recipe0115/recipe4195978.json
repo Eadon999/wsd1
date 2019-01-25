@@ -1,0 +1,79 @@
+{
+    "name": "レンジで簡単！海老焼売チリ玉丼",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4195978/464x260/f7475a0fc6e706dd7a8de23576a5f252.jpg?u=4376699&p=1479781155",
+    "datePublished": "2016-11-24",
+    "description": "エビ焼売で簡単エビチリ丼",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ焼売",
+            "quantity": "5個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "こさじ1/4"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "5mm"
+        }
+    ],
+    "recipeInstructions": [
+        "卵にマヨを混ぜて溶いてレンジ600w50秒チン\nたれと焼売を混ぜてラップしてレンジ1分半チン\n",
+        "水溶き片栗粉を加えて15秒チン",
+        "卵と混ぜてご飯に掛けて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4195978",
+    "advice": "卵の半熟具合はお好みで",
+    "history": "余った焼売でエビチリ風丼にしてみました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビチリ 卵 丼"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4195978/100x141c/00b51c4cec4631a8f3d227685d3cbde3.jpg?u=4376699&p=1479781155"
+}

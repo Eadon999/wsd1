@@ -1,0 +1,50 @@
+{
+    "name": "玉葱と人参のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "☆☆☆かなこ☆☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/4492546/464x260/83728eb0de914a54a04afb27a0b08ee4.jpg?u=5753012&p=1493179998",
+    "datePublished": "2017-04-26",
+    "description": "洋の場合の汎用できるスープです。",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "固形１ヶ（顆粒なら小２）"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/２ヶ"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/4本"
+        }
+    ],
+    "recipeInstructions": [
+        "火加減の指示のない調理は鍋底に火が当たらないギリ火で調理します。\nギリ火の説明はこちら！レシピID : 4525332",
+        "玉葱をスライスする。（スライサーを使用すると早いです）",
+        "人参をスライスし、適当な幅にカットする。",
+        "鍋に材料をすべていれ、しんなりするまで火にかける。",
+        "盛り付ける。",
+        "\n同じ味付けで他にも料理ができる！\n簡単汎用レシピを一覧で載せてます！\nレシピID : 4530879"
+    ],
+    "cookTime": null,
+    "recipe_id": "4492546",
+    "advice": "沸騰さし続けないよう、なべ底に火が当たらない火加減で作る。（煮詰まりを防ぐ）",
+    "history": "洋の場合の汁物に具材を変えて色々バリエーションを持てます。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コンソメスープ 洋風"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/4492546/100x141c/1ebced3c1d4db174a96314c558d34f61.jpg?u=5753012&p=1493179998"
+}

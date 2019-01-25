@@ -1,0 +1,67 @@
+{
+    "name": "オッサンの焼き茄子サラダごま風味",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/3167784/464x260/60aba47a840be0ea4ec661461ccac28c.jpg?u=3323767&p=1431860633",
+    "datePublished": "2015-05-12",
+    "description": "茄子が主役のサラダです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参",
+            "quantity": "５センチ"
+        },
+        {
+            "name": "レタス",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎麺つゆ",
+            "quantity": "大さじ0.5"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは表面に切れ目を入れ、食べやすい大きさに切ります。人参は薄く切ります。",
+        "フライパンにゴマ油を敷き、１を揚げ焼きにして、冷ましておきます。",
+        "◎を全て入れ、よく混ぜておきます。",
+        "器にレタスと２の茄子・人参を盛り付け、３のドレッシングを掛けたら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3167784",
+    "advice": "茄子を揚げ焼きする時は、皮の方から焼いた方が良いと思います。茄子は火を通すと小さくなるので、量を増やしても大丈夫です。人参は彩りなので、無くても良いです。",
+    "history": "実家から茄子を貰ってきたので、大好きなゴマ風味に仕上げてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "人参",
+        "レタス",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3167784/100x141c/b06259c7904662078a65e7fc7bf38bb8.jpg?u=3323767&p=1431860633"
+}

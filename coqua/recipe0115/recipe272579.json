@@ -1,0 +1,53 @@
+{
+    "name": "✿千切りポテト＆ハム炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/272579/464x260/9f56ce45e290b8197b5d60a77941b926.jpg?u=226453&p=1214213428",
+    "datePublished": "2006-08-08",
+    "description": "ただ切って炒めるだけ！味付けもシンプルですがなんか美味しい♪ ",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "１個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大１"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は千切りにして水につけてアクぬきします。ハムも千切りにします。",
+        "フライパンに油をひいて水気をきったじゃが芋を炒め、少しシャキシャキ感が残ってるくらいにハムを加え塩こしょうします。",
+        "さっと炒めたらパセリと白ゴマを加え混ぜ出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "272579",
+    "advice": "特にありません",
+    "history": "あと１品簡単なものが作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム じゃがいも",
+        "じゃがいも ハム 炒め",
+        "じゃがいも 千切り"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/272579/100x141c/5f7e1ceb5482ffe71828111e6b196f01.jpg?u=226453&p=1214213428"
+}

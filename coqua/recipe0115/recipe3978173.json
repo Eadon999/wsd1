@@ -1,0 +1,55 @@
+{
+    "name": "プチプチ！コーンと玉ねぎの天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "うららまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/3978173/464x260/1e08de91978d3fe305e71a169778d786.jpg?u=13881000&p=1468585025",
+    "datePublished": "2016-07-15",
+    "description": "7/18話題入り感謝！とうもろこしが残ってたら、一口サイズの天ぷら♪プチプチ食感とコーンの甘さが美味しいよ",
+    "recipeYield": "12〜3個",
+    "recipeIngredient": [
+        {
+            "name": "とうもろこし",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "小麦粉(薄力粉)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "とうもろこしは生でも茹でたものでもOK。実を外す。玉ねぎはみじん切りにする",
+        "ボールに小麦粉と水を入れ溶いたら、①を入れ塩コショウし、混ぜる。",
+        "中温〜高温の油の中にスプーンでタネを落とし、カリッと揚げる",
+        "塩をふってどうぞ〜"
+    ],
+    "cookTime": null,
+    "recipe_id": "3978173",
+    "advice": "揚げ油は少量でも大丈夫です。タネを落としたら、固まるまで触らないとバラバラになりません",
+    "history": "茹でたとうもろこしが半分残ったので、天ぷらにしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ てんぷら",
+        "コーン 天ぷら",
+        "とうもろこし てんぷら",
+        "コーン 天ぷら 小麦粉"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/3978173/100x141c/4bcb0a17a1bd6b8550da6837abdb09d6.jpg?u=13881000&p=1468585025"
+}

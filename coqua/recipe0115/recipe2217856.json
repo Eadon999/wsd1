@@ -1,0 +1,68 @@
+{
+    "name": "カレイのムニエル♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2217856/464x260/378343007205ac646e5361e053a04490.jpg?u=603745&p=1447763134",
+    "datePublished": "2013-05-10",
+    "description": "カレイの切り身で簡単ムニエル♪フライパン１つで出来あがります☆ご飯にも良く合う絶品おかずです!!",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "カレイの切り身",
+            "quantity": "２枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "パセリ（飾り用）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "カレイの切り身に塩コショウを振ります。（今回は切り身を半分にカットしました）",
+        "まんべんなく小麦粉を塗します。",
+        "フライパンに油を入れてカレイを焼いていきます。\n両面キツネ色になるように焼きます。",
+        "強火にして、☆の調味料を加えて一瞬に加熱し、火を止めます。",
+        "お皿に移し、お好みでパセリを振りかけます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2217856",
+    "advice": "",
+    "history": "安かったカレイの切り身を使って、簡単にムニエルにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かれい"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレイ ムニエル",
+        "カレイ 切り身 ムニエル",
+        "カレイ",
+        "カレイ ムニエル 簡単"
+    ],
+    "tsukurepo_count": "169",
+    "thumbnail": "https://img.cpcdn.com/recipes/2217856/100x141c/21f0f47538ac067b125722ef9e8ff31d.jpg?u=603745&p=1447763134"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "豚肉と筍ピーマンのピリ辛炒め！",
+    "author": {
+        "@type": "Person",
+        "name": "りねりね"
+    },
+    "image": "https://img.cpcdn.com/recipes/632408/464x260/50eb83d954df1404aa53df689d645fb3.jpg?u=42466&p=1271587204",
+    "datePublished": "2008-08-29",
+    "description": "豚肉と、筍、ピーマンを醤油味のピリ辛い炒め物です！ビールのアテにも！ご飯にもピッタリです！",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "筍",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "４個"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "●鶏ガラスープの素",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "●一味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小匙２"
+        }
+    ],
+    "recipeInstructions": [
+        "筍、ピーマンは適当な短冊切りにします。\r\n豚肉は食べやすい大きさに切ります。",
+        "フライパンを熱してごま油を敷き、豚肉を炒め、酒をかけて炒めます。",
+        "豚肉の色が変わったら、筍とピーマンを加えて炒め、醤油、塩コショウ、鶏ガラスープの素で味付けをします。",
+        "最後に一味唐辛子を加えて味をみて炒めたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "632408",
+    "advice": "一味唐辛子はお好みで加減してくださいね。",
+    "history": "子供の頃から母に作ってもらってた大好きなおかずです。ピリっと辛くてご飯によく合います！ビールのアテにもなりますよ～！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "筍",
+        "ピーマン",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/632408/100x141c/49bcb77635a15c34f890e4adaf881aee.jpg?u=42466&p=1271587204"
+}

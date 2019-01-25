@@ -1,0 +1,49 @@
+{
+    "name": "♫簡単♫　うなぎのタレ",
+    "author": {
+        "@type": "Person",
+        "name": "☆ままちゃん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1713573/464x260/005aef8491a81a7570837fd006beda4d.jpg?u=2290797&p=1329823134",
+    "datePublished": "2012-02-21",
+    "description": "スーパーで買う鰻の付属のタレって、いつも足りない！というわけで、おうちで作っちゃいました♫",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "50cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "25ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を鍋に入れる♫",
+        "少しとろみがでるまで煮詰めて、出来上がり♫"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1713573",
+    "advice": "",
+    "history": "うなぎのタレが大好き♫買わずに自分で作りたい！と思って試行錯誤。。。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "醤油",
+        "みりん",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1713573/100x141c/ff2679245eda36255757c86f31f51c85.jpg?u=2290797&p=1329823134"
+}

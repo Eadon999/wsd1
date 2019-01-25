@@ -1,0 +1,45 @@
+{
+    "name": "なめたけやっこ～ごま油で♥",
+    "author": {
+        "@type": "Person",
+        "name": "rahane"
+    },
+    "image": "https://img.cpcdn.com/recipes/356157/464x260/ecc3de5121683d4eee44821e8a6232f6.jpg?u=231180&p=1214215275",
+    "datePublished": "2007-04-07",
+    "description": "あと一品に、ちゃちゃっとできます。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "50グラム"
+        },
+        {
+            "name": "なめたけ",
+            "quantity": "大１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐になめたけをのせ、ごま油を少量たらすだけ。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "356157",
+    "advice": "ごま油をかけすぎないように注意してください。お好みで塩をパラっとかけても美味しいです。冷奴に飽きたら、温奴にしても！",
+    "history": "いつも食べているなめたけ奴に、思いつきでごま油をたらしたらグンとおいしくなったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "なめたけ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/356157/100x141c/3e6428dd1e7f6572f667795c6e861224.jpg?u=231180&p=1214215275"
+}

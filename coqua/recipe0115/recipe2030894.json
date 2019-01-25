@@ -1,0 +1,55 @@
+{
+    "name": "大根と豚バラの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "rei＊zaru"
+    },
+    "image": "https://img.cpcdn.com/recipes/2030894/464x260/42738b5eea6a32aa56d65685079761f4.jpg?u=4246845&p=1353052721",
+    "datePublished": "2012-11-16",
+    "description": "大根に味がしみしみで、ご飯がすすむ１品です！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "２００g"
+        },
+        {
+            "name": "酒　砂糖　醤油",
+            "quantity": "各大３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１．５"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "４００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は乱切り、豚肉は食べやすい大きさに切る。",
+        "お鍋にサラダ油を熱し、豚肉を入れて炒め色が変わったら大根を加えて炒める。",
+        "大根に油がなじんだら、出し汁を入れ強火。アクを丁寧に取る。",
+        "調味料を加え、落とし蓋をしたら中火で２０分~３０分、大根が柔らかくなるまで煮て出来上がり♬"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2030894",
+    "advice": "大根は小さく切ると煮崩れしやすいので、うちではかなり大きめに切ってます。",
+    "history": "実家の母からの料理、毎度ですが・・・。豚バラは実家ではブロック肉を使ってました。が私は同居してた義父母の為に薄切り肉で。どちらでも、好みの方で大丈夫！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "豚バラ薄切り肉",
+        "みりん",
+        "出し汁"
+    ],
+    "tsukurepo_count": "119",
+    "thumbnail": "https://img.cpcdn.com/recipes/2030894/100x141c/3695499348b97b100cafba58de1af5ff.jpg?u=4246845&p=1353052721"
+}

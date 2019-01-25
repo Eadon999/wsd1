@@ -1,0 +1,57 @@
+{
+    "name": "新玉ねぎとツナの♪うま煮",
+    "author": {
+        "@type": "Person",
+        "name": "REKO-tan"
+    },
+    "image": "https://img.cpcdn.com/recipes/521232/464x260/f291e6d4397be9503da5347350f063a6.jpg?u=462324&p=1214218971",
+    "datePublished": "2008-03-03",
+    "description": "調味料は２つだけ♫♬まろやかなすし酢と新玉ねぎの甘みがよく合って美味しく仕上がります！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "２個（正味３００ｇ）"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶（８０ｇ）"
+        },
+        {
+            "name": "★ミツカン　すし酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小２"
+        },
+        {
+            "name": "★水",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを食べやすい大きさに切り、鍋に入れます。",
+        "ツナを汁ごと、★の調味料も入れて火にかけ、玉ねぎがやわらかくなるまで煮たら出来上がり♪青ねぎの小口切りを散らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "521232",
+    "advice": "簡単にできます♪",
+    "history": "ミツカンのすし酢を使って旬の新玉ねぎを煮てみました！まろやかでコクも加わりとっても美味しく仕上がりました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "ツナ",
+        "ミツカンすし酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/521232/100x141c/631a7966d3ec475cdbe55f4f13d79c5b.jpg?u=462324&p=1214218971"
+}

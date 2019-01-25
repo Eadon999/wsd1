@@ -1,0 +1,51 @@
+{
+    "name": "ホウレン草と大根の赤出汁",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/2988986/464x260/121058895ec2f4878ef9d4a071e4a8d9.jpg?u=7113147&p=1479538046",
+    "datePublished": "2015-01-30",
+    "description": "簡単なお味噌汁",
+    "recipeYield": "三人分",
+    "recipeIngredient": [
+        {
+            "name": "ホウレン草",
+            "quantity": "1把"
+        },
+        {
+            "name": "大根",
+            "quantity": "三センチくらい"
+        },
+        {
+            "name": "粉末出汁",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "水",
+            "quantity": "800cc"
+        }
+    ],
+    "recipeInstructions": [
+        "お水を入れてホウレン草と大根を入れ大根が柔らかくなるまで煮る。",
+        "出汁を入れ少し味を染み込ませる。",
+        "火を止めて味噌を投入。出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2988986",
+    "advice": "",
+    "history": "家族の好きな具です(*´ω｀*)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤出汁"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/2988986/100x141c/b22171d9e995cfa4699826544a1d66b8.jpg?u=7113147&p=1479538046"
+}

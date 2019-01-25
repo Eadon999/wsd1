@@ -1,0 +1,53 @@
+{
+    "name": "茗荷入り卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2248881/464x260/137a0d2cd522e72533e66f9894fc5f23.jpg?u=2495483&p=1370581615",
+    "datePublished": "2013-06-07",
+    "description": "卵焼きに茗荷と生姜を入れました☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "茗荷",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１欠"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大匙１弱"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "茗荷を薄い輪切りに生姜をみじん切りにして材料全部を混ぜる",
+        "数回に分けて卵焼き器に流しいれて卵焼きを作る"
+    ],
+    "cookTime": null,
+    "recipe_id": "2248881",
+    "advice": "",
+    "history": "茗荷が好きなので卵焼きにも入れてみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茗荷",
+        "生姜",
+        "卵",
+        "牛乳"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2248881/100x141c/38c9c4334a97f97e85c7c908a16519f7.jpg?u=2495483&p=1370581615"
+}

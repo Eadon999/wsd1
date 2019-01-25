@@ -1,0 +1,79 @@
+{
+    "name": "焼きさんま★ピリ辛ねぎソースで。",
+    "author": {
+        "@type": "Person",
+        "name": "koumedesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/659227/464x260/1a2aabedfa13520aee995da958cde7d8.jpg?u=978405&p=1223167445",
+    "datePublished": "2008-10-05",
+    "description": "ピリ辛のガッツリ味だから食欲さらに倍増。ごはんがすすむ！ビールもすすむぅ！！さんまは油で揚げないからヘルシーだよ♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "１尾"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１※"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "８cm程度"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ねぎは粗みじん、にんにく＆しょうがは超細かいみじん切りにし、ねぎソースの材料を一気に混ぜておきます。",
+        "さんまは３枚におろし、１／３にして食べやすく。両面に小麦粉をはたきます。",
+        "フライパンに油をひき（※なるべく少なく）強火で２をカリッと両面焼きます。\n",
+        "お皿に盛って１をかけたらできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "659227",
+    "advice": "薬味は、しいていえばねぎは大さじ２杯相当、にんにく、しょうがはそれぞれ小さじ１相当。分量を変えても大勢に影響はありませんので、テキトーに好みの味にアレンジしてくださ～い。",
+    "history": "今が旬のさんまを中華風にアレンジ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "サラダ油",
+        "小麦粉",
+        "しょうが"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/659227/100x141c/0054c7b84144ff8cf94932121788d0ae.jpg?u=978405&p=1223167445"
+}

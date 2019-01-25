@@ -1,0 +1,58 @@
+{
+    "name": "美味しい☆ちくわとキャベツの塩だれ炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "jjcream"
+    },
+    "image": "https://img.cpcdn.com/recipes/1869636/464x260/7b5571ba862778c2202d9faacb416da0.jpg?u=1156502&p=1341121164",
+    "datePublished": "2012-07-01",
+    "description": "塩だれがとっても美味しくって、ごはんが進むおかずです。冷めてもおいしいので、お弁当にもいいですよ。もちろん、おつまみにも",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適宜"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツとちくわは、食べやすい大きさに切ります。\n塩だれの調味料を耐熱容器に入れ、レンジで30秒加熱し、よく混ぜます。",
+        "フライパンでキャベツとちくわを炒め、しんなりしたら、塩だれを回しかけて、さっと炒めて仕上げます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1869636",
+    "advice": "キャベツのしんなり具合、お好みで調整してくださいね。塩だれ、さっぱりが良い方は、少しお酢を加えてもおいしいです。",
+    "history": "お弁当のおかずにもなるように作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ キャベツ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1869636/100x141c/b877f8bc4e90cdda80183454b07ad5eb.jpg?u=1156502&p=1341121164"
+}

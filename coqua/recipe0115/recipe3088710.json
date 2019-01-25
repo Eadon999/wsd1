@@ -1,0 +1,74 @@
+{
+    "name": "これは〜美味い！白菜と厚揚げ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "SKYワダちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3088710/464x260/8e199b482bc91f64cab2e8df6fc850e3.jpg?u=5410683&p=1427432677",
+    "datePublished": "2015-03-27",
+    "description": "白菜と厚揚げの相性が抜群です♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "400g"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "220g"
+        },
+        {
+            "name": "人参",
+            "quantity": "50g"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "100g"
+        },
+        {
+            "name": "菜種油",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆味醂",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "☆胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜はざく切り、人参は拍子切り、舞茸は手で割く。",
+        "厚揚げは長い方を縦半分に切り、1cm幅に切る。",
+        "フライパンに油を入れ温まったら、人参を入れ炒める。",
+        "③の中に白菜を加え炒める。",
+        "④がしんなりして来たら、舞茸、厚揚げを加える。",
+        "☆を加え混ぜ合わせ味が整ったら、火を止める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3088710",
+    "advice": "白菜は白いところから入れて緑の葉っぱを後から入れると火の通りが良いです。きのこは舞茸でなくても〜しめじ、えのき、椎茸でもなんでもOKよ。薄味になっています。お好みで加減して下さいね。",
+    "history": "白菜は炒めるととても美味しいですよ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 厚揚げ"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3088710/100x141c/04daef626239d0a9e44fa29d475f4e3a.jpg?u=5410683&p=1427432677"
+}

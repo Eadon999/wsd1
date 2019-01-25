@@ -1,0 +1,50 @@
+{
+    "name": "簡単♦♫えのきとベーコンの中華マヨ",
+    "author": {
+        "@type": "Person",
+        "name": "ハリハリ戦士"
+    },
+    "image": "https://img.cpcdn.com/recipes/438114/464x260/0322652ffe0b3afd6e89e41a60752e6e.jpg?u=409625&p=1214217380",
+    "datePublished": "2007-10-07",
+    "description": "少ない材料で超がつくほど簡単❤しんなりしたえのきが沢山食べられます。お弁当にも◎",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "中華あじ",
+            "quantity": "小２分の１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小１と２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにえのきとベーコンを入れ中火にかけます。",
+        "しんなりしてきたら中華あじとマヨネーズを絡めて出来上がり～",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "438114",
+    "advice": "マヨネーズはお好きな量に加減してください。",
+    "history": "えのきが好きだけど、えのきだけだとヘルシーすぎるのでベーコンとあわせて一品作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "ベーコン",
+        "中華あじ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/438114/100x141c/7731506d46fc889172b3edb015b9479d.jpg?u=409625&p=1214217380"
+}

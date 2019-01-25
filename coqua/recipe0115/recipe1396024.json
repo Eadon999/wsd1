@@ -1,0 +1,47 @@
+{
+    "name": "➏菜の花❀胡麻和え➏",
+    "author": {
+        "@type": "Person",
+        "name": "rokuro"
+    },
+    "image": "https://img.cpcdn.com/recipes/1396024/464x260/2ec6a3d8a0876ad7df4989e2765b19f2.jpg?u=325132&p=1301307019",
+    "datePublished": "2011-03-28",
+    "description": "2013.1.10話題入りしました(^^♪菜の花のほろ苦さと胡麻の甘味がマッチして箸休めなのに止まりません(^_^;)",
+    "recipeYield": "２人分ぐらい",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "一把"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花を軽く塩ゆでにし、水けを絞ります。",
+        "すりごま、砂糖、醤油で和えて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1396024",
+    "advice": "いりごまをすり鉢でするとさらに美味しいのですが、私は手抜きですりごまで作っちゃいました～<(_ _)>",
+    "history": "主人の母のゴマ和えはとっても美味しくて・・・真似してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "菜の花 ごま和え"
+    ],
+    "tsukurepo_count": "221",
+    "thumbnail": "https://img.cpcdn.com/recipes/1396024/100x141c/5963d6726f8979de4dde20935e9f64a8.jpg?u=325132&p=1301307019"
+}

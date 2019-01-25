@@ -1,0 +1,55 @@
+{
+    "name": "タコとキュウリのキムチ和え",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/257467/464x260/cd693e8dc7b25053201dc9d431b64cf9.jpg?u=212914&p=1214213083",
+    "datePublished": "2006-06-01",
+    "description": "たこ・きゅうり・キムチの三品をごま油で和えるだけ(*^^)v　簡単すぎてごめんなさい・・・",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "全ての材料を混ぜて、仕上げにごま油をかけます。\r\n最後にごまをふって完成！\r\n",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "257467",
+    "advice": "あっという間に一品完成！　キムチを混ぜるとき、一緒にタレも混ぜてきゅうりにしみ込ませます。きゅうりは大きめに乱切りし、ポリポリの食感で！",
+    "history": "よく合います。この組み合わせ。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ",
+        "きゅうり",
+        "キムチ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/257467/100x141c/2823ae9f0a5a0dafc091b18fd2ce8e6a.jpg?u=212914&p=1214213083"
+}

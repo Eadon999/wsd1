@@ -1,0 +1,49 @@
+{
+    "name": "レタスのペッパーチーズサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "YUZVIO"
+    },
+    "image": "https://img.cpcdn.com/recipes/3041107/464x260/976259c60a7f6c70483e76690a7d4ffe.jpg?u=1094592&p=1425110203",
+    "datePublished": "2015-02-28",
+    "description": "シンプルなレタスのサラダ。ささっと混ぜるだけの便利なレシピ♪2015.9.28 話題入りしました。有難うございます♥",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "1/2玉"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ3〜4"
+        },
+        {
+            "name": "パルメザンチーズ(粉チーズ)",
+            "quantity": "大さじ3位"
+        },
+        {
+            "name": "粗びき黒胡椒",
+            "quantity": "適量(たっぷり目が◎)"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスを洗って水気を切り、ボウルに入れる。",
+        "オリーブオイルを回しかけ、チーズと黒胡椒をかける。ざっくり合えてお皿に盛り付ける。完成です♪",
+        "☆ピザ用等の溶けるチーズと白ワインを合わせて(お好みでおろしニンニク少々)、レンジで溶かしたものをかけるとより濃厚です♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3041107",
+    "advice": "レタスの水気をよく切り、美味しいオリーブオイルを使うこと。",
+    "history": "ドレッシングを作るのが面倒臭い時によく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "オリーブオイル",
+        "パルメザンチーズ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/3041107/100x141c/330f7ee62f8af2bd27f1410cd4a3b466.jpg?u=1094592&p=1425110203"
+}

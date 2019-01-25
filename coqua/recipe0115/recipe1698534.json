@@ -1,0 +1,62 @@
+{
+    "name": "簡単☆ふんわりささみのチーズピカタ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ドレミィ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1698534/464x260/fd90bda75a56177d5ba2042183b7462d.jpg?u=846506&p=1328596965",
+    "datePublished": "2012-02-07",
+    "description": "冷めてもおいしいのでお弁当にもどうぞ♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "350g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋をとり塩コショウをしてまんべんなく片栗粉をまぶす\nボウルに卵、チーズ、青のり、牛乳を加えよく混ぜる",
+        "ささみを液体にくぐらせて熱したフライパンに少し多めの油を入れて両面焼いていく\n酒を入れ（大さじ１）蓋をして蒸し焼きにする",
+        "お好みでケチャップやソースをかけて食べてください"
+    ],
+    "cookTime": null,
+    "recipe_id": "1698534",
+    "advice": "チーズ多めだったらカリッとしておいしいと思います",
+    "history": "安く買ったささみ、何を作ろうかと思っても組み合わせる野菜もなく…卵を使ってピカタを作りましたヘルシー過ぎるのでチーズのコクをプラス。１パック200円弱のお肉でメインのおかずができました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "塩コショウ",
+        "片栗粉",
+        "卵"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1698534/100x141c/2000e6ed34c705937a1a4259ec0fa253.jpg?u=846506&p=1328596965"
+}

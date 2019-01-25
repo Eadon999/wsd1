@@ -1,0 +1,52 @@
+{
+    "name": "キャベツとえのきのポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "moritaya"
+    },
+    "image": "https://img.cpcdn.com/recipes/562924/464x260/d408a578d75c0b8c809eb23059ae5f16.jpg?u=409638&p=1214219809",
+    "datePublished": "2008-05-02",
+    "description": "繊維質たっぷりの炒め物。2010年3月7日に話題入りしました！",
+    "recipeYield": "たっぷり1人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "3枚～5枚くらい"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "１０ｃｍ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはちぎるか、ざく切りにしておく。えのきは1/３の長さに切る。ネギは斜め薄切りにしておく。",
+        "フライパンにサラダ油大さじ１を熱し、つぶしたにんにくを入れ、塩をぱらっと振る。香りがたったらキャベツ、えのき、ねぎを入れ、炒める。しなっとなったらポン酢大さじ１をまわし入れて出来上がり。",
+        "2010年3月7日に、話題入りしました。れぽしてくださったみなさん、ありがとうございました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "562924",
+    "advice": "キャベツが固いときは、先に投入してある程度火がとおってからえのきとねぎを入れたほうがいいでしょう。",
+    "history": "キャベツとえのきのコンビネーションが好きなので、炒めながら考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ えのき ポン酢",
+        "キャベツ えのき ポン酢炒め"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/562924/100x141c/aefb3e5e9634a55b38f4ed4be8dadf24.jpg?u=409638&p=1214219809"
+}

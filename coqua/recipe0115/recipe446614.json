@@ -1,0 +1,91 @@
+{
+    "name": "キムチクッパ",
+    "author": {
+        "@type": "Person",
+        "name": "けい♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/446614/464x260/578df97b7c1032a98731df07b9f61fd0.jpg?u=60994&p=1214217540",
+    "datePublished": "2007-10-20",
+    "description": "所要時間10分弱。時間がない日のご飯に♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キムチ",
+            "quantity": "100g"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1片"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ2/3"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "万能ネギの小口切り",
+            "quantity": "適宜"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "2人分"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油とニンニクの微塵切りを入れて弱火にかけ、香りがしたら食べやすく切った豚肉を入れ、塩こしょうして強火で炒める。",
+        "肉の色が変わったらキムチを入れて、少し炒め、水～酒までの材料を入れて煮込む。\r\n沸騰したら火を止め、溶き卵を入れて軽く混ぜる。",
+        "器にご飯を盛り、その上から2をかける。\r\nゴマとネギを散らして出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "446614",
+    "advice": "お肉は入れても入れなくても。うちではクッパは基本的にお酒の〆で作るので、お肉は入れません。今日は食事として作ったので入れてみました。",
+    "history": "クッパが好きなので。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/クッパ"
+    ],
+    "rankings": [
+        "クッパ 10位"
+    ],
+    "related_keywords": [
+        "キムチクッパ",
+        "クッパ",
+        "辛い クッパ"
+    ],
+    "tsukurepo_count": "179",
+    "thumbnail": "https://img.cpcdn.com/recipes/446614/100x141c/8adb2d4ed4f49bc2d20824574b5ffd5e.jpg?u=60994&p=1214217540"
+}

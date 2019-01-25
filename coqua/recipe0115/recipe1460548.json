@@ -1,0 +1,60 @@
+{
+    "name": "ピーマンのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "aino＠姉御"
+    },
+    "image": "https://img.cpcdn.com/recipes/1460548/464x260/1f3c4c2f6207f7eb89f59aa5549aa4f5.jpg?u=3237675&p=1307150379",
+    "datePublished": "2011-06-04",
+    "description": "ピーマン嫌いでも食べれる！青臭みのないピーマン料理！おつまみにもぴったり！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "●出汁の素",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを洗い、お好みの形にカットする",
+        "電子レンジで蒸す。\nお湯にサッっとくぐらせてもＯＫ",
+        "小さめのボールに●の調味料を入れる",
+        "火の通ったピーマンを３に入れ和える\n",
+        "皿に盛り付け、白ゴマをふりかける。\n\n完成！\n\n※今回はゴマが切れていたためかけてません＞＜"
+    ],
+    "cookTime": null,
+    "recipe_id": "1460548",
+    "advice": "ピーマンが嫌いではない方には生のままでもおいしいです。調味料の量は目安です。お好みにあわせて量を調節してくださいね！",
+    "history": "ピーマン嫌いの私がどうにかして食べれないかと考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "醤油",
+        "ごま油",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1460548/100x141c/ca250323c92a0471995538e561e3242e.jpg?u=3237675&p=1307150379"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "ほうれん草とジャコの和え物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1768194/464x260/51b587e7cc1dfb65c68101d8847cfdf9.jpg?u=2513693&p=1333680429",
+    "datePublished": "2012-04-10",
+    "description": "調味料は少ない目に、チリメンジャコの塩分でいただく一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ホウレンソウ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "チリメンジャコ",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油、みりん",
+            "quantity": "各こさじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ホウレンソウは熱湯で1分茹で水にさらし粗熱を取り3センチ程度に切っておきます。",
+        "ボールに①のホウレンソウと【A】を入れ和えれば完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1768194",
+    "advice": "",
+    "history": "柔らかくて美味しいジャコが手に入るとよくつくる一品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草とジャコの和え物"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1768194/100x141c/825b2e41c30886050165292254fe1a73.jpg?u=2513693&p=1333680429"
+}

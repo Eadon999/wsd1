@@ -1,0 +1,58 @@
+{
+    "name": "白菜サラダ〜和風マヨ味〜お弁当にも♪",
+    "author": {
+        "@type": "Person",
+        "name": "まゆpiyo"
+    },
+    "image": "https://img.cpcdn.com/recipes/2433159/464x260/808f6265ab14adbc3d8f0374aae3129a.jpg?u=5915159&p=1386804077",
+    "datePublished": "2013-12-14",
+    "description": "シャキシャキ感がイイ♡箸休めの一品、お弁当にもオススメ！ツナやコーンを加えても◎デス(*^^*)H26,1月話題入り感謝",
+    "recipeYield": "小鉢ひと盛り分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "4〜5枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "◆マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◆麺つゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◆ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お鍋に湯を沸騰させて白菜をサッと茹で、手で絞って水気をきっておく",
+        "ボウルに◆の材料を混ぜ合わせ、1を入れて和える",
+        "塩を少々加え味を整えて、海苔をちぎり振りかけサッと混ぜて仕上げる♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2433159",
+    "advice": "水切りが弱いと味が薄くなるので、しっかりめに絞ると良いです！調味料は白菜が熱いうちに和えて下さいね",
+    "history": "大きな白菜を買ったので、炒めものや煮込み以外で頂きたくて♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 弁当",
+        "白菜 サラダ",
+        "白菜 サラダ ごま油 のり",
+        "白菜 サラダ お弁当"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/2433159/100x141c/53ee37a4f19b2f186a0796f81cdb4fd8.jpg?u=5915159&p=1386804077"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "◎簡単♬アボカドのツナマヨグラタン◎",
+    "author": {
+        "@type": "Person",
+        "name": "yukkycafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1073689/464x260/2ffa0070e06aec3065a74bdf3af6907b.jpg?u=1912076&p=1268967509",
+    "datePublished": "2010-03-19",
+    "description": "簡単だけどおもてなしにも最適な１品です☆",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "溶けるチーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "イタリアンパセリorパセリ",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドを半分に切って中をくり抜き、ボウルに入れる。\r\n皮は器に使うので取っておく。",
+        "アボカドを入れたボウルにツナ缶を加えて混ぜる。マヨネーズ、レモン汁、塩コショウで味を調えて皮の器に戻す。",
+        "溶けるチーズを乗せて焦げ目が付くまでオーブンで焼く。\r\n仕上げにパセリを振ったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1073689",
+    "advice": "軟らかくなり過ぎたアボカドを使ってます。",
+    "history": "熟したアボカドを冷凍保存していました。サラダを作るつもりで解凍したら結構ゆるゆるだったので急遽グラタンに。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド ツナ グラタン"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1073689/100x141c/6406aa3d2f9d9a8dd899d81bd5c137dc.jpg?u=1912076&p=1268967509"
+}

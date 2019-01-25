@@ -1,0 +1,55 @@
+{
+    "name": "余りレタスの簡単スープ",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/380544/464x260/8a948625ecb9e912f6e1a871f34be846.jpg?u=322985&p=1214216216",
+    "datePublished": "2007-05-28",
+    "description": "レタスの外側を使った簡単スープ♪ 朝でもササッと作れて嬉しい一品です＾＾",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "外側４枚～"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小２"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小３"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "細ねぎ（小口切り）",
+            "quantity": "多め"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスはよく洗って、食べやすい大きさに切る。鍋にごま油を入れて熱したら、レタスを炒める。\r\n酒・しょうゆ（各小２）をふってなじんだら水を６００cc入れて煮る。",
+        "沸騰したらスープの素を入れて塩・こしょうで味を調える。溶き卵を少しずついれてふわっとしたら火をとめ、器に入れて、ねぎを散したら完成☆",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "380544",
+    "advice": "レタスの外側は、よく炒めたり、スープにしちゃいます＾＾",
+    "history": "冷蔵庫の余りものを使って。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "残ったレタス"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/380544/100x141c/7fe43e41cfa3ce656e47468c990c2dec.jpg?u=322985&p=1214216216"
+}

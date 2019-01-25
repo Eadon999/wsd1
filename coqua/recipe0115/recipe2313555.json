@@ -1,0 +1,40 @@
+{
+    "name": "豆腐の塩こうじ漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2313555/464x260/7344e27531f387ebb7d7796ac4eeca55.jpg?u=7089749&p=1517195810",
+    "datePublished": "2013-08-13",
+    "description": "液体塩こうじと豆腐だけでできる簡単料理。２，３日漬けると、チーズのような食感に変わります！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキの「液体塩こうじ」を使用します！",
+        "豆腐は半分に切って水気をよく切る。",
+        "【2】の豆腐の上下に「塩こうじ」を塗り、ラップでぴったりと包む。",
+        "ポリ袋やタッパーなどに入れ、冷蔵庫で2～3日置く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2313555",
+    "advice": "冷蔵庫で２、３日置いてください。",
+    "history": "ハナマルキ「液体塩こうじ」で、いつもの料理がワンランクアップするワザありレシピです。豆腐を液体塩こうじに漬けるとどう変化するか、お楽しみください！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 漬け"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2313555/100x141c/00027d36abad831004d7cd7949e5940f.jpg?u=7089749&p=1517195810"
+}

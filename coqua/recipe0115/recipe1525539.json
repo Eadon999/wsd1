@@ -1,0 +1,50 @@
+{
+    "name": "うなぎのタレ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうじパパ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1525539/464x260/7828cb49b1cf867e3d51c1d147e15cb2.jpg?u=1376912&p=1313629914",
+    "datePublished": "2011-08-18",
+    "description": "簡単にできます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "醤油",
+            "quantity": "大７"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大６"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "酒とみりんと入れて沸騰させてアルコールを飛ばす。",
+        "醤油、砂糖を入れて再沸騰させる。\n冷ます。",
+        "弱火で１０分焦げないように煮詰めるだけ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1525539",
+    "advice": "醤油　　７みりん　６砂糖　　５酒　　　２　　　割合です。",
+    "history": "少し足りなくなったときなど便利",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": [
+        "うなぎのタレ 9位"
+    ],
+    "related_keywords": [
+        "うなぎたれ",
+        "うなぎのタレ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1525539/100x141c/e58dfaf6f9dbcb6eebe2012dfaf37562.jpg?u=1376912&p=1313629914"
+}

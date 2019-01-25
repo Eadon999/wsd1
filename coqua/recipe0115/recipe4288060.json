@@ -1,0 +1,61 @@
+{
+    "name": "しゃぶしゃぶ",
+    "author": {
+        "@type": "Person",
+        "name": "らんたんのママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4288060/464x260/3a012285cec9cb5ed2a3e0ba086fe37d.jpg?u=9267028&p=1484360053",
+    "datePublished": "2017-01-14",
+    "description": "ヘルシーにお鍋♪お肉も野菜もたっぷりで！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚ロースしゃぶしゃぶ用",
+            "quantity": "180g"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "水菜",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "えのき茸",
+            "quantity": "100g"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "昆布出し",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根にピーラーで太く長くスライスする。水菜は7cm位の長さに切る。\n",
+        "えのき茸は石突きを取りほぐしておく。\n豆腐は一口大位の大きさに切る。",
+        "鍋に水を入れ温める。酒、昆布出しを入れ野菜、豆腐、しゃぶしゃぶ用の豚肉を入れて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4288060",
+    "advice": "大根は出来るだけ太く長くスライスしてください。たっぷり作ってもすぐなくなりますよ(^^)昆布出しの代わりに昆布でも！",
+    "history": "うちで人気のしゃぶしゃぶです！野菜がたっぷりとれるのでいいですよ♪",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/しゃぶしゃぶ"
+    ],
+    "rankings": [
+        "豚ロースしゃぶしゃぶ用 8位"
+    ],
+    "related_keywords": [
+        "しゃぶしゃぶ だし 昆布"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4288060/100x141c/c3b50f2d92316d9afdd7858939625190.jpg?u=9267028&p=1484360053"
+}

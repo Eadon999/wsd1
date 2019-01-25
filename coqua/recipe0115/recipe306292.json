@@ -1,0 +1,50 @@
+{
+    "name": "お弁当に☆ちくわのカレーマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "蒼緑茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/306292/464x260/a7f74c3be2d3c8ddb4ad3303bde089a4.jpg?u=234500&p=1214214202",
+    "datePublished": "2006-12-01",
+    "description": "主人のお弁当によく登場する1品です。簡単なので忙しい朝でもすぐ作れますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを適当な大きさに切る。",
+        "フライパンを熱し、マヨネーズを少々いれてから、ちくわを加えてさっと炒める。",
+        "カレー粉を加えて更に炒め、仕上げにお好みでお醤油をほんの少し垂らして香ばしく炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "306292",
+    "advice": "マヨネーズを油のかわりに使います。材料はすごく適当なのでお好みで加減してくださいね♪ 最後のお醤油はお好みで。入れる時は焦げないように注意してね☆",
+    "history": "いつの頃からか、お弁当によく入れてます♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "マヨネーズ",
+        "カレー粉",
+        "醤油"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/306292/100x141c/a24518f18f2d34f163df88cc931b1274.jpg?u=234500&p=1214214202"
+}

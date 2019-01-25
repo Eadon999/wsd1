@@ -1,0 +1,49 @@
+{
+    "name": "簡単！麺つゆできゅうり漬け",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2274402/464x260/4670da1b08d72281821cb46eeb35a29d.jpg?u=6957661&p=1399552652",
+    "datePublished": "2013-07-02",
+    "description": "2014/7/1感謝の話題入りです生姜を効かせた即席漬きゅうり消費のバリエーションに如何でしょう",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "生姜",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ2〜"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリを好みの形に切って塩で揉んでおく。生姜は千切りにする。",
+        "ビニール袋に1と麺つゆを入れる。\n空気を抜き袋ごと揉んでおく。\n冷蔵庫に30分位おきます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2274402",
+    "advice": "よく揉むと早く食べられます",
+    "history": "きゅうりを食べるあの手この手の一貫です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "生姜",
+        "めんつゆ",
+        "塩"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/2274402/100x141c/b48a49cc295d7ff596a2d2bfdb17096c.jpg?u=6957661&p=1399552652"
+}

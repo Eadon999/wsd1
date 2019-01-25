@@ -1,0 +1,67 @@
+{
+    "name": "簡単うまうま＊豚肉となすのケチャップ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "KissMeｘｘｘ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1325436/464x260/9f890ca4d7bd89d87dd7e47a1699af6b.jpg?u=2788796&p=1294627248",
+    "datePublished": "2011-01-10",
+    "description": "中華？洋食？和食？はじめての味!ボリュームあって、ご飯にすごーく合います♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "1本"
+        },
+        {
+            "name": "絹さや(好きな野菜でいいです)",
+            "quantity": "8つ"
+        },
+        {
+            "name": "しゃぶしゃぶ用豚肉",
+            "quantity": "100ｇ～200ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大3"
+        },
+        {
+            "name": "みそ",
+            "quantity": "小1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは縦に6等分して半分の長さに切る。絹さやは筋をとっておく。",
+        "フライパンに大1くらいのサラダ油を熱し、お肉を炒める。半分くらい火が通ったらナスと絹さやを加え、酒を回しかける。",
+        "醤油～オイスターソースまでを上から順に加えよく炒める。塩コショウで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1325436",
+    "advice": "お肉の量に応じて調味料はすこし増やしたりしてください。",
+    "history": "ボリュームあってご飯に合う料理を目指しました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しゃぶしゃぶ用豚肉 なす"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1325436/100x141c/5de607960082c2cab85b43e98ca9848d.jpg?u=2788796&p=1294627248"
+}

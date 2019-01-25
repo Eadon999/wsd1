@@ -1,0 +1,63 @@
+{
+    "name": "これは辛うま！もやし♪",
+    "author": {
+        "@type": "Person",
+        "name": "りんちゃんずママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/774139/464x260/3daadb24fd5f218cf91263eebcc71ee2.jpg?u=710545&p=1238581993",
+    "datePublished": "2009-04-01",
+    "description": "もやしがシャキシャキ！ごま油香るカラモ♪です。 安いし、美味しいし、おつまみやもう一品、ラーメンにのせても♪",
+    "recipeYield": "2人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "中華だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ2分の１（お好みで）"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしをさっと茹でます。",
+        "ザルにあげます。",
+        "ぎゅっと手で絞ります。",
+        "ごま油、中華だし、豆板醤であえて、塩コショウで味を調えます。 \r\n（気分で香菜をのせました。）"
+    ],
+    "cookTime": null,
+    "recipe_id": "774139",
+    "advice": "もやしはさっと茹でるのがポイント！シャキシャキさせてね♪にんにくはお好みで・・・",
+    "history": "ラーメン屋さんにあったやつをお家で再現！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "中華だし",
+        "ごま油",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/774139/100x141c/8878642bbbcdc493136cacd946bcb773.jpg?u=710545&p=1238581993"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "お刺身サーモンのジンジャーコチュソース",
+    "author": {
+        "@type": "Person",
+        "name": "tarragon"
+    },
+    "image": "https://img.cpcdn.com/recipes/1588968/464x260/a4b4d9562b37ca9eb528b67fc85a5a81.jpg?u=1041181&p=1317727445",
+    "datePublished": "2011-10-04",
+    "description": "そのままでもご飯にどーんとのせてもおすすめ。家族にも大人気！お好みでにんにく卸しを加えると、薫りもUP！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "刺身用サーモン",
+            "quantity": "150g"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "1本"
+        },
+        {
+            "name": "小葱",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "A　醤油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "A　みりん",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "A　コチュジャン",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "A　生姜すり卸し",
+            "quantity": "小1"
+        },
+        {
+            "name": "A　白ごま",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "胡瓜はピーラーで薄くスライスしお皿に盛りつける。\nその上に1cm角のサイコロ状に切ったサーモンをのせる。",
+        "Aをよく混ぜ①にまわしかけ、小口葱をちらしたらできあがり。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1588968",
+    "advice": "その他のレシピは「タラゴンの挿し木」へhttp://ameblo.jp/tarragon/",
+    "history": "美味しいお刺身をおつまみ仕上げに。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "刺身用サーモン",
+        "胡瓜",
+        "小葱"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/1588968/100x141c/032975ff91ef6865b5a2c47d0f559dca.jpg?u=1041181&p=1317727445"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "とろり～ん鶏もも肉と白菜の蒸し煮",
+    "author": {
+        "@type": "Person",
+        "name": "ぼなぺちアコ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1622386/464x260/0280e03cdaa7938aea5c47325da551a6.jpg?u=423050&p=1320752990",
+    "datePublished": "2011-11-08",
+    "description": "片栗粉をまぶして蒸すことで　固くならず、舌触りトロリの鶏肉料理になりました。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "白菜",
+            "quantity": "６枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大１＋1/2"
+        },
+        {
+            "name": "顆粒の中華だし",
+            "quantity": "小１"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "ひとかけら"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "水",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉を二口大に切り　塩コショウして片栗粉をまぶします。",
+        "白菜は３ｃｍ位に切り、生姜はせんぎりにします。",
+        "白菜としょうがを鍋に入れ、顆粒中華だしをふりかけ、酒と水を加えます。",
+        "その上に１の鶏肉をのせ、ふたをします。沸騰してから弱火で15分くらい蒸し煮にします。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1622386",
+    "advice": "レシピはあっさり味になっています。お好みで　鶏肉に塩コショウをまぶすとき、唐辛子の粉を加えてもおいしいです。",
+    "history": "寒い日には　とろりんとした温かいものを作ろうと思いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉 白菜",
+        "白菜 もも肉"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1622386/100x141c/35dd671e79cecc879beaf37dc25ce593.jpg?u=423050&p=1320752990"
+}

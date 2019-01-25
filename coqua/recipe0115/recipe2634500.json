@@ -1,0 +1,60 @@
+{
+    "name": "簡単副菜♫もやし＆きゅうり＆塩昆布",
+    "author": {
+        "@type": "Person",
+        "name": "えみもこ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2634500/464x260/e647977b2e3748aae0d4843563c03bde.jpg?u=5071370&p=1400492269",
+    "datePublished": "2014-05-19",
+    "description": "2014・9・27話題入りしました！皆さまのれぽ感謝です(*^_^*)簡単ヘルシーで食卓にもお弁当にも使えます♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大匙1ぐらい"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは細切りに。もやしは熱湯で1分ほど茹でザルにあげて水気を切る。\n",
+        "1に調味料を入れ混ぜて味を馴染ませる。\n冷蔵庫で冷やしておく。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2634500",
+    "advice": "塩昆布の塩気をみて醤油を足すか、もしくはいりません。",
+    "history": "塩昆布さんが余ってたのと、ごま油使わないヘルシーなナムル風を作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": [
+        "きゅうり塩昆布 9位"
+    ],
+    "related_keywords": [
+        "もやし",
+        "きゅうり",
+        "塩昆布",
+        "鶏ガラスープの素"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2634500/100x141c/b69c49ccec4a6fc6ae1a77f0b07d78a6.jpg?u=5071370&p=1400492269"
+}

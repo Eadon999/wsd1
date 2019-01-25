@@ -1,0 +1,44 @@
+{
+    "name": "【農家のレシピ】即席中華粥",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1411607/464x260/f476cd0e7edb2c6b7cf7fa321a69d099.jpg?u=2513693&p=1302797420",
+    "datePublished": "2011-04-15",
+    "description": "米粉を使って生米から炊いたようなお粥を即席で作ってます。即席とは思えない感じですよ～♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "2膳分"
+        },
+        {
+            "name": "米粉（上新粉）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "５００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に中華スープ、米粉、ご飯を入れ中火で5分煮て出来上がり。たまにかき混ぜながら煮てね",
+        "トロトロですよ♪お好みで色々トッピングしてね。私はごま油、ネギ、ショウガ、松の実です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1411607",
+    "advice": "中華スープ：私は中華スープの素の「ウエイパー８ｇ＋水５００ｃｃ」を使いました。",
+    "history": "体調の悪い時や食欲のない時に作ってる中華粥です。米粉のとろみで食べやすいんです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米粉 おかゆ",
+        "インスタントお粥",
+        "中華粥 トッピング"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1411607/100x141c/e1fefe1a4038b62b1b79d0cfeefdf0fd.jpg?u=2513693&p=1302797420"
+}

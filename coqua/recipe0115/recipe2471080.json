@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】きゃべつの山かけサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2471080/464x260/69a069d9409c8c40947d10fa3c4e399a.jpg?u=2513693&p=1393071235",
+    "datePublished": "2014-01-22",
+    "description": "きゃべつにとろろをかけて食べると美味しいんです♪さらに梅干があると最高～。和食にも合うヘルシーサラダです。　",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゃべつ（千切り）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "にんじん（千切り）",
+            "quantity": "４分の１本（５０ｇ）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "長いも（すりおろす）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "梅干（種を取り細かく刻む）",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつとにんじんの上に、【A】をかけおしょうゆをかけて召し上がれ～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2471080",
+    "advice": "千切りキャベツにすりおろした長いもとしょうゆだけでも美味しいですよ。",
+    "history": "とろろそばを食べているときに、キャベツにとろろをかけて食べると美味しいかも？と思い作ったのが始まりです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": [
+        "やまかけ 5位"
+    ],
+    "related_keywords": [
+        "長芋 キャベツ サラダ",
+        "キャベツ とろろ サラダ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2471080/100x141c/b5dcd909356fbc5f3a37dc2771c58ab1.jpg?u=2513693&p=1393071235"
+}

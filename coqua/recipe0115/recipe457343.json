@@ -1,0 +1,65 @@
+{
+    "name": "Ｗスープ!?で醤油ちゃんこ鍋のだし",
+    "author": {
+        "@type": "Person",
+        "name": "ガッちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/457343/464x260/a0bffa1132e126bdd9978b068c504a27.jpg?u=212686&p=1214217744",
+    "datePublished": "2007-11-09",
+    "description": "かつおだしと鶏がらスープの素を使って、なんちゃってＷスープ！？期待を裏切らないちゃんこ鍋のスープです！",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "900cc"
+        },
+        {
+            "name": "かつおだしの素",
+            "quantity": "小1 1/2"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "土鍋に水を沸かし、だし、調味料の順に入れる。",
+        "",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "457343",
+    "advice": "塩加減はお好みで調整して下さいね！醤油の色が気になる方は薄口醤油を使われて下さい。",
+    "history": "日本酒に合う醤油ちゃんこ鍋の味を求めて、試行錯誤。最初はかつおだしのみで作ったのですが、どうもピーンと来ず。鶏がらスープを加えたらちゃんこ鍋らしい、深みのある味になりました！",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/ちゃんこ鍋"
+    ],
+    "rankings": [
+        "鍋のだし 2位",
+        "醤油鍋 7位"
+    ],
+    "related_keywords": [
+        "鍋のだし",
+        "ちゃんこ鍋 しょうゆ",
+        "鍋 ダシ",
+        "鍋 しょうゆ"
+    ],
+    "tsukurepo_count": "124",
+    "thumbnail": "https://img.cpcdn.com/recipes/457343/100x141c/796b3977bbec801749257a2f3631fc7e.jpg?u=212686&p=1214217744"
+}

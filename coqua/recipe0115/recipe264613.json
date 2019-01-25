@@ -1,0 +1,47 @@
+{
+    "name": "簡単★チンゲン菜＆ちくわのめんつゆ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "さとみんみん"
+    },
+    "image": "https://img.cpcdn.com/recipes/264613/464x260/7df66039465d2fd6c4d0c7f083fa3be1.jpg?u=247938&p=1214213258",
+    "datePublished": "2006-07-04",
+    "description": "あと１品足りない！！時に素早く出来ていいですよ。味付けはめんつゆにおまかせだし♪副菜にお勧めです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜",
+            "quantity": "２束"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "３本"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "青梗菜を適当な大きさに切る。\r\nちくわも同じくらいの大きさに切る。",
+        "青梗菜の芯から炒める。火が通ってきたらちくわ→葉の順に入れていく。",
+        "全体に火が通ってきたら、めんつゆをまわし入れる。",
+        "めんつゆが全体になじんだら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "264613",
+    "advice": "トッピングには、ゴマやしらすが合いますよ♪今回は初めににんにくスライスを入れてやって見ました。",
+    "history": "結婚当初から作っている、ウチの定番です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "青梗菜",
+        "ちくわ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/264613/100x141c/89ed5cba6a96e27bab7de0ab6badb0ae.jpg?u=247938&p=1214213258"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "アボカドとエビのバルサミコマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/446585/464x260/060493e274d9deb2741eeab20781c266.jpg?u=274122&p=1214217539",
+    "datePublished": "2007-10-20",
+    "description": "アボカドとエビっておいしい組み合わせですよね。おつまみやパンに合わせてどうぞ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "むきえび",
+            "quantity": "１０～１５尾"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ１ぐらい"
+        },
+        {
+            "name": "●バルサミコ酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは一口大に切りレモン汁をかけておく。",
+        "むきえびは塩ゆでする。",
+        "●を合わせてドレッシングを作り、エビとアボカドをあえる。お好みで黒コショウをかけてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "446585",
+    "advice": "エビは塩ゆでしていますが、塩焼きにしてもおいしいです。",
+    "history": "エビとアボカドの組み合わせが大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "むきえび",
+        "レモン汁",
+        "バルサミコ酢"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/446585/100x141c/65604aaabffb36e9dc86498ae54edf82.jpg?u=274122&p=1214217539"
+}

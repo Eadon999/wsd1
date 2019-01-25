@@ -1,0 +1,71 @@
+{
+    "name": "簡単！骨ごと秋刀魚の煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3440100/464x260/710aa210640843878e0dec5f10f112b9.jpg?u=4376699&p=1443939659",
+    "datePublished": "2015-10-04",
+    "description": "コツあり！40分煮るだけ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "2匹"
+        },
+        {
+            "name": "ねぎ(青い部分)",
+            "quantity": "2本"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "5cm"
+        }
+    ],
+    "recipeInstructions": [
+        "秋刀魚の頭、尻尾、尾びれ、内臓を取って洗う\nネギの青い部分を輪切りにして鍋に敷く",
+        "秋刀魚を4等分にして鍋に入れ調味料を掛ける\n",
+        "落し蓋をして蓋をして火をつけ沸騰したら中火で40分～50分で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3440100",
+    "advice": "ネギを敷いて焦げ付き防止と臭み取り処理済(内蔵)がおすすめ",
+    "history": "処理済秋刀魚が安かったのでそのまま煮てみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": [
+        "秋刀魚の煮付け 3位",
+        "さんま煮付け 3位"
+    ],
+    "related_keywords": [
+        "さんま 煮付け",
+        "さんま 骨ごと"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3440100/100x141c/8e5e7b96b34f4003e7f5688e18f81f1a.jpg?u=4376699&p=1443939659"
+}

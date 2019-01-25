@@ -1,0 +1,73 @@
+{
+    "name": "超簡単！豚ニラ",
+    "author": {
+        "@type": "Person",
+        "name": "mica39"
+    },
+    "image": "https://img.cpcdn.com/recipes/1389907/464x260/e579878f55ed70577c3a73aaa2a8e89d.jpg?u=2403792&p=1300586869",
+    "datePublished": "2011-03-20",
+    "description": "レバーを使わず、豚切り落としで、レバニラ風！豚肉のレパートリーにも！",
+    "recipeYield": "２～３",
+    "recipeIngredient": [
+        {
+            "name": "豚きり落とし",
+            "quantity": "３００ｇくらい"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "一片"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "最後にちょろっと"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにサラダ油を入れてニンニクを入れる。香りがたったら、豚肉投入！",
+        "豚肉に火が通ったら、カットしたニラを投入！火が回ったら、酒を入れる。",
+        "その後、しょうゆ、オイスターソース、みりん、片栗粉を混ぜたもの入れる。調整しながら入れてる！",
+        "味がなじんだら、ごま油をたらして完成！１０分もあればできま～す！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1389907",
+    "advice": "たれの比率は調度良いと思いますが、具の量で入れるたれの量を調整する。全部入れなくても良いかも。",
+    "history": "レバニラ食べたかったけど、レバー売ってなかったから味は、レバニラ風です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "超簡単！豚ニラ",
+        "豚ニラ"
+    ],
+    "tsukurepo_count": "226",
+    "thumbnail": "https://img.cpcdn.com/recipes/1389907/100x141c/0279dc6b98860e3589d3f040e79c2ef6.jpg?u=2403792&p=1300586869"
+}

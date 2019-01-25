@@ -1,0 +1,67 @@
+{
+    "name": "【農家のレシピ】セロリと牛肉の炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1261376/464x260/8df371a09519b1168aa6d34829157229.jpg?u=2513693&p=1287311651",
+    "datePublished": "2010-10-18",
+    "description": "牛肉とセロリを炒めて調味料を入れて煮るだけで、ご飯にあう美味しいおかずの完成です。セロリは面倒な筋とり皮むき不要です★",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "4本"
+        },
+        {
+            "name": "牛肉こま切れ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリは1センチ程度の斜め切りにします（皮、筋はとらなくてOK)。牛肉は食べやすい大きさに切ります",
+        "鍋にサラダ油を熱し、中火で牛肉を炒めます。牛肉の表面が白くなったらセロリを入れ1分炒めます",
+        "次に【A】を入れて煮汁が半分になるまで煮たら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1261376",
+    "advice": "",
+    "history": "セロリを栽培しているので、色々食べ方を考えてます。ある日残ったすき焼きにセロリを入れて煮てみたのがきっかけでこのレシピが生まれました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 セロリ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1261376/100x141c/cdc9366f495e2451b3de3f15e1c46585.jpg?u=2513693&p=1287311651"
+}

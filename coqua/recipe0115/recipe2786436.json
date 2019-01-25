@@ -1,0 +1,57 @@
+{
+    "name": "納豆といわし缶のどんぶり。",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2786436/464x260/a517846f8773edc6c2090dd330eb9ce7.jpg?u=10053239&p=1410005865",
+    "datePublished": "2014-09-06",
+    "description": "味付きのいわし缶と納豆、ねぎに火を通すだけ！調味料は納豆のたれだけです。簡単に済ませたい時に便利ですよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "味付きいわしの缶詰",
+            "quantity": "１缶１００ｇ"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ねぎ（小口切り）",
+            "quantity": "１/2本"
+        },
+        {
+            "name": "水",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "小さめのフライパンにいわし汁ごと、納豆とたれ、ねぎ、水を入れたら火を着ける。",
+        "いわしを崩しながら全体を混ぜ、水気が無くなったら出来上がりご飯に盛り付け刻み海苔をかけて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2786436",
+    "advice": "いわし缶以外にも味付きの缶詰で応用できます。納豆はひきわりでもＯ．Ｋです。納豆のたれを入れただけ！他の調味料は一切要りません。",
+    "history": "常備してる物で作ってます。ちょっとご飯食べたいという時に出します。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いわし缶 丼",
+        "いわし缶",
+        "イワシの缶詰",
+        "いわし 缶詰 丼"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2786436/100x141c/5c1186ba15617246d2e73f9c8bc8bf86.jpg?u=10053239&p=1410005865"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "シシャモのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2365939/464x260/87d070553fae3ae33beebdfa1e48a20a.jpg?u=2696078&p=1381138340",
+    "datePublished": "2013-10-06",
+    "description": "シシャモをお洒落に食べたくて、チーズで焼いてみました。タバスコでもいいし、やっぱり七味でもいい感じ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "子持ちシシャモ",
+            "quantity": "10匹"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ハーブソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "シシャモに胡椒、ハーブソルトを振っておく。フライパンにオリーブオイルを入れ、中火で温める。シシャモを並べ入れる。",
+        "シシャモに両面焼き色がついたら、スライスチーズをのせ、蓋をして2分ぐらい蒸し焼きにする。",
+        "フライ返しで崩れないように皿に盛り、七味をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2365939",
+    "advice": "",
+    "history": "シシャモをワインのツマミにしたくてチーズで焼いてみました。トマトソースを使ってもいいかも。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししゃも チーズ焼き",
+        "ししゃも"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2365939/100x141c/5b3a60fde1f13d549a1c87b8fcd5cd99.jpg?u=2696078&p=1381138340"
+}

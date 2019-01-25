@@ -1,0 +1,51 @@
+{
+    "name": "トマツナそうめん ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/255757/464x260/03c1126f787c3db943a4009193a787e2.jpg?u=57297&p=1214213051",
+    "datePublished": "2006-05-22",
+    "description": "《ゴマの風味が効いて飽きない味だよ♪ 》最近食べた画像と入れ替えました。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "ツナ缶小１個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "大葉",
+            "quantity": "５枚くらい"
+        },
+        {
+            "name": "市販の麺つゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        " トマトは皮を剥いてざく切りにツナ缶とごま油小さじ1と混ぜます。",
+        "シソも小さく切って入れました。 茹で上がったそうめんを絡めて市販のつゆ掛けて頂きました。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "255757",
+    "advice": "トマトがポイントかな",
+    "history": "暑い時は手早く出来て美味しいサッパリ系の麺類いいですね",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん"
+    ],
+    "tsukurepo_count": "2661",
+    "thumbnail": "https://img.cpcdn.com/recipes/255757/100x141c/2c0677d3cacc954c8cf454593a253467.jpg?u=57297&p=1214213051"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "しっかり味の　フライドポテト",
+    "author": {
+        "@type": "Person",
+        "name": "春茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/1657128/464x260/9ad3ee6fee4fe1567dea80c7dbe7bcc4.jpg?u=3216488&p=1324571962",
+    "datePublished": "2011-12-29",
+    "description": "♥話題入り感謝♥塩ゆでしたじゃがいもを揚げるので、しっかり味がついてます。片栗粉で揚げるのでサクサク♫芋好きの方必見☺",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "４個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "青のり",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむく。　食べやすい大きさに切る。　\n　\n\n",
+        "じゃがいもを塩ゆでする。　\n\n☆注意☆\n塩の濃さは海水程度が目安。　なめるとしょっぱいです。",
+        "ゆであがったじゃがいもに、片栗粉をまぶす\n",
+        "３のじゃがいもを油で揚げる。\n\n☆注意☆\nじゃがいもどうしがくっつきやすいので一つずつ鍋に投入。",
+        "仕上げに青のりを振る。　\n",
+        null,
+        "レシピを見てくださった皆様、ありがとうございます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1657128",
+    "advice": "　あげたじゃがいもに塩を振るのではなく、先に塩味をつけてしまいます。　片栗粉はしっかりつけるのが、サクサクな食感のコツです。",
+    "history": "実家の母が、孫たちのために作ってくれる一品です。　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "片栗粉",
+        "青のり",
+        "塩"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1657128/100x141c/456912509cc207141b72e5cdab7da2fb.jpg?u=3216488&p=1324571962"
+}

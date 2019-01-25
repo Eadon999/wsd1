@@ -1,0 +1,71 @@
+{
+    "name": "茄子とピーマンの大葉味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "どんぴんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2340920/464x260/083a30f39ffd4e4471efe592abce3a43.jpg?u=4090904&p=1405328771",
+    "datePublished": "2013-09-25",
+    "description": "茄子とピーマンをお味噌で甘じょっぱく炒めました。大葉が香ってご飯が進みますよ♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "3～4本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "サラダ油(炒め用)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✩料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✩みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✩砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "✩味噌",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は食べやすい好みの大きさに切る\n（火が通りやすい様に切る）\n※今回は長く揃えました",
+        "サラダ油で茄子→ピーマン→大葉の順に中火で炒め、油がまわったら水を入れ蓋をする３０秒位\n蓋を取り✩を入れ絡ませ炒める\n",
+        "✩が馴染み汁気が無くなったら完成です"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2340920",
+    "advice": "なるべく食材に火が通りやすいように切ると良いですよ",
+    "history": "母のスピード得意料理です♪家庭菜園の野菜消費によく登場するメニュー。小さい頃から食べ慣れているご飯が進む１品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ピーマン",
+        "大葉",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/2340920/100x141c/1cb879eaf2f9c8f1f310bb645d76c7e6.jpg?u=4090904&p=1405328771"
+}

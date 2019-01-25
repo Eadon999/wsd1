@@ -1,0 +1,83 @@
+{
+    "name": "鶏の味噌マヨ",
+    "author": {
+        "@type": "Person",
+        "name": "よっこまま☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1415572/464x260/6b333f04d9a71b85d5f947a08ec1e390.jpg?u=2567413&p=1328589005",
+    "datePublished": "2011-04-19",
+    "description": "子供が食べるときは、ラー油抜きで。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏モモ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★ラー油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★にんにくチューブ",
+            "quantity": "１㎝"
+        },
+        {
+            "name": "★生姜チューブ",
+            "quantity": "１㎝"
+        },
+        {
+            "name": "一文字",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ももを、食べやすい大きさに切り、ビニール袋に入れ、塩こしょう・小麦粉をまぶす。",
+        "フライパンに、ごま油を入れ、①を中火で両面に焼き色をつけ、蒸し焼きにする。　　焼いてる間に、★を合わせておく。",
+        "火が通ったら、★を入れ絡める。　　仕上げに、一文字をかける。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1415572",
+    "advice": "醤油麹か塩麹があれば、鶏ももにかける塩こしょうなしで、麹を小さじ２を揉み込んで３０分おいて、小麦粉をまぶしたら、凄く柔らかくなります。その他の鶏ももレシピ　レシピID : 1415130",
+    "history": "時短の為",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひともじ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1415572/100x141c/7c2f00d6db79fcb1c7052586b9499b70.jpg?u=2567413&p=1328589005"
+}

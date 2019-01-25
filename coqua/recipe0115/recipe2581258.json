@@ -1,0 +1,51 @@
+{
+    "name": "☆鶏ささみの胡麻揚げ☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2581258/464x260/31bf391ced3a58298f6715d6c1e1aace.jpg?u=8803837&p=1397139860",
+    "datePublished": "2014-04-10",
+    "description": "淡白な鶏ささみに香ばしい胡麻をまぶして、栄養もアップ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "8本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "白胡麻・黒胡麻",
+            "quantity": "各適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋の先を持ち、包丁を筋に当ててしごきながら取り除き、\n\n三等分そぎ切りにする。",
+        "ささみに塩胡椒を振る。2枚のバットにそれぞれ白胡麻・黒胡麻を入れ、ささみを半量ずつ入れて転がすようにまぶす。",
+        "フライパンに多めの油を熱し、からりと揚げ焼きにする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2581258",
+    "advice": "そのままでも美味しいですが、大根おろし＋醤油や、レモンを絞っても。",
+    "history": "淡白な鶏ささみは物足りなくなりがちなので、香ばしい胡麻をたっぷりまぶして揚げました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ ゴマ揚げ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2581258/100x141c/bf376d3a4ab7149faf279e9236254db3.jpg?u=8803837&p=1397139860"
+}

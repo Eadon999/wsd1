@@ -1,0 +1,56 @@
+{
+    "name": "生で食べよう！カリフラワーサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "ななまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/384525/464x260/0e88be57337f2cad52dff3cb59d81dcf.jpg?u=125655&p=1214216295",
+    "datePublished": "2007-06-09",
+    "description": "あまり人気のないカリフラワー。生でたべられるんです。マリネ風にフレンチドレッシングにつけてぱりぱり食べます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カリフラワー",
+            "quantity": "中１個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "★サラダオイル",
+            "quantity": "大３〜４"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "★ワインビネガー（なければ酢大２にする）",
+            "quantity": "大１"
+        },
+        {
+            "name": "★塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カリフラワーは小房に分けて、２ミリくらいの薄切りにする。\n玉ねぎも薄切りにして水にさらす。",
+        "★印を混ぜて、カリフラワー、よく水を切った玉ねぎを和えて３０〜１時間程、漬けておく。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "384525",
+    "advice": "カリフラワーは躊躇せず、ざくざくと切って下さい。細かくなった、先きの方も全部ドレッシングに漬けて下さい。",
+    "history": "妹の得意料理。２〜３日持つのでいつも大量に作って分けてくれます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリフラワー　人気",
+        "カリフラワー生"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/384525/100x141c/5a8d59dc2ab2957ca5bf5e41a74cd7b7.jpg?u=125655&p=1214216295"
+}

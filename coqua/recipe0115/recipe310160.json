@@ -1,0 +1,50 @@
+{
+    "name": "ねぎの◎ベーコン巻き◎",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/310160/464x260/9565976282c1bff1d93b83cc67349c70.jpg?u=239563&p=1214214291",
+    "datePublished": "2006-12-13",
+    "description": "焼いたネギは風邪に効くそうです！ベーコンの旨みがネギにじわ～っと染みて、あま～い、うま～い♪お弁当にも。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "長ねぎ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "４枚くらい"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ　2/3"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎは青い部分をのぞき、５ｃｍに切る。ベーコンは半分の長さに切り、ねぎに巻いて楊枝でとめる。",
+        "フライパンを熱し、油をひかずに、①を並べたら、水大さじ2/3を入れ蓋をして蒸し焼きにする。",
+        "ねぎがしんなりしてきたら、蓋を取り、ベーコンに焼き色が付くまで焼いたらブラックペッパーを振って出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "310160",
+    "advice": "フライパンのみでチャチャっと♪",
+    "history": "簡単におつまみを一品と思って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネギ ベーコン",
+        "ネギ ベーコン巻き",
+        "ベーコン ねぎ"
+    ],
+    "tsukurepo_count": "341",
+    "thumbnail": "https://img.cpcdn.com/recipes/310160/100x141c/99004d1bd72142f498adf52f12efe59f.jpg?u=239563&p=1214214291"
+}

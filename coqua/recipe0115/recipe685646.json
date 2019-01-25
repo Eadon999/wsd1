@@ -1,0 +1,55 @@
+{
+    "name": "手羽元の簡単てり煮",
+    "author": {
+        "@type": "Person",
+        "name": "きょはく"
+    },
+    "image": "https://img.cpcdn.com/recipes/685646/464x260/aec0763a428a78bbc6b64b5867542452.jpg?u=624504&p=1227105099",
+    "datePublished": "2008-11-19",
+    "description": "鍋に材料を入れて火にかけるだけ♪調味料も全て同量で簡単♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "７～８本"
+        },
+        {
+            "name": "●酢",
+            "quantity": "５０ｍｌ"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "５０ｍｌ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "５０ｍｌ"
+        },
+        {
+            "name": "●はちみつ",
+            "quantity": "５０ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に●を入れて火にかける。",
+        "煮立ったら手羽元をいれ、柔らかくなるまで煮る。時々裏表を返す。",
+        "☆ゆで卵を加えて一緒に煮卵を作っても。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "685646",
+    "advice": "簡単なので特にないです。 火にかけることで、酢の酸味もなくなります。 ちょっと味付けを変えて、洋風レシピ★ID :731602 ",
+    "history": "価格がお手ごろだとついつい買ってしまう手羽元。酢で煮込むのが一番すきかも・・。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元",
+        "酢",
+        "しょうゆ",
+        "はちみつ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/685646/100x141c/ebf357f8f528f8c1a8db8aae1e99a9ff.jpg?u=624504&p=1227105099"
+}

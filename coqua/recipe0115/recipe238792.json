@@ -1,0 +1,49 @@
+{
+    "name": "簡単ポテトポタージュ",
+    "author": {
+        "@type": "Person",
+        "name": "shouko"
+    },
+    "image": "https://img.cpcdn.com/recipes/238792/464x260/dab3ca333304c126d5697fdc94e5fea9.jpg?u=42653&p=1280122324",
+    "datePublished": "2006-02-14",
+    "description": "2016年2月100人話題入り♡じゃがいもをすりおろして作るので簡単に出来ちゃいます。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "一個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１００CC"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "一個"
+        },
+        {
+            "name": "水",
+            "quantity": "５００CC"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とコンソメを入れ火にかける",
+        "皮をむいたジャガイモを鍋の中にすり入れる",
+        "トロトロしてきたら牛乳を加え、塩コショウで調味する"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "238792",
+    "advice": "トロトロの濃度が濃すぎたら水や牛乳を足して調節してね。コーンや溶き卵を加えたり、パセリを散らしたりいろいろアレンジしてみて下さい。",
+    "history": "ポタージュが飲みたいが、フードプロセッサーを使ったりetcは面倒くさいので何とか簡単にできない物か・・・とやってみたところ、とっても簡単に時間もかからずあっという間に出来てしまいました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": [
+        "じゃがいもポタージュ 2位"
+    ],
+    "related_keywords": [
+        "じゃがいもポタージュ"
+    ],
+    "tsukurepo_count": "121",
+    "thumbnail": "https://img.cpcdn.com/recipes/238792/100x141c/1bea975ef421bb814e12c76eda798ea9.jpg?u=42653&p=1280122324"
+}

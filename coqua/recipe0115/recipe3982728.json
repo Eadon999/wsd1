@@ -1,0 +1,47 @@
+{
+    "name": "【簡単・飯トモ】高菜納豆",
+    "author": {
+        "@type": "Person",
+        "name": "ちぃ兄やん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3982728/464x260/dc5339fbe9a3c313eea75b21235102ed.jpg?u=15009924&p=1471318485",
+    "datePublished": "2016-07-18",
+    "description": "いつもの納豆に、高菜漬・高菜炒めをのせるだけで、ひと味違ったうまさと食感に！今日もご飯がススミますｗ",
+    "recipeYield": "１人前",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "高菜漬・高菜炒め",
+            "quantity": "適量"
+        },
+        {
+            "name": "付属たれ",
+            "quantity": "お好みで使用"
+        },
+        {
+            "name": "一味・七味唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆だけ先によく混ぜる（お好みの回数）",
+        "後は高菜をお好みの量盛って、たれと唐辛子をお好みの量かけて混ぜれば完成。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "3982728",
+    "advice": "・高菜に大体の場合、しっかり味がついてるので、塩分が気になる方は付属のたれは使わなくてもＯＫです",
+    "history": "高菜と納豆があるときは、だいたいこれをやるので",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高菜 納豆"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3982728/100x141c/7d686850b7c7080e905327b2baee7642.jpg?u=15009924&p=1471318485"
+}

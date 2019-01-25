@@ -1,0 +1,63 @@
+{
+    "name": "Ψ(￣o￣)Ψ　超簡単♪モツ煮",
+    "author": {
+        "@type": "Person",
+        "name": "slipp"
+    },
+    "image": "https://img.cpcdn.com/recipes/59584/464x260/bdce0c6cb14a99f49028170804853f80.jpg?u=14349&p=1214209283",
+    "datePublished": "2002-07-09",
+    "description": "煮込むだけ・・・。超簡単！モツ煮です。ヾ(@⌒￢⌒@)ﾉ うまいっ！！",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚モツ",
+            "quantity": "500ｇ"
+        },
+        {
+            "name": "ショウガ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "モツは軽く下ゆでする。",
+        "モツが隠れるくらいの水にショウガを加え火にかける。煮立ってきたら砂糖・酒・ほんだしを加え、中火で１５分くらい煮込む。",
+        "やわらかくなったら味噌を加え、中火で煮詰める。よく見ていないとすぐ焦げてしまうので注意！！",
+        "ネギをかけて出来上がり！！ネギは長ネギ・玉ネギなんでもＯＫ。おすすめは玉ネギ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "59584",
+    "advice": "玉ネギのみじん切りをたっぷ～りかけて食べるのがお勧め！！",
+    "history": "母が花嫁修業？のひとつとして教えてくれました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/モツ鍋・モツ煮"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚モツ",
+        "ショウガ",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/59584/100x141c/25784f6906fea672fa22e6ae1c2703be.jpg?u=14349&p=1214209283"
+}

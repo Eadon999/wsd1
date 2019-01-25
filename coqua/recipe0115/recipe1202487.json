@@ -1,0 +1,44 @@
+{
+    "name": "簡単★エビの塩ゆで",
+    "author": {
+        "@type": "Person",
+        "name": "maa1012"
+    },
+    "image": "https://img.cpcdn.com/recipes/1202487/464x260/21492b45e2539b72b2c9ebc23158c60f.jpg?u=1993018&p=1280840902",
+    "datePublished": "2010-08-03",
+    "description": "いい塩加減のエビになりました。温かくても冷めてもおいしいです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ（小さめ）",
+            "quantity": "１５０ｇぐらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "エビは殻ごと洗って、背わたをとっておく。",
+        "鍋で水８００ｃｃほど沸かし日本酒と塩を入れ、１分後にエビを入れて４分ゆでて、ザルにあける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1202487",
+    "advice": "日本酒でエビの臭みが消えます。沸騰させてアルコールを飛ばしてからエビを入れます。",
+    "history": "大好きなエビで簡単おつまみを。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビの塩ゆで",
+        "えび 塩ゆで",
+        "海老　塩ゆで"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/1202487/100x141c/12f2f3cdb54662139696302337c26806.jpg?u=1993018&p=1280840902"
+}

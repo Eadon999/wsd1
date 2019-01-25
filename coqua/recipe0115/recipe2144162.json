@@ -1,0 +1,74 @@
+{
+    "name": "牛ハツ（心臓）とモヤシの中華炒め",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2144162/464x260/a2a84bf1b208485ae975f67a41969fd2.jpg?u=2124468&p=1362568396",
+    "datePublished": "2013-03-06",
+    "description": "淡白な牛ハツとモヤシを中華風にさっと炒めるだけです。",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "牛ハツ",
+            "quantity": "100g"
+        },
+        {
+            "name": "モヤシ",
+            "quantity": "200g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "刻みしょうが",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "中華だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/5"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ハツは食べやすい大きさにカット。",
+        "スライスしたニンニクとみじん切りのしょうがをオイルを熱したフライパンに投入。",
+        "にんにく、しょうがが香づいてきたらハツを投入。",
+        "ハツに火が通ってきたらモヤシをとうにゅうし、塩コショウ、中華だしを加える。",
+        "全体に火が通ったらオイスターソースとネギを加えて手早くかき混ぜて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2144162",
+    "advice": "",
+    "history": "ハツは焼肉だけではありませんよ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛 ハツ",
+        "牛 心臓"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2144162/100x141c/39413ed0f439a242a0200bacd0a437cf.jpg?u=2124468&p=1362568396"
+}

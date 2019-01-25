@@ -1,0 +1,51 @@
+{
+    "name": "ハッシュドポテト",
+    "author": {
+        "@type": "Person",
+        "name": "usyagi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1450427/464x260/fb370e343709b6a2d56c080794735097.jpg?u=44752&p=1306323078",
+    "datePublished": "2011-05-25",
+    "description": "刻んで焼くだけ。簡単にもう一品。",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "小さいもの2～3個"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油またはオリーブオイル",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモは皮を剥いて千切りにします。",
+        "ボウルに入れて塩、コショウで味付け。つなぎに片栗粉をいれ、混ぜます。",
+        "フライパンに油を入れて、後は焼くだけ。両面キツネ色に香ばしく焼いてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1450427",
+    "advice": "ジャガイモは切った後　水にさらさないで調理してください。目玉焼きやウインナーのソテーを付け合せても美味しいですよ。",
+    "history": "あともう一品。って時に簡単に作れます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハッシュドポテト"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1450427/100x141c/216e88518b0663d5515123a90167ca35.jpg?u=44752&p=1306323078"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "簡単さっぱり☆なめ茸おろしそば",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2252350/464x260/e4f4d4d919f6827dfa081d063a366ad4.jpg?u=6957661&p=1370868910",
+    "datePublished": "2013-06-10",
+    "description": "2014/6/29感謝の話題入りです2013/9/12専門家厳選レシピに掲載して戴きました。",
+    "recipeYield": "2~3人分",
+    "recipeIngredient": [
+        {
+            "name": "茹で蕎麦",
+            "quantity": "１袋"
+        },
+        {
+            "name": "大根",
+            "quantity": "10~15cmくらい"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "ひとパック"
+        },
+        {
+            "name": "なめ茸",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蕎麦は湯通し、水洗いしてザルにあげておく。",
+        "大根はおろしておく。貝割れは洗っておく。",
+        "器に蕎麦を盛り、大根おろしをのせ、なめ茸を一人前大さじ２位のせる。最後に貝割れをトッピングする。",
+        "めんつゆを適量かけて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2252350",
+    "advice": "大根おろしの水はきっておく。なめ茸の量を増やしてめんつゆを薄くするのもありです。",
+    "history": "ちょっとツルツルっと食べたい時に！",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おろしそば"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2252350/100x141c/d1d5cd076550da4d2cf8803b3aa98bb8.jpg?u=6957661&p=1370868910"
+}

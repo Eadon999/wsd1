@@ -1,0 +1,61 @@
+{
+    "name": "大根とにんじんとピーマンのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "さわdesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2889972/464x260/1b778408aeb9efaabd0270aa499fc87f.jpg?u=2493638&p=1416300211",
+    "datePublished": "2014-11-18",
+    "description": "大根の先の方は甘辛く炒めれば辛さも気になりません！",
+    "recipeYield": "副菜４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根の先の方",
+            "quantity": "２０ｃｍ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "小１本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✩しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✩みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "✩砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根とにんじんは皮をむいて長さを半分に切り、千切りにする。ピーマンは種を取り除いて細切りにする。",
+        "フライパンにごま油を入れて中火で熱し、１を全て入れてしばらく炒める。",
+        "焼き色が付き始めたら、✩を入れる。少し炒めたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2889972",
+    "advice": "じっくり炒めることです。",
+    "history": "大根の先の方はいつも余ってしまうので、彩りの良いにんじんとピーマンも合わせてきんぴらにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根の先",
+        "大根 ピーマン",
+        "大根 にんじん ピーマン"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2889972/100x141c/e4f74a11e5f7db9877f0b476de7244d3.jpg?u=2493638&p=1416300211"
+}

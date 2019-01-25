@@ -1,0 +1,56 @@
+{
+    "name": "簡単 美味しい！ 豆腐炒め",
+    "author": {
+        "@type": "Person",
+        "name": "じゅねち"
+    },
+    "image": "https://img.cpcdn.com/recipes/3058190/464x260/021cd9cd9028c737665207527d7649e6.jpg?u=7820170&p=1425905940",
+    "datePublished": "2015-03-09",
+    "description": "胡椒油の香りが食欲をそそる^ ^安くて 簡単 美味しい！ 豆腐炒めです♪おかずにしたり丼にするのもオススメでーす",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ソフト豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "白ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "卵(溶いておく)",
+            "quantity": "1個"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "•顆粒こんぶだし",
+            "quantity": "8g(スティック1本)"
+        },
+        {
+            "name": "•胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白ネギを薄めの斜め切りにする。",
+        "フライパンを火にかけ、胡椒油を入れ白ネギを焦げ目がつくまで炒めていく。",
+        "しばらく炒めたら、豆腐と •の調味料を入れ炒め合わせる。",
+        "豆腐の水気がなくなったら、溶いておいた卵を回し入れ軽くかき混ぜて完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3058190",
+    "advice": "卵を入れたら半熟ぐらいで、火を止めるといい感じに仕上がりますよ！ 豆腐はお好みで木綿でもO.K 食感が変わります",
+    "history": "豆腐を簡単美味しい おかずにしたくて！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ソフト豆腐"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3058190/100x141c/7f286d73a569600756df88a7fc22dfba.jpg?u=7820170&p=1425905940"
+}

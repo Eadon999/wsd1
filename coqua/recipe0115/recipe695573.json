@@ -1,0 +1,70 @@
+{
+    "name": "タコの水菜ときゅうりの中華サラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/695573/464x260/e1fc02b5f89614fe092e954cee6f1ae0.jpg?u=921598&p=1334117459",
+    "datePublished": "2008-12-07",
+    "description": "タコに水菜ときゅうりがピリ辛の手作り中華ドレッシングとの相性バッチリ☆食材の旨みを引き出した美味しいサラダになりました♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "蒸しだこ",
+            "quantity": "200g"
+        },
+        {
+            "name": "水菜",
+            "quantity": "3株"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "●こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに●の調味料を混ぜ合わせておく。",
+        "タコはひと口大に、水菜は3cm幅カット、きゅうりは縦半分の斜め切りにする。",
+        "1のボウルに2を入れて、よく和えたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "695573",
+    "advice": "豆板醤はお好みで加減して下さいね♪",
+    "history": "自身のレシピをアレンジして作りました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "きゅうり",
+        "ごま油",
+        "しょう油"
+    ],
+    "tsukurepo_count": "119",
+    "thumbnail": "https://img.cpcdn.com/recipes/695573/100x141c/94fdfed28a2712c307549669a3595cea.jpg?u=921598&p=1334117459"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "茄子のとろり柔らか☆コトコト煮",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3313366/464x260/4b2a20a747dd123ab25bc8917b36ed72.jpg?u=10112198&p=1440024777",
+    "datePublished": "2015-08-20",
+    "description": "茄子の大量消費出来ます。ほっとする、昔風の味です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "5個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "だしのもと",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "縦半分にし、皮目に斜めに5ミリ幅位に\n浅く包丁を入れる。",
+        "フライパンにごま油を熱し、皮目から焼く。上下を返し両面に油が回ったら調味料を加える。",
+        "煮立ったら極弱火で煮途中で上下を返す(煮崩れそうならしなくても)汁が5ミリ程になったら火を止め冷ましながら味を含ませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3313366",
+    "advice": "焼く時、水気があると、油が跳ねるので、あく抜きはしません。味にはあまり影響ないです。青みなどはなくても大丈夫です。",
+    "history": "明治生まれの祖母がコトコト煮と言って、大きなお鍋で、大量の茄子を煮ていました。茄子は1個丸ごと、大胆でした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ごま油",
+        "調味料",
+        "水"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/3313366/100x141c/37d8f669cd571f818fb8029347489c97.jpg?u=10112198&p=1440024777"
+}

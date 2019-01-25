@@ -1,0 +1,74 @@
+{
+    "name": "ちゃちゃっと出来る☆お豆腐ナムル☆",
+    "author": {
+        "@type": "Person",
+        "name": "ピンクのこぶた"
+    },
+    "image": "https://img.cpcdn.com/recipes/417782/464x260/235e2fcd8ba78d39a0e0c0d986d3c387.jpg?u=459082&p=1214216974",
+    "datePublished": "2007-08-16",
+    "description": "思い立ったらすぐ出来る、簡単ナムルです。にんにくとねぎとゴマのきいた香り高い一品です。冷たくしてお召し上がりください。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "もめん豆腐",
+            "quantity": "３００g"
+        },
+        {
+            "name": "★にんにく（すりおろし）",
+            "quantity": "１／２カケ分"
+        },
+        {
+            "name": "★すりごま",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "★ねぎ（みじん切り）",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小匙２／３"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙１／２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はお皿などをのせて、水切りする。",
+        "ボウルに★の材料を入れて、よく混ぜる。",
+        "水切りした豆腐をちぎり２にあえてできあがり♫♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "417782",
+    "advice": "木綿豆腐の水切り時間はは他の材料をそろえている間だけでも大丈夫です。",
+    "history": "お豆腐に塩だれをかけたら美味しかったので、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もめん豆腐",
+        "にんにく",
+        "すりごま",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/417782/100x141c/de9b5a044553c58254bfd30d9886624a.jpg?u=459082&p=1214216974"
+}

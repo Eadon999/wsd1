@@ -1,0 +1,62 @@
+{
+    "name": "納豆ソースで♪じゃがいもサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "saki1010"
+    },
+    "image": "https://img.cpcdn.com/recipes/475128/464x260/c51bbd54d2ace847638319bd62dbb1ee.jpg?u=484209&p=1293758529",
+    "datePublished": "2007-12-14",
+    "description": "マヨ醤油で味付けした納豆をゆでたじゃがいもに乗せました。なかなかイケる組み合わせ♪【2012/8/28話題入り☆感謝】",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "小２個or大1個"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "小１～"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小２～"
+        },
+        {
+            "name": "★七味or一味",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小１"
+        },
+        {
+            "name": "大葉、ネギなど",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮をむき、サイコロ状に切って水にさらす。納豆は★を入れて混ぜる。",
+        "じゃがいもを洗ってぬめりをとってから、鍋にひたひたの水を入れゆでる。竹串が通る位になったらざるに上げ水気を切る。",
+        "お皿にじゃがいもを盛り、納豆と大葉をのせて出来上がりです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "475128",
+    "advice": "調味料はお好みで加減してください。食べるときはよく混ぜてどうぞ♪",
+    "history": "じゃがいもと納豆の組み合わせで何か出来ない？といわれて、大好きなマヨ醤油で和えてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "納豆",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/475128/100x141c/b9d88a2be6881ec787ba782c63260f85.jpg?u=484209&p=1293758529"
+}

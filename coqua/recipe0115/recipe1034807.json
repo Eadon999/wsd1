@@ -1,0 +1,51 @@
+{
+    "name": "*簡単おいしい*　いづ流卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "いづづん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1034807/464x260/58b4dfb58b5e2ba95f24f5511d676a33.jpg?u=1893511&p=1265715266",
+    "datePublished": "2010-02-09",
+    "description": "朝には、定番♪の卵焼き... このレシピなら簡単で美味しくて色もきれい！ おすすめです^^４月６日話題いり～",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2つ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "蜂蜜",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "まず、ボウルに卵を割り蜂蜜、牛乳も加えて混ぜ合わせます＊",
+        "そして、フライパンに油をひき半分の卵をながし半熟状態になったらくるくる巻いていきます＃",
+        "つぎに残った卵全部を流しいれます＊\r\n（このとき2の卵は端に寄せておきます）",
+        "さいご2も一緒にくるくる巻いて少し焼いたら完成**"
+    ],
+    "cookTime": null,
+    "recipe_id": "1034807",
+    "advice": "3のとき2の卵の下にも卵を流すといいです♪*",
+    "history": "卵焼きの新しい味付けを考えたのです♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "牛乳",
+        "蜂蜜",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1034807/100x141c/3eca49dfdbb2140a5b5f54689f4a4811.jpg?u=1893511&p=1265715266"
+}

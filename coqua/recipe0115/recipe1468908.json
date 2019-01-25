@@ -1,0 +1,58 @@
+{
+    "name": "えのきと絹豆腐の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "inyako"
+    },
+    "image": "https://img.cpcdn.com/recipes/1468908/464x260/9423a7f21290b198c35ddc4ce3bc2c55.jpg?u=2095785&p=1307926576",
+    "datePublished": "2011-06-13",
+    "description": "簡単な具材の味噌汁。キャッチコピー｡｡苦手でボキャブラリー少な･･（汗2012/02/25 つくれぽ 10人 有難う♪",
+    "recipeYield": "３人",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "半袋"
+        },
+        {
+            "name": "絹豆腐",
+            "quantity": "4分の1丁"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "4分の1個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "3センチ幅"
+        },
+        {
+            "name": "ダシ汁",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐。サイノメ\n\n玉ねぎ。スライス\n\n油揚げ。短冊",
+        "ダシ汁に\n味噌と豆腐以外の物を入れて煮る",
+        "煮えたら\n豆腐と味噌を投入\n\n味見て出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1468908",
+    "advice": "またもや時短具材の味噌汁ですえのきは安い時買っておいて冷凍しておきましょう",
+    "history": "子供のころ嫌いだったえのき味噌汁母がよく作ってました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "絹豆腐",
+        "玉ねぎ",
+        "油揚げ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1468908/100x141c/70675deb2c08ab576c64da4c44ff11ce.jpg?u=2095785&p=1307926576"
+}

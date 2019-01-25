@@ -1,0 +1,56 @@
+{
+    "name": "パイナップルチキン",
+    "author": {
+        "@type": "Person",
+        "name": "loveloco"
+    },
+    "image": "https://img.cpcdn.com/recipes/2020214/464x260/480a186636461fdc90e6bab76625baeb.jpg?u=2147820&p=1352706172",
+    "datePublished": "2012-11-12",
+    "description": "塩麹＆パイナップルパワーで、鶏胸肉が崩れるくらい柔らしっとりになります！冷めてもおいしいのでお弁当に◎。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "パイナップルの芯",
+            "quantity": "1個分"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パイナップルの芯をフードプロセッサーで細かくする。",
+        "ビニール袋に材料を全部入れて空気を抜いて密閉し、1晩冷蔵庫で寝かせる。",
+        "スライスしたにんにくとオリーブオイルフライパン弱火で香りがするまであたためる。",
+        "にんにくの香りがしたら、そのまま弱火で両面をじっくり焼きあげ、黒胡椒をふったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2020214",
+    "advice": "焦げやすいので、ゆっくり弱火で火を通してください。にんにく＆黒胡椒なしでも和風でおいしいです。",
+    "history": "スムージーに使ったパイナップルの芯がもったいなかったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生パイナップル芯"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2020214/100x141c/a3e15274f08d5f68ece9c2cfb05d1d23.jpg?u=2147820&p=1352706172"
+}

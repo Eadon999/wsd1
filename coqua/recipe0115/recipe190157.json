@@ -1,0 +1,68 @@
+{
+    "name": "●水菜をたっぷり食べましょサラダ●",
+    "author": {
+        "@type": "Person",
+        "name": "mi-ina"
+    },
+    "image": "https://img.cpcdn.com/recipes/190157/464x260/c9205306ad00aad06688b3f853793d19.jpg?u=21750&p=1313126099",
+    "datePublished": "2005-03-29",
+    "description": "水菜にゆずこしょうを効かせたさわやかなドレッシングでたっぷり食べられるおすすめサラダです！おもてなしにもぴったり♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/3袋"
+        },
+        {
+            "name": "鶏胸肉（ささみでも）",
+            "quantity": "1/3枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゆずこしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は適当な長さに切り、冷水でパリッとさせて水気を切る。きゅうりは縦半分の斜め切り、鶏胸肉はお酒を少々振りレンジで加熱し裂いておく。ちくわはきゅうりと同じように切る。",
+        "マヨネーズ、めんつゆ、ゆずこしょうを合わせドレッシングを作る。",
+        "１をすべて合わせお皿に盛り２のドレッシングをかけいりごまをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "190157",
+    "advice": "ゆずこしょうは辛いのでお好みで量を調節してくださいね！",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/サラダ/お肉を使ったサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "その他/おもてなし料理/おもてなしサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "鶏胸肉",
+        "ちくわ",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/190157/100x141c/dfe90dabbdaf26a1141b6e55ca38e152.jpg?u=21750&p=1313126099"
+}

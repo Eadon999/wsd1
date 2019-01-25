@@ -1,0 +1,48 @@
+{
+    "name": "ウィンナーで簡単♪ロールキャベツ*",
+    "author": {
+        "@type": "Person",
+        "name": "れいこ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2441533/464x260/436f85c4c28e6b49e54b807d95016e0e.jpg?u=8406506&p=1387618278",
+    "datePublished": "2013-12-21",
+    "description": "ウィンナーでロールキャベツ♪柔らかいキャベツで体もぽかぽかです♡話題入りしました！ありがとうございます(^^)v",
+    "recipeYield": "４つ分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "4個"
+        },
+        {
+            "name": "水",
+            "quantity": "600ml"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "2粒"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは巻きやすくするため少し茹でる。",
+        "ウィンナーにキャベツを巻き付けていく。巻きにくい場合は半分に切り、巻く。",
+        "鍋に水、コンソメを入れロールキャベツを入れる。20分煮る。",
+        "皿に盛り付け出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2441533",
+    "advice": "爪楊枝などを巻き付けて煮ると形が崩れません！",
+    "history": "冷蔵庫にあるものでロールキャベツを作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ロールキャベツ 簡単 ウインナー"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2441533/100x141c/d668895c29d7da22c2d33bebed75d510.jpg?u=8406506&p=1387618278"
+}

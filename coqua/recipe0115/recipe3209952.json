@@ -1,0 +1,49 @@
+{
+    "name": "簡単☆水菜と油揚げの煮びたし",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/3209952/464x260/90d5ae7936a1a3f1839819e2b344f833.jpg?u=1690437&p=1433124542",
+    "datePublished": "2015-06-01",
+    "description": "2015・10・8話題入りに感謝♪味付けは白だしだけ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜はふり洗いして4センチ長さに切る。\n\n油揚げは食べやすい大きさに切る。\n",
+        "鍋に水と白出汁を入れ煮立ったら水菜と油揚げを入れ2分煮て火を切る。",
+        "鍋のまま冷ますか丼などの器に汁ごと入れて浸しておく。\n\n（温かいうちにそのまま食べてもよい）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3209952",
+    "advice": "油揚げの油が気になる方はザルに入れて熱湯をかけ油抜きして下さい。",
+    "history": "頂き物の水菜消費に。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "油揚げ",
+        "白だし"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3209952/100x141c/dc5aa9b388c839289de8768cb7c9b68d.jpg?u=1690437&p=1433124542"
+}

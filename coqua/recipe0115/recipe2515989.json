@@ -1,0 +1,55 @@
+{
+    "name": "鶏の半身焼き",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/2515989/464x260/3a51e04d0852e21a06a3be119253e915.jpg?u=2142891&p=1393072333",
+    "datePublished": "2014-02-22",
+    "description": "オーブンでぼん！と焼いてみました。おおざっぱにやっても、皮がぱり！っと焼けて感激でした。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏",
+            "quantity": "半身"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ローズマリー（ドライ）",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉の表面に塩をよくまぶします。",
+        "軽く全体にコショウを降って、ビニール袋に入れ、オリーブオイルをかけてなじませます。",
+        "常温でそのまま３０分。その間にオーブンを２００度に温めます。",
+        "予熱完了したオーブンで、４０分で完成。時間があったら、そのまま１０分置くとベスト。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2515989",
+    "advice": "中まで火が通ったかどうかは、竹串でチェック！です。",
+    "history": "本当は鶏を１羽買ったけど、２人だと食べきれないので、半身にして焼いてみました。皮をぱりっと焼くのって、大変そうで意外とオーブンまかせで大丈夫でした。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/ローストチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏　半身",
+        "鶏 半身 オーブン",
+        "チキン半身",
+        "半身"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2515989/100x141c/2ce079f59bbcf6ae4ebe0035713c9716.jpg?u=2142891&p=1393072333"
+}

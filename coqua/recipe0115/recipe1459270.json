@@ -1,0 +1,71 @@
+{
+    "name": "大根の角煮",
+    "author": {
+        "@type": "Person",
+        "name": "あれみん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1459270/464x260/3a9ff8400acda4adc167e8ba07ebfdc3.jpg?u=2035621&p=1307022994",
+    "datePublished": "2011-06-02",
+    "description": "豚角煮に見えますが、実は大根にお肉が巻いてあります( *´艸`)❤とってもジューシーでウマウマです♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "小１本"
+        },
+        {
+            "name": "豚スライス",
+            "quantity": "250ｇくらい"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃくらい"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大３"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて５センチくらいの長さに切って、十字に縦割りにする。人参は皮をむいて輪切りにする。",
+        "大根に豚肉を巻いて、巻き終わりを下にしてフライパンに乗せていく。",
+        "フライパンに火をつけて肉に焼き色をつける。\n焼き色がついたら、人参と水と調味料を入れ一煮立ちさせる。",
+        "火を弱火にしてアクを取りながら煮詰めて煮汁が少なくなってきたら完成です。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1459270",
+    "advice": "お肉を焼くとき、バラ肉なら油をひかなくても肉から出てくる油で焼けます。2012/1/27　CBCTV『ごごネタ！クックTV』で放送されました♥",
+    "history": "大根の好きな娘とお肉の大好きな旦那様の為に考えました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "豚スライス",
+        "人参",
+        "水"
+    ],
+    "tsukurepo_count": "433",
+    "thumbnail": "https://img.cpcdn.com/recipes/1459270/100x141c/24144b21fa9727e730e92502d3b6ad78.jpg?u=2035621&p=1307022994"
+}

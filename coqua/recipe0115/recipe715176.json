@@ -1,0 +1,64 @@
+{
+    "name": "キャベツと厚揚げを「さっ」と煮たやつ",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/715176/464x260/af42e08701a4f43f09ed132ea06553c9.jpg?u=933655&p=1232111997",
+    "datePublished": "2009-01-16",
+    "description": "「さっ」と煮ただけでこのおいしさ♪",
+    "recipeYield": "４人？",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "４～５枚"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "一枚"
+        },
+        {
+            "name": "★水",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "★粉末だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切り　厚揚げは出来れば油抜きをしてから５ミリくらいの大きさに切る",
+        "★を煮立たせ\r\n１を入れ、キャベツがしんなりしたらそのまま放置♪\r\n味がなじんだら出来上がり～！\r\n冷めてもおいしい！",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "715176",
+    "advice": "キャベツの甘みや量で、調味料は調節してください。煮る時間はお好みで！　",
+    "history": "冷蔵庫に残っていた、キャベツと厚揚げを煮浸しにしてみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ キャベツ 煮"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/715176/100x141c/78ee3188f40728de66cfa3f4d74be14d.jpg?u=933655&p=1232111997"
+}

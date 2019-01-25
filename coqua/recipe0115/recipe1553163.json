@@ -1,0 +1,54 @@
+{
+    "name": "揚げなすの麺つゆ仕立て",
+    "author": {
+        "@type": "Person",
+        "name": "小さいコーヒーの木"
+    },
+    "image": "https://img.cpcdn.com/recipes/1553163/464x260/311be547a78440529e97811b80580487.jpg?u=2781330&p=1314878349",
+    "datePublished": "2011-09-01",
+    "description": "麺つゆを使って、手軽にあっさりと揚げなすを食べましょう2013年4月10日話題入りしましたありがとうございます",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "2本（大きさにより変化）"
+        },
+        {
+            "name": "大根",
+            "quantity": "5センチ"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "麺つゆ（麺のつけ汁の濃さ）",
+            "quantity": "100ml"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは食べやすい大きさに切って、さっと水に晒してアクをとる",
+        "水分を拭きとってから薄く片栗粉をまぶして、揚げる",
+        "大根はおろして、水分を軽くきっておく",
+        "鍋で麺つゆを温め、大根おろしを加えて、さっと温める",
+        "揚げたなすに、大根おろしを加えた麺つゆをかけ、ねぎを散らす"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1553163",
+    "advice": "出来たての温かい物も、翌日冷たく冷やしても、美味しいです",
+    "history": "冷蔵庫の麺つゆを使って手軽に",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "揚げなす",
+        "揚げなす めんつゆ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1553163/100x141c/ec7dd94d8df6289318de89de008fabe5.jpg?u=2781330&p=1314878349"
+}

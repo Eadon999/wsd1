@@ -1,0 +1,77 @@
+{
+    "name": "厚揚げと小松菜の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3470755/464x260/84e283a02de902865043159d8dcbf700.jpg?u=10112198&p=1445417147",
+    "datePublished": "2015-10-21",
+    "description": "♪♪話題入り♪♪冷ましながら、味を含ませます。朝作って夜食べると美味しくなってます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "薄口しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "粉末だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは水道の蛇口のお湯で油をさっと洗い、1センチ厚さに切る。",
+        "小松菜はよく洗い3・4センチ長さに切る。",
+        "フライパンにごま油を熱し、小松菜を炒める。",
+        "小松菜がしんなりしたら、厚揚げを加え\n調味料も加えて10分位煮る。そのまま冷ます。食べる時に再度温める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3470755",
+    "advice": "煮てから時間が経ったほうが美味しいです。",
+    "history": "昔から食べています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": [
+        "厚揚げの煮物 6位"
+    ],
+    "related_keywords": [
+        "小松菜 厚揚げ",
+        "小松菜 厚揚げ 煮物",
+        "小松菜 煮物",
+        "厚揚げ 煮物"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/3470755/100x141c/f9a4476db972b849a0d5663be48b9879.jpg?u=10112198&p=1445417147"
+}

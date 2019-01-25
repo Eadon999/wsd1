@@ -1,0 +1,47 @@
+{
+    "name": "ほうれんそうと大根おろしのハーフ＆ハーフ",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2603311/464x260/2e267049592d8611de774387f563abea.jpg?u=3099986&p=1398858729",
+    "datePublished": "2014-04-30",
+    "description": "食べるとき混ぜても、混ぜなくてもOK。お好きな食べ方でどうぞ。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでたほうれんそう",
+            "quantity": "50ｇ位"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "50g位"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "濃口しょうゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでたほうれんそうと大根おろしを皿に盛り付け、かつおぶしをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2603311",
+    "advice": "ほうれんそうは、ゆでてラップに包んで冷凍しておくと便利。食べるときに、レンジ解凍でOK。",
+    "history": "ほうれんそうも大根おろしも食べたい。そんなとき作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根おろし",
+        "かつおぶし",
+        "濃口しょうゆ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2603311/100x141c/614dc40599e414ec4c230b3751131ca2.jpg?u=3099986&p=1398858729"
+}

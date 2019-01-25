@@ -1,0 +1,71 @@
+{
+    "name": "懐かしの味✾お母さんの他人丼",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3195985/464x260/7340ba3527dc501df568dd8666678475.jpg?u=3243126&p=1534319987",
+    "datePublished": "2015-05-27",
+    "description": "甘辛く煮込んだ牛肉を卵でとじた丼。子どもの頃、週末になるとよく晩御飯に登場したレトロ飯",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗４杯"
+        },
+        {
+            "name": "牛こま切れ肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "80ｇ～"
+        },
+        {
+            "name": "卵",
+            "quantity": "4個"
+        },
+        {
+            "name": "★水",
+            "quantity": "200ml"
+        },
+        {
+            "name": "★酒",
+            "quantity": "50ml"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ３杯"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ2.5杯"
+        },
+        {
+            "name": "★ほんだし",
+            "quantity": "小さじ１/２杯弱"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に★を入れて火にかけ、沸騰してきたら牛こま切れ肉を入れ、中火の弱火で煮る。",
+        "灰汁が出てきたら取り除き、１５分程煮たら火を止める。",
+        "牛肉と煮汁をおたまで一人分すくって、フライパンに入れて火にかけ、その上にネギをのせ、とき卵を流し入れる。",
+        "卵が半熟になれば、火を消して、ごはんの上にのせれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3195985",
+    "advice": "昔を思い出しながら、心を込めて作ります(笑)",
+    "history": "海外に滞在していると、ふと昔懐かしの味が食べたくなって作りました(ー▽ー)",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛とじ丼",
+        "他人丼",
+        "他人丼 牛肉",
+        "週末 夕食"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/3195985/100x141c/3d379a8bde74b101a6880913ffff9a4f.jpg?u=3243126&p=1534319987"
+}

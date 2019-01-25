@@ -1,0 +1,62 @@
+{
+    "name": "ニラと豆腐のフルフル",
+    "author": {
+        "@type": "Person",
+        "name": "とろです"
+    },
+    "image": "https://img.cpcdn.com/recipes/323211/464x260/0d053c40ff259e5e27222e004942bbc2.jpg?u=248457&p=1245310823",
+    "datePublished": "2007-01-27",
+    "description": "ニラと豆腐と卵って相性いいんですよね＾＾豆腐がフルッフルで美味しいよ～♪ 薄味なので風邪をひいたとき等でも、食べやすくニラでパワーアップ↑",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1わ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "ウエイパー",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉・水",
+            "quantity": "各大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを小さく切る。豆腐は1センチ角くらいに切る。卵を溶いておく。",
+        "鍋に水、ニラ、豆腐、ウエイパーを入れ、少し煮る。卵を鍋肌から回しいれ、軽くかきまぜる。片栗粉を水で溶いたものを入れて軽くかきまぜる。ごま油をたらし、出来上がり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "323211",
+    "advice": "あまりかき混ぜしすぎると、豆腐がちいさくなってフルフル感が楽しめなくなるかも～",
+    "history": "ニラたまを作ろうとおもったら卵が1個しかなくて、豆腐をいれてみました。薄味なので調子がイマイチの時でも食べやすいです＾＾＊",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "豆腐",
+        "卵",
+        "ウエイパー"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/323211/100x141c/b7a7d980e7d0e751449a75c2fdb6b00f.jpg?u=248457&p=1245310823"
+}

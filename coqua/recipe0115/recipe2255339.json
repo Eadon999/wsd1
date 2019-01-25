@@ -1,0 +1,55 @@
+{
+    "name": "切干おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2255339/464x260/43acc528ce7f95a75645f0cb9f738fa6.jpg?u=2495483&p=1371097294",
+    "datePublished": "2013-06-13",
+    "description": "食感良くて美味しいです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "６０g位"
+        },
+        {
+            "name": "切干大根",
+            "quantity": "３本の指でひとつかみ"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "２，３滴"
+        }
+    ],
+    "recipeInstructions": [
+        "切干を１０分戻し水気を絞り１センチ位に切り醤油を混ぜる",
+        "鰹と胡麻も混ぜご飯を混ぜおにぎりにする"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2255339",
+    "advice": "",
+    "history": "切干があったのでふと思いついて",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": [
+        "切り干し 10位"
+    ],
+    "related_keywords": [
+        "ご飯",
+        "切干大根",
+        "鰹節",
+        "醤油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2255339/100x141c/22ddc194927b9b7d21f76c1ca5cbb5df.jpg?u=2495483&p=1371097294"
+}

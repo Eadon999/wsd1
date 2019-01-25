@@ -1,0 +1,70 @@
+{
+    "name": "鶏肉とニンニクの芽の炒め",
+    "author": {
+        "@type": "Person",
+        "name": "カフェCOCO"
+    },
+    "image": "https://img.cpcdn.com/recipes/4135125/464x260/8c3bcc71917d2beaf324fb9a04621bec.jpg?u=13904831&p=1493459410",
+    "datePublished": "2016-10-21",
+    "description": "簡単で美味しいです。あっさりした味つけです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "にんにくの芽",
+            "quantity": "1袋"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を細くきります。＊の調味料で下味をつけます。",
+        "にんにくの芽を5cm位にきります。",
+        "フライパンにごま油をひき、鶏肉とニンニクの芽を入れて、炒めます。調味料で味をつけます。コショウはお好みで入れてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4135125",
+    "advice": "コショウは多めに入れても美味しいです。",
+    "history": "ニンニクの芽が、時々食べたくなります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にんにくの芽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "にんにくの芽",
+        "酒",
+        "ごま油"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4135125/100x141c/54d18a8ce2731acd3dd9606c21cc4401.jpg?u=13904831&p=1493459410"
+}

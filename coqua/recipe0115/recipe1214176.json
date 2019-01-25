@@ -1,0 +1,44 @@
+{
+    "name": "お弁当シリーズ♪小松菜のゴマ和え☆",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1214176/464x260/8a86d7933ceaaaf5ac8be1eb48dc734d.jpg?u=268332&p=1282255079",
+    "datePublished": "2010-08-20",
+    "description": "♠2012,8,1話題入り♠お弁当の緑の彩りに手軽にできる一品だよ(*´∀｀*)",
+    "recipeYield": "1cup",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "束の中の１束"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "めんつゆorだししょうゆ",
+            "quantity": "小１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を洗ってそのままの大きさで塩茹でする。",
+        "水で洗ったら粗熱がとれるまで冷まし、ぎゅっと水気を絞る。",
+        "４等分くらいに切って、ゴマとめんつゆをからめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1214176",
+    "advice": "ゴマは白でも黒でも！すりごまでもいりゴマでもOK！",
+    "history": "彩りに緑って大切！今日は冷蔵庫に小松菜があったので簡単にゴマ和えに♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ゴマ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1214176/100x141c/0cf7c40898e56100971b4b595b684d80.jpg?u=268332&p=1282255079"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "人参のサラダ（オリーブオイル）",
+    "author": {
+        "@type": "Person",
+        "name": "sonop"
+    },
+    "image": "https://img.cpcdn.com/recipes/343270/464x260/841f00c0a99d15312916a5e27d8371d2.jpg?u=58665&p=1214215015",
+    "datePublished": "2007-03-12",
+    "description": "まぜるだけ〜のサラダ＾＾☆2010/05/06に話題入りしました。ありがとうございました☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "大葉（バジル、パセリなど）",
+            "quantity": "１〜２枚"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩又はバジルソルト又はクレイジーソルト又はガーリックソルト",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ブラックッペッパー",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は千切りにして熱湯をかけ水気を絞る",
+        "ボールに１と千切りにした大葉オリーブオイル、ブラックペッパー、塩又はクレイジーソルトを入れ混ぜ合わせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "343270",
+    "advice": "オイルとなじませた方がいいかも。",
+    "history": "以前のレシピの材料がきえてしまったので、改訂版という事で改めて見ました。ガーリックやガーリックパウダーを少々お好みで加えるのも良いです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "大葉",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/343270/100x141c/b9fee2139a3471e42b95604b6ab6a051.jpg?u=58665&p=1214215015"
+}

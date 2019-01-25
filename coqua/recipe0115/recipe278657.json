@@ -1,0 +1,50 @@
+{
+    "name": "居酒屋メニュー♪豆腐のめんたいグラタン♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/278657/464x260/299c137c5a1e2f17fd5040bf6bade403.jpg?u=239563&p=1214213562",
+    "datePublished": "2006-09-03",
+    "description": "近所の居酒屋さんで人気のメニューです♪簡単でとっても美味しい！お酒のお供にもピッタリです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐（絹ごし）",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "明太子",
+            "quantity": "1はら"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ　1"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はしっかり水切りする。明太子の皮を取り除いた中身とマヨネーズを混ぜ合わせる。",
+        "水切りした豆腐を一口大に切る。耐熱皿並べ、その上に明太マヨネーズをかける。",
+        "②をトースターで６～７分焼いたら出来上がり♪お好みで一味唐辛子を振って召し上がれ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "278657",
+    "advice": "豆腐は焼いた時に水分が出ないように、よく水切りしてください。辛いのが好きな人！ぜひ、一味唐辛子をふって食べてください♪",
+    "history": "居酒屋さんのメニューにこんな風なのがあって、とても美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "明太子",
+        "マヨネーズ",
+        "一味唐辛子"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/278657/100x141c/01bbd29a286c181342919ddc60bd8b13.jpg?u=239563&p=1214213562"
+}

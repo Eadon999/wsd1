@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】小松菜の浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1417735/464x260/b7a93c3fbb788a8d55f5a9437322277f.jpg?u=2513693&p=1303397973",
+    "datePublished": "2011-04-24",
+    "description": "ビニール袋で簡単浅漬け。作ってそのまま冷蔵庫で保存できるし楽ちんですよ。小松菜の浅漬けは野沢菜のような食感です♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "粗塩",
+            "quantity": "６ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "昆布",
+            "quantity": "3センチ程度（細切りにしておく）"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "1本（種を取って小口切りにしておく）"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜に熱湯をかけてしんなりさせ、ビニール袋に入れます。",
+        "ビニール袋の中に【A】を入れ、空気を抜いて口を閉めます。しっかり空気を抜いて下さいね。12時間程度冷蔵庫で保存し完成です"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1417735",
+    "advice": "ビニール袋の中の空気を抜くのがPOINTです。12時間冷蔵庫で漬けますが、その間に１～２回は再度空気を抜いて下さいね。すじっぽい小松菜の場合はみじん切りにして食べるといいですよ。繊維を断ち切るので。",
+    "history": "少量の菜っ葉類は簡単に浅漬けが出来るのでビニール袋で漬けています",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "野沢菜の浅漬け",
+        "小松菜 浅漬け",
+        "小松菜 野沢菜",
+        "小松菜 漬物"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1417735/100x141c/ab80b5b11affbe902517489a6943f4e0.jpg?u=2513693&p=1303397973"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "牡蠣って美味しい☆牡蠣のチーズピカタ",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3461576/464x260/288ebcb679d04151a38b962558fefa92.jpg?u=10112198&p=1446629169",
+    "datePublished": "2015-11-04",
+    "description": "牡蠣の旨味が口の中で溢れます。カキフライより工程が少ないのに優るとも劣らない美味しさです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣(冷凍ものでもok)",
+            "quantity": "10個位"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を溶いて粉チーズ\nとよく混ぜる",
+        "牡蠣はよく洗い、塩こしょうをし、小麦粉を付ける。",
+        "フライパンにオリーブオイルを熱し、牡蠣を卵液にくぐらせながら入れる。",
+        "あまりいじらず焼く。卵液が少し固まってきたら、上下を返す(卵液が残っていたら牡蠣の周りに流し入れる)"
+    ],
+    "cookTime": null,
+    "recipe_id": "3461576",
+    "advice": "好みにもよるけれど、焼きすぎないほうがいいかも。",
+    "history": "牡蠣フライがチョット面倒‥‥。なんて思う時に作ったのですが、これが美味しかったぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牡蠣 ピカタ",
+        "かき ピカタ",
+        "牡蠣"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/3461576/100x141c/848d9aa1a9aee8319a00c465677fda51.jpg?u=10112198&p=1446629169"
+}

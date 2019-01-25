@@ -1,0 +1,74 @@
+{
+    "name": "なすの青じそマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "souffles"
+    },
+    "image": "https://img.cpcdn.com/recipes/1520439/464x260/f7fe1667162776b7a2052e7749feee9a.jpg?u=2228826&p=1313021000",
+    "datePublished": "2011-08-11",
+    "description": "なすに青じそとみょうがの香りがぴったり♪いつも冷蔵庫においておきたい和風マリネです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "3本"
+        },
+        {
+            "name": "青じそ（千切り）",
+            "quantity": "４～５枚"
+        },
+        {
+            "name": "長ねぎ（みじん切り）",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "小１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは食べやすい大きさに切る。",
+        "オリーブオイルを熱した鍋に、長ねぎ・おろししょうがを入れる。",
+        "香りがたってきたらなすを入れて炒め、\n水少々（分量外）を入れて蓋をして、弱火で蒸し焼きにする。",
+        "なすがやわらかくなったら、青じそとＡを入れて火からおろす。",
+        "冷蔵庫で冷たく冷やす。",
+        "皿に盛り、お好みで薄切りにしたみょうがを添える。",
+        "2013.6.10【れぴまが】にピックアップ、さらに話題入りさせていただきました！ありがとうございます♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1520439",
+    "advice": "濃いめの味がお好みなら、しょうゆを足してください。",
+    "history": "冷たいなすが食べたくて簡単マリネを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "青じそ",
+        "長ねぎ",
+        "おろししょうが"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/1520439/100x141c/bf6d3e8f03ab7e641dd21035f667aefd.jpg?u=2228826&p=1313021000"
+}

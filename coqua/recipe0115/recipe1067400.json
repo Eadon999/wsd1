@@ -1,0 +1,55 @@
+{
+    "name": "レンチン☆小松菜のゴマ和え（大葉入り）",
+    "author": {
+        "@type": "Person",
+        "name": "東野もみじ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1067400/464x260/68bdac879abbff9736bebd9e39c97b08.jpg?u=997717&p=1275468521",
+    "datePublished": "2010-03-15",
+    "description": "★2010.10.07話題入り★小松菜のゴマ和えに大葉が入るだけで風味と香りがアップします。大葉好きの方に是非オススメ！",
+    "recipeYield": "小松菜1束分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "大葉",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を洗って、水気を切らずにラップに包み、電子レンジで2分ほど加熱する。\r\n（熱の通り具合をみて加減して下さい）",
+        "大葉を洗い、水気を切って千切りにしておく。",
+        "小松菜に熱が通ったら水にさらして熱を取り、軽く絞ったら４～５cm間隔で切る。",
+        "切った後、再度小松菜の水気を絞り、ボウルに入れて醤油・砂糖・すりごま・大葉を入れて混ぜ合わせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1067400",
+    "advice": "",
+    "history": "母の入院先の病院でこれを食べたときにとても美味しいと感じたので、自分なりの味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "大葉",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1067400/100x141c/1e049a1ab42caf19b63880a822f86c64.jpg?u=997717&p=1275468521"
+}

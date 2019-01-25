@@ -1,0 +1,58 @@
+{
+    "name": "☆カボチャの煮物☆ ",
+    "author": {
+        "@type": "Person",
+        "name": "HANA★0823"
+    },
+    "image": "https://img.cpcdn.com/recipes/2313542/464x260/26d9644d05980d269b403d2a61bb62ea.jpg?u=1240215&p=1376351391",
+    "datePublished": "2013-08-13",
+    "description": "甘さ控え目の優しい味で、ほっこりした気分になります(*^^*)",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "カボチャ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "水",
+            "quantity": "200ml"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャを食べやすい大きさに切る。手間でなければ面取りする。",
+        "鍋にカボチャ、その他の材料全て入れる。",
+        "火を付け、沸騰したら中火～弱火にし落し蓋をしてカボチャが柔らかくなるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2313542",
+    "advice": "この煮物が余ったら…カボチャを軽く潰してマヨネーズ、スライスアーモンド、クルミなどを入れてカボチャサラダにしても美味しいですよ!!",
+    "history": "味の濃い煮物が苦手で自分好みの味付けを調節していました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カボチャ",
+        "水",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2313542/100x141c/9aeb19e6a80115458ac977d7a1296548.jpg?u=1240215&p=1376351391"
+}

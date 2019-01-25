@@ -1,0 +1,56 @@
+{
+    "name": "小松菜とかにかまのゴマ味噌サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "管理栄養士ami"
+    },
+    "image": "https://img.cpcdn.com/recipes/4363767/464x260/ad55a03ec67c23f5583db010ebf33118.jpg?u=5422661&p=1487414086",
+    "datePublished": "2017-02-18",
+    "description": "うちの定番。隠し味の味のマヨでお子ちゃまでも食べやすい味に‼︎調味料は、味見をしながら調整してね( ´ ▽ ` )ノ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "2袋"
+        },
+        {
+            "name": "かにかま1袋",
+            "quantity": "1袋（70ｇ）"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●きび砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●黒すりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は3cm程の長さに切り、茹でて水気を絞る。\n",
+        "かにかまは、細く裂いておく。",
+        "ボウルに1と2.●の材料を和えて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "4363767",
+    "advice": "お子さん、お年寄りのいるご家庭は小松菜を少し柔らかめに茹でるといいですよ。",
+    "history": "子どもが苦手な青菜もかにかまとマヨ効果で美味しく食べれます！わが家の人気定番メニュー。お弁当にもおススメ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 カニカマ",
+        "小松菜 カニカマ サラダ"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/4363767/100x141c/fbd6722d93eda6b6c3c70bf31973bcd6.jpg?u=5422661&p=1487414086"
+}

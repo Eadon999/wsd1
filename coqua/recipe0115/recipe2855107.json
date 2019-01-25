@@ -1,0 +1,57 @@
+{
+    "name": "わかめと豆腐と白菜　卵のほっこりみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2855107/464x260/ee4b048459e6f097034b953dce3119cd.jpg?u=822079&p=1414399736",
+    "datePublished": "2014-10-27",
+    "description": "白菜の甘みが白味噌とあいますね～^^話題のレシピ入り有難うございます！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "おおさじ2"
+        },
+        {
+            "name": "白菜",
+            "quantity": "4枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "たまご",
+            "quantity": "1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "おおさじ3位"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "800ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁に白菜をいれ柔らかくなるまで煮る",
+        "わかめ　豆腐をいれ煮立ってきたら溶いた卵をいれ火を止め味噌を溶かしいれる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2855107",
+    "advice": "白菜はお好みの硬さで♪",
+    "history": "おうちにあった材料で^^",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 わかめ 味噌汁",
+        "卵 みそ汁",
+        "白菜 味噌汁",
+        "白味噌 味噌汁 豆腐"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2855107/100x141c/bac388dc70ec8db88a6b9dddf35f9c4d.jpg?u=822079&p=1414399736"
+}

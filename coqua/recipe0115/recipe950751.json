@@ -1,0 +1,56 @@
+{
+    "name": "自家製甘辛あげのきつねうどん",
+    "author": {
+        "@type": "Person",
+        "name": "はらへり侍"
+    },
+    "image": "https://img.cpcdn.com/recipes/950751/464x260/52a9c9cc3317dde3f2426dc95227d60a.jpg?u=421918&p=1256824738",
+    "datePublished": "2009-11-06",
+    "description": "冷蔵庫にある油揚げで、簡単甘辛のあげができます。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "☆だし",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "☆さとう",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１/２強"
+        },
+        {
+            "name": "うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "うどんだし",
+            "quantity": "４５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "揚げは半分に切っておく。",
+        "小鍋に１と☆の調味料を入れて、水分が１/３になるまで煮詰めたら、火から外して１０分くらい置いておく。",
+        "茹でたうどんを温めただし汁の中に入れ、その上に２をのせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "950751",
+    "advice": "",
+    "history": "自家製だと甘辛さがきつ過ぎず、いい感じに。 常備の食品であっという間に出来るので、１人ランチによく作っています。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん",
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手作りうどん"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/950751/100x141c/c4b8dbb91c9585231851d8c1b5f59474.jpg?u=421918&p=1256824738"
+}

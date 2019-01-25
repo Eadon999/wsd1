@@ -1,0 +1,58 @@
+{
+    "name": "★こんにゃくの炒り煮★",
+    "author": {
+        "@type": "Person",
+        "name": "よもさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/371402/464x260/6ff37e6c82aea80f082fddf74a2ede17.jpg?u=20861&p=1214215616",
+    "datePublished": "2007-05-10",
+    "description": "昔からお弁当によく入ってた、母の味です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "一枚"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを好みの形に切る。味がしみこみやすいように切るのがポイントです♪",
+        "テフロンのフライパンを使い、油などは敷かずに弱火でこんにゃくをからいりする。",
+        "調味料を全部いれ、少し火を強めて箸で転がしながら焦げないように煮詰めていく。煮汁がなくなるくらいまで煮詰まったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "371402",
+    "advice": "最初のからいりをしっかりすることで時間がたっても水っぽくならず、味がしっかりからみます。",
+    "history": "中高生のとき毎日食べていた母の手作り弁当によく入ってたおかずです。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "しょうゆ",
+        "みりん",
+        "酒"
+    ],
+    "tsukurepo_count": "92",
+    "thumbnail": "https://img.cpcdn.com/recipes/371402/100x141c/4747303a8a8273c9318dac228e8f4799.jpg?u=20861&p=1214215616"
+}

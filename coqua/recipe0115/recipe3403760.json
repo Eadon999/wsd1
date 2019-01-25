@@ -1,0 +1,50 @@
+{
+    "name": "焼き肉のたれで超簡単☆そぼろ豆腐♪",
+    "author": {
+        "@type": "Person",
+        "name": "ｋｅｉｋａｎａ　"
+    },
+    "image": "https://img.cpcdn.com/recipes/3403760/464x260/b1737a428a13a75dd714ee030e3736da.jpg?u=1119884&p=1442191405",
+    "datePublished": "2015-09-14",
+    "description": "「マーボ豆腐を作ろうかと思ったけど…、とろみをつけるのも面倒だなぁ～。」と思ったらコレ！材料も少なく、超簡単♪",
+    "recipeYield": "２",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "合挽ミンチ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "焼き肉のたれ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "１０ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "【準備】\n豆腐は水切りし、２ｃｍ角に切る。",
+        "ミンチを炒め、焼き肉のたれを入れる。",
+        "２に豆腐を加え、豆腐にたれを絡めるように炒める。",
+        "３に刻みねぎを加えて混ぜ合わせたら出来上がり♪",
+        "2017.2.5（月）、話題入りに感謝☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3403760",
+    "advice": "豆腐は形が崩れないように、優しく炒めてくださいね。",
+    "history": "子どもたちがコストコのプルコギのたれ味が好きなので、マーボ豆腐風にできないかなと思って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/あい挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そぼろ焼き肉のたれ",
+        "そぼろ豆腐"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/3403760/100x141c/d21a192046bba59dc854168645279459.jpg?u=1119884&p=1442191405"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "ダイエット♪白滝メインのささみすき焼き",
+    "author": {
+        "@type": "Person",
+        "name": "かえかえこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/566477/464x260/09e2730696ebc1e95a3b4ec1f6f34394.jpg?u=829271&p=1214219869",
+    "datePublished": "2008-05-09",
+    "description": "これはかなりウマイです！白滝でお腹の掃除、ネギで代謝アップ、ささみでタンパク質摂取♪もりもり食べても低カロリー☆",
+    "recipeYield": "２人〜小鉢で４人分、もしくはたっぷり１人分",
+    "recipeIngredient": [
+        {
+            "name": "白滝",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ささみ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１／２〜１本"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "４０cc"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "４０cc"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "４０cc"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆顆粒だし",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "白滝はざるにあげ、水でよく洗って食べよく切る。ささみはそぎ切り、ネギは斜め薄切りにする。",
+        "鍋に☆を入れ、沸騰したら具を入れて７〜１０分煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "566477",
+    "advice": "えのきや焼き豆腐を入れてもおいしいです☆",
+    "history": "おいしいダイエットメニュー考案中♪",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ダイエット",
+        "ささみ すき焼き",
+        "しらたき",
+        "すき焼き ダイエット"
+    ],
+    "tsukurepo_count": "162",
+    "thumbnail": "https://img.cpcdn.com/recipes/566477/100x141c/bae89ede4aa75f8fe57618ae41041d37.jpg?u=829271&p=1214219869"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "♡キャベツ＆シーチキンのサラダ♡",
+    "author": {
+        "@type": "Person",
+        "name": "はむむん"
+    },
+    "image": "https://img.cpcdn.com/recipes/426054/464x260/a2f4513dfce3e9c228b5748f080d0ab5.jpg?u=487588&p=1214217145",
+    "datePublished": "2007-09-05",
+    "description": "キャベツの鮮度が落ちてしまうとコレを作ります！一度ゆでるので多少しなびていても大丈夫。ごまの風味がおいしい一品です(*´･ω･`*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4～5枚"
+        },
+        {
+            "name": "シーチキン",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "ごま",
+            "quantity": "お好み量"
+        },
+        {
+            "name": "白だし醤油（しょうゆ）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "2.3滴"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好み量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはゆでてくださいね～。しんなりしてきたらざるにとって\r\n水気を切ります！\r\n",
+        "キャベツを食べやすいサイズに切って、ボウルに入れます。残りの材料を入れて和えれば完成です♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "426054",
+    "advice": "キャベツの硬さはお好みで～。ゆで時間を調整してくださいね(◕ฺ‿◕ฺ✿ฺ) ",
+    "history": "キャベツがしなびてきました･･･生で食べるのはやだなぁ～と思ったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "シーチキン",
+        "ごま",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/426054/100x141c/fc56a5c7069b8138c92c6c1b9024790c.jpg?u=487588&p=1214217145"
+}

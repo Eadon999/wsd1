@@ -1,0 +1,59 @@
+{
+    "name": "ヘルシー✿豚こまと小松菜の味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2602952/464x260/af17e40b240b8f54be92e0d92650e47e.jpg?u=3540419&p=1398434889",
+    "datePublished": "2014-04-25",
+    "description": "味噌味がご飯にあいます♡余分な脂をふき取りながら炒めるのでヘルシー！簡単です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "160g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は3cm長さに切る",
+        "フライパンに油をひき、豚肉を炒める。豚肉から出てきた脂はクッキングペーパーでふき取る",
+        "豚肉の色が変わったら、小松菜を加えて炒める",
+        "火が通ったら、★を加えて全体にからまったらできあがり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2602952",
+    "advice": "小松菜は下ゆでがいらないので簡単です！",
+    "history": "小松菜を炒め物に使ってみようと作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま 小松菜",
+        "小松菜 豚肉 味噌",
+        "豚こま切れ肉 ヘルシー"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/2602952/100x141c/02cb1d4180cfb3b3b62e42c0e576db9d.jpg?u=3540419&p=1398434889"
+}

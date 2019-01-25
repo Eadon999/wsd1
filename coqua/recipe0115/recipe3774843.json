@@ -1,0 +1,60 @@
+{
+    "name": "主役は切り干し大根☆搾菜入りサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3774843/464x260/0637bb9dbd4243c06d9ac30706b1faed.jpg?u=10112198&p=1460191338",
+    "datePublished": "2016-04-04",
+    "description": "簡単！体によい和サラダです(*^_^*)歯ごたえが快適♪ドレッシングもシンプルです。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "切り干し大根",
+            "quantity": "30g(乾燥)"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "水菜(ベビーリーフorキャベツでも",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "搾菜(桃屋の瓶入り使用)",
+            "quantity": "50g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根は袋の表示通りに水で戻し\nしっかり水気を絞り食べやすい長さにカットする。",
+        "かいわれ大根、水菜も食べやすい長さにカットする。水気をしっかり切る。",
+        "搾菜は千切りにする。食べる直前にドレッシングで和える。",
+        "キャベツバージョンです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3774843",
+    "advice": "よく水気を切ること。",
+    "history": "乾物が好きなので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ザーサイ 切り干し大根"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3774843/100x141c/2ff75bff48cb6b93d30ed85f908013e2.jpg?u=10112198&p=1460191338"
+}

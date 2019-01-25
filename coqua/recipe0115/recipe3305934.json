@@ -1,0 +1,44 @@
+{
+    "name": "焼きカボチャ",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3305934/464x260/32d2eed660ae3d00b5eabde5982fb6dc.jpg?u=10112198&p=1437344995",
+    "datePublished": "2015-07-20",
+    "description": "食材はカボチャだけ！カボチャの味を楽しめます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "美味しいカボチャ",
+            "quantity": "1/10個位"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "7・8ミリの厚さに切ります。",
+        "フライパンにオリーブオイルを熱し、\n弱火にし、カボチャをゆっくり焼く。塩コショウをする。",
+        "5・6分焼いて、楊枝で刺してすっと刺されば出来上がり。",
+        "サラダに入れました"
+    ],
+    "cookTime": null,
+    "recipe_id": "3305934",
+    "advice": "塩コショウはお好みで。私は塩コショウをしない時もあります。焼くだけだとカボチャの美味しさを味わえます♪",
+    "history": "これだけで一品。付け合わせにも使えます。お弁当にもむいています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きかぼちゃ"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/3305934/100x141c/df75de5460f4d1c93d10c459c692dbca.jpg?u=10112198&p=1437344995"
+}

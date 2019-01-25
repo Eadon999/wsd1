@@ -1,0 +1,55 @@
+{
+    "name": "豚肉とチンゲンサイのオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "suika0208"
+    },
+    "image": "https://img.cpcdn.com/recipes/94809/464x260/476a7bc3f8866194cb540efa727ab25f.jpg?u=20844&p=1214209965",
+    "datePublished": "2003-05-30",
+    "description": "ご飯がすすむおかずです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚モモ",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "チンゲンサイ",
+            "quantity": "２把"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲンサイの葉は３センチ位のザク切りにし、茎（？）の部分はお好みの大きさに切る。\r\n豚肉は細切りにする。\r\n",
+        "豚肉は塩で下味をつけた後、片栗粉をまぶす。",
+        "フライパンに油を熱し、豚肉を炒める。色が変わってきたらチンゲンサイの茎の部分を加え炒める。\r\n大体火が通ったところで葉の部分を加え、火が通ったらオイスターソースで味付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "94809",
+    "advice": "",
+    "history": "昔勤めていた会社の近くの中華料理屋さんで食べたのを真似て作ってみたら出来ちゃいました(^^ゞ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚もも 青梗菜"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/94809/100x141c/1f130bf40706705314ddeca74046369a.jpg?u=20844&p=1214209965"
+}

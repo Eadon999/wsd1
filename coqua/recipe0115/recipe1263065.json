@@ -1,0 +1,46 @@
+{
+    "name": "鮭のマヨチーズグリル",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1263065/464x260/1075be3a0c6b565fea78cd7c85a76246.jpg?u=377757&p=1287477195",
+    "datePublished": "2010-10-20",
+    "description": "トースターで簡単あっという間のグリル料理☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭（甘口）",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "１／２枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トースターのトレーにオーブンシートを敷いて鮭をのせる。スプーンでマヨネーズを塗りその上からチーズをちぎって乗せる。",
+        "最後にオリーブオイルをふりかけて、約１０分焼いて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1263065",
+    "advice": "もちろんピザ用チーズでも◎鮭の塩加減は差があるので、必要であればマヨネーズの前に塩コショウして調整してください。焼き時間はお手持ちのトースターに合わせて調整してくださいね＾＾",
+    "history": "お弁当のおかずにもなって、朝食やランチでも簡単に出来るグリル料理を考えました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "グリル料理"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1263065/100x141c/510c46ed4768b4d64e7dc103edbf0d02.jpg?u=377757&p=1287477195"
+}

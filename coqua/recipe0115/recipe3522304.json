@@ -1,0 +1,78 @@
+{
+    "name": " 味噌で☆肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3522304/464x260/3dab9a7fd8406bb070cc5cc4612bd373.jpg?u=10112198&p=1447747014",
+    "datePublished": "2015-11-18",
+    "description": "調味料のしょう油を味噌にしただけ。目先がかわって、箸が進みます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも(4つ割り)",
+            "quantity": "3個"
+        },
+        {
+            "name": "人参(じゃがいもより小さく)",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "玉ねぎ(くし形切り)",
+            "quantity": "1個"
+        },
+        {
+            "name": "豚バラ肉(3・4センチ長さ)",
+            "quantity": "8枚位"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2から3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "ひたひた"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に胡麻油を熱し、材料を全て入れ、炒める。",
+        "水をひたひたに入れ\nだしの素を加え、あれがアク取りペーパーをし煮る。",
+        "人参が柔らかくなったら調味料を加え一煮立ちさせ、冷ましながら味を含ませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3522304",
+    "advice": "味噌はお好みで加減して下さい。",
+    "history": "自家製の味噌がたくさんあります。しょう油のかわりに使ったら、思ったより好評でした♪実家の北海道では肉じゃがのお肉は豚肉です！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "人参",
+        "玉ねぎ",
+        "豚バラ肉"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3522304/100x141c/f3f48a6b6cb2314189ceb196f21e83c8.jpg?u=10112198&p=1447747014"
+}

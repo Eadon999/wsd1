@@ -1,0 +1,59 @@
+{
+    "name": "とん汁あんかけご飯",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2719061/464x260/2ea8340af470bf26b7bca265a0899020.jpg?u=3280486&p=1405905594",
+    "datePublished": "2014-07-21",
+    "description": "「ファミコレ」の「とん汁」活用レシピ★　「いつものとん汁」をあんかけご飯にアレンジです(=^0^=)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "「Family Mart collectin」おとなのお味噌汁　とん汁",
+            "quantity": "1個"
+        },
+        {
+            "name": "温かいご飯",
+            "quantity": "1人分（200ｇ）"
+        },
+        {
+            "name": "片栗粉・水",
+            "quantity": "各小さじ2"
+        },
+        {
+            "name": "青ねぎ（小口切り）",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "熱湯",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "今回使用した「ファミコレ」は「とん汁」です。",
+        "袋を取り出し、中身をカップに入れて熱湯を線まで注ぎ、混ぜ合わせます。※まず通常通りに作ります。",
+        "②を鍋にあけて強火。煮立ったら弱火に落として水溶き片栗粉でとろみをつけます。",
+        "器に盛ったご飯の上に③をかける。青ネギと七味唐辛子をかけたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2719061",
+    "advice": "水溶き片栗粉を入れたら、しばらく（1分ほど）煮てください。初めは水っぽいですが、時間が経つととろみがついてきます。",
+    "history": "いつものとん汁を更に美味しく食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温かいご飯",
+        "青ねぎ",
+        "七味唐辛子",
+        "熱湯"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2719061/100x141c/a2cb70ece32889b2cb6211e2dcfd7007.jpg?u=3280486&p=1405905594"
+}

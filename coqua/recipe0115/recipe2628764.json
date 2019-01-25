@@ -1,0 +1,60 @@
+{
+    "name": "大根とピーマンの副菜",
+    "author": {
+        "@type": "Person",
+        "name": "綾音❀"
+    },
+    "image": "https://img.cpcdn.com/recipes/2628764/464x260/642416519962ef7ac9582ade54bc804d.jpg?u=9168008&p=1400207214",
+    "datePublished": "2014-05-18",
+    "description": "油を使わずヘルシーな副菜!!お弁当・おつまみにも!!",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "120g(千切り)"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個(千切り)"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2(千切り)"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油・あごダシ(和風ダシでもOK)",
+            "quantity": "各　小さじ1"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根・ピーマン・人参は、同じ大きさで、細めに切り揃える。",
+        "フライパンに、大根・ピーマン・人参、水・味醂・醤油・ダシを入れ火をつけ弱めの中火で、炒めるようにヘラを使い煮る。",
+        "煮汁が無くなったら、胡麻をふり、器に盛り付けて出来上がり。唐辛子・七味などをかけたら、おつまみにもなりますよ。",
+        "こんな感じで、ご飯の上にのせて!お弁当にもピッタリですよ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2628764",
+    "advice": "冷蔵庫で、2～3保日存出来ます。",
+    "history": "大根があったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ピーマン 副菜"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2628764/100x141c/d2547c2e6846d02e6e33ef72cbbc7185.jpg?u=9168008&p=1400207214"
+}

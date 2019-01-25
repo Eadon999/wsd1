@@ -1,0 +1,50 @@
+{
+    "name": "梅で爽やか☆鯵のなめろう",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2663324/464x260/9dc9c622ebb054b49773a94e54da5bdf.jpg?u=1298841&p=1404914695",
+    "datePublished": "2015-06-25",
+    "description": "梅の爽やかな酸味がアクセントの、ご飯やお酒がすすむ絶品のなめろうです☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯵の刺身（三枚下ろし）",
+            "quantity": "4枚"
+        },
+        {
+            "name": "小ねぎ(小口切り)",
+            "quantity": "2本"
+        },
+        {
+            "name": "大葉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "南高梅干し",
+            "quantity": "1個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "細かく刻んだ梅干と小ねぎと鯵と味噌を、まな板の上でひとまとまりになるくらいまで包丁で混ぜながら刻む。",
+        "器に盛り、刻んだ大葉を添える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2663324",
+    "advice": "",
+    "history": "梅が爽やかな、我が家のなめろうです♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめろう 梅"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2663324/100x141c/adff90bbcf11b53cd1cb92586e014507.jpg?u=1298841&p=1404914695"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "おつまみに　おくらと長いもの柚子胡椒和え",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2354735/464x260/26d41193df9b3e0852a818193484d788.jpg?u=6238111&p=1380013032",
+    "datePublished": "2013-09-24",
+    "description": "ねばねば食材と、柚子胡椒のすっきりとした辛味が、よく合います。手早く作れるので、箸休めやお通しにもってこいです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "８本"
+        },
+        {
+            "name": "長芋",
+            "quantity": "200g"
+        },
+        {
+            "name": "焼きのり",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "めんつゆ(三倍濃縮)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "おくらに塩をまぶし、まな板の上で転がす。湯を沸かし、2分茹でたら、冷水にとり、輪切りにする。\n長芋はさいのめ切りにする。",
+        "ボウルにおくら、長芋、調味料を加えあえる。のりもちぎって加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2354735",
+    "advice": "柚子胡椒の量はお好みで加減してください。",
+    "history": "冷蔵庫にあるもので、作りました。混ぜるだけの簡単レシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら",
+        "長芋",
+        "焼きのり",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2354735/100x141c/7e6d9dfa3e9bc1d98ff88f2cafb57ee6.jpg?u=6238111&p=1380013032"
+}

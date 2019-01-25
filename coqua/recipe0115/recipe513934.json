@@ -1,0 +1,64 @@
+{
+    "name": "ごぼうとツナのそぼろ",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/513934/464x260/cdccb2ec86cab95c50e94fafae759bb6.jpg?u=212659&p=1220921300",
+    "datePublished": "2008-02-23",
+    "description": "牛蒡の香りが美味しい甘辛ツナそぼろ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "１本"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１７０g入り２缶"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "１００cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮をきれいに洗い小さく切ってフードプロセッサーで細かくする。",
+        "フライパンにサラダ油を熱し１の牛蒡を炒める。ツナの水またはオイルをきって実だけをほぐして加え炒める。",
+        "調味料を全て加えて弱火でかき回しながら加熱。水分が飛びパラパラになれば出来上がり。",
+        "薄くバターを塗った食パンにチーズと一緒に乗せて焼いた和風ピザ風トースト",
+        "お寿司に使いました。　レシピID:260601"
+    ],
+    "cookTime": null,
+    "recipe_id": "513934",
+    "advice": "",
+    "history": "昔、知り合いにご馳走になった味を思い出しながら適当に作ってみたところ子供たちのお気に入りに。以来、我が家の常備菜になっています。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "ツナ",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/513934/100x141c/2407660bd556977637651fed1ac8ebbe.jpg?u=212659&p=1220921300"
+}

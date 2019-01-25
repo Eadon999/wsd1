@@ -1,0 +1,48 @@
+{
+    "name": "【農家のレシピ】蒸しなすのマヨネーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1895767/464x260/8ea7c47df0110347b2003f715344c4eb.jpg?u=2513693&p=1343307074",
+    "datePublished": "2012-07-27",
+    "description": "レンジでチンして作る蒸しナスにマヨネーズをつけてトースターで焼くだけ。でもやみつき間違いなしです♪　　",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レンジで簡単☆蒸しなす（レシピID :1892684）",
+            "quantity": "２本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１.5～２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "蒸しナスのヘタを取り縦半分切り、切り口に塩少々をふりかけ、上にマヨネーズを塗ってトースターでマヨネーズが溶けるまで焼く",
+        "最後に粗びき黒こしょうをかけて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1895767",
+    "advice": "マヨネーズの量はお好みで（多い方が美味しいです）",
+    "history": "レンジで作る蒸しナスを使って色んな料理を作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マヨネーズ",
+        "塩",
+        "粗びき黒こしょう"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1895767/100x141c/194aef396f51a1cfa49d7fd7d31f5a93.jpg?u=2513693&p=1343307074"
+}

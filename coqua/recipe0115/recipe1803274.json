@@ -1,0 +1,51 @@
+{
+    "name": "朝食☆角切りじゃがいもとチーズのオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "大井町子"
+    },
+    "image": "https://img.cpcdn.com/recipes/1803274/464x260/699e737001101d8f8e7fcdb152275e34.jpg?u=4284165&p=1336723664",
+    "datePublished": "2012-05-11",
+    "description": "2013/5.30オムレツのカテゴリ入り感謝♡朝ご飯やパンのお供に☆簡単おいしい！バジルなど加えるとまた違ったおいしさ！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "50cc"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもを細かい角切り。卵、牛乳、粉チーズはよく混ぜておく。",
+        "オリーブオイルでじゃがいもを塩、コショウを加えて炒める。",
+        "溶き卵を加えて炒める。お好みの焼き加減でできあがり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1803274",
+    "advice": "簡単でおいしい！お好みでバジルなどもまた違う味に！チーズもお好みで量を変えてください！",
+    "history": "友達と住んでる頃によく作ってくれたオムレツ！チーズinで今でも私の朝ご飯です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいもチーズオムレツ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1803274/100x141c/1bdbfdeaa28077dc794d21f29724bf88.jpg?u=4284165&p=1336723664"
+}

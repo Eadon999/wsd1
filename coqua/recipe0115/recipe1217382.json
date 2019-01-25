@@ -1,0 +1,73 @@
+{
+    "name": "☆簡単★鶏ササミガーリック丼☆",
+    "author": {
+        "@type": "Person",
+        "name": "オフィーリア★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1217382/464x260/c6d26409af8ff3a6362ceba33f21779f.jpg?u=2330927&p=1282637957",
+    "datePublished": "2010-08-24",
+    "description": "冷蔵庫にある調味料と安い材料で、とにかく簡単スピーディーにおいしい＆ヘルシーな丼を★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ササミ肉",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "●すりおろしにんにく",
+            "quantity": "１～２片分"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "海苔",
+            "quantity": "３～４枚程度"
+        },
+        {
+            "name": "小ネギ",
+            "quantity": "小口切りにしたもの　適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "お茶碗２杯分"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミを一口大に切り、塩コショウをふる。 \r\nボウルに●の材料を混ぜ合わせ、そこにササミを５分程漬け込む。",
+        "ササミの汁気をキッチンペーパーで押さえ、両面に片栗粉を付ける。熱したフライパンに油を入れ、中火で両面焼き色が付くまで焼く",
+        "焼いている間に丼にご飯を盛り、海苔をちぎってのせる。\r\n",
+        "ささみを器に盛り、同じフライパンで●のつけダレを煮詰め、丼にかける。子ネギを散らして完成★"
+    ],
+    "cookTime": null,
+    "recipe_id": "1217382",
+    "advice": "調味料の量はお好みで調節してください★",
+    "history": "買い物が面倒な日、冷蔵庫にある材料でささっと作ったら美味しかったので載せました☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみにんにく",
+        "ささみ 丼"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1217382/100x141c/c426b71ccb1e7bfccbae1fbe307cec6a.jpg?u=2330927&p=1282637957"
+}

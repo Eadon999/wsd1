@@ -1,0 +1,64 @@
+{
+    "name": "鶏胸肉のピカタ",
+    "author": {
+        "@type": "Person",
+        "name": "アクアマリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/77562/464x260/34cd5a1c813fe2ef37ff41a3ea3c70f7.jpg?u=19941&p=1214209621",
+    "datePublished": "2003-01-30",
+    "description": "とても簡単ですがボリュームもあって豪華に見えますが鶏ムネ肉を使っていますのでヘルシーです。",
+    "recipeYield": "2枚分",
+    "recipeIngredient": [
+        {
+            "name": "とりのムネ肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "小麦粉（薄力粉）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "バターまたはオリーブ油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "皮をはぎ、大き目のそぎ切りにし、塩コショウを裏表にします。",
+        "茶こしで小麦粉を裏表にまぶします。",
+        "卵を溶かし、肉にからめます。",
+        "フライパンにバターを入れ、中火から弱火で火が通るまで裏表焼いていきます。",
+        "\nお好みでケチャップなど付けて食べてください。\n\n卵が余ったらスープに使うと一品増えます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "77562",
+    "advice": "",
+    "history": "ナゲットも好きだけど油をあまり使いたくないのでピカタにしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩",
+        "コショウ",
+        "小麦粉",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/77562/100x141c/ca408f819b2c7318013415b2f2e41352.jpg?u=19941&p=1214209621"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "ひじきとしめじの胡麻ナムル♡",
+    "author": {
+        "@type": "Person",
+        "name": "shinyui"
+    },
+    "image": "https://img.cpcdn.com/recipes/644123/464x260/6378587fb68c2ff01feef73e76c1cb45.jpg?u=473880&p=1221277657",
+    "datePublished": "2008-09-15",
+    "description": "ひじきとしめじでヘルシー♪胡麻たぷりで美味しいです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "★ポン酢",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★にんにく",
+            "quantity": "チューブ１ｃｍ"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小匙１/２"
+        },
+        {
+            "name": "★白すり胡麻",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★七味唐辛子",
+            "quantity": "適量（お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきはたっぷりの水で戻し、水気を切っておく。",
+        "しめじは根元を切り落しほぐし、フライパンに湯を沸かし、酒小匙１（分量外）を入れさっと茹で、ザルにあげ水気をきっておく。",
+        "ボールに★の調味料を合せておく。",
+        "③にひじきとしめじを入れて、よくあえたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "644123",
+    "advice": "七味唐辛子の料はお好みで調節してください。",
+    "history": "ヘルシーなおつまみが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "しめじ",
+        "ポン酢",
+        "にんにく"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/644123/100x141c/2e6e78ef6e0d39451c31accd0e0d2c8b.jpg?u=473880&p=1221277657"
+}

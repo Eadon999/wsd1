@@ -1,0 +1,44 @@
+{
+    "name": "オム焼き！",
+    "author": {
+        "@type": "Person",
+        "name": "はまっ子"
+    },
+    "image": "https://img.cpcdn.com/recipes/230516/464x260/62ee3f249e093ad0830eb748d17e087c.jpg?u=66475&p=1214212501",
+    "datePublished": "2005-12-13",
+    "description": "お好み焼き気分を満喫☆小麦粉を使わずキャベツたっぷりなので、ダイエッターにもおすすめ！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "約1/5個"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "千切りキャベツをレンジで2分ほど加熱する。卵に水とだしを加えて溶く。\r\n\r\n＊水はだしが溶ける位でOK！！＊",
+        "フライパンで薄焼き卵を作り、熱が通り切らないうちにキャベツを広げ、軽く押し付けるようにして焼く。",
+        "半分に折りたたみ、お皿に移して好みのトッピングをどうぞ。\r\n（写真ではソース・マヨネーズ・おかか・青海苔）"
+    ],
+    "cookTime": null,
+    "recipe_id": "230516",
+    "advice": "ちょっとしたおやつやおつまみにどうぞ。＊つくれぽを下さった皆様、掲載が激しく遅れ大変失礼いたしました　m -_- m皆様に作って頂いて本当に光栄です☆改めましてありがとうございます。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オム焼き"
+    ],
+    "tsukurepo_count": "207",
+    "thumbnail": "https://img.cpcdn.com/recipes/230516/100x141c/c6a4d2fafd8090e0f92b8f11150b9102.jpg?u=66475&p=1214212501"
+}

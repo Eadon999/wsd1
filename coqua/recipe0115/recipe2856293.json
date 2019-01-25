@@ -1,0 +1,52 @@
+{
+    "name": "トースターで♬しいたけの味噌マヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "パジャマでうさぎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2856293/464x260/7d2d23e194442b5ee9b85973e059f702.jpg?u=3501781&p=1414416842",
+    "datePublished": "2014-10-27",
+    "description": "とろ～り味噌マヨが美味しい♡トースターで１０分！",
+    "recipeYield": "８個",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "８個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙2と1/2"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "【下準備】\nしいたけの軸を取る。\nマヨネーズと味噌は合せておく。",
+        "しいたけの裏側を上に向け味噌マヨを等分に塗る。チーズをのせる。",
+        "天板にオーブンシートを敷いたトースターで１０分程焼く。\n途中焦げそうな場合はアルミをかぶせる。",
+        "お好みでパセリを振ってどうぞ　＾＾"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2856293",
+    "advice": "焼き時間はしいたけの厚みによって変更可です。でも８分位は焼いた方がいいみたい・・・",
+    "history": "肉厚しいたけを買ったので簡単一品を考えました♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ トースター"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/2856293/100x141c/da8fe6c4420ed4d22097fc89f4e0388e.jpg?u=3501781&p=1414416842"
+}

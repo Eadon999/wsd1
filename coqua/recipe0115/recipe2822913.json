@@ -1,0 +1,46 @@
+{
+    "name": "甘エビ頭の唐揚　いいおつまみ！簡単",
+    "author": {
+        "@type": "Person",
+        "name": "みっきい☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2822913/464x260/d86cbc667c4ea8a7b1f45cc8270725bb.jpg?u=7396729&p=1412328512",
+    "datePublished": "2014-10-04",
+    "description": "お刺身を食べた後の残り物、小麦粉をつけて揚げただけ。カリカリっと美味しい！人気検索第一位！地元居酒屋の裏メニュー！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "甘エビの頭",
+            "quantity": "1パック分"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "食べ残しの甘えびの頭、洗って水気を拭きます。",
+        "１を袋に入れ、塩を少々。袋を振り、全体にまぶします。小麦粉を入れます。",
+        "袋を軽く振り、小麦粉も全体にまぶします。",
+        "180〜200°の油でカラッと揚げて、出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2822913",
+    "advice": "少ない油で、焼くようにあげます。一度裏返して、全体をカリッとさせます。",
+    "history": "甘えびは、すべてを食べれます。美味しくて経済的ですね。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "甘エビ あまり",
+        "甘エビ頭 唐揚げ",
+        "甘エビ頭"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2822913/100x141c/2b29ea3bbf333d491ca1babf5b18d9f0.jpg?u=7396729&p=1412328512"
+}

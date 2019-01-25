@@ -1,0 +1,61 @@
+{
+    "name": "大人の味☆枝豆入りポテサラ～",
+    "author": {
+        "@type": "Person",
+        "name": "あちゅう"
+    },
+    "image": "https://img.cpcdn.com/recipes/263756/464x260/7e19c9011ecfdf2bce4e3c2cb3564ce3.jpg?u=128732&p=1214213240",
+    "datePublished": "2006-06-30",
+    "description": "柚子胡椒を使ってさっぱりと～大人の味。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "中２個"
+        },
+        {
+            "name": "冷凍枝豆（もちろん冷凍でなくても）",
+            "quantity": "15～２０房"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ２分の1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１～お好みで"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモをレンジでチンして、熱いうちに（やけどに注意してくださいね。）皮をむぎ、つぶす。",
+        "そこに解凍した枝豆をさやから出し、入れる。\r\n",
+        "マヨネーズと柚子胡椒をあわせてから、２に混ぜる。醤油、砂糖を少々入れて混ぜる。",
+        "空豆や大豆も合うみたいです、皆さんありがとう♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "263756",
+    "advice": "柚子胡椒マヨが効いて大人の味です。子供さんには柚子胡椒を無しで行くといいと思います。",
+    "history": "枝豆をサラダにと。。。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆",
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャガイモ",
+        "冷凍枝豆",
+        "柚子胡椒",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/263756/100x141c/95b0f58ba7b2c14c9e27d93d6f5cc66f.jpg?u=128732&p=1214213240"
+}

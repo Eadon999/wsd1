@@ -1,0 +1,48 @@
+{
+    "name": "長いもとベーコンのチーズ蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2202055/464x260/bda1af760211a4c94f9165e837c34ca4.jpg?u=2513693&p=1366792398",
+    "datePublished": "2013-04-25",
+    "description": "長いもとベーコン、チーズを耐熱容器に乗せて、レンジで5分加熱するだけ。ホコホコの長いもが美味しいよ～♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも（5ミリ幅の輪切り）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "プロセスチーズ（1センチ角に切る）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ベーコン（1センチ幅に切る）",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩、粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱容器に長いもを並べ塩をし、その上にベーコン、最後にチーズをちらし、コショウをふる。（こしょうは多い方が美味しいです）",
+        "ラップをし、レンジ５００ｗで5分加熱して完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2202055",
+    "advice": "",
+    "history": "中までしっかり加熱した長芋はホコホコして「ゆりね」のような感じで美味しいです。ピザ用チーズではなくて、プロセスチーズを使い、長いもによく絡まるようにしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "プロセスチーズ",
+        "ベーコン"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2202055/100x141c/f2e9dd63d10e5ae09eec4fb8607b2b56.jpg?u=2513693&p=1366792398"
+}

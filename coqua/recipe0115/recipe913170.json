@@ -1,0 +1,62 @@
+{
+    "name": "ピーマンとにんじんのツナ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/913170/464x260/6f3890731457be641169d22956a05140.jpg?u=377757&p=1253075677",
+    "datePublished": "2009-09-16",
+    "description": "この一品だけで、ごはんがすすんじゃうんです＾＾",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "４個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンとにんじんは千切りにしておく。\nツナ缶は油を切っておく。",
+        "フライパンにごま油をひき、にんじんを入れ炒める。\nざっと炒めたらピーマンも入れて炒めて塩コショウで味付けをする。",
+        "ツナ缶も入れ、炒めて\nしょうゆを回し入れる。最後に黒ゴマをふって全体を混ぜれば、完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "913170",
+    "advice": "溶き卵を入れても美味しいですよ＾＾",
+    "history": "ピーマンとにんじんで、彩りのいい炒め物を作ろうと思ったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "にんじん",
+        "ツナ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/913170/100x141c/89e2347f154296d95f2a86faaf4bd7b9.jpg?u=377757&p=1253075677"
+}

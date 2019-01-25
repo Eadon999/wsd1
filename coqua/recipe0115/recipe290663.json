@@ -1,0 +1,59 @@
+{
+    "name": "柿とアボカドのシンプルサラダ ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/290663/464x260/b43e7a5ebe0fc42d57821f30b53aae61.jpg?u=57297&p=1214213842",
+    "datePublished": "2006-10-15",
+    "description": "もう最高です♪ 柿とアボカド、ホントに美味しいから～♪ .:*ﾟ..:｡:ヽ(○´3`)ﾉ.:*ﾟ..:｡:. ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "柿",
+            "quantity": "1個"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ドレシング：オリーブオイル１、レモン汁小匙１、塩少々\r\n\r\nかけて食べるだけ☆",
+        "",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "290663",
+    "advice": "ドレッシングはシンプルに、素材の味を楽しめます",
+    "history": "好きなもののワンツーです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": [
+        "柿 7位",
+        "アボカドサラダ 10位",
+        "柿サラダ 2位",
+        "柿のサラダ 2位"
+    ],
+    "related_keywords": [
+        "アボカド サラダ",
+        "アボカド",
+        "柿",
+        "柿 サラダ"
+    ],
+    "tsukurepo_count": "355",
+    "thumbnail": "https://img.cpcdn.com/recipes/290663/100x141c/cb8f7974909c6e91c679206a344af6e1.jpg?u=57297&p=1214213842"
+}

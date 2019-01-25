@@ -1,0 +1,52 @@
+{
+    "name": "★簡単！CookDoで＊麻婆豆腐＊です♪",
+    "author": {
+        "@type": "Person",
+        "name": "たかしママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2679818/464x260/1565da46f82e836fba93dda6b8f65e2b.jpg?u=454250&p=1403351116",
+    "datePublished": "2014-06-21",
+    "description": "CookDoでめちゃ簡単に四川式麻婆豆腐の出来上がりです。失敗しない美味しい味です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "CookDo四川式麻婆豆腐",
+            "quantity": "１箱"
+        },
+        {
+            "name": "合挽き肉",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "４５０ｇ"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "３０ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "CookDoの\n四川式の\n麻婆豆腐を\n使います。",
+        "フライパンで油なしで挽き肉を炒めます。",
+        "CookDoを入れて\nよく混ぜ合わせます。",
+        "大きめに切った\n豆腐を入れて\n崩れない様に\n混ぜならが煮込みます。\n",
+        "刻んだ長ねぎを加えて混ぜ合わせたら\n出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2679818",
+    "advice": "挽き肉は油は使わずに炒めます。挽き肉の油で十分です。豆腐は大きくカットして多めに加えた方が美味しいです。",
+    "history": "お豆腐の賞味期限が来ちゃったので麻婆豆腐にして使いました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/麻婆豆腐"
+    ],
+    "rankings": [
+        "クックドゥ 3位"
+    ],
+    "related_keywords": [
+        "cookdo 麻婆豆腐",
+        "cookdo"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2679818/100x141c/d48c34d0a0e84d151b2831d1b8befd83.jpg?u=454250&p=1403351116"
+}

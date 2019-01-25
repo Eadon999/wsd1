@@ -1,0 +1,53 @@
+{
+    "name": "簡単☆創味シャンタンDXでわかめスープ",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2978545/464x260/c3f0fe363c2b899ca8b20902e113a6ff.jpg?u=1690437&p=1422055986",
+    "datePublished": "2015-01-24",
+    "description": "2015・3・25話題入りに感謝です♪味付けは創味シャンタンDXだけ。胡麻たっぷりのわかめスープ。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "創味シャンタンDX",
+            "quantity": "8ｇ"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "2ｇ"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れ沸騰したら創味シャンタンDXを入れ溶かす。",
+        "火を止めわかめを入れる。",
+        "お椀に注ぎ炒り胡麻とねぎを散らして出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2978545",
+    "advice": "創味シャンタンDXは小さじで削ってふんわり軽く2杯。わかめはリケンの「ふえるわかめちゃん」戻さずそのまま使えるタイプを使用しました。＜袋の表示に従い水で戻す場合は戻す。＞炒り胡麻はフライパンでから煎りすると香ばしい。",
+    "history": "わかめたっぷり胡麻たっぷりのスープが飲みたくて。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": [
+        "シャンタンスープ 3位"
+    ],
+    "related_keywords": [
+        "シャンタンスープ"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/2978545/100x141c/8da105143cadb7aae3e4438a8c4ec7c5.jpg?u=1690437&p=1422055986"
+}

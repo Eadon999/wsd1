@@ -1,0 +1,62 @@
+{
+    "name": "【農家のレシピ】柿なます",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1619432/464x260/bf1f33fa009215c58f1acdcabcaa8597.jpg?u=2513693&p=1320500823",
+    "datePublished": "2011-11-06",
+    "description": "ほんのり甘い柿は酢の物にするととっても美味しいんです。小鉢に入れて箸やすめにどうぞ。おせち料理にも最適です♪",
+    "recipeYield": "2人分（小鉢）",
+    "recipeIngredient": [
+        {
+            "name": "柿",
+            "quantity": "１００ｇ（小1個）"
+        },
+        {
+            "name": "大根",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "柚子の皮の千切り",
+            "quantity": "少々"
+        },
+        {
+            "name": "昆布細切り",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "皮を剥いた大根と皮と種を取り除いた柿を千切りにし塩をまぶして10分置き水気をギュッと絞っておきます。",
+        "①によく混ぜ合わせた【A】を入れよくかき混ぜ、タッパなどに入れ冷蔵庫で1日おき味がなじんだら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1619432",
+    "advice": "",
+    "history": "柿の季節になれば一度は作る旬の酢の物。大根なますと同じ作り方で作ってます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": [
+        "柿なます 6位"
+    ],
+    "related_keywords": [
+        "柿なます",
+        "柿酢",
+        "おせち 柿なます"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1619432/100x141c/0cb537ed42f8a4dffeabe3776fed9ea2.jpg?u=2513693&p=1320500823"
+}

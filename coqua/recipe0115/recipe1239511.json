@@ -1,0 +1,76 @@
+{
+    "name": "豆腐とざく切り鶏むねのからあげ",
+    "author": {
+        "@type": "Person",
+        "name": "ミ～ちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1239511/464x260/caed2f73423feb569bb09ed693e919e5.jpg?u=1225943&p=1285134701",
+    "datePublished": "2010-09-22",
+    "description": "ざくざく刻んだ鶏胸肉に豆腐をIN。フワフワでヘルシーな唐揚げになりました。冷めてもおいしいです＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ　1"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ　1"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ　1"
+        },
+        {
+            "name": "●胡椒",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "●ガーリックパウダー",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "●オールスパイス（あれば）",
+            "quantity": "2ふり"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ　6"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "200ｇ（小さいパック1個分）"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉を1センチ角位に切って適当に包丁でたたく。",
+        "●の調味料を全部入れて手でもんでなじませて30分ほど置く。",
+        "卵・小麦粉。絹ごし豆腐を入れて混ぜる。",
+        "お好みの大きさにスプーンですくって油に入れて揚げる。",
+        "出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1239511",
+    "advice": "鶏肉をたたき過ぎないように。細かくしすぎると食感がナゲットになってしまいそうです＾＾",
+    "history": "冷蔵庫に豆腐と鶏胸肉。コラボさせてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "砂糖",
+        "塩",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1239511/100x141c/225f6b560c04131440af99cbde5e1a32.jpg?u=1225943&p=1285134701"
+}

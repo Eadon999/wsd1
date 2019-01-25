@@ -1,0 +1,69 @@
+{
+    "name": "鶏のピリ辛焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2627329/464x260/1a22c680c53bfff8a438f2258c5b74af.jpg?u=9552524&p=1400060596",
+    "datePublished": "2014-05-14",
+    "description": "お酒にもビールにもご飯にも♡♡♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "大１枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★豆板醤",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "★おろしにんにく",
+            "quantity": "１片分"
+        },
+        {
+            "name": "★炒りゴマ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は余分な黄色い脂を取り除き食べやすい大きさの削ぎ切りにします。",
+        "★は合わせて豆板醤をよく溶かしておきます。",
+        "フライパンに油を熱し①を皮目から強火で焼き焦げ色が付いたらひっくり返してアルミホイルをかぶせ中火で中まで火を通します。",
+        "フライパンに出た油をクッキングペーパーでサッと拭きとり②を加えて味を絡めます。",
+        "好みの野菜と共に器に盛ります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2627329",
+    "advice": "鶏肉は削ぎ切りにした方が火が通りやすく柔らかくて食べやすいです(^^♪ピリ辛が好きな方は豆板醤小さじ１でも♡",
+    "history": "うちの旦那くんの芋焼酎のおともです(^^♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏のピリ辛焼き"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2627329/100x141c/39f889da6479235f328732c37ca338b5.jpg?u=9552524&p=1400060596"
+}

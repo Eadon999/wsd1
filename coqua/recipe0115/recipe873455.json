@@ -1,0 +1,54 @@
+{
+    "name": "焼肉のタレｄｅぶたしゃぶ",
+    "author": {
+        "@type": "Person",
+        "name": "naru＊café"
+    },
+    "image": "https://img.cpcdn.com/recipes/873455/464x260/f0623c6a9a1fabc89e93c542ebc0e65f.jpg?u=1158856&p=1264686394",
+    "datePublished": "2009-07-24",
+    "description": "焼き肉のタレと、大根があれば出来ちゃう！なる家！簡単ぶたしゃぶのタレですよ(*′艸`*) ",
+    "recipeYield": "3人分ぐらいかな！",
+    "recipeIngredient": [
+        {
+            "name": "ぶたしゃぶ用の肉",
+            "quantity": "200ｇ～250gぐらい"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "大5～6"
+        },
+        {
+            "name": "大根",
+            "quantity": "20ｃｍぐらい"
+        },
+        {
+            "name": "レタス",
+            "quantity": "適量"
+        },
+        {
+            "name": "かいわれ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "レタス、かいわれは食べやすい大きさに切りお皿に盛り付ける！",
+        "大根をすって、軽く絞り、焼肉のタレを入れ混ぜる！",
+        "ぶたしゃぶ用の肉は沸騰したお湯に入れ茹で、冷水で洗う！",
+        "後は盛り付けて、最後にタレをかけ出来上がり(*′艸`*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "873455",
+    "advice": "焼肉のタレは、今お使いので大丈夫です♪ レタスの代わりに、茹でたもやしや、サニーレタスなどでも美味しいですよ。",
+    "history": "母に教えてもらいました(yωy*)ポッ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚しゃぶ 焼き肉のタレ",
+        "豚しゃぶのたれ",
+        "豚しゃぶ タレ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/873455/100x141c/a419240841bb94f65084402169233d31.jpg?u=1158856&p=1264686394"
+}

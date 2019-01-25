@@ -1,0 +1,58 @@
+{
+    "name": "とろとろ鶏とホカホカ豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/278702/464x260/834ad3dc439793702f89a30928c77bc4.jpg?u=57297&p=1214213563",
+    "datePublished": "2006-09-03",
+    "description": "中華じゃなくて和風でね☆《上品なおかずなお汁♪》",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小匙１くらい"
+        },
+        {
+            "name": "酒",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小匙２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は小さく切って、酒と塩、おろし生姜を少しずつと、片栗粉小匙２をもみ込んでおきます。\r\n",
+        "カップ1.5くらいの水を沸かし、鶏肉と豆腐を入れ、だしの素と塩で味を調えます。(とろとろになってくるからね）\r\n鶏肉に火が通ったら出来上がり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "278702",
+    "advice": "片栗粉をもみ込んでおくと、お肉が柔らかく仕上がります",
+    "history": "お豆腐大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "豆腐",
+        "おろし生姜",
+        "酒"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/278702/100x141c/f91ea012ea14899a9cd616a6b54d8270.jpg?u=57297&p=1214213563"
+}

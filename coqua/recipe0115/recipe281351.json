@@ -1,0 +1,64 @@
+{
+    "name": "わが家の栗ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "ちいちいgsxr600"
+    },
+    "image": "https://img.cpcdn.com/recipes/281351/464x260/3c19d014afe56b2a92c73b4cbb7219fc.jpg?u=68377&p=1214213631",
+    "datePublished": "2006-09-13",
+    "description": "わが家の栗ごはんはほんのりしょうゆ味、栗の嫌いな旦那も絶賛のおいしさです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "栗",
+            "quantity": "150g"
+        },
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "こんぶ",
+            "quantity": "5cmくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "栗は一時間以上水につけて皮をやわらかくしておく。",
+        "皮と渋皮をむく。専用の皮むき器のほうが包丁よりちょっと簡単♪",
+        "2合のラインまで水を入れる。調味料をすべて入れ、軽く混ぜる。",
+        "こんぶと栗を入れて普通に炊く。",
+        "炊き上がったら昆布は取り出して軽く混ぜてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "281351",
+    "advice": "ホームページ遊びに来てね☆彡レシピ見やすく整理しています。http://chiho.ndap.jp/ 「Recipes」からGO!",
+    "history": "栗を美味しく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "栗",
+        "砂糖",
+        "しょうゆ",
+        "こんぶ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/281351/100x141c/d2b4ed781269d182be6a4ae249f59bd3.jpg?u=68377&p=1214213631"
+}

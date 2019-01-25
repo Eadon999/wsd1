@@ -1,0 +1,69 @@
+{
+    "name": "☆超簡単！ささみの磯辺焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "ツナtama"
+    },
+    "image": "https://img.cpcdn.com/recipes/201722/464x260/db891533a813b8f7942097760844d901.jpg?u=57308&p=1214211962",
+    "datePublished": "2005-06-08",
+    "description": "高たんぱく、低カロリー。簡単なおつまみ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "3本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "わさび",
+            "quantity": "適宜"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1／2畳"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみに両面軽く塩、胡椒。",
+        "フライパンに極薄くサラダ油をひいて、焼く。",
+        "酒を入れて若干蒸し焼き気味に。",
+        "焦げ目がつくくらいまで焼く。",
+        "醤油をたらして、香ばしく焼く。焦げすぎに注意！",
+        "焼けたらチューブにわさびを片面に塗る。付け過ぎないように。",
+        "三等分にして",
+        "適度な大きさに切った海苔を巻いて出来上がり。簡単。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "201722",
+    "advice": "わさびは、つけすぎないこと。鼻にキマス・・・",
+    "history": "某飲み屋さんで出たお通し・・・。こんなん載せていいんかい？",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみの磯辺焼き",
+        "ささみ 磯部焼き"
+    ],
+    "tsukurepo_count": "190",
+    "thumbnail": "https://img.cpcdn.com/recipes/201722/100x141c/fcf4fffa3af59a09bfc99519f455d28e.jpg?u=57308&p=1214211962"
+}

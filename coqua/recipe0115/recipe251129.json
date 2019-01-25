@@ -1,0 +1,69 @@
+{
+    "name": "大根葉のエスニック炒め",
+    "author": {
+        "@type": "Person",
+        "name": "いさお飯"
+    },
+    "image": "https://img.cpcdn.com/recipes/251129/464x260/186678dc69ba03ebb6a373b939862f26.jpg?u=226303&p=1214212960",
+    "datePublished": "2006-04-27",
+    "description": "大根の葉をニンニク、ナンプラー、鷹の爪と炒めました！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根の葉（小口切りにする）",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "ニンニク（みじん切りにする）",
+            "quantity": "2片"
+        },
+        {
+            "name": "鷹の爪（小口切りにする）",
+            "quantity": "1本"
+        },
+        {
+            "name": "★ナンプラー",
+            "quantity": "大さじ1/2～1（必ず味をみて加減すること）"
+        },
+        {
+            "name": "★顆粒鶏がらスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニクと鷹の爪、サラダ油をフライパンに入れてから火をつけ弱火で香りを移します",
+        "大根葉を入れ炒め合わせ★で調味し火を止めてからゴマ油を回し入れ炒りゴマをたっぷりふって出来上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "251129",
+    "advice": "ナンプラーの量は味をみて加減して下さい。結構塩からくなりやすいので注意です！",
+    "history": "いつもと違う大根葉炒めにしたかったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根の葉",
+        "ニンニク",
+        "鷹の爪",
+        "ナンプラー"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/251129/100x141c/abec9d809425a2053dc25b8f2cac6727.jpg?u=226303&p=1214212960"
+}

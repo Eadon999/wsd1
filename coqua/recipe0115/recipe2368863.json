@@ -1,0 +1,54 @@
+{
+    "name": "麩と卵の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2368863/464x260/c5d64baa3bfcfc4e183b6b7f3c6babf5.jpg?u=4819316&p=1381242791",
+    "datePublished": "2013-10-08",
+    "description": "溶き卵のまったり感がいいです、日本の味、味噌汁を楽しんで下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "麩",
+            "quantity": "４～６個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "３センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "麩を水で戻し、水分を絞ってお椀に入れる",
+        "鍋に出し汁を加熱し沸騰すればみそを溶いて入れてかき混ぜる",
+        "卵を溶いて回し入れ、すぐに火を止める",
+        "３をお椀に注ぎ入れ、せん切りにしたねぎを散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2368863",
+    "advice": "だし汁は簡単に作るなら、湯２５０ｃｃに顆粒だし小さじ１／２を加えて混ぜればできます",
+    "history": "揚げ物をしえて溶き卵が余っていたので、簡単に使えるレシピを考えました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "だし汁",
+        "みそ"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2368863/100x141c/09e72d99d9be17331874535db47b4288.jpg?u=4819316&p=1381242791"
+}

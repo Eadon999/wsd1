@@ -1,0 +1,63 @@
+{
+    "name": "ほうれん草とツナのマヨネーズ和え",
+    "author": {
+        "@type": "Person",
+        "name": "こは＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2266845/464x260/97bce281c771bc3aa4ce6a31febee303.jpg?u=792028&p=1411890593",
+    "datePublished": "2013-06-25",
+    "description": "2014.8.15話題入りありがとう‼︎隠し味にオイスターソースを入れて、食べやすくしました♥",
+    "recipeYield": "ほうれん草1袋分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1〜"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ほうれん草をゆでる塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を茹で、水気を絞る。\n食べやすい長さに切り、ボウルに全て入れて混ぜたら完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2266845",
+    "advice": "ツナ缶の汁は、少し残すようにきって下さい。油分がきになるようなら、ごま油は省いても十分美味しいです。",
+    "history": "ゴマ和えの、マヨバージョン。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 ツナ",
+        "ほうれん草 ツナ マヨネーズ",
+        "ほうれん草ゆでる"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2266845/100x141c/e62f32468a70013a643e03857237a09e.jpg?u=792028&p=1411890593"
+}

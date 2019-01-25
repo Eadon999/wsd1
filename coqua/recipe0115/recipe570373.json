@@ -1,0 +1,50 @@
+{
+    "name": "簡単☆ごぼうとソーセージのバターいため",
+    "author": {
+        "@type": "Person",
+        "name": "＊実月＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/570373/464x260/0aba0aba003be272fab0d13280db8462.jpg?u=458162&p=1215133431",
+    "datePublished": "2008-05-26",
+    "description": "H30.5.51話題入り。定番の煮ものではなく炒めても美味しいの♪塩コショウだけのシンプルな味付けで朝食＆お弁当にぜひ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "2分の1本"
+        },
+        {
+            "name": "ソーセージ（ベーコン）",
+            "quantity": "3本（2枚）"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうはささがきにして水にさらし、ソーセージは好みの大きさに切る。",
+        "熱したフライパンにバターを入れ、ソーセージを炒める。少し焦げ目がついたら、ごぼうを投入。塩コショウをし、火が通ったら出来上がりです。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "570373",
+    "advice": "簡単すぎて特にないです。",
+    "history": "朝ごはん、お弁当によく母が作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "ソーセージ",
+        "バター",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/570373/100x141c/f4362c531f48ed7426e63022387ab611.jpg?u=458162&p=1215133431"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "しいたけの味噌マヨチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ICHICO☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2933665/464x260/e73b6e4523f0814db9a881ee8b4933b6.jpg?u=6735767&p=1418995154",
+    "datePublished": "2014-12-20",
+    "description": "しいたけの美味しさを余すことなく！子どもも大人も大好きな味間違いなし。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "3個"
+        },
+        {
+            "name": "☆白味噌",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "とろけるスライスチーズ",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけは軽く洗い、軸を取る。\n",
+        "軸をみじん切りにし、☆と和える。",
+        "しいたけのかさを下にし、くぼみに2を乗せる。\n安定性が悪かったら、少し頭をスライスして。←ここも刻んで加えちゃいましょ。",
+        "とろけるスライスチーズを半分に折り、3等分してオン！",
+        "オーブントースターで、軽く焦げ目がつくまで焼けば完成です。",
+        "2015.8.11話題入りありがとうございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2933665",
+    "advice": "七味唐辛子でオトナ味。調味料に砂糖を加えても。",
+    "history": "おーいしそうなしいたけをGET。軸まで食べちゃいたいなぁと思い発案。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ",
+        "白味噌",
+        "マヨネーズ",
+        "とろけるスライスチーズ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2933665/100x141c/bc7c6b19298dbcc51faa356157b11ed2.jpg?u=6735767&p=1418995154"
+}

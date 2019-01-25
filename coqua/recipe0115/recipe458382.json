@@ -1,0 +1,57 @@
+{
+    "name": "プチトマトのハニーマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/458382/464x260/8361d2dfc4942f2e95dbbaee29c36cbe.jpg?u=212914&p=1223017392",
+    "datePublished": "2008-10-03",
+    "description": "マリネ液を混ぜ合わせて漬け込むだけ。オードブルやパスタに！はちみつ・酢・油と同じ分量で和えるから簡単！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "プチトマト",
+            "quantity": "10個"
+        },
+        {
+            "name": "●はちみつ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●バルサミコ酢（どんなお酢でも可）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●エキストラバージンオリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●塩　・　レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "●あらびき黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "プチトマトは熱湯に入れ、皮が破れたら取り出して冷水に取り、皮をむく。",
+        "●の調味料を混ぜ合わせ、冷蔵庫に入れて冷やす。\r\n",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "458382",
+    "advice": "食べる直前まで冷やしてください。 冷えてる方が私は好きですが、お弁当のおかずにも♪",
+    "history": "あまっていたプチトマトを簡単なおつまみに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/サラダ/イタリアンサラダ",
+        "その他/おもてなし料理/夏！おもてなし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミニトマト マリネ"
+    ],
+    "tsukurepo_count": "401",
+    "thumbnail": "https://img.cpcdn.com/recipes/458382/100x141c/de5d9b47be2f1354e523fc63029cefe2.jpg?u=212914&p=1223017392"
+}

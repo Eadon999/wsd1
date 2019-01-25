@@ -1,0 +1,39 @@
+{
+    "name": "めっちゃフワフワオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/307600/464x260/8fcb707409f46cd730352dd2a116088e.jpg?u=253314&p=1291595095",
+    "datePublished": "2006-12-05",
+    "description": "チョットの手間でふわしゅわオムレツになりますよん",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "お好みの数"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵黄と卵白を分ける。",
+        "卵白をがぁ～～と少しふんわりするまで泡立てる。",
+        "卵黄と混ぜ、オムレツを焼く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "307600",
+    "advice": "本気で泡立てれば　本気でシュワ～です(笑）",
+    "history": "生い立ちを書くと長くなるんで・・・＾＾；省略です (￣▽￣;)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵"
+    ],
+    "tsukurepo_count": "128",
+    "thumbnail": "https://img.cpcdn.com/recipes/307600/100x141c/6498feb725f39533eb9247f62748a2a3.jpg?u=253314&p=1291595095"
+}

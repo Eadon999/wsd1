@@ -1,0 +1,53 @@
+{
+    "name": "シンプルなアボガドディップ",
+    "author": {
+        "@type": "Person",
+        "name": "hana華ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1964726/464x260/8b945dda4bc0adb3d20bbdca9590263f.jpg?u=3255930&p=1348199579",
+    "datePublished": "2012-09-22",
+    "description": "シンプルだけど美味しかった♪パンにのせて、お好みでいろいろトッピング出来ます！今回はサーモンのフライをのせました♪",
+    "recipeYield": "アボガド半分",
+    "recipeIngredient": [
+        {
+            "name": "アボガド",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "玉ねぎ(みじん切り)",
+            "quantity": "大さじ2程度"
+        },
+        {
+            "name": "レモン汁（ライム汁）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/8（お好みで調節）"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボガドは熟した物を使用します。みじん切りにする\n玉ねぎ→みじん切り",
+        "材料をボールに入れて混ぜるだけ！\nレモン汁はライムがあれば、ライムのしぼり汁が美味しいです！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1964726",
+    "advice": "",
+    "history": "友人と旅行に行って教えてもらったレシピです。分量は自分なりに調整～まだ試作中ですが・・・美味しかったので覚書です。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボガド",
+        "玉ねぎ",
+        "レモン汁",
+        "塩"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1964726/100x141c/256b123dbdcac1cc7675c8482cf03886.jpg?u=3255930&p=1348199579"
+}

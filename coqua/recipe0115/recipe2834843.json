@@ -1,0 +1,46 @@
+{
+    "name": "レンジで簡単！えのきのナムル☆お弁当にも",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/2834843/464x260/c65c9848f3c4017baf9601e593223aec.jpg?u=7510994&p=1413081712",
+    "datePublished": "2014-10-12",
+    "description": "覚えやすい分量で簡単なので、あと一品という時やお弁当にもどうぞ。食物繊維たっぷりのえのきで便秘解消に♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "●ダシダ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●ゴマ油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●ゴマ",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほぐしたえのきをラップをかけてレンジ600wで1分加熱し、水分を軽く切る。",
+        "●を混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2834843",
+    "advice": "えのきは加熱するとかなり量が少なくなります。",
+    "history": "便秘のダンナ用のお弁当に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき お弁当 レンジ"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2834843/100x141c/a94ae4015cf1aaec25e666c69a9396d0.jpg?u=7510994&p=1413081712"
+}

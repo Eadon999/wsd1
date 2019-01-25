@@ -1,0 +1,59 @@
+{
+    "name": "茗荷寿司",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2004842/464x260/5bbabac8afc160419d8e3ae840f35bd9.jpg?u=2495483&p=1351055667",
+    "datePublished": "2012-10-24",
+    "description": "食欲の無い時にも食べやすいかも",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗２杯"
+        },
+        {
+            "name": "茗荷",
+            "quantity": "１個"
+        },
+        {
+            "name": "紫蘇",
+            "quantity": "２枚"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "スダチ（又は酢又は寿司酢）",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "茗荷と紫蘇と海苔を千切りにする。",
+        "暖かいごはんにスダチの絞り汁又は酢又は寿司酢大匙１を混ぜる",
+        "１と２とごまを混ぜる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2004842",
+    "advice": "",
+    "history": "さっぱりしたごはんが食べたくて",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/寿司/ちらし寿司",
+        "その他/夏に食べたい料理/夏のしそ・みょうが・しょうが料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "茗荷",
+        "紫蘇",
+        "海苔"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/2004842/100x141c/705a745055a0eeb31412a0a0cb0c66e5.jpg?u=2495483&p=1351055667"
+}

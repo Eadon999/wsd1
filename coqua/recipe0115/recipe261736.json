@@ -1,0 +1,54 @@
+{
+    "name": "トマトと豆腐の中華風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "イナちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/261736/464x260/5d50cb52e15fa4e48264bd0a8760bb9c.jpg?u=237144&p=1214213197",
+    "datePublished": "2006-06-20",
+    "description": "とーっても簡単なのにやみつきになる味。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "300g　1丁"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "味付け海苔",
+            "quantity": "1～2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩・黒こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはサイコロに切る。豆腐は手で食べやすいサイズにちぎる。交互に皿に盛る。",
+        "塩、黒こしょうとごま油をかけて、海苔をちぎってちらす。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "261736",
+    "advice": "塩は気持ち多い目にかけたほうがいいです。ごま油はたべる直前に。",
+    "history": "何年か前に雑誌でみたのをヒントに。本ではプチトマトだったと思います。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "トマト",
+        "味付け海苔",
+        "ごま油"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/261736/100x141c/e6763e240071e5b8c47f769b1136beb7.jpg?u=237144&p=1214213197"
+}

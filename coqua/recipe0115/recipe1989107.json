@@ -1,0 +1,45 @@
+{
+    "name": "☆さつまいものレモン煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "Ｃｈｉｋａｙａｎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1989107/464x260/346a4b55c06d337e7e3b39582fcb6687.jpg?u=2290698&p=1349860340",
+    "datePublished": "2012-10-10",
+    "description": "レモンでさっぱり！お弁当にもいいですよ♪2013.04.21話題入り！作ってくださった皆様に感謝です！ありがとう♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "細いもの1本　150gくらい"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは、洗って1cmの輪切りにし、水にさらす。",
+        "鍋に、水切りしたさつまいも、砂糖、レモン汁とひたひたの水を入れ、弱火で煮る。さつまいもが軟らかくなるまで。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1989107",
+    "advice": "冷めるまでは煮汁に浸けておいてください。そうする事で、味が浸み込み美味しくなります♪",
+    "history": "お弁当に入れたくて…　やっとちょうどいい味に辿り着きました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "砂糖",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1989107/100x141c/1397ee416cddea908caf356929d4e956.jpg?u=2290698&p=1349860340"
+}

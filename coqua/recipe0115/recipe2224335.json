@@ -1,0 +1,74 @@
+{
+    "name": "冷やしうどん：サラダうどん＊ツナマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "MOMOKO312"
+    },
+    "image": "https://img.cpcdn.com/recipes/2224335/464x260/12020c3f90575df76e9e020e77828bb8.jpg?u=3716120&p=1368641709",
+    "datePublished": "2013-05-16",
+    "description": "暑い日でもこれならツルツル食べれちゃう(*´艸｀*)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん玉",
+            "quantity": "1個"
+        },
+        {
+            "name": "●ツナ缶(小)",
+            "quantity": "半分"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "レタス",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "麺つゆストレート",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "きざみ海苔（あれば）",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "ネギ（あれば）",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "ごま（あれば）",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "うどん玉は湯がいて冷水で冷やして水気を切っておく。",
+        "●を混ぜ合わせる。",
+        "お皿に、うどん→レタス→ツナマヨ→かつお節等を乗せ、麺つゆ＆ごま油を回しかけて完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2224335",
+    "advice": "食べる時は混ぜながら食べてください♪",
+    "history": "夏の定番メニューです(*´艸｀*)",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん玉",
+        "ツナ缶",
+        "マヨネーズ",
+        "レタス"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2224335/100x141c/1a782a0cbd5c1272b274013952343216.jpg?u=3716120&p=1368641709"
+}

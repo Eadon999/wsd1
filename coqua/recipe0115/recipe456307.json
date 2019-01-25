@@ -1,0 +1,64 @@
+{
+    "name": "春菊のツナ和え",
+    "author": {
+        "@type": "Person",
+        "name": "image"
+    },
+    "image": "https://img.cpcdn.com/recipes/456307/464x260/e2b2672edc6cbbb6510875e42b71ba73.jpg?u=509859&p=1214217726",
+    "datePublished": "2007-11-08",
+    "description": "お酒の肴に良し、ご飯のお供にも良し。春菊そのものの味と香りが楽しめます。【全体 445kcal 】",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "１束"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "A.白胡麻",
+            "quantity": "大３"
+        },
+        {
+            "name": "A.醤油",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "A.酢",
+            "quantity": "大１.5"
+        },
+        {
+            "name": "A.胡麻油",
+            "quantity": "大１"
+        },
+        {
+            "name": "A.砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "A.胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊はキレイに洗い根元を切り落とす。１cm程の長さに切り、茎と葉に分ける。",
+        "茎の部分をザルに入れ、熱湯を回しかけサッと流水で洗い、水気をよく切る。",
+        "A.とツナをボウルに入れて混ぜ合わせ、春菊を加え和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "456307",
+    "advice": "胡椒はポイント！です。少し多めに加えると美味しいですよ。春菊の茎が太い場合は、熱湯を回しかけるのではなくサッと茹でてください。",
+    "history": "春菊を沢山食べれる副菜が作りたく考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊",
+        "ツナ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/456307/100x141c/6b12434e808bd7d27933430d1f8cb2b5.jpg?u=509859&p=1214217726"
+}

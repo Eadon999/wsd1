@@ -1,0 +1,60 @@
+{
+    "name": "むね肉でも柔らか美味しい！マヨ醤油焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1701623/464x260/974bf5ccc549f3214bf07d9c077f9edc.jpg?u=603745&p=1447763565",
+    "datePublished": "2012-02-10",
+    "description": "安い鶏むね肉も美味しく出来ます!!柔らかくて、味もしっかり付きます!!ご飯にはもちろん、お弁当にもどうぞ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏むね肉の皮を取り1cmくらいの厚さに切ります。",
+        "ジッパー付きの袋に☆の材料を加えます。",
+        "鶏肉を入れます。",
+        "良く揉みこみ10分ほど漬けて置きます。",
+        "小麦粉を用意します。",
+        "両面に軽く塗します。",
+        "油を敷いたフライパンで焼いていきます。",
+        "両面しっかり焼き、火を通します。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1701623",
+    "advice": "フライバージョンのレシピも乗せてますので見てってくださいね☆",
+    "history": "安いむね肉でも美味しく出来るものを、コストを抑えて作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉 醤油焼き"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1701623/100x141c/56566b1d79117885e4a0b4c456adc832.jpg?u=603745&p=1447763565"
+}

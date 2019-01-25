@@ -1,0 +1,62 @@
+{
+    "name": "塩サバで作る！簡単照り焼き風♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2115966/464x260/e213ae5462e61c210f1235a866c3fb0b.jpg?u=603745&p=1447761746",
+    "datePublished": "2013-02-12",
+    "description": "塩サバで作る簡単照り焼き！ほんのり甘い醤油味でご飯も進みます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "塩サバ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１/４"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "サバは必要であればお好みの大きさにカットしてください。",
+        "魚焼グリルで焼いていきます。",
+        "両面しっかり、火を通して下さい。",
+        "ピーマンやタマネギを細切りにします。",
+        "フライパンで炒めていきます。",
+        "☆の材料を加えて良く混ぜます。（火が強いと焦げちゃうので注意です）",
+        "焼いた鯖を加え、良くタレを絡ませて下さい。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2115966",
+    "advice": "",
+    "history": "いつもの塩サバをお野菜と一緒にアレンジ♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩サバ",
+        "ピーマン",
+        "たまねぎ",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2115966/100x141c/3be1766717411feef869a7b204732ab8.jpg?u=603745&p=1447761746"
+}

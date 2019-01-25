@@ -1,0 +1,68 @@
+{
+    "name": "ビストロ風♪ぶりのガリバタ醤油のムニエル",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4334912/464x260/181a1ad0ce5e95dfbf705cddf7cb6e2e.jpg?u=9664115&p=1486305017",
+    "datePublished": "2017-02-06",
+    "description": "和風の照り焼きも良いけどたまには洋風・ビストロ風にムニエルも良いですね。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ぶり（切り身）",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "ハーブソルト",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "きざみニンニク",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "1片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりの切り身にハーブソルトを振り下味をつける。",
+        "小麦粉を全体的にまぶす。",
+        "フライパンにオリーブオイルをひき、きざみニンニクを炒める。",
+        "香りが出てきたらぶりを焼く。\n片面焦げ目がつく程度に。",
+        "ひっくり返したらバターを入れる。",
+        "火が通ったら醤油を加えてじゅわーっと全体的に絡めたら完成です。レモン汁を添えて。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "4334912",
+    "advice": "ふわっと仕上げたい時はフタをして火を通してみて下さい。",
+    "history": "ぶりをおいしく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鰤 ムニエル",
+        "ぶり 洋風",
+        "ぶり　レモン　バター"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/4334912/100x141c/b2fe23b99a34e9943bfe8cf40d31395e.jpg?u=9664115&p=1486305017"
+}

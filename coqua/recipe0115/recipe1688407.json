@@ -1,0 +1,60 @@
+{
+    "name": "【農家のレシピ】大豆とひじきの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1688407/464x260/01e19580ac6c4ddec058b82202518570.jpg?u=2513693&p=1327756218",
+    "datePublished": "2012-02-01",
+    "description": "大豆の水煮と万能だし醤油を使って簡単に作る煮物です。お弁当にもあう一品です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大豆の水煮",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "芽ひじき",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "万能だし醤油（＊下記参照）",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "芽ひじきはたっぷりの水で20分つけて戻しておきます。にんじんは千切りにしておきます。",
+        "鍋にサラダ油を熱し、まずニンジンをさっと炒め、次にヒジキを入れ油が全体に回ったら大豆と【A】を入れます。",
+        "やや弱めの中火で汁けがなくなるまで煮て完成です。",
+        "【万能だし醤油】\nそばつゆや、めんつゆ、なめたけ、煮物、玉子丼がすぐに作れますよ。↓\nレシピID:1236017 "
+    ],
+    "cookTime": null,
+    "recipe_id": "1688407",
+    "advice": "万能だし醤油がない場合には【A】を、醤油とみりんを１：１で割った物を大さじ２．５とだし汁２００ｃｃ、砂糖小さじ２で代用してくださいね。",
+    "history": "常備している万能だし醤油を使って作りました",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "万能だし醤油 農家"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1688407/100x141c/a30cdfd5ed453bc6ad5c14ed4e7a95d2.jpg?u=2513693&p=1327756218"
+}

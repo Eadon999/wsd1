@@ -1,0 +1,57 @@
+{
+    "name": "椎茸の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "みほみほままレシピ集"
+    },
+    "image": "https://img.cpcdn.com/recipes/2355777/464x260/f2eeaeee8f4a2d987879daadf1edd36b.jpg?u=7150218&p=1380104271",
+    "datePublished": "2013-09-25",
+    "description": "ちらし寿司やお弁当、箸休めなどに最適。簡単で安心する味。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "干し椎茸",
+            "quantity": "30グラム"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールに干し椎茸とひたひたにかぶるくらいの水を入れて柔らかく戻します。",
+        "柔らかく戻った椎茸を細かく刻みます。",
+        "鍋に砂糖、醤油、水を入れて火にかけます。",
+        "③がフツフツと煮立ってきたら、②の椎茸を入れて一混ぜし、蓋をして弱火でコトコト煮ます。",
+        "途中2度ほど混ぜて、汁気がなくなるまで待ちます。",
+        "出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2355777",
+    "advice": "蓋をして弱火でコトコトします。時々確かめながら混ぜて、焦がさないように気をつけます。",
+    "history": "ちらし寿司の定番、お弁当の隙間にも忍ばせます。こればっかりは、濃いめの味付けが好きなので砂糖と醤油を同分量で多めに使います。適当ですがずっとこの味簡単味。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/干ししいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "干し椎茸",
+        "砂糖",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2355777/100x141c/64905fc1406a4b5dccad4fa0f0937b05.jpg?u=7150218&p=1380104271"
+}

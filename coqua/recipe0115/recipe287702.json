@@ -1,0 +1,62 @@
+{
+    "name": "ノンオイル☆コールスローサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぽんぽあーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/287702/464x260/5baa217afbe3dd26738091c1dc78b3c7.jpg?u=231407&p=1214213769",
+    "datePublished": "2006-10-05",
+    "description": "お弁当にもぴったりな、さっぱりサラダ♪",
+    "recipeYield": "1～２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ(千切り)",
+            "quantity": "軽く２掴みくらい"
+        },
+        {
+            "name": "人参(千切り)",
+            "quantity": "２ｃｍくらい"
+        },
+        {
+            "name": "ハム(細切り)",
+            "quantity": "１枚"
+        },
+        {
+            "name": "冷凍コーン(お湯で茹でて戻す)",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖・酢",
+            "quantity": "各小さじ１くらい"
+        },
+        {
+            "name": "塩・粗引き胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツと人参は塩少々をふってしばらくおいておく。",
+        "１、がしんなりしたら軽く水洗いして水気をぎゅっと絞る。",
+        "２、にハムとコーンを加え、砂糖と酢を順次加えて混ぜ、塩・胡椒で味を整えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "287702",
+    "advice": "特にありません。",
+    "history": "普通のコールスローサラダを作ろうとしたが、ノンオイル大好きダイエット娘のお弁当用だと気付き、途中で進路変更。さっぱり味の、お弁当の箸休め的なおかずになりました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "人参",
+        "ハム",
+        "冷凍コーン"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/287702/100x141c/517e9b831ce4e6f01d3d68d49e541563.jpg?u=231407&p=1214213769"
+}

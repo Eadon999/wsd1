@@ -1,0 +1,50 @@
+{
+    "name": "かぼちゃの塩昆布あえ",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1442159/464x260/591ea8c04616931dee3ecbe44a92ff71.jpg?u=1194496&p=1367377705",
+    "datePublished": "2011-05-17",
+    "description": "バターが入るので洋風な仕上がりです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "４分の１"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "１５㌘"
+        },
+        {
+            "name": "コーン",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはお好みの方法で加熱し、柔らかくしてフォークで粗く潰す。",
+        "熱いうちに塩昆布とバターを加えて混ぜる。",
+        "コーンも加え、お皿に盛りつける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1442159",
+    "advice": "塩昆布を入れる量は、お好みで加減してください。",
+    "history": "塩昆布の旨味だけでかぼちゃを食べてみたくて☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "塩昆布",
+        "コーン",
+        "バター"
+    ],
+    "tsukurepo_count": "367",
+    "thumbnail": "https://img.cpcdn.com/recipes/1442159/100x141c/1315be0e8721b7dd27499fdecbe433d0.jpg?u=1194496&p=1367377705"
+}

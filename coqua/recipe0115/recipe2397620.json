@@ -1,0 +1,52 @@
+{
+    "name": "蕪のステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2397620/464x260/4711921d5a257b37c798516c500c6906.jpg?u=3280486&p=1383697320",
+    "datePublished": "2013-11-06",
+    "description": "とってもシンプルな一品です♪素材の味を楽しめますよ★",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "蕪",
+            "quantity": "１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "蕪は皮をむいて厚さ5ミリの薄切りにする。",
+        "熱したフライパンに油を入れて、強火で①を3分程焼く。",
+        "両面に焼き色がついたら弱火にしてバターを入れる。全体に馴染んだらお皿に盛り、塩・胡椒・しょうゆをかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2397620",
+    "advice": "お皿に盛ってから、最後に塩・胡椒・醤油をかけると、調味料の味もしっかりと味わえますよ。",
+    "history": "「蕪そのもの」を感じられる一品を食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ステーキ カブ",
+        "かぶ ステーキ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2397620/100x141c/93bd40a1692861d1f347e89705fe84d7.jpg?u=3280486&p=1383697320"
+}

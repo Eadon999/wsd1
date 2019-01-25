@@ -1,0 +1,75 @@
+{
+    "name": "ランチに✿ベーコンのリゾット、20分",
+    "author": {
+        "@type": "Person",
+        "name": "HaradaKiTN"
+    },
+    "image": "https://img.cpcdn.com/recipes/1368465/464x260/0d2a566d9bd3acef5a3d3de09cd81ba4.jpg?u=2328272&p=1298301411",
+    "datePublished": "2011-02-22",
+    "description": "炊いたご飯からつくる簡単リゾットです。2011.3にMILKJAPANレシピ掲載ノミネート★2012.5.22話題入り！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "山盛り一膳"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "50g程度"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "半株"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "4本"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "300ml~400ml　お好みの緩さに"
+        },
+        {
+            "name": "水",
+            "quantity": "50ml程度"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "20g　マーガリンでも"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "それぞれ2~3振り"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "粒状小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじをほぐします。いんげんを3~4cmに。ベーコンを一口サイズに。",
+        "バターで、ベーコン、しめじ、いんげんを炒めます。",
+        "火が通ったら、ごはん、牛乳、水、しょうゆ、コンソメを入れて焦げないよう混ぜながら３～４分煮ます。",
+        "塩胡椒、あればパセなどしてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1368465",
+    "advice": "この日は、トマトとサラダを添えました。チーズを混ぜたり、乗せてもGOOD！！",
+    "history": "スペイン料理のサンタンデリーナを家庭料理としていじくり始めてはや８年。生米からミルクでフライパンで炊いたり、オーブンで焼いたり、結果、これが一番簡単かも。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "ベーコン",
+        "しめじ",
+        "いんげん"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1368465/100x141c/d817ab439aea06f467f0be2185032d8e.jpg?u=2328272&p=1298301411"
+}

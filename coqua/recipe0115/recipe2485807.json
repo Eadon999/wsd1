@@ -1,0 +1,72 @@
+{
+    "name": "大根のかき玉丼",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2485807/464x260/85ad292c8d8705afc0b83534ab73b774.jpg?u=3280486&p=1391308283",
+    "datePublished": "2014-02-02",
+    "description": "簡単＆美味しい！　体の温まるかき玉丼ですヾ(*´∀｀*)ﾉ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根（1cm幅の薄切り）",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "人参（1cm幅の薄切り）",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "ソーセージ（斜め切り）",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "2人分（400ｇ）"
+        },
+        {
+            "name": "かつおダシ",
+            "quantity": "600ml"
+        },
+        {
+            "name": "醤油・みりん",
+            "quantity": "各小さじ2"
+        },
+        {
+            "name": "片栗粉・水",
+            "quantity": "各大さじ1.5"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "生姜千切り・白煎りゴマ・ゴマ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にダシ・大根・人参を入れて強火。煮立ったら弱火にして3分煮る。",
+        "ソーセージ・醤油・みりん加え、塩胡椒で味を整える。",
+        "水溶き片栗粉でとろみをつける。後で溶き卵を入れると水っぽくなるので、ここではちょっと固めにするのがポイント。",
+        "溶き卵を回し入れ、8割程固まったらごはんの上に盛る。生姜・ゴマ・ゴマ油をかけたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2485807",
+    "advice": "大根と人参は皮付きのままでOK。薄切りにしてしまうので、柔らかく食べられますよ。",
+    "history": "大根を美味しく食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かき玉丼"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2485807/100x141c/40d764a747f06f76fcbb197889b4d773.jpg?u=3280486&p=1391308283"
+}

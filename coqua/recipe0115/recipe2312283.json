@@ -1,0 +1,59 @@
+{
+    "name": "★挽肉のキャベツたっぷりの＊野菜炒め＊♪",
+    "author": {
+        "@type": "Person",
+        "name": "たかしママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2312283/464x260/c6272aa12afcf171b21705b4055f0e5f.jpg?u=454250&p=1376212030",
+    "datePublished": "2013-08-11",
+    "description": "挽き肉の野菜炒めです。キャベツたっぷりで作りましたよ。味付けはさっぱりと塩コショウだけです。♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "挽き肉(合挽き)",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "小　１／２個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜炒めの材料です。キャベツはざく切りにして玉ねぎはスライスでニンジンとピーマンは細切りにします。",
+        "挽き肉は油を使わずに炒めます。",
+        "挽き肉の赤身がなくなったら野菜を全部入れて塩コショウをして炒めます。",
+        "お皿に盛って出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2312283",
+    "advice": "キャベツたっぷりで作りました。キャベツはざく切りで玉ねぎはスライスしてニンジンとピーマンは細切にします。挽き肉は油を使わずに炒めますよ。",
+    "history": "挽き肉があったのでキャベツをたっぷり使って野菜炒めを作りましたよ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "挽き肉",
+        "キャベツ",
+        "玉ねぎ",
+        "ニンジン"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2312283/100x141c/f00ed8dbe0eb5c021ac784449aa20517.jpg?u=454250&p=1376212030"
+}

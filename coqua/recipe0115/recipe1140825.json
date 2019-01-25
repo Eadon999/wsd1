@@ -1,0 +1,42 @@
+{
+    "name": "ほっけの干物の竜田揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "かりぐらまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1140825/464x260/478beff53adaf6aa4dfce33664968ef2.jpg?u=1732990&p=1275011997",
+    "datePublished": "2010-05-28",
+    "description": "柔らかい白身と外側のカリカリがなんとも言えず、しかも干物使用で味付けいらずですよ。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほっけの干物",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "干物の骨をよけて、一口大に切る。（2枚におろしてある切り身の方が扱いやすいかも）",
+        "切ったほっけに片栗粉をまぶす。味付けはしなくても干物なので十分大丈夫です。",
+        "あとは、油で揚げるだけ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1140825",
+    "advice": "干物の味付けのみなので、お好みでポン酢をかけて頂くとサッパリしていい感じです。",
+    "history": "皮の縞模様が苦手だけど、白身で美味しいから揚げてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほっけ 干物",
+        "ほっけ 竜田揚げ",
+        "干物 竜田揚げ",
+        "ほっけ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1140825/100x141c/e506d3cb338499a63e177767de6fd8c7.jpg?u=1732990&p=1275011997"
+}

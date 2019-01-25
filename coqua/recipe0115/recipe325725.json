@@ -1,0 +1,64 @@
+{
+    "name": "キャベツだけ蒸し焼きにしました",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/325725/464x260/1151a9ebcb62bcac4f32bce4c893e667.jpg?u=274122&p=1214214619",
+    "datePublished": "2007-02-03",
+    "description": "蒸し焼きにするとかさが減るのでモリモリ食べられます♪　　　　　　　　　　　　　　　　　　　　　　",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "８～１０枚"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片・チューブ使用なら２センチぐらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１ぐらい"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは食べやすい大きさに切る。\r\nニンニクはみじん切りにする。（チューブ可）",
+        "フライパンにサラダ油とニンニクを入れ弱火で加熱し、ニンニクの香りが立ったらキャベツを入れ中火で軽く炒める。",
+        "水を入れ、蓋をして強火で１分ぐらい蒸し焼きにする。",
+        "塩・黒コショウ・顆粒だしで味付けし、仕上げにごま油を回し入れてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "325725",
+    "advice": "冷蔵庫にあるのを忘れていた元気のないｷｬﾍﾞﾂでもＯＫですよ＾＾",
+    "history": "生では食べたくないなぁ～と思う元気のないキャベツを発見したので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ蒸し焼き"
+    ],
+    "tsukurepo_count": "207",
+    "thumbnail": "https://img.cpcdn.com/recipes/325725/100x141c/3d87f28ed6c6a0499c37edda35f8555b.jpg?u=274122&p=1214214619"
+}

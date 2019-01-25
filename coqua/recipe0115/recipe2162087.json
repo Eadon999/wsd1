@@ -1,0 +1,47 @@
+{
+    "name": "チンゲン菜と卵のオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2162087/464x260/1427175aa5269c56e1fe7ff02c0bf344.jpg?u=3671213&p=1363865357",
+    "datePublished": "2013-03-21",
+    "description": "チンゲン菜と卵の炒め物♪簡単かつ旨い！(∈＾∇゜)ｷﾗｯ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２株"
+        },
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ１、５"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は葉っぱと茎を分けて切っておく。",
+        "フライパンに油をひき、大きくかき混ぜて、塊になる様に、半熟くらいで、一旦お皿に取り出しておきます。",
+        "再度、油をひいたフライパンでチンゲン菜の茎→葉っぱの順に炒めて、そこに２と★を加え、炒め合わせたら出来上がり～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2162087",
+    "advice": "コツなどないほど簡単です♪(＾ｖ＾)",
+    "history": "チンゲン菜がお安かったから♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲンサイ 卵"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/2162087/100x141c/19205963b3fcaa9e967405cbfcd9fadd.jpg?u=3671213&p=1363865357"
+}

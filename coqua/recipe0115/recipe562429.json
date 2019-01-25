@@ -1,0 +1,40 @@
+{
+    "name": "豆腐のからあげ",
+    "author": {
+        "@type": "Person",
+        "name": "qoouru"
+    },
+    "image": "https://img.cpcdn.com/recipes/562429/464x260/19eaa47d905b4b5054111f45832dfd48.jpg?u=223009&p=1214219799",
+    "datePublished": "2008-05-02",
+    "description": "サクっフワっな一品です♪作ってビックリ食べてビックリだよー",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "からあげ粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "木綿豆腐を2cm角くらいに切って、キッチンペーパーで水分をふき取る。",
+        "皿にからあげ粉を入れて、豆腐全部の面に粉がつくようにまぶしていく。",
+        "180度位の油でカラッと狐色に揚げて下さい。浮いてきて泡がまばらならOKですヨ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "562429",
+    "advice": "水分で油がはねるので注意して下さい。水切りをすると、冷めてからも美味しいです♪水切りしない場合は食べきっちゃって下さいネ♪",
+    "history": "今日で賞味期限が切れる木綿豆腐とのにらみ合いの末、出来上がりました♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "からあげ粉"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/562429/100x141c/6ba4fea784dbbdcf9a09d2e3c72db418.jpg?u=223009&p=1214219799"
+}

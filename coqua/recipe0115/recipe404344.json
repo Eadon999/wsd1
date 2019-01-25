@@ -1,0 +1,59 @@
+{
+    "name": "とってもヘルシー♪そぼろ丼",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/404344/464x260/68a229432bc403d2a7dca1e12cced54b.jpg?u=252604&p=1223610072",
+    "datePublished": "2007-07-15",
+    "description": "お肉も油も砂糖も使わないそぼろ丼。 お弁当にもどうぞ。 見た目はお肉みたいですが、豆腐そぼろです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁（300ｇ）"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆生姜の絞り汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "2人分"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐をざっとくずします。ざるにとり、しっかり水切りしておきます。",
+        "テフロンのフライパンに、しっかり水切りした豆腐を入れ、中火で炒ります。お箸でぽろぽろに崩しながら、しっかり水気をとばします。",
+        "☆を加えて、さらに水分をとばします。",
+        "温かいご飯にたっぷりのせて、いんげんの塩茹でを飾って出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "404344",
+    "advice": "お豆腐の水切りをしっかりと。お肉よりもやさしい味のそぼろ丼です。",
+    "history": "お豆腐を使いきりたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "醤油",
+        "みりん",
+        "生姜の絞り汁"
+    ],
+    "tsukurepo_count": "173",
+    "thumbnail": "https://img.cpcdn.com/recipes/404344/100x141c/31b556e5dc352a760c3892ab3820c2de.jpg?u=252604&p=1223610072"
+}

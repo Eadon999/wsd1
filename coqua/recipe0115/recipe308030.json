@@ -1,0 +1,58 @@
+{
+    "name": "かぶと厚揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "春夏ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/308030/464x260/57fdaa1b58e79ca7ff4d598467f1d5ca.jpg?u=207828&p=1214214241",
+    "datePublished": "2006-12-06",
+    "description": "酒＆みりん効果で染みウマです♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "3個"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "タカラ本料理用清酒",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "タカラ本みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶの皮をむき、くし型切りにして面取りしておく。かぶの葉（あれば）は粗みじんに切っておく。厚揚げは熱湯をまわしかけて油抜きして食べやすい大きさにきっておく。",
+        "鍋に１のかぶとだし汁・酒・みりん・しょうゆを入れ火にかけ、煮立ったら中火にする。",
+        "５分くらいしたら１のかぶの葉を加え更に5分くらい煮て厚揚げを加える。",
+        "しばらく煮て、かぶが柔らかくなれば出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "308030",
+    "advice": "かぶの面取りはぜひやってください。仕上がりが違います。かぶの皮＆面取りして出たクズはぜひきんぴらに！（レシピID：242754参照）",
+    "history": "お酒調味料アカデミーのおかげで煮物が楽しくなって♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶと厚揚げの煮物",
+        "厚揚げ 煮物",
+        "かぶ 厚揚げ 煮物"
+    ],
+    "tsukurepo_count": "286",
+    "thumbnail": "https://img.cpcdn.com/recipes/308030/100x141c/d58103053f2da5146eabe4dd5acda702.jpg?u=207828&p=1214214241"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "まるで鶏肉？高野豆腐の唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "いさお飯"
+    },
+    "image": "https://img.cpcdn.com/recipes/258784/464x260/3a9856f4b71f2d83154e18d37233e220.jpg?u=226303&p=1214213112",
+    "datePublished": "2006-06-07",
+    "description": "まるで鶏の唐揚げみたい？！不思議な美味しさです♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "高野豆腐",
+            "quantity": "5枚"
+        },
+        {
+            "name": "水",
+            "quantity": "カップ1"
+        },
+        {
+            "name": "顆粒ダシ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ニンニクのすりおろし",
+            "quantity": "2片分"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "戻した高野豆腐の水気を絞り、煮汁の材料で中火で煮ます。煮汁がなくなったら弱火にして押しても汁がでなくなるまで煮ます。粗熱が取れたら6等分くらいに手でちぎります",
+        "衣の材料を混ぜ合わせ、高野豆腐とからめて揚げて出来上がりです",
+        "衣が少し残ったのでごぼうもあげてみました",
+        "写真はオーロラソースと柚子胡椒を添えてあります"
+    ],
+    "cookTime": null,
+    "recipe_id": "258784",
+    "advice": "1で煮汁がなくなるまで煮ますが、神経質にカラカラにする必要はありません。私はテフロンのフライパンで煮ています。",
+    "history": "以前、高野豆腐で唐揚げを作って美味しかったので下味を付けてアレンジしてみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高野豆腐",
+        "水",
+        "顆粒ダシ",
+        "醤油"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/258784/100x141c/bbee2646a815d9abaaeec20cf89daa84.jpg?u=226303&p=1214213112"
+}

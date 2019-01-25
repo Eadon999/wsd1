@@ -1,0 +1,58 @@
+{
+    "name": "きゅうりの即席お漬物。",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/311479/464x260/ce1bf8bda66f27195d0500a458228baa.jpg?u=322945&p=1214214321",
+    "datePublished": "2006-12-17",
+    "description": "ピリッとして、しその香りも最高な簡単お漬物です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "青じその葉",
+            "quantity": "７～８枚"
+        },
+        {
+            "name": "鷹のつめ",
+            "quantity": "２本"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうがすりおろし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりはよく洗い、塩を全体にまぶしよくもむ。さっと洗い水分を切って、両端を切り手で食べやすい大きさにちぎる。",
+        "青じその葉は千切り、鷹のつめは斜め小口きりにし、きゅうりしょうゆ、しょうがといっしょに、密閉容器またはビニール袋に入れよく振る。冷蔵庫で１０分以上冷やして完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "311479",
+    "advice": "きゅうりは水分がでやすいので、大量に作りおきしないほうがよいです。",
+    "history": "お茶漬けが食べたくて、きゅうりとしその葉があったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "青じその葉",
+        "鷹のつめ",
+        "しょう油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/311479/100x141c/af48a7265beeb20f15b5922e425e05f9.jpg?u=322945&p=1214214321"
+}

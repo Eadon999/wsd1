@@ -1,0 +1,52 @@
+{
+    "name": "おすし屋さんの卵焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちょぽまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/605380/464x260/45ee4fe6bde92d0a13b7d4ca606a2de8.jpg?u=731830&p=1215455312",
+    "datePublished": "2008-07-06",
+    "description": "「この卵焼きかってきたの？」いえいえママが作ったんです（＾＾）普通の卵焼きよりふんわりしてて美味しいですよ。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小１/2"
+        },
+        {
+            "name": "水分",
+            "quantity": "20ｍｌ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵以外を混ぜてから卵も混ぜていつものたまごやきの作り方で焼く。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "605380",
+    "advice": "白だしを小１加えればだし巻き卵に。水を牛乳にかえるとまろやかな感じの卵焼きになります。",
+    "history": "買ったみたいな卵焼きがど～しても食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お寿司屋さんの卵焼き",
+        "寿司屋 卵焼き"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/605380/100x141c/e445936100929166976e02bd6ea6866a.jpg?u=731830&p=1215455312"
+}

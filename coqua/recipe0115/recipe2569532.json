@@ -1,0 +1,51 @@
+{
+    "name": "キャベツとにんじんとしめじのお味噌汁☆",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2569532/464x260/e13263695b5466fe8204ad74b38e7ccf.jpg?u=3540419&p=1396444526",
+    "datePublished": "2014-04-02",
+    "description": "野菜たっぷり☆キャベツとにんじんの甘みが美味しいお味噌汁です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/4パック"
+        },
+        {
+            "name": "だし",
+            "quantity": "350ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつは太めのせん切り、にんじんは薄い半月切り、しめじは小房にして半分に切る",
+        "鍋にだしと野菜を入れて中火にかける",
+        "野菜がやわらかく煮えたら火を弱めて味噌をとき、一煮立ちしたらできあがり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2569532",
+    "advice": "簡単です味噌はお好みで量を加減してください",
+    "history": "野菜をしっかり食べたくて",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ にんじん しめじ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/2569532/100x141c/d30ceb269105c76bc6f87ef4efa8d828.jpg?u=3540419&p=1396444526"
+}

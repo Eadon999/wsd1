@@ -1,0 +1,78 @@
+{
+    "name": "フライパンでカレーピラフ",
+    "author": {
+        "@type": "Person",
+        "name": "matoキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2243823/464x260/a60d6593ebe651a86113a5e823693c13.jpg?u=6697946&p=1371340561",
+    "datePublished": "2013-06-02",
+    "description": "フライパンで作るカレーピラフです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "250cc（１.５合）"
+        },
+        {
+            "name": "水",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "玉ねぎ(みじん切り)",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "人参(みじん切り)",
+            "quantity": "１/４本"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "えんどう豆",
+            "quantity": "大２"
+        },
+        {
+            "name": "えび",
+            "quantity": "５～６匹"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "大１"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "大１"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０g"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米は洗い、ざるにあけておく。\n海老は適当な大きさにきり、酒と塩で下味をつける。",
+        "フライパンにオリーブオイルをひき、にんにくを軽くいため、えびと、野菜も炒める。",
+        "米を加えて、油がなじんだら、水とコンソメ、カレー粉を入れる。",
+        "ふたをして煮立ったら、弱火で１５分ほど煮る。\nその後、１０分ほど蒸らす。",
+        "ふたをとり、バターを加えて、混ぜる。塩コショウで味をととのえる。",
+        "カレー粉のかわりにケチャップでチキンライスも作ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2243823",
+    "advice": "",
+    "history": "炊飯器で作ってましたが、炊いた後、しばらく炊飯器に臭いが残るのがいやだったので。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/ピラフ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレーピラフ フライパン"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2243823/100x141c/67d93319e726af0f9a4a79fd1f22d9a9.jpg?u=6697946&p=1371340561"
+}

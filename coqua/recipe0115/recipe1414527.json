@@ -1,0 +1,64 @@
+{
+    "name": "鱈のバターポン酢ソース",
+    "author": {
+        "@type": "Person",
+        "name": "アルフォンス"
+    },
+    "image": "https://img.cpcdn.com/recipes/1414527/464x260/6b9d401c7894cd659724fff29827b328.jpg?u=244472&p=1312794466",
+    "datePublished": "2011-04-18",
+    "description": "ご飯にもお酒にも合う　さっぱりコクのある味です",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "鱈（鮭、鰆、カジキでも）",
+            "quantity": "二切れ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "米粉",
+            "quantity": "適宜（なくても可）"
+        },
+        {
+            "name": "バター（マーガリンでも）",
+            "quantity": "一片"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大3"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "半本"
+        }
+    ],
+    "recipeInstructions": [
+        "鱈に塩こしょうをして粉をはたく\n\n長ネギは斜め薄切りにしておく",
+        "フライパンにバターとオリーブ油を入れて　鱈を色よく焼く",
+        "鱈をフライパンの片側に寄せて長葱を炒める。ポン酢をまわしかけ　少しとろみがついたら出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1414527",
+    "advice": "米粉はなくてもいいです。米粉を使うとカリッと焼き上がる感じがします。　ポン酢とバターの組み合わせはコクがあってさっぱりしていていいですね♪",
+    "history": "淡白な鱈を　バターでコクと　ポン酢でさっぱり感を　",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たら バターポン酢",
+        "バターポン酢ソース"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1414527/100x141c/680118be830b4219921f489c93d15704.jpg?u=244472&p=1312794466"
+}

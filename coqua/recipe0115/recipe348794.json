@@ -1,0 +1,58 @@
+{
+    "name": "新キャベ玉♥♡胡麻味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/348794/464x260/78728f4f4f9ed9acb81a3033c96b50f2.jpg?u=304393&p=1214215120",
+    "datePublished": "2007-03-23",
+    "description": "新キャベツ・新玉ねぎの味噌汁です。出来上がりに黒すりごまをかけて♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "黒すり胡麻",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2～1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつはｻﾞｸきり。\r\n玉ねぎはスライス。\r\n鍋に適量の出し汁を沸かしておく。",
+        "フライパンにごま油を熱し、玉ねぎ・きゃべつの順に軽く炒め、①の鍋に入れる。",
+        "軽く煮立てたら味噌を溶かし、器に盛って胡麻を散らしたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "348794",
+    "advice": "新しいので炒め時間は少しで風味がでると思います。胡麻はできたらいり胡麻を食べる直前に擂ると美味しいです。",
+    "history": "野菜は炒めることでよく風味がでるので好きなのですが、最後に胡麻風味を加えると美味しそうと思って作ったらgood。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "キャベツ",
+        "黒すり胡麻",
+        "味噌"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/348794/100x141c/61d152e38e727be00f9054a7b8781185.jpg?u=304393&p=1214215120"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "おろし納豆ぶっかけ蕎麦",
+    "author": {
+        "@type": "Person",
+        "name": "★Ｓａｎｊｉ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/2222489/464x260/7f7707e55d2542e403422c12498f5c61.jpg?u=6216831&p=1368513790",
+    "datePublished": "2013-05-14",
+    "description": "暑い時には冷やしぶっかけ蕎麦でしょ（＾-＾）大根おろしでさっぱりツルツル～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "乾麵蕎麦",
+            "quantity": "２人分"
+        },
+        {
+            "name": "納豆",
+            "quantity": "２パック"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "適量（多め）"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●めんつゆ",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "蕎麦は好みの固さに茹でて、茹であがったら水で洗っておき、別ボールに氷水をはった中に蕎麦を入れる",
+        "大根おろしと納豆を用意したら、●のめんつゆと醤油を混ぜておく。\n（味が濃い場合は水で薄めてね）",
+        "皿に冷やした蕎麦を盛り納豆とおろしをのせたら、●のつゆをかけて、ネギを適量散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2222489",
+    "advice": "",
+    "history": "お蕎麦屋さんの「おろしぶっかけ蕎麦」を再現しました。",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そば 納豆"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2222489/100x141c/3928635a6f76d9defa7147aff7fac9cd.jpg?u=6216831&p=1368513790"
+}

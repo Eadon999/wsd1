@@ -1,0 +1,65 @@
+{
+    "name": "30分で本格的なチキンカレー",
+    "author": {
+        "@type": "Person",
+        "name": "ルイくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/308608/464x260/ce2be5db4b4d1818cfe11ea870c59b90.jpg?u=348993&p=1214214251",
+    "datePublished": "2006-12-12",
+    "description": "主だった材料はたったの3種類。わずか30分で一晩寝かせたような味に仕上がります。これホントです！是非お試しあれ。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "2個"
+        },
+        {
+            "name": "りんご",
+            "quantity": "2個"
+        },
+        {
+            "name": "鶏肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "600ml"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "1箱"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋を熱してにんにくを油で香りが出るまで炒める。",
+        "一口大に切った鶏肉の皮を下にして焼き、ひっくりかえしてもう片面も焼く。",
+        "りんごと玉ねぎをフードプロセッサーでジュース状態する。",
+        "2に3と水を入れ20分ほど火にかける。",
+        "カレールーをいれて再び煮込む。",
+        "【祝】つくれぽ10人\r\n2008/9/3"
+    ],
+    "cookTime": null,
+    "recipe_id": "308608",
+    "advice": "コツなんて何も要らない簡単料理です。",
+    "history": "友人に教えてもらいました。材料がとても少ないですが、味に甘み深みがあって美味しいカレーです。一晩置かなくてもとても美味しいカレーなので、急いでいるときにGOODです！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/チキンカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "りんご",
+        "鶏肉",
+        "にんにく"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/308608/100x141c/cbae7aaa64f2f53f5c22b5c796b919aa.jpg?u=348993&p=1214214251"
+}

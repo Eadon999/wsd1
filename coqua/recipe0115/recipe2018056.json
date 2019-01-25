@@ -1,0 +1,48 @@
+{
+    "name": "豚ネギま。フライパンで簡単に作ろう！",
+    "author": {
+        "@type": "Person",
+        "name": "はーたんのおっかさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2018056/464x260/6edda70715e2aa7b621a482b966e9686.jpg?u=4113004&p=1352099856",
+    "datePublished": "2012-11-09",
+    "description": "フライパンでパパッと作れるからおかずにもおつまみにも大好評です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ねぎ(白い部分)",
+            "quantity": "1本"
+        },
+        {
+            "name": "豚バラかたまり",
+            "quantity": "90g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "爪楊枝",
+            "quantity": "12本"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギ白い部分1本を12個に切り分ける。",
+        "豚バラブロックを6枚切って更に半分に切って12子に切り分ける。",
+        "爪楊枝にネギ・肉の順に刺し、塩を両面上から振る。",
+        "中火で両面蓋しながら焼き、コンガリ色に焼いたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2018056",
+    "advice": "塩はお好みで調整してね！豚バラから油が出るから蓋しないとコンロ周りが汚れちゃうよ～。それと、蓋すると、蒸されるので早く火が通るので一石二鳥！",
+    "history": "愛娘がまだ幼い頃、長い櫛だと、危ないなぁと思い、以来ｍ、我が家は爪楊枝が定番となりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネギフライパン"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2018056/100x141c/bcb8919d1f3198bd58b815df131f6ae4.jpg?u=4113004&p=1352099856"
+}

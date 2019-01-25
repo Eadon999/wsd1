@@ -1,0 +1,54 @@
+{
+    "name": "簡単☆バター不使用で鮭のムニエル",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2208337/464x260/7278ea64aaf723feec9534f206e3767f.jpg?u=1690437&p=1367319594",
+    "datePublished": "2013-04-30",
+    "description": "調味料を振り小麦粉をつけて焼くだけの簡単調理。2013・7・11話題入りしました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭の切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモンスライス",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭の両面に塩コショウを振る。うちはクレイジーソルトと粗挽き黒胡椒を使いました。",
+        "小麦粉をまぶしたらフライパンを熱し油を入れて両面こんがりと焼きます。ふたをして中火で2分裏に返し弱火で2分。",
+        "皿に盛り付けレモンを添える。",
+        "2013・5・11\n「鮭」カテゴリに掲載されました♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2208337",
+    "advice": "買って来たトレイで全てをこなすと洗い物がなく楽です。水気があったらティッシュでふく。",
+    "history": "バターで焼くと香ばしいけど今回はグレープシードオイルを使いました。普通の油で充分です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ムニエル バターなし",
+        "鮭 ムニエル バターなし",
+        "鮭 バターなし"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2208337/100x141c/13b35bcce49c24c1459c6e9eade0df27.jpg?u=1690437&p=1367319594"
+}

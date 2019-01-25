@@ -1,0 +1,48 @@
+{
+    "name": "いつかあなたと 祖母と私の白菜のお漬物",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1689847/464x260/9a5bc0a24b02d5d7c0032810d168a4e5.jpg?u=2920899&p=1327887463",
+    "datePublished": "2012-01-30",
+    "description": "あっさり漬けても、しっかり漬けても。塩昆布で良いおだしが出ます♪2013.03.06話題入り感謝★",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "3枚"
+        },
+        {
+            "name": "生姜",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆塩昆布",
+            "quantity": "5～10ｇ"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1～"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を食べ易い大きさにカットする。",
+        "生姜を細い千切りにする。",
+        "ビニールの袋に切った野菜と☆印を混ぜ合わせて、モミモミしたら、冷蔵庫で3時間以上放置。",
+        "食べ易い位にしんなりしてきたら出来上がり♡"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1689847",
+    "advice": "愛を込める。",
+    "history": "福島の祖母が作ってくれる白菜のお漬物を、私風にアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 つけもの"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1689847/100x141c/8b99524e473d67f6af6bcde2c414419d.jpg?u=2920899&p=1327887463"
+}

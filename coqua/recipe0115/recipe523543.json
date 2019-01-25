@@ -1,0 +1,62 @@
+{
+    "name": "さつま揚げと葱の甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "eterno"
+    },
+    "image": "https://img.cpcdn.com/recipes/523543/464x260/a6fb3b64918aad2d1115df7317451c6d.jpg?u=473605&p=1215720209",
+    "datePublished": "2008-03-05",
+    "description": "和風味のご飯に合うおかずです",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "４枚"
+        },
+        {
+            "name": "長葱",
+            "quantity": "１本"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１パック（３ｇ）"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１．５"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○味醂",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま揚げと長葱は食べやすい大きさに切る。　○の調味料を合わせておく。",
+        "くっつかない鍋なら油はひかず①のさつま揚げ→長葱の順に炒める。　　　（くっつきそうな鍋なら分量外で油をひいてから炒める。）",
+        "②に○印の合わせ調味料、鰹節をを入れる。",
+        "水分がなくなるまで炒めて完成！",
+        "■今回使ったさつま揚げは直径が５～６センチのもの×４枚でした",
+        "■水分が残っているうちにとき卵をまわしいれて丼なども美味しいです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "523543",
+    "advice": "さつま揚げの大きさによって調味料は加減してください。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　お弁当にもいいと思います。",
+    "history": "さつま揚げが大好きで冷蔵庫にあった長葱と炒めてみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げねぎ"
+    ],
+    "tsukurepo_count": "205",
+    "thumbnail": "https://img.cpcdn.com/recipes/523543/100x141c/64311c08ac8f05f362bb15053674bcd3.jpg?u=473605&p=1215720209"
+}

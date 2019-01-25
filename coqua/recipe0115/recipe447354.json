@@ -1,0 +1,78 @@
+{
+    "name": "✿白菜のとろとろ煮✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/447354/464x260/c16c95d27c2108991a2fcce8d2a46337.jpg?u=226453&p=1324341416",
+    "datePublished": "2007-10-23",
+    "description": "半熟溶き卵と煮汁を一緒に♪熱々をどうぞ！",
+    "recipeYield": "４人",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "４００ｇ～５００グラム"
+        },
+        {
+            "name": "鶏挽肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "溶き卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２カップ弱"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "万能ネギ、七味など",
+            "quantity": "好み"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を食べやすく切ります。\r\nごま油で鶏挽肉を炒めだし汁を入れ、白菜の白い部分から入れ葉の方も入れます。＊の調味料を入れ煮汁が半分くらいまで煮ます。",
+        "煮汁が半分くらいになって白菜が柔らかくなったら溶き卵を回しかけ半熟状態で火を止め皿に盛り付け鰹節をかけます。\r\nお好みで万能ネギや七味などかけます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "447354",
+    "advice": "白菜はじっくり煮ましょう。味が染みてとろとろの柔らかさになります。",
+    "history": "これからの季節白菜が安く手に入り１玉で購入した方がカットものより安いです。１玉だとなかなか食べきれないので沢山食べれる物はないかと。白菜の量が減って沢山食べれます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "鶏挽肉",
+        "溶き卵",
+        "だし汁"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/447354/100x141c/c1fbee426eaa3c14808923f7fc7e159b.jpg?u=226453&p=1324341416"
+}

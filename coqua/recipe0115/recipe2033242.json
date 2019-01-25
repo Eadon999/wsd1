@@ -1,0 +1,62 @@
+{
+    "name": "☆クリスマスはスパイシーポテトフライ！",
+    "author": {
+        "@type": "Person",
+        "name": "オリエンタルママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2033242/464x260/752d0cccfd0e75c29fcb860ad7cdc5e2.jpg?u=269217&p=1353241512",
+    "datePublished": "2012-11-18",
+    "description": "細長いメークイーンカットポテトに塩をなすりこみ、レンチン後に、スパイス・粉をふりカラッと揚げます",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "メークイーン",
+            "quantity": "中３個　５００グラム"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "aガーリックパウダー",
+            "quantity": "少々"
+        },
+        {
+            "name": "aターメリック",
+            "quantity": "小さじ2分の1"
+        },
+        {
+            "name": "aカレー粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "a小麦粉",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カットポテトは一度水にさらす",
+        "☆これポイント！塩をしっかりなすりこみ、ラップをして５分ほどレンジ加熱する",
+        "aをポテトにふり混ぜ、カラッと２度揚げする"
+    ],
+    "cookTime": null,
+    "recipe_id": "2033242",
+    "advice": "カットポテトに塩をしっかりなじませ、レンチンして揚げ時間短縮です。スパイスや小麦粉を用いることで揚げたては、カリッと風味よく美味しいです！",
+    "history": "我が家はこんなポテトフライが大好きです。小麦粉が表面についてるので、カリカリッと食感が良いです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "クリスマス フライドポテト",
+        "メークイン フライドポテト",
+        "スパイシー フライドポテト",
+        "メークイン レンジ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2033242/100x141c/d2eb232580c4d3010feadc384effb85c.jpg?u=269217&p=1353241512"
+}

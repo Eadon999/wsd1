@@ -41,12 +41,13 @@
 									フィルター<br>
 									<input type="checkbox" name="filter1" value="on">簡単・手軽<br>
 									<input type="checkbox" name="filter2">子供向け<br>
-									<input type="checkbox" name="filter3">ヘルシー<br>
+									<input type="checkbox" name="filter3">美容<br>
 									<input type="checkbox" name="filter4">弁当<br>
 									<input type="checkbox" name="filter5">ボリューム<br>
-									<input type="checkbox" name="filter6">節約・安い<br>
-									<input type="checkbox" name="filter7">おつまみ<br>
-									<input type="checkbox" name="filter8">殿堂入り
+									<input type="checkbox" name="filter6">ランチ<br>
+									<input type="checkbox" name="filter7">栄養<br>
+									<input type="checkbox" name="filter8">安い<br>
+									<input type="checkbox" name="filter9">おつまみ
 								</div>
 							</div>
 						</div>
@@ -75,7 +76,7 @@
 					$('.wrap > div').show();
 					$('#result').html('Failed. No result.');
 				};
-				var search = function() {
+				var search = function(p) {
 					event.preventDefault();
 					var $form = $(this);
 					$.ajax({
@@ -83,6 +84,7 @@
 						type: 'get',
 						dataType: 'text',
 						data: {
+							page: p,
 							text: $('#input-text').val(),
 							sort: document.getElementById('form-search').sort.value,
 							filter1: document.getElementById('form-search').filter1.checked,
@@ -93,19 +95,21 @@
 							filter6: document.getElementById('form-search').filter6.checked,
 							filter7: document.getElementById('form-search').filter7.checked,
 							filter8: document.getElementById('form-search').filter8.checked,
+							filter9: document.getElementById('form-search').filter9.checked,
 						},
 					}).done(done).fail(fail);};
 				/* 検索ボタンを押した時に呼び出される */
-				$('form').submit(search);
+				$('form').submit(function(){search("#1")});
 				/* 検索条件メニューの表示切り替え */
 				$('.switch').on('click', function(){
 					$('.wrap > div').slideToggle();
 				});
 				/* 検索結果のページ切り替え */
-				$(document).on('click', '.cont .page a', function(){
+				$(document).on('click', '.page a', function(){
 					$('.cont > div').hide();
 					$('.cont > div').filter(this.hash).fadeIn();
 					$('html,body').animate({scrollTop: 0}, 'fast');
+					search($(this).attr('href'));
 					return false; /* #cont1などがurlにつかない */
 				});
 			});

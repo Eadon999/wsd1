@@ -1,0 +1,56 @@
+{
+    "name": "菜の花の和え物",
+    "author": {
+        "@type": "Person",
+        "name": "おっしょさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/490261/464x260/71a4be3983f43333453802fd20ea0ec7.jpg?u=542514&p=1393836889",
+    "datePublished": "2008-01-18",
+    "description": "菜の花の苦みに、ぬたの和え衣がよく合います。",
+    "recipeYield": "４人前",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "１束"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ３強"
+        },
+        {
+            "name": "白味噌",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "砂糖（お好みで加減）",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "練りからし",
+            "quantity": "チューブ５ｃｍ"
+        }
+    ],
+    "recipeInstructions": [
+        "白ゴマをすり鉢ですり、調味料を上から順に入れすりこぎで混ぜて和え衣を作ります（ここで味見）",
+        "菜の花を茹で(茹で時間1分以内)水で流して食べやすい大きさに切り絞って和え衣に和えます。",
+        "食べる分だけ、和えて下さいね♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "490261",
+    "advice": "和えておくと衣が水っぽくなるので食べる直前に、白ゴマを軽く煎ってから擂ると香ばしいです。",
+    "history": "知人宅で菜の花のぬた和えを頂きその美味しさのファンに、和え衣を自分の好みにしレシピに書き起こしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白味噌 和え物",
+        "菜の花 和え物"
+    ],
+    "tsukurepo_count": "121",
+    "thumbnail": "https://img.cpcdn.com/recipes/490261/100x141c/80315d0378af933e88990e94d5c85004.jpg?u=542514&p=1393836889"
+}

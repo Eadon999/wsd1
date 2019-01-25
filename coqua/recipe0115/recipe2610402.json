@@ -1,0 +1,54 @@
+{
+    "name": "デパ地下風 ブロッコリーとトマトのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "コノリガタ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2610402/464x260/52044e875dc324e039f8036412679195.jpg?u=5711313&p=1398914711",
+    "datePublished": "2014-05-01",
+    "description": "ゴマと削り節がマヨネーズとグットマッチ手軽にできるのデパ地下風サラダです話題のレシピに載る事が出来ました！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "6個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "4枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "すり白胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "削り節",
+            "quantity": "1/2パック"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを小分けに切り茹でる",
+        "ハムを適当な大きさに切り、トマト、粗熱がとれたブロッコリーと調味料とあわせる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2610402",
+    "advice": "削り節と胡麻は多めに入れて下さい。",
+    "history": "デパ地下風のサラダが作りたく、色々チャレンジしてたどり着きました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー トマト サラダ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2610402/100x141c/0cfae2928ea83e0555fade7be8a94b71.jpg?u=5711313&p=1398914711"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "大根と油揚げの炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1342108/464x260/3093957bc316fb88632c6e34478120da.jpg?u=841338&p=1296139446",
+    "datePublished": "2011-01-27",
+    "description": "甘辛でピリ辛なジューシー大根が、油揚げの旨味をすって、とっても美味しいです♬ご飯にとってもあいますよ♬",
+    "recipeYield": "３〜４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１０cm"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "３〜４枚"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●カツオだし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "１５０cc"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と油揚げを食べやすい大きさに切り、フライパンにゴマ油をひき、大根を炒めます。",
+        "次に油揚げを炒め●の調味料を入れ蓋をします。大根が柔らかくなったら、少し煮つめて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1342108",
+    "advice": "",
+    "history": "うちの定番レシピです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "油揚げ",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1342108/100x141c/cbabf6da35bd93d783bd86b748699a04.jpg?u=841338&p=1296139446"
+}

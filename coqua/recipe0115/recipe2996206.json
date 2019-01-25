@@ -1,0 +1,47 @@
+{
+    "name": "アボカドとチーズのコクまろオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "kazoomdub"
+    },
+    "image": "https://img.cpcdn.com/recipes/2996206/464x260/9317161e183b382f53931abe3a01d2c5.jpg?u=394524&p=1422976346",
+    "datePublished": "2015-02-04",
+    "description": "完熟のアボカドとチーズでヘルシーなのに濃厚なご馳走オムレツです。",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "シュレッドチーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "器に卵2個を割り入れ良く混ぜる。",
+        "角切りにしたアボカドとチーズを投入し更に混ぜたら、オイルを熱したフライパンに流し入れ、オムレツ型に焼き整える。",
+        "お好みでケチャップ、ソース、マヨネーズ等と、\nお好きな付け合わせと共にどうぞ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2996206",
+    "advice": "フライパンに流し入れたら熱が入り過ぎないように注意して下さい。",
+    "history": "クックパッドのモニターでメキシコ産アボカドを頂いたので作って見ました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チーズオムレツ アボカド"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2996206/100x141c/40159bd9f00dceca02b4680bc1210d4c.jpg?u=394524&p=1422976346"
+}

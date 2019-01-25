@@ -1,0 +1,53 @@
+{
+    "name": "簡単！キャベたま味噌汁(ふわっ卵)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3729189/464x260/e2f56c0946bc843e2fa3a3a15bde608e.jpg?u=4376699&p=1466726718",
+    "datePublished": "2016-03-05",
+    "description": "キャベツと卵の簡単味噌汁！キャベツの味噌汁人気検索1位ありがとうございます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "60g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを小さく切る",
+        "水とキャベツとほんだしを火にかけ沸騰したらキャベツに火が通るまで煮る",
+        "味噌を溶かし溶き卵を箸にそわして加え最後に箸で混ぜて(ふわっと仕上ります)火を止めて完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3729189",
+    "advice": "■時短ワザキャベツを切ったらビニール袋に入れてレンジ600W1分半チン小鍋に水を入れ火にかけるチンしたキャベツ、ほんだし、味噌を加え沸騰したら中火にして卵を加えて完成",
+    "history": "なんとなくキャベツと卵を入れてみましたやわらかくなったキャベツと卵と味噌！合います♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 味噌汁",
+        "キャベツ 卵 味噌汁",
+        "お味噌汁 卵"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/3729189/100x141c/fa5d7827354b7f4ba98562b4896cdfb8.jpg?u=4376699&p=1466726718"
+}

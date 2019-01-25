@@ -1,0 +1,54 @@
+{
+    "name": "もう1品♡小松菜としめじのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "mi0921"
+    },
+    "image": "https://img.cpcdn.com/recipes/2078332/464x260/e98c11185eb0c28fa9a968160be31daf.jpg?u=3586013&p=1357793908",
+    "datePublished": "2013-01-10",
+    "description": "もう1品足りない時のお助け簡単メニュー♬",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "3株"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は2〜3cmに切ります。",
+        "塩を少々入れた鍋で小松菜としめじを茹でます。",
+        "茹でた後冷水で冷やし水を切ります。\n鰹節を混ぜ合わせてから器に盛り付け、めんつゆをかけたら完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2078332",
+    "advice": "",
+    "history": "小松菜と娘の大好きなしめじのを合わせたおひたしを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "しめじ",
+        "塩",
+        "鰹節"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2078332/100x141c/88b8740f8c6f8483c2060ee55cbf766c.jpg?u=3586013&p=1357793908"
+}

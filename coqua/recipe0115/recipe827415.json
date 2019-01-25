@@ -1,0 +1,95 @@
+{
+    "name": "美味しい！うちの麻婆豆腐♬",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/827415/464x260/cd147d5ab7a4e91fb7907ae0891b3404.jpg?u=841338&p=1511113619",
+    "datePublished": "2009-06-06",
+    "description": "うちの自信作！美味しい麻婆豆腐です！ピリ辛でコクがあります！ご飯がたくさん進みますょ♬あつあつをどうぞ！！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "ひき肉",
+            "quantity": "１００g"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１０cm"
+        },
+        {
+            "name": "ニンニク・ショウガ",
+            "quantity": "各小さじ１（みじん切り）"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "甜麺醤",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "２５０cc"
+        },
+        {
+            "name": "●醤油・酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●ウェイパー",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "●味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "粗びきコショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油をひき、ニンニク、生姜を炒め香りをだし、豆板醤と甜麺醤を加え炒めます。次に、ひき肉も炒めます。",
+        "●の調味料を全部加え、一煮立ちしたら豆腐を入れ、三分くらい煮る。",
+        "ネギのみじん切りを加え香りがでたら、水溶き片栗粉でとろみをつけ、粗びきコショウとラー油をかけたら完成です！",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "827415",
+    "advice": "豆板醤をよく炒めると辛みが柔らかくなります。",
+    "history": "妹が麻婆豆腐を好きだったので、研究して美味しい麻婆豆腐が作れるようにがんばりました！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/麻婆豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "ひき肉",
+        "ネギ",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/827415/100x141c/1c0957b333093a542471f9e9d06ba7f6.jpg?u=841338&p=1511113619"
+}

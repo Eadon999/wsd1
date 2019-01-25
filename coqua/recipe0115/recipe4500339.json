@@ -1,0 +1,82 @@
+{
+    "name": "簡単！しっとり☆ムネ肉の生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4500339/464x260/5ef9ba457e54a8313db71cfd48ae2125.jpg?u=4376699&p=1493569238",
+    "datePublished": "2017-05-01",
+    "description": "たれと肉は最後に合わせてしっとりふわふわムネ肉♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ムネ肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉葱(新玉葱)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "3cm"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        }
+    ],
+    "recipeInstructions": [
+        "ムネ肉の皮を取り細切りにして醤油酒を揉み込む\n片栗粉をまぶして油少々で2分ほど炒めて取り出す\n",
+        "玉葱を薄切りにしてたれで煮る\n",
+        "肉を加えて煮絡めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4500339",
+    "advice": "肉にしっかり粉をまぶしてコーティング",
+    "history": "あまったムネ肉でしっとり生姜焼きに",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ムネ肉",
+        "玉葱",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4500339/100x141c/339513d125952b8d0915806e103df37a.jpg?u=4376699&p=1493569238"
+}

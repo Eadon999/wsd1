@@ -1,0 +1,72 @@
+{
+    "name": "人参とハムのマリネ☆",
+    "author": {
+        "@type": "Person",
+        "name": "のんママ420"
+    },
+    "image": "https://img.cpcdn.com/recipes/3035949/464x260/f542ed25a5442bbce139635a2b25913e.jpg?u=10697858&p=1424965864",
+    "datePublished": "2015-02-25",
+    "description": "ヒラヒラにした人参の食感とハムの塩味、レモンの香りが美味しい",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "しょうし"
+        },
+        {
+            "name": "オリーブオイル（サラダ油OK）",
+            "quantity": "大２"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1"
+        },
+        {
+            "name": "レモンの絞り汁",
+            "quantity": "大1"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "人参の皮をむき、ピーラーで削ぐ（皮をむくのと同じ要領です）※小さくなったら手元注意を^_^;",
+        "調味料を全部あわせておく",
+        "スライスした人参を２に入れ混ぜ合わせる",
+        "ハムを細め千切り、パセリをみじん切りして、混ぜ合わせる",
+        "盛り付けて完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "3035949",
+    "advice": "麺つゆはしょうゆでも美味しいですピーラーがない場合は、細めの千切りでも大丈夫です３０分から1時間くらい漬けておくと味が馴染んで美味しいですよ",
+    "history": "大量の人参の消費に(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "ハム",
+        "パセリ",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3035949/100x141c/a77e09013842ef4ce73eebffd4da351f.jpg?u=10697858&p=1424965864"
+}

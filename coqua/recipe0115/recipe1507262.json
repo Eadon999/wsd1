@@ -1,0 +1,68 @@
+{
+    "name": "✿鰯のカレーフライ✿",
+    "author": {
+        "@type": "Person",
+        "name": "前向きクミコ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1507262/464x260/d5b2ac212c9f8af2a1c936c91de26ab5.jpg?u=689846&p=1311688045",
+    "datePublished": "2011-07-26",
+    "description": "鯵より安いイワシを使って、ボリューム満点のカレーフライを作りました☆超おいしい(*^。^*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鰯",
+            "quantity": "4尾"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小匙1.5"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "生クリーム（牛乳可）",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鰯は三枚開きにして、塩・胡椒をする。（今回はフライ用を使用しました。）",
+        "小麦粉・カレー粉は混ぜる。\n卵・生クリームも混ぜる。",
+        "1に混ぜた小麦粉＆カレー粉にまぶし、卵・生クリームを通し、パン粉をまぶす。",
+        "（時間があれば）ラップをして冷蔵庫で少し落ち着かせる。",
+        "サラダ油を熱し、\n中温で両面に焼色がつくまで揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1507262",
+    "advice": "カレー味だけど、多分タルタルソースとか添えても美味しいと思います(*^。^*)安価なイワシがすごくご馳走に感じます♡",
+    "history": "鯵より鰯の方が安かったので（笑）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鰯",
+        "塩胡椒",
+        "小麦粉",
+        "カレー粉"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/1507262/100x141c/85dc7090c4c4445db55e61b2c1f6df42.jpg?u=689846&p=1311688045"
+}

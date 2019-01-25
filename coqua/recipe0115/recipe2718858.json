@@ -1,0 +1,63 @@
+{
+    "name": "【農家のレシピ】ゴーヤとツナと卵の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2718858/464x260/78cdd570f708a031406bf6f75ade2dc6.jpg?u=2513693&p=1405889672",
+    "datePublished": "2014-07-21",
+    "description": "卵とツナの油効果で、ゴーヤの苦味がまろやかに♪めっちゃ簡単、手抜きゴーヤの炒め物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ（大）",
+            "quantity": "1本（３００ｇ）"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ4分の1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小1缶（＊油ごと使います）"
+        },
+        {
+            "name": "卵（ときほぐす）",
+            "quantity": "2個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤはたて半分に切り種と綿を取り除き、２ミリ程度に薄くスライスし塩をまぶして１０分置き水気を絞って【A】と混ぜ合わせる",
+        "フライパンにごま油を熱し①を入れしばらくそのまま置きふちが固まってきたら混ぜ合わせる（スクランブルエッグを作る要領でね）",
+        "ゴーヤがしんなりしたら、最後に【B】で調味して完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2718858",
+    "advice": "",
+    "history": "ゴーヤは卵と一緒に炒めるとまろやかになるので、ツナの旨みもプラスして作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ ツナ"
+    ],
+    "tsukurepo_count": "175",
+    "thumbnail": "https://img.cpcdn.com/recipes/2718858/100x141c/cce5394d27963e4f8bec0bc8789eb748.jpg?u=2513693&p=1405889672"
+}

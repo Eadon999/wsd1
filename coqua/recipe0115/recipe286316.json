@@ -1,0 +1,74 @@
+{
+    "name": "簡単！おいしい！オイスター炒め★",
+    "author": {
+        "@type": "Person",
+        "name": "kanちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/286316/464x260/9f7d51e5c19c789b2151aae9dfb09db5.jpg?u=210004&p=1214213739",
+    "datePublished": "2006-09-30",
+    "description": "あっという間にできちゃうのに本格的なお味！忙しい時はこれに決まりっ★栄養もたっぷりですよ～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（薄切り）",
+            "quantity": "３００g"
+        },
+        {
+            "name": "なす",
+            "quantity": "4本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "赤ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "■しょうゆ",
+            "quantity": "大３"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "■みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "■オイスターソース",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは乱切りにして水にさらしておく。ほかの材料も食べやすい大きさに切っておく。■の材料を混ぜておく。",
+        "フライパンに油を多めにいれてなすをしんなりするまで炒める。いったん取り出しておく。",
+        "牛肉をフライパンに入れて炒め色が変わったらなす以外の野菜を入れる。油がまわったら■の調味料となすをフライパンにいれて最後に塩こしょうで味を調えてできあがり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "286316",
+    "advice": "野菜はいためすぎないように～簡単なのにおいし～いです！野菜はあるものでいいです♪",
+    "history": "おなすを大量にもらったので！あとは野菜室の整理です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "なす",
+        "ピーマン",
+        "しめじ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/286316/100x141c/7a4843cdaffcf6c38c473e39d6c08993.jpg?u=210004&p=1214213739"
+}

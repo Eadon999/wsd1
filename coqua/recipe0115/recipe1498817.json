@@ -1,0 +1,46 @@
+{
+    "name": "きゅうりだけ～塩昆布和え",
+    "author": {
+        "@type": "Person",
+        "name": "タヨン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1498817/464x260/11361ed256596d9881e2628f49197d15.jpg?u=3318085&p=1312268197",
+    "datePublished": "2011-07-17",
+    "description": "あと何か一品ほしい！そんなとき冷蔵庫にきゅうりが冷えていたら、これ！火を使わず３分かかりません！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは両端を切り落とし、まな板の上で、すりこ木など使って、大まかに叩き割る。\n手で程よい大きさに裂きボールに移す。\n",
+        "塩、ごま油、塩昆布を加え、よく混ぜ合わせ味をなじませる。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1498817",
+    "advice": "",
+    "history": "居酒屋さんでたべました。たぶんこんな感じ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ 塩こんぶ"
+    ],
+    "tsukurepo_count": "378",
+    "thumbnail": "https://img.cpcdn.com/recipes/1498817/100x141c/3990ffa8331db232db099507e5f320b4.jpg?u=3318085&p=1312268197"
+}

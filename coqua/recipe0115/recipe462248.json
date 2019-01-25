@@ -1,0 +1,63 @@
+{
+    "name": "大根とベーコンのコンソメ煮♡",
+    "author": {
+        "@type": "Person",
+        "name": "あゆりんたろう"
+    },
+    "image": "https://img.cpcdn.com/recipes/462248/464x260/c7a9539f4e404e39fa1dfdea5b9fbd69.jpg?u=468000&p=1214217843",
+    "datePublished": "2007-11-19",
+    "description": "お嬢ちゃん大好物の大根レシピです♡ベーコンからもいいおだしが出ますよ♫　09.0205話題入りしました感謝カンゲキです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２から３枚"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "小さじ2(キューブなら１個)"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "あれば大根の葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は2cm位の厚さにし、半月切りにする。ベーコンは2cm幅に切っておく",
+        "なべにバターを溶かし①を入れていためる",
+        "②に水をいれ☆を加えて弱火で20分くらい煮込む",
+        "最後に大根の葉を加え、かるく火を通してできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "462248",
+    "advice": "",
+    "history": "お嬢ちゃんが大根大好きなんです＾＾なのでちょっと洋風にコンソメで煮物を作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ベーコン",
+        "コンソメ",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/462248/100x141c/1599e8d18f532fb9cde10a8b0695e945.jpg?u=468000&p=1214217843"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "カジキマグロの柚子こしょうソース",
+    "author": {
+        "@type": "Person",
+        "name": "ストロベリーパイ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1997754/464x260/47929b70df824248c552853d8713a187.jpg?u=3910590&p=1350527836",
+    "datePublished": "2012-10-18",
+    "description": "カジキマグロを柚子こしょう風味でワンランクＵＰ。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カジキマグロ",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル(炒め用)",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "柚子こしょう",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "カジキマグロに塩・こしょうをして小麦粉を薄くつける。",
+        "フライパンにオリーブ油を熱して、１を盛り付けが上になるほうから裏表こんがりと焼く",
+        "２を皿に盛り付け、フライパンに\n醤油と柚子胡椒を入れ、ちょっと煮詰めます。",
+        "２に3のソースをかけて出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1997754",
+    "advice": "盛り付ける時に、上になるほうから焼くととっても美味しそうに焼けます。",
+    "history": "カジキマグロを、ちょっと変わったソースで頂きたいと思っていたところに、柚子こしょうを頂いたので、使ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かじき 柚子胡椒"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/1997754/100x141c/f34a6618f147e4de3f3b019184fb60c0.jpg?u=3910590&p=1350527836"
+}

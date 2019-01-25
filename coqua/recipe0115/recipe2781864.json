@@ -1,0 +1,55 @@
+{
+    "name": "●おくらと卵の簡単スープ●",
+    "author": {
+        "@type": "Person",
+        "name": "tlc＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2781864/464x260/8d27089bcd7e26f31ab480fac1b9d3d4.jpg?u=10427814&p=1413200405",
+    "datePublished": "2014-09-03",
+    "description": "おくらがトロトロの優しい味のスープです。10分以内で作れます☆＊2015.4.15 話題入り感謝♡＊",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "5本"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "おくらは5mmほどの厚さの輪切りにする。\n卵は溶いておく。",
+        "鍋に水と鶏がらスープの素を入れて火にかけ、沸騰したらおくらを入れる。",
+        "おくらの色が鮮やかになったら、溶き卵を入れてふわっとかき混ぜ、最後に醤油とごま油を入れたら完成！\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2781864",
+    "advice": "おくらは茹ですぎると色が悪くなるので、さっと茹でるのがコツです。",
+    "history": "時間のない時に思いついた簡単なレシピです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ 卵 スープ"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2781864/100x141c/8628d71d1b9dd3a98f531aab75182362.jpg?u=10427814&p=1413200405"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "するめいかと大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "namirun"
+    },
+    "image": "https://img.cpcdn.com/recipes/575625/464x260/44ea4722fd16b03105e58f12d37a5fa3.jpg?u=764259&p=1214220058",
+    "datePublished": "2008-05-22",
+    "description": "生するめいかが入荷したら、作ろう。やわ～いいかと大根の定番煮物。",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "するめいか",
+            "quantity": "７杯（小ぶり）"
+        },
+        {
+            "name": "水",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をお好みの大きさに切る。\r\nいかもわたをとり、輪切りにして、足の下を揃えきる。",
+        "全ての材料を鍋にかけ、アクをとる。",
+        "７～８分煮る。",
+        ""
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "575625",
+    "advice": "アクをしっかりとる。",
+    "history": "生いかするめの季節になると、たべたくなる１品。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": [
+        "するめいか 9位"
+    ],
+    "related_keywords": [
+        "するめいか",
+        "するめいか 大根",
+        "生スルメイカ",
+        "生スルメイカ 大根"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/575625/100x141c/92729e9139d522426b0093c7bdebfe7d.jpg?u=764259&p=1214220058"
+}

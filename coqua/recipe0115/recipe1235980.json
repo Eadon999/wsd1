@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】ピーマンとおかかの甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1235980/464x260/af7b32f552198a4ca1686bc5676c1b45.jpg?u=2513693&p=1284724952",
+    "datePublished": "2010-09-27",
+    "description": "常備菜に最適です。短時間で作れて冷めても美味しいご飯のおかずです☆ ",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "5個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "３ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンはヘタを取って縦2つに割り中の種を取り1センチ程度に切る\r\n",
+        "油大さじ１でピーマンを炒め、油が全体に回ったらしょうゆ、みりん、酒を入れる\r\n",
+        "最後にかつおぶしを入れ、汁気がなくなりピーマンがやわらかくなるまで炒め煮する \r\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1235980",
+    "advice": "ピーマンは味が染みにくい野菜なので、冷めたほうがおいしいですよ",
+    "history": "よく母が伏見唐辛子で作ってくれていた、おかかの甘辛煮をピーマンで作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "しょうゆ",
+        "みりん",
+        "酒"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/1235980/100x141c/ce41ea0518786a0f037e5b8a6ae40334.jpg?u=2513693&p=1284724952"
+}

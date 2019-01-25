@@ -1,0 +1,52 @@
+{
+    "name": "*お弁当に☆レンチンでピーマンナムル*",
+    "author": {
+        "@type": "Person",
+        "name": "ラピパピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2115488/464x260/d1bfdb213bf59734f8914ba96b25c483.jpg?u=246320&p=1361228662",
+    "datePublished": "2013-02-12",
+    "description": "1分あれば出来ます☆レンチンで簡単♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "2つまみ"
+        },
+        {
+            "name": "アジシオ（普通の塩でも可）",
+            "quantity": "1つまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "１ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りにし、耐熱容器に入れてラップをして600ｗで30秒チンする。",
+        "鶏がら、アジシオ、ごま油で味付けして出来上がり！",
+        null,
+        "お好みで白ゴマを振っても♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2115488",
+    "advice": "アジシオがない場合は普通の塩でも大丈夫です。",
+    "history": "お弁当の緑のおかずに簡単なものをと考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "鶏がらスープの素",
+        "アジシオ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2115488/100x141c/5f3e0bceca3c0be5502e4192c59c0069.jpg?u=246320&p=1361228662"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "美味しい！甘辛きんぴらごぼう！",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1255766/464x260/097c8614f3e2dadf68c108a276385d36.jpg?u=841338&p=1315401036",
+    "datePublished": "2011-09-07",
+    "description": "甘めのきんぴらごぼうです♬",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "牛蒡",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■鷹の爪",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "牛蒡と人参を千切りにします。次に、フライパンにごま油をひき、牛蒡と人参を炒めます。",
+        "■の調味料を入れ、水分が無くなるまで炒め、ゴマをまぶして完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1255766",
+    "advice": "レンコンや竹輪をプラスしても、とっても美味しいですそれから、きんぴらごぼうを細かく刻んで、フライパンでご飯と一緒に炒めると、混ぜご飯のようになって絶品です！",
+    "history": "きんぴらごぼうが、大好きで研究しました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛蒡",
+        "人参",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1255766/100x141c/f887839c98ade8b3c8251a9b6cdb70b5.jpg?u=841338&p=1315401036"
+}

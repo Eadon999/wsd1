@@ -1,0 +1,53 @@
+{
+    "name": "とろとろ鶏卵うどん",
+    "author": {
+        "@type": "Person",
+        "name": "そらのママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/305626/464x260/8b544453ec97640c5f3ccf40a7adb398.jpg?u=340317&p=1214214184",
+    "datePublished": "2006-11-29",
+    "description": "昔バイトしていたお蕎麦屋さんのメニューです。温まるし素朴で美味しいです。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "1人分"
+        },
+        {
+            "name": "うどんのだし",
+            "quantity": "1人分"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "すりおろし生姜（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんを茹でて水気を切る。（冷凍うどんがしこしこしてて美味しいです）",
+        "うどんのだしを温め、そこにうどんを入れる。",
+        "2に水溶き片栗粉を入れてとろみをつける。",
+        "3に溶き卵を均等に入れてハイ出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "305626",
+    "advice": "先に水溶き片栗粉でとろみをつけてから溶き卵を入れてくださいね。お好みでかまぼこ、ねぎなどを入れても美味しいと思いますが、私は何も入れずに食べるのが好きです。",
+    "history": "お蕎麦屋さんのバイトを辞めた後もしょっちゅう食べたくなったので、ある日自分で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とろとろ鶏卵うどん",
+        "うどん 卵"
+    ],
+    "tsukurepo_count": "255",
+    "thumbnail": "https://img.cpcdn.com/recipes/305626/100x141c/9ae8ed725c58a327d85bb703b0747e7a.jpg?u=340317&p=1214214184"
+}

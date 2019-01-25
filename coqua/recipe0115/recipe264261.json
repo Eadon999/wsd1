@@ -1,0 +1,59 @@
+{
+    "name": "人参のオイスターソースきんぴら。",
+    "author": {
+        "@type": "Person",
+        "name": "もえみさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/264261/464x260/96eac16466b8d8e3702cc464f460048e.jpg?u=12692&p=1214213251",
+    "datePublished": "2006-07-02",
+    "description": "こってりな味付けで人参がもりもり食べれちゃいます！お弁当にもどうぞ♪つくれぽ１００件越えのレシピです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "人参とちくわは千切りにして、ごま油をしいて温めたフライパンで炒める。",
+        "砂糖、しょうゆを入れいため、人参が柔らかくなってきたらオイスターソースを入れて、また少しいためてできあがり。好みでゴマをふる。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "264261",
+    "advice": "こつは特にありません。いためるだけなので・・・。歯ごたえを残したい方は、ほどほどにいためてください。",
+    "history": "あまり人参が好きではない夫に沢山人参を食べさせたくて・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "その他/おもてなし料理/お客様いろいろ！/野菜でおもてなし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "ちくわ",
+        "ごま油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "185",
+    "thumbnail": "https://img.cpcdn.com/recipes/264261/100x141c/1f42ce37a3a08b46b2646365ff28d17e.jpg?u=12692&p=1214213251"
+}

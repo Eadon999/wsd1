@@ -1,0 +1,61 @@
+{
+    "name": "香ばしい～♪鮭丼",
+    "author": {
+        "@type": "Person",
+        "name": "駅前魔女食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/488398/464x260/009ab74c7a11e9f9031d45b1de9e29e6.jpg?u=24807&p=1214218346",
+    "datePublished": "2008-01-15",
+    "description": "ニンニク醤油の香りが食欲を刺激しますよ～～（＾＾）",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭（刺身用薄切り）",
+            "quantity": "５枚"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "A)ニンニクスライス",
+            "quantity": "小１片"
+        },
+        {
+            "name": "A)オリーブオイル",
+            "quantity": "ライト　大さじ２"
+        },
+        {
+            "name": "A)玉ねぎ　みじん切り",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "A)醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "丼にご飯を入れ、鮭を並べる。\r\n軽く水気をきった大根おろしを中央に乗せる。",
+        "調味料A)はオリーブオイルを熱して材料を入れ熱々に温める。",
+        "鮭の上から香味オイルを適量まわしかけ、青ネギを乗っけてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "488398",
+    "advice": "残ったニンニク醤油油は小瓶に入れて保存する。（他の料理に使える）",
+    "history": "鮭は脂が多いのであっさりと食べられるようにしたいとおもいました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭",
+        "大根おろし",
+        "ネギ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/488398/100x141c/edf1842b3ac175d832a2b594f111f78c.jpg?u=24807&p=1214218346"
+}

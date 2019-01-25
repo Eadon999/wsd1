@@ -1,0 +1,59 @@
+{
+    "name": "簡単！ほうれん草のカレーマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4193640/464x260/502a0ed7aa1d6911597a4f4b30ecfda1.jpg?u=4376699&p=1479656754",
+    "datePublished": "2016-11-22",
+    "description": "カレー粉とオリーブオイルが良い風味です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "4本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯を沸かす\nほうれん草の根の先だけ切り落とし洗う\nお湯に茎を15秒\n全体を入れて15秒で取り出す\n",
+        "水にさらして冷やしてしっかり絞る\n短く切りそろえて根は食べやすいように切込みを入れる",
+        "ソースを混ぜる",
+        "ほうれん草をしっかり絞ってばらしながら加えて混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4193640",
+    "advice": "混ぜ終わったら味見をしてお好みで調整してください",
+    "history": "ほうれん草のカレー炒めにしようとして和え物に変更しました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "ソース",
+        "マヨネーズ",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4193640/100x141c/3624335d76c15137434d4118b7e7c507.jpg?u=4376699&p=1479656754"
+}

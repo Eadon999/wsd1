@@ -1,0 +1,73 @@
+{
+    "name": "鶏ささみと水菜のおつまみしらすサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4350659/464x260/5f6277e0bcfd5abc515008eb9897380f.jpg?u=9664115&p=1486935483",
+    "datePublished": "2017-02-14",
+    "description": "和えるだけで簡単おつまみサラダ♪塩昆布としらすの塩気がささみと水菜にあいますよー。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "1本"
+        },
+        {
+            "name": "水菜",
+            "quantity": "2束"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り茹でる。\n鍋でお湯を沸かしお酒を入れて弱火で火が通るまで。",
+        "粗熱が取れたら細かく手で割く。",
+        "水菜をザク切りに。\nきゅうりを千切りに。",
+        "ボウルに全ての材料を入れよく混ぜ、少し（10分程度）時間をおいて馴染ませたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4350659",
+    "advice": "あれば錦糸卵とか。",
+    "history": "ふと、思いつき。冷蔵庫にあるもので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 しらす サラダ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4350659/100x141c/a8fbcf7b51c5a91fa0caf2268176d347.jpg?u=9664115&p=1486935483"
+}

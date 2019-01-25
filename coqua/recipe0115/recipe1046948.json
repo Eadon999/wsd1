@@ -1,0 +1,60 @@
+{
+    "name": "菜の花のペペロンチーノ",
+    "author": {
+        "@type": "Person",
+        "name": "JuicyPeach"
+    },
+    "image": "https://img.cpcdn.com/recipes/1046948/464x260/3397af842dd3dc80742a4bedb5ffb4f1.jpg?u=735660&p=1266718289",
+    "datePublished": "2010-02-21",
+    "description": "菜の花とオリーブオイルの相性は抜群です！いくらでも食べれちゃいますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "1パック"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "1本"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくはスライスして芯を取り除く。\r\n赤唐辛子は種を外した輪切りでもいいし、丸ごと一本のままでもOK。",
+        "たっぷりのオリーブオイルに、にんにく、赤唐辛子が風味良く色づくまで香りを移す。",
+        "菜の花を入れて軽く炒めたら、塩少々で味付け。",
+        "菜の花の太い芯の部分を指でつまんでやややわらかくなったら、ブラックペッパーをたっぷり加えて出来上がり。",
+        "話題入り、ありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1046948",
+    "advice": "菜の花の葉っぱ部分がちょっちカリっとなる位が美味しいタイミングです。",
+    "history": "辛子和えも美味しいですけど、実は菜の花の甘みを一番引き立ててくれるのって、オリーブオイルとの相性かも。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "にんにく",
+        "赤唐辛子",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1046948/100x141c/e7d24f0db5f4dd08bf559b088e33e7c9.jpg?u=735660&p=1266718289"
+}

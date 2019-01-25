@@ -1,0 +1,59 @@
+{
+    "name": "さつま芋と人参のきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3397682/464x260/d51fada512cd249b2ad07bf153eb2fcc.jpg?u=4819316&p=1441892535",
+    "datePublished": "2015-09-10",
+    "description": "15/11/4話題入り有難うございます、さつまいもの甘味が醤油と絡んで結構いけますよ、お試し下さい",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／４本"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "適量ｍ"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "あｓつま芋と人参は皮をむいてせん切りにする",
+        "フライパンに分量外のサラダ油を加熱して、さつま芋と人参を炒める",
+        "火が通ってくると●を入れてよく混ぜながら炒める",
+        "水分がほとんどなくなると器に盛り、炒りごまを振って出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3397682",
+    "advice": "さつま芋に少しシャキシャキ感が残るぐらいに加熱できれば一番良いです",
+    "history": "自分のレシピ「じゃが芋のきんぴら」（ID=2045817）を参考にしています、じゃが芋をさつま芋に変えてみて甘味を楽しんでみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま芋",
+        "にんじん",
+        "炒りごま",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/3397682/100x141c/cf5491443c0a226c295fa1603ef44e2e.jpg?u=4819316&p=1441892535"
+}

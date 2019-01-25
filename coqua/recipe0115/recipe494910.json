@@ -1,0 +1,76 @@
+{
+    "name": "小松菜と絹あげのあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "しおとも"
+    },
+    "image": "https://img.cpcdn.com/recipes/494910/464x260/e92b01a93937eda2b885d0113bc90cc8.jpg?u=267165&p=1214218472",
+    "datePublished": "2008-01-26",
+    "description": "あんかけと絹あげで我が家の冬の定番になりました。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "絹あげ（厚揚げ）",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "適量"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "濃縮めんつゆ",
+            "quantity": "大さじ4弱"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "○片栗粉",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "○水",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は茹でて一口大に切り、人参は千切り、しめじは大きいものは裂いておく。絹あげを熱湯にとおして油抜きして切っておく。（②の写真の大きさ）",
+        "鍋に○以外の調味料、水を入れ火にかける。人参を入れる。人参が柔らかくなったら材料を全部入れる。少し煮て○のあんをかけたら完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "494910",
+    "advice": "ご使用のめんつゆで濃さが違うと思うので味見してくださいね＞＜　",
+    "history": "小松菜と厚揚げの煮びたしが大好きなんですが、（あんかけなしで）間違って絹あげを買ってしまい＆あまりに寒いのであんかけにしたところ、冬にピッタリの煮びたしになりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹揚げ あんかけ",
+        "絹揚げ 小松菜"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/494910/100x141c/19dc824c0081f78226669e8393d8e1bc.jpg?u=267165&p=1214218472"
+}

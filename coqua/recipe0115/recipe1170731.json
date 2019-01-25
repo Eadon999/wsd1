@@ -1,0 +1,74 @@
+{
+    "name": "なすとしめじのジューシーそぼろ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/1170731/464x260/1275ee5f84ee970b7e98448694b3bbb6.jpg?u=54489&p=1277653582",
+    "datePublished": "2010-06-28",
+    "description": "スピーディーにできちゃう♪だしとしめじの風味が広がるそぼろはうちの定番です。是非お試しを (＾▽＾)/",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "なす",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "合挽き肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "┌醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "│みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "│酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "│ほんだし®",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "│生姜のすりおろし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "└砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは乱切りにして水にさらす。しめじは石付きを取り除きほぐす。",
+        "ごま油で合挽き肉を炒めＡで調味し、なすとしめじを加え、しんなり汁気が少なくなるまで炒めて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1170731",
+    "advice": "",
+    "history": "母の定番の味！ごはんがすすむし美味しいです♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "なす",
+        "合挽き肉",
+        "ごま油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1170731/100x141c/33841ea5ad6f9ec5a9b9599bdd85b59e.jpg?u=54489&p=1277653582"
+}

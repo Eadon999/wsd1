@@ -1,0 +1,50 @@
+{
+    "name": "☆簡単！ニラのナンプラーおひたし☆",
+    "author": {
+        "@type": "Person",
+        "name": "シェフミニー"
+    },
+    "image": "https://img.cpcdn.com/recipes/339785/464x260/f6fff2567f2638524c27b8e1ac6459c2.jpg?u=283288&p=1270023642",
+    "datePublished": "2007-03-07",
+    "description": "ほんのりナンプラーとレモンの風味でパクパク食べられるおひたしです。箸休めにどうぞ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは熱湯でサッと茹でて、冷水にひたしてあら熱を取ったら水気を絞り、食べやすい大きさにカットします。",
+        "ニラ以外の調味料を合わせます。１のニラと和えてできあがりです。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "339785",
+    "advice": "ニラは茹ですぎないぐらい・・・かな(;^_^A アセアセ…",
+    "history": "あともう一品というときに、ノンオイルで簡単に作れるものをと思って作ってみました。久々にナンプラー味のものが食べたかったのです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "ナンプラー",
+        "レモン汁",
+        "醤油"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/339785/100x141c/23c2dc1fa2dd068589853496a37e6d6b.jpg?u=283288&p=1270023642"
+}

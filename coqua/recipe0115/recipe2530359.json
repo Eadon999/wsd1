@@ -1,0 +1,51 @@
+{
+    "name": "☆エリンギのチーズ醤油焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2530359/464x260/a71bb16e1f8de63328e0878355f7fe3e.jpg?u=8803837&p=1393990187",
+    "datePublished": "2014-03-05",
+    "description": "コリコリ食感のエリンギにとろ～りチーズ、香ばしい醤油の香りがポイント。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "３本"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは縦に３等分、にんにくはみじん切りにする。",
+        "フライパンにオリーブオイルを入れ弱火でにんにくを熱し、\n\n香りがたったらエリンギを入れ中火で両面に焼き色がつくまで焼く。",
+        "チーズを加え醤油をまわしがけ蓋をする。\n\nチーズが溶けたら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2530359",
+    "advice": "エリンギは厚めにスライスした方が食感を楽しめます。",
+    "history": "普段は塩胡椒でイタリアン風に作るチーズ焼き、ちょっと和風に醤油で味付けました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ チーズ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2530359/100x141c/446f0770bd151049d733b7d90abb890c.jpg?u=8803837&p=1393990187"
+}

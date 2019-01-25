@@ -1,0 +1,71 @@
+{
+    "name": "白菜のクリームパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "ふぅこちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1595349/464x260/d0e05dea37a2bb20f32e3178571cb0be.jpg?u=1896630&p=1318319752",
+    "datePublished": "2011-10-11",
+    "description": "簡単！美味しい！白菜とベーコンで作ったクリームパスタです＾＾ランチにいかが？",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1枚（お好みで）"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "1枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "4分の１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "約100cc"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "約大さじ2"
+        },
+        {
+            "name": "バターORマーガリン",
+            "quantity": "約小さじ１"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "約小さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "1人前"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜・ベーコン・玉ねぎを細かめに切る。",
+        "ベーコン・玉ねぎを炒め、玉ねぎが色付いてきたら白菜も加える。",
+        "コンソメを入れ、バターORマーガリンも加え溶けたら小麦粉も加え、牛乳でとろみをつける。牛乳は様子見で増量してね。",
+        "塩コショウで味を調え、茹でたパスタを加え完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1595349",
+    "advice": "簡単に出来ちゃいます＾＾調味料はその時の様子で増減しちゃって下さい。生クリーム使わなくてもクリームパスタは作れますよ＾＾",
+    "history": "冬の旬、白菜を使ったパスタが食べたくて＾＾ クリーム系なら合うかもと思い作りました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/クリームソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "ベーコン",
+        "玉ねぎ",
+        "牛乳"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1595349/100x141c/e4fad93350cd49edbbb5beeef5b6c8f6.jpg?u=1896630&p=1318319752"
+}

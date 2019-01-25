@@ -1,0 +1,58 @@
+{
+    "name": "かぼちゃのワタのミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1737010/464x260/dea2599fb062d5ee56bdd6f0e36557a3.jpg?u=2513693&p=1331519377",
+    "datePublished": "2012-06-23",
+    "description": "栄養豊富なかぼちゃのワタ。牛乳とまぜるとうっすらオレンジ色になって綺麗です。食感もいいですよ～。 ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃのワタ",
+            "quantity": "２分の１個分"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１枚"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "米粉（上新粉）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "コンソメ（固形）＊細かく刻んでおく",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃのワタは種を取り出して適当な大きさに切っておく。ベーコンはみじん切りにしておく。",
+        "かぼちゃのわたと、ベーコンをバターで1分炒め【A】を加えてとろみがついたら完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "1737010",
+    "advice": "米粉大さじ１の代わりに水溶き片栗粉（水１：片栗粉１）を小さじ２でもOKです。",
+    "history": "栄養豊富なかぼちゃのワタ。捨てるのはもったいないので色んな料理に使っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ",
+        "その他/限られた食材で工夫/使い切り無駄なし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベーコン",
+        "バター",
+        "牛乳",
+        "米粉"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1737010/100x141c/2c7ceb522a4ee2426c64ae3e08ac4040.jpg?u=2513693&p=1331519377"
+}

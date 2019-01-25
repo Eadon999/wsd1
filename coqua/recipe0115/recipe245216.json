@@ -1,0 +1,53 @@
+{
+    "name": "✿筍と厚揚げの甘煮✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/245216/464x260/c6b745db218bdcf97a66e74c7c8cb03a.jpg?u=226453&p=1367366550",
+    "datePublished": "2006-03-23",
+    "description": "少し甘めの煮物ですが味がしみてて美味しいです♪",
+    "recipeYield": "３～４人",
+    "recipeIngredient": [
+        {
+            "name": "筍の水煮",
+            "quantity": "半分"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "2カップ弱"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２、１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは熱湯をかけ油抜きをします。筍の水煮は5分程下ゆでしてくさみをとります。",
+        "鍋にそれぞれ材料を入れ落し蓋をし中火で煮汁が1／3くらいになるまで煮ます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "245216",
+    "advice": "厚揚げの油抜きや筍の下ゆでをするとくさみが取れ味が染みやすくなります。",
+    "history": "主人が厚揚げの煮物が好きなので子供も食べやすく甘めに煮てみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 甘煮",
+        "たけのこ 厚揚げ"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/245216/100x141c/74d86966ceffbef9c495a50de4ae4d48.jpg?u=226453&p=1367366550"
+}

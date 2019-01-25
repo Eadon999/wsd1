@@ -1,0 +1,44 @@
+{
+    "name": "残ったお赤飯で炒飯☆",
+    "author": {
+        "@type": "Person",
+        "name": "sumuna"
+    },
+    "image": "https://img.cpcdn.com/recipes/607263/464x260/f57bf837778c9efb3fd17652e48e35aa.jpg?u=867261&p=1221036788",
+    "datePublished": "2008-07-25",
+    "description": "お赤飯が残ったときに我が家ではこう食べます！ナカナカおいしいですよ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "お赤飯",
+            "quantity": "お茶碗２杯分"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２程度"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お赤飯は電子レンジで温めておく。",
+        "フライパンにサラダ油を熱し、１のお赤飯を炒める。（あまりべたつくようであれば、水を加えてほぐす）",
+        "ほぐれてきたら、ほんだしを加え、しょうゆで味付けし完成！\r\nしょうゆは淵から廻し入れるのがコツです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "607263",
+    "advice": "見た目はいろどりが…。ですが！かなりおいしいと思います！",
+    "history": "お赤飯に飽き、あみ出された料理です★",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤飯 残り",
+        "赤飯 チャーハン"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/607263/100x141c/83ae8fa8e635f44f27ace9927621902d.jpg?u=867261&p=1221036788"
+}

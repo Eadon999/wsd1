@@ -1,0 +1,80 @@
+{
+    "name": "揚げない★れんこんはさみ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "たじ満塁"
+    },
+    "image": "https://img.cpcdn.com/recipes/619924/464x260/7c45872a4a3edd66b68a34c4a9019695.jpg?u=779605&p=1223210343",
+    "datePublished": "2008-07-28",
+    "description": "中の具はお肉だけ！野菜が入らないのでお手軽に♪しかも焼くので簡単にできあがります♪甘辛タレを煮絡めて。レンコンサクサク♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "鶏ミンチ",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "○卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "○片栗粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○おろししょうが",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンは４ｍｍ厚の薄切りにする",
+        "鶏ミンチに○を入れ混ぜる（ゆるかったら片栗粉で調整してください）",
+        "れんこんに２をつけて反対側をもう一枚のれんこんではさみ軽くギュっと押さえる",
+        "片栗粉をまんべんなくつけて焼く",
+        "焼きあがったら合わせておいた●を煮絡めて出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "619924",
+    "advice": "器に盛った後、一味唐辛子をかけてもいいかも♪",
+    "history": "いそがしい時の省略レシピ(^^)v",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "鶏ミンチ",
+        "卵",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/619924/100x141c/9f9c424b774fe73aeb21236b9e8239a4.jpg?u=779605&p=1223210343"
+}

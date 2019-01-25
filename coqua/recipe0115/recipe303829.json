@@ -1,0 +1,43 @@
+{
+    "name": "ツナそぼろでおいしいにんじんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/303829/464x260/7d43a3528ad77a70951a8107928ff5d4.jpg?u=274122&p=1214214136",
+    "datePublished": "2006-11-23",
+    "description": "ツナそぼろとにんじんバターソテーをマヨネーズであえるだけでとってもおいしいサラダになります。　　　　　　　　　　　　",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ツナそぼろ　レシピID :297556",
+            "quantity": "ツナ缶８０グラム分"
+        },
+        {
+            "name": "にんじんバターソテー",
+            "quantity": "にんじん中２本分"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ１～２（お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "あると便利ツナそぼろを作り冷ましておく。",
+        "にんじんパクパクバターソテーを作り冷ます。",
+        "１と２をマヨネーズで和えてできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "303829",
+    "advice": "にんじんバターソテーを作り、シーチキン・マヨネーズ・しょうゆ（少量）で和えてもおいしいです。",
+    "history": "大好きなにんじんソテーをちょっとアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/303829/100x141c/e39d63a3148ef4101f91de77baa6a3c3.jpg?u=274122&p=1214214136"
+}

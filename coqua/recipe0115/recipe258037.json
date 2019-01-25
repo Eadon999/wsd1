@@ -1,0 +1,62 @@
+{
+    "name": "すっぱ旨♪ジャガイモとしめじのレモン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/258037/464x260/131a70fa4dd85ba0aadbda0d47347bea.jpg?u=203689&p=1214213094",
+    "datePublished": "2006-06-03",
+    "description": "レモンの酸っぱさが美味しいですよ♡チャチャッと簡単に出来るので付け合せにピッタリです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "2コ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1株"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "炒め油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモ、しめじを食べやすい大きさに切る。",
+        "フライパンに油を熱し、1を炒める。",
+        "火が通ったら、レモン汁・醤油・塩コショウを回しいれて、仕上げにパセリを散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "258037",
+    "advice": "ジャガイモは薄く切った方が火の通りが早いです。",
+    "history": "最近暑くなってきたので、レモン味の1品がほしいなぁと。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャガイモ",
+        "しめじ",
+        "レモン汁",
+        "醤油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/258037/100x141c/a15a01177f45db26632921bab9c49582.jpg?u=203689&p=1214213094"
+}

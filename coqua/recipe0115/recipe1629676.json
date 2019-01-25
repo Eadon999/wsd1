@@ -1,0 +1,43 @@
+{
+    "name": "【農家のレシピ】海苔レタス",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1629676/464x260/d3db77f1ab54a8aae80723e88b307eba.jpg?u=2513693&p=1321448135",
+    "datePublished": "2011-12-13",
+    "description": "レタスに味付け海苔を乗せて、醤油をすこしかけるだけ。混ぜて食べると美味しいよ♪　",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "４分の1個"
+        },
+        {
+            "name": "味付け海苔",
+            "quantity": "5枚程度"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "手で食べやすい大きさに切ったレタスの上に味付け海苔をちぎってふりかけ、醤油をかけて完成です。混ぜて食べてね～"
+    ],
+    "cookTime": null,
+    "recipe_id": "1629676",
+    "advice": "",
+    "history": "レタスを普通のサラダにするだけではなくて、色んなものをトッピングして食べたりもしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "味付け海苔",
+        "醤油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1629676/100x141c/fe3fd31c62d8ae0be949b271ccd19e08.jpg?u=2513693&p=1321448135"
+}

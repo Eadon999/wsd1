@@ -1,0 +1,58 @@
+{
+    "name": "◆あと１品！ブロッコリーと卵のサラダ◆",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/480877/464x260/8e7f2766f1e8082420c58018669eec77.jpg?u=322621&p=1257746900",
+    "datePublished": "2007-12-29",
+    "description": "ゆで卵とﾌﾞﾛｯｺﾘｰを和えて簡単ｻﾗﾀﾞに♡ 今更ながら小さじに訂正があります　本当にごめんなさい",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "４～５個"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "４～５振り"
+        }
+    ],
+    "recipeInstructions": [
+        "小房に分けたﾌﾞﾛｯｺﾘｰはゆでておく　ゆで卵は粗いみじん切りにしておく　●でｿｰｽを合わせて味を整えておく　",
+        "すべてを合わせて出来上がり",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "480877",
+    "advice": "卵のソースは牛乳などを加えてとろとろに調整しても美味しいです",
+    "history": "ﾌﾞﾛｯｺﾘｰがたくさん有ったので消費ﾚｼﾋﾟで簡単に♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ゆで卵",
+        "マヨネーズ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "308",
+    "thumbnail": "https://img.cpcdn.com/recipes/480877/100x141c/ec1422c1ffdd980de0ad8f2f0f05f99c.jpg?u=322621&p=1257746900"
+}

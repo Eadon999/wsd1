@@ -1,0 +1,62 @@
+{
+    "name": "トマトとアボカドの和風ツナ和え",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/805978/464x260/44433b5b6f69737d90ccc22b7b554d74.jpg?u=625487&p=1242109337",
+    "datePublished": "2009-05-12",
+    "description": "少しのからしがアクセント☆めんつゆ使用の手軽な一品です",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "和からし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは湯剥きして種を取り、２cm角位に切る。",
+        "アボカドは皮を剥いて種を取り、２cm角位に切る。レモン汁少々を振りかける。",
+        "ツナは缶汁をきる。",
+        "めんつゆにからしを溶き、そこに１、２、３を加えて和える。",
+        "器に盛り付ける。\r\nせん切りにした大葉をのせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "805978",
+    "advice": "からしの分量は、お好みにより増減して下さい。 もしお時間がありましたら、手順４の後に冷蔵庫で３０分以上おくと、お味が一層よく馴染みます。",
+    "history": "どちらかと言えば洋風食材のトマトやアボカド。和風の食卓にも合うように、手軽なレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド トマト ツナ"
+    ],
+    "tsukurepo_count": "113",
+    "thumbnail": "https://img.cpcdn.com/recipes/805978/100x141c/0768734307fe103df471285b54399683.jpg?u=625487&p=1242109337"
+}

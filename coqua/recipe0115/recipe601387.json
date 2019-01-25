@@ -1,0 +1,62 @@
+{
+    "name": "ランチに最適☆味ぽんで簡単ナスのミート丼",
+    "author": {
+        "@type": "Person",
+        "name": "陽チン"
+    },
+    "image": "https://img.cpcdn.com/recipes/601387/464x260/6fb9ef5512d355be03dd2f0969344100.jpg?u=856050&p=1215133524",
+    "datePublished": "2008-06-30",
+    "description": "ナス一本使ってボリュームアップ☆味ぽんで食欲がそそります♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "1本"
+        },
+        {
+            "name": "ひき肉（お好み）",
+            "quantity": "１００g前後"
+        },
+        {
+            "name": "☆味ぽん",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを袋にいれて、片栗粉をいれよく振ってまぶす。多めの油で両面あげ焼きにして、一回ペーパーに移しておく。",
+        "フライパンに油をとって、ひき肉を炒める。（塩コショウを少々）ナスを入れて☆を合わせてから全体絡める。",
+        "ご飯にのせて最後に卵黄を☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "601387",
+    "advice": "多めの油でしっかりあげる。なすはお好みの大きさに切るってみずにさらし水気をしっかりとっておく。砂糖に加減はお好みで♪",
+    "history": "余っていたナスで味ぽんを使ってさっぱりめにしあげました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "ひき肉",
+        "味ぽん",
+        "みりん"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/601387/100x141c/7e821bcf610d28e031c7fe5abbf828bc.jpg?u=856050&p=1215133524"
+}

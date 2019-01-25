@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】丸ごと1本キュウリの漬物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1570969/464x260/71c29be4c0db067e608060ce314d29bb.jpg?u=2513693&p=1316004535",
+    "datePublished": "2011-09-18",
+    "description": "キュウリと調味液をビニール袋に入れて1日で完成の簡単キュウリの漬物。そのまま豪快にガブッっと食べても美味しいよ～♪ ",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "3本（３００ｇ）"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粗塩",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "昆布（細切りにしておく）",
+            "quantity": "3センチ"
+        },
+        {
+            "name": "赤唐辛子（種を取って小口切り）",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "洗ったキュウリとよく混ぜ合わせた【Ａ】をビニール袋に入れ、空気を抜いて冷蔵庫で1日寝かせれば完成です。",
+        "切って浅漬けとして食べても良し、写真のように串にさしてガブッっと食べてもいい感じです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1570969",
+    "advice": "太い種が大きいキュウリよりも、1本１００ｇ程度のキュウリで作るほうが美味しいですよ。",
+    "history": "去年からずっと調味料を色々変えてやっと完成した1本漬けです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "漬物  農家"
+    ],
+    "tsukurepo_count": "303",
+    "thumbnail": "https://img.cpcdn.com/recipes/1570969/100x141c/01f8c950e061ff91a9ee1b81b08b737f.jpg?u=2513693&p=1316004535"
+}

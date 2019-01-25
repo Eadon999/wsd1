@@ -1,0 +1,58 @@
+{
+    "name": "小松菜のおひたし♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2615391/464x260/19ce2b44da37061cc4d83ef30de4f31c.jpg?u=9552524&p=1399285779",
+    "datePublished": "2014-05-05",
+    "description": "シャキシャキの小松菜にお出汁が染みて美味し～♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "★薄口しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "小１パック"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は塩（分量外）茹でし４㎝長さに切って水気を絞ります。",
+        "鍋に★を煮立て①を加えて火を止め冷まします。",
+        "だし汁と一緒に器に盛りかつお節を乗せます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2615391",
+    "advice": "だし汁に小松菜を入れたら冷めるまで置いてね♪冷める時に味が染みます♡冷蔵庫で冷やしてもおいしいです(^^♪",
+    "history": "家庭菜園で小松菜がてんこ盛り出来てしまって(；一_一)　毎日　小松菜三昧の日々・・・。その中の定番メニューです(^^♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "だし汁",
+        "薄口しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/2615391/100x141c/c83932ed7f1c0cf4f402af84c19b0a46.jpg?u=9552524&p=1399285779"
+}

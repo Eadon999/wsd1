@@ -1,0 +1,79 @@
+{
+    "name": "COCO♡私のシンプルきのこスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ＣＯＣＯＬＯＶＥ"
+    },
+    "image": "https://img.cpcdn.com/recipes/986543/464x260/ea1bd46629b9f08432bae5321512f64d.jpg?u=1219958&p=1260357755",
+    "datePublished": "2009-12-09",
+    "description": "あっという間にできる簡単なスープです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小1"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "小1"
+        },
+        {
+            "name": "水",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "うす口醤油",
+            "quantity": "小1/2〜1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "パセリ　粉チーズ",
+            "quantity": "適宜（なくてもO.K)"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは薄切り、きのこも食べやすく切る。",
+        "鍋にオリーブオイルを熱し、1を軽くいため、料理酒を入れまぜ、全体に少ししんなりしたら水とコンソメを入れる。",
+        "沸騰後1〜2分煮たらうす口醤油、コショウをいれ、味を見て足りなければ塩で味を整える。",
+        "お好みでパセリ、粉チーズをふって完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "986543",
+    "advice": "最初にオリーブオイルでいためることでコクが出ます。仕上げのうす口醤油で味がしまります。きのこは何でもいいですよ♪",
+    "history": "ヘルシーで簡単にできるスープを考えました♬",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "えのき",
+        "エリンギ",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/986543/100x141c/255897ae3ed7a5753aff43ea1aa739c3.jpg?u=1219958&p=1260357755"
+}

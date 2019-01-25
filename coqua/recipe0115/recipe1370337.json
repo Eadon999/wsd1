@@ -1,0 +1,70 @@
+{
+    "name": "甘くて美味しい♬私のひじきの煮物♬",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1370337/464x260/be40b1c16d3e12961458495c116b386d.jpg?u=841338&p=1307538264",
+    "datePublished": "2011-04-05",
+    "description": "甘くて美味しいしっかり味のひじきの煮物です♬定期的に食べたくなる、うちの定番お惣菜です♬",
+    "recipeYield": "３〜４人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき",
+            "quantity": "３０g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "■味醂",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "■かつおだし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■水",
+            "quantity": "３００cc"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきを戻しておく。人参と油揚げを切る。",
+        "鍋にごま油をひき、ひじきを炒める。油が馴染んだら、人参と油揚げを入れ、さらに炒める。",
+        "次に、■の調味料を入れ、混ぜる。沸騰したら、弱火にして煮汁が減るまで煮たら完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1370337",
+    "advice": "牛蒡や枝豆をプラスしても、とっても美味しいですよ！",
+    "history": "彼好みの、甘めのひじきの煮物です♬",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "油揚げ",
+        "人参",
+        "醤油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1370337/100x141c/729faf76664f3892f4d0d1cad12e39e5.jpg?u=841338&p=1307538264"
+}

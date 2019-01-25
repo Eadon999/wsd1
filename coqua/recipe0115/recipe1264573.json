@@ -1,0 +1,53 @@
+{
+    "name": "ごはんが進む♪『イカの甘辛煮』",
+    "author": {
+        "@type": "Person",
+        "name": "あこらー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1264573/464x260/749a1c43f114a146635d98426851bf66.jpg?u=524556&p=1345268851",
+    "datePublished": "2010-10-21",
+    "description": "´24.8.27話題入り★ごはんが進む煮物です。私は刺身用のイカを使いますが冷凍でもOKですよ♬ 家では早い者勝ちです",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "２はい"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "100cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "100cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３～５"
+        }
+    ],
+    "recipeInstructions": [
+        "イカはワタをとり、輪切りにします。",
+        "鍋に全材料を入れ、火にかけます。",
+        "１０分～１５分中火で煮る。焦がさないように気をつけて。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1264573",
+    "advice": "イカから水分が出ます。煮すぎるとしょっぱくなります。鍋から目を離さないでください。",
+    "history": "おばあちゃんの味です。※煮汁を多めに変更しました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか 甘辛煮",
+        "イカの甘辛煮",
+        "イカ"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/1264573/100x141c/545542db7046e27bac9ea975d71239a3.jpg?u=524556&p=1345268851"
+}

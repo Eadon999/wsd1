@@ -1,0 +1,61 @@
+{
+    "name": "カニカマとキュウリとワカメの酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "みゆKitchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/2120667/464x260/00b60d994759a275fcd45d95775b5c9a.jpg?u=2886607&p=1360966919",
+    "datePublished": "2013-02-16",
+    "description": "箸休めにもおススメな簡単にできる酢の物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "香り箱（かにかま）",
+            "quantity": "6本"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1本"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "10g"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "*酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "*醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "*砂糖",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥わかめを水で戻しておき、水気をしぼる。きゅうりを薄い輪切りにし、塩揉みして絞っておく。カニカマを食べやすく裂く。",
+        "*を合わせ、1を和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2120667",
+    "advice": "カニカマは大きめに裂くと食感を楽しめます。",
+    "history": "スギヨ「香り箱」レシピコンテストに参加。「香り箱」の食感を楽しめるレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "香り箱",
+        "キュウリ",
+        "乾燥わかめ",
+        "塩"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2120667/100x141c/6db83a53eb8f2e8da6188b4d8e964d84.jpg?u=2886607&p=1360966919"
+}

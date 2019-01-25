@@ -1,0 +1,52 @@
+{
+    "name": "秋の味噌汁♪かぼちゃと玉ねぎ",
+    "author": {
+        "@type": "Person",
+        "name": "なゆほ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2820159/464x260/ea7edf368213150ba5f552260fb86cea.jpg?u=2848231&p=1412161794",
+    "datePublished": "2014-10-01",
+    "description": "かぼちゃの美味しい季節♪玉ねぎと合わせて、甘〜いお味噌汁はいかがですか？(o^^o)",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "５g"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃと玉ねぎを5mmぐらいの薄切りにします。油揚げは必要であれば湯通しして切っておきます。",
+        "お湯が沸騰した鍋にかぼちゃと玉ねぎを入れます。",
+        "かぼちゃと玉ねぎが柔らかくなったら、だしの素と油揚げを入れ、煮立ったら火を止め味噌を入れて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2820159",
+    "advice": "かぼちゃが煮崩れる前に火を止める事。エノキやシメジなどのキノコ類を入れるのもおすすめ♪",
+    "history": "かぼちゃが好きなので、何にでも入れてしまいます(o^^o)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌汁 かぼちゃ 玉ねぎ",
+        "味噌汁 かぼちゃ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/2820159/100x141c/3a0d73ec697f2540bfc09c4f08eddf09.jpg?u=2848231&p=1412161794"
+}

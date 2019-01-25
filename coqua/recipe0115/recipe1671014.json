@@ -1,0 +1,81 @@
+{
+    "name": "簡単うちの肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "みーみーさんさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1671014/464x260/8a1851427b2154e1d899d2d363bd5dc4.jpg?u=3545880&p=1337683298",
+    "datePublished": "2012-01-12",
+    "description": "★☆2012.9.30話題入り100感謝です☆★　　　　　お肉もじゃが芋も味が染みて簡単にできる美味しい肉じゃがです。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（豚でもひき肉でもよい）",
+            "quantity": "150g"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "４個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "３分の１"
+        },
+        {
+            "name": "糸こんにゃく",
+            "quantity": "100g"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●ほんだし",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は大きめにカットしておく。",
+        "フライパンに肉と★を炒め、野菜と糸こん、●、水を入れ1５分～煮込むだけ。",
+        "あとは余熱で味が染みこむので放置しておきましょう。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1671014",
+    "advice": "必ず最初肉に味をつけ炒めること。",
+    "history": "じゃがいもがたくさんあるので・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": [
+        "肉じゃが 3位",
+        "簡単肉じゃが 1位"
+    ],
+    "related_keywords": [
+        "肉じゃが",
+        "肉じゃが 簡単",
+        "簡単うちの肉じゃが",
+        "肉じゃが しらたきなし"
+    ],
+    "tsukurepo_count": "1910",
+    "thumbnail": "https://img.cpcdn.com/recipes/1671014/100x141c/c69eb24f663c70e15365da66a191ad57.jpg?u=3545880&p=1337683298"
+}

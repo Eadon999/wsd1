@@ -1,0 +1,52 @@
+{
+    "name": "【農家のレシピ】ほうれん草のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1788600/464x260/17fc5c9c0a2573a9a3f5fe693c878858.jpg?u=2513693&p=1335100076",
+    "datePublished": "2012-04-24",
+    "description": "ナムルにすると美味しい野菜は色々ありますが、今回はほうれん草のナムルです。　",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "ホウレンソウ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ニンニク（すりおろしておく）",
+            "quantity": "１片分"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は熱湯で１分茹で水にさらし３センチ程度に切り水気をギュッと絞り【A】で和えて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1788600",
+    "advice": "",
+    "history": "青菜やニンジン、もやしに大根、色んな野菜をナムルにして食べています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 ナムル",
+        "ほうれん草",
+        "ナムル",
+        "農家のレシピ"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/1788600/100x141c/fc67e6e8bbbb47a5879b191f728832b4.jpg?u=2513693&p=1335100076"
+}

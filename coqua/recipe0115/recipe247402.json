@@ -1,0 +1,51 @@
+{
+    "name": "ピーマンとにんじんと卵の洋風きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/247402/464x260/0c16d66537c9ea91a85e2611be6757fe.jpg?u=54489&p=1215133392",
+    "datePublished": "2006-04-06",
+    "description": "付け合せに簡単！ご飯がすすむ♪ケチャップで甘辛く炒めたきんぴら風の炒め物 （*^^*）動画アリ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１０ｃｍ"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "Ａ",
+            "quantity": "（ケチャップ大さじ１＆１/２、醤油小さじ１、酒小さじ１、砂糖少々）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンとにんじんを細切りにし、ごま油で炒める。",
+        "しんなりしてきたら、Ａで調味し、味が馴染んだら溶き卵を加えてサッと炒めて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "247402",
+    "advice": "この味つけ、お好みのあり合せの素材で試してみてください。お弁当のおかずにもＧＯＯＤ♪↓アレンジ版（動画レシピ）http://www.youtube.com/watch?v=8BkKRmbtY2o",
+    "history": "随分前にあり合せで作った料理です。美味しかったので掲載☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン 卵"
+    ],
+    "tsukurepo_count": "620",
+    "thumbnail": "https://img.cpcdn.com/recipes/247402/100x141c/c120cf083913f287c2608a5738e4cea5.jpg?u=54489&p=1215133392"
+}

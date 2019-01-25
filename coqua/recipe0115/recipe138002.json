@@ -1,0 +1,70 @@
+{
+    "name": "豚肉の味噌生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kamkam"
+    },
+    "image": "https://img.cpcdn.com/recipes/138002/464x260/96fcc8689e5da6952c7de667fb812af6.jpg?u=19402&p=1351485735",
+    "datePublished": "2004-04-09",
+    "description": "生姜焼きのお味噌バージョンです。粉山椒や柚子胡椒などと一緒に食べるとご飯が進む、ビールが進む♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース肉等お好みの部位",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "適宜"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "生姜(絞り汁)",
+            "quantity": "一片分"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉に塩・酒を絡めて、片栗粉をまぶす。 \r\n味噌・酒・みりん・砂糖・生姜の絞り汁を全て混ぜあわせてタレを用意する。",
+        "フライパンに分量外の油をひき、①の豚肉を両面色よく焼く。",
+        "②の豚肉に火が通ったら、①で混ぜ合わせておいたタレを加え、煮絡めたら出来上がり♪粉山椒・柚子胡椒・七味などお好みでかけて"
+    ],
+    "cookTime": null,
+    "recipe_id": "138002",
+    "advice": "生姜を利かせると食べないこともある息子の為に、ちょっと甘めにしました。",
+    "history": "生姜焼きをお味噌味にしたらどうなんだろう？？と思ってやってみたら、美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩",
+        "片栗粉",
+        "味噌",
+        "みりん"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/138002/100x141c/61676118e562772732790dc4465b94d0.jpg?u=19402&p=1351485735"
+}

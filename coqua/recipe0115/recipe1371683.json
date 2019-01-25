@@ -1,0 +1,60 @@
+{
+    "name": "ポン酢で簡単♥チヂミたれ♬",
+    "author": {
+        "@type": "Person",
+        "name": "meron♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1371683/464x260/898335fbf698703e30fef1a7782d7640.jpg?u=1792007&p=1307063853",
+    "datePublished": "2011-06-03",
+    "description": "ポン酢がべースでも、和風じゃない韓国風なタレになります♥13/11/07つくレポ10人になりました作って頂いて有り難う",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "いりごま白",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "適量"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "すべての材料を混ぜるだけ♥"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1371683",
+    "advice": "唐辛子は辛くても少し入れたほうが味がしまります～",
+    "history": "時間がなくて、ポン酢で簡単に出来ないかと考えました",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ポン酢",
+        "砂糖",
+        "ごま油",
+        "いりごま白"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1371683/100x141c/407ba32031b981ff5e700b140d228a8c.jpg?u=1792007&p=1307063853"
+}

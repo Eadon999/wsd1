@@ -1,0 +1,75 @@
+{
+    "name": "✿蓮根の中華きんぴら✿",
+    "author": {
+        "@type": "Person",
+        "name": "まりみぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1325911/464x260/6b1a9c0abdf5f46bb12ea07658ec705b.jpg?u=1939623&p=1319161789",
+    "datePublished": "2011-01-10",
+    "description": "✿2013年11月５日話題入り✿中華風に仕上げた蓮根のきんぴらです✿",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "１６０ｇ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大２"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小⅓"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大1½"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "●水",
+            "quantity": "大１"
+        },
+        {
+            "name": "※炒りごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は皮を剥き3㎜位の厚さで輪切りにし10分酢水に浸らした後、軽く水洗いしザルに上げます。",
+        "沸騰した湯に蓮根を入れ３分茹でてザルに上げます。",
+        "容器に●を入れ混ぜ合わせておきます。",
+        "フライパンにゴマ油・豆板醤・おろしにんにくを入れ弱火で炒めます。",
+        "香りがでてきたら蓮根を加え中火で十分炒めます。",
+        "③を加え混ぜながら汁気がなくなるまで炒めます。",
+        "器に盛り炒りごまを散らして出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1325911",
+    "advice": "",
+    "history": "いつものきんぴらを中華風にアレンジしたかった",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中華風きんぴら"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1325911/100x141c/22f19c640a9825e9e4e7eda98fab0e7d.jpg?u=1939623&p=1319161789"
+}

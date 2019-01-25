@@ -1,0 +1,63 @@
+{
+    "name": "定番のおふくろの味★豚バラと大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "のんびりはるみむし"
+    },
+    "image": "https://img.cpcdn.com/recipes/690972/464x260/5f1d6aa91c93b47781ad739b892f4dd7.jpg?u=858788&p=1227931601",
+    "datePublished": "2008-11-29",
+    "description": "ほったらかしで簡単に出来ます。定番のおばんざい。もっと大量に作っとけば良かったと思えるおかず。お弁当にも合いますよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１０㎝程度"
+        },
+        {
+            "name": "豚バラ肉(薄切り肉)",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "◎出し汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "１～２本"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を２㎝位の薄さにスライスし、半月にして下茹でしてざるにあげておきます。",
+        "鍋に◎の材料を入れて１５分ほど煮ていき、お好みで鷹の爪も一緒に煮込みます。",
+        "大根が柔らかくなり味が染みたら豚肉を入れてさっと茹でてあくをとって完成",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "690972",
+    "advice": "煮汁がなくなるまで煮込むとお弁当にも合います。鷹の爪はお好みで。切らずに入れると優しい辛さで仕上がりますよ。",
+    "history": "ご飯に合うおかずでスピードメニュー。大根が安かったのでたくさん作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "豚バラ肉",
+        "出し汁",
+        "みりん"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/690972/100x141c/b4d95b7978996ce0359f117d9b8fbb70.jpg?u=858788&p=1227931601"
+}

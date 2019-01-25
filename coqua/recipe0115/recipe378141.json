@@ -1,0 +1,45 @@
+{
+    "name": "♫お弁当のおかず♫ピーラーグラッセ",
+    "author": {
+        "@type": "Person",
+        "name": "オーブル"
+    },
+    "image": "https://img.cpcdn.com/recipes/378141/464x260/7c17474ce44cffa1507ff679a16bd8c0.jpg?u=260414&p=1214216157",
+    "datePublished": "2007-05-23",
+    "description": "ピラピラしているからお弁当の隙間を埋めるのに最適簡単♡♡ 前の日にでもサッと作っておくと便利です",
+    "recipeYield": "小鉢一個分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小1"
+        },
+        {
+            "name": "バターorマーガリン",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "小なべにピーラーで削った人参としょうゆ・ひたひたより少な目の水をいれ火にかける",
+        "沸騰したら水分が飛ぶまで中火で煮詰める。\r\n",
+        "もう一息のところで、バターを入れテリを出す",
+        "*ズッキーニで*\r\nマヨネーズで炒めて醤油をたらしおかかと黒ゴマをあしらえば出来上がり\r\n（2007.7お弁当使用）"
+    ],
+    "cookTime": null,
+    "recipe_id": "378141",
+    "advice": "いつもは太目の棒状にするグラッセ。お弁当には形に自由の利くこの形が好きです。甘さは人参の甘さで。特有のにおいはしょうゆに消してもらいました",
+    "history": "でっかいグラッセもいいけど、たまにはピラピラもいいかなと",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/378141/100x141c/f1a4c28bfcdf82f14beb30d1e2668862.jpg?u=260414&p=1214216157"
+}

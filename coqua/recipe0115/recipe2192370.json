@@ -1,0 +1,62 @@
+{
+    "name": "ご飯のお供に☆大根の葉　胡麻醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "PONヨメ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2192370/464x260/c2f0718d701ce3d115602e58097ab743.jpg?u=3741687&p=1366012496",
+    "datePublished": "2013-04-15",
+    "description": "大根の葉を使って、胡麻醤油で味付け！ご飯と一緒にどうぞ＾＾ご飯に混ぜて、お握りにしても美味しいですよ♪",
+    "recipeYield": "大根1本分",
+    "recipeIngredient": [
+        {
+            "name": "大根の葉",
+            "quantity": "大根1本分"
+        },
+        {
+            "name": "①醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "①酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "①みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "①砂糖",
+            "quantity": "大さじ1/2～1"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の葉をきれいに洗います。\n\n細かく微塵切りにします。",
+        "熱したフライパンに胡麻油をひき、葉を炒めます。",
+        "葉がしんなりしてきたら、材料①を入れ炒めます。\n\n汁気がなくなる煮詰めます。",
+        "味を調え、胡麻を入れ仕上げます。",
+        "完成です！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2192370",
+    "advice": "甘めがお好きな方は、砂糖を多めに入れて調整してください。",
+    "history": "旦那さまが好きなので作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根の葉",
+        "胡麻"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2192370/100x141c/0c78b52cfff671a2eb8d0d35959f2c2a.jpg?u=3741687&p=1366012496"
+}

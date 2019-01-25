@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】にんじんシリシリ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1823724/464x260/2878cdd76286635d470b8f07d71a1f8e.jpg?u=2513693&p=1337682194",
+    "datePublished": "2012-05-26",
+    "description": "沖縄料理のにんじんシリシリ。冷めた方がおいしいので多い目に作って翌日にも食べています。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "２本"
+        },
+        {
+            "name": "ツナ缶（小）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "万能だし醤油（レシピID :1236017）",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンは千切りスライサーなどで千切りにし、油を敷いたフライパンでニンジンがしんなりするまで炒めます。",
+        "次にツナを入れて中火で１分ほど炒め、【A】を加えさらに１分炒めます。最後に溶き卵を回しかけさっと炒めて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1823724",
+    "advice": "万能だし醤油のかわりにめんつゆでもOKです",
+    "history": "沖縄で食べたにんじんシリシリ。常備している万能だし醤油で作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん しりしり"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/1823724/100x141c/3bb0b193f870e3021deedcde136aed00.jpg?u=2513693&p=1337682194"
+}

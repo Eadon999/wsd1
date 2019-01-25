@@ -1,0 +1,63 @@
+{
+    "name": "茄子がとろとろ＊生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ぜんくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/676471/464x260/c2108de3c306cb29df1a59eb2f7f6603.jpg?u=291062&p=1251714601",
+    "datePublished": "2008-11-04",
+    "description": "油は小さじ１だけ。トロっとご飯に合う茄子が出来上がります♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "中くらいのもの１本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "生姜",
+            "quantity": "小さじ１と1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は８mm厚さに切りフライパンに入れ、火をつける前にサラダ油と塩を全体になじませる。 \n蓋をして弱火で8分程度加熱。",
+        "焦げないように様子を見ながら両面焼く。柔らかくなったら微塵切りにした生姜・醤油・味醂を入れ焦がさないように煮詰める。\r\n",
+        "フライパンを揺らして味をなじませ照りがついたら出来あがり。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "676471",
+    "advice": "茄子がトロトロになっているのでフライパンを揺らして味をなじませると崩れません 加熱前に茄子に油をまわすことによって少量の油で済みます",
+    "history": "濃い目の甘辛味＋ナスは間違いないです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "サラダ油",
+        "醤油",
+        "味醂"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/676471/100x141c/f2b370b86a3bb46d8dc8ce999bd8e662.jpg?u=291062&p=1251714601"
+}

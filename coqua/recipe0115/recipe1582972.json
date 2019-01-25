@@ -1,0 +1,63 @@
+{
+    "name": "簡単！鶏肉の味噌漬け♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1582972/464x260/8c64d17830c186b8161cda45815f03c0.jpg?u=921598&p=1402371276",
+    "datePublished": "2011-09-29",
+    "description": "鶏肉を漬け込んでごま油で炒めるだけ！味噌味が食欲をそそり、ご飯がモリモリ進む一品です☆お酒のおつまみにも美味しいですよ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉はひと口大に切ってボウルに入れて、●の調味料を加えて揉み込んでから冷蔵庫で約5～6時間寝かす。",
+        "フライパンにごま油を熱し、1の鶏肉を弱火～中火でじっくり炒めたら出来上がりです。",
+        "【動画レシピ】\nhttps://youtu.be/-T7TLDkCqIg\n",
+        "簡単！鶏肉の生姜醤油漬け♪\nレシピID:2310440"
+    ],
+    "cookTime": "PT120M",
+    "recipe_id": "1582972",
+    "advice": "テフロン加工のフライパンを使用すると焦げ付きにくいです☆鶏肉から出た脂はキッチンペーパーで拭き取って下さいね！サンチュに包んだり、バーベキューにもオススメですよ♪",
+    "history": "神奈川県の名産『とん漬』をイメージして鶏肉で作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "味噌",
+        "しょう油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "141",
+    "thumbnail": "https://img.cpcdn.com/recipes/1582972/100x141c/fc28ed70d8e61d018bd0819a02ec42b2.jpg?u=921598&p=1402371276"
+}

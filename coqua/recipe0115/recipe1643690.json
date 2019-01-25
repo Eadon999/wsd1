@@ -1,0 +1,65 @@
+{
+    "name": "蜂蜜でツヤテカ、里芋と鶏手羽元の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "NumaYuu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1643690/464x260/52a2d975c134315e3def9763df90e23a.jpg?u=3439984&p=1322992625",
+    "datePublished": "2011-12-04",
+    "description": "蜂蜜の優しい甘さと、食欲をそそる照り。普段煮物を作らない私でも、ちゃんと美味しく出来ました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "4本"
+        },
+        {
+            "name": "里芋",
+            "quantity": "4個"
+        },
+        {
+            "name": "水",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "酒",
+            "quantity": "100cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "鰹だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "蜂蜜（みりんでも）",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋は皮をむいてから洗って塩をまぶしてから水洗いして、食べやすい大きさに切る。",
+        "お鍋に里芋、手羽元、Aを入れて落とし蓋をして10分ぐらい煮ます。",
+        "落としぶたを取ってBを加えてお醤油と蜂蜜を加えて汁気が無くなるまで煮詰めます。",
+        "盛りつけて出来上がりです。",
+        "蜂蜜で照り照り。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "1643690",
+    "advice": "焦がさないようにするぐらいです。",
+    "history": "美味しい里芋をゲットしたので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元 さといも"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1643690/100x141c/35f3a36f738e1af99a8d8c0aeb00e4a4.jpg?u=3439984&p=1322992625"
+}

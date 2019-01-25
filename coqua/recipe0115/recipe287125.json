@@ -1,0 +1,57 @@
+{
+    "name": "２分で超簡単１人ランチ☆メカブ丼",
+    "author": {
+        "@type": "Person",
+        "name": "ne-ne"
+    },
+    "image": "https://img.cpcdn.com/recipes/287125/464x260/5c49d9f2028cc7671a892518bffdd1e9.jpg?u=239691&p=1214213757",
+    "datePublished": "2006-10-03",
+    "description": "２分の間に温泉卵も作ってあっという間の丼です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１杯"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "味付けメカブ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "だし醤油 又は 濃縮めんつゆ",
+            "quantity": "大１ぐらぃ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "あれば少々"
+        },
+        {
+            "name": "海苔・ｺﾞﾏなど",
+            "quantity": "あれば少々"
+        }
+    ],
+    "recipeInstructions": [
+        "温泉卵を作ります。湯飲みにお水を半分入れ、その中に卵を割りいれます。レンジで１分ほど（500W)温めます。",
+        "卵を温めている間に器にご飯を入れ、その上にメカブを乗せ、だし醤油をかけます。",
+        "卵が温まったらお湯を捨てて 卵を丼の真ん中に乗せ、刻み海苔やネギ・ゴマなどをお好みでﾄｯﾋﾟﾝｸﾞして出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "287125",
+    "advice": "全部かきまぜて食べてください☆",
+    "history": "子供にメカブを食べさせたかったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/めかぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "卵",
+        "ネギ"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/287125/100x141c/f1e2b6b013fcfdd2c33b972cb65f90ef.jpg?u=239691&p=1214213757"
+}

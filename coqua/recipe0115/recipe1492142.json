@@ -1,0 +1,50 @@
+{
+    "name": "冷えとろっ☆さっぱりナス",
+    "author": {
+        "@type": "Person",
+        "name": "ナナ☆ハッチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1492142/464x260/8f716e57736b8fe0d4be024e80b96ae2.jpg?u=2658720&p=1310205232",
+    "datePublished": "2011-07-09",
+    "description": "レンジで簡単！暑～い夏には冷やしてさっぱり美味しくたべられますよ(*^_^*)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "中２本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスの皮をピーラーでむき、水にさらした後、皿に並べふわっとラップをしレンジで4分(600W）程加熱する。",
+        "レンジから取り出し、しばらく冷まし、手で割きごま油をからめ冷蔵庫で冷やす。",
+        "お好みでポン酢とかつお節をかけて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1492142",
+    "advice": "加熱時間はナスの大きさやレンジによって調節して下さい。ナスを手で割く時は火傷に注意して下さいね☆",
+    "history": "なすをさっぱり美味しく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "ごま油",
+        "ポン酢",
+        "かつお節"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1492142/100x141c/e42f768845edb949d2702896f34f2abd.jpg?u=2658720&p=1310205232"
+}

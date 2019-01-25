@@ -1,0 +1,70 @@
+{
+    "name": "アジの南蛮漬け",
+    "author": {
+        "@type": "Person",
+        "name": "55lemonade"
+    },
+    "image": "https://img.cpcdn.com/recipes/2022355/464x260/bb64cf8b53664bc119c838816503b28e.jpg?u=3866024&p=1352380110",
+    "datePublished": "2012-11-18",
+    "description": "小アジを見つけたらやっぱりコレ！作りたてからだんだんと味の変化も楽しめる定番作り置きおかずです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小アジ",
+            "quantity": "２０匹位"
+        },
+        {
+            "name": "小麦粉(衣用)",
+            "quantity": "大１～２"
+        },
+        {
+            "name": "野菜の千切り（玉ねぎ、ニンジンなど）",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "酢",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "唐辛子の輪切り",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ、にんじん、セロリなどお好きな野菜を千切りにして用意しておく。",
+        "≪南蛮酢≫の材料をひと煮立ちさせて、冷ましておく。",
+        "フライパンに薄く小麦粉を付けたアジとかぶる位の常温の油を入れて火にかけ、低温からゆっくり揚げる。",
+        "バットに揚げたてのアジを並べて≪南蛮酢≫に浸す。全体にからませたら野菜も一緒に漬けこむ。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2022355",
+    "advice": "低い温度でゆっくり揚げていくことで、小アジをカラッと揚げることができます。",
+    "history": "子どものころから好きなおかずです。野菜もいっぱい食べたいのでアジと一緒にしっかり漬けこみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": [
+        "あじ南蛮 4位"
+    ],
+    "related_keywords": [
+        "あじ南蛮"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/2022355/100x141c/e0f1ab7205d3db1dae5079b55f131ccd.jpg?u=3866024&p=1352380110"
+}

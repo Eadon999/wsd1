@@ -1,0 +1,52 @@
+{
+    "name": "エノキの軸のステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2300987/464x260/c9a89fc8ddd0a3e2a21d5241e6f1bbfd.jpg?u=3280486&p=1375148241",
+    "datePublished": "2013-07-30",
+    "description": "捨てるなんてもったいない！普段は捨ててしまう「エノキタケの軸」を活用した「ロスフード・レシピ」です♫",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "エノキタケの軸",
+            "quantity": "1束分"
+        },
+        {
+            "name": "バター",
+            "quantity": "5ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エノキの軸は、茶色いところは取り除く。",
+        "熱したフライパンに油を入れて、中火で軸を両面焼く。（片面各々約1分）",
+        "②に醤油をかけ、バターをのせる。軸が醤油とバターを吸収したらお皿に盛る。胡椒をかけて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2300987",
+    "advice": "軸の根元に近い「茶色い部分」は泥臭いので、切り取ると美味しく頂けますよ。",
+    "history": "「普段捨ててしまっているところを活用できないかなぁ」と思って考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきの軸",
+        "えのき ステーキ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/2300987/100x141c/48eab51a98395d96615d65b70bc7ef47.jpg?u=3280486&p=1375148241"
+}

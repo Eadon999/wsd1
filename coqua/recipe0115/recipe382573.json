@@ -1,0 +1,51 @@
+{
+    "name": "トマトとみょうがのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "piyo_piyo"
+    },
+    "image": "https://img.cpcdn.com/recipes/382573/464x260/ecbd18b2a291278f66869f69c5b3a517.jpg?u=265530&p=1214216253",
+    "datePublished": "2007-06-02",
+    "description": "初夏からの小鉢にいかがでしょう？さっぱりトマトのおひたしです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中２個"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "一個"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "１本"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは食べやすい大きさに切る。（今回わたしは1cmほどのくし切りに）。みょうがはうすくスライス、青ねぎは小口切りにします。",
+        "器に(1)を盛り付け、鰹節としょうゆで味付けすれば出来上がりです♪",
+        "これが「まほろばトマト」です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "382573",
+    "advice": "トマトの味をみて甘さが欲しければ、しょうゆにみりんを足すなどしてくださいね！ポン酢でも美味しいかと。",
+    "history": "「まほろばトマト」を素材の味を消さずに食べたい！と思って作りました。本当に生で食べなきゃ勿体ないっ！て言うような美味しいトマトなのです♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みょうがのおひたし"
+    ],
+    "tsukurepo_count": "97",
+    "thumbnail": "https://img.cpcdn.com/recipes/382573/100x141c/4a2cb1030751a8edc31e4d4125aa97e8.jpg?u=265530&p=1214216253"
+}

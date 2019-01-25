@@ -1,0 +1,67 @@
+{
+    "name": "❀さつまいものきんぴら❀",
+    "author": {
+        "@type": "Person",
+        "name": "sekinan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1616821/464x260/630dd0d568bae3a42730397b12efc092.jpg?u=3606530&p=1337764962",
+    "datePublished": "2011-11-02",
+    "description": "2012/05/07話題入り感謝♡大学芋よりおかず感があります☆甘めの味付けで、大人でも子供でも♫",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中1本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "黒ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもを千切りにして軽く水にさらし、耐熱容器に入れ電子レンジで3分くらい加熱しておく。",
+        "フライパンにごま油を熱し、1のさつまいもを入れて砂糖を加えて中火で炒める。",
+        "2に塩を入れて少し炒め、水、しょう油、酢を加えて更に炒める。",
+        "水分が飛んで、たれがとろっとしてきたら、黒ごまを絡めて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1616821",
+    "advice": "隠し味に酢を加えることで、たれが絡みます。味が薄かったらしょう油で調節して下さい。",
+    "history": "さつまいもを沢山いただいたので＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "砂糖",
+        "塩",
+        "しょう油"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1616821/100x141c/ab32f658370dce93e49970e93f882783.jpg?u=3606530&p=1337764962"
+}

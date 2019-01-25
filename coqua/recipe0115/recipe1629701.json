@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】小松菜のからし和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1629701/464x260/aaa7dea2665b6bfc1022532b4ad5a02f.jpg?u=2513693&p=1321449366",
+    "datePublished": "2011-11-28",
+    "description": "シンプルだけどどこか懐かしい辛し和えです。意外とお酒にも合うのよね～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "万能だし醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "練りからし",
+            "quantity": "小さじ３分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "塩少々を入れた水を沸騰させ根を切り落とした小松菜の「茎」の部分を30秒茹でます。",
+        "次に小松菜全体をお湯につけさらに30秒茹でお湯を切り、粗熱が取れたら3センチ程度に切り【A】を入れ混ぜ合わせます。",
+        "器に盛り白ゴマをかけて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1629701",
+    "advice": "小松菜の鮮度によって多少茹で時間が変わります。①の茎の部分を茹でる時間は、茎が8割程度柔らかくなるまで茹でてくださいね。およそ30秒～長くても６０秒くらいです。",
+    "history": "万能だし醤油を茹でた小松菜にかけて食べる事が多いですが、たまにからしを混ぜて食べたりもしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "塩",
+        "白ゴマ",
+        "万能だし醤油"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1629701/100x141c/ca0b030da8b6582df911d754305ef6b3.jpg?u=2513693&p=1321449366"
+}

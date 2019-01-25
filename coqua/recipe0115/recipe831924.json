@@ -1,0 +1,51 @@
+{
+    "name": "甘辛じゃがバター♪",
+    "author": {
+        "@type": "Person",
+        "name": "みずたまゆき"
+    },
+    "image": "https://img.cpcdn.com/recipes/831924/464x260/9a6a0147f678a1736c53aba78e8c70bf.jpg?u=936122&p=1244437750",
+    "datePublished": "2009-06-08",
+    "description": "大好きな甘辛味のじゃがバターです。 とっても簡単♪ お弁当のおかずにもピッタリです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中３個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "バター",
+            "quantity": "大３"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは洗って水のついたままラップでつつんでレンジでチン！",
+        "熱いうちに皮をむいて鍋に入れて、へらでつぶす。（好きな大きさでＯＫ）",
+        "弱火にかけ、砂糖、しょうゆ、バターを入れて手早く混ぜる。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "831924",
+    "advice": "じゃがいもは煮崩れしやすい種類を使ってください。崩れたところがおいしいです。",
+    "history": "おいしいじゃがいもをたくさんもらったので。 ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "砂糖",
+        "しょうゆ",
+        "バター"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/831924/100x141c/f919fd129f6a5a4ed0c70d16594f823c.jpg?u=936122&p=1244437750"
+}

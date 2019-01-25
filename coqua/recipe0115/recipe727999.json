@@ -1,0 +1,47 @@
+{
+    "name": "福豆塩昆布ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/727999/464x260/bb8f10977414f6d23c41b5cf766d54da.jpg?u=54489&p=1233752518",
+    "datePublished": "2009-02-05",
+    "description": "超簡単！節分の豆の残りで炊き込みご飯を作ってみました☆塩昆布の旨味たっぷり、香ばしくて食べやすいです！動画アリ♪",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合分"
+        },
+        {
+            "name": "┌福豆（節分大豆）",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "│塩昆布",
+            "quantity": "２５ｇ"
+        },
+        {
+            "name": "└人参の千切り",
+            "quantity": "４０ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "米はといでざるにあげ水気をきっておく。",
+        "炊飯器に1の米を入れ、２合の目盛りまで水をそそぎ、Ａを加え混ぜ、普通に炊く。",
+        "炊き上がったら蓋を開けずに１０分蒸らし、さっくり混ぜて出来上がり。"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "727999",
+    "advice": "人参の千切りなしだとまな板要らずなのでもっと簡単！でも彩りにあるといいので是非入れて下さい。動画レシピ：http://www.youtube.com/watch?v=XGEyAwqI3ac",
+    "history": "節分の豆まき用の豆が勿体無かったので炊き込みご飯にしました☆これ、豆が余ってる人に超お勧め！塩昆布との相性がバッチリで美味しかったです♪豆が微妙に好きじゃない彼も喜んで食べてました☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/727999/100x141c/636dd9bcd49045af670a50ea4c10238c.jpg?u=54489&p=1233752518"
+}

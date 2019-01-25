@@ -1,0 +1,64 @@
+{
+    "name": "すぐ出来！めちゃ旨！ツナキムチチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "りこぴんmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/1149615/464x260/c453760caee82edd2e8cee5c4ae89242.jpg?u=1232479&p=1304064463",
+    "datePublished": "2011-04-29",
+    "description": "キムチには魚介の旨味が合います！洗い物も少なく、すぐに出来るのでランチにいかがですか♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "白菜キムチ",
+            "quantity": "50g"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗１杯分"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小1"
+        },
+        {
+            "name": "●和風だしの素",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "●コチュジャン",
+            "quantity": "小1"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "1個分"
+        },
+        {
+            "name": "万能ねぎや刻みのり等",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油を熱し、ツナ、キムチを入れ炒める。全体に油が回ったら●を加え軽く炒める。",
+        "ご飯を加えて炒め、まんべんなく混ざったら器に盛り、真ん中を少し窪ませて卵黄を乗せる。",
+        "お好みで万能ねぎや刻みのりを散らしたら完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1149615",
+    "advice": "ツナ缶の油は気にせず一緒に加えて下さい。白菜キムチは大きいようなら刻んで下さいね。",
+    "history": "キムチとコチュジャンが好きなので♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/お漬物を使ったチャーハン",
+        "その他/発酵食品・発酵調味料/キムチ "
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチチャーハン ツナ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1149615/100x141c/058d4afb597b33886198aadd4cfe122c.jpg?u=1232479&p=1304064463"
+}

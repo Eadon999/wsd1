@@ -1,0 +1,58 @@
+{
+    "name": "冷ご飯でも美味しい。ほっけ梅しそ混ぜご飯",
+    "author": {
+        "@type": "Person",
+        "name": "美和マミー"
+    },
+    "image": "https://img.cpcdn.com/recipes/849247/464x260/e61c1fe415ddfde112ee1ec913a064af.jpg?u=1089242&p=1246018802",
+    "datePublished": "2009-06-26",
+    "description": "冷ご飯でも、熱々ご飯でも、どちらもサッパリ美味しい。食欲の無い時に。",
+    "recipeYield": "お茶碗１杯分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯分"
+        },
+        {
+            "name": "ほっけの開き",
+            "quantity": "1匹分"
+        },
+        {
+            "name": "大葉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "梅肉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ゆずポン酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "いりゴマ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほっけの開きは魚焼きグリルで焼いて、身をほぐして取っておく。",
+        "ほっけの身とご飯以外の材料を全て混ぜる。",
+        "最後にご飯によく混ぜ合わせてできあがり。",
+        "今回使ったほっけの開きは、少しサイズが小さめでしたので、ご飯の量で調節を。\n梅肉は、今回はチューブを使いました。",
+        "あじの開きやさんまの開きでも美味しいかも♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "849247",
+    "advice": "混ぜるだけです。",
+    "history": "冷ご飯を活用したかったのと、ほっけの開きが安価で買ったものの、ただ焼いて食べるだけでは物足りず、混ぜご飯を考案。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほっけ 混ぜご飯",
+        "ほっけの開き"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/849247/100x141c/9d4c4b713b8ddf866754de341b86b59a.jpg?u=1089242&p=1246018802"
+}

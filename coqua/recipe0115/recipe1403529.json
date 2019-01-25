@@ -1,0 +1,66 @@
+{
+    "name": "キャベツが甘い！お好み焼き風卵焼き！",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1403529/464x260/9e9c29cb0c9b9d9a430c3021eb7a907e.jpg?u=841338&p=1302011943",
+    "datePublished": "2011-04-05",
+    "description": "炒めたキャベツが甘くてジューシー！半熟のとろとろ卵とコラボで、めちゃくちゃ美味しいです！",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "２５０〜３００g"
+        },
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "●塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●麺つゆ（２倍濃縮）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "■かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "■お好み焼きソース",
+            "quantity": "適量"
+        },
+        {
+            "name": "■マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "千切りにした、キャベツを、ゴマ油のひいたフライパンで炒める。",
+        "卵に●の調味料を入れ混ぜ合わせ、１に流し入れる。蓋をして弱火で加熱する。",
+        "焼き上がったらお皿にうつし、■の、かつお節、ソース、マヨネーズをかけて完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1403529",
+    "advice": "焼き加減はお好みで！半熟が好きな方ははやめにね♬",
+    "history": "卵がたくさんあって、どうしようかと思って、考えついたレシピです！粉を使っていないので、ヘルシーでとっても美味しいです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "卵",
+        "塩コショウ",
+        "麺つゆ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1403529/100x141c/a59812344b9f129ad53c7d3b62bf1068.jpg?u=841338&p=1302011943"
+}

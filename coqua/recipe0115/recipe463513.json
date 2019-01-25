@@ -1,0 +1,47 @@
+{
+    "name": "保存食「ガーリックオイル」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/463513/464x260/58abdcdab7cbadeb9ef0acc7beccf330.jpg?u=535158&p=1214217869",
+    "datePublished": "2007-11-22",
+    "description": "一度作っておくととっても便利なガーリックオイルは、自分の好きな配合で作っても良いです。",
+    "recipeYield": "1瓶",
+    "recipeIngredient": [
+        {
+            "name": "にんにく",
+            "quantity": "半分"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "250cc"
+        },
+        {
+            "name": "鷹のツメ",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくは皮をむき、みじん切りにする。",
+        "みじん切りにしたにんにくを瓶に入れ、オリーブオイルを入れる。",
+        "好みで味のアクセントで、鷹のツメを入れ、保存する。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "463513",
+    "advice": "＊にんにくをみじん切りにしておくと、オイルと共に一緒に使えますが、面倒な人は、半分くらいにカットしてオイルに漬けても良いです。＊使用は作ってから2～3日後から香りが出て、使えます。",
+    "history": "■イタリア料理を作ることが多いので、常に作り置きしてあります。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": [
+        "保存食 10位",
+        "ガーリックオイル 3位"
+    ],
+    "related_keywords": [
+        "ガーリックオイル",
+        "保存食"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/463513/100x141c/b934ab61c19464110716c488ae78eb1d.jpg?u=535158&p=1214217869"
+}

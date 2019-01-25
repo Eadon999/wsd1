@@ -1,0 +1,59 @@
+{
+    "name": "簡単☆さっぱり冷たいみぞれ茄子",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2241788/464x260/7ff8e05031457682c94c4b1893396d9b.jpg?u=6957661&p=1435117809",
+    "datePublished": "2013-05-31",
+    "description": "さっぱりとヘルシーに茄子を食べましょう♬箸休めやおつまみに茄子の大量消費にも最適です",
+    "recipeYield": "3~4人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "４個"
+        },
+        {
+            "name": "大根",
+            "quantity": "10cmくらい"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ2くらい"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "10枚くらい"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は2cm位の輪切りにしてラップを巻きレンジに３分位かける。ラップのまま氷水につけ冷やす。",
+        "大根はおろしておく。青じそは千切りにしておく。",
+        "深めのお皿に茄子、大根おろし、しらすの順にのせ、めんつゆをかける。最後に青じそを散らす。",
+        "胡麻を振り掛ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2241788",
+    "advice": "レンジにかけた茄子はしっかり冷やしておく。大根おろしは水を切った方が味がしまります。しらすは多い方が美味しいです。",
+    "history": "茄子を消費する為に",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "大根",
+        "しらす",
+        "青じそ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2241788/100x141c/a58ba5e616f38d2784c84b810815ed3f.jpg?u=6957661&p=1435117809"
+}

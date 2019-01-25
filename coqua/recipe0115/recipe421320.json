@@ -1,0 +1,66 @@
+{
+    "name": "こんにゃくの炊いたん",
+    "author": {
+        "@type": "Person",
+        "name": "oBsession"
+    },
+    "image": "https://img.cpcdn.com/recipes/421320/464x260/1d320bffee66bc0fc9aafdf704fc676a.jpg?u=466461&p=1214217051",
+    "datePublished": "2007-08-25",
+    "description": "おこんにゃくを甘辛く炊きました。七味とねぎをかけて食べましょう。お酒のあてにもいいですよ。2008.4.9話題入りさせて頂きました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくは食べやすい幅に切り分け、包丁で両面に切れ目を数箇所入れる。更に熱湯でこんにゃくをゆがいておく。",
+        "鍋にだし汁を沸かし、1のこんにゃくを入れ、砂糖、酒、醤油で調味し1時間ほどことこと煮る。",
+        "ごま油を落とし入れ、強火にして煮汁が少なくなるまで煮る。\r\n器に盛り付けてねぎの小口切りと七味唐辛子をふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "421320",
+    "advice": "こんにゃくは下処理(隠し包丁と下ゆで)をすることで臭みが消え、味の浸透がよくなります。時間がない場合は圧力鍋で調理してくださいね。",
+    "history": "こういうのを食べるとつくづく日本人でよかったと思います。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "ねぎ",
+        "七味唐辛子",
+        "砂糖"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/421320/100x141c/d80c27da1e85788eef7bc91c5567eddf.jpg?u=466461&p=1214217051"
+}

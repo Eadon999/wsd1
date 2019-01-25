@@ -1,0 +1,58 @@
+{
+    "name": "小松菜とウインナーのバター醤油炒め☆",
+    "author": {
+        "@type": "Person",
+        "name": "蒼緑茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/286790/464x260/fd840113593c868c89edd38f4ce9afaf.jpg?u=234500&p=1214213748",
+    "datePublished": "2006-10-02",
+    "description": "シャキシャキの小松菜とウインナーがバター醤油でおいしく変身！ご飯が進みますよ(*^_^*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "2～3本"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は根元を切ってからよく洗い、4センチくらいの大きさに切る。\r\nウインナーは薄くスライスする。",
+        "フライパンを熱し、サラダ油とバターを入れ、バターが溶けてきたらウインナー、小松菜の軸の部分を炒める。",
+        "小松菜の葉先も入れて炒め、しんなりしてきたら、軽く塩・コショウ、最後に醤油を入れて少し煮詰める感じで炒めて出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "286790",
+    "advice": "ウインナーの変わりにベーコンでもおいしいです。小松菜の量によって醤油の量を加減してください。",
+    "history": "バター醤油味のものを1品考えたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ウインナー",
+        "バター",
+        "醤油"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/286790/100x141c/78c1b6c64512bd692cc6745b3b0998ba.jpg?u=234500&p=1214213748"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "餅入りチーズオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1687522/464x260/7d51dcf5e9c32bc7fce32984482a7b67.jpg?u=2124468&p=1327673457",
+    "datePublished": "2012-01-27",
+    "description": "ふっくら卵にもっちりした餅が思いのほかのマッチング！朝食はこれだけで充分かも！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "餅",
+            "quantity": "1個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "50g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/5"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "餅は薄く切っておく。",
+        "バターを熱したフライパンに餅を投入し、塩コショウを振る。",
+        "すぐにこんな感じに餅がとけだします。",
+        "溶き卵にチーズを加えたものを用意し、３の餅に注いでオムレツに形を整えれば出来上がりです。",
+        "つけ合わせはキャベツの酢漬けとミニトマト。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1687522",
+    "advice": "",
+    "history": "少し残った餅を有効にするには？！？！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ",
+        "その他/お正月の料理/お餅/お餅活用レシピ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "餅入りオムレツ",
+        "おもち オムレツ",
+        "朝ごはんお餅"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1687522/100x141c/ee65f24d7659ac70e27995250e41946f.jpg?u=2124468&p=1327673457"
+}

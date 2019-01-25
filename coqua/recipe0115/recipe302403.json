@@ -1,0 +1,64 @@
+{
+    "name": "セロリ大好き☆鶏肉の辛子醤油炒め♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/302403/464x260/b999b012330b6ee104c04eca54266725.jpg?u=42283&p=1214214093",
+    "datePublished": "2006-11-19",
+    "description": "セロリと鶏肉の食べ易い炒め物です(。^_・)ノ　セロリ大好きな方はいっぱい召し上がれると思います=*＾-＾*=",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚２６０ｇ程度"
+        },
+        {
+            "name": "セロリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎本みりん",
+            "quantity": "小２分の１"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎練り辛子",
+            "quantity": "小２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま油で適当に切った鶏肉を炒める。しばらくしてクッキングペーパーで、フライパンの水分を軽く拭き取る。セロリは筋取り斜めにカットする。",
+        "セロリも入れて炒める。◎の調味料を入れて味を絡める。",
+        "出来上がりです('-'*)",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "302403",
+    "advice": "鶏肉から出た脂分と水気を、ある程度拭き取っておくところです(。^_・)ノ ",
+    "history": "セロリが大好きなので、おかずになるレシピを考えましたヽ(*^^*)ノ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "セロリ",
+        "ごま油",
+        "酒"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/302403/100x141c/9c5923ca8a2b49bf9c47bf7ea58cb2bb.jpg?u=42283&p=1214214093"
+}

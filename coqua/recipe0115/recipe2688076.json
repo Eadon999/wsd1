@@ -1,0 +1,56 @@
+{
+    "name": "キャベツとピーマンのツナ炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2688076/464x260/7a910aa2602760d9b54d3ce551b3f6ab.jpg?u=9552524&p=1403862461",
+    "datePublished": "2014-06-27",
+    "description": "簡単♪ツナのお出汁が野菜に染みて美味しい～(^^♪何かもう１品！って時にもおすすめです♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ツナ缶(小)",
+            "quantity": "１缶（８０g）"
+        },
+        {
+            "name": "キャベツの葉",
+            "quantity": "３枚"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは一口大、ピーマンは乱切りにします。\nツナは軽く油を切ります。",
+        "フライパンに油を熱しツナを軽く炒め①を加えて炒め合わせます。塩コショウを振り鍋肌に醤油を加えサッと炒め合わせます。",
+        "器に盛ります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2688076",
+    "advice": "しょう油は鍋肌から加え香りを出します。野菜は炒めすぎないでシャキっと仕上げてね(^^♪",
+    "history": "家庭菜園のピーマンがてんこ盛り～！毎日ピーマン料理です（笑）ツナ炒めは簡単に出来るのでピーマンをいっぱい入れてよく作ります♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ピーマン ツナ",
+        "キャベツ ピーマン"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/2688076/100x141c/4dd0300939da0e751c7a63723f215722.jpg?u=9552524&p=1403862461"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "♡もやし入りにら玉♡",
+    "author": {
+        "@type": "Person",
+        "name": "ゆみ‘ｓカフェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/539503/464x260/f83ff2fbc829978970fef3ab7df14e33.jpg?u=504291&p=1215133421",
+    "datePublished": "2008-03-29",
+    "description": "子供があまり食べないニラ玉もこの味付けなら結構食べてくれますよ♬",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "たまご",
+            "quantity": "3個"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "中華スープのもと",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラはざく切り、ベーコンは1センチ程度の短冊切りにしておく。",
+        "フライパンでベーコンを炒めもやし、ニラも続けて入れ炒めます。",
+        "しんなりしてきたら水･中華の素･めんつゆを入れて混ぜ、煮立ったら弱火にしてときほぐした玉子を流しいれます。",
+        "大きくかき混ぜ半熟になったら火を止めてふたをします。（15秒程度）ハイ、出来上がり～♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "539503",
+    "advice": "玉子の火の入り具合はお好みで･･･♡",
+    "history": "野菜を喜ばない子供のためのメニューです。いつもは残すニラ玉もちゃんと平らげますよ～♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ニラ",
+        "ベーコン",
+        "たまご"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/539503/100x141c/0c366db898a08afded4540d48cb408a3.jpg?u=504291&p=1215133421"
+}

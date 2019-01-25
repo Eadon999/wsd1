@@ -1,0 +1,62 @@
+{
+    "name": "定番！鍋任せの豚バラと大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "をんをん"
+    },
+    "image": "https://img.cpcdn.com/recipes/23567/464x260/3bd3b92d83172c530ecfbf0e4e4d1121.jpg?u=7813&p=1214208606",
+    "datePublished": "2001-06-20",
+    "description": "圧力鍋で作ります。お肉がトロッと柔らかく、大根は味がしみ込んでてなんとまぁオイシ!忙しいときは材料を切って火にかけるだけでもok",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "５００ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "１カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は食べやすい大きさに切り（多少大きめがいい）面取りをする。豚バラは3センチ幅ぐらいのぶつ切りに。",
+        "圧力鍋に油をひき肉を炒め、色が変わったら大根も入れ炒める。油がなじんだら火を止め調味料を入れる。",
+        "蓋をし、圧力をかけて20分ほど煮る。圧力を抜いたら蓋を取り中火で煮詰めてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "23567",
+    "advice": "火にかける時間は圧力鍋によって多少違うと思いますので加減してくださいネ。",
+    "history": "実家の定番です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "大根",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/23567/100x141c/1fb1487d4d9ab24146a16958de7479a2.jpg?u=7813&p=1214208606"
+}

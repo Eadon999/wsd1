@@ -1,0 +1,63 @@
+{
+    "name": "かぶと鶏ももの優しい煮物",
+    "author": {
+        "@type": "Person",
+        "name": "かいそらのママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/713893/464x260/74dbeda165a60a71d3a9845ee6aca8f5.jpg?u=926643&p=1231934377",
+    "datePublished": "2009-01-14",
+    "description": "葉っぱまで全部食べられる、優しいお味の一品です。とろとろに煮たかぶは甘さも増して、美味しいです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "小さめ３～４個"
+        },
+        {
+            "name": "鶏もも",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１～１、５"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは葉っぱの部分を切り落として、半分に切ります。",
+        "だし汁を煮立て、かぶと鶏肉を入れて、あくを取りながら一煮立ちさせる。",
+        "２の鍋に調味料類を回しいれて、弱火で１５～２０分ことこと煮る。その後かぶの葉っぱを３等分ぐらいの長さにして入れる。",
+        "かぶがやわらかくなっていれば火を止めて、しばらく余熱で煮ます。その後お皿に盛れば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "713893",
+    "advice": "",
+    "history": "離乳食用に購入したかぶが残っていたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "鶏もも",
+        "だし汁",
+        "お酒"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/713893/100x141c/2e4378039e5bb74f9801b06e5a74b01f.jpg?u=926643&p=1231934377"
+}

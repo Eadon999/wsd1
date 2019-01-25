@@ -1,0 +1,60 @@
+{
+    "name": "もやしのペペロン☆",
+    "author": {
+        "@type": "Person",
+        "name": "テロろん"
+    },
+    "image": "https://img.cpcdn.com/recipes/336959/464x260/323ad5165a21a1d7caede1ed4d39c5d9.jpg?u=283084&p=1214214859",
+    "datePublished": "2007-02-27",
+    "description": "７・７話題のレシピ入りしました☆ニンニクで炒めただけｗとっても簡単だけどあなどれない１品です。思ったよりあっさりしてるのでパクパク食べられます☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "５枚"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１～２かけ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "たかのつめ",
+            "quantity": "１つ"
+        }
+    ],
+    "recipeInstructions": [
+        "今回の材料～～☆",
+        "もやしは水洗いをして、ベーコンは適当に切り、ニンニクは薄くスライス。",
+        "フライパンに油を熱し、ニンニクをいれ香りを出す。",
+        "ベーコンを入れてたかのつめを入れて炒める。",
+        "もやしをいためて、塩こしょうで味を調えて完成(*´∇｀*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "336959",
+    "advice": "もやしは手早くいためましょう。にんにくは焦がさないように。",
+    "history": "もやしを使って手軽に１品作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ベーコン",
+        "ニンニク",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/336959/100x141c/02e209cac7cee02b3d86042acb6ac888.jpg?u=283084&p=1214214859"
+}

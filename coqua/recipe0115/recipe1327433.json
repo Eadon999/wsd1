@@ -1,0 +1,58 @@
+{
+    "name": "鮭フレーク＊マカロニサラダ＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/1327433/464x260/06ffb866cdf09400e8e5a93657dc3344.jpg?u=239563&p=1294821300",
+    "datePublished": "2011-01-12",
+    "description": "鮭フレークを使ったマカロニサラダです♪いつもとは少し違う美味しい味を楽しんでください。ピンク色も可愛いです。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "マカロニ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "鮭フレーク",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "粗挽きブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニをゆでて冷ます。きゅうりは薄切りにして水気を切る。",
+        "ボウルに鮭フレークとマヨネーズ、ポン酢を入れてよく混ぜる。",
+        "さらにマカロニときゅうりを加え混ぜ合わせる。ブラックペッパーを振りあえたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1327433",
+    "advice": "お好みで調味料の分量を調節ＯＫです♪",
+    "history": "いつものマカロニサラダをひと味変えて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マカロニ",
+        "きゅうり",
+        "鮭フレーク",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1327433/100x141c/ee80bc2ccf7d82468f1d261b47d2a703.jpg?u=239563&p=1294821300"
+}

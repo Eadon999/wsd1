@@ -1,0 +1,45 @@
+{
+    "name": "簡単です■きゅうりのおかか漬け■",
+    "author": {
+        "@type": "Person",
+        "name": "doiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/279993/464x260/73d1f5f876e8b7605f81080a51a7f626.jpg?u=221715&p=1410763780",
+    "datePublished": "2006-09-08",
+    "description": "漬けてすぐに食べても、じっくり一晩漬けても、美味しくいただけます。　マヨネーズをトッピングしても美味しいんですよぉ～♥　※分量が適量だったので目安量に訂正しました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "３本"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "小1袋 （３ｇ入）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ ２"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりをお好きな大きさに切ります。 私は味がよくしみ込むように乱切りにします。",
+        "ポリ袋に、きゅうり、かつおぶし、しょうゆを入れてもみもみ。",
+        "お好きな漬け具合で召し上がれ。　※写真は漬けて直ぐのものです。",
+        "マヨネーズのトッピングも美味♥"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "279993",
+    "advice": "漬けこむ時間はお好みで♪　",
+    "history": "きゅうりが美味しい季節に母が作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "かつおぶし"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/279993/100x141c/ef0d659b2d837db4c10769840a1bfe3b.jpg?u=221715&p=1410763780"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "おばあちゃんの味♡赤魚の煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "きぃちゃん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/812662/464x260/d77664d0763f71f8b886744717cc0902.jpg?u=1361271&p=1297337828",
+    "datePublished": "2009-05-19",
+    "description": "話題入りありがとう！おばあちゃんから教えてもらったレシピ♪少し甘めの味付けだから、ご飯がすすみますヾ(*´∀｀*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "赤魚",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "味をしみこませるため、切り目を入れて、熱湯をかける",
+        "調味料を全て鍋に入れ、沸騰させる",
+        "その中に赤魚を入れて、落し蓋をして中火で5分加熱する",
+        "煮汁をかけながら、さらに3〜4分ほど煮詰める",
+        "時間があれば、少し冷まして味をしみこませる",
+        "つくれぽ１０人いただきました♪ 作ってくださった皆さん、ありがとうございます（*^▽^*）"
+    ],
+    "cookTime": null,
+    "recipe_id": "812662",
+    "advice": "赤魚は裏返したりしないで、煮汁をかけながら煮ると形が崩れにくいですよ☆",
+    "history": "おばあちゃんと一緒に作りました☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤魚"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/812662/100x141c/5bf06eb97f3d72b8e4742a29d5f31c60.jpg?u=1361271&p=1297337828"
+}

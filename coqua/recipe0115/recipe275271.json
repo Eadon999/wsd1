@@ -1,0 +1,56 @@
+{
+    "name": "ゴーヤの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/275271/464x260/1d72b59bd15daae94fb9f614ef71e1bd.jpg?u=57297&p=1214213481",
+    "datePublished": "2006-08-20",
+    "description": "ゴーヤはこれが一番、嵌りました。",
+    "recipeYield": "ゴーヤ１本分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "大１本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "３０cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "４０cc(カップでね）"
+        },
+        {
+            "name": "酢",
+            "quantity": "３０cc"
+        },
+        {
+            "name": "おかか、じゃこ、ごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは白い所を綺麗にこそげ取ってスライス、(苦味の元らしい）１分茹でます。\r\n水に晒して冷まし、ります。",
+        "調味料を煮立たせて、ゴーヤを投入。\r\n水分飛ぶまで煮詰めます。\r\n最後におかか、ごま、じゃこを入れ、絡めたら火を止めます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "275271",
+    "advice": "",
+    "history": "家にあるもので作りました。ちょっと酸味を強くしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": [
+        "ゴーヤ佃煮 5位"
+    ],
+    "related_keywords": [
+        "ゴーヤ",
+        "醤油",
+        "砂糖",
+        "酢"
+    ],
+    "tsukurepo_count": "117",
+    "thumbnail": "https://img.cpcdn.com/recipes/275271/100x141c/c9952e1b581b445fc9437f0d385673c5.jpg?u=57297&p=1214213481"
+}

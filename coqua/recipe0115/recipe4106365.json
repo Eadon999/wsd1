@@ -1,0 +1,65 @@
+{
+    "name": "ダイエット！さつまいものキムチ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4106365/464x260/508f6b522933497a8742d0aaf102dd87.jpg?u=4376699&p=1475681784",
+    "datePublished": "2016-10-06",
+    "description": "ホクホクさつまいもの甘さとキムチが絶妙です♪100kcal/人",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "100g"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "アスパラガス",
+            "quantity": "3本"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいも人参は太めに切る\nアスパラは斜めに小さく切る\nキムチは細切りにしてたれを作る",
+        "ごま油とオリーブオイル少々で野菜を軽く炒め蓋をして2分蒸し焼き",
+        "たれを加えて混ぜる",
+        "蓋をして1分半蒸し焼きで完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4106365",
+    "advice": "さつまいもと人参を千切りにしたら1度目の蒸し焼きは不要です",
+    "history": "たまたまお弁当に薩摩芋のキンピラとキュウリのキムチ炒めを入れて味が少し混ざったところが食べたら美味しかったので試してみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチ さつまいも",
+        "ﾀﾞｲｴｯﾄ さつまいも"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4106365/100x141c/c185606beb76052dcca452959e54cbfa.jpg?u=4376699&p=1475681784"
+}

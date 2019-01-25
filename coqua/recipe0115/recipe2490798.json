@@ -1,0 +1,61 @@
+{
+    "name": "さっぱりレモンで❤白菜の酢の物❤",
+    "author": {
+        "@type": "Person",
+        "name": "＊ひぃ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2490798/464x260/f8c62d4d38823b0ee3344914e2c479d9.jpg?u=7556013&p=1420518068",
+    "datePublished": "2014-02-05",
+    "description": "とっても簡単に出来ます(*/ω＼*)しかも、美味しいー♡さっぱりしているので、いっぱい食べれちゃいます!!",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "400g"
+        },
+        {
+            "name": "人参",
+            "quantity": "5cm"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモンの皮（あれば）",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ1/2弱"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜、人参を千切りし、塩小さじ1で塩もみしておく。\nしんなりしたら、水気を絞る。\nレモンの皮（あれば）は千切りしておく。",
+        "ボウルに●を入れて合わせ、1を入れて混ぜ合わせる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2490798",
+    "advice": "野菜の水気はしっかりと絞ってください♪",
+    "history": "白菜がいっぱいあったので、白菜を使ったレシピを考えようと思い、作ってみると、大好評♪とってもさっぱりとしていて、美味しいですよ♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 酢の物",
+        "レモン酢の物",
+        "白菜 酢",
+        "白菜 レモン"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2490798/100x141c/f108aaf219fbc7bcc851092562f3c0ec.jpg?u=7556013&p=1420518068"
+}

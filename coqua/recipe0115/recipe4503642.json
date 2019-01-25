@@ -1,0 +1,76 @@
+{
+    "name": "簡単！レモンわさび醤油チキン",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4503642/464x260/afb7b5c1fd718f940ac896675d522db9.jpg?u=4376699&p=1493875171",
+    "datePublished": "2017-05-05",
+    "description": "レモンでさっぱり♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ムネ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "レモン",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "わさび(チューブ)",
+            "quantity": "２cm"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "5mm"
+        }
+    ],
+    "recipeInstructions": [
+        "レモンを半分に切って数枚薄切りにして4等分",
+        "玉葱を薄切り",
+        "レモンを絞って、レモン、玉葱、調味料を混ぜておく",
+        "肉の皮を取って薄切り",
+        "たれと肉を合わせて揉み込む",
+        "油少々を温めてたれごと肉を加える\n肉のふちが白くなったら反す",
+        "1、2分ほど煮て完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4503642",
+    "advice": "たれをしっかり揉み込みましょうお好みでねぎを散らしましょう",
+    "history": "レモンわさびで美味しい肉炒めが出来ないか挑戦",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わさび醤油 鶏",
+        "鶏胸肉 レモン わさび"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4503642/100x141c/680738870c56ad0c5ac9e17d7d6e6e93.jpg?u=4376699&p=1493875171"
+}

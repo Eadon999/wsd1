@@ -1,0 +1,59 @@
+{
+    "name": "超簡単！「枝豆のクリームパスタ」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/794804/464x260/1847539e7d52f288a5bdb72a1d5ab792.jpg?u=535158&p=1240875357",
+    "datePublished": "2009-04-28",
+    "description": "枝豆とオリーブオイル＋生クリームで作るソースで和えたパスタ。食感よし！の美味しい夏のパスタです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "140ｇ"
+        },
+        {
+            "name": "枝豆",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "20㏄"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタはたっぷりの湯で塩を入れて茹でる。",
+        "枝豆は茹で、茹で上がったらさやを剥き、後から乗せる分とペーストにする分を分ける。",
+        "枝豆はフープロで攪拌しオリーブオイル、生クリームを加えながら、ペーストにし、パルメザンチーズ、塩胡椒で味を調える。",
+        "茹で上がったパスを枝豆ソースで和え、後乗せ分の枝豆を飾り出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "794804",
+    "advice": "*枝豆は、食感の残る程度に攪拌するのが美味しさのポイントです。 生の枝豆を使ってください。",
+    "history": "枝豆好きの娘のランチに。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/クリームソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "枝豆",
+        "生クリーム",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/794804/100x141c/5dafc44c14a5ce813408211b8cab9b0a.jpg?u=535158&p=1240875357"
+}

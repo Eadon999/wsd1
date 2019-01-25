@@ -1,0 +1,53 @@
+{
+    "name": "１分で出来る！美味しい胡瓜の一品",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/369087/464x260/1f0249f336fde74cb5fcca9a1df341f8.jpg?u=239563&p=1341822200",
+    "datePublished": "2007-05-07",
+    "description": "あと一品何か欲しい！そんな時、私はいつもこれを作ります♪１分で出来ちゃうのに、とっても美味しい！超簡単きゅうりレシピいかがでしょうか。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ　1/2～1"
+        },
+        {
+            "name": "すりごま（白or黒）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは両端を切って塩をよくまぶすし板ずりをする。",
+        "体重をかけ、強く押して割れ目を入れ、食べやすい大きさに手でちぎる。",
+        "きゅうりをお皿に盛ったら、醤油、ごま油をまわしかけ、すりごまを振ったら出来上がり♪",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "369087",
+    "advice": "きゅうりは板ずりをする事で色もよくなり、手でちぎるので味もすぐ染み込みます。醤油、ごま油の量はお好みで調節してください。ゴマは白でも黒でもOKです♪",
+    "history": "母の味。小さい頃から食べていました。簡単で美味しくて大好きなきゅうりの一品料理です♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "あと1品"
+    ],
+    "tsukurepo_count": "2049",
+    "thumbnail": "https://img.cpcdn.com/recipes/369087/100x141c/5f36b2a2dfdbeb4a2634f160ace9e38f.jpg?u=239563&p=1341822200"
+}

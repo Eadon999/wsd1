@@ -1,0 +1,50 @@
+{
+    "name": "基本のバーベキューソース",
+    "author": {
+        "@type": "Person",
+        "name": "さらにや"
+    },
+    "image": "https://img.cpcdn.com/recipes/323106/464x260/9078bc3d89f6f6e03d7ef91a9dc83e78.jpg?u=254912&p=1214214563",
+    "datePublished": "2007-01-27",
+    "description": "チリソースさえ揃えればあとは家にある調味料で出来ちゃいます。チキンナゲットはもちろん、ハンバーグやポークソテーなどにも。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "中濃ソース",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "チリソース",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "はちみつ（砂糖でも可）",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "全部混ぜれば出来上がり。",
+        "",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "323106",
+    "advice": "チリソースはお好みで減らしても増やしても。",
+    "history": "ウチでどうしても食べたいサンドイッチがあったので、それに使うため。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中濃ソース",
+        "ケチャップ",
+        "チリソース",
+        "はちみつ"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/323106/100x141c/b5fd9409c7f84d7e4659000326f3452f.jpg?u=254912&p=1214214563"
+}

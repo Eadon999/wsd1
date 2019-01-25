@@ -1,0 +1,47 @@
+{
+    "name": "めかぶの合せ酢　黄金比は1：3：3",
+    "author": {
+        "@type": "Person",
+        "name": "fuwaりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/509915/464x260/987deab01c4d2d69d29fa866445a9597.jpg?u=663539&p=1214218739",
+    "datePublished": "2008-02-16",
+    "description": "めかぶの酢の物は美味しいですね☆我が家の定番合せ酢を披露しちゃいます♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "生めかぶ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰したお湯にめかぶを入れ、色が変わったらサッと取り出し水にさらしておきます。",
+        "冷ましてる間に合せ酢を作ります。砂糖、醤油、酢を1：3：3で入れて混ぜるだけ。",
+        "水を切っためかぶと合せ酢を混ぜれば出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "509915",
+    "advice": "簡単でごめんなさい。でも、この比率が一番めかぶに合ってると思います。お酢の種類によってはお砂糖を加えてあげるといいと思います。",
+    "history": "めかぶ大好き家族。毎回同じ味になるように計量してたどりついた黄金比率です。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/めかぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "酢の物 黄金比"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/509915/100x141c/8d83a11fb1604b46702c8c268b4bc930.jpg?u=663539&p=1214218739"
+}

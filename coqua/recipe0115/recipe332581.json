@@ -1,0 +1,64 @@
+{
+    "name": "✿鯖の胡麻煮✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/332581/464x260/784566255013a5d3ed0f8b36c12c3c1a.jpg?u=226453&p=1214214764",
+    "datePublished": "2007-02-18",
+    "description": "仕上げにすり胡麻を入れるだけでとっても美味しい鯖の煮つけが出来ちゃいます",
+    "recipeYield": "４人",
+    "recipeIngredient": [
+        {
+            "name": "鯖",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "*砂糖",
+            "quantity": "大１と１/２"
+        },
+        {
+            "name": "*酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "*醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "*水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "*しょうがのスライス",
+            "quantity": "1片"
+        },
+        {
+            "name": "酢",
+            "quantity": "小１"
+        },
+        {
+            "name": "白すりゴマ",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖の皮の方に切れ目を入れます。鍋に*を入れ、沸騰したら鯖を入れ汁気が少なくなるまで落し蓋をし弱火で煮ます",
+        "煮汁が少なくなったら酢と白すりゴマを加えひと煮立ちさせ１～２分くらい煮ます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "332581",
+    "advice": "特にないです。",
+    "history": "殆ど鯖と言えば味噌煮なので違った味付けで煮てみようと思い好きな胡麻風味にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖",
+        "白すりゴマ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/332581/100x141c/acc04c8cf6402fd5d6c1687099504cf6.jpg?u=226453&p=1214214764"
+}

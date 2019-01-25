@@ -1,0 +1,55 @@
+{
+    "name": "とろろ昆布とみょうがのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2799811/464x260/9f2e551152137ea564c4478269630c95.jpg?u=6957661&p=1410858756",
+    "datePublished": "2014-09-16",
+    "description": "2014/10/8お陰様で感謝の話題入りです簡単で素早く出来るお味噌汁です",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "とろろ昆布",
+            "quantity": "3g"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "1個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ1/2〜"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "粉末かつおだし",
+            "quantity": "多め適量"
+        }
+    ],
+    "recipeInstructions": [
+        "みょうがは洗って刻んでおく",
+        "お椀にとろろ昆布を入れておく",
+        "鍋に水とダシを入れ沸騰したら1を入れ弱火にし、味噌を溶き入れ火を止める",
+        "3を2に注ぎ入れて完成です"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2799811",
+    "advice": "いつもの味噌汁より薄めに味噌を入れるのがポイントですとろろ昆布で塩分が控えられます",
+    "history": "パパッと出来て便利なので、時間が無い時に作りますみょうがが無い季節にはネギや三つ葉で",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とろろ昆布",
+        "みょうが",
+        "味噌",
+        "水"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/2799811/100x141c/c6cc0e148271cbbbfa2646d207ebfb10.jpg?u=6957661&p=1410858756"
+}

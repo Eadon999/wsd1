@@ -1,0 +1,51 @@
+{
+    "name": "ごま塩きゅうり",
+    "author": {
+        "@type": "Person",
+        "name": "kuikomi"
+    },
+    "image": "https://img.cpcdn.com/recipes/348102/464x260/c2b7c02b5f16d12c8754b657b9f47d87.jpg?u=408538&p=1214215107",
+    "datePublished": "2007-03-22",
+    "description": "簡単・シンプル・おいしいのらくらく箸休めです。おつまみにＧＯＯＤ！あっさりさっぱり食べられます♪漬け込んだりの手間はなしです★",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "ブラックペッパー（荒引き）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "塩（できれば焼き塩）",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "きざみのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは洗ってピーラーで部分的に皮をむいて長さを１/４にして幅１ｃｍくらいに切ります。",
+        "ボウルに切ったきゅうりを入れて、きざみのり以外の材料を入れて全体にいきわたるように混ぜます。",
+        "器にもってきざみのりをかけて出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "348102",
+    "advice": "きゅうりはたたき割ったものでもかまいません。ブラックペッパー・塩は好みで調整してください。",
+    "history": "以前飲み屋でおつまみに頼んだら、思いのほかおいしかったので、家でも再現してみようと思ってできました。食べたいときにすぐにパパッと作れるので便利です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごま塩きゅうり"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/348102/100x141c/d3f588b4de2d67f12e461c70e954aeac.jpg?u=408538&p=1214215107"
+}

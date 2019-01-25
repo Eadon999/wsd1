@@ -1,0 +1,60 @@
+{
+    "name": "一番簡単★しょうが焼き",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/697479/464x260/a5027b6d99efb33bb16ac0face0f394a.jpg?u=1088838&p=1358341273",
+    "datePublished": "2008-12-10",
+    "description": "れぽ13000人達成ありがとう！ 「うまい！もうこの味変えないで！」と旦那に言われてからずっと我が家の定番の味です♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "★生姜チューブ",
+            "quantity": "４ｃｍ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "肉を軽く焼く。",
+        "混ぜておいた★を入れ、タレがほとんどなくなれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "697479",
+    "advice": "最初から最後まで強火で、タレはほぼなくなる程度まで煮詰めること。柔らかくしたいという質問を頂きましたがその場合は普通に肉に小麦粉をはたいて弱火で焼けばOKです♪小麦粉が面倒なら肉を豚こまにかえると気にならないかも。",
+    "history": "いつも同じ味で作りたいと思って、試行錯誤しました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": [
+        "しょうが焼き 1位",
+        "簡単 5位"
+    ],
+    "related_keywords": [
+        "しょうが焼き",
+        "一番簡単★しょうが焼き",
+        "しょうが焼き 簡単",
+        "簡単"
+    ],
+    "tsukurepo_count": "16539",
+    "thumbnail": "https://img.cpcdn.com/recipes/697479/100x141c/96bf05e520ad5dd6c2a3b6b66730f8f1.jpg?u=1088838&p=1358341273"
+}

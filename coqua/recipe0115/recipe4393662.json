@@ -1,0 +1,52 @@
+{
+    "name": "簡単★もやしとなめこの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "スーツでキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/4393662/464x260/e6eedfa4c1b35d497b59e09d4ffaa5d2.jpg?u=16652694&p=1488627909",
+    "datePublished": "2017-03-04",
+    "description": "もやしが思いのほか味噌汁に合いますよ！なめことの相性もばっちり。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "豆腐(木綿)",
+            "quantity": "1パック（350ｇ）"
+        },
+        {
+            "name": "なめこ",
+            "quantity": "１パック（100ｇ）"
+        },
+        {
+            "name": "ネギのみじんきり",
+            "quantity": "少々"
+        },
+        {
+            "name": "合わせ味噌（だし入り）",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは、袋の上から、指でたたくようにつぶして細かくする。3センチを目安に。",
+        "鍋に水ともやしと豆腐を入れ、沸騰したら、なめこを入れ、火を止めて５分待ちます。",
+        "温め直してから味噌を入れ、お好みの濃さに整える。器に盛り、みじんきりのねぎをちらしてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4393662",
+    "advice": "・もやしをゆですぎないことがポイント！余熱で十分火が入ります。もやしの触感をたのしんでください。",
+    "history": "・冷蔵庫のあまりものを入れたら、意外とおいしかった！野菜にタンパク質も手軽にとれる一品です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめこ もやし",
+        "なめこ もやし 味噌汁"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4393662/100x141c/1968a189b19bb7fe638dbd0bb0c1af75.jpg?u=16652694&p=1488627909"
+}

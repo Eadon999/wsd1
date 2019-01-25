@@ -1,0 +1,54 @@
+{
+    "name": "うまうま納豆",
+    "author": {
+        "@type": "Person",
+        "name": "ふにこふ"
+    },
+    "image": "https://img.cpcdn.com/recipes/434039/464x260/4c6e7e8c633e2c6ccb2729bb2e2541ef.jpg?u=452769&p=1214217306",
+    "datePublished": "2007-09-24",
+    "description": "納豆があまり得意ではないダンナが、コレだけはおかわりしてくれます(^^)すっごく簡単で、ごはんがとまりません～ヾ（＞▽＜）ゞ■08.1.27　話題入りしました！みなさん、ありがとうございました≦(._.)≧ ペコ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "１～２つまみ。お好みで。"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "１～２つまみ。お好みで。"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "好きなだけ。"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギは輪切りかみじん切りか・・お好みの切り方で♪あとは材料全部混ぜるだけです(〃^∇^)",
+        "味が薄かったら、付属のタレか、おしょう油を少々足してください(^^)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "434039",
+    "advice": "特になしです！",
+    "history": "ダンナがあまり納豆得意ではない。でも、私は納豆大好き！以前冷奴を作ったときのトッピングが好評だったので、納豆にも混ぜてみました(^^)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "塩昆布",
+        "かつお節",
+        "ネギ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/434039/100x141c/d81c874c19b2b74e703a657400d3eb15.jpg?u=452769&p=1214217306"
+}

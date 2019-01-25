@@ -1,0 +1,67 @@
+{
+    "name": "ハムの詰め合わせで作るチャーシュー丼",
+    "author": {
+        "@type": "Person",
+        "name": "しゅぶた"
+    },
+    "image": "https://img.cpcdn.com/recipes/479948/464x260/4d5cdb1f39ce6188815faee23f4ce40d.jpg?u=646292&p=1214218176",
+    "datePublished": "2007-12-26",
+    "description": "お歳暮で頂くハムの詰め合わせに入っている焼き豚。ついつい残ってしまうので丼にしてみました。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "焼き豚",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "二膳分"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "一本"
+        },
+        {
+            "name": "もみのり",
+            "quantity": "適宜"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大１．５"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "●さとう",
+            "quantity": "大1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムの詰め合わせによく入っている焼き豚。\r\n",
+        "１cm角に切ります。\r\n",
+        "●のたれをからめて3分ほど煮詰めます。\r\n",
+        "丼によそったご飯にもみのり、ごま、３の焼き豚をのせてたれをまわしかけ、しらがネギをトッピングして出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "479948",
+    "advice": "焼き豚はうす切りでもいいと思います。",
+    "history": "お歳暮で頂くハムのセット。ハムはサラダにしたりハムステーキにしたりとすぐになくなるのですが焼き豚はついつい残ってしまうんです。で、ラーメン屋さんのサイドメニューにあった『チャーシュー丼』を思い出して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お歳暮 焼豚",
+        "お歳暮 ハム",
+        "お歳暮 焼豚 丼",
+        "お歳暮 ハム どんぶり"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/479948/100x141c/0db8358dc29d87e23b376c59ac258f6f.jpg?u=646292&p=1214218176"
+}

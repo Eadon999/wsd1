@@ -1,0 +1,64 @@
+{
+    "name": "ツナとえのきのバター醤油パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "たじ満塁"
+    },
+    "image": "https://img.cpcdn.com/recipes/609393/464x260/ca489124eb3465513b12ab23d483ef5c.jpg?u=779605&p=1223146626",
+    "datePublished": "2008-07-11",
+    "description": "家にある材料でできます♪バター醤油にブラックペッパーがきいておいしぃ（＾ｕ＾）08.09.07分量、手順変更しました！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "2缶"
+        },
+        {
+            "name": "えのき",
+            "quantity": "１袋"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "○塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "○ブラックペッパー",
+            "quantity": "大量"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "もみのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰したたっぷりのお湯に塩を入れてパスタを茹でる。えのきを半分に切る。",
+        "ツナ缶の油でえのきを炒めてツナとパスタを加える。",
+        "しょうゆ、塩、ブラックペッパーで味付けたら最後にバターを入れる。器に盛りもみのりをかけて出来上がり♪",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "609393",
+    "advice": "ポイントは大量のブラックペッパーと最後に入れるバターです。えのきじゃなくてもきのこならなんでもおいしいです♡",
+    "history": "家にあったものでパスタを作りたくて・・・たまたまあったツナとえのきで作ったらとってもおいしかったんです（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき パスタ"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/609393/100x141c/fdf059e963d93bfaa17d8b2d91e751cf.jpg?u=779605&p=1223146626"
+}

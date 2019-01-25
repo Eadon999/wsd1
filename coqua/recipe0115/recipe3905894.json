@@ -1,0 +1,65 @@
+{
+    "name": "めっちゃ簡単！玉子スープ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3905894/464x260/416ba354e958c52d46891aa8f776d655.jpg?u=9552524&p=1465280551",
+    "datePublished": "2016-06-07",
+    "description": "とろ～り美味しい簡単中華スープ♡玉子があればすぐに出来ます(^^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "☆水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "☆中華あじ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "❤水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "❤片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "青ネギ(小口切り)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉子は溶いておきます。",
+        "鍋に☆を入れて沸騰させ塩コショウで少し濃い目に味を整えます。",
+        "❤を合わせて水溶き片栗粉を作り弱火にした②に加えて緩くとろみをつけます。",
+        "④を強火にし沸いたら①を回し入れ玉子が浮いてきたらすぐに火を止めます。ごま油を加えてサッと混ぜる。",
+        "器に注ぎ青ネギを散らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3905894",
+    "advice": "玉子はふんわり仕上がる様に垂らしながら回し入れてね(^^)",
+    "history": "お味噌汁・鶏のスープに次ぐ我が家の定番スープです(^^)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまごスープ 中華あじ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/3905894/100x141c/3f4e1b19613cccbc55159a5b15f87609.jpg?u=9552524&p=1465280551"
+}

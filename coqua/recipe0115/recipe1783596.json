@@ -1,0 +1,60 @@
+{
+    "name": "マヨネーズ入りでふんわりニラ玉",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1783596/464x260/b5a4769b2faba9c2ff1337b4b813267f.jpg?u=2124468&p=1334754075",
+    "datePublished": "2012-04-18",
+    "description": "卵にマヨネーズを加えることにより卵がふんわりしあがります。それにマヨネーズの香りも食欲をそそります。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４～５"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは５センチくらいに切っておく。",
+        "卵を解きほぐし、マヨネーズを加えて混ぜておく。",
+        "サラダオイルを熱したフライパンにニラを加え、塩コショウして少ししんなりしてくるまで炒める。",
+        "２の卵を投入し、手早くかき混ぜて卵が固まってきたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1783596",
+    "advice": "",
+    "history": "オムレツにマヨネーズを加えるとふんわり仕上がります。これを応用してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "ニラ",
+        "マヨネーズ",
+        "こしょう"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1783596/100x141c/7c8bdf68063efc76c0597fe394fd659b.jpg?u=2124468&p=1334754075"
+}

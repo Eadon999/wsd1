@@ -1,0 +1,59 @@
+{
+    "name": "サツマイモの胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "umemodoki"
+    },
+    "image": "https://img.cpcdn.com/recipes/703065/464x260/0f92dabb8f5bcb445632bb6a3e7da4b1.jpg?u=748964&p=1305730844",
+    "datePublished": "2008-12-22",
+    "description": "サツマイモを蒸して、ヘルシーな胡麻和えにしてみました。お弁当にも良さそうです！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "サツマイモ(M)",
+            "quantity": "1本"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "★濃い口醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白擂りゴマ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        " サツマイモは一口大に切り、水につけてから、軟らかく蒸す。",
+        "★印を容器に入れ、レンジで軽く沸騰させ、蒸したサツマイモにかける。 \nゴマも加え、サツマイモを潰さないようにして和える。",
+        "お試し頂いた皆様ありがとうございます♪ \nお陰様で話題入りすることが出来ました。 \n★感謝★ 2011.10.17",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "703065",
+    "advice": "味付けは、お好みで調整して下さい。黒ゴマバージョンもどうぞ。",
+    "history": "ヘルシーにサツマイモを食べたいと思い、作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サツマイモ",
+        "みりん",
+        "砂糖",
+        "濃い口醤油"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/703065/100x141c/7ae74e6ed9b204ec6e3aa0a12592ac6d.jpg?u=748964&p=1305730844"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "鮭のキムチ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2951447/464x260/403e85d8edc9b8c61bce5563f522078f.jpg?u=4819316&p=1420464274",
+    "datePublished": "2015-01-05",
+    "description": "18/6/28話題入り有難う、豚のようにしつこくなくあっさりとキムチ炒めを楽しめます、ご飯に合います、ビールにも合います",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭切り身",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "白菜キムチ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "青ねぎ（小口切り）",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭を３～４切れの食べ易い大きさに切り、塩を振って５分ほど置き。片栗粉をまぶす",
+        "フライパンに分量外のサラダ油を加熱し、鮭を両面焼き、皿に取り出す",
+        "再びフライパンに分量外のサラダ油を加熱し白菜キムチを入れて炒め、鮭を戻し入れて混ぜる",
+        "お皿に盛ってねぎを振りかけて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2951447",
+    "advice": "キムチの量はお好みで加減して下さい",
+    "history": "豚キムチ炒めがあるのだから、魚をキムチと炒めても美味しいでしょう、と考えて作りました。豚よりもあっさりして美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭 キムチ",
+        "鮭 キムチ炒め"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2951447/100x141c/5f29e6f421df90a59cff1efa5659ff89.jpg?u=4819316&p=1420464274"
+}

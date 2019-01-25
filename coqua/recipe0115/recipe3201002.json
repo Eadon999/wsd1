@@ -1,0 +1,61 @@
+{
+    "name": "お口直しのあっさりグリーンサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3201002/464x260/bad737d666cacbc9baa22067202c7332.jpg?u=1228553&p=1432709541",
+    "datePublished": "2015-05-27",
+    "description": "シンプルであっさりさっぱり♪こってりメインの時にいかがでしょう♡和洋中に合います(o´ω｀o)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "千切りキャベツ",
+            "quantity": "280g"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "紫蘇（千切り）",
+            "quantity": "5枚分"
+        },
+        {
+            "name": "塩(塩もみ用)",
+            "quantity": "小さじ１とひとつまみ"
+        },
+        {
+            "name": "☆塩（調味用）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "胡瓜をスライサーで輪切りにして直接ボウルに入れ塩ひとつまみで和える",
+        "キャベツを上にどさっとのせ塩小さじ１をふり全体を優しく揉み混ぜ画像の様に半量位になったらさっと水をくぐらせしっかりと絞る",
+        "☆を加え良く混ぜ合わせたら紫蘇も加えさっと和えれば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3201002",
+    "advice": "調味用の塩は味をみながらお好みで調節してください♪＊ひとつまみは3本の指でつまんだ量です",
+    "history": "カットキャベツがあったのでヾ(´ε｀*)ゝ ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あっさり メイン",
+        "グリーンサラダ",
+        "お口直し"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3201002/100x141c/0cc308c61a5a1c67964d9c409f4603cf.jpg?u=1228553&p=1432709541"
+}

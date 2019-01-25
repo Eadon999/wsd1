@@ -1,0 +1,55 @@
+{
+    "name": "さっぱりツルツル♡梅そば",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/375031/464x260/ff18843d3bc8cf380438c94e4df0d9a5.jpg?u=230354&p=1214216098",
+    "datePublished": "2007-05-17",
+    "description": "梅干がたっぷりからんで、さっぱりなおそばです♫ツルツルっとあっという間に食べちゃいます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "そば",
+            "quantity": "2人分"
+        },
+        {
+            "name": "梅干",
+            "quantity": "6～8個"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ1～"
+        },
+        {
+            "name": "ミツカン「追いがつお節つゆ」",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "そばを表示通りに茹でて水洗いし、氷水でしめてざるにあげ、しっかりと水気を切る。",
+        "梅干のたねを取り、包丁でたたく。ネギは小口切り。節つゆ（麺つゆ）を水で薄める。",
+        "ボウルでそば、梅干、ネギ、白ゴマ、つゆをからめてから、お皿に盛って出来上がり♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "375031",
+    "advice": "普通の麺つゆでも、美味しく出来ます♪濃度によって水は調整してください。",
+    "history": "お米切れ（笑）家にあるものをあさったらそばが出てきたので、さっぱり食べられるおそばにしました♫",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そば"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/375031/100x141c/e7fd52a643608c8ff74f4c75c31da3d7.jpg?u=230354&p=1214216098"
+}

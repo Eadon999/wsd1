@@ -1,0 +1,53 @@
+{
+    "name": "イカの照りテリ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "gummymio"
+    },
+    "image": "https://img.cpcdn.com/recipes/1455606/464x260/2e38b302dac800db8300427902542d7e.jpg?u=1675379&p=1306744550",
+    "datePublished": "2011-05-30",
+    "description": "こってり甘辛でご飯にもお酒にもピッタリです♪2012/4/13話題入り(*^^*)作って頂いた皆様ありがとうございます♬",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "４杯"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "イカはワタと目、クチを取り除き適当な大きさに切る。",
+        "フライパンに少量のサラダ油を熱し、イカを炒める。少し色が変わったら酒を入れフタをして１分ほど蒸し焼きにする。",
+        "砂糖を加え全体に行き渡るように混ぜながら炒める。フツフツしてきたら醤油を加える。",
+        "再びフツフツしてきたら、みりんを加えて煮詰める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1455606",
+    "advice": "調味料を時間差でいれるのがポイント♪一つひとつよく絡めてください(*^_^*)",
+    "history": "イカ好きな父の１番のお気に入りレシピです",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか 照り焼き",
+        "イカ 照り焼き"
+    ],
+    "tsukurepo_count": "132",
+    "thumbnail": "https://img.cpcdn.com/recipes/1455606/100x141c/75073b75c90604181fea12aefcc5c16c.jpg?u=1675379&p=1306744550"
+}

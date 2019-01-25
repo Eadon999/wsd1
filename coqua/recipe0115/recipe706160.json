@@ -1,0 +1,74 @@
+{
+    "name": "一番簡単★松風焼き",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/706160/464x260/82467ed507878d709ec8ba45878f9f44.jpg?u=1088838&p=1357105541",
+    "datePublished": "2008-12-29",
+    "description": "れぽ100人ありがとう！鶏と豆腐の松風焼き風です♪混ぜて焼くだけなのにとても美味しいですよ～。夕飯のおかずにもオススメ！",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏挽肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１こ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小１"
+        },
+        {
+            "name": "白胡麻",
+            "quantity": "たくさん"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま以外をよく混ぜて耐熱器に入れ、ごまをぎっしりしきつめる。２００度に予熱したオーブンで２０分位焼けば完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "706160",
+    "advice": "ごまは軽く手で押さえるようにしながらぎっしりしきつめること。",
+    "history": "お節だけじゃなく、夕飯のおかずとしても気軽に作りたいと思い、考えました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": [
+        "松風焼き 4位"
+    ],
+    "related_keywords": [
+        "松風焼き",
+        "松風焼き 簡単",
+        "松風焼き 豆腐",
+        "松風焼き オーブン"
+    ],
+    "tsukurepo_count": "181",
+    "thumbnail": "https://img.cpcdn.com/recipes/706160/100x141c/6101f57247eadd8e5c646cdef9769b23.jpg?u=1088838&p=1357105541"
+}

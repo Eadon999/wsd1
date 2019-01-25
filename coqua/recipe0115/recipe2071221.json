@@ -1,0 +1,60 @@
+{
+    "name": "ブリの照り焼き・お正月のおせち編",
+    "author": {
+        "@type": "Person",
+        "name": "はーたんのおっかさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2071221/464x260/b0e63ef34d1da4441f03b278deeb5505.jpg?u=4113004&p=1356911458",
+    "datePublished": "2012-12-31",
+    "description": "最初に湯で生臭さを取ったらもう後は超特急で出来上がるよ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり切り身",
+            "quantity": "2枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリの身を半分に切って網に入れて熱湯をかけて生臭みを取る。",
+        "フライパンで両面焼いたら一旦身を移しフライパンを洗う。",
+        "調味料を煮たたせる。",
+        "煮立った汁にぶりを戻し絡める。1～2分で出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2071221",
+    "advice": "あまり焼きすぎたり、あまり煮過ぎるとブリの身がギュギュっとかたくなりますよー。火を通すのはすべて短時間でOK.",
+    "history": "愛娘は魚が大好きで大好きで、定食屋さんのように善風に出してあげるとやたら喜んだっけね❤",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": [
+        "ブリの照り焼き 9位",
+        "ぶり 4位",
+        "お正月 3位",
+        "照り焼き 9位"
+    ],
+    "related_keywords": [
+        "おせち ぶり",
+        "おせち",
+        "ぶり 照り焼き おせち",
+        "お正月"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/2071221/100x141c/e17ee68c03028d2f75a0ea0ace74a5a9.jpg?u=4113004&p=1356911458"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "がんもどきのトマトジュースカレー煮",
+    "author": {
+        "@type": "Person",
+        "name": "しましまゴロゴロ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3782372/464x260/49b4a3aabb8b1c892c5cc1ce909f2c97.jpg?u=2719675&p=1459507900",
+    "datePublished": "2016-04-01",
+    "description": "トマトカレー味をじゅわっと含んだがんもどき、美味しいですよ。優しい味付けで汁も全部いただけます。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "がんもどき",
+            "quantity": "10個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "200g"
+        },
+        {
+            "name": "生姜（千切り）",
+            "quantity": "一かけ"
+        },
+        {
+            "name": "トマトジュース（無塩）",
+            "quantity": "50ml"
+        },
+        {
+            "name": "水",
+            "quantity": "150ml"
+        },
+        {
+            "name": "八方だし（めんつゆ）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "がんもどきは熱湯を回しかけるか、ゆでこぼして表面の油を落とす。",
+        "キャベツは食べやすい大きさに切る。",
+        "鍋に煮汁の材料を入れて温め、がんもどきと生姜を入れて落し蓋をし、5分ぐらい煮る。",
+        "キャベツを加えて、キャベツが好みの軟らかさになるまで煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3782372",
+    "advice": "３の落し蓋はがんもどきの浮き上がり防止。時々ひっくり返しながら煮てもOK。うちのママ製八方だしは甘さ控えめなので、みりんで少し甘味を足しました。市販のめんつゆの場合は調節してね。",
+    "history": "何となくがんもどきを買ってきました。少しだけ残っていたトマトジュースで簡単煮物。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "がんもどき",
+        "キャベツ",
+        "生姜",
+        "煮汁"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3782372/100x141c/d31e4a0ff180b7e6a4e0e345cd7ad1cb.jpg?u=2719675&p=1459507900"
+}

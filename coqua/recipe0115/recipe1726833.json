@@ -1,0 +1,72 @@
+{
+    "name": "鍋焼きうどん",
+    "author": {
+        "@type": "Person",
+        "name": "ぶぅの食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/1726833/464x260/9476f6d63164d396db983c79032e6f2e.jpg?u=3909751&p=1330746145",
+    "datePublished": "2012-03-03",
+    "description": "胃腸に優しいあたたかうどん♡",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０cc"
+        },
+        {
+            "name": "和風だし",
+            "quantity": "小さじ１.５"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "鶏肉または豚肉",
+            "quantity": "適量"
+        },
+        {
+            "name": "海老",
+            "quantity": "適量"
+        },
+        {
+            "name": "ほうれん草、ネギ、椎茸等の野菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "土鍋に水、ダシ、醤油、みりん、塩を入れ火にかけ、肉類を加える。アクをとったらうどんを加え、野菜等も全て加える。",
+        "最後に卵を落として蓋をして数分煮込む。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1726833",
+    "advice": "冷凍うどんは煮込んでも柔らかくなりすぎず簡単〜♫",
+    "history": "胃腸を崩した時には優しい味の鍋焼きうどんでいたわります。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "胃腸に優しい うどん",
+        "鍋焼きうどん えび",
+        "鍋焼きうどん"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1726833/100x141c/2cf1d4fc6c423f2430766239a8e18cfe.jpg?u=3909751&p=1330746145"
+}

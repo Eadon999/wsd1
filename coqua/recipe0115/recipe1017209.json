@@ -1,0 +1,55 @@
+{
+    "name": "プリプリ海老はんぺん",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1017209/464x260/8a42df8520ab8925e25aff257da3db1f.jpg?u=377757&p=1283393279",
+    "datePublished": "2010-01-22",
+    "description": "プリプリの海老の食感が楽しくて、美味しい！プリプリ海老はんぺん！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "海老",
+            "quantity": "６尾"
+        },
+        {
+            "name": "はんぺん",
+            "quantity": "1袋"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "海老は、背綿と殻を取り除き食感が残るくらいに刻んでおく。\nはんぺんは袋のまま手で潰しておく。\n",
+        "海老に塩を少々と片栗粉振って、はんぺんと一緒にし手で粘りが出てまとまるまで混ぜ合わせる。",
+        "丸めて平たく成形し、お皿に並べる。\n",
+        "フライパンに油をひき、焼いていく。焦げ目が付いたら裏返し、水を入れてフタをして蒸し焼きにする。両面焦げ目が付いたら完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1017209",
+    "advice": "酢醤油でいただきます～！焼くときは、餃子を焼くような感じで♪お弁当に入れる時は、マヨネーズをそえてます。",
+    "history": "大好きな海老とはんぺんで何か作ろうとずっと考えて出来たレシピ☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビ はんぺん",
+        "えび はんぺん",
+        "プリプリ海老はんぺん",
+        "はんぺん"
+    ],
+    "tsukurepo_count": "1073",
+    "thumbnail": "https://img.cpcdn.com/recipes/1017209/100x141c/f7f48d83ca6d25e88b9483bf58b01a7a.jpg?u=377757&p=1283393279"
+}

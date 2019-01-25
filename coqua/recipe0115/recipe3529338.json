@@ -1,0 +1,58 @@
+{
+    "name": "レンジで1分40秒！ほんだし豆腐丼",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3529338/464x260/23714e57455d479a8ab62953d53ba597.jpg?u=4376699&p=1448167585",
+    "datePublished": "2015-11-21",
+    "description": "調味料はほんだしのみ！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(1/4丁)",
+            "quantity": "75g"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1cm"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐をさいの目に切り\nネギをみじん切り\n耐熱ボールにほんだし、水、豆腐、ネギを入れレンジ600w1分チンして混ぜる",
+        "軽く溶いた卵を加えて40秒チン\n",
+        "熱いうちに混ぜて半熟にしてご飯にのせて完成"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3529338",
+    "advice": "ほんだしは砂糖塩等色々入っているのでほんだしだけでＯＫ豆腐は木綿でも絹でも焼き豆腐でもＯＫ水無しレンチン無しでそのままＴＫＧにも！お好みで生姜もおすすめ！",
+    "history": "夜食が食べたくなってほんだし親子丼をアレンジしましたID:2124997クックパッドニュース掲載https://news.cookpad.com/articles/17069",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "豆腐丼 10位",
+        "ほんだし 7位"
+    ],
+    "related_keywords": [
+        "豆腐丼",
+        "豆腐　レンジ",
+        "豆腐 卵 レンジ",
+        "豆腐 卵 丼 レンジ"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/3529338/100x141c/a970b3df60c7522ffa7640988f2491b0.jpg?u=4376699&p=1448167585"
+}

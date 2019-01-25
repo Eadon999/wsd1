@@ -1,0 +1,55 @@
+{
+    "name": "ニンジンとちくわのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ツンツンエッツンツン"
+    },
+    "image": "https://img.cpcdn.com/recipes/252932/464x260/362c7d73fb6f3bf39713d846103612e7.jpg?u=236259&p=1214212993",
+    "datePublished": "2006-05-07",
+    "description": "簡単です。 ←ちくわが無くて、笹かまです。 ＊＊つくれぽ10人！(Ｈ22・12・30)ありがとうございます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "1本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ半分"
+        },
+        {
+            "name": "いりゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンを千切りにする。私は面倒なのでスライサー？を使っちゃいます。\r\nちくわは薄い輪切りに。",
+        "熱したフライパンに油をひいて、ニンジンを炒めます。\r\n続いて、ちくわを投入。\r\nニンジンが苦手ならよく炒めましょう。",
+        "2に砂糖、醤油で味付け。\r\nいりゴマを指でひねりながらまぶして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "252932",
+    "advice": "",
+    "history": "姑に教わりました。お弁当にも良いです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "ちくわ",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/252932/100x141c/88522862b25c373656fd5e89bf172e3f.jpg?u=236259&p=1214212993"
+}

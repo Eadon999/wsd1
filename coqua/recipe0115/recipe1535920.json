@@ -1,0 +1,76 @@
+{
+    "name": "ナッツが美味しい鶏肉とピーマンの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1535920/464x260/c8565e9362bbe4a20147d01b0b0eee44.jpg?u=2142891&p=1314769923",
+    "datePublished": "2011-08-29",
+    "description": "酢豚風ですが6分ほど炒めあわせるだけ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "ミックスナッツ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "5個"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１．５"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大に切って下味をつけておく。ピーマンも一口大に切る。合わせ調味料を合わせておく。",
+        "フライパンにゴマ油を入れて中火で加熱する。香りがたったら、鶏肉を皮目を下にして入れ、3分焼いたら返し、さらに2分焼く。",
+        "鶏肉を取り出して、ピーマン、ナッツを入れて2分炒める。",
+        "鶏肉を戻して合わせ調味料を回しかけて、強火にする。沸騰したらすぐ止める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1535920",
+    "advice": "合わせ調味料は合わせたまま味をみると「すっぽい！」ですが、４で一瞬沸騰した時に酸味は消えてまろやかなこくだけが残ります。",
+    "history": "いつもとちょっと違ったものを作ってみました～。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉とナッツの炒め物"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1535920/100x141c/0f35a13b054745856fa7eaf3d684a62b.jpg?u=2142891&p=1314769923"
+}

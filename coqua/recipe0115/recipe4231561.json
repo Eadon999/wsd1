@@ -1,0 +1,77 @@
+{
+    "name": "簡単♪大人のハヤシライス",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4231561/464x260/cee9d13d4f245ca875abd940db4ff3e0.jpg?u=4376699&p=1481459996",
+    "datePublished": "2016-12-13",
+    "description": "赤ワインで大人味",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1個"
+        },
+        {
+            "name": "きのこ(舞茸)",
+            "quantity": "少々"
+        },
+        {
+            "name": "トマト水煮缶",
+            "quantity": "200cc"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ウスターソース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "赤ワイン",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱を薄切りにしてポリ袋でレンジ600w2分\n肉は小さく切る\nきのこは細くさく",
+        "材料を全部混ぜてから火を点ける\n沸騰したら混ぜながら5分ほど煮ればＯＫ"
+    ],
+    "cookTime": null,
+    "recipe_id": "4231561",
+    "advice": "きのこはしめじなどお好みで！最後にお好みで牛乳を少々いれてマイルドにしても！",
+    "history": "ハヤシライスを初めて作りました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "玉葱",
+        "きのこ",
+        "トマト水煮缶"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4231561/100x141c/643fe2a032f5dce65408d5f2fcfe5c86.jpg?u=4376699&p=1481459996"
+}

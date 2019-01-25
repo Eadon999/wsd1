@@ -1,0 +1,64 @@
+{
+    "name": "ベビーホタテ＆厚揚げの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1394053/464x260/d1e18db4d9bfe81ea1b556427337dfe8.jpg?u=496128&p=1427703234",
+    "datePublished": "2011-03-25",
+    "description": "ぷりぷりの帆立とふわっ＆カリッの厚揚げに照り焼きソースが絡んでおいし～",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ベビーホタテ（ボイル）",
+            "quantity": "約24こ"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "中1こ（食べきりサイズ）"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1かけ分"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ・みりん・酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "①厚揚げを油抜きして一口大に切る。",
+        "②しょうがを千切りする。",
+        "③ホタテと厚揚げをビニール袋に入れ、塩コショウを振り、片栗粉を入れまぶす。（袋ごとシャカシャカ）",
+        "④フライパンに油を熱し、③をこんがり焼く。",
+        "⑤④にたれとしょうがを入れ絡める。",
+        "⑥あればグリンピースや小口ネギを添える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1394053",
+    "advice": "七味唐辛子やマヨネーズをかけて照りマヨにしても美味しいです。たれ多めで丼にしてもＧＯＯＤ．",
+    "history": "厚揚げでボリュームアップ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベビーホタテ 厚揚げ",
+        "帆立 厚揚げ",
+        "帆立 照り焼き"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1394053/100x141c/a5061e496b6bf28d1727dcfbf071341a.jpg?u=496128&p=1427703234"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "豆腐と鶏そぼろのトマトあんかけライス",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/454438/464x260/96c0db832d25b2df2a434c60428261c9.jpg?u=54489&p=1214217691",
+    "datePublished": "2007-11-04",
+    "description": "洋風かと思いきやちょっぴり和風なお味♪豆腐でツルっとご飯がすすみます （*^～^*）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね挽き肉",
+            "quantity": "７５ｇ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "┌カゴメ基本のトマトソース",
+            "quantity": "１/２缶（約１５０ｇ）"
+        },
+        {
+            "name": "│醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "└塩",
+            "quantity": "小さじ１/２程度"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２皿分"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はさっと水気をきり、しめじは石づきを取り除いてほぐしておく。",
+        "ごま油小さじ２を熱した鍋で鶏挽き肉を炒め、色が変わってきたらしめじと酒を加えしめじがしんなりするまで炒める。",
+        "Ａを加え煮、豆腐を加えおたまで大きく砕き、豆腐に火が通ったらいったん火を止め倍量の水で溶いた片栗粉を回し入れ、再び火にかけとろみをつけ、仕上げにごま油小さじ１をたらして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "454438",
+    "advice": "",
+    "history": "余った挽き肉や豆腐やきのこを使って、こういうぶっかけご飯ものは彼が好きなので作りました☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "木綿豆腐",
+        "酒",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/454438/100x141c/585ddf6cd97fe44d691871a3db9ee60f.jpg?u=54489&p=1214217691"
+}

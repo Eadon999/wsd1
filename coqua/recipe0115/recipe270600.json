@@ -1,0 +1,63 @@
+{
+    "name": "ダブルコーンスープ",
+    "author": {
+        "@type": "Person",
+        "name": "とろです"
+    },
+    "image": "https://img.cpcdn.com/recipes/270600/464x260/3e110e4035c10d397c2376a8f5759a11.jpg?u=248457&p=1214213387",
+    "datePublished": "2006-07-31",
+    "description": "クリームコーンと粒コーンのダブル入り♪粒コーンは、バターで炒めておいしいんです！！",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "クリームコーン",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "粒コーン",
+            "quantity": "100～200ｇ好み"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にバターをおとし、火にかけて粒コーンを炒める。その中に牛乳、クリームコーン、コンソメを入れて煮る、沸騰しないように。",
+        "塩コショウで味を調える",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "270600",
+    "advice": "沸騰させないよう弱火でね！！",
+    "history": "コーンスープが大好きなんです☆だから家ではつぶコーンもレシピ以上にたっぷり入れちゃいます ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし",
+        "その他/クリスマス/サラダ・スープ/クリスマスのスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "クリームコーン",
+        "粒コーン",
+        "牛乳",
+        "バター"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/270600/100x141c/e1940de2f172985c07df74960e20db24.jpg?u=248457&p=1214213387"
+}

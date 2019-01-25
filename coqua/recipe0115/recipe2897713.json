@@ -1,0 +1,84 @@
+{
+    "name": "【15分】夜食♡野菜と卵のあんかけうどん",
+    "author": {
+        "@type": "Person",
+        "name": "mayukuro2"
+    },
+    "image": "https://img.cpcdn.com/recipes/2897713/464x260/68dea8d974fc96b6ddd5b59afed6879f.jpg?u=3831375&p=1416798085",
+    "datePublished": "2014-11-24",
+    "description": "余り野菜と卵でささっと作れる、簡単うどんです (๑´ڡ`๑)甘めの出汁ととろみで、優しい味☆",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん（生麺）",
+            "quantity": "1玉"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "白菜",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "人参",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "☆めんつゆ(2倍濃縮)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "小さじ2＋水小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜類はお好みのサイズにカット。\n\n",
+        "鍋に水と☆の材料を煮立たせ、野菜を入れる。\n野菜がしんなりしたら、うどんを入れる。\n",
+        "1分ほど煮込んだら、火を弱め、溶いた卵を流しいれる。\n火を止め、水溶き片栗粉でとろみをつける。",
+        "丼に盛り付け、白胡麻などお好みでトッピング☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2897713",
+    "advice": "野菜はたまたまうちの冷蔵庫にあったものなので、なんでもOKです (๑´ڡ`๑)卵投入→とろみ付け、の行程はささっと！",
+    "history": "冷蔵庫にあまった野菜で、お手軽うどん(๑´ڡ`๑)",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": [
+        "あんかけうどん 3位",
+        "夜食 1位",
+        "卵うどん 3位",
+        "野菜うどん 1位"
+    ],
+    "related_keywords": [
+        "あんかけうどん",
+        "うどん 卵",
+        "うどん 野菜",
+        "うどん"
+    ],
+    "tsukurepo_count": "291",
+    "thumbnail": "https://img.cpcdn.com/recipes/2897713/100x141c/cf44eb0d76ee9b708b220f953393b1be.jpg?u=3831375&p=1416798085"
+}

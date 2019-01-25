@@ -1,0 +1,62 @@
+{
+    "name": "オッサンのコンソメスープに油揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/4039411/464x260/d0a3886fbcff0eb428e048a495164ac1.jpg?u=3323767&p=1472268096",
+    "datePublished": "2016-08-27",
+    "description": "味噌汁か？と思うような具材で作ったコンソメスープです☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "４グラム"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げ・豆腐は食べやすい大きさに切ります。\nわかめは水で戻します。",
+        "鍋に水、油揚げ、豆腐を入れ、沸騰したらコンソメスープ、麺つゆを入れます。",
+        "わかめを入れ、一煮立ちさせます。",
+        "器に入れ、ごまを指でひねりながら入れたら、出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4039411",
+    "advice": "写真は、刻みネギを入れています。油揚げは、油抜きせず使います。具材は、家にあるモノでもOKです。調味料は、お好みで調整して下さい。",
+    "history": "油揚げをコンソメスープに入れてみたら旨かったので、レシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コンソメスープ 油揚げ",
+        "油揚げ スープ",
+        "コンソメスープ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/4039411/100x141c/c5835dd6ad1609fe63e3b8d5fdb1cf20.jpg?u=3323767&p=1472268096"
+}

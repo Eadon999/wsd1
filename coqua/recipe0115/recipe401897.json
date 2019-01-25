@@ -1,0 +1,74 @@
+{
+    "name": "トマトとキュウリとワカメで中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "ムー君"
+    },
+    "image": "https://img.cpcdn.com/recipes/401897/464x260/19d2fea58b73fb493808f5519403c359.jpg?u=384614&p=1214216668",
+    "datePublished": "2007-07-10",
+    "description": "今日はサッパリ中華和え！冷たくして召し上がれ♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "ワカメ",
+            "quantity": "１０g（戻して４０g）"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■味の素",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "■ごま油",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "■白いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "■印の材料を合わせ、よく混ぜておく。",
+        "トマトはぶつ切りにする。",
+        "キュウリは麺棒などでで叩いてから手で割る。",
+        "ワカメは茹でてから適当な大きさに切る。",
+        "トマト・キュウリ・ワカメを【１】に入れ、よく和える。",
+        "お皿に盛って完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "401897",
+    "advice": "キュウリは叩くことでタレがよくからんでおいしくなります。冷やしてお召し上がりいただくとおいしいですよ♪",
+    "history": "旬の野菜でパパッと冷製中華和え♪お酢も入ってサッパリです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "きゅうり",
+        "ワカメ",
+        "醤油"
+    ],
+    "tsukurepo_count": "291",
+    "thumbnail": "https://img.cpcdn.com/recipes/401897/100x141c/5bab74e828a632e2f4b4f6cef60e144d.jpg?u=384614&p=1214216668"
+}

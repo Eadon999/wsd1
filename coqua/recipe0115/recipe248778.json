@@ -1,0 +1,44 @@
+{
+    "name": "♣おかまのもみあげ♣",
+    "author": {
+        "@type": "Person",
+        "name": "mytyl"
+    },
+    "image": "https://img.cpcdn.com/recipes/248778/464x260/30789e269b95fe0985ee32028371c056.jpg?u=234222&p=1214212869",
+    "datePublished": "2006-04-14",
+    "description": "すごいネーミングですが・・・(^^;　あっという間にできるおつまみサラダです♫",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "蒲鉾",
+            "quantity": "1/3～"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは塩もみして水気を絞る。油揚げは軽く焼いて短冊切り、蒲鉾も同じくらいの大きさにに切る。",
+        "1をマヨネーズ大さじ１と醤油小さじ1で和えて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "248778",
+    "advice": "油揚げはフライパンで焼いても　オーブントースターでもok♪油が抜けてカリッとするくらいがおいしいです。マヨ＆醤油の分量はお好みで・・・。七味を振っても(o^-')b グッ!",
+    "history": "20年以上前に行った呑み屋で　教わりました。ネーミングも当時のまま。由来はもちろん「蒲鉾＋きゅうりの塩もみ＋油揚げ」から(;^_^A ",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蒲鉾",
+        "油揚げ",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/248778/100x141c/9a96fc08eec91a7f1500eb74d63b40da.jpg?u=234222&p=1214212869"
+}

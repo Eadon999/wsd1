@@ -1,0 +1,50 @@
+{
+    "name": "しいたけピリ辛マヨ★おつまみ♪",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1209277/464x260/1146e043e603e602a3597cf5e84581a8.jpg?u=268332&p=1281612534",
+    "datePublished": "2010-08-12",
+    "description": "2012.11.6 話題入り☆ビールに合う！プチおかずにも！しいたけをおいしく簡単に食べれる魔法のしいたけです★",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "２～４個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけが大きければ半分に切る！",
+        "マヨネーズを絞って、七味をふりかけたらトースターで４分焼く。",
+        "お皿にとったら醤油をたらしてアツアツを召し上がれ★"
+    ],
+    "cookTime": null,
+    "recipe_id": "1209277",
+    "advice": "七輪があればそれで焼くと絶品★マヨネーズと七味は好みの量で作ってください！",
+    "history": "これならしいたけが苦手だった頃もパクパク食べてた～！久しぶりに思い出して作ってみたよ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ",
+        "マヨネーズ",
+        "七味",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1209277/100x141c/e063bf09b0206d922c303b5310918a7a.jpg?u=268332&p=1281612534"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "海苔とネギのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "♥孔燐♥"
+    },
+    "image": "https://img.cpcdn.com/recipes/713761/464x260/57b604d5d032f6fa832247fb9c315dbd.jpg?u=1101239&p=1420232941",
+    "datePublished": "2009-01-14",
+    "description": "韓国・中国料理に合うあっさりスープです ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "○水",
+            "quantity": "１０００cc"
+        },
+        {
+            "name": "○鶏がらスープの素",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "小口切りのネギ",
+            "quantity": "一掴み"
+        },
+        {
+            "name": "板のり",
+            "quantity": "一枚の半分～一枚"
+        }
+    ],
+    "recipeInstructions": [
+        "のりは細かめの四角形にはさみで切っておく　\r\n\r\nネギは小口切りに",
+        "○を全部鍋に入れ煮立ったら　のり　ネギを入れ　ゴマ油を最後に入れ混ぜたら出来上がり　",
+        "\n\n",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "713761",
+    "advice": "ネギは多めに",
+    "history": "韓国・中華料理などに合う　あっさりスープが飲みたくて・・・普段は目分量で作ってたスープを計ってみました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水",
+        "鶏がらスープの素",
+        "醤油",
+        "ごま油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/713761/100x141c/16fa3ce8688e9aa8adb70bba8068b09a.jpg?u=1101239&p=1420232941"
+}

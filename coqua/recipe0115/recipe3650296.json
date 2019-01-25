@@ -1,0 +1,85 @@
+{
+    "name": "鶏ひき肉のお揚げロール",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/3650296/464x260/d76350ec61dbd6664897cd2a2eb46b77.jpg?u=4609610&p=1453952873",
+    "datePublished": "2016-01-28",
+    "description": "安い材料でおいしい１品。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸ひき肉",
+            "quantity": "400g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "5枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "3㎝"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "昆布顆粒だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★味醂",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは５枚入りの安いのを使う。油抜きして一枚に開く。",
+        "★印以外の材料をフードプロセッサーにかける。ない場合はみじん切りして手でこねる。",
+        "１に端１センチ開けて丁寧に肉だねをのばして１センチ開けた方が巻き終わりになるように巻く。",
+        "３は爪楊枝でとめる。",
+        "星印をフライパンなどに入れ沸騰したら火を弱めて４を全部入れ崩さないように煮絡めて完成。",
+        "冷めたら楊枝を取れば崩れません。あたたかいのもいいですが、冷めてからがきれいに切れます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3650296",
+    "advice": "最後に煮詰める味付けはお好みで。生姜や気風の味付けもおすすめ。大葉をまいたりしてもおいしいです。",
+    "history": "見た目がかわいい１品を。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸ひき肉",
+        "油揚げ",
+        "人参",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3650296/100x141c/0c8ddc8dd65daf17aa2127a668d05722.jpg?u=4609610&p=1453952873"
+}

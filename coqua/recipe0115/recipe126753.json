@@ -1,0 +1,57 @@
+{
+    "name": "竹輪のたっぷり胡麻しそ和え。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/126753/464x260/a7405193dca0ddf5d12d02aedf4428ec.jpg?u=14642&p=1214210583",
+    "datePublished": "2004-01-25",
+    "description": "短時間でもう一品。風味の良い、簡単副菜です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "２本"
+        },
+        {
+            "name": "大葉",
+            "quantity": "８～１０枚"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりおろし生姜",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "竹輪は薄くスライスしておく。大葉は千切りにしておく。",
+        "ボウルに材料をすべて入れて和え、なじませて出来上がり。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "126753",
+    "advice": "青じそ胡麻たれは、竹輪の他、いろいろな食材に使えます。",
+    "history": "特価でたっぷりと買った青じそを使って。うちに常備されている竹輪と胡麻を使って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの冷副菜",
+        "その他/夏に食べたい料理/夏のしそ・みょうが・しょうが料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ しそ",
+        "シソ ちくわ"
+    ],
+    "tsukurepo_count": "256",
+    "thumbnail": "https://img.cpcdn.com/recipes/126753/100x141c/2a4d3e0ddf2357bc8cb83b6c3a56d20f.jpg?u=14642&p=1214210583"
+}

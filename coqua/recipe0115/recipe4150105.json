@@ -1,0 +1,56 @@
+{
+    "name": "ダシダde味付け♪たこの唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4150105/464x260/b975948b57ba13ead330652ff05a89f9.jpg?u=4328809&p=1477717575",
+    "datePublished": "2016-10-29",
+    "description": "おつまみにピッタリのたこのから揚げ。ダシダで簡単に美味しく♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでだこ",
+            "quantity": "200g"
+        },
+        {
+            "name": "ダシダ",
+            "quantity": "小さじ 2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ 1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ 1と1/2"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ 1/2"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでだこはぶつ切りにする。",
+        "ビニール袋に①と酒、ダシダを入れてもみ30分～１時間程おく。",
+        "②の水気を拭いて別のビニール袋に入れる。片栗粉と小麦粉も加えて空気を入れてフリフリし、粉を付ける。",
+        "180度の油でうっすら色がつくまで揚げて完成です。（揚げすぎるとかたくなるので注意）"
+    ],
+    "cookTime": null,
+    "recipe_id": "4150105",
+    "advice": "揚げすぎに注意してください。",
+    "history": "にんにく、生姜、醤油などの味付けが面倒なのでダシダを使って揚げてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこから揚げ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4150105/100x141c/fc188fa553f1ba6be3974f4b4d0d43b1.jpg?u=4328809&p=1477717575"
+}

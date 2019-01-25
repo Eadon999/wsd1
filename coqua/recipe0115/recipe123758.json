@@ -1,0 +1,71 @@
+{
+    "name": "かしわ南そば",
+    "author": {
+        "@type": "Person",
+        "name": "ととろの館"
+    },
+    "image": "https://img.cpcdn.com/recipes/123758/464x260/29a0b80819ed7951bd772e24a03df9eb.jpg?u=38933&p=1214419032",
+    "datePublished": "2004-01-06",
+    "description": "鶏から出ただしと長ねぎが良く合います。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "そば",
+            "quantity": "２人前"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１５ｃｍ"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1/4束"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "９００ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "４５ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "４５ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "３０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大のそぎ切りにする。長ねぎは５ｃｍ長さに切り、縦に切り目を入れ中の黄色い部分は捨てる。周りの白い所を１ｃｍ幅に切る。ほうれん草はさっと茹でて５ｃｍに切る。",
+        "鍋にだし汁、みりん、醤油、酒、砂糖を煮立て、肉を入れアクを取りながら軽く煮る。",
+        "そばを茹で、丼に盛ったらだしをかけ、具を乗せる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "123758",
+    "advice": "そばが茹で上がったら手早く。",
+    "history": "かしわ南って昔から好きだったけど家で作るって発想がなくて店でばかり食べてたけど、働いていた店で作ってるのを見て家でも作ってみる気に。",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/あったかい蕎麦"
+    ],
+    "rankings": [
+        "かしわ 7位"
+    ],
+    "related_keywords": [
+        "かしわ そば",
+        "かしわ蕎麦",
+        "かしわ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/123758/100x141c/8f5985cf5c364e9022e9e90cb5b4e4e9.jpg?u=38933&p=1214419032"
+}

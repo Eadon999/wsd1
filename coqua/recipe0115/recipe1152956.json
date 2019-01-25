@@ -1,0 +1,63 @@
+{
+    "name": "サーモンのカルパッチョ",
+    "author": {
+        "@type": "Person",
+        "name": "alohafork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1152956/464x260/32e0ac23ba4dc0310263205d77048d06.jpg?u=2122688&p=1275999976",
+    "datePublished": "2010-06-08",
+    "description": "お肌をふっくら柔らかくしてくれるサーモンでカルパッチョ♪レモンの香りが爽やかで、お箸がすすみます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "サーモン刺身用",
+            "quantity": "１柵"
+        },
+        {
+            "name": "玉ねぎ(薄切り)",
+            "quantity": "半分"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サーモンは食べやすい大きさに切り、玉ねぎは薄切りにします。",
+        "サーモン、玉ねぎ以外の材料を全て混ぜ合わせておきます。",
+        "玉ねぎの上にサーモンを盛り付け、ソースをかければ完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1152956",
+    "advice": "",
+    "history": "美容にいいサーモンのレシピを増やしたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": [
+        "サーモンカルパッチョ 7位"
+    ],
+    "related_keywords": [
+        "サーモン カルパッチョ",
+        "刺身用サーモン カルパッチョ",
+        "カルパッチョ"
+    ],
+    "tsukurepo_count": "339",
+    "thumbnail": "https://img.cpcdn.com/recipes/1152956/100x141c/0ca175e2663be116d54e25e8d4331b72.jpg?u=2122688&p=1275999976"
+}

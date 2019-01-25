@@ -1,0 +1,64 @@
+{
+    "name": "ニラと卵の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "Yini"
+    },
+    "image": "https://img.cpcdn.com/recipes/2169967/464x260/ada8db11f23e3ea9ceb5868c489f75ea.jpg?u=5486727&p=1364472098",
+    "datePublished": "2013-03-28",
+    "description": "ご飯に合う、お酒のつまみにもなる、誰でも好きになる味です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "しらす",
+            "quantity": "100g"
+        },
+        {
+            "name": "紹興酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1、小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを15mmくらい切り、卵にしらすと紹興酒を加えてほぐす。",
+        "フライパンにオリーブオイル大さじ1をひき、油が熱くなったら、卵を入れてふんわり炒める。炒めた卵をさらに移す。",
+        "フライパンをきれいに洗ったら、オリーブオイル小さじ1を入れて、ニラを炒める。調味料Aを加えて混ぜる。",
+        "２．の卵を３．に戻して軽く混ぜたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2169967",
+    "advice": "*油が熱くなってから、卵を炒めると卵がふんわりになり、食感もおいしくなります。*ニラを炒めすぎないように。",
+    "history": "簡単に短時間にできる料理ですので、時間がない時よく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "しらす",
+        "紹興酒"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2169967/100x141c/8efb7477271da748d34b8697c163a366.jpg?u=5486727&p=1364472098"
+}

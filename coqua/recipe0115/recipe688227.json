@@ -1,0 +1,55 @@
+{
+    "name": "さつまいものしょうゆバター",
+    "author": {
+        "@type": "Person",
+        "name": "はーれん"
+    },
+    "image": "https://img.cpcdn.com/recipes/688227/464x260/f00445c195eb5cc982e82c344bc70594.jpg?u=826828&p=1275309524",
+    "datePublished": "2008-11-24",
+    "description": "09.10.2話題入り♪醤油と優しいバターのいい香り♪おかずにもおやつにもお好みでどうぞ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中１本"
+        },
+        {
+            "name": "バター",
+            "quantity": "１５～２０ｇ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "ごま",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもをお好みの大きさにカットして水に浸しておく。",
+        "フライパンにバターを入れ水を切ったいもを入れ炒める。 火が通ったら 砂糖を入れて馴染むまで炒める。",
+        "砂糖が馴染んだら火を止めて醤油を入れ絡める。お好みでごまを振ってくださいね♪ひねりごまにするとおいしいです。",
+        "私はたまに蜂蜜を入れて甘めに仕上げます♪これもおいしいですよ～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "688227",
+    "advice": "砂糖を入れたら粘りが出るまで炒めてね！",
+    "history": "しょうゆとバターの組み合わせが好きなんです☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "バター",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "117",
+    "thumbnail": "https://img.cpcdn.com/recipes/688227/100x141c/4cda5d41f715edc5a169324b46fb8877.jpg?u=826828&p=1275309524"
+}

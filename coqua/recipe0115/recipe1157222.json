@@ -1,0 +1,59 @@
+{
+    "name": "大根・キュウリ・ハムのサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1157222/464x260/e5212688364967861a195bc560dde516.jpg?u=1228553&p=1313648539",
+    "datePublished": "2010-06-13",
+    "description": "みずみずしくさっぱり美味しいサラダです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "４・５枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "７・８センチくらい"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・ハーブソルト",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は半月の薄切り・キュウリは薄切りの輪切りにそれぞれし、塩もみし、サッと水で流しよく絞っておきます",
+        "ハムは細かめに切っておきます",
+        "１）と２）をボールに入れ、クレイジーソルト（または塩コショウ）をふりまぜあわせます",
+        "オリーブオイルとレモン汁をまわしかけ和えれば出来上がり♪ \n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1157222",
+    "advice": "大根とキュウリを塩もみし水気を絞った後に一度味見をして、塩味の残り加減で後からふる塩を調節してください♪",
+    "history": "ハムがあまっていて、使いきりたかったので　笑",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム",
+        "大根",
+        "キュウリ",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1157222/100x141c/cad67aee82926021336a8c1e5a9cad12.jpg?u=1228553&p=1313648539"
+}

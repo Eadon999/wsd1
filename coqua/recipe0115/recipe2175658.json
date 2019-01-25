@@ -1,0 +1,51 @@
+{
+    "name": "お弁当にレンジだけ☆ウインナーコンソメ味",
+    "author": {
+        "@type": "Person",
+        "name": "aki-choco."
+    },
+    "image": "https://img.cpcdn.com/recipes/2175658/464x260/0888d63eac0bbd3f5baf73a483c3d3af.jpg?u=331770&p=1364875201",
+    "datePublished": "2013-04-02",
+    "description": "お弁当のおかずに♪レンジだけで簡単☆材料を変えてベーコンと長ネギもオススメ‼",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ウインナー",
+            "quantity": "2本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/3房"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ1/4弱"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ウインナーは3つぐらいに斜め切り。しめじは房を分けておく。",
+        "耐熱皿にウインナーとしめじを入れて、上からコンソメ顆粒とブラックペッパーをかける。",
+        "ラップをふんわりかけて電子レンジ600wで1分20秒。",
+        "加熱が終わったら味がなじむように少し混ぜて完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2175658",
+    "advice": "加熱後熱くなってるんでラップをはずす時、注意してください。",
+    "history": "楽にお弁当のおかずを作ろうと思って( *^艸^)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナー",
+        "しめじ",
+        "コンソメ顆粒",
+        "ブラックペッパー"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2175658/100x141c/0b51554f350d486b86adb4cc1400ddcd.jpg?u=331770&p=1364875201"
+}

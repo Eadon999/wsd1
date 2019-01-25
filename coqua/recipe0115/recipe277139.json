@@ -1,0 +1,51 @@
+{
+    "name": "ごぼうとじゃこのバター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "にわとりかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/277139/464x260/77646af7e6890e53eab6b9d792b2913b.jpg?u=205158&p=1263530920",
+    "datePublished": "2012-08-28",
+    "description": "野菜は基本的に嫌いな３男の好きなおかず。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "２本"
+        },
+        {
+            "name": "じゃこ",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうを良く洗い薄切りにして水にさらす。",
+        "フライパンにバターとサラダ油を入れ熱しじゃこをかりかりにし水を良く切ったごぼうを炒める。",
+        "焦げないように注意し、塩こしょうをして火が通ればできあがり。",
+        "分量はクックさんに指導を受けましたので記載いたしましたが、お好みの分量で作ってください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "277139",
+    "advice": "仕上げにお醤油たらりもたまりません。焦がさないようにね。",
+    "history": "本か雑誌を参考にしましたが、じゃこをしっかり炒めてカリカリにするのは我が家のオリジナルです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "じゃこ",
+        "バター",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/277139/100x141c/24d6e3abdba6f8f5f32370c3b8c48fbe.jpg?u=205158&p=1263530920"
+}

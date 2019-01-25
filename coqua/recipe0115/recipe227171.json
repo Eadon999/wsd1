@@ -1,0 +1,53 @@
+{
+    "name": "簡単☆ゆず大根",
+    "author": {
+        "@type": "Person",
+        "name": "ひろうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/227171/464x260/1af4834b69ead33198c496c8d6b9bdc3.jpg?u=67621&p=1214212416",
+    "datePublished": "2005-11-19",
+    "description": "ゆず風味のお漬け物。鍋物の箸休めにピッタリです♪　　　　（2007.1.9・画像を変えました）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "500ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "酢",
+            "quantity": "40ｃｃ"
+        },
+        {
+            "name": "ゆず",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は拍子切りに、ゆずは皮を千切りにして、実は半分に切っておく。",
+        "タッパに大根、千切りしたゆず、ゆずの絞り汁、塩、砂糖、酢を入れ、蓋をして軽くゆする。",
+        "半日くらい置いたらできあがり☆うち（大人２人＋子ども１人）では、３日くらいで食べきってしまいます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "227171",
+    "advice": "お好みで刻んだ鷹の爪を入れてもおいしいです。",
+    "history": "実家の冬の定番です。母は薄～い輪切りにしていましたが、私はこちらの方が噛みごたえがあって好きです。切るのも簡単だしね。(^^ゞ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの冷副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆず大根",
+        "ゆず大根 漬物"
+    ],
+    "tsukurepo_count": "125",
+    "thumbnail": "https://img.cpcdn.com/recipes/227171/100x141c/feb6f43b614d230570a1872f478b88a9.jpg?u=67621&p=1214212416"
+}

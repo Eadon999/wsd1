@@ -1,0 +1,58 @@
+{
+    "name": "牛肉とにんにくの芽の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "ＪＵＮＲＩＮ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1372115/464x260/9b9a16d960fc86270d288432d990389e.jpg?u=678962&p=1341829616",
+    "datePublished": "2011-02-25",
+    "description": "安価な材料で、このボリューム。おまけに簡単！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉切り落とし",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "にんにくの芽",
+            "quantity": "1束"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくの芽は、５cmくらいに切り、下茹でする",
+        "フライパンにサラダ油を入れ、牛肉を炒め、1を加える。",
+        "牛肉の色が、少し赤みが残る程度になったら、調味料を全て入れる。\n2～3分して、味が絡めばできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1372115",
+    "advice": "牛肉に火を通しすぎないようにね♪",
+    "history": "最近野菜が高いですが、いつも安価なにんにくの芽と牛肉の切り落としで、立派な主菜になりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉切り落とし",
+        "にんにくの芽",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1372115/100x141c/b2c0c79b3142476bd3b235ba4f85aea0.jpg?u=678962&p=1341829616"
+}

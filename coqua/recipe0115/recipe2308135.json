@@ -1,0 +1,63 @@
+{
+    "name": "ズッキーニとパプリカの焼マリネ",
+    "author": {
+        "@type": "Person",
+        "name": "damama"
+    },
+    "image": "https://img.cpcdn.com/recipes/2308135/464x260/cc6ba5ed99733ed048487d1fd266059b.jpg?u=5599131&p=1399865666",
+    "datePublished": "2013-08-07",
+    "description": "夏野菜で簡単カラフルマリネ！素焼きして香ばしさもプラス。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "赤パプリカ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "黄パプリカ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "刻みにんにく",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは縦半分に切ってから1センチくらいの厚さの半月切りに、パプリカは種を除いて一口大に切ります。",
+        "ズッキーニとパプリカをフライパンで油をひかずに素焼きします。その間にマリネ液の材料をよく混ぜておきます。",
+        "ズッキーニとパプリカにほどよく焼き目がついたら、マリネ液に和えてできあがり。少し寝かせると味がなじんで美味しいです。",
+        "にんにくは桃屋の「きざみにんにく」がお手頃で美味しくできるのでおすすめです！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2308135",
+    "advice": "",
+    "history": "夏野菜で彩りのよい副菜が作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "赤パプリカ",
+        "レモン汁",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2308135/100x141c/41dedc28c5b3c3e0b0a6940e90956db5.jpg?u=5599131&p=1399865666"
+}

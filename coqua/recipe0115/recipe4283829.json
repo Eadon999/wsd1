@@ -1,0 +1,82 @@
+{
+    "name": "洋風ポトフ☆豚バラ肉と白菜のトマト煮",
+    "author": {
+        "@type": "Person",
+        "name": "えうおに"
+    },
+    "image": "https://img.cpcdn.com/recipes/4283829/464x260/576337500ba6236993733cc9287714d8.jpg?u=11601959&p=1485945191",
+    "datePublished": "2017-01-13",
+    "description": "簡単・混ぜて煮込むだけの時短レシピです。温まります。17.2.18「白菜」カテゴリ掲載♪感謝です！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "400g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "野菜・きのこ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "トマト缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100ml"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "2袋（10g）"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "生姜",
+            "quantity": "チューブ5cm"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "チューブ5cm"
+        },
+        {
+            "name": "水",
+            "quantity": "200ml"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉、白菜は一口大に、野菜・きのこは適宜切る。",
+        "圧力鍋に白菜、豚バラ肉、野菜・きのこを順に入れ、トマト煮汁の材料を混ぜ入れる。\n強〜中火で加圧してから、5分加熱する。",
+        "圧力鍋が空いたら、器に盛って、粉チーズをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4283829",
+    "advice": "白菜から汁がたくさんしみ出るので、多いときは水を少なめにして煮てください。",
+    "history": "少し洋風なポトフを作りたくて、自分のレシピ「豚肉と大根の醤油煮」ID:4283603をアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉と白菜のトマト煮",
+        "白菜 洋風",
+        "豚バラ 洋風",
+        "白菜 豚肉 トマト缶"
+    ],
+    "tsukurepo_count": "0",
+    "thumbnail": "https://img.cpcdn.com/recipes/4283829/100x141c/4c506c8bcb94507e5f030005580857c9.jpg?u=11601959&p=1485945191"
+}

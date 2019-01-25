@@ -1,0 +1,48 @@
+{
+    "name": "たらこマヨ～な卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "いちはな"
+    },
+    "image": "https://img.cpcdn.com/recipes/598803/464x260/ce514024b7e6d46656f4a9b403d6acba.jpg?u=402032&p=1215133487",
+    "datePublished": "2008-06-25",
+    "description": "たらこ＆マヨで簡単にできちゃう美味しい卵焼きです♡ ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "２コ"
+        },
+        {
+            "name": "たらこ",
+            "quantity": "１腹"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たまごとたらことマヨを入れて混ぜる。",
+        "フライパンに油を熱し数回に分けてフライパンに流しいれ巻く。",
+        "出来上がったら刻み海苔をかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "598803",
+    "advice": "たらこは丁寧にかわ？からはがしてマヨと混ぜ合わせてください✿ฺ",
+    "history": "私が一人暮らしをしてたときの大好きな朝の卵焼きです♡ ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉子焼き たらこマヨ",
+        "たらこ 卵焼き"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/598803/100x141c/73b586def6d040d09a3ab67205145909.jpg?u=402032&p=1215133487"
+}

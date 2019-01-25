@@ -1,0 +1,73 @@
+{
+    "name": "超簡単ソーセージ＆キノコリゾット",
+    "author": {
+        "@type": "Person",
+        "name": "ayaka"
+    },
+    "image": "https://img.cpcdn.com/recipes/203950/464x260/e42145d543a85109fc54b605d4b91c96.jpg?u=31091&p=1214212004",
+    "datePublished": "2005-06-21",
+    "description": "洋風おじや第２弾。お昼に冷蔵庫にある物で作ってみました。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯分"
+        },
+        {
+            "name": "水",
+            "quantity": "１と１／２～２カップ"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "３本"
+        },
+        {
+            "name": "シメジ",
+            "quantity": "１／３パック"
+        },
+        {
+            "name": "コンソメの素",
+            "quantity": "１個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少し"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "パセリ（あれば）",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れ、沸かします。",
+        "沸いたらコンソメの素を砕き入れて溶かし、酒・半分に切ったソーセージ・小房に分けたシメジを入れ、ご飯も入れます。",
+        "ご飯に味が染みてきたら粉チーズ・ピザ用チーズを加え、塩、コショウで味を調え、器に盛りつけます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "203950",
+    "advice": "粉チーズ、ピザ用チーズはお好みで。どっちかを入れなくてもいいです。私はくどいのが食べたくて両方入れました。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット",
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥",
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナーリゾット"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/203950/100x141c/5e1884f66775373fba2e9f1a328d8f28.jpg?u=31091&p=1214212004"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "手羽元のパイン缶煮～",
+    "author": {
+        "@type": "Person",
+        "name": "なおざくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/271229/464x260/80c98183ff887e5cf7a8bc1a258f4727.jpg?u=50249&p=1214213403",
+    "datePublished": "2006-08-02",
+    "description": "すごい簡単なのに美味しいです。子供もすき。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "6～8本"
+        },
+        {
+            "name": "パイン缶の汁",
+            "quantity": "大1缶分"
+        },
+        {
+            "name": "パイン",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "インゲン",
+            "quantity": "5本くらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ5（味見次第で追加）"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンは茹でておく。パインは適当な大きさに切り、インゲン以外のすべての材料＆調味料を鍋に入れて煮立たせる。",
+        "煮立ったら、フタをし、弱火でグツグツ煮込む。",
+        "汁気が少しになったら、汁を味見して醤油で再度調整する。 その時にインゲンを入れて下さい。"
+    ],
+    "cookTime": null,
+    "recipe_id": "271229",
+    "advice": "インゲンは味を調整する時に入れて下さい。煮込みの最初から入れると色が悪くなります。",
+    "history": "パイン煮の簡単バージョン！色んな調味料を入れるより、この方が美味しいので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽",
+        "その他/おもてなし料理/大皿・メイン料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元 パイナップル",
+        "手羽元 パイン缶"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/271229/100x141c/0462ad0abf92d8b791c52ca81a385797.jpg?u=50249&p=1214213403"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "簡単 和食！ 牛肉と 大根 人参の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "331ミミイ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3257480/464x260/8d3ea2df52ed31be06529bcec858e660.jpg?u=6370399&p=1435147152",
+    "datePublished": "2015-06-27",
+    "description": "大根と人参、牛肉の、簡単な煮物です＊°.ささっと出来る、和食のおかずに(＾∀＾)",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "牛薄切り肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "大根",
+            "quantity": "10cm"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "水",
+            "quantity": "3カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "3袋(12g)"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は厚さ1cmの、いちょう切りにする。",
+        "人参は乱切りにする。",
+        "鍋に水と調味料を入れて、火にかけ、沸騰したら、野菜を入れる。",
+        "再び沸騰したら、牛肉を入れる。",
+        "沸騰させて、灰汁が出るようなら、捨ててから、弱火で15分煮る。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3257480",
+    "advice": "肉を入れて沸騰させ、灰汁が出るようなら捨ててから弱火にして下さい。煮てから鍋のまま暫くおくと、味が染みて、より美味しいです(^^)写真は、小ネギをかけました！",
+    "history": "大根と、牛肉を使いたかっので(*^^*)和風の煮物にしました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 人参牛肉",
+        "和食 おかず 簡単",
+        "大根 牛肉 煮物 簡単"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3257480/100x141c/ba7d0f0faa63f0cdbe582a4a27505c6e.jpg?u=6370399&p=1435147152"
+}

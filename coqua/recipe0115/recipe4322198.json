@@ -1,0 +1,50 @@
+{
+    "name": "豆腐とわかめのさっと煮",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4322198/464x260/ed3a9dedfbe35d5b99b1ed97f7e409e7.jpg?u=10053239&p=1485812500",
+    "datePublished": "2017-01-31",
+    "description": "お豆腐とわかめが温まれば完成の優しい一品！土鍋で出せば手間も省けます。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(絹でも木綿でも)",
+            "quantity": "１丁"
+        },
+        {
+            "name": "わかめ（戻したもの）",
+            "quantity": "１００g"
+        },
+        {
+            "name": "水",
+            "quantity": "２００cc"
+        },
+        {
+            "name": "麺つゆ(2倍濃縮)",
+            "quantity": "６０ｃｃ"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "小袋１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋か土鍋に分量の水と麵つゆ、食べ易く切った豆腐、わかめを入れて、沸騰したら火を中火にし、３～４分位煮る。",
+        "出来上がったら、かつお節をかけて、ひと煮して出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4322198",
+    "advice": "麺つゆの量は、好みで調整して下さい。",
+    "history": "とっさの一品です。夕飯の時におかずが足りないでも脂っこいものは嫌だし、簡単がいいと思い作ったものです。材料は有り合わせです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 土鍋"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4322198/100x141c/b2a03520eebc0647528d5498aab5f316.jpg?u=10053239&p=1485812500"
+}

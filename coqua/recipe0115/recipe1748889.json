@@ -1,0 +1,62 @@
+{
+    "name": "フライパンで作る!!揚げないメンチカツ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1748889/464x260/3f3679a7d7ec2c7f915fce318bc07304.jpg?u=603745&p=1447734538",
+    "datePublished": "2012-03-22",
+    "description": "揚げずに焼いてカロリーオフ♪油はちょっとでいいから洗い物も楽チン!!お弁当のおかずにも♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "挽き肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/４"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "衣分"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "衣分"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ２程度"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個＋衣分"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを粗めのみじん切りにします。",
+        "ボウルに挽き肉とキャベツ、塩コショウ、卵を入れて良く混ぜます。",
+        "形を成形したら小麦粉→卵→パン粉で衣を付けます。",
+        "少量の油を敷いたフライパンで火が通るまで焼きます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1748889",
+    "advice": "油を使いたくない場合は魚焼きグリルやオーブントースターで焼いても美味しいです♪",
+    "history": "油で揚げずに作って見ました。",
+    "categories": [
+        "今日のご飯・おかず/コロッケ・メンチカツ/メンチカツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "メンチカツ 揚げない",
+        "メンチカツ 揚げない フライパン",
+        "メンチカツ キャベツ 揚げない"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1748889/100x141c/f278b2c166afe573c3d9004c5a5ecf79.jpg?u=603745&p=1447734538"
+}

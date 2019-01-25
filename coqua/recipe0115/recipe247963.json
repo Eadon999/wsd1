@@ -1,0 +1,53 @@
+{
+    "name": "水菜とちくわの洋風きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/247963/464x260/edddd557c9d97e37f81e527e2adf0799.jpg?u=54489&p=1214212854",
+    "datePublished": "2006-04-09",
+    "description": "ケチャップきんぴらは定番！ご飯がすすむ一品です （･∀･）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "２～３株"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１～２本"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "Ａ",
+            "quantity": "（ケチャップ大さじ１＆１/２、醤油小さじ１、酒小さじ１）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "４～５ｃｍ幅に切った水菜と斜め切りにしたちくわをごま油で炒め、Ａで調味し、溶き卵を加えてサッと炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "247963",
+    "advice": "この味つけ、お好みのあり合せの素材で試してみてください。",
+    "history": "随分前にあり合せで作った料理です。美味しかったので掲載☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "ちくわ",
+        "卵",
+        "ごま油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/247963/100x141c/04130365a7d3ed792926cbfddaaa5c42.jpg?u=54489&p=1214212854"
+}

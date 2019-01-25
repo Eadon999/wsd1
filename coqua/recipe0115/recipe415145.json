@@ -1,0 +1,63 @@
+{
+    "name": "栄養満点♪卵だれそうめん",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/415145/464x260/c635813f7e8cb1e9f2ab9a9181eb680b.jpg?u=252604&p=1214216928",
+    "datePublished": "2007-08-08",
+    "description": "生卵で割っためんつゆで、つるっといただきます。お好きな薬味で。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "めんつゆ（3倍濃縮）",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "そうめん",
+            "quantity": "100ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "溶きほぐした生卵にめんつゆを適量加えます。ゴマ油を加えてよく混ぜ、つけだれ1人分を作っておきます。",
+        "きゅうりをスライサーで千切りにします。万能ねぎは、小口切りにします。",
+        "そうめんを茹で、水洗いしてから、水気を切り、器に盛り付けます。",
+        "きゅうり、ねぎ、白ゴマを加えた卵だれにつけていただきます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "415145",
+    "advice": "薬味は、大葉や海苔、みょうがなどお好みで♪きゅうりをスライサーで切ると、しんなりして食べやすいです。ゴマ油で香りづけするのがポイントです。",
+    "history": "めんつゆを水で割るかわりに、生卵で割って栄養満点にしました。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "めんつゆ",
+        "ゴマ油",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/415145/100x141c/9bee3176f159e4ff5c7a290da9f8e12b.jpg?u=252604&p=1214216928"
+}

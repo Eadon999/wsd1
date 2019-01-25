@@ -1,0 +1,57 @@
+{
+    "name": "ご馳走♪ほうれん草",
+    "author": {
+        "@type": "Person",
+        "name": "gracias05"
+    },
+    "image": "https://img.cpcdn.com/recipes/2873827/464x260/e018f0c1219d2abf741d91636045032e.jpg?u=4823763&p=1423567833",
+    "datePublished": "2014-11-08",
+    "description": "2016・12月人気検索入り有難う！いつもは控えめなほうれん草を今夜は主役に！美味しくヘルシーな仕上がりです♡",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "牛肉切り落とし（有れば赤身）",
+            "quantity": "150g"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大匙　１～２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "●ごま",
+            "quantity": "大匙　１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小匙　１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は食べやすい長さにカットして、茹でて水に取ったら絞っておきます",
+        "牛肉も沸騰したお湯にほぐしながら入れ、茹でてザルに取っておきます",
+        "ボールに●の調味料を合わせておきます",
+        "調味料の中にほうれん草と牛肉を入れて和えれば出来上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "2873827",
+    "advice": "味の引き締めにお酢を忘れずに入れてね！",
+    "history": "牛肉を和風で食べたくて・・・。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉切り落とし ほうれん草",
+        "ごちそう 人気"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2873827/100x141c/af31657d9add49f8cbb899701a4d18b3.jpg?u=4823763&p=1423567833"
+}

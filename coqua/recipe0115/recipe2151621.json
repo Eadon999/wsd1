@@ -1,0 +1,51 @@
+{
+    "name": "☸我が家の大根の味噌汁☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2151621/464x260/59a3f37095dada162048506fb757a133.jpg?u=4672105&p=1418634645",
+    "datePublished": "2013-03-13",
+    "description": "１４．０９．２９．話題入り感謝♪何の変哲もないけれど、家族から愛されているロングセラーのお味噌汁です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "８００ｍｌ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２～"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は千切り、油揚げは縦に切ってから細めの短冊切り。",
+        "鍋にだし汁と大根を入れて、大根が柔らかくなるまで煮、油揚げを加える。",
+        "好みの濃さで味噌を溶く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2151621",
+    "advice": "大根の千切りは多少太くても気にしないでね。",
+    "history": "昔からちょこ兄の大好物。ご飯にかけて食べていました(犬じゃないよ。)",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "油揚げ",
+        "だし汁",
+        "味噌"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2151621/100x141c/63b9d7f44774c3f2b475d6eab28fd074.jpg?u=4672105&p=1418634645"
+}

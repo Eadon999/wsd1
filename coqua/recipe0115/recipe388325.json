@@ -1,0 +1,63 @@
+{
+    "name": "簡単トマトと大根のひんやりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/388325/464x260/a808299d4b86c0aff76efd8563d89752.jpg?u=356251&p=1214216371",
+    "datePublished": "2007-06-13",
+    "description": "冷た～いサラダでサッパリと♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "大根",
+            "quantity": "５ｃｍくらい"
+        },
+        {
+            "name": "大葉orバジル",
+            "quantity": "５枚～"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "ニンニク（摩り下ろし）",
+            "quantity": "１/２かけ～"
+        },
+        {
+            "name": "ごま油orオリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは薄切りにして冷蔵庫で冷やしておく。",
+        "大根は細めの短冊に切り塩を振っておく。大葉は千切りにし水に放す。（バジルは手でちぎる）",
+        "大根、大葉（バジル）の水分をキッチンペーパーで絞りながら取り袋に入れる。大葉と大根が絡む位の醤油、、ニンニクを入れ冷蔵庫に３０分以上、入れておく。",
+        "１のトマトの上に大根、大葉を乗せ、漬け汁、ごま油（オリーブオイル）を上から回し掛けゴマを振る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "388325",
+    "advice": "３の行程でワカメ、海苔を加えても美味しい。醤油は少し多めぐらいがお勧め♪",
+    "history": "大根の即席漬けを彩りよくしました　＾＾",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "大根",
+        "醤油",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/388325/100x141c/fd3a9c233bf86af14b3cc23699b338ae.jpg?u=356251&p=1214216371"
+}

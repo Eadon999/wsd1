@@ -1,0 +1,56 @@
+{
+    "name": "小松菜とさつま揚げの煮物♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2677833/464x260/42a6953fb6c81a3fb930aa7b68deac7e.jpg?u=9552524&p=1403225571",
+    "datePublished": "2014-06-20",
+    "description": "お出汁が染みた小松菜が美味しい～♡ほっとする味の簡単煮物です(^^♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１/２束"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はサッと塩茹でし４㎝長さに切って水気ギュッとを絞る。さつま揚げは大きい物は食べやすい大きさに切る。",
+        "鍋に★を煮立てさつま揚げを加え再度煮立ったら１～２分煮て小松菜を加えて１分煮ます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2677833",
+    "advice": "小松菜は下茹でする時はシャキシャキに仕上がるようにサッと茹で、水気をぎゅっと絞ってね♪",
+    "history": "簡単なので何か１品ほしいな～って時によく作ります(^^♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 さつま揚げ",
+        "小松菜 さつま揚げ 煮物"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2677833/100x141c/b30406c5c0f1bb9f2fba53bcf0259bdb.jpg?u=9552524&p=1403225571"
+}

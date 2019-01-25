@@ -1,0 +1,58 @@
+{
+    "name": "豚こま♪カレーポークピカタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/864567/464x260/bc4b815e88cc7301c6c34ad769943b7d.jpg?u=239563&p=1296472995",
+    "datePublished": "2009-07-13",
+    "description": "豚こま肉を使ったカレー風味のポークピカタ♪お財布にやさしい簡単レシピです。お弁当にも♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ　２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "たまご",
+            "quantity": "２個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ　２"
+        },
+        {
+            "name": "めんつゆ（３倍濃縮）",
+            "quantity": "小さじ　１"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を塩コショウ、カレー粉をまぶしよく揉み込む。たまごを溶く。",
+        "溶きたまご、小麦粉、めんつゆを加え混ぜ合わせたものに①の豚肉を加える。",
+        "フライパンにサラダ油を熱し、②をお好みの大きさで火が通るまで両面を焼いたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "864567",
+    "advice": "塩コショウはしっかりと。お肉は厚さを薄めにして焼いた方が早く火が通ります。しっかり味がつくので、そのままで食べられます。",
+    "history": "安い豚こま肉をボリュームアップさせてお弁当にもちょうどいいレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま肉",
+        "カレー粉",
+        "塩コショウ",
+        "たまご"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/864567/100x141c/9083573cf6f021b9f7f254926aa8b2e4.jpg?u=239563&p=1296472995"
+}

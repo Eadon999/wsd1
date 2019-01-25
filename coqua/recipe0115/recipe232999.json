@@ -1,0 +1,51 @@
+{
+    "name": "ひらめの昆布締め",
+    "author": {
+        "@type": "Person",
+        "name": "ぼのつま"
+    },
+    "image": "https://img.cpcdn.com/recipes/232999/464x260/07936ef45e12962f3421b86179799316.jpg?u=2660&p=1214212548",
+    "datePublished": "2006-01-04",
+    "description": "うちのおせちの定番です。三が日の終わりに、べっこう色になったのをご飯にのせて、熱いだし汁をかけたお茶漬けは絶品です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ひらめの刺身",
+            "quantity": "２さく"
+        },
+        {
+            "name": "昆布",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ひらめに軽く塩を振ってしばらく置く。\n\n",
+        "昆布は巾の広いものを選び、酒で湿らせたキッチンペーパーでたたくようにして湿らせる。",
+        "ひらめを昆布２枚の間にはさむ。全体をラップでくるみ。２ヶ所くらいかるく紐で縛って、冷蔵庫に入れる。\n\n",
+        "締め方はお好みで、数時間、一晩、２,３日など。\r\nそれぞれおいしいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "232999",
+    "advice": "切ってあるお刺身を使う時は、締める時間を短めに。",
+    "history": "実家のおせちの定番です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/平目"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "平目 昆布締め",
+        "ヒラメの昆布締め",
+        "平目 茶漬け",
+        "昆布締め おせち"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/232999/100x141c/16160e3ab13ca314b38f324d25af5aba.jpg?u=2660&p=1214212548"
+}

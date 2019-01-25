@@ -1,0 +1,71 @@
+{
+    "name": "☆じじちゃんの鶏めん☆",
+    "author": {
+        "@type": "Person",
+        "name": "ふたごっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/303660/464x260/a0cacdbc689649bc995c52608690a429.jpg?u=330642&p=1214214133",
+    "datePublished": "2006-11-22",
+    "description": "鶏のダシがきいてるあったま～るにゅうめんです♪",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "１５０グラム"
+        },
+        {
+            "name": "鶏もも",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "干し椎茸",
+            "quantity": "３枚"
+        },
+        {
+            "name": "長ネギ（青い部分）",
+            "quantity": "少々"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "５カップ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ１と１／２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんを茹でる。鶏ももは小さく切る。干し椎茸は戻してから薄切りに。青ネギは刻む。",
+        "鍋にだし汁をあたためて、沸騰してきたら鶏ももと椎茸を入れる。アクを取り☆の調味料を入れる。",
+        "お椀にそうめんを入れて汁を注いで青ネギを散らして出来上がり♪",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "303660",
+    "advice": "",
+    "history": "父の得意料理です♪にゅうめんだけど『鶏めん』と呼んでいました。他の家でもそう言いますか？",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/にゅうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とりめん",
+        "鶏麺",
+        "干し椎茸 にゅうめん"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/303660/100x141c/112f9d87f679ca218fbf53ac06f0c85f.jpg?u=330642&p=1214214133"
+}

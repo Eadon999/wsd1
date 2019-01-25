@@ -1,0 +1,69 @@
+{
+    "name": "鮭のムニエルガーリックソース",
+    "author": {
+        "@type": "Person",
+        "name": "alohafork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1251246/464x260/ecf5f4d583d42b4d080ab8cc8599f9f6.jpg?u=2122688&p=1286279271",
+    "datePublished": "2010-10-05",
+    "description": "にんにくが効いてます♪レモンでさっぱり感も♪ご飯によく合います☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭の切り身",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "２かけ（細かくみじん切り）"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭の切り身に塩コショウをふりかけ、小麦粉をまぶす。",
+        "フライパンにオリーブオイルを熱し、鮭をこんがりと焼く。中まで火が通らない大きさなら蓋をして軽く蒸し焼きにする。",
+        "火が通ったら鮭を取り出し、そのままのフライパンにバター、にんにくを入れ、弱火で香りを出す。",
+        "にんにくの香りが出てきたら、醤油、レモン汁を入れてひと煮立ちさせる。",
+        "鮭の上から４のソースをかければ完成！",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1251246",
+    "advice": "",
+    "history": "にんにくが大好きなので♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭の切り身",
+        "塩コショウ",
+        "小麦粉",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/1251246/100x141c/14a3376c5bcd86a9b6ec4eb621047bb7.jpg?u=2122688&p=1286279271"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "納豆ひき肉そぼろ",
+    "author": {
+        "@type": "Person",
+        "name": "madamekaiu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1476962/464x260/4e260acd95df72ee0cee87157574499d.jpg?u=2303261&p=1308659678",
+    "datePublished": "2011-06-21",
+    "description": "ひきわり納豆とひき肉でつくる簡単常備菜。お弁当に使い回すので味付けもシンプルに。",
+    "recipeYield": "４〜５人分",
+    "recipeIngredient": [
+        {
+            "name": "ひきわり納豆",
+            "quantity": "３パック"
+        },
+        {
+            "name": "牛ひき肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "サラダ油を熱し、ひき肉を炒める。ぽろぽろになったら納豆と豆板醤を加え、炒める。",
+        "納豆の添付のたれと、砂糖、しょうゆを加えて味付けする。火を止めて青ネギを混ぜ込む。",
+        "レタスに包んだり、ごはんにのせていただきます。キムチと一緒に食べてもおいしい。",
+        "2015.12.14⭐︎話題入りありがとうございます⭐︎"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1476962",
+    "advice": "お弁当にはオムレツ（レシピID :1476980）にするのがおすすめです。",
+    "history": "納豆好きの子どもたちのために作りました。お弁当にも使い回します。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/牛挽き肉",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆ひき肉そぼろ",
+        "納豆 そぼろ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/1476962/100x141c/0a3f8d25017afd7ad332139baf228bb7.jpg?u=2303261&p=1308659678"
+}

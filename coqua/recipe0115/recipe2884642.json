@@ -1,0 +1,53 @@
+{
+    "name": "☆白菜と油揚げの味噌汁☆",
+    "author": {
+        "@type": "Person",
+        "name": "☆笑くぼ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2884642/464x260/2408ff4003a1f0df139a9dd4885151f9.jpg?u=10265366&p=1415966627",
+    "datePublished": "2014-11-14",
+    "description": "冬になると食べたくなる味噌汁♡白菜をたっぷり食べれてあったまる♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "４枚(お好きな量)"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "800cc"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁を沸騰させる。私は本だしと昆布を使っています。みなさんのお好きなだし汁で作ってください。",
+        "白菜と油揚げを食べやすい大きさに切る。",
+        "沸騰しただし汁の中に白菜と油揚げを入れて、柔らかくなるまで煮る。",
+        "味噌をとく。",
+        "一煮立ちさせて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2884642",
+    "advice": "特にありません(^^)",
+    "history": " 冬になるとたくさん野菜を頂くので、いろんな食べ方でたくさん食べたいなぁと思います。昔から食べている味噌汁♡",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "白菜油揚げ 7位"
+    ],
+    "related_keywords": [
+        "白菜 みそ汁",
+        "白菜　味噌汁　油揚げ",
+        "白菜の味噌汁"
+    ],
+    "tsukurepo_count": "103",
+    "thumbnail": "https://img.cpcdn.com/recipes/2884642/100x141c/1c9333e0db7b045def1dbda308eab472.jpg?u=10265366&p=1415966627"
+}

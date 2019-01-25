@@ -1,0 +1,80 @@
+{
+    "name": "チンゲンサイと豚の塩ダレ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "okiruko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1623257/464x260/f14ce78b20c6bd885eb3a8c5060eda0c.jpg?u=881149&p=1320835269",
+    "datePublished": "2011-11-09",
+    "description": "簡単にできて美味しいおかずです♪チンゲンサイは強火でシャキッと感がグッドです☆",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚スライス肉（今回は肩）３ｃｍ幅にカット",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "チンゲンサイ",
+            "quantity": "３株"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "●中華の素顆粒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲンサイは２～３ｃｍ幅にカット。●の調味料を混ぜ合わせておく。",
+        "油とにんにくを熱したフライパンに豚肉を入れ、塩コショウをしながら中火で火を通す。",
+        "豚肉の色が９割変わってきたら、強火にし、チンゲンサイの芯から炒め次に葉も入れる。",
+        "混ぜ合わせておいた●の調味料を入れ、全体に絡める。",
+        "具をお皿にとり、残った汁に水溶き片栗粉でとろみをつけ、具の上からかけて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1623257",
+    "advice": "４で片栗粉を入れるより、５の残った汁でとろみをつけた方が水っぽくなりにくいです。",
+    "history": "パパッと作れるレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲンサイ",
+        "にんにく",
+        "水",
+        "醤油"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1623257/100x141c/8ddbdaa0d4981708104e8355c2729812.jpg?u=881149&p=1320835269"
+}

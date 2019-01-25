@@ -1,0 +1,59 @@
+{
+    "name": "モロヘイヤスープ",
+    "author": {
+        "@type": "Person",
+        "name": "motchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/623550/464x260/064790c2a840f2ff57258f6bb82f0664.jpg?u=452329&p=1247141420",
+    "datePublished": "2008-08-05",
+    "description": "クレオパトラも好んで食べていたというモロヘイヤです☆体に良いので是非どうぞ☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "モロヘイヤ",
+            "quantity": "一束"
+        },
+        {
+            "name": "豆腐（絹ごし・木綿お好みで）",
+            "quantity": "半丁"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "とりガラスープの素",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "酒・醤油",
+            "quantity": "各小さじ１"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "モロヘイヤは葉を摘み下ゆでする。→細かく刻む。（水気を絞る）",
+        "水・とりガラスープの素・酒・醤油をひと煮立ちさせ、モロヘイヤを突入！",
+        "塩・胡椒で味を整え豆腐を突入！\r\nひと煮立ちさせて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "623550",
+    "advice": "豆腐以外でお好きな食材を入れても良いと思います。 スープの素もお好みのものを使用してください。",
+    "history": "体に良いので・・・。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/モロヘイヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モロヘイヤ",
+        "豆腐",
+        "水",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/623550/100x141c/f224535d999af57d98a78bafb1b7ba79.jpg?u=452329&p=1247141420"
+}

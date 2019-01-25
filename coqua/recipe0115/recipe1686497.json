@@ -1,0 +1,52 @@
+{
+    "name": "たくさん食べられる『温キャベツサラダ』♬",
+    "author": {
+        "@type": "Person",
+        "name": "つちかな"
+    },
+    "image": "https://img.cpcdn.com/recipes/1686497/464x260/4699da2545f9f39e0facc4ef4cd5480d.jpg?u=3167869&p=1327581210",
+    "datePublished": "2012-01-26",
+    "description": "沢山キャベツが食べられる一品。味付けもシンプルなのでキャベツの甘みが楽しめるよ♬ダイエットにもグ～！！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "3枚"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "粗びき黒コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは厚めの千切りにする。\nベーコンは幅5㎜くらいに切る。",
+        "鍋にキャベツとベーコンを入れて弱火にかける。途中混ぜて下さい。（水は不要です。）",
+        "全体に火が通ったら塩、コショウで味を調節し、粗びき黒コショウとパルメザンチーズを振り、混ぜ合わせて完成。",
+        "2012.3.29\n100人話題入り\nありがとうございます！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1686497",
+    "advice": "",
+    "history": "我が家のキャベツの消費に活躍美味しいレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温キャベツ"
+    ],
+    "tsukurepo_count": "257",
+    "thumbnail": "https://img.cpcdn.com/recipes/1686497/100x141c/74c8fd1d45dbda6d28f6b6ab142f0bc0.jpg?u=3167869&p=1327581210"
+}

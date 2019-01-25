@@ -1,0 +1,59 @@
+{
+    "name": "からだぽかぽか！焼きねぎと生姜のスープ",
+    "author": {
+        "@type": "Person",
+        "name": "スタイリッシュママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1691072/464x260/a45b91e967e401a9ee0b488cccbc9d42.jpg?u=3674035&p=1489268395",
+    "datePublished": "2012-01-31",
+    "description": "生姜とねぎの組み合わせが血行を良くして、からだぽかぽか♪具はねぎと生姜だけのシンプルなスープでおいしく風邪予防！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "生姜（千切り）",
+            "quantity": "１片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ウェイパァー（中華スープの素）",
+            "quantity": "小さじ１．５"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは５㎝、生姜は千切りにする。",
+        "鍋にごま油を熱し、長ネギをいれ、こんがり焼き色を付ける。\n",
+        "生姜も入れ、さっと炒め、水、ウエイパーを加える。長ネギが柔らかくなったら、塩、こしょうで味を整えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1691072",
+    "advice": "油がはねやすいので、ねぎを焼くときは、くれぐれも気を付けてくださいね！",
+    "history": "生姜が好きなので・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ",
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長ネギ",
+        "生姜",
+        "ごま油",
+        "ウェイパァー"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1691072/100x141c/b998b9bae2eb8e7b3c2aa24e7d47e014.jpg?u=3674035&p=1489268395"
+}

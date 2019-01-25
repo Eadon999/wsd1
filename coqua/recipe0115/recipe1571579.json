@@ -1,0 +1,76 @@
+{
+    "name": "生マグロのユッケ丼",
+    "author": {
+        "@type": "Person",
+        "name": "Himi♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1571579/464x260/4bf7cbaa4aedf959a82099e24efc740d.jpg?u=2523795&p=1316071757",
+    "datePublished": "2011-09-15",
+    "description": "マグロをユッケ風にしてご飯に盛るとかなり食べれます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "生マグロ",
+            "quantity": "約200ｇ"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "2個"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２杯分"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "✰しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "✰コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "✰砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "✰酒",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "✰ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "✰おろしにんにく",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "マグロを一口大に切る。",
+        "✰の調味料をすべて混ぜ合わせ、１のマグロを入れて和える。",
+        "丼にご飯を盛り、刻みのりを敷いて２のマグロのユッケをのせる。",
+        "最後に卵黄を真ん中に乗せてゴマを振りかければ出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1571579",
+    "advice": "マグロは赤身で作るとおいしいです。",
+    "history": "美味しい生まぐろをユッケで食べたらおいしかったので丼にしました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生マグロ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1571579/100x141c/6872afb6d5cbadb37c33de5750683877.jpg?u=2523795&p=1316071757"
+}

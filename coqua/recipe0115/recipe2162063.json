@@ -1,0 +1,63 @@
+{
+    "name": "わかめと玉ねぎの中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2162063/464x260/91156786e866781a6a7610305e100eee.jpg?u=3671213&p=1363864045",
+    "datePublished": "2013-03-21",
+    "description": "パパっとできる中華スープだよ♪なんちゅうか～実に簡単っちゅうか～ｗ(∈＾∇゜)ｷﾗｯ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "★ウェイパー(中華だし)",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "少量"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥わかめは水で戻し、玉ねぎは薄切りに。",
+        "６００ｃｃの水に玉ねぎを入れ、煮えたら、わかめと★を加え、水溶き片栗粉でとろみをつけて出来上がり～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2162063",
+    "advice": "とろみはつけても、つけなくても♪その日の気分で～☆(＾ｖ＾)",
+    "history": "中華な夕食のお供に♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中華スープ わかめ",
+        "玉ねぎ 中華スープ"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/2162063/100x141c/0be997e7aeaaf6af230ad3d3a39da573.jpg?u=3671213&p=1363864045"
+}

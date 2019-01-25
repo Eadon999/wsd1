@@ -1,0 +1,52 @@
+{
+    "name": "煮物リメイク♪変身～！カボチャのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "tomimo"
+    },
+    "image": "https://img.cpcdn.com/recipes/271313/464x260/a712426615f7cf0915152c0f88c65975.jpg?u=66622&p=1214213404",
+    "datePublished": "2006-08-03",
+    "description": "カボチャの煮物を作った翌日、余った煮物を使ってカボチャサラダにリメイク♪ウチの定番リメイク法です（^ ^）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カボチャの煮物",
+            "quantity": "適量"
+        },
+        {
+            "name": "お好み野菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "ハム等",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "お好み"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャの煮物は、カボチャだけを取り出し、汁は使わない。",
+        "ボールにカボチャを入れ、フォークで適当に潰し、お好みの野菜やハム、調味料で味付けして出来上がり。",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "271313",
+    "advice": "コツはありません。煮物自体に味があるのでマヨネーズの量が少なくて済むと思います。",
+    "history": "カボチャの煮物を沢山作った翌日、何気なく作ってみたら普通に美味しかったので、我が家の定番になりました♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ 煮物 リメイク サラダ",
+        "かぼちゃ 煮物 リメイク"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/271313/100x141c/2b4505bcc1c002d3d2e0555d0f95b087.jpg?u=66622&p=1214213404"
+}

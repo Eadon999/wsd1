@@ -1,0 +1,60 @@
+{
+    "name": "具だくさん♡キャベツと卵のやさしいスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ぽっぽっぽ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1524314/464x260/302d88142b7c744dba7cd7cb3bf9cf0c.jpg?u=3155632&p=1313492839",
+    "datePublished": "2011-08-16",
+    "description": "材料3つでとっても簡単☆キャベツたっぷりでやさしいコンソメ味のスープです(*^。^*)",
+    "recipeYield": "5人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "水",
+            "quantity": "1L"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "3個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは細切り、キャベツはざく切りにする。",
+        "鍋に水を入れ、沸騰させ、1を入れる。",
+        "野菜を柔らかくしている間に卵を溶いておく。",
+        "2の野菜が柔らかくなってきたら、コンソメを加え、さらに塩胡椒で味を整える。",
+        "お椀に注いで出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1524314",
+    "advice": "※味の濃さは塩胡椒で調節してください。",
+    "history": "キャベツをたくさん食べたくてスープにしました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "玉ねぎ",
+        "卵",
+        "固形コンソメ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1524314/100x141c/0844d4845af7f7bc39f565e3ce2e4552.jpg?u=3155632&p=1313492839"
+}

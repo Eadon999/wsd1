@@ -1,0 +1,58 @@
+{
+    "name": "フレッシュ☆トマトのサルサ",
+    "author": {
+        "@type": "Person",
+        "name": "せつぶんひじき"
+    },
+    "image": "https://img.cpcdn.com/recipes/170300/464x260/fa5a07fc75fa2ab226a53ae8f3e667b5.jpg?u=57172&p=1413685909",
+    "datePublished": "2004-11-19",
+    "description": "刻んで混ぜるだけ。メキシコ料理の大定番です。トルティーヤチップスと一緒にどうぞ。冷たいアルコールもお忘れなく！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "２００ｇ（大きめ１個）"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "５０ｇ（小さめ１／４個）"
+        },
+        {
+            "name": "パクチー",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "ライム汁（またはレモン汁）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ３／４"
+        },
+        {
+            "name": "白コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは皮をむき、種をざっと取り除いて１センチ角。玉ねぎはみじん切り、パクチーは葉を粗みじんに刻む。",
+        "全ての材料を混ぜあわせる。\n\nすぐでも良いですが、30分ほどおくと味が馴染んで◎。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "170300",
+    "advice": "ぼやけた味にならないよう、塩をきかせて。好みでオリーブオイルを少したらしても。",
+    "history": "分量は適当で良いのですが、レシピにする以上量りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "その他/おもてなし料理/夏！おもてなし料理"
+    ],
+    "rankings": [
+        "サルサソース 6位"
+    ],
+    "related_keywords": [
+        "サルサソース",
+        "サルサ トマト"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/170300/100x141c/288d5d66120fbc21b7aff3b6cb8fe099.jpg?u=57172&p=1413685909"
+}

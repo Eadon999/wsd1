@@ -1,0 +1,63 @@
+{
+    "name": "はまちの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "matoキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2205773/464x260/c7b860a7ad0e9eabccc56a4f8e534955.jpg?u=6697946&p=1367114397",
+    "datePublished": "2013-04-28",
+    "description": "お刺身用の柵の照り焼きです。骨も皮もないので丸ごと食べられます",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "はまち",
+            "quantity": "１柵"
+        },
+        {
+            "name": "塩",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はまちに、塩を振り、しばらく置いておく。",
+        "はまちの両面に、小麦粉をまぶす。",
+        "フライパンに油をひき、はまちをこんがり焼く。（裏返したらふたをして蒸し焼きに。）",
+        "こんがり焼けたら、火を弱め、フライパンの温度を下げてから、合わせ調味料を加える。",
+        "スプーンで煮汁をかけながら、煮詰める。最後は強火にして、煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2205773",
+    "advice": "フライパンがあつあつのまま調味料を入れると、ばちばちするので、火を弱めてから入れます。",
+    "history": "よく、天然ハマチの柵が売っているので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はまち 照り焼き",
+        "はまち　さく",
+        "はまち 照り焼き フライパン"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2205773/100x141c/f119860cece2924acf8cf4a61836f6ba.jpg?u=6697946&p=1367114397"
+}

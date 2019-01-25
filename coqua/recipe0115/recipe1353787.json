@@ -1,0 +1,55 @@
+{
+    "name": "カリカリ小魚",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃるるん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1353787/464x260/06138dc586e77fc8bee0c3808550476e.jpg?u=1051126&p=1297152403",
+    "datePublished": "2011-02-08",
+    "description": "カルシウムたっぷりごはんにもあい、おやつにも♬旨さの秘密は隠し味の”からし”",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "材料",
+            "quantity": "分量"
+        },
+        {
+            "name": "小魚(今回は”食べる小魚”かたくちいわし)",
+            "quantity": "４０g"
+        },
+        {
+            "name": "☆三温糖(砂糖でも)",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "☆からし(チューブ)",
+            "quantity": "２cm"
+        },
+        {
+            "name": "青のり",
+            "quantity": "大さじ1強"
+        }
+    ],
+    "recipeInstructions": [
+        "☆をまぜあわせる\n\n\n\n",
+        "フライパンに小魚を入れ、から煎りする\n\n(カリカリになるまでしっかり水分を\nとばす)",
+        "②に☆を入れ、全体になじませ、青のりも入れ、煎りあげたらできあがり♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "1353787",
+    "advice": "・からしが旨味に変わるのでうちの２歳児もパクパク食べます♬",
+    "history": "カルシウムたっぷりのメニューを考えました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリカリ小魚"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1353787/100x141c/b8b830decbdb80c7d8262a1ecd9af233.jpg?u=1051126&p=1297152403"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "ニラと海苔のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "！miwa！"
+    },
+    "image": "https://img.cpcdn.com/recipes/1629680/464x260/c0a18b3ddd1828f7d0bea86e1b1f0c70.jpg?u=280801&p=1321448294",
+    "datePublished": "2011-11-16",
+    "description": "ニラをたっぷり食べるメニューです。4人分で2束。ヘルシーでおいしー“おつまみおかず”です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "2束"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★いりゴマ（白）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを5㎝長さに切り、耐熱容器に入れる。ラップして600wのレンジで1分半加熱。取り出して上下を返し、更に1分加熱。",
+        "全体がしんなりしたらザルにあげて冷まし、よく絞っておく。",
+        "ボウルに★の材料とニラを入れ、手でよく混ぜる。",
+        "海苔を細かくちぎり、③のニラと和える。",
+        "2013.05.17作り方2に変更を加えました。加熱後、水に取ると水っぽくなるのでおかあげに。",
+        "Instagramアカウント_.awimにて、日々のおつまみおかず発信中です！"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1629680",
+    "advice": "味付けは、手で混ぜるとよく味がからみます。",
+    "history": "ニラをたっぷり食べるメニューを考えました。といっても、いつものナムル味。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "醤油",
+        "ごま油",
+        "いりゴマ"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1629680/100x141c/4fc06ae49ac114e743a8eaf25ecad46d.jpg?u=280801&p=1321448294"
+}

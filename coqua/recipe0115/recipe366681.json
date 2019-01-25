@@ -1,0 +1,51 @@
+{
+    "name": "ヘルシー！ズボラ女が作るホワイトソース",
+    "author": {
+        "@type": "Person",
+        "name": "Fire-King"
+    },
+    "image": "https://img.cpcdn.com/recipes/366681/464x260/577ae9cc3f4227861316ad2125e6ed7f.jpg?u=394490&p=1214215507",
+    "datePublished": "2007-05-07",
+    "description": "バターを入れないからヘルシーであっさり！クリームソースでも飽きずに食べれます！パスタ、ムニエル、ラザニアなど色んな料理に使えます。",
+    "recipeYield": "800cc分",
+    "recipeIngredient": [
+        {
+            "name": "牛乳",
+            "quantity": "800cc"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "40g"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ（白）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に小麦粉と牛乳を入れダマがなくなるまで泡だて器で混ぜます。",
+        "①の鍋にコンソメキューブを砕きながら入れ、泡だて器でつねに混ぜながら中火で10分くらい煮込みます。",
+        "全体にとろみが出たら塩コショウで味を調えて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "366681",
+    "advice": "小麦粉と牛乳はしっかりダマがなくなるまで混ぜてください。",
+    "history": "ホワイトソースなど、クリーム系パスタがどうも食べてる時にしつこい味で飽きてしまうのでバター抜きで作ってみました。バターなしだと洋食でもあっさり味で美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/パスタソース/ホワイトソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズボラ ヘルシー"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/366681/100x141c/54f85c14e89bde7a266b450e0b4b1833.jpg?u=394490&p=1214215507"
+}

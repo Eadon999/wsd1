@@ -1,0 +1,46 @@
+{
+    "name": "ピーマンと油揚げの昆布茶炒め",
+    "author": {
+        "@type": "Person",
+        "name": "＊実月＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2854537/464x260/19b7c578eba39f1bb303d0c78b7b3ca8.jpg?u=458162&p=1414848176",
+    "datePublished": "2014-11-02",
+    "description": "H28.9.15話題入り。調味料は昆布茶だけ！調理も切って炒めるだけ。お弁当やあと一品におすすめの簡単おかずです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "5個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは縦半分に切り、さらに垂直方向に幅5ｍｍ程度に切ります。",
+        "油揚げは長さ3センチ、幅5ｍｍ程度に切ります。",
+        "熱したフライパンに油揚げをいれ、かりかりになるまで炒めます。",
+        "さらに、ピーマンをいれ、ピーマンに火が通ったら昆布茶で調味して完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2854537",
+    "advice": "油揚げは油抜きしません。カリっとした食感になります。炒め油も油揚げの油があるので使いませんでした。",
+    "history": "お弁当のあと一品が埋まらない！そんなときに、慌てて作ったら、おいしくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "油揚げ",
+        "昆布茶"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2854537/100x141c/a08c8684e7ea5ecfb3ce60e8a9029995.jpg?u=458162&p=1414848176"
+}

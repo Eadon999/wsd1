@@ -1,0 +1,51 @@
+{
+    "name": "絶品☆ミョウガの天ぷら！",
+    "author": {
+        "@type": "Person",
+        "name": "こまつた"
+    },
+    "image": "https://img.cpcdn.com/recipes/1196017/464x260/31a781cfe10b3d7f06c4b2fc00afc953.jpg?u=1615239&p=1280142518",
+    "datePublished": "2010-08-01",
+    "description": "旬のミョウガ、薬味で食べても美味しいですが、天ぷらにするともっと美味しく頂けます。そしておつまみでも美味しいです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ミョウガ",
+            "quantity": "４ケ"
+        },
+        {
+            "name": "★薄力粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ２弱"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ミョウガを用意",
+        "半分に切ります。",
+        "薄力粉を倍の水で溶き、塩を少々入れます。",
+        "高温の油でサット揚げます。天ぷらは素材に７割程度火が通るまで動かさないでその後は引っくり返しながら完全に火を通します。",
+        "ハイ！出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1196017",
+    "advice": "天ぷら粉はかなり薄い生地です。一緒にブログもアップしてます。 料理の豆知識等が書いてあります☆よかったらご覧くださいね☆ http://ameblo.jp/mint0323/ ",
+    "history": "ミョウガの天ぷら！を作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/みょうが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミョウガ",
+        "薄力粉",
+        "水"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/1196017/100x141c/37d58cf94be294dea7a9a7369ffe8cc1.jpg?u=1615239&p=1280142518"
+}

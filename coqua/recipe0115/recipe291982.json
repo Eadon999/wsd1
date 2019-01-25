@@ -1,0 +1,54 @@
+{
+    "name": "白菜とツナの蒸し煮",
+    "author": {
+        "@type": "Person",
+        "name": "mai-mai"
+    },
+    "image": "https://img.cpcdn.com/recipes/291982/464x260/d4bd4c2e5ee3c10acbb98a265a8a239a.jpg?u=249209&p=1214213872",
+    "datePublished": "2006-10-19",
+    "description": "早い、安い、ウマい。3拍子揃った簡単、美味しい、家の定番おかず。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4株"
+        },
+        {
+            "name": "ツナ缶（ノンオイル）",
+            "quantity": "1缶（80g）"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "しょうゆ差し2まわし"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は洗ってざく切りにする。",
+        "鍋に白菜を入れ（下に根元の方を入れる）ツナ缶を汁ごと全て乗せ、顆粒だし、しょうゆ、酒をまわしかけ、少量の水（50ccくらい）をいれて蓋をして10分くらい煮る。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "291982",
+    "advice": "鍋からあふれでそうでも、蓋をして火をかければ野菜の水分で量が減るので大丈夫です。芯が美味しい！",
+    "history": "よく母が作ってくれて、うちでも白菜料理の定番です。美味しくてすぐできるので、急いでいる時にもぴったりです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "ツナ缶",
+        "顆粒だし",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/291982/100x141c/a55b1d2650646260957bed927b654631.jpg?u=249209&p=1214213872"
+}

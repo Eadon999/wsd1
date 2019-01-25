@@ -1,0 +1,51 @@
+{
+    "name": "お手軽！マッシュルームウインナーソテー",
+    "author": {
+        "@type": "Person",
+        "name": "オリエンタルママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2056337/464x260/2ecd6f4beb526907b5a5872a7bc07cd6.jpg?u=269217&p=1355353211",
+    "datePublished": "2012-12-13",
+    "description": "不揃いマッシュルームとウインナーをガーリック黒胡椒チーズ炒めにしました。朝食のどうぞ！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "マッシュルーム",
+            "quantity": "１袋"
+        },
+        {
+            "name": "スライス玉葱",
+            "quantity": "小１個分"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "１袋"
+        },
+        {
+            "name": "a塩・黒胡椒･ガーリックパウダー",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで玉葱をしんなり炒めてから他材料を入れて、aで味をつける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2056337",
+    "advice": "いろいろなお野菜があれば入れてくださいね。",
+    "history": "パパッと朝食のメニューでした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/マッシュルーム"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マッシュルーム ウインナー",
+        "マッシュルーム ソテー",
+        "マッシュルーム"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2056337/100x141c/1184bcd23ca038e9f7a63cb3da90f2e8.jpg?u=269217&p=1355353211"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "厚揚げ甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "rinmari"
+    },
+    "image": "https://img.cpcdn.com/recipes/896215/464x260/54ce13e1a11cab0b110ec5c0f1416fac.jpg?u=232026&p=1427261839",
+    "datePublished": "2009-09-04",
+    "description": "ママレシピ！簡単、お助けレシピにどうぞ^^2013/1/30話題入り感謝☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "２枚（500g）"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "生姜（あれば）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "揚げは、斜め２つ切りにして熱湯をかけ油抜きする。\n※お子様向けにコロコロダイスもOK",
+        "煮汁がよくしみこむように①に穴をあける。　（竹串を４－５本一緒に持ち、刺す）",
+        "だし汁と調味料、生姜で、おとし蓋をして②を煮る。※煮立つまでは強火で、それ以後は中火より弱めに。",
+        "煮汁を多くして煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "896215",
+    "advice": "・生姜はありがオススメ！・おいしい厚揚げだと、ふっくらジューシーに！・写真は大根人参も一緒に！",
+    "history": "ママレシピ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "だし汁",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/896215/100x141c/7f2f966ea940024d39933ac46b48732f.jpg?u=232026&p=1427261839"
+}

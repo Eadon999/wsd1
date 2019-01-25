@@ -1,0 +1,52 @@
+{
+    "name": "おからサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃさりん亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/290107/464x260/03abe52076c7674181bf26c3483760bb.jpg?u=266147&p=1215455250",
+    "datePublished": "2006-10-13",
+    "description": "材料はおからとキュウリとツナ缶だけ。調味料はマヨネーズと塩コショウ。。しっとりしていて食べやすいんですよ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "150g"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリを輪切りにして、塩もみをしておく。しばらくして、水気を絞る。",
+        "ボールにおからを入れて、、、",
+        "キュウリ、ツナ缶、マヨネーズ、塩コショウを入れて混ぜる。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "290107",
+    "advice": "おからにもいろいろあって、舌触りや香りの違うものがあります。サンドイッチの具にして食べてみてください！合うんですよ～～。。 ※なるべく新鮮なおからで食べてみてくださいね～",
+    "history": "義母に教えてもらいました！！（＾＾）\\",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おからサラダ"
+    ],
+    "tsukurepo_count": "340",
+    "thumbnail": "https://img.cpcdn.com/recipes/290107/100x141c/b5721e2a73fdbe40a3b38c66430a227d.jpg?u=266147&p=1215455250"
+}

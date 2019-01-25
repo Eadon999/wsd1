@@ -1,0 +1,54 @@
+{
+    "name": "ポンマヨ風味の和風コールスロー",
+    "author": {
+        "@type": "Person",
+        "name": "タンコロ"
+    },
+    "image": "https://img.cpcdn.com/recipes/294634/464x260/ec05872e7a17aaf432f48ebe757bb8e9.jpg?u=263099&p=1214213923",
+    "datePublished": "2006-10-27",
+    "description": "４・４・２００７に話題レシピ入り☆レンジでチン♪して混ぜるだけの超簡単なサラダです。",
+    "recipeYield": "３～４分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ぽん酢",
+            "quantity": "大３～４"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大５"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは１ｃｍの千切り。にんじんは少し細めの千切りに。容器に入れラップor\r\n蓋をしてレンジで３分",
+        "ボールにぽん酢・マヨ・ゴマをmix",
+        "１が温かいうちに２に混ぜる。\r\n３時間位寝かせたほうが味がなじんで美味しいです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "294634",
+    "advice": "コツなんてありませんが、しいて言うなら寝かせる時間が長いほど美味しいかも？！温かいまま食べると時はもう少し味を濃くして、塩コショウを少しして下さい。",
+    "history": "最近ほん酢＋マヨネーズが大好きで、この味のコールスローが食べて見たくなり作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "にんじん",
+        "ぽん酢",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/294634/100x141c/0633753969e212fad3c999d38c394572.jpg?u=263099&p=1214213923"
+}

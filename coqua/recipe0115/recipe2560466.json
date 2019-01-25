@@ -1,0 +1,50 @@
+{
+    "name": "☆豚バラとキャベツのさっと煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2560466/464x260/4e63f42e1f47bc08813d2a60f6b67542.jpg?u=8803837&p=1396370316",
+    "datePublished": "2014-03-27",
+    "description": "キャベツと豚バラの甘みが美味しい簡単料理。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ",
+            "quantity": "300g"
+        },
+        {
+            "name": "キャベツ（小さめ）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "☆水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "☆酒・醤油・みりん",
+            "quantity": "各大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは芯を除きザク切りに、\n\n豚バラは食べやすいサイズに切る。",
+        "鍋に☆を煮たてて豚バラを入れ、アクをとる。",
+        "2にキャベツを加え落し蓋をして、キャベツが柔らかくなるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2560466",
+    "advice": "柔らかい春キャベツを使う場合は、大きめにカットしてね。豚ロースで作っても美味しいです。",
+    "history": "安くて美味しいキャベツを使って、簡単に作れる料理をと考えました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ キャベツ",
+        "豚バラとキャベツのさっと煮",
+        "豚バラ キャベツ さっと煮",
+        "キャベツ 豚肉"
+    ],
+    "tsukurepo_count": "357",
+    "thumbnail": "https://img.cpcdn.com/recipes/2560466/100x141c/ef07a43020a8f65e14758b6302c2ed71.jpg?u=8803837&p=1396370316"
+}

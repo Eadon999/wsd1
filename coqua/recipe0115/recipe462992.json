@@ -1,0 +1,72 @@
+{
+    "name": "白菜と豚ひき肉のピリ辛中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/462992/464x260/6c24e566894a913fc4f63cdb9723a026.jpg?u=230354&p=1214217856",
+    "datePublished": "2007-11-20",
+    "description": "ピリ辛で体があったまる白菜のスープです♫♬ゴマもたっぷり入れました♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "4～5枚"
+        },
+        {
+            "name": "長ネギ（白いところ）",
+            "quantity": "1本分"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "4カップ"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1～1.5"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ2～お好みで"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は食べやすい大きさに、長ねぎ・にんにくはみじん切りにする。白ゴマは半摺りにする。",
+        "鍋にゴマ油・にんにく・長ねぎを入れて弱火にかける。香りがたったら、豚ひき肉を加え、ポロポロになるように炒める。塩・胡椒を軽くふる。",
+        "白菜を加えて炒め、しんなりしたら水、鶏がらスープの素を入れてひと煮立ちさせてから中火にし、5～6分煮る。",
+        "醤油・コチュジャン・白ゴマを加えてひと煮立ちさせたら出来上がり♫♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "462992",
+    "advice": "濃さは醤油、辛さはコチュジャンでお好みに調整してくださいね。",
+    "history": "白菜がたくさんあったので、あったまるスープを食べたくて♫♬",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピリ辛中華スープ"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/462992/100x141c/82f1b7f8ff095121c613c324465bfeae.jpg?u=230354&p=1214217856"
+}

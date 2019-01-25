@@ -1,0 +1,58 @@
+{
+    "name": "牡蠣のアヒージョ",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2897219/464x260/9571d0146efbc5246c8a6e28502174f4.jpg?u=1298841&p=1419985094",
+    "datePublished": "2015-01-18",
+    "description": "牡蠣に油と調味料を加えて弱火で煮るだけ☆保存もきくので、予め作っておいてパーティーの前菜としても。ワインがすすみます☆",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣(加熱用)",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "鷹の爪(輪切り)",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "牡蠣をボウルに入れて２～３回水をかえて振り洗いして汚れを落とし、キッチンペーパーでしっかりと水気をとる。",
+        "鍋にみじん切りしたにんにくと、輪切りにした鷹の爪と調味料を入れたら、オリーブオイルをひたひたにそそぐ。",
+        "弱火でじっくり火を通し、牡蠣がぷっくりしてしっかりと火が通ったら出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "2897219",
+    "advice": "",
+    "history": "簡単にできて保存のきく牡蠣の一品です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牡蠣 アヒージョ 保存",
+        "アヒージョ　保存",
+        "アンティパスト 牡蠣"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2897219/100x141c/258895e451e92068a77ae35059141152.jpg?u=1298841&p=1419985094"
+}

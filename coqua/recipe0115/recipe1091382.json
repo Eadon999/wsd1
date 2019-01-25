@@ -1,0 +1,56 @@
+{
+    "name": "✿さつま揚げとうずら卵の甘辛煮✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1091382/464x260/adfd5694f7bef6331f416d70ece8c624.jpg?u=271833&p=1270556950",
+    "datePublished": "2010-04-07",
+    "description": "さつま揚げがふっくら柔らか♡ 甘辛＆まろやかな味の簡単煮ものです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "うずらの卵（水煮）",
+            "quantity": "10個"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆水",
+            "quantity": "100ml"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま揚げは2cm角くらいに切り、熱湯を回しかけて油抜きする。うずらの卵はザルにあけて水気を切る。",
+        "鍋に☆を入れて煮立たせ、１を加え蓋をして中火で煮る。",
+        "5分程煮たら火を止め、そのまましばらく冷まして味をしみ込ませる。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1091382",
+    "advice": "特にありません。",
+    "history": "有り合わせのもので作った簡単な煮ものです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ 甘辛煮"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/1091382/100x141c/232605987f10123de8978e095e4a2204.jpg?u=271833&p=1270556950"
+}

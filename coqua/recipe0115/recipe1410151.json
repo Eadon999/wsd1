@@ -1,0 +1,86 @@
+{
+    "name": "牛肉のトマト煮込み",
+    "author": {
+        "@type": "Person",
+        "name": "モナSan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1410151/464x260/f7555f40fe7b496a86fb1bcaafb46472.jpg?u=2979304&p=1302654785",
+    "datePublished": "2011-04-13",
+    "description": "懐かしい感じです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "牛薄切り肉(肩ロース等)",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "中１個"
+        },
+        {
+            "name": "トマト缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★にんにく(輪切り)",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "★白ﾜｲﾝまたは酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "★しょうが(すりおろし)",
+            "quantity": "小１弱"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ強"
+        },
+        {
+            "name": "水(どちらでも)",
+            "quantity": "半カップくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を全部混ぜ合わせ、牛肉を１０分漬けておく。",
+        "玉葱は適当な大きさに薄切りにする。",
+        "フライパンを熱してオリーブオイルを入れ、１を調味料ごと入れて炒める。",
+        "続いて、玉葱も入れて炒める。",
+        "肉の色が変わったら火を止め、トマト缶とコンソメを入れる。この時汁気が足りなければ水を足す。",
+        "火にかけて、沸騰したら弱火にし、塩を入れて約２０分程煮込む。",
+        "汁気が飛んできたら完成！お好みでバジル、とろけるチーズ等のせる☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1410151",
+    "advice": "簡単すぎてコツなーし！塩加減はお好みでですね♪",
+    "history": "なんとなくでできました！ちょっとハヤシライス風かも☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛薄切り肉",
+        "玉葱",
+        "トマト缶",
+        "にんにく"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1410151/100x141c/30f7bdef5b97632c851ddf2b2c8ede49.jpg?u=2979304&p=1302654785"
+}

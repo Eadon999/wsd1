@@ -1,0 +1,63 @@
+{
+    "name": "我が家の絶品ポークジンジャー",
+    "author": {
+        "@type": "Person",
+        "name": "kanakoy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1110184/464x260/678b7f417210fad2e99663ca0b7c365d.jpg?u=60045&p=1274647816",
+    "datePublished": "2010-05-26",
+    "description": "肉厚のガツン☆としたパワー系ポークジンジャー。生姜ソースが絶品です！",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース厚切り肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g程度"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "2片"
+        },
+        {
+            "name": "すりおろし玉ねぎ",
+            "quantity": "1／2個分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "肉を包丁の裏でたたき、筋部分には切り込みを少し入れる。（焼いた時縮まらないように）",
+        "漬けだれにお肉を２時間程度漬けておく。",
+        "フライパンにサラダ油（分量外）をひき、中火でじっくりお肉を焼いて、一度取り出す。",
+        "［３］のフライパンにバターを溶かし、漬けだれを加え全体がふつふつしたらソースの完成。お皿にお肉、ソースをかけて完成！",
+        "4/9 人生初の話題入り！写真つきでとっっても嬉しい♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1110184",
+    "advice": "",
+    "history": "旦那が肉厚のポークジンジャーが食べたい、ということで。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": [
+        "ポークジンジャー 5位"
+    ],
+    "related_keywords": [
+        "ポークジンジャー"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/1110184/100x141c/31a786b302e55980c11cb7e31a7cd83d.jpg?u=60045&p=1274647816"
+}

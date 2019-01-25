@@ -1,0 +1,58 @@
+{
+    "name": "はんぺんと三つ葉のお吸い物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3513451/464x260/3b590a8f5d5b9f694b78e1c5fc1c4100.jpg?u=4819316&p=1447333875",
+    "datePublished": "2015-11-12",
+    "description": "19/1/5話題入り有難うございます、優しい味の汁物が欲しくなる時ありますよね、ちょっと添える一品に簡単で良いですよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１／４枚"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "６本ぐらい"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんは２センチ角に切り、三つ葉は３センチ長さに切る",
+        "鍋に●を沸かし、はんぺんを入れて一煮立ちさせる",
+        "お椀によそって、三つ葉を散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3513451",
+    "advice": "はんぺんは優しい味なので、味噌汁よりお吸い物が良いですね",
+    "history": "余っていた三つ葉を何かに使えないかと考え、他の料理に使ったはんぺんを少し余らせて、組み合わせてお吸い物にしてみました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物"
+    ],
+    "rankings": [
+        "みつば 8位"
+    ],
+    "related_keywords": [
+        "はんぺん お吸い物",
+        "汁物 和風"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/3513451/100x141c/476f23d4a478b5c4028060dcad70e7b4.jpg?u=4819316&p=1447333875"
+}

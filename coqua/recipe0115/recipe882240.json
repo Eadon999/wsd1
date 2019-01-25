@@ -1,0 +1,70 @@
+{
+    "name": "中華風♪冷やしトマトのさっぱりうどん",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるベアー"
+    },
+    "image": "https://img.cpcdn.com/recipes/882240/464x260/3401cd7a8a60b12eccf3a1193d3c1684.jpg?u=834655&p=1249469809",
+    "datePublished": "2009-08-05",
+    "description": "トマトたっぷり♪さっぱりツルツルいけちゃいます２０１１年７月１８日　本日のピックアップレシピに選ばれました！",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "トマト",
+            "quantity": "２個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "半本"
+        },
+        {
+            "name": "◎ポン酢",
+            "quantity": "100ml"
+        },
+        {
+            "name": "◎ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を準備します",
+        "トマトは1.5センチ角切り、きゅうりは0.5センチ角切り、玉ねぎはみじん切りにします",
+        "切った野菜に◎印の調味料を入れて混ぜます",
+        "このまま一晩、冷蔵庫で寝かせます",
+        "翌日、茹でて冷水で冷やしたうどんに、野菜と汁をかけます",
+        "白ごまをふって、出来上がり",
+        "本日のピックアップレシピに選ばれました。気づいたのが翌日なのですが・・・・・"
+    ],
+    "cookTime": null,
+    "recipe_id": "882240",
+    "advice": "一晩寝かせると、野菜から水分がでて、ちょうど良い濃さになります",
+    "history": "暑い夏、さっぱりしたうどんが食べたくて考えました",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん",
+        "トマト",
+        "玉ねぎ",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/882240/100x141c/165e1bee58ea858527ae8b5b44cb5970.jpg?u=834655&p=1249469809"
+}

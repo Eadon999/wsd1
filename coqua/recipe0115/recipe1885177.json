@@ -1,0 +1,53 @@
+{
+    "name": "いつもあなたと簡単ブロッコリータパス",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1885177/464x260/9b71ddd1205fb7376cb6eeac9ada52a1.jpg?u=2920899&p=1342399532",
+    "datePublished": "2012-07-16",
+    "description": "超簡単なタパスです。おつまみにも、濃いめに味付けしてお弁当にも 2012/09/29話題入りしました感謝★",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１房"
+        },
+        {
+            "name": "★オリーブオイル",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★ワインビネガー（バルサミコでも）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★ガーリックパウダー",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★塩、胡椒",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを小房に切り分け塩茹でする。",
+        "湯切りして粗熱が取れたら、★印を混ぜたもので和えて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1885177",
+    "advice": "冷蔵庫で冷やして頂くと、ワインに良く合います！濃いめの味付けでお弁当にも！！",
+    "history": "昔アテネのタベルナで前菜に出てきて、余りに美味しかったので研究してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "その他/おつまみ/ワインに合うおつまみ"
+    ],
+    "rankings": [
+        "タパス 3位"
+    ],
+    "related_keywords": [
+        "タパス ブロッコリー"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/1885177/100x141c/2a09a1446fba8edc1004565bef43cba7.jpg?u=2920899&p=1342399532"
+}

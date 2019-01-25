@@ -1,0 +1,59 @@
+{
+    "name": "きゅうりとちくわのピリ昆布",
+    "author": {
+        "@type": "Person",
+        "name": "myukitty"
+    },
+    "image": "https://img.cpcdn.com/recipes/260284/464x260/0011c9fbdd354b344f8a88ebe7f50f1f.jpg?u=63267&p=1214213160",
+    "datePublished": "2006-06-14",
+    "description": "夫の作品(;^_^A ちゃんとした分量がわからないのですが、おいしかったので・・・。 ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1～２本"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "からし",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "ごま",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりとちくわは細切り。\r\n味を見ながら調味料で和える。\r\nからしと醤油は隠し味程度。"
+    ],
+    "cookTime": null,
+    "recipe_id": "260284",
+    "advice": "きゅうりとちくわは同じ大きさに。調味料はあくまで目安なので、味見して調節してください。",
+    "history": "おいしかったので材料だけ聞き出した（笑）分量は適当。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布",
+        "その他/おもてなし料理/お客様いろいろ！/野菜でおもてなし",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ちくわ",
+        "塩昆布",
+        "醤油"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/260284/100x141c/ae21e1d5f9043825c4de80b60c44f718.jpg?u=63267&p=1214213160"
+}

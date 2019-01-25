@@ -1,0 +1,54 @@
+{
+    "name": "大豆の醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "おっしょさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/896806/464x260/b2e4ac0e5ce7931e7b995a7bb22e80e6.jpg?u=542514&p=1251277240",
+    "datePublished": "2009-08-26",
+    "description": "枝豆の代用としてビールのおつまみに重宝しています。",
+    "recipeYield": "一鉢分",
+    "recipeIngredient": [
+        {
+            "name": "茹で大豆",
+            "quantity": "カップ１"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粗挽きコショウ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブ油とみじん切りしたニンニクを入れ点火、弱火で香を出します。",
+        "香が立ったら茹で大豆を入れて中火で表面に焼き色がほんのり出るまで炒めます。",
+        "醤油とコショウを入れて、香ばしく炒めて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "896806",
+    "advice": "フライパンで大豆の薄皮がカサカサと乾いて浮いてくるまで炒め醤油を焦がし香ばしく仕上げるのが美味しいです。コショウは多目がオススメです。",
+    "history": "圧力鍋で大豆を戻したら多すぎて、枝豆の代わりにビールのおつまみにしようと思って醤油で炒めてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茹で大豆",
+        "ニンニク",
+        "醤油",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "157",
+    "thumbnail": "https://img.cpcdn.com/recipes/896806/100x141c/70bc169cd77341547164466f4e034497.jpg?u=542514&p=1251277240"
+}

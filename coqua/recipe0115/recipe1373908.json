@@ -1,0 +1,57 @@
+{
+    "name": "お肉みたい☆カジキカツレツ",
+    "author": {
+        "@type": "Person",
+        "name": "ナナ☆ハッチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1373908/464x260/a4c85fcd7fa5fa120686ebef6e81f75b.jpg?u=2658720&p=1298879593",
+    "datePublished": "2011-02-28",
+    "description": "簡単にできて、にんにくの風味がとっても美味しい！ボリュームたっぷりです(*^_^*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カジキ",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "すりおろしニンニク",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大3"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大1"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "少1"
+        }
+    ],
+    "recipeInstructions": [
+        "衣の材料を混ぜ合わせておきます。",
+        "カジキに塩をふり、ニンニクを両面に塗ります。",
+        "衣をつけ、油をひいたフライパンで両面こんがりと焼いたら出来上がり！",
+        "写真のソースはケチャップとウスターソースを混ぜたものをかけています。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1373908",
+    "advice": "ソースはお好みで。ウスターソースだけでも美味しいですよ！",
+    "history": "カジキで美味しいカツが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かじき カツレツ",
+        "カジキマグロ カツ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1373908/100x141c/fc2e1b3752f38d71a5332de30c2e8756.jpg?u=2658720&p=1298879593"
+}

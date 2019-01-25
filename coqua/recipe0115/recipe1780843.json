@@ -1,0 +1,69 @@
+{
+    "name": "ささみの照り焼き韓国風",
+    "author": {
+        "@type": "Person",
+        "name": "かおる先輩"
+    },
+    "image": "https://img.cpcdn.com/recipes/1780843/464x260/6d8249a7c5ccbbb0840e8159ac67ec28.jpg?u=1567253&p=1334574696",
+    "datePublished": "2012-04-16",
+    "description": "冷めても美味しいのでお弁当にも良いかも。辛さを加えれば　大人向け、このまま食べればお子様にもOK!!",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "４本"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "A　醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "A　酒",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "A　みりん",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "A　砂糖",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "A　コチュジャン",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "A　おろしニンニク",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは　筋を取り一口大に切っておく。Aは、ボウルに混ぜ合わせておきます。",
+        "ささみに小麦粉を軽くまぶし、多めの油を熱したフライパンで　こんがり焼き上げる。余分な油はペーパーで拭き取る。",
+        "２に　混ぜ合わせておいたA を加え　照りが出るまで良く絡め、照りが出てきたら胡麻を加え　混ぜ合わせる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1780843",
+    "advice": "辛くしたい時は　A に　小さじ１くらいの豆板醤を加えてください。甘辛い味と胡麻の食感が良い感じです。甘さ、辛さは　お好みで調節してください。",
+    "history": "甘辛の食の勧むかば焼のような　照り焼きのような　ものを作りたくて　出来ました。わりと万人ウケしそうなお味に出来上がりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "小麦粉",
+        "白ごま"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1780843/100x141c/26acc79b1171171d6f3061fdccd3c6a9.jpg?u=1567253&p=1334574696"
+}

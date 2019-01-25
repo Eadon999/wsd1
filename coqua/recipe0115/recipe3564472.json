@@ -1,0 +1,68 @@
+{
+    "name": "厚揚げと大根と卵の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3564472/464x260/fc4fafbdce9f3c6c693df4c37ca91111.jpg?u=4819316&p=1449907956",
+    "datePublished": "2015-12-10",
+    "description": "16/4/14話題入り有難う、簡易おでんのようなもの、おでんの具で特に好きなものだけ選んで煮ました",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "3個"
+        },
+        {
+            "name": "大根",
+            "quantity": "6センチ"
+        },
+        {
+            "name": "●水",
+            "quantity": "250cc"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "卵は茹でて殻をむく",
+        "大根は2センチ幅のいちょう切りにして、ラップに包んでレンジ500Wで4分加熱する",
+        "厚揚げは食べやすい大きさに切って、熱湯をかけて油切りする",
+        "鍋に●を入れて加熱し、沸騰したら卵、大根、厚揚げを入れて煮る",
+        "煮汁が4分の1ぐらいになると火を止め、卵を半分に切って器に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3564472",
+    "advice": "大根を予めレンジ加熱することで、短時間で柔らかくなります",
+    "history": "一人でおでんを作ってもなかなか食べきれないので、好きな具を選んでおでんっぽく煮ました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 厚揚げ 卵",
+        "大根 厚揚げ 卵 煮物",
+        "厚揚げ 大根 煮物"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3564472/100x141c/655dff7dfab724f2ebd5aa5d2ba15954.jpg?u=4819316&p=1449907956"
+}

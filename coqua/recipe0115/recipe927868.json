@@ -1,0 +1,65 @@
+{
+    "name": "牛肉とパプリカの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/927868/464x260/de638beffb5b5d6311c7f26857812eae.jpg?u=377757&p=1254653754",
+    "datePublished": "2009-10-04",
+    "description": "牛肉とパプリカが、甘辛い味付けでよく合う一品！炒めるだけの簡単レシピ☆",
+    "recipeYield": "２人～３人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "赤パプリカ",
+            "quantity": "１個"
+        },
+        {
+            "name": "黄パプリカ",
+            "quantity": "１個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○お酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油をひき、牛肉を炒める。おおよそ火が通ったらパプリカを入れる。",
+        "１に○の材料を全て入れて、炒めて完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "927868",
+    "advice": "砂糖の分量は、お好みで調整してください＾＾",
+    "history": "カラフルなパプリカを買ったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 パプリカ",
+        "牛肉とパプリカの甘辛炒め",
+        "パプリカ",
+        "パプリカ 炒め"
+    ],
+    "tsukurepo_count": "178",
+    "thumbnail": "https://img.cpcdn.com/recipes/927868/100x141c/0076b43b06fc39a97b887e0664c97369.jpg?u=377757&p=1254653754"
+}

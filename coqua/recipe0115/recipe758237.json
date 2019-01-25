@@ -1,0 +1,54 @@
+{
+    "name": "ほうれん草とコーンの海苔マヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "なおタウリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/758237/464x260/81c8ebdb79fdf34f138459a5572c7016.jpg?u=386014&p=1236918670",
+    "datePublished": "2009-03-13",
+    "description": "海苔の風味がほうれん草に絡んでとってもおいしいです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１把"
+        },
+        {
+            "name": "コーン（缶詰）",
+            "quantity": "１／２缶"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて１センチくらいに切る。",
+        "ボウルにマヨネーズと醤油、海苔を小さくちぎって入れる。",
+        "２にほうれん草とコーンを入れてよく和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "758237",
+    "advice": "ほうれん草とコーンはよく水気をきって下さい。",
+    "history": "大好きな海苔で和え物を作りたかったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "コーン",
+        "海苔",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/758237/100x141c/e833f3f76e49b6e9b7697294019e7079.jpg?u=386014&p=1236918670"
+}

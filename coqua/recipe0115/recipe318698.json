@@ -1,0 +1,62 @@
+{
+    "name": "白菜しゃきしゃき♪ツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/318698/464x260/5c96bf94fb7cb9cd8a4df44806acd611.jpg?u=252604&p=1214214466",
+    "datePublished": "2007-01-14",
+    "description": "子ども達が大好きなツナとコーンを使ったサラダです。オイスターソースでこくを出しました♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2缶程度"
+        },
+        {
+            "name": "コーン",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を縦半分に切ってから5mm幅の千切りにします。ポリ袋に入れて、塩をまぶし空気を抜くようにして20分ほどおきます。",
+        "1の白菜の水気をギュッと絞って、しっかり切ります。そこに、オイルをしっかり切ったツナ缶とコーンと☆を加えてよく和えておきます。",
+        "器に盛り付けて、出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "318698",
+    "advice": "白菜から水気が出ますので、しっかり切ってください。",
+    "history": "白菜の餃子を作ったときに、美味しかったので♪このままサラダにしてみました。子ども達もあっという間に食べてしまいました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "塩",
+        "ツナ缶",
+        "コーン"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/318698/100x141c/7d0b03672ab54d4dc0b4c76e6fddc20d.jpg?u=252604&p=1214214466"
+}

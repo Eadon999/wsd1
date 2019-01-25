@@ -1,0 +1,52 @@
+{
+    "name": "しらすとほうれん草の厚焼きたまご",
+    "author": {
+        "@type": "Person",
+        "name": "LimeLunch"
+    },
+    "image": "https://img.cpcdn.com/recipes/2625783/464x260/d64a5ecd75803695617dee6e6cc832db.jpg?u=9281646&p=1399970579",
+    "datePublished": "2014-05-17",
+    "description": "材料４つ！  しらすとほうれん草で栄養バランスもアップです。話題入り&「卵焼き」カテゴリ掲載感謝☆",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "3個"
+        },
+        {
+            "name": "しらす",
+            "quantity": "20g"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "葉2〜3枚"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "器にたまご・しらす・みじん切りしたほうれん草・みりんを入れて、よく混ぜる。",
+        "フライパンに油をひいて、卵液の2/3を流し入れて巻いていき端によせる。",
+        "残りの卵液の半分をフライパンに入れて巻き、もう一度残り半分を入れて巻きあげたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2625783",
+    "advice": "調味料はみりんだけ！ しらすのだしと塩分があるので、出汁や塩は加えなくてもちょうど良い味に仕上がります。",
+    "history": "家族がたまご焼き大好きなので、具材をプラスして「しっかりおかず」になるようにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": [
+        "厚焼き玉子 5位"
+    ],
+    "related_keywords": [
+        "ほうれん草 卵焼き",
+        "厚焼き玉子",
+        "しらす 卵焼き",
+        "しらす"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2625783/100x141c/29b267ab2b55a69793b1df90a67bdad1.jpg?u=9281646&p=1399970579"
+}

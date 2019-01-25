@@ -1,0 +1,54 @@
+{
+    "name": "簡単！やさしい春菊と卵の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3625072/464x260/fb97d53c26924fe39c0478a96f073de0.jpg?u=4376699&p=1452867397",
+    "datePublished": "2016-01-16",
+    "description": "ふわふわ卵の味噌汁にほんのり苦みが合います♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "2本"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊を4等分して茎は縦に切って水にさらしてアク抜き",
+        "水にほんだしを加え温まったら溶き卵を端にそわして少しずつ加える",
+        "沸騰したら弱火にして味噌を溶いて春菊を加え強火にする",
+        "混ぜながら沸騰しそうになったら完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3625072",
+    "advice": "春菊を加えたらさっと茹でて完成",
+    "history": "春菊の味噌汁を作ろうと思って卵を加えてみたらとってもよく合いました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 味噌汁",
+        "春菊 卵 スープ",
+        "春菊 卵 味噌汁"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3625072/100x141c/695166fced09696816906c8f6d7fb8a8.jpg?u=4376699&p=1452867397"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "チキンソテー☆ガーリック醤油味",
+    "author": {
+        "@type": "Person",
+        "name": "こねぎとしらす"
+    },
+    "image": "https://img.cpcdn.com/recipes/1748800/464x260/ce6fc876e93a80c81c5abbfa5ba74e4a.jpg?u=3054381&p=1332408858",
+    "datePublished": "2012-03-22",
+    "description": "鶏肉をこんがり焼いてタレを絡ませるだけ。とっても簡単です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（ももor胸）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆にんにく（チューブ）",
+            "quantity": "２センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "☆の調味料を合わせておく。",
+        "鶏肉を一口大の大きさに切る。",
+        "まず皮を下にして、フライパンでこんがり焼く。",
+        "両面にいい焼き色が付いたら、合わせておいた調味料を煮絡める。",
+        "ほどよく水分が飛んで、タレが絡んだら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1748800",
+    "advice": "・皮付きのまま使う場合は、縮まないように皮目に切れ込みをいれておくといいです。・もも肉の場合は油を引かなくても大丈夫です。",
+    "history": "ファミレス風のチキンソテーが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チキンソテー ガーリック醤油味",
+        "ガーリックチキンステーキ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1748800/100x141c/4188baa81e93fd255a47a427aded21fe.jpg?u=3054381&p=1332408858"
+}

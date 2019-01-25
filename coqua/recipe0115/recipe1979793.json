@@ -1,0 +1,58 @@
+{
+    "name": "バター醤油ｄｅ大根のステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃらめるはっぴ～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1979793/464x260/9d80405b344fad563b66ec188a89cc11.jpg?u=4619944&p=1349147774",
+    "datePublished": "2012-10-02",
+    "description": "お弁当の一品にも！お酒のおつまみにも！大根が主役です(#^.^#)",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/３本ほど"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大1"
+        },
+        {
+            "name": "バター",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の皮をむき隠し包丁を入れ、２㎝ほどの厚さにカットし　下ゆでします",
+        "フライパンにごま油を中火で熱し、大根を入れて両面をじっくり焼きく",
+        "調味料をフライパンに入れ　ゆすりながら絡める。\n最後にバターを入れて。",
+        "皿に盛りかつお節やねぎを散らして　できあがり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1979793",
+    "advice": "調味料の分量はお好みで調節してくださいね大根のアミラーゼは､胃もたれ、胃酸過多、二日酔い、胸やけにとても効果的お酒のおつまみにぜひ食べて(笑)",
+    "history": "大根好きにはたまらな～い！大根ステーキ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "酒のつまみ大根",
+        "大根ステーキ バター醤油",
+        "大根ステーキ　弁当"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/1979793/100x141c/0d92a427b4b56ce7d7b71f5567c32b10.jpg?u=4619944&p=1349147774"
+}

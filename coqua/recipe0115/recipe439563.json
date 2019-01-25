@@ -1,0 +1,56 @@
+{
+    "name": "ニラだけ～絶品ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "またん４"
+    },
+    "image": "https://img.cpcdn.com/recipes/439563/464x260/c0e3832e24dfbd9d4a3b3c820d26ff19.jpg?u=526609&p=1304162241",
+    "datePublished": "2007-10-06",
+    "description": "ニラだけなのに、しっかり味付けしてるのでこれだけでご飯が食べれます♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "一束"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "（お好みで）ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを５センチくらいに切りを熱湯でささっとゆでる。\r\n冷めたら水気を絞っておく。",
+        "調味料を混ぜ合わせ、そこにニラを入れよく混ぜ味を馴染ませる。",
+        "お好みでゴマをふりかけてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "439563",
+    "advice": "ニラはゆで過ぎない。食感を楽しんでください♪私は手順２は手でしています。その方が味が馴染む気がして・・・",
+    "history": "実家で大量にニラが採れるので、大量に消費できるナムルをよく作るようになりました。我が家は一度にこの２～３倍作りますが、旦那と2人で完食します！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にら",
+        "ニラ ナムル"
+    ],
+    "tsukurepo_count": "252",
+    "thumbnail": "https://img.cpcdn.com/recipes/439563/100x141c/24ba7e3da3154dcbf1006f3dcec42fc0.jpg?u=526609&p=1304162241"
+}

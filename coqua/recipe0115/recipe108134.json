@@ -1,0 +1,67 @@
+{
+    "name": "■赤ワインソースde簡単ステーキ★",
+    "author": {
+        "@type": "Person",
+        "name": "Bliss（美癒禾）"
+    },
+    "image": "https://img.cpcdn.com/recipes/108134/464x260/2446746b54e4fecfff45ba7168e119a3.jpg?u=28653&p=1214210221",
+    "datePublished": "2003-09-19",
+    "description": "コクたっぷりの赤ワインソースが決めてのステーキ。よ～く炒めた玉ねぎの甘味とガーリックが柔らかなお肉とぴったり!!!お肉を焼くのからソースまで同じフライパンでOK★",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "ステーキ肉2人分"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "3/4個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1～2片"
+        },
+        {
+            "name": "赤ワイン",
+            "quantity": "50cc"
+        },
+        {
+            "name": "お醤油",
+            "quantity": "大さじ3弱"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "バター",
+            "quantity": "15ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ→輪切り　　にんにく→薄切り　　お肉→焼く直前に塩・コショウ（＊お好みでフレーバースパイスも）",
+        "フライパンに油を熱し牛肉を入れ、最初は強火で返し火を弱めてお好みの焼き加減に。　お皿に盛ります。",
+        "油を足して玉ねぎとにんにくをじっくりと炒めます。塩・コショウで味付け。　お肉の上に盛ります。（下にひいても。）",
+        "３のフライパンに赤ワイン・醤油・砂糖・みりんを入れ、半量以下になるまで強火で煮詰めます。最後にバターと溶かして　３の上からかけます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "108134",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/ビーフステーキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "玉ねぎ",
+        "にんにく",
+        "赤ワイン"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/108134/100x141c/d2fcf640b313619d64f34334c4ffcb61.jpg?u=28653&p=1214210221"
+}

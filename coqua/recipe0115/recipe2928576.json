@@ -1,0 +1,57 @@
+{
+    "name": "豆腐入り煮込みうどん☆卵あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/2928576/464x260/006088e2ccaafdb577db61d9561fa5f7.jpg?u=7510994&p=1418642956",
+    "datePublished": "2014-12-15",
+    "description": "豆腐とうどんを煮込んで、卵あんかけにしました。消化が良いのでお腹に優しい食事です。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "絹豆腐",
+            "quantity": "150g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "めんつゆ(3倍)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●片栗粉+水",
+            "quantity": "各小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水300ml とめんつゆ、砂糖を入れて沸騰したらうどんと豆腐を崩し入れる。",
+        "沸騰後3分煮て、溶き卵を流し入れる。卵に火が通れば、●の水溶き片栗粉を混ぜてトロミがついたら出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2928576",
+    "advice": "甘めです。お好みで醤油を少量加えたり、砂糖を加減してくださいね。柔らかい方が良ければもう少し煮込んで下さい。寒い日は生姜をプラスすると良いかも！",
+    "history": "消化の良い食事を摂らないといけなかったので。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お腹に優しい うどん",
+        "豆腐 うどん",
+        "絹ごし豆腐 うどん",
+        "卵あんかけうどん"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2928576/100x141c/43f090982d247942ab28024180005dc9.jpg?u=7510994&p=1418642956"
+}

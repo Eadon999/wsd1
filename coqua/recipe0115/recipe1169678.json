@@ -1,0 +1,70 @@
+{
+    "name": "ツナとわかめときゅうりのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1169678/464x260/ecca9ee4378be733e56782e896e028f2.jpg?u=1570274&p=1277553458",
+    "datePublished": "2010-06-26",
+    "description": "食欲がわく栄養満点サラダです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆本だし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆淡口しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "☆しょうが",
+            "quantity": "しぼり汁少々"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめは戻して、食べやすい大きさに切る。きゅうりは薄切りにして塩をふって水気を切る。",
+        "ボウルに☆と半ずりごまを合わせ、①と油分をきったツナを入れて混ぜ合わせる。",
+        "2011.6.24　話題入りしました。\nレポ書いてくださった皆様、どうもありがとうございます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1169678",
+    "advice": "きゅうりの水気はしっかりきってね。冷やして召し上がってください。",
+    "history": "わかめもきゅうりもお手頃価格で作れます。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ",
+        "ツナ缶",
+        "きゅうり",
+        "白ごま"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1169678/100x141c/4bf10b2511c550460fd49ef469c48231.jpg?u=1570274&p=1277553458"
+}

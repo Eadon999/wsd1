@@ -1,0 +1,57 @@
+{
+    "name": "きゅうりとトマトのオイマヨ和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "miino"
+    },
+    "image": "https://img.cpcdn.com/recipes/362924/464x260/2fc860a5a3a5945f9990d29b820182fe.jpg?u=413625&p=1214215425",
+    "datePublished": "2007-04-20",
+    "description": "１１/１１皆様のお陰で話題入りさせて頂きました。感謝です。オイマヨで、和え物は、いかが？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "ちくわ又はハムなど",
+            "quantity": "適量"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を食べやすい大きさに切っておく。（きゅうりは、お好みで塩もみしておく）",
+        "1と●を和え、器に盛り、ゴマをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "362924",
+    "advice": "特にありません。",
+    "history": "はじめは、炒めたのですが、このままでも行けそうなので、簡単に、このままで・・・・",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "トマト",
+        "オイスターソース",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/362924/100x141c/58046799484da98839d900c0c9ed8a66.jpg?u=413625&p=1214215425"
+}

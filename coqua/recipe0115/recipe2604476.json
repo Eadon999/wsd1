@@ -1,0 +1,63 @@
+{
+    "name": "かぶと挽き肉のとろとろ煮",
+    "author": {
+        "@type": "Person",
+        "name": "CＡＮＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2604476/464x260/ed8ee056af935375c4cebef6e57a5dab.jpg?u=799626&p=1398558577",
+    "datePublished": "2014-04-27",
+    "description": "簡単にできるけど、手が込んで見えるのがあんかけマジック！！ぜひ、やってみてね！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "2個"
+        },
+        {
+            "name": "豚挽き肉",
+            "quantity": "100グラム"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "和風だし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "かぶの葉",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで挽き肉をいためる。大体火がとおったら切ったかぶをいれ、水をヒタヒタまで入れる。",
+        "調味料もすべていれ、かぶがしんなりするまで約10分煮て、水溶き片栗粉でとろみをつけ完成。",
+        "カブの葉も使う場合は、カブの白い部分と一緒に煮てくださいね。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2604476",
+    "advice": "カブをしっかり煮ること！あじがしみておいしい！",
+    "history": "かぶをおいしくたべたい！とおもってかんがえました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ",
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "豚挽き肉",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2604476/100x141c/5d30a0d8b4c03d10dd3d6207ced5a454.jpg?u=799626&p=1398558577"
+}

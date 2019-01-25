@@ -1,0 +1,58 @@
+{
+    "name": "⭐️胡瓜とツナのごまマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "Amalka"
+    },
+    "image": "https://img.cpcdn.com/recipes/3982905/464x260/71fa21848511f14c51b467675d50c5df.jpg?u=5539655&p=1470117223",
+    "datePublished": "2016-08-04",
+    "description": "パンに挟んで食べても、サラダとして食べてもどっちも美味しい♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "胡瓜（スライス）",
+            "quantity": "２００grm分"
+        },
+        {
+            "name": "和風顆粒(揉み込みよう)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "⭕ツナ缶",
+            "quantity": "１/2缶"
+        },
+        {
+            "name": "⭕醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "⭕和風顆粒",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "⭕マヨネーズ",
+            "quantity": "１０grm"
+        },
+        {
+            "name": "⭕すりゴマ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "スライスした胡瓜を和風顆粒で２０分ほど揉み込みます",
+        "ボールにツナ缶、醤油、和風顆粒、マヨネーズ、すりゴマを入れてまぜ、１の胡瓜をしっかり水気を取って入れます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3982905",
+    "advice": "味がぼやけるので、胡瓜の水気はしっかりと取り除いてください。",
+    "history": "胡麻とマヨネーズの組み合わせが好きで、一人暮らしをしていた頃よく作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "胡瓜"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3982905/100x141c/b4807d421d2a24db65792652f60ebf1b.jpg?u=5539655&p=1470117223"
+}

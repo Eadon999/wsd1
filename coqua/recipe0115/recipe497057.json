@@ -1,0 +1,56 @@
+{
+    "name": "人参と塩昆布でかき揚げ～☆",
+    "author": {
+        "@type": "Person",
+        "name": "kurukurumin"
+    },
+    "image": "https://img.cpcdn.com/recipes/497057/464x260/52c4b457ebd0fb0c563cfab0c42bc2f6.jpg?u=574743&p=1214218508",
+    "datePublished": "2008-01-29",
+    "description": "人参と塩昆布で美味しいかき揚げをどうぞ～♪天つゆなしでパリパリいただけます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本（約150g）"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "15g"
+        },
+        {
+            "name": "■小麦粉",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "■卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "■冷水",
+            "quantity": "１/２カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は皮をむき、5～6cmぐらいの長さに薄く切って、千切りする。",
+        "ボールに■を入れて軽く混ぜ、衣を作り、その中に１の人参と塩昆布を入れて混ぜる。",
+        "揚げ油適量を、180度ぐらいに熱し、一口分ずつ箸でまとめ、静かに入れてカラッとするまで揚げる。",
+        "油を切って、器に盛って出来上がり♪\r\n天つゆなしで、そのままパリパリどうぞ～☆",
+        "本日（2009，02，17）に話題入りさせていただきました。\r\nどうも有り難うございます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "497057",
+    "advice": "人参は細切りにすると、カラッと早く揚がります。",
+    "history": "塩昆布は万能なので天ぷらにして、そのまま天つゆなしで食べられます。お弁当のおかずにも重宝です♪",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "塩昆布",
+        "小麦粉",
+        "卵"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/497057/100x141c/9971b047187053b10ebaeef1af175ff8.jpg?u=574743&p=1214218508"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "故郷の味♪おばぁちゃん直伝タラの芽天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "槙かおる"
+    },
+    "image": "https://img.cpcdn.com/recipes/2197183/464x260/96e2a6e2cb20a0547a515e2295a1cab1.jpg?u=796209&p=1366416709",
+    "datePublished": "2013-04-20",
+    "description": "ほろにがさが春の息吹を感じます美味しいのでぜひ作ってみて下さいね",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "タラの芽",
+            "quantity": "1パック"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "※薄力粉",
+            "quantity": "大5"
+        },
+        {
+            "name": "※水",
+            "quantity": "大4"
+        }
+    ],
+    "recipeInstructions": [
+        "タラの芽の根元の部分にとげがあったら包丁でこそげ取る\n硬そうでしたら一枚皮をむいでもいいです",
+        "揚げ衣※を合わせてつけ180度の油で20秒､短時間でさっと揚げて出来上がり\nお塩で召し上がれ～\n",
+        null,
+        "2014/4/20\n話題入りしました！\n作って頂いた皆様、ありがとうございます(^^)"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2197183",
+    "advice": "◆余熱で火が通るので揚げすぎないようにして下さい",
+    "history": "祖母に習いました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タラの芽",
+        "揚げ油",
+        "塩",
+        "天ぷら衣"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2197183/100x141c/96993e74952565a70453ba16be86f3ef.jpg?u=796209&p=1366416709"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "コシのある焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "へぇ～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1373595/464x260/867b8a18f1da924456c2850e2b6c1c19.jpg?u=2416191&p=1298785617",
+    "datePublished": "2011-02-27",
+    "description": "普段のやきそばを作るときに、一工夫するだけで、麺にコシがUP☆",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "焼きそば麺",
+            "quantity": "3袋"
+        },
+        {
+            "name": "ごま油（もしくはサラダ油）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "一振り"
+        },
+        {
+            "name": "人参、キャベツなど冷蔵庫の野菜",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "きのこ類（今回エリンギ入れました）",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "添付のソース（なければ焼きそばソース）",
+            "quantity": "3袋分"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに焼きそば麺を入れ、上からごま油を回し入れる。ほぐしながら、弱火でキツネ色になるまでしっかり炒める。",
+        "1を一旦取り出し、サラダ油、豚バラ、にんにくを入れ、弱火で火が通るまで炒める。途中、肉の臭み消しに酒、こしょうを振る。",
+        "2に野菜、きのこ類を加え、強火でさっと炒める。火が通ったら、1を戻し、ソースをからめて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1373595",
+    "advice": "1のとき、しっかり炒めることで、水分が飛んで、麺にコシが出ます。",
+    "history": "スーパーで買う焼きそば麺はどうしても柔らかい。UFOみたいなコシのある麺が食べたいなぁ・・・",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きそば 一工夫"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/1373595/100x141c/3fddb46911945dd91f762c8705ea6f8f.jpg?u=2416191&p=1298785617"
+}

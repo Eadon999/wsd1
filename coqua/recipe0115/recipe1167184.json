@@ -1,0 +1,52 @@
+{
+    "name": "ご飯のお供に♪きゅうりのみそ漬け",
+    "author": {
+        "@type": "Person",
+        "name": "momo hana"
+    },
+    "image": "https://img.cpcdn.com/recipes/1167184/464x260/c14e4ef824cb07f1321b3a94c44a78f2.jpg?u=2210088&p=1277295959",
+    "datePublished": "2010-06-23",
+    "description": "母直伝のレシピ☆ 簡単でとっても美味しいですよ～2010.11.13話題入りしました♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "５～６本"
+        },
+        {
+            "name": "★みそ",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★醤油（お好みで）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料を全て混ぜ合わせます。",
+        "タッパかビニールに１の合わせみそときゅうりを入れます。",
+        "冷蔵庫で3日間寝かせれば出来上がりです。 ",
+        "小メロンバージョンも美味しいですよ♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1167184",
+    "advice": "2日目でも食べれますが、3日目以降の方が味がしみて美味しいです。 ",
+    "history": "母親から教えてもらったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌漬け きゅうり"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1167184/100x141c/eb1de5018b77ffd3f7ca955b7cd9d2d8.jpg?u=2210088&p=1277295959"
+}

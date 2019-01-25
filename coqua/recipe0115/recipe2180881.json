@@ -1,0 +1,54 @@
+{
+    "name": "冷凍お弁当お野菜おかず:ハム＆水菜炒め",
+    "author": {
+        "@type": "Person",
+        "name": "sweeterm"
+    },
+    "image": "https://img.cpcdn.com/recipes/2180881/464x260/8f43fdee52b48aa23e35f4a02b5d0724.jpg?u=3264724&p=1365222735",
+    "datePublished": "2013-04-10",
+    "description": "【水菜とハムのさっと炒め】水菜はサラダだけじゃない！！288kcal/1人分",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "2把"
+        },
+        {
+            "name": "ハム",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "2振り～"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜をざく切りに、ハムをお好みの大きさに切る。",
+        "ごま油でハム、水菜をさっと炒め、火を止める。",
+        "塩コショウで味を調え、すり胡麻を絡める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2180881",
+    "advice": "水菜はすぐくたくたになるので本当にさっと熱を加えるだけです。フライパンの余熱もあるので・・・味が足りなければ少し鶏ガラだしを振っても＾＾解凍後、水気をきります。残る場合は鰹節を和えると水気を吸います。",
+    "history": "大量の水菜。サラダでは飽きてしまったので炒めて保存しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": [
+        "野菜料理 6位"
+    ],
+    "related_keywords": [
+        "水菜 弁当 冷凍",
+        "ハム 冷凍"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2180881/100x141c/5c7a266a96e64f9341d1914638552ac6.jpg?u=3264724&p=1365222735"
+}

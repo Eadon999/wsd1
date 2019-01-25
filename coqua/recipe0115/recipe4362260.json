@@ -1,0 +1,55 @@
+{
+    "name": "簡単！生姜とごぼうの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4362260/464x260/5e22e855aeecbf21753f1cb4ed0092d1.jpg?u=4376699&p=1487348505",
+    "datePublished": "2017-03-26",
+    "description": "生姜たっぷり♪暖まります！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1cm角"
+        },
+        {
+            "name": "葱",
+            "quantity": "10cm"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮を剥いて斜め薄切りにして水にさらす(数回水を変える)\n生姜は薄く切って千切り",
+        "材料を全部合わせて数分煮てごぼうに火が通れば完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4362260",
+    "advice": "ごぼうはピーラーで皮をしっかり剥いた方が泥臭さが減りますささがきでもOKチューブの生姜でもOK 千切りや薄切り生姜だと具になります",
+    "history": "生姜だけのシンプルな味噌汁を作ろうとして余っていたごぼうとネギを追加しました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう味噌汁",
+        "しょうがとごぼう"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4362260/100x141c/8f8504273ae304343f66f4a40c72b1e0.jpg?u=4376699&p=1487348505"
+}

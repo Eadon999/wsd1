@@ -1,0 +1,63 @@
+{
+    "name": "小松菜ガーリックバター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2781062/464x260/afb80be98bf44e7ce7164b193e133cfc.jpg?u=3900353&p=1409673653",
+    "datePublished": "2014-09-03",
+    "description": "小松菜とベーコンのガリバタ炒め。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "170g"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "50g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "粗挽き胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "ほんの少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は4〜5cmに切り、茎と葉に分けておく。ベーコンは食べやすい大きさに切る。にんにくは微塵切り。",
+        "フライパンにサラダ油をひきにんにくとベーコンを炒める。小松菜の茎を加える。バター、葉、塩、胡椒を加えてサッと炒める。",
+        "味見をしてから、醤油を香り付け程度にふる。既に充分な塩味が付いていれば省略。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2781062",
+    "advice": "ベーコンとバターにも塩分が有るので塩、醤油は控え目に。",
+    "history": "小松菜の簡単おかず。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜ガーリックバター炒め"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2781062/100x141c/f786868aba2315778a51271106351dc2.jpg?u=3900353&p=1409673653"
+}

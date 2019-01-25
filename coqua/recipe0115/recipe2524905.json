@@ -1,0 +1,59 @@
+{
+    "name": "白菜と薩摩揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2524905/464x260/353e8bf49d88380ab7809eff4530ee1f.jpg?u=3900353&p=1393649245",
+    "datePublished": "2014-03-01",
+    "description": "簡単な煮物。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "180g"
+        },
+        {
+            "name": "薩摩揚げ",
+            "quantity": "3枚75g"
+        },
+        {
+            "name": "結びしらたき",
+            "quantity": "5個80g"
+        },
+        {
+            "name": "追いがつおつゆ2倍",
+            "quantity": "100cc"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は4〜5cmに切る。薩摩揚げは2〜3等分に削ぎ切り。しらたきは下茹でする。",
+        "煮汁を合わせて味を確かめ、しらたき、薩摩揚げ、白菜の順に加えて煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2524905",
+    "advice": "白菜がお好みの柔らかさになるまで煮る。",
+    "history": "簡単にもう一品作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 さつま揚げ 煮物",
+        "糸こんにゃく さつま揚げ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2524905/100x141c/3010a728242813d4533eb76aa7337a05.jpg?u=3900353&p=1393649245"
+}

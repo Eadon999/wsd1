@@ -1,0 +1,55 @@
+{
+    "name": "コロッケチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "とらこぱんつ"
+    },
+    "image": "https://img.cpcdn.com/recipes/296393/464x260/538fe421f02749eedc652a2764f81c1c.jpg?u=263592&p=1214419574",
+    "datePublished": "2006-11-01",
+    "description": "残り物のコロッケで作る昔懐かしい味のチャーハン。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "市販のコロッケ",
+            "quantity": "1個"
+        },
+        {
+            "name": "温かいご飯",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "細葱",
+            "quantity": "少々"
+        },
+        {
+            "name": "ウスターソース、醤油",
+            "quantity": "各小匙１"
+        },
+        {
+            "name": "塩、胡椒、サラダ油",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "コロッケは小さめに切る。玉葱はみじん切り、細葱は小口切りする。",
+        "テフロン加工のフライパンにサラダ油を熱し、玉ねぎを炒め軽く塩、胡椒する。コロッケを加えつぶしながら炒める。",
+        "ご飯を加えウスターソース、醤油で調味し、細葱を加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "296393",
+    "advice": "■ご飯が、冷たい場合はレンジで暖めておくとほぐれやすいです。",
+    "history": "■新聞にあったレシピの記事をヒントに作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コロッケチャーハン"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/296393/100x141c/fa3094a2994f6f78011a5af149cb2c70.jpg?u=263592&p=1214419574"
+}

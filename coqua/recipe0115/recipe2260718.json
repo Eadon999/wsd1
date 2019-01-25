@@ -1,0 +1,52 @@
+{
+    "name": "長芋入り卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2260718/464x260/4e87ce654fb3d567f4b1fd0f7ad9dfdb.jpg?u=2495483&p=1371553228",
+    "datePublished": "2013-06-18",
+    "description": "ねばとろんと美味しい卵焼き☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "長芋",
+            "quantity": "４㎝（正味６０g位）"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋をすりおろしすべて混ぜて焼く",
+        "紅生姜などを添えてそのままでも",
+        "お好み焼き風に、とんかつソースやお好みソース、鰹節、青のりなどをかけても"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2260718",
+    "advice": "",
+    "history": "ケーキを作ろうと思って卵白と卵黄を分けるのに失敗して割った卵が一杯出来たので何とか消費しようと考え思いつきました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋入り卵焼き",
+        "山芋 卵焼き"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/2260718/100x141c/77a2c2e986af4512bfca3e5ec71685b0.jpg?u=2495483&p=1371553228"
+}

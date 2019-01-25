@@ -1,0 +1,53 @@
+{
+    "name": "梅おかかおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3518136/464x260/3f9b929d27cb2e6165fdb96df1ff2f1e.jpg?u=4819316&p=1447566108",
+    "datePublished": "2015-11-15",
+    "description": "16/2/7話題入り有難うございます、おにぎりと言えば梅とおかか、ちゃちゃっとにぎってお弁当に入れて下さい",
+    "recipeYield": "3個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "2個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "1袋（２ｇ）"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにかつおぶしとしょうゆを入れて混ぜる",
+        "梅干しは種を除いて包丁で叩き、ペースト状にする",
+        "ボウルにご飯を入れて梅干しと炒りごまを加えて、しゃもじで切るように混ぜる",
+        "三角ににぎって出来上がり"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3518136",
+    "advice": "ご飯粒をつぶさないように、さくっと切るようにしながら混ぜて下さい",
+    "history": "梅、おかか、ごまといえばそれぞれおにぎりの定番、それらをまとめて混ぜてみました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "梅おかか おにぎり",
+        "梅おかか"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/3518136/100x141c/dd4b85d05a8496d8107f040673dd4d4e.jpg?u=4819316&p=1447566108"
+}

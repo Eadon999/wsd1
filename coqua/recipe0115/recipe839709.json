@@ -1,0 +1,67 @@
+{
+    "name": "厚揚げのニンニク味噌マヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/839709/464x260/8c89557493ad60be85ef918263018a83.jpg?u=1423987&p=1245134516",
+    "datePublished": "2009-06-16",
+    "description": "ぬって焼くだけ、簡単なのにメインにもおつまみにも♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●にんにくすりおろし",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "あれば万能ネギの小口切り",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは縦半分に切ってから、７㎜ぐらいの幅にスライスし、耐熱皿に並べる。（写真参照）",
+        "容器に●の材料を合わせ、厚揚げの上にぬる。\r\nマヨネーズをかける。",
+        "オーブントースターで表面に焦げ目がつくまでこんがり焼く。",
+        "好みで万能ネギの小口切りを散らす。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "839709",
+    "advice": "厚揚げは斜めに倒して並べたほうが熱が通りやすく、味噌をぬる表面積が広くなって美味しいです♪お皿の代わりにアルミホイルでもＯＫ！ ",
+    "history": "大好きな厚揚げのなかでもいちばんお勧めのレシピになりました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "味噌",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/839709/100x141c/91ecda662ce52a2cb1b71613c6cba2f1.jpg?u=1423987&p=1245134516"
+}

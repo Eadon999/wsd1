@@ -1,0 +1,63 @@
+{
+    "name": "混ぜるだけ～♪『納豆 ON 天かすご飯』",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきぺこぽこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1631873/464x260/9d9f6fe753e13d1906c0fb537a997659.jpg?u=3187983&p=1344221219",
+    "datePublished": "2011-11-19",
+    "description": "簡単ランチに♪小腹を満たしたい時に♪混ぜるだけで、旨みたっぷりご飯のできあがり☆ぜひお試しくださ～い☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "◎ごはん",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "◎めんつゆ",
+            "quantity": "小さじ１と1/2"
+        },
+        {
+            "name": "◎天かす",
+            "quantity": "大さじ１と1/2"
+        },
+        {
+            "name": "◎チューブ生姜",
+            "quantity": "２センチ"
+        },
+        {
+            "name": "◎鰹節",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "トッピング用の鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "トッピング用のきざみネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お茶碗に◎を入れ、よく混ぜ合わせる。\n",
+        "混ぜるとこんな感じ。\nここで味をみて調節してください。",
+        "納豆に添付のたれを入れよく混ぜる。\n②に乗せ、上からねぎと鰹節を乗せたらできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1631873",
+    "advice": "味をはっきりさせたければ、納豆にも麺つゆを少し足してください。",
+    "history": "納豆とご飯だけ出したら味気ないので、ちょっと工夫してみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆 混ぜご飯"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1631873/100x141c/25a585bd772fdefa1d57cdfd492fc97e.jpg?u=3187983&p=1344221219"
+}

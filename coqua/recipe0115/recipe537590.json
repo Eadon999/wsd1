@@ -1,0 +1,68 @@
+{
+    "name": "圧力鍋でスピードおでん",
+    "author": {
+        "@type": "Person",
+        "name": "Positano"
+    },
+    "image": "https://img.cpcdn.com/recipes/537590/464x260/a16012e2224337fdf98402dfd06d457b.jpg?u=723547&p=1387513020",
+    "datePublished": "2008-03-25",
+    "description": "なんの変哲もない我が家のおでんくん。圧力鍋で作るとあっという間で簡単です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "練り物（ちくわなど）",
+            "quantity": "８個くらい"
+        },
+        {
+            "name": "●だし汁（昆布＆かつお）",
+            "quantity": "１０００ｍｌ"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "●こいくち醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●薄口醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根だけを圧力鍋で下茹でする（ひたひたの水で火にかけ、１～２分加圧して自然冷却する）",
+        "こんにゃく・練り物は湯通ししておき、卵はゆで卵にする。",
+        "●を混ぜたものと、１＆２で下ごしらえした材料をすべて圧力鍋へ。 ５分加圧して自然冷却。（材料がまだ少し固い場合は、やわらかくなるまで普通に数分煮る。）"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "537590",
+    "advice": "具は、お好みで。野菜など固めの材料は、先に下茹でしておくのがポイントです。",
+    "history": "ただのおでんくん",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/おでん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おでん 圧力鍋",
+        "おでん 時短"
+    ],
+    "tsukurepo_count": "195",
+    "thumbnail": "https://img.cpcdn.com/recipes/537590/100x141c/6da6dd780e3fc8f9fc6883d19829a6d1.jpg?u=723547&p=1387513020"
+}

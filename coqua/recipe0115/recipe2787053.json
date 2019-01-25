@@ -1,0 +1,55 @@
+{
+    "name": "裏返し油揚げde揚げない～揚げ出し豆腐♪",
+    "author": {
+        "@type": "Person",
+        "name": "taePごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2787053/464x260/7055a87829f45d2118a54f18b6044165.jpg?u=8955867&p=1410060043",
+    "datePublished": "2014-09-07",
+    "description": "油揚げをひっくりかえして→豆腐をポンと詰めちゃって→トースターで焼いちゃえば→外はサクサク～カリカリ～中はフワ～フワ～",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "★油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "★絹ごし豆腐",
+            "quantity": "小パック1/2(75g)"
+        },
+        {
+            "name": "★麺つゆ（三倍濃縮）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★お湯",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "トッピングにネギやショウガ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げを、中央から２つに切って、くる～っと裏返します",
+        "お豆腐を、２つに切って、油揚げにつめます",
+        "トースターに入れて、焼きます",
+        "器にいれて、トッピングして、麺つゆをかければ、完成です"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2787053",
+    "advice": "お豆腐を油揚げにつめる前に、電子レンジでチン♪すれば、短時間でアツアツになります～",
+    "history": "揚げるのが、めんどくさくて～！ヘルシービューティー♪３分クッキング♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "油揚げ",
+        "絹ごし豆腐",
+        "麺つゆ",
+        "お湯"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2787053/100x141c/e1e9e4bf6b687554c9ef3832d9fa5639.jpg?u=8955867&p=1410060043"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "初心者さん向けの簡単な煮魚♪ぶりの煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "ポテチ犬"
+    },
+    "image": "https://img.cpcdn.com/recipes/2800320/464x260/4fdf6c82b6409a5f1fbc8a58b08df147.jpg?u=7027453&p=1410919695",
+    "datePublished": "2014-09-17",
+    "description": "覚えやすい分量で、初めての方でも簡単に出来ます(^_-)-☆濃いめ味付けでご飯にピッタリ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "■水",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "■生姜(細い千切り)",
+            "quantity": "1/2かけ分"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■みりん(砂糖でも可)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ぶり切り身",
+            "quantity": "2切れ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に■を煮立て、ぶりの切り身を入れる。",
+        "落とし蓋をし、弱火で10～15分煮て出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2800320",
+    "advice": "魚の臭みを取るために、面倒でも生姜は入れてください。落とし蓋すると中まで早く味が染み込みます！",
+    "history": "ご飯に合う煮魚が食べたかったので(#^.^#)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": [
+        "ぶりの煮付け 8位",
+        "ぶり煮付け 8位"
+    ],
+    "related_keywords": [
+        "煮魚 ぶり",
+        "煮魚 初心者",
+        "ぶり 煮付け",
+        "ぶりの煮付け 簡単"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2800320/100x141c/0cd75f7372bc60ba7c957c6518b17f09.jpg?u=7027453&p=1410919695"
+}

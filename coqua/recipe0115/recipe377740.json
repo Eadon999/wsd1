@@ -1,0 +1,48 @@
+{
+    "name": "✿ホタテとほうれん草のバター醤油炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/377740/464x260/d3116ef43701d49c5d3317c468f91c82.jpg?u=271833&p=1254305299",
+    "datePublished": "2007-05-22",
+    "description": "ボイルホタテとほうれん草で作る簡単美味しい一品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "ボイルホタテ",
+            "quantity": "150g前後"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草はよく洗い、3cm幅にカットする。",
+        "フライパンにバターを熱しホタテを並べ、表面にうっすら焼き色が付くまで焼く。",
+        "２に１を加え炒め合わせる。ほうれん草がしんなりしたら鍋肌から醤油を回し入れ、全体によくなじませたら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "377740",
+    "advice": "醤油の分量はお好みに応じて加減して下さい。",
+    "history": "母の味です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ボイルホタテ バター"
+    ],
+    "tsukurepo_count": "211",
+    "thumbnail": "https://img.cpcdn.com/recipes/377740/100x141c/c9bb5ec4fdc06a5e56e4adae9fd5da57.jpg?u=271833&p=1254305299"
+}

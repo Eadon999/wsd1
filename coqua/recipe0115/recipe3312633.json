@@ -1,0 +1,55 @@
+{
+    "name": "しめじとエリンギのwゴマ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3312633/464x260/458b6a56ce3fd9f9feadcb5f8f6db03c.jpg?u=822079&p=1437643392",
+    "datePublished": "2015-07-23",
+    "description": "胡麻ときのこでヘルシーおつまみ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ゴマ又はすりごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "こさじ1"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは石突をとりほぐす　エリンギは縦に薄く切り千切りにする",
+        "フライパンにごま油をいれ弱火で1と塩コショウ　胡麻を炒める　しんなりしたら醤油をまわしかける",
+        "お皿に盛り　のりとねぎをかけてめしあがれ"
+    ],
+    "cookTime": null,
+    "recipe_id": "3312633",
+    "advice": "お家にあるきのこでおｋ＾＾",
+    "history": "ヘルシー",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わけぎ しめじ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3312633/100x141c/52dc9c7a0c73ae667756768e0c88db08.jpg?u=822079&p=1437643392"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "春菊のゴマ入り梅マヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2448739/464x260/4a30c7a2bb01c865eaca316dc309e64f.jpg?u=3243126&p=1388896543",
+    "datePublished": "2014-01-05",
+    "description": "梅とゴマの風味で、春菊の独特な香りが苦手な方も気にならずに食べていただけますよっ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "1束(100ｇ～)"
+        },
+        {
+            "name": "★梅干し(大)",
+            "quantity": "1個"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "★白ごま",
+            "quantity": "小さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "種を取り除いた梅干しをつぶして、他の★の材料と混ぜ合わせます。",
+        "洗った春菊を5㎝位の長さに切ります。",
+        "沸騰したお湯に塩を一つまみ入れて、春菊を茎から入れます。\n1分弱でザルにあげます。",
+        "春菊をしっかり絞って、①と和えれば出来上がりです。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2448739",
+    "advice": "春菊のゆで時間は、お好みの硬さで調節してください。",
+    "history": "春菊嫌いの家族においしく食べてもらいたいと思って♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊のゴマ入り梅マヨ和え"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2448739/100x141c/5e5bfdce750fcaf2819570423a947983.jpg?u=3243126&p=1388896543"
+}

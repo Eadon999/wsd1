@@ -1,0 +1,59 @@
+{
+    "name": "★きゅうりのナムル★",
+    "author": {
+        "@type": "Person",
+        "name": "haruchiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/803632/464x260/2ee8c4cf66210a87fe359a4267951bb3.jpg?u=1047000&p=1241847198",
+    "datePublished": "2009-05-09",
+    "description": "簡単に１品！ビールのお供に♡お好みで塩麹で味付けしてもいいですよ♪",
+    "recipeYield": "きゅうり２本分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩（塩もみ用）",
+            "quantity": "卓上塩３ふりぐらい"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "４つまみ（好みで増やしてね）（今回は塩麹で小さじ２）"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "大さじ１～"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは縦半分にカット後、５ミリぐらいの斜め切りに☆塩もみしておく。ちくわは同じくらいの千切りにしておく。",
+        "１のきゅうりの水気をよく切って、ボールにちくわも入れてごま油・塩の順に軽くもみもみまぜる。最後にごまをまぜて出来上がり♡",
+        "炒り卵飾りバージョン♡",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "803632",
+    "advice": "きゅうりはちょっと食べ応えがある大きさがいいです♪お好みの大きさでどうぞ♡",
+    "history": "余り物でパパッと１品♡ビールにあう！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ちくわ",
+        "塩",
+        "ごま油"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/803632/100x141c/f57f22af8c90972001591c44a676c3d7.jpg?u=1047000&p=1241847198"
+}

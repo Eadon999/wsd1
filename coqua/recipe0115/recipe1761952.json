@@ -1,0 +1,54 @@
+{
+    "name": "厚揚げの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "marriott"
+    },
+    "image": "https://img.cpcdn.com/recipes/1761952/464x260/617823d3fd5385fafbead887211bc950.jpg?u=3504517&p=1455877491",
+    "datePublished": "2012-04-01",
+    "description": "簡単に出来てボリューム満点！！子供から年配者まで美味しく頂けます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "◎水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "◎しょう油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "卵（溶き卵）",
+            "quantity": "3個"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げを横2等分にし、縦1.5cm幅ぐらいに切る。\n\n",
+        "鍋に◎印を入れ沸騰したら厚揚げを入れ、5～6分煮詰める。\n\n",
+        "水分がほぼ無くなったら溶き卵を回し入れ、混ぜ合わせたら出来上がり。\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1761952",
+    "advice": "コツなんて無いほど簡単。1品足らない時に重宝します。",
+    "history": "厚揚げと卵は相性が良いと思ってとじてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "水",
+        "砂糖",
+        "しょう油"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1761952/100x141c/5b5067d1332d08c41aee628e685d80a6.jpg?u=3504517&p=1455877491"
+}

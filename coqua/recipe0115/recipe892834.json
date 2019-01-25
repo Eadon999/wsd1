@@ -1,0 +1,43 @@
+{
+    "name": "さつま芋のバター焼き",
+    "author": {
+        "@type": "Person",
+        "name": "フシッチェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/892834/464x260/8de700941815322ccfcdc5e91a28d3a1.jpg?u=881219&p=1348553399",
+    "datePublished": "2009-08-21",
+    "description": "★2010.09.17話題入り★ 5分レシピ❤おやつにもおかずにもなって便利☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋",
+            "quantity": "1本"
+        },
+        {
+            "name": "バターorマーガリン",
+            "quantity": "大1くらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにバターorマーガリンを入れ、溶けてきたら輪切りにしたさつま芋を入れ、弱火で炒める。",
+        "さつま芋を裏返して、もう片面も焼く。串を通してみて火が通っていたら、塩を振りかけて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "892834",
+    "advice": "・さつま芋は3mmくらいにcutするのがオススメです。厚くcutすると火がなかなか通らないので。 ・焦げやすいので、火加減に注意してください。・塩を振るのがポイント！これで、さつま芋の甘さが引き立ちます。",
+    "history": "母がよく作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま芋",
+        "塩"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/892834/100x141c/1cc8002bf2ca9a3dd688977be408adac.jpg?u=881219&p=1348553399"
+}

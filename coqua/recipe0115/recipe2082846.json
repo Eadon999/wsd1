@@ -1,0 +1,74 @@
+{
+    "name": "【簡単レシピ】鶏肉と大根のうま煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2082846/464x260/3e0a1d7be60bda05b4e0cdafb845983c.jpg?u=921598&p=1414786774",
+    "datePublished": "2013-01-14",
+    "description": "ニンニクと生姜を効かせた簡単な煮物☆お酒を多めに入れて旨味たっぷり❤大根に鶏肉の出汁がジュワっと染み込んでウマウマ＾＾♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉（ひと口大）",
+            "quantity": "2枚"
+        },
+        {
+            "name": "大根（1cm幅の1/4カット）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "●にんにく（すりおろし）",
+            "quantity": "1片"
+        },
+        {
+            "name": "●しょうが（すりおろし）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●水",
+            "quantity": "450cc"
+        },
+        {
+            "name": "●酒",
+            "quantity": "150cc"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "70cc"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●かつおだしの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に、鶏肉と大根に●の材料を入れて煮立たせてから落し蓋をし、弱火から中火で約30分間煮込む。",
+        "1に、みりんを加えて約10分間煮たら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2082846",
+    "advice": "アルミホイルに数箇所穴を開けて使用するとアクも取れて簡単な落し蓋になりますよ♪",
+    "history": "自身のレシピをアレンジして作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "大根",
+        "にんにく",
+        "しょうが"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2082846/100x141c/22cb91bc2094bbea2ec4da80b361b9c9.jpg?u=921598&p=1414786774"
+}

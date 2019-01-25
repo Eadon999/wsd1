@@ -1,0 +1,72 @@
+{
+    "name": "ぱぱっと！豚汁",
+    "author": {
+        "@type": "Person",
+        "name": "こころうさぎ☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/4106953/464x260/5ff1599872431cb737241e6cc7666601.jpg?u=14030127&p=1475659157",
+    "datePublished": "2016-10-05",
+    "description": "おかずになる汁物♥お野菜もお肉も入ってて温まります",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "だしの素(粉末)",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "6カップ"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/5本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1袋（小）"
+        },
+        {
+            "name": "シメジ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にだしの素と水を入れ、切った大根・人参を入れて火にかける。",
+        "大根と人参が柔らかくなったら、切った油揚げ・こんにゃく・シメジを加え、沸騰した状態で豚肉をばらすように加える。",
+        "具材に火が通ったら、味噌を溶き入れる。",
+        "器に盛って、小口切りのネギを散らす。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "4106953",
+    "advice": "大根・人参は5ｍｍの厚さのいちょう切り。油揚げ・こんにゃくは半分に切り5ｍｍの幅に。シメジは石づき切り取り、手で切り離す。豚肉は5ｃｍに切る。",
+    "history": "大根・こんにゃく・豚肉は定番ですが、その他はある具材で作ります。シイタケやゴボウ、白菜なども合うので、鍋の材料が余った時などおススメ。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/豚汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚汁"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/4106953/100x141c/807c9afc57ae012c44cb1fa4bbc2e19f.jpg?u=14030127&p=1475659157"
+}

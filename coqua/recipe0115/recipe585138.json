@@ -1,0 +1,67 @@
+{
+    "name": "さっぱり！茄子の煮浸し",
+    "author": {
+        "@type": "Person",
+        "name": "けい♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/585138/464x260/b105bc8ed23a08cd169c41ef73e5ac9c.jpg?u=60994&p=1214420321",
+    "datePublished": "2008-06-04",
+    "description": "ぽん酢でさっぱりな煮浸しです。柚子胡椒がピリッと美味しい♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "4本"
+        },
+        {
+            "name": "★ぽん酢",
+            "quantity": "130cc"
+        },
+        {
+            "name": "★水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★鷹の爪の小口切り",
+            "quantity": "2本分"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "10cm分"
+        },
+        {
+            "name": "万能ネギの小口切り",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子はヘタを取って縦半分に切り、皮の方に細く切り込みを入れておく。水を張ったボウルに入れてアクを抜く。",
+        "鍋に★の材料を入れて火にかける。煮立ったら柚子胡椒を加えて溶かす。",
+        "2の鍋に茄子を入れ、落し蓋をして弱めの中火で10から15分煮る。\r\n火を止めて落し蓋を取ってそのまま冷ます。",
+        "冷めたらタッパーなどに汁ごと移して冷蔵庫で一晩冷やす。召し上がる直前に大根おろしと万能ネギをかけてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "585138",
+    "advice": "すっぱめです。お好みで水とポン酢の割合を調整してください。冷蔵庫に入れてから半日～２日くらいが食べごろです。",
+    "history": "ダイエット中なのでヘルシーメニューです。出汁の煮浸しは飽きたので、大好きなぽん酢を使ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ぽん酢",
+        "水",
+        "柚子胡椒"
+    ],
+    "tsukurepo_count": "200",
+    "thumbnail": "https://img.cpcdn.com/recipes/585138/100x141c/aecfdb8baddbaf43c700c0ecfb4fb81e.jpg?u=60994&p=1214420321"
+}

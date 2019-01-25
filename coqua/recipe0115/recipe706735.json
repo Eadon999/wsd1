@@ -1,0 +1,52 @@
+{
+    "name": "かつお風味♪ブロッコリー・クリームチーズ",
+    "author": {
+        "@type": "Person",
+        "name": "ヤンー"
+    },
+    "image": "https://img.cpcdn.com/recipes/706735/464x260/0dc70bcb6ae55fd00d7e38a6c2426e7e.jpg?u=1098294&p=1230700479",
+    "datePublished": "2008-12-31",
+    "description": "洋風のような、和風のような・・・。コンソメとめんつゆの以外な組み合わせ！！どうぞお試しあれ～☆",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "中１房"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "めんつゆ（2倍濃縮）",
+            "quantity": "大３"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "小袋２つ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋で湯を沸かしコンソメを入れブロッコリーを茹でる。（この茹で汁は捨てないで!!!）",
+        "ボウルに茹でたてのブロッコリーと、めんつゆ、かつお節をいれ和えておく。",
+        "冷めたら１ｃｍ角に切ったクリームチーズを加え軽く混ぜ、出来上がり～！！！",
+        "①の茹で汁で野菜スープなど作ったらいいですよ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "706735",
+    "advice": "味付けは熱いうちにしましょう！我が家は茹で汁で必ず野菜スープを作ります。捨てたらもったいない～",
+    "history": "親戚のおばちゃん家で食べたことがあり、味を思い出しながら自分なりに作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー クリームチーズ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/706735/100x141c/edebd874c8685b277eaa52b40dd1cc28.jpg?u=1098294&p=1230700479"
+}

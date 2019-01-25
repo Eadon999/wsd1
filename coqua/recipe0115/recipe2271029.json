@@ -1,0 +1,60 @@
+{
+    "name": "もやしの辛子醤油和え",
+    "author": {
+        "@type": "Person",
+        "name": "marriott"
+    },
+    "image": "https://img.cpcdn.com/recipes/2271029/464x260/c66dcabd5284fca5b56ea30bb8d5246f.jpg?u=3504517&p=1372429685",
+    "datePublished": "2013-06-28",
+    "description": "辛子でピリさっぱり。もやしオンリーだけど美味しいです＾＾",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "2袋（200g×２）"
+        },
+        {
+            "name": "白ごま（飾り付け用）",
+            "quantity": "少々"
+        },
+        {
+            "name": "からし(チューブ)",
+            "quantity": "5g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "20cc"
+        },
+        {
+            "name": "味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗って種の皮などを取り除きざるで水を切っておく。\nからしとしょう油は混ぜ合わせておく。\n",
+        "鍋にお湯を沸かし１を入れ、沸騰したら2分ほど煮る。\n",
+        "２をザルにあけ、冷めたら硬く絞ってボウルに入れる。\n",
+        "３に味の素とからしと醤油を混ぜ合わせたものをいれ、よく混ぜて味を馴染ませる。",
+        "４を塩で味を調え、器に入れ白ごまを振って出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2271029",
+    "advice": "＊コツはありませんが、もやしを茹でたら　しっかり水を絞ってください。　絞りが甘いと水っぽくなってしまいます。",
+    "history": "もやしをピリ辛でさっぱり食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "白ごま",
+        "醤油",
+        "味の素"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2271029/100x141c/0adb9af2fe33ca10668ce36f292a39f4.jpg?u=3504517&p=1372429685"
+}

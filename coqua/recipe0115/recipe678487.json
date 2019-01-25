@@ -1,0 +1,69 @@
+{
+    "name": "ブロッコリーチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "ロシアン"
+    },
+    "image": "https://img.cpcdn.com/recipes/678487/464x260/6c299f78c6a8a8b69cc299092278a227.jpg?u=283109&p=1303025232",
+    "datePublished": "2008-11-08",
+    "description": "ブロッコリーを使ったチャーハンです♪チーズのコクと生姜のアクセントが美味ですよ☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１／２株"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "１合分"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは小房に分け、塩とサラダ油少々を入れた湯でゆでる。",
+        "ゆでたブロッコリーは粗めに刻む。\n生姜はみじん切りにする。",
+        "卵に塩、こしょうを少々入れて混ぜる。サラダ油大さじ１を熱したフライパンで炒り卵をつくり、一度取り出す。",
+        "フライパンにサラダ油大さじ２を足し、生姜、ブロッコリー、ごはんを炒める。 \n",
+        "チーズ、炒り卵を加えて炒め、しょうゆを加えて手早く混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "678487",
+    "advice": "",
+    "history": "あまったブロッコリーをたっぷり使ってチャーハンにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー チャーハン"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/678487/100x141c/4a916608f8980c08916092cfaf6f2bb4.jpg?u=283109&p=1303025232"
+}

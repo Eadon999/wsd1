@@ -1,0 +1,48 @@
+{
+    "name": "【農家のレシピ】トマトの酢醤油漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1752304/464x260/72251a97ebdcf30b129804d704eae496.jpg?u=2513693&p=1332663909",
+    "datePublished": "2012-06-24",
+    "description": "トマト農家さんに教えてもらったトマトの食べ方。水っぽいトマトもおいしく食べられますよ。 ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個（２５０ｇ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはくし形切り、【A】はよく混ぜ合わせておきます",
+        "ビニール袋にトマトと【A】を入れて１時間味を染み込ませたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1752304",
+    "advice": "",
+    "history": "トマト農家さんがよく食べているトマト料理。酢醤油に砂糖を加えて食べていると知り、私もそれからトマトを甘い酢醤油に漬け込んで食べています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水っぽいトマト",
+        "酢醤油漬け",
+        "トマト 醤油漬け"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1752304/100x141c/06d9aa696d1db7b91009c41a5b517a0a.jpg?u=2513693&p=1332663909"
+}

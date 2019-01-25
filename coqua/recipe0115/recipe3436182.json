@@ -1,0 +1,65 @@
+{
+    "name": "しめじ&ちくわの蜂蜜しょう油",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3436182/464x260/dd0d44d892edde3633b315071ae0d694.jpg?u=10112198&p=1443738265",
+    "datePublished": "2015-11-03",
+    "description": "あと一品欲しい時に。ネギも加え、一味唐辛子で味を引き締めて。お弁当の隙間にも。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "蜂蜜",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギ、ちくわ、ピーマンは、1センチ角位に切る。しめじは大きければ、半分の長さにする。",
+        "フライパンに胡麻油を熱し、材料を入れ\n強火で炒め、調味料を加え汁気を飛ばす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3436182",
+    "advice": "ネギの代わりに玉葱でもOK。",
+    "history": "ちくわは冷凍して常備しているので、あと一品の時に、助かります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "ちくわ",
+        "ネギ",
+        "ピーマン"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3436182/100x141c/8481d0874055d7073d02244b8017402e.jpg?u=10112198&p=1443738265"
+}

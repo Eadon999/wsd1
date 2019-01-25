@@ -1,0 +1,71 @@
+{
+    "name": "人参とコーンのカレーきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "Himi♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2107459/464x260/d223cdb8a6cd2e7d94b0bd7d8b18922f.jpg?u=2523795&p=1360066981",
+    "datePublished": "2013-02-05",
+    "description": "いろんな人参とコーンのカレー風味きんぴらです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "人参（美ら人参）",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参（きんぴ人参）",
+            "quantity": "１本"
+        },
+        {
+            "name": "コーン",
+            "quantity": "缶半分"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★カレー粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は千切りにする。★の調味料は合わせておく。",
+        "フライパンにサラダ油を入れて中火で熱し人参を入れて全体にサラダ油が回るまで炒める。",
+        "★の混ぜ合わせた調味料を入れて弱火にして２～３分炒め、コーンを入れて水気がなくなるまで炒める。",
+        "器に盛ったら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2107459",
+    "advice": "ケチャップを入れてあるので子供さん向きになります。カレー粉を少し多めに入れると大人向きになると思います。人参は１種類でも大丈夫ですよ！もちろん普通の人参でＯＫです。",
+    "history": "いろんな種類の人参を買ったのでまた違った味のきんぴらを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "コーン",
+        "塩",
+        "醤油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2107459/100x141c/e999557b4766e12f565a716af3d7bd2d.jpg?u=2523795&p=1360066981"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "普通の豆腐ステーキ。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/668839/464x260/0dd27d346728767a5e59dba0a5bf13c5.jpg?u=970306&p=1271742887",
+    "datePublished": "2008-10-22",
+    "description": "2010/5/11話題入りしました。皆さんに感謝。なんてことない豆腐ステーキ。でも美味しいです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "植物油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "少々（２～３滴）"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は、クッキングペーパーに包んで３分半くらい電子レンジにかけ、水切りする。冷めたら３等分に切り、片栗粉を軽くまぶす。",
+        "フライパンに植物油を熱し、①の豆腐を中火で両面香ばしく焼く。酒をまわしかけ、酒が半分くらいになるまで煮詰める。",
+        "みりん・醤油を加え、豆腐とからめ合わせる。ゴマ油を落として出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "668839",
+    "advice": "豆腐はしっかり水分をきってください。",
+    "history": "母が作る豆腐ステーキの覚書です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "普通の豆腐ステーキ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/668839/100x141c/938a4f6ee8ac32c1015336b932036fae.jpg?u=970306&p=1271742887"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "簡単っ！◆レタスと竹輪の塩昆布サラダ◆",
+    "author": {
+        "@type": "Person",
+        "name": "komomoもも"
+    },
+    "image": "https://img.cpcdn.com/recipes/1439476/464x260/a94a0388ea2c12fe7af386fc3169b547.jpg?u=793202&p=1305443770",
+    "datePublished": "2011-05-15",
+    "description": "あっさり美味しくて、いま私がハマっているレタスの食べ方です♡お酒のお供にもいいですよ♫",
+    "recipeYield": "約２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは食べやすい大きさに手でちぎる。きゅうりと竹輪は薄くスライスする。",
+        "レタス・きゅうり・ちくわを器に盛り付け、食べる直前に塩昆布とゴマ油をかけ、よく混ぜて召し上がれ♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "1439476",
+    "advice": "*塩昆布とゴマ油は食べる直前にかけて下さいね。*塩昆布とゴマ油の分量はお好みで加減して下さい。",
+    "history": "居酒屋さんで食べたキャベツと塩昆布とゴマ油のサラダが美味しくて、レタスで再現してみました。冷蔵庫に残っていた竹輪を入れてみたところ、相性バッチリで美味しくできたのでレシピUPしました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "きゅうり",
+        "ちくわ",
+        "塩昆布"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/1439476/100x141c/c7f35b3f645c0e1ec39f2278404d4c0d.jpg?u=793202&p=1305443770"
+}

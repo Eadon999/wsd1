@@ -1,0 +1,60 @@
+{
+    "name": "お刺身盛り合わせで・海鮮丼",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4446204/464x260/6f58d9d6512c16f4e7ecf3c948676112.jpg?u=3099986&p=1490970189",
+    "datePublished": "2017-03-31",
+    "description": "簡単。美味しい。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "炊いたごはん",
+            "quantity": "丼いっぱい"
+        },
+        {
+            "name": "刺身盛り合わせ",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "いくらの醤油漬け",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ホタテの刺身",
+            "quantity": "1パック"
+        },
+        {
+            "name": "わさび",
+            "quantity": "少量"
+        },
+        {
+            "name": "海鮮丼のタレ",
+            "quantity": "小袋1袋"
+        }
+    ],
+    "recipeInstructions": [
+        "材料。",
+        "ごはんの上に刺身をのせる。\n真ん中にシソの葉をのせていくらをのせる。\n海鮮丼のたれをかける。\nわさびを添える。",
+        "参考。\n盛り付け例。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4446204",
+    "advice": "盛り付けはお好みで。シソの葉は、刺身についていたものを使いました。盛り付ける時に気をつけたこと→赤いお刺身の横には白いお刺身を置く感じで。少し重ねて、置いていくようにしました。",
+    "history": "手早く作りたい日の夕食に。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": [
+        "海鮮 6位"
+    ],
+    "related_keywords": [
+        "海鮮丼 たれ 簡単",
+        "海鮮丼 たれ",
+        "海鮮丼 タレ",
+        "醤油漬け 刺身"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4446204/100x141c/30071348950e91d3879fd8542b45e055.jpg?u=3099986&p=1490970189"
+}

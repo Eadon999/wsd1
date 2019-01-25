@@ -1,0 +1,54 @@
+{
+    "name": "[簡単]お弁当用♪白菜のゴママヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "こばやん＠あぐり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2062750/464x260/e6c0a9e0da5e246c16e25c80dc7f228d.jpg?u=5066957&p=1355991038",
+    "datePublished": "2012-12-20",
+    "description": "白菜を使って簡単にできるゴママヨ和えです。レンジでチンするだけなんでホント簡単です(笑)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "1つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を適当にカットし、耐熱ボウルなどに入れる",
+        "ラップをしてレンジで1分半ほど加熱し、火が通ったら湯気を出させて冷ます",
+        "白菜が冷めたらマヨネーズ、すりごま、ポン酢を入れよく混ぜる。",
+        "かつおぶしを入れてさらに混ぜたら完成♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2062750",
+    "advice": "白菜から水分が多めに出てる時は一度絞って水気をよくきって下さい。",
+    "history": "お弁当のおかずを冷蔵庫にあるものでどうにか簡単に出来ないかと思案しながら物色してたら…運よく白菜と出会いました(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ごまマヨネーズ和え",
+        "白菜 弁当"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2062750/100x141c/b0fca479a9b3ba1e0e9b6fb5f1357bc1.jpg?u=5066957&p=1355991038"
+}

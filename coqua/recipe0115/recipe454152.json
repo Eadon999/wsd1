@@ -1,0 +1,67 @@
+{
+    "name": "カルボナーラ",
+    "author": {
+        "@type": "Person",
+        "name": "image"
+    },
+    "image": "https://img.cpcdn.com/recipes/454152/464x260/173414c1dd89745e6b2d22c3367de1c8.jpg?u=509859&p=1214217686",
+    "datePublished": "2007-11-04",
+    "description": "いつもあんまり上手く出来ない…そんなあなたも、このレシピだと絶品カルボが出来ちゃいます。【一人前 769kcal 】",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "80ｇ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "A.生クリーム",
+            "quantity": "50ml"
+        },
+        {
+            "name": "A.牛乳",
+            "quantity": "70ml"
+        },
+        {
+            "name": "A.粉チーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たっぷりのお湯に塩を加え、パスタを少しかために茹でる。",
+        "フライパンに油を熱し、５mm幅に切ったベーコンを弱火で炒める。",
+        "ベーコンがカリッとしてきたら、A.と塩.胡椒を加え、20秒程強火で煮詰める。",
+        "火を止めパスタを入れて軽く混ぜ、卵黄も加え混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "454152",
+    "advice": "３.での塩加減は、味見して少し濃いかなくらいが良いです。 二人分作るときは面倒くさがらず、一人前ずつ作ってくださいね。そのほうが美味しく出来ます。",
+    "history": "試行錯誤の結果辿りついたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/カルボナーラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "ベーコン",
+        "卵黄",
+        "塩"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/454152/100x141c/2323872d1bd46e968c46f99503fb0874.jpg?u=509859&p=1214217686"
+}

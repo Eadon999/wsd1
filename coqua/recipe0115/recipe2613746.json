@@ -1,0 +1,75 @@
+{
+    "name": "隠し味が決め手！子供も大好き☆ナポリタン",
+    "author": {
+        "@type": "Person",
+        "name": "blue_point"
+    },
+    "image": "https://img.cpcdn.com/recipes/2613746/464x260/17a69127d36f369a99f8c871841e435a.jpg?u=9639482&p=1399167709",
+    "datePublished": "2014-05-04",
+    "description": "隠し味にマヨネーズで旨さ倍増ナポリタン",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "80g"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "2本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ2〜3"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "茹で汁",
+            "quantity": "お玉1杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱、ピーマンを縦薄切りにし、ウィンナーは食べやすい大きさに切る。",
+        "パスタは表示時間通りに茹でる。",
+        "フライパンで玉葱、ピーマン、ウィンナーを炒めて、火が通ったら麺とケチャップとバターと茹で汁を入れてさらに炒める。",
+        "マヨネーズを入れて更に軽く炒めて、塩、コショウで味を整えて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2613746",
+    "advice": "パルメザンチーズを入れてさらにとろみを出しても美味しいです。",
+    "history": "インスタントの焼きそばにマヨネーズが付属しているのを参考にして、パスタで試してみました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/ナポリタン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "ピーマン",
+        "玉葱",
+        "ウィンナー"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2613746/100x141c/e530a0d16b544751a029a7517a5b1a99.jpg?u=9639482&p=1399167709"
+}

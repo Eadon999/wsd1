@@ -1,0 +1,52 @@
+{
+    "name": "いくらでも食べれる＊キャベツの白だし和え",
+    "author": {
+        "@type": "Person",
+        "name": "＊Ａｎｎａ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2020887/464x260/2258b94b0bbfa6b51d1776c94f73b0e0.jpg?u=2200256&p=1352294733",
+    "datePublished": "2012-11-07",
+    "description": "キャベツがいくらでも食べれちゃいます♡蒸して絞って白だしを和えるだけ♡それだけなのにとっても美味しいんです♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個(300g)"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大3~4"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツをザク切りにし鍋に入れ、上から水を回し入れ、蓋をして中火で蒸す。",
+        "しんなりしたら火を止め、そのまま粗熱を取る。",
+        "粗熱が取れたら数回に分けてキャベツを両手でギューッと絞り、鍋に戻し、白だしを和える。",
+        "お皿に盛り、鰹節をたっぷり乗せて、完成です。",
+        "白だしはこちらを使用しました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2020887",
+    "advice": "洗い物を減らす為に鍋1つで作りました♡白だしは和えずに上からかけて食べてもいいです。キャベツは蒸さずに茹でてもOK。",
+    "history": "キャベツをたっぷり食べたい時はいつもこの食べ方です♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "水",
+        "白だし",
+        "鰹節"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2020887/100x141c/32a996e14da6dffdff6e624ae8bb5225.jpg?u=2200256&p=1352294733"
+}

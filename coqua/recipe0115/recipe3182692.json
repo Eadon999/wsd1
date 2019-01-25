@@ -1,0 +1,56 @@
+{
+    "name": "カリフラワーのマヨチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3182692/464x260/c4b3f35c669bf4ae142317ad3c9a82f3.jpg?u=3099986&p=1431940767",
+    "datePublished": "2015-05-18",
+    "description": "簡単。美味しい。ワインと一緒にどうぞ。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "カリフラワー",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ナツメグ",
+            "quantity": "少々"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "カリフラワーは\n小房に分けて、レンジにかける。\n量と、カリフラワーの状態により少し水を足してレンジにかけても良い。",
+        "1をグラタン皿に並べる。",
+        "マヨネーズをかける。",
+        "黒こしょうとナツメグをふる。",
+        "とろけるチーズをさいてのせる。",
+        "オープントーストで焼く。",
+        "できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3182692",
+    "advice": "香辛料は好みで つかってもおいしい。バジル、カレー粉など。",
+    "history": "Oさんに教えてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリフラワー チーズ焼き",
+        "カリフラワー マヨネーズチーズ焼き"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3182692/100x141c/676a2284556112b9474f0b0763285013.jpg?u=3099986&p=1431940767"
+}

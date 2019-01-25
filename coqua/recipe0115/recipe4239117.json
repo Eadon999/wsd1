@@ -1,0 +1,53 @@
+{
+    "name": "レンジで1分40秒！めんつゆコロッケ丼",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4239117/464x260/5b5178d60ffae73933e4fd0599054267.jpg?u=4376699&p=1481818823",
+    "datePublished": "2016-12-31",
+    "description": "コロッケ煮でおかずにも♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "コロッケ",
+            "quantity": "1個"
+        },
+        {
+            "name": "葱",
+            "quantity": "5cm"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "コロッケを切って\n葱を斜め薄切り",
+        "耐熱ボールに葱を敷きつゆをかけコロッケを乗せてラップをしてレンジ600w1分チン",
+        "溶き卵を掛けてラップを戻して40秒チンで完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4239117",
+    "advice": "コツなし簡単！",
+    "history": "レンジで1分40秒！ほんだし親子丼風にめんつゆで！ID:2124997",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コロッケ丼",
+        "コロッケ 丼 めんつゆ",
+        "1分 おかず"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4239117/100x141c/b87a7ef2556285aa06d91404526c903a.jpg?u=4376699&p=1481818823"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "簡単！牛肉ともやしの塩コショウ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2697540/464x260/63e012c73c70a595085b9edebde684ac.jpg?u=496128&p=1404469800",
+    "datePublished": "2014-07-04",
+    "description": "黒コショウをたっぷりかけスパイシーにするのがおススメ。フライパンで簡単♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉薄切り",
+            "quantity": "180ｇ"
+        },
+        {
+            "name": "もやし",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "（あれば）万能ねぎ、黒コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "鶏ガラの素",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "水",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "①牛肉に片栗粉をまぶす。",
+        "②フライパンに油を熱し、①を焼く。",
+        "③②にもやしを加え。炒める。",
+        "④③にたれの材料を入れ、サッと炒める。塩コショウで味をととのえて下さい。",
+        "⑤皿に盛り、万能ねぎをのせる。",
+        "⑥黒コショウたっぷりかけて頂くのがおススメ。Ｓ＆Ｂブッラックペッパー（あらびきミル）使用。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2697540",
+    "advice": "塩コショウの量はお好みで。",
+    "history": "しょうゆ、オイスターソースなどの炒め物にあきたので。たまにはシンプルな味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉塩胡椒炒め",
+        "牛肉炒め 塩コショウ もやし",
+        "牛肉 もやし",
+        "牛肉 薄切り もやし"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2697540/100x141c/9aecbca82d55b8fd6f17c1b048aee9da.jpg?u=496128&p=1404469800"
+}

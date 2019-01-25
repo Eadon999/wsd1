@@ -1,0 +1,58 @@
+{
+    "name": "春色・ほうれん草とコーンのバター醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ミシェルとパスカル"
+    },
+    "image": "https://img.cpcdn.com/recipes/2518816/464x260/cd896e7f4a215c4fb6bb43769c3c9738.jpg?u=3750633&p=1393247645",
+    "datePublished": "2014-02-24",
+    "description": "冷蔵庫にある菜っ葉とコーン缶ですぐできるお財布に優しいお惣菜です。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１把"
+        },
+        {
+            "name": "コーン缶",
+            "quantity": "１つ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は洗って食べやすい長さに切っておく。",
+        "フライパンを強火で熱し、バターを落としたらコーン→ほうれん草の茎→葉→塩こしょうの順に入れてさっと炒める。",
+        "２全体がしんなりしたら鍋肌から醤油を回し入れ香りと味をつける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2518816",
+    "advice": "菜っ葉ならなんでも使えちゃいます。水っぽくならないよう強火で手早く炒めます。",
+    "history": "冬が終わりに近づいた頃、春を感じさせる彩りのいい一品が欲しくて作ったお惣菜です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "コーン缶",
+        "バター",
+        "醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2518816/100x141c/44aa4a84de285df4cd9ca0cc83b74bcb.jpg?u=3750633&p=1393247645"
+}

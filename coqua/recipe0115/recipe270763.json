@@ -1,0 +1,45 @@
+{
+    "name": "冬瓜のツナ和え",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/270763/464x260/f9b1ed2cba193df2b09fe9aa6eb7acce.jpg?u=57297&p=1214213393",
+    "datePublished": "2006-07-31",
+    "description": "大根よりマイルドな感じ☆《パパッと一品☆》",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜",
+            "quantity": "適量"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "少し"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜を千切りして、塩でもんで置いときます。\r\n冬瓜もツナもよ～く絞って、\r\nごま油を少し垂らして和えます。",
+        "",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "270763",
+    "advice": "http://plaza.rakuten.co.jp/ochazuke ここがお茶丸の楽天サイトです、楽しい日記を書いてるので覗いてみてね(=^･^=)",
+    "history": "冬瓜を買ったので、いっぱいあるでしょ、冬瓜(^m^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "ツナ",
+        "塩"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/270763/100x141c/414633d22571a50c7ca9feb7dce792aa.jpg?u=57297&p=1214213393"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "ヘルシー肴♪豆腐ときゅうりの塩昆布和え",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/3534399/464x260/5cb2ab601b7c61cee2a732c8ae516083.jpg?u=9664115&p=1448286225",
+    "datePublished": "2015-11-24",
+    "description": "和えるだけの簡単ヘルシーおつまみです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "絹どうふ",
+            "quantity": "半丁"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆めんつゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆塩昆布",
+            "quantity": "2つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "絹どうふをキューブ状に切り、水を切る。\n時間があれば重しを乗せて・またはレンチンで1分で簡単に。",
+        "きゅうりを一口大に切る。",
+        "ボールに1と2、☆を全て入れて豆腐が崩れないように混ぜる。\n馴染んだら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3534399",
+    "advice": "時間があれば鶏ガラスープの素だけを和え少し時間を置くと味がより馴染みおいしくなります。",
+    "history": "あと一品ほしくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ヘルシーおつまみ",
+        "豆腐 きゅうり 塩昆布",
+        "きゅうりの塩昆布和え"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3534399/100x141c/fea73cac2ccaa2e6d74b4c89335435db.jpg?u=9664115&p=1448286225"
+}

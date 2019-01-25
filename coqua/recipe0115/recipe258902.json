@@ -1,0 +1,56 @@
+{
+    "name": "トマトと葱の美味しい冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/258902/464x260/c758bcec8c40cb7965704956e12054a5.jpg?u=57297&p=1214213114",
+    "datePublished": "2006-06-08",
+    "description": "お豆腐って、沢山食べると飽きるでしょこれはどっさり食べれるよ。《 続冷奴を美味しく食べる企画♪》",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大１個"
+        },
+        {
+            "name": "葱",
+            "quantity": "どっさり"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "麺つゆ(市販の）",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐をばバサバサ切って\r\nざく切りトマトと葱をどっさり乗っけます",
+        "タレ：市販の麺つゆ１、おろしニンニク１片、ごま油小さじ１",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "258902",
+    "advice": "トマトニンニクダレ、夏は連続で食べてます！",
+    "history": "お豆腐美味しく食べる企画色々やってます(^m^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷奴"
+    ],
+    "tsukurepo_count": "530",
+    "thumbnail": "https://img.cpcdn.com/recipes/258902/100x141c/13ca817506f9f5b9fc61c8b24d1bfb75.jpg?u=57297&p=1214213114"
+}

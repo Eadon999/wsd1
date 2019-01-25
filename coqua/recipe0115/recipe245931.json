@@ -1,0 +1,46 @@
+{
+    "name": "いかのバター醤油焼き",
+    "author": {
+        "@type": "Person",
+        "name": "鴨やん"
+    },
+    "image": "https://img.cpcdn.com/recipes/245931/464x260/5863ddc6627170a19be081b86115f297.jpg?u=218600&p=1214212817",
+    "datePublished": "2006-03-27",
+    "description": "　簡単料理の決定版！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "いか",
+            "quantity": "１ぱい"
+        },
+        {
+            "name": "バター",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "　いかは、中のわたを取って足は1本づつ切る。\r\n　胴体には切り込みを入れる。",
+        "　フライパンにバターを入れて、いかを入れて焼く。\r\n　両面焼いたら、醤油を入れて絡める。",
+        "　胴体を取り出し、切る。\r\n　皿に盛る。バター醤油を上からかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "245931",
+    "advice": "　焼きすぎないようにしてね。",
+    "history": "　「いか焼き」が食べたい！と言われて、じゃ、うちで作ってあげるという事で出来ました。美味しいよ～！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの温副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ 焼き",
+        "イカ 醤油焼き",
+        "いか バター 醤油"
+    ],
+    "tsukurepo_count": "338",
+    "thumbnail": "https://img.cpcdn.com/recipes/245931/100x141c/3fc7bbe1758f9236b92148a8b7c141f2.jpg?u=218600&p=1214212817"
+}

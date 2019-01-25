@@ -1,0 +1,75 @@
+{
+    "name": "我が家の味♪かぶとがんもの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "毎日楽しい"
+    },
+    "image": "https://img.cpcdn.com/recipes/3111769/464x260/8234a940fe5b11dcfe8933f05a80c982.jpg?u=560969&p=1428700829",
+    "datePublished": "2015-04-11",
+    "description": "美味しいがんもや厚揚げで簡単に、生姜が香る美味しい１品",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "４～５個"
+        },
+        {
+            "name": "カブの葉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "がんも（小）",
+            "quantity": "６個（１５０ｇ）"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖（きび砂糖)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "生姜(すりおろし)",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "４００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "がんもと厚揚げは湯通しする。\n厚揚げは食べやすい切っておく。",
+        "かぶはよく洗って、２～４等分に切っておく。\nカブの葉はさっと茹でて、５ｃｍくらいに切っておく",
+        "鍋にだし汁、砂糖、醤油、酒、みりんを入れて、かぶ、がんも、厚揚げを入れて１０分煮る。",
+        "仕上げにカブの葉、生姜のすりおろしを入れる。\n（お子さんが小さい場合は入れなくても）"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3111769",
+    "advice": "がんもや厚揚げは湯通ししたほうが美味しいです。",
+    "history": "実家からかぶをもらうとよく作っていた１品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "がんも",
+        "厚揚げ",
+        "醤油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3111769/100x141c/7162414b513bf3940d7a2e05cd79f6f6.jpg?u=560969&p=1428700829"
+}

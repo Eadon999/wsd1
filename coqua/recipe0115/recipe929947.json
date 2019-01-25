@@ -1,0 +1,72 @@
+{
+    "name": "わかめと大豆の混ぜご飯",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/929947/464x260/a562bb0131f606661af79861434877e3.jpg?u=625487&p=1254899135",
+    "datePublished": "2009-10-08",
+    "description": "身体のよろこぶご飯です",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗４膳分"
+        },
+        {
+            "name": "水煮大豆",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ１・１／２"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１・１／２"
+        },
+        {
+            "name": "◎おろし生姜",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "大葉、小葱等(お好みで)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥わかめは水で戻し、大きければ適当に刻む。",
+        "鍋に◎の調味料を煮立て、１を加えて時々混ぜながら中火で加熱する。",
+        "汁気がほぼ無くなったら炒り胡麻を加え、ざっと混ぜて火を止める。",
+        "温かいご飯に３を混ぜ合わせる。",
+        "茶碗によそう。\r\nお好みにより、せん切りにした大葉や刻んだ小葱等をのせる。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "929947",
+    "advice": "おろし生姜の分量は、お好みにより増減して下さい。",
+    "history": "ヘルシーで身体によい素材を集め、短時間で作れて朝に嬉しいご飯レシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "水煮大豆",
+        "乾燥わかめ",
+        "炒り胡麻"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/929947/100x141c/3e6083da1652c6f9fe38576500c464f7.jpg?u=625487&p=1254899135"
+}

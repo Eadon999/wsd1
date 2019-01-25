@@ -1,0 +1,58 @@
+{
+    "name": "キャベツと桜海老のチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "MARIKUNA"
+    },
+    "image": "https://img.cpcdn.com/recipes/2184111/464x260/6e201a5d4fef655915c9ef7fdd2218e0.jpg?u=222383&p=1365417699",
+    "datePublished": "2013-04-08",
+    "description": "シンプルで美味しい春の味覚！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "冷ご飯",
+            "quantity": "ご飯茶碗3倍分ほど"
+        },
+        {
+            "name": "キャベツ(みじん切り)",
+            "quantity": "キャベツ半個分"
+        },
+        {
+            "name": "桜海老",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ナムプラー",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンを熱し、油を入れてから、キャベツのみじん切り（大きめでいい）を入れて炒める。",
+        "塩を振り入れ、ある程度炒めたら、冷ご飯を投入。ぽろぽろなるように炒める。",
+        "ご飯がぽろぽろになったら桜海老を入れて軽く炒め、仕上げにナムプラーをまわしかけて味をつける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2184111",
+    "advice": "お好みで白ゴマを振っても合います。",
+    "history": "ご飯を炊いたら、大量に余ってしまい、冷蔵庫に合ったキャベツ半個をつかってチャーハンに。しっかり味がして美味しいです！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷ご飯",
+        "キャベツ",
+        "桜海老",
+        "塩"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2184111/100x141c/b6c365b15ca4f68aad80e9bfac7359a9.jpg?u=222383&p=1365417699"
+}

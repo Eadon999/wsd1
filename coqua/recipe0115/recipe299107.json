@@ -1,0 +1,49 @@
+{
+    "name": "水菜と油揚げのマヨポン酢サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "メーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/299107/464x260/b92e00057777a9f6479be3b773d76d1d.jpg?u=264499&p=1214214014",
+    "datePublished": "2006-11-10",
+    "description": "水菜のオイシイ季節になってきたので、こんなサラダはいかがでしょう。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズとポン酢",
+            "quantity": "１：１"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げをフライパンで中火でカリカリに焼き、食べやすい大きさに細切りにする。",
+        "水菜は３センチくらいに切る。",
+        "ポン酢とマヨネーズを一対一で混ぜ水菜と油揚げ、白ゴマを加えて和えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "299107",
+    "advice": "油揚げはカリカリに焼いた方がおいしいです。",
+    "history": "お鍋の残り水菜の活用法を考えてて・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "油揚げ",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/299107/100x141c/04c643de3a9f8842b765948339ffd17b.jpg?u=264499&p=1214214014"
+}

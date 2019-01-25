@@ -1,0 +1,44 @@
+{
+    "name": "アボカドの＊マヨごま昆布あえ＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/1022620/464x260/b34c65c4e5055cbc7253adc52aff406a.jpg?u=239563&p=1264649764",
+    "datePublished": "2010-01-28",
+    "description": "アボカドをごま昆布の佃煮とマヨネーズであえるだけの簡単レシピ。おつまみにも和風サラダとしても美味しいです！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごま昆布（佃煮）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは種を取り皮をむき１～２ｃｍ角に切る。",
+        "ごま昆布とマヨネーズをよく混ぜ合わせる。",
+        "切ったアボカドを②であえたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1022620",
+    "advice": "アボカドは熟しすぎたものだと、つぶれてペースト状になってしまうので、ちょうどいい食べ頃の物を選んでください。",
+    "history": "アボカド好きの私。いつもどんな手を使ってアボカドを食べようかと考えています（笑）家にあるものを組み合わせてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1022620/100x141c/d80de072dcb1385717cf4771240a7ada.jpg?u=239563&p=1264649764"
+}

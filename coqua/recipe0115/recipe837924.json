@@ -1,0 +1,71 @@
+{
+    "name": "豚バラ肉のピリ辛焼き",
+    "author": {
+        "@type": "Person",
+        "name": "chi-bo-3"
+    },
+    "image": "https://img.cpcdn.com/recipes/837924/464x260/22e7f31f812ab53233decd95251cf227.jpg?u=639499&p=1244976682",
+    "datePublished": "2009-06-14",
+    "description": "にんにくとコチュジャンでスタミナ付けよう！ご飯が進む君です！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉（かたまり）",
+            "quantity": "６００g"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく（摩り下ろし）",
+            "quantity": "１片"
+        },
+        {
+            "name": "しょうが（摩り下ろし）",
+            "quantity": "１片"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉を８mmの厚さに切って塩胡椒する。",
+        "合わせ調味料を用意",
+        "ばら肉をフライパンに並べて　じっくり脂を出すように焼く",
+        "脂をペーパーなどで切って　フライパンに戻し　合わせ調味料を加え　さっと炒め絡める。\r\n胡麻を振りかけ出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "837924",
+    "advice": "肉が重ならないようにフライパンに並べて　片面をじっくり焼いて　表面がやや白くなるまで焼いてから裏返す。あまり肉をいじらないことがコツです。",
+    "history": "これから暑くなる季節　スタミナを付けるのに最高です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "塩胡椒",
+        "合わせ調味料",
+        "にんにく"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/837924/100x141c/f1f96897d8cb94c3899058a4a01fa510.jpg?u=639499&p=1244976682"
+}

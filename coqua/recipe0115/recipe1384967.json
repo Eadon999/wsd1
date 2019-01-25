@@ -1,0 +1,64 @@
+{
+    "name": "電子レンジで簡単！お豆腐揚げ玉煮",
+    "author": {
+        "@type": "Person",
+        "name": "ナナ☆ハッチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1384967/464x260/290c77af959d8952263c02b7af827b14.jpg?u=2658720&p=1299831920",
+    "datePublished": "2011-03-11",
+    "description": "あともう１品欲しいな～って時に、少ない材料ですぐにできちゃいます☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "揚げ玉",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "たまご",
+            "quantity": "1個"
+        },
+        {
+            "name": "薬味ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐1/2丁を6～8等分にし、それぞれ器に入れる。煮汁の材料を合わせておく。",
+        "煮汁を器に入れ、揚げ玉を加えラップをしてレンジ（600ｗ）で2分～2分半加熱。",
+        "1度取り出し、溶き卵を回しかけ、ラップをしてレンジで30～40秒加熱。ねぎをふりかけ出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1384967",
+    "advice": "揚げ玉多めが美味しい(*^_^*)",
+    "history": "レンジで簡単にもう1品！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 天かす レンジ",
+        "豆腐天かす"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1384967/100x141c/28c0d641007fd69d9ffe88564558c47b.jpg?u=2658720&p=1299831920"
+}

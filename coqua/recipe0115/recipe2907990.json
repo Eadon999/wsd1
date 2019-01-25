@@ -1,0 +1,63 @@
+{
+    "name": "ホエー漬お肉ときのこ・ぶーこポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ふぅchan×104"
+    },
+    "image": "https://img.cpcdn.com/recipes/2907990/464x260/081b9905cb67b3f00f2d9d9769084aed.jpg?u=4141146&p=1419069341",
+    "datePublished": "2014-12-21",
+    "description": "水切りヨーグルトを作った時に出た乳清(ホエー)は捨てないで!お肉を漬けこんで!",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉切り落とし",
+            "quantity": "100g"
+        },
+        {
+            "name": "ホエー(水切りヨーグルトの乳清)",
+            "quantity": "150～200cc"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "えりんぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "40g"
+        },
+        {
+            "name": "油(炒め用)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1～2"
+        }
+    ],
+    "recipeInstructions": [
+        "①水切りヨーグルトで出来た乳清（ホエー）に肉をつけておきます。(30分～1時間)",
+        "②フライパンに油をひいて、薄切りした玉ねぎ・エリンギ・舞茸と①の肉を入れて塩コショウをし、ポン酢で味付けします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2907990",
+    "advice": "バラ肉も柔らかくなります。",
+    "history": "ホエー(乳清)の利用法は色々ありますが、これ！なかなかいいと思います。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホエー 肉",
+        "ホエー 漬け"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2907990/100x141c/ba276a706148ec523d7c4d933b9245fd.jpg?u=4141146&p=1419069341"
+}

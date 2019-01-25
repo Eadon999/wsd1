@@ -1,0 +1,48 @@
+{
+    "name": "かぶのイタリアンソテー",
+    "author": {
+        "@type": "Person",
+        "name": "かぼちゃニョッキ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2019727/464x260/08d4813e68d5a686f1669c067fe35d40.jpg?u=448922&p=1353238915",
+    "datePublished": "2012-11-18",
+    "description": "かぶって焼くと美味しいよ!!オリーブオイルとの相性抜群★茎も一緒にササッと焼いて~13/02/15話題入り❤感謝!!",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "１株"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩、黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは１センチ幅に切る。葉も５センチくらいに切る。",
+        "フライパンにオリーブオイルを熱し、かぶと葉を強火で両面をさっと焼く。",
+        "両面に焼き色がついたら、仕上げに塩、黒コショウをふり、しょうゆをほんの少したらして火を止める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2019727",
+    "advice": "強めの火力でサッと焼いて、すぐに食べて下さい。",
+    "history": "がぶが出回ったら、必ず作ります(*>∀<*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ ソテー",
+        "かぶ　イタリアン"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/2019727/100x141c/aab394a8bba511c8a48cdacdeb12f6fe.jpg?u=448922&p=1353238915"
+}

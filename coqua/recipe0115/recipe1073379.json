@@ -1,0 +1,54 @@
+{
+    "name": "干し貝柱の炊き込みごはん",
+    "author": {
+        "@type": "Person",
+        "name": "kanakoy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1073379/464x260/a530459b39d3386258cbe01d7e774dc8.jpg?u=60045&p=1274647860",
+    "datePublished": "2010-05-24",
+    "description": "どこにいっても干し貝柱にぶつかる贅沢炊き込みご飯。",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "干し貝柱",
+            "quantity": "８個"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "干し貝柱の戻し汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "干し貝柱を水（500ｃｃ程度）に浸し、一晩戻しておく。",
+        "お米をどぎ、干し貝柱をほぐしながら入れ、調味料・干し貝柱の戻し汁で2合のラインまで水分をたす。（足りなかったら水で代用）",
+        "スイッチオンで炊飯が終わったら完成！よく混ぜて召し上がってください。"
+    ],
+    "cookTime": "PT120M",
+    "recipe_id": "1073379",
+    "advice": "",
+    "history": "義母に干し貝柱をいただき作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "干し貝柱 2位"
+    ],
+    "related_keywords": [
+        "干し貝柱 炊き込みご飯",
+        "干し貝柱"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1073379/100x141c/7ccedd133c9c9e6ce1400190bff31b21.jpg?u=60045&p=1274647860"
+}

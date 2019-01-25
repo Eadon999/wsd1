@@ -1,0 +1,72 @@
+{
+    "name": "もやし☆照り焼きハンバーグ",
+    "author": {
+        "@type": "Person",
+        "name": "MyDining"
+    },
+    "image": "https://img.cpcdn.com/recipes/488890/464x260/898141232ebc83b83ce0ab3cc8c0ab6f.jpg?u=619713&p=1276745230",
+    "datePublished": "2008-01-15",
+    "description": "【2014/09/15に話題入リ】もやしのシャキシャキ食感(^^)＆大葉がさっぱりアクセントに！",
+    "recipeYield": "中８個",
+    "recipeIngredient": [
+        {
+            "name": "合びき肉",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "△塩・こしょう、ナツメグ",
+            "quantity": "各少々"
+        },
+        {
+            "name": "★パン粉・牛乳",
+            "quantity": "2/3C・1/4C"
+        },
+        {
+            "name": "★卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "◎小麦粉",
+            "quantity": "大1"
+        },
+        {
+            "name": "◎もやし（ざく切り）",
+            "quantity": "1袋"
+        },
+        {
+            "name": "▲大葉（せん切り）",
+            "quantity": "10枚"
+        },
+        {
+            "name": "酒・砂糖",
+            "quantity": "各大２"
+        },
+        {
+            "name": "みりん・しょう油",
+            "quantity": "各大２～３"
+        }
+    ],
+    "recipeInstructions": [
+        "もやし洗って \n1～2ｃｍざく切り\n（※そのまま入れ混ぜるときに手で折りながらでも）\n大葉も粗みじん切り",
+        "合びき肉に　△塩・黒こしょう、ナツメグをふり　まず練る",
+        "★パン粉と牛乳\r\n◎ざく切りもやし＆小麦粉\r\n合わせ\r\n卵・大葉も",
+        "よーく練る \r\n",
+        "大きさはお好みで",
+        "返したら　フタして　弱火で蒸し焼き　6～7分",
+        "ペーパーで余分な脂＆水分ざっと取り",
+        "酒・みりん・砂糖、しょう油の順に入れ　１～2分強火で煮からめたら完成！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "488890",
+    "advice": "♪ソースは染み込ませ・・あっさりめで　",
+    "history": "　もやしがシャキッと、大葉、照りソースと♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/ハンバーグ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし ハンバーグ"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/488890/100x141c/a6e5ec2240e29c5aa1158c04b34e5f03.jpg?u=619713&p=1276745230"
+}

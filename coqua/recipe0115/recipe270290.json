@@ -1,0 +1,58 @@
+{
+    "name": "じゃがいも味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "とろです"
+    },
+    "image": "https://img.cpcdn.com/recipes/270290/464x260/1c3ad8831c6b3e213cae4f598eec58ab.jpg?u=248457&p=1214213381",
+    "datePublished": "2006-07-29",
+    "description": "うちのじゃがいもの味噌汁には、にんにくと白すりゴマ入り♪おいしいし夏ばて防止にも◎",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "３個くらい"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "すりゴマ白",
+            "quantity": "大さじ2強"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量（大さじ2.5）"
+        },
+        {
+            "name": "だし",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "適量（約800ｃｃ）"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水と適当に切ったじゃがいもを入れてゆでる。じゃがいもが、やわらかくなる手前で、にんにくのすりおろしとだし、味噌をいれて最後にゴマもたっぷりいれて出来上がり♪",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "270290",
+    "advice": "じゃがいもが、崩れる前に出来上がるのが◎ 水、味噌を適量にしていたんですが、だいたいの目安に書きました（２/28）",
+    "history": "うちの味噌汁には、白すりゴマをたっくさん入れます。いつのまにかカルシウム補給も出来るし、とってもおいしいよ（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "にんにく",
+        "味噌",
+        "だし"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/270290/100x141c/75fd26cd5ceb04e533e32b0e4adc9177.jpg?u=248457&p=1214213381"
+}

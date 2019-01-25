@@ -1,0 +1,83 @@
+{
+    "name": "ドライカレー",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1146959/464x260/42e2c4368f84515c60ad7234ec40b29e.jpg?u=377757&p=1275489669",
+    "datePublished": "2010-06-02",
+    "description": "ちゃちゃっと簡単！ドライカレー☆ランチにどうぞ♪お弁当にも◎",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中1個"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "バター",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "○カレー粉",
+            "quantity": "大さじ３／４"
+        },
+        {
+            "name": "○ウスターソース",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○ガラムマサラ（あれば）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "しょうが、にんにくはみじん切りにする。\n玉ねぎとにんじんは粗みじん切りに。\n鶏肉に塩コショウをして下味をつけておく。",
+        "フライパンにバターを入れて泡が出てきたら生姜とにんにくを入れる。香りがしてきたら玉ねぎとにんじんも入れて炒める。",
+        "野菜が透き通ったら、鶏ひき肉も入れてしゃもじで細かくしながら炒める。",
+        "３に○の材料を入れて炒めて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1146959",
+    "advice": "ピーマンをいれても美味しいです！野菜はしっかりと炒めてくださいね＾＾",
+    "history": "鶏ひき肉を使って簡単にドライカレーを作ろうと思ったので！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/ドライカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ひき肉",
+        "にんじん",
+        "玉ねぎ",
+        "しょうが"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1146959/100x141c/895d5231d9ff9686c2934e7ad2a04bc2.jpg?u=377757&p=1275489669"
+}

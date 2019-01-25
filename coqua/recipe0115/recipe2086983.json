@@ -1,0 +1,55 @@
+{
+    "name": "残ったご飯で簡単！海苔雑炊♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2086983/464x260/cc945f9121779d4bd7fe10a5b6518bf5.jpg?u=603745&p=1447761360",
+    "datePublished": "2013-01-18",
+    "description": "残ったご飯を使ってお手軽雑炊!!材料も少なく、すぐに作れて美味しい～♪朝ごはんや夜食にも良いですよ☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "100g"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "焼のり",
+            "quantity": "1/4枚"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１/2"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお湯を沸かします。",
+        "ご飯を加えてほぐします。",
+        "☆の調味料を加えます。",
+        "焼のりを加えます。",
+        "お湯に入れたら良く混ぜ合わせてください。",
+        "海苔がパラパラになったら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2086983",
+    "advice": "お好みでネギ等をトッピングしてくださいね♪",
+    "history": "中途半端に残ったご飯がもったいないので、焼き海苔と一緒に雑炊にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "のり雑炊",
+        "消化にいい 雑炊"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2086983/100x141c/8cca6b316ce879534892f35cb31b8027.jpg?u=603745&p=1447761360"
+}

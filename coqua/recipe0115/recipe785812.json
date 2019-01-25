@@ -1,0 +1,48 @@
+{
+    "name": "はんぺんのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/785812/464x260/471dfbe4a5c083db2fe8e5fd08fc28ff.jpg?u=1088838&p=1358429984",
+    "datePublished": "2009-04-17",
+    "description": "話題入りありがとう！油はオリーブオイルでもバターでもマーガリンでもなんでもOK！サクッふわっ♪美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "白炒り胡麻",
+            "quantity": "大２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大２"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんを８等分して胡麻をまぶし、隙間にチーズをしっかりまぶす。",
+        "油をひいたフライパンでこんがり焼いたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "785812",
+    "advice": "粉チーズをしっかりまぶすこと。",
+    "history": "はんぺんってペタペタしてるから、何かまぶせそうだなと思って作ってみました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "オリーブオイル",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/785812/100x141c/9dfc1647a597d4cf7f77a2435d0e8872.jpg?u=1088838&p=1358429984"
+}

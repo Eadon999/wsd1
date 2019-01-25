@@ -1,0 +1,58 @@
+{
+    "name": "ウインナもやしピーマン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ぽんぽあーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/857405/464x260/38fb8e2232195afe790f1885340f1df7.jpg?u=231407&p=1246806283",
+    "datePublished": "2009-07-06",
+    "description": "簡単しゃきしゃき炒め物",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "小８本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "塩・粗挽き胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大き目のテフロン加工フライパンに湯をわかして、洗ったもやしを入れて湯通ししてザル等にあけて水気を切る。",
+        "縦半分に切ったウインナをテフロン加工のフライパンに入れて火にかけ、みりんと醤油を加えて炒める。",
+        "１、のもやしと細切りにしたピーマンを加えて炒め、軽く塩・胡椒をして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "857405",
+    "advice": "テフロン加工のフライパンで、油を入れずに炒めます。もやしのしゃきしゃきが残るくらいに火を入れます。",
+    "history": "冷蔵庫にあったもので、簡単に作りました（笑）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ウインナー",
+        "ピーマン",
+        "みりん"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/857405/100x141c/68584b6433dc25c6b3e2ba678e1ba151.jpg?u=231407&p=1246806283"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "豚コマで酢ポークチャップ",
+    "author": {
+        "@type": "Person",
+        "name": "ここそら"
+    },
+    "image": "https://img.cpcdn.com/recipes/1071656/464x260/c857bb8c7d8c7babcd8ac3423df39989.jpg?u=725179&p=1268805418",
+    "datePublished": "2010-03-17",
+    "description": "ご飯もお弁当もすすむ簡単おいしいポークチャップ。酢がはいっているから、油っこくなく冷めてもさっぱりいただけます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚コマ切れ肉",
+            "quantity": "３００～４００ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "大1個"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "カップ１/２"
+        },
+        {
+            "name": "中濃ソース",
+            "quantity": "カップ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "２０ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは５ｍｍくらいのくし切りにする。",
+        "フライパンにサラダ油を少々を入れ熱したところに塩・コショウで下味をつけた豚肉、玉ねぎを入れ軽く炒める。",
+        "肉の色が変わったら、残りの材料をすべて入れ、塩コショウで味を調えてから、煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1071656",
+    "advice": "",
+    "history": "いつものポークチャップを酢でさっぱり作ってみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "ケチャップ",
+        "中濃ソース",
+        "砂糖"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1071656/100x141c/c2bb33bf8ac6e2a5426b52afc5ef42f4.jpg?u=725179&p=1268805418"
+}

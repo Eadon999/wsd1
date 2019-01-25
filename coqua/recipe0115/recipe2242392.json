@@ -1,0 +1,49 @@
+{
+    "name": "ズッキーニとソーセージのバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2242392/464x260/bab92f002f750bd14e431735b2f42a6a.jpg?u=2513693&p=1370031153",
+    "datePublished": "2013-06-01",
+    "description": "ズッキーニはこんがり焼くと美味しいです。ソーセージと一緒にバターソテーでぜひどうぞ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "2本"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "塩、粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは7ミリ程度の斜め切り、ソーセージも薄く斜め切りにしておく",
+        "フライパンにバターを熱し、ズッキーニの両面をこんがりするまで焼き軽く塩こしょうをする。",
+        "ソーセージを加えざっと炒めて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2242392",
+    "advice": "味がつきにくいズッキーニには、直接塩こしょうをかけます。",
+    "history": "ズッキーニは焼肉などでもよく使う野菜ですが、こんがり焼くと美味しいので、ソーセージと一緒にバターソテーしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "ソーセージ",
+        "バター"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2242392/100x141c/6f1f8ed1b515863058ad9f6c08f34cbc.jpg?u=2513693&p=1370031153"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "西域風ラム肉の土鍋料理",
+    "author": {
+        "@type": "Person",
+        "name": "Yini"
+    },
+    "image": "https://img.cpcdn.com/recipes/2146487/464x260/5c5cfe6ac5b8b4b8ab50c20d31370d93.jpg?u=5486727&p=1362743770",
+    "datePublished": "2013-03-08",
+    "description": "ラム肉が一番おいしく食べられる、本場の西域料理です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ラム肉",
+            "quantity": "350g"
+        },
+        {
+            "name": "大根",
+            "quantity": "300g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "春雨",
+            "quantity": "40g"
+        },
+        {
+            "name": "ねぎ(仕上げ用）",
+            "quantity": "10g"
+        },
+        {
+            "name": "使い残した梅干しの種（あれば）",
+            "quantity": "10個ほど"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "5g"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "5g"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "30g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "20g"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "15g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "5g"
+        },
+        {
+            "name": "水",
+            "quantity": "200g"
+        }
+    ],
+    "recipeInstructions": [
+        "ラム肉に調味料Ａを\n加えて混ぜる。1時間以上味付る。",
+        "クミンをフライパンで空焼きする。パリパリ跳ねたら、フライパンから取り出す。",
+        "フライパンで味付たラム肉がサラダ油を使わないでしっかり焼く。ラム肉から油が出たら、クミンを加えて一緒に炒める。",
+        "土鍋に調味料Ｂを合わせて沸騰する。",
+        "肉の色が変わったら、４．の土鍋に移す。",
+        "乱切りした玉ねぎと大根を土鍋に入れる。",
+        "蓋をして30分煮込む。",
+        "春雨を入れて少し煮たら完成。\n食べる直前に、刻んだねぎを土鍋に入れる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2146487",
+    "advice": "*クミンを焦げないように。*ラム肉をよく焼いてから煮ると臭みが少なくなる。",
+    "history": "クミンはラム肉の臭みを消せるので、西域料理によく使われています。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ラム肉",
+        "その他/スパイス＆ハーブ/クミン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ラム肉 大根"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2146487/100x141c/3cebba1ec77eff45258e3283ba5ed77a.jpg?u=5486727&p=1362743770"
+}

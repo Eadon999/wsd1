@@ -1,0 +1,62 @@
+{
+    "name": "納豆きゃべつ（和風）",
+    "author": {
+        "@type": "Person",
+        "name": "tomokoshiawase"
+    },
+    "image": "https://img.cpcdn.com/recipes/515514/464x260/baaf208c1e80813d9ef17f1c5f9d8146.jpg?u=453382&p=1214218852",
+    "datePublished": "2008-02-24",
+    "description": "納豆ときゃべつの組み合わせが好き☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック（３０ｇ使用）"
+        },
+        {
+            "name": "きゃべつ",
+            "quantity": "１～２枚"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "だし醤油（４倍濃縮）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "もみのり",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつの量はお好みで。（自分は多めが好きです。）",
+        "千切りにし、",
+        "器にもり、",
+        "鰹節をパラパラ・・・",
+        "納豆とだし醤油・ごまを合わせ混ぜ混ぜ・・・",
+        "器にのっけて、",
+        "もみのりをかけて頂きます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "515514",
+    "advice": "だし醤油でなくても、添付タレ・めんつゆ・醤油等お好みの量でご使用ください。きゃべつが多いと味が薄くなります。醤油の加減をお好みで調節して下さい。",
+    "history": "納豆のタレキャンペーンにあわせて、好きな組み合わせで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "きゃべつ",
+        "鰹節",
+        "だし醤油"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/515514/100x141c/59c3cccc4e74df2a465da2628b1e61a7.jpg?u=453382&p=1214218852"
+}

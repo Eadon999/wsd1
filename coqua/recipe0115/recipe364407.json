@@ -1,0 +1,51 @@
+{
+    "name": "えのきとベーコンの卵とじ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "kko-h"
+    },
+    "image": "https://img.cpcdn.com/recipes/364407/464x260/c8812239544f187eb5529ae442d45a6e.jpg?u=386547&p=1214215459",
+    "datePublished": "2007-04-24",
+    "description": "あと一品！！って時にちゃちゃっとできるお助けメニューです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは洗って根元を切り落とし、ベーコンは１～２cm幅に切る。",
+        "フライパンを熱してベーコンを焼き、えのきを加えてさっと炒める。",
+        "ベーコンをえのきの上にのせ、上から溶き卵をかける。好みの硬さになったら火からおろし、黒こしょうとポン酢をかけていただく。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "364407",
+    "advice": "ポン酢の代わりにお醤油でもいいかもしれません。",
+    "history": "父がある日店で食べたと言って、えのきを炒めて上から卵をかけて焼いた物を作った。よくえのきにベーコンを巻いた料理を見るので　これにベーコンを加えてみようかと・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき 卵とじ"
+    ],
+    "tsukurepo_count": "442",
+    "thumbnail": "https://img.cpcdn.com/recipes/364407/100x141c/8c6577ce319b933cb5779d3cc8f5d111.jpg?u=386547&p=1214215459"
+}

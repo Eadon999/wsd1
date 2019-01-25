@@ -1,0 +1,59 @@
+{
+    "name": "たけのこ豚肉すき焼き煮",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/249406/464x260/a00283f7492d4457d58265ffc1375b50.jpg?u=57297&p=1214212882",
+    "datePublished": "2006-04-18",
+    "description": "どって事ないけど激旨い(=^･^=) 三つ葉がどっさりあったのでお浸しにして一緒に食べちゃおうって魂胆濃いめのおつゆが浸みて美味しいの☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "筍",
+            "quantity": "中1本"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "適量(なくてもいいよ）"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肩ロースをごま油で炒めて、筍スライスも入れ、砂糖３、醤油２、酒１、おろし生姜小さじ１で煮ます。すき焼きみたいでしょ(*´3｀) 旨いのよ～",
+        "*三つ葉はサッと湯通しして水に晒し、ぎゅ～～っと絞ってね。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "249406",
+    "advice": "味が濃くてご飯のおかずにピッタリ！",
+    "history": "はじめ釜揚げうどんのつゆの具にしようと思いましたがこのままで旨いじゃんってことでこのままに･･･",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ すき焼き"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/249406/100x141c/2ed21d73d622c83148b0d7c525432db8.jpg?u=57297&p=1214212882"
+}

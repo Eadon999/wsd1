@@ -1,0 +1,58 @@
+{
+    "name": "レンジで簡単 えのきとオクラのおつまみ",
+    "author": {
+        "@type": "Person",
+        "name": "めんずき705"
+    },
+    "image": "https://img.cpcdn.com/recipes/1746546/464x260/712360564cbd135ac1ad28bb96c5d30e.jpg?u=609792&p=1332236328",
+    "datePublished": "2012-03-20",
+    "description": "酒の肴にどうぞ〜。1コンロしかない恋人のお家でもレンジでできるのでオススメですよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ぽん酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきとオクラを食べやすい大きさにカット。",
+        "１をシリコンスチーマー（or 耐熱容器にラップをふんわりかぶせる）に入れて、ぽん酢とごま油を加える。",
+        "600Wで2分チン。",
+        "かつおぶしを振りかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1746546",
+    "advice": "",
+    "history": "複雑な料理を作る気力はないけど、どうしても酒の肴が欲しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": [
+        "オクラ 4位"
+    ],
+    "related_keywords": [
+        "オクラ",
+        "えのき",
+        "おつまみ",
+        "おつまみ 簡単"
+    ],
+    "tsukurepo_count": "624",
+    "thumbnail": "https://img.cpcdn.com/recipes/1746546/100x141c/8bfa22607bb7a4a0699882cf649cf839.jpg?u=609792&p=1332236328"
+}

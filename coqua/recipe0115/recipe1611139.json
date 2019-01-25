@@ -1,0 +1,52 @@
+{
+    "name": "ほったらかしde白菜スープ",
+    "author": {
+        "@type": "Person",
+        "name": "Gwendalyn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1611139/464x260/340ec9c84f827b1dbdc52c27db5fcd24.jpg?u=3276878&p=1319718648",
+    "datePublished": "2011-10-27",
+    "description": "とにかく簡単!!仕事をしている主婦おススメのレシピですよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／４本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "コンソメ(顆粒)",
+            "quantity": "１袋（５g）"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜はざく切り、人参は早く火が通るように、薄切りに。白菜をザッと水で洗い、鍋に入れる。人参も入れる。",
+        "フタをして中火にかける。白菜を洗った時の水分で蒸されるので、ほったらかしでOKです。",
+        "フタに水滴がついたら、コンソメとツナ缶を入れる。",
+        "白菜から水分が出てきたら、塩こしょうで味付け。出来上がりです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1611139",
+    "advice": "余計なものは入れない。とにかく簡単楽ちんに作りましょう",
+    "history": "短時間で美味しいものを作りたいと思って、フライパンに放り込んだらできました(^O^)／",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜スープ"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1611139/100x141c/028d472f852e5c01cb3e1e1704195dfc.jpg?u=3276878&p=1319718648"
+}

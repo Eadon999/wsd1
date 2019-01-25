@@ -1,0 +1,59 @@
+{
+    "name": "きゅうりとにんじんの千切りサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "うがなお"
+    },
+    "image": "https://img.cpcdn.com/recipes/375801/464x260/938ab0b2195915fd7d00cccf6ce2d578.jpg?u=316149&p=1214216113",
+    "datePublished": "2007-05-18",
+    "description": "ちゃっちゃとできる簡単サラダ♪さっぱり食べられてこれからの季節に♥",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２～３枚（多くても○）"
+        },
+        {
+            "name": "酢",
+            "quantity": "大匙１/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうり、にんじんは千切りにし、かるく塩を振り水気をしぼる。",
+        "調味料を合わせたものと①を和えてハムも加える。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "375801",
+    "advice": "今回は冷蔵庫にあったカニかまぼこも投入～具はなんでもアレンジしちゃってください。",
+    "history": "昔どっかの本かテレビで見たような。。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/中華風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん千切りサラダ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/375801/100x141c/ea6031658322c48d3acb1557860442a0.jpg?u=316149&p=1214216113"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "もやしときゅうりの酢の物★",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1206476/464x260/7b724dab6d27b0a5ccaf278b06ecbf52.jpg?u=268332&p=1281304476",
+    "datePublished": "2010-08-09",
+    "description": "冷たく冷やして見た目も涼しげ、暑い日にはやっぱりコレ！！秘伝の酢の物で♪",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "★秘伝★酢の物",
+            "quantity": "レシピID:1157969"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/４本"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯をわかし塩を入れたらもやしをさっと茹でる。",
+        "ザルにあけて水分と粗熱が冷めるまで置いておく。冷めたらぎゅっとしぼる。",
+        "きゅうりは輪切りに、秘伝の酢の物のタレを混ぜ合わせておく。",
+        "もやしときゅうりを混ぜて皿にもりつけ、食べる直前に③をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1206476",
+    "advice": "具を冷やすか、タレを冷やすか、もちろん両方冷やしてもOK！冷たくしていただくのがとってもおいしいです！！！",
+    "history": "見た目の涼しさが好き★もやしも残りでレッツ酢の物！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1206476/100x141c/6a65dfa0e3ea587ac86c28f3c43bc187.jpg?u=268332&p=1281304476"
+}

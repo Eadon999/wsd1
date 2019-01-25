@@ -1,0 +1,56 @@
+{
+    "name": "白菜・キュウリとわかめのごまあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2511826/464x260/b15e442c9a5c83e5e581cee7e46feadc.jpg?u=7402421&p=1430992357",
+    "datePublished": "2014-02-19",
+    "description": "♪♪感謝♪♪　2015/5/7　話題入り！有難うございます♪火を使わない簡単レシピ☆食物繊維たっぷりですよん♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "120g"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本（100g）"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめは水で戻しておく。",
+        "白菜ときゅうりは、5mm幅に切って、塩（分量外）をふって、10分ほど放置。",
+        "白菜ときゅうりを\nもみもみして、ぎゅーっと水気をしぼり、しょうゆとみりんを合わせたボウルに投入。",
+        "ぎゅーっとしぼったわかめと、ごまも加えて和えたら、出来上がり～♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2511826",
+    "advice": "野菜から水が出るので、しっかりしぼって、食べる直前にあえます。",
+    "history": "お漬物・サラダ感覚で、生の白菜を食べるのが好きです。磯の香りも楽しもうという、贅沢な魂胆で、わかめもどっさり入れました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 きゅうり"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2511826/100x141c/7c585707ba0cb1f28b935debed874e0b.jpg?u=7402421&p=1430992357"
+}

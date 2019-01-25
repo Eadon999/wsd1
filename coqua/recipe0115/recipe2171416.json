@@ -1,0 +1,56 @@
+{
+    "name": "鶏むね肉で！コチュジャンマヨ焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2171416/464x260/1a250a1137b73929f109c98dba5d0f0c.jpg?u=603745&p=1447765020",
+    "datePublished": "2013-03-29",
+    "description": "安いむね肉も柔らかく美味しく♪甘辛~い感じがご飯にぴったりです!!簡単に作れるので是非お試しください♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "☆コチュジャン",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を食べやすい大きさに切ります。",
+        "ボウルに☆の材料を入れて良く混ぜてタレを作ります。",
+        "フライパンで鶏肉を焼いていきます。\n",
+        "中まで火が通ったら②のタレを加えて良くからめます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2171416",
+    "advice": "",
+    "history": "安い鶏むね肉を使って美味しく簡単な料理を作ってみました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉コチュジャン"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2171416/100x141c/0a1056dabbae94ee5f2ddc1b84631e3b.jpg?u=603745&p=1447765020"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "たぬきちくわ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1583277/464x260/7269eda8c42816caceaf48271dd5ddf6.jpg?u=1228553&p=1340248472",
+    "datePublished": "2011-09-28",
+    "description": "トースターだけで超簡単！おつまみやお弁当にいかがですか？｜･ω･*)",
+    "recipeYield": "５本分",
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "５本"
+        },
+        {
+            "name": "天かす・長ねぎ",
+            "quantity": "適量（同量位）"
+        },
+        {
+            "name": "めんつゆ（濃縮タイプ）",
+            "quantity": "小さじ１強（写真の程度）"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "１枚"
+        }
+    ],
+    "recipeInstructions": [
+        "粗みじんにした長ねぎと天かすをボールに同量程度入れる\n\n",
+        "めんつゆで和える\n\n",
+        "竹輪は縦に切り込みを入れ、２）を詰めてゆく\n\n",
+        "ホイルの上に移動してチーズをのせる\n\n",
+        "トースターでこんがり焼けば出来上がり♪\n\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1583277",
+    "advice": "チャチャッとできちゃうのでコツはありません♪めんつゆはお好みの濃さでどうぞヽ(･∀･)ﾉ ",
+    "history": "竹輪を買ったので、何かおつまみ作りたいなぁと考えていてひらめきましたヽ(･∀･)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "竹輪",
+        "めんつゆ",
+        "とろけるチーズ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1583277/100x141c/53626947a9d3778706811abd83f31059.jpg?u=1228553&p=1340248472"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "味が染みておいし～！白だしで味付けゆで卵",
+    "author": {
+        "@type": "Person",
+        "name": "torimomomi"
+    },
+    "image": "https://img.cpcdn.com/recipes/2314152/464x260/aabf5f706189450818a64e06d2c113e9.jpg?u=4076555&p=1376401249",
+    "datePublished": "2013-08-15",
+    "description": "2014.10.22話題入り♪感謝！お弁当に♪簡単！白だしで一晩漬けるだけ！味付けゆで卵☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "白だし（または薄口醤油）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を作る。水から9～10分ぐらいゆでる。",
+        "タッパーに殻をむいたゆで卵と、白だしを少し入れ、冷蔵庫に入れて一晩漬ける。途中転がしながら、全体に色をつける。",
+        "うちではフンドーキンの白だしを使っています。水で薄めずにそのまま使用します。白だしの代わりに薄口醤油でもOKです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2314152",
+    "advice": "ゆで加減は、お好みでどうぞ。",
+    "history": "いつも作る味付けゆで卵は、鶏のタタキのたれで作りますが、今回は白だしで漬けてみました。家族にも好評です☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/温泉たまご・味付たまご"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆで卵 味付け"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2314152/100x141c/eaafe6e3f9486787326189edc71b3966.jpg?u=4076555&p=1376401249"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "【農家のレシピ】冷やし中華のたれ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1507696/464x260/a361c418b3c6a60d1b3185a59fd650e6.jpg?u=2513693&p=1311744208",
+    "datePublished": "2011-07-28",
+    "description": "食べているうちにどうしても味が薄くなってしまう冷やし中華。なので自家製で沢山作っています。サラダドレッシングにもなるよ♪",
+    "recipeYield": "冷やし中華４～６人分",
+    "recipeIngredient": [
+        {
+            "name": "しょうゆ",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "酢",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "４ｇ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうがの絞り汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "４分の１個分"
+        }
+    ],
+    "recipeInstructions": [
+        "【A】を鍋に入れ中火で砂糖とウェイパーが解けるまで煮て火を止め【B】を入れて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1507696",
+    "advice": "■保存期間は冷蔵庫で１週間くらいです。■ウェイパーは中華だしの素です。ない場合は「水１００ｃｃ＋ウェイパー４ｇ」を１００ｃｃの濃い目の中華スープで代用してくださいね。",
+    "history": "冷やし中華を食べるとき、最後のほうはたれが薄くなってしまうので、最初から沢山用意しておきます。中華風のたれでサラダなどにも使ったりしています。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しょうゆ",
+        "酢",
+        "砂糖",
+        "ウェイパー"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1507696/100x141c/8b3f1f873831cdb483acd31411d4d3d5.jpg?u=2513693&p=1311744208"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "ウェイパーで簡単中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "いわこんぶ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1899865/464x260/8b995497cc9cf18a2d3701a136dabaea.jpg?u=4547485&p=1343727487",
+    "datePublished": "2012-07-31",
+    "description": "主婦の強い味方！！ウェイパーで簡単スープ",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "800ml"
+        },
+        {
+            "name": "ウェイパー(中華だし)",
+            "quantity": "大1と1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "一握り"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめは食べやすく、豆腐は角切りする。",
+        "鍋に水を沸かし、具を具を入れたらウェイパー、醤油を入れる。",
+        "最後に塩コショウで味を調え刻み葱を加えれば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1899865",
+    "advice": "具は、溶き卵だけだとタマゴスープ、わかめに白ごま&ごま油をたらせばわかめスープ♪色々な具で作れます。",
+    "history": "今回は冷蔵庫にあった食材で作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水",
+        "ウェイパー",
+        "醤油",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1899865/100x141c/1fd975aab1abf4d823ae825c0f538e17.jpg?u=4547485&p=1343727487"
+}

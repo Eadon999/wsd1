@@ -1,0 +1,52 @@
+{
+    "name": "♪じゃがいもの明太マヨのせ焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "キキママ♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2042890/464x260/d9a387e316a3b73fbe8c206b510f82b1.jpg?u=3247750&p=1354092938",
+    "datePublished": "2013-02-07",
+    "description": "レンジとオーブンだけでできる簡単おつまみです♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中1個"
+        },
+        {
+            "name": "明太子",
+            "quantity": "半腹"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大2"
+        },
+        {
+            "name": "パセリ(乾燥)",
+            "quantity": "あれば"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむき、5～6ミリの厚さに切ります。",
+        "じゃがいもを耐熱皿にのせてレンジで柔らかくなるまでチンします。",
+        "明太子とマヨネーズをよく混ぜておきます。",
+        "チンしたじゃがいもに3をのせます。",
+        "オーブンかオーブントースターでこんがり焼いたら出来上がりです❤お好みでパセリを振って下さい。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2042890",
+    "advice": "簡単すぎてコツなどありません。",
+    "history": "冷蔵庫の残り物レシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "明太子",
+        "マヨネーズ",
+        "パセリ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2042890/100x141c/f54ea00631548174ddd2bcd78714f8ac.jpg?u=3247750&p=1354092938"
+}

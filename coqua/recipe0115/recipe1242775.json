@@ -1,0 +1,57 @@
+{
+    "name": "えのきときくらげの簡単煮",
+    "author": {
+        "@type": "Person",
+        "name": "シャンプーハット"
+    },
+    "image": "https://img.cpcdn.com/recipes/1242775/464x260/b0568787e4a5432aa3f834c6fd0a68ff.jpg?u=2367334&p=1310696029",
+    "datePublished": "2010-09-26",
+    "description": "コリコリとシャキシャキ歯ごたえ美味しい簡単煮物♪あと1品、おつまみ、お弁当にもどうぞ♥",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "えのきだけ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "きくらげ",
+            "quantity": "2～3片くらい"
+        },
+        {
+            "name": "唐辛子（小口切り）",
+            "quantity": "1本分くらい（お好みで）"
+        },
+        {
+            "name": "●めんつゆ（2倍濃縮）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●水",
+            "quantity": "50cc"
+        }
+    ],
+    "recipeInstructions": [
+        "きくらげは戻して細切り、えのきは石づきを切り落として長さを半分に切る",
+        "材料を全部鍋に入れて煮る。煮汁が少なくなったらできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1242775",
+    "advice": "煮詰め方で味の濃さが変わります。お好きな濃さに煮詰めて味を調整して下さい。",
+    "history": "コリコリ好きなので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきだけ",
+        "きくらげ",
+        "唐辛子",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/1242775/100x141c/93f07a23ac03157e09ae0efaf97b1421.jpg?u=2367334&p=1310696029"
+}

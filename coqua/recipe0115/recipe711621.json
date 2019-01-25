@@ -1,0 +1,51 @@
+{
+    "name": "✿舞茸＆ウインナー炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/711621/464x260/9056c97a30a5c483e11c9a643130314d.jpg?u=271833&p=1231604390",
+    "datePublished": "2009-01-11",
+    "description": "舞茸とウインナーを炒めて作る簡単な一品♬お弁当のおかずにもおすすめです★",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "1パック"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "4本"
+        },
+        {
+            "name": "バター又はマーガリン",
+            "quantity": "5g"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ1弱"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸はほぐし、ウインナーは適当な大きさの斜め切りにする。",
+        "フライパンにバターを熱し、中火でウインナーを炒める。うっすらと焼き色が付いたら舞茸も加えて炒める。",
+        "舞茸がしんなりしたら、めんつゆを回し入れて全体に絡める。2～3分煮詰めて出来上がり。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "711621",
+    "advice": "特にありません。",
+    "history": "冷蔵庫の余り食材を組み合わせて簡単な炒め物を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ",
+        "その他/お弁当/色別おかず/黒・茶系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "ウインナー",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "150",
+    "thumbnail": "https://img.cpcdn.com/recipes/711621/100x141c/376c37473fd611abb1661fbae82f6a77.jpg?u=271833&p=1231604390"
+}

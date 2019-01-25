@@ -1,0 +1,67 @@
+{
+    "name": "人参とツナのサラダ❤マスタードマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/752630/464x260/c8ce11b85073df38676ba97f5257099f.jpg?u=933655&p=1236392410",
+    "datePublished": "2009-03-07",
+    "description": "おいしい人参サラダ！！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "２本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩　こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "５滴くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはみじん切りにする\r\n\r\n人参は細切りにする\r\n\r\nツナは油をきっておく",
+        "ボールに１を全て入れて、ラップをして、600Wのレンジで３分加熱する",
+        "調味料を全て入れて混ぜる。\r\n\r\n冷蔵庫で冷やして味をなじませる",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "752630",
+    "advice": "味がなじんでからがおいしい♪調味料はレンジのあと、具があたたかいうちに混ぜてください！味がよくしみます♪",
+    "history": "人参をたっぷり食べたくて(◕ฺ‿◕ฺ✿ฺ) ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "玉ねぎ",
+        "ツナ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "317",
+    "thumbnail": "https://img.cpcdn.com/recipes/752630/100x141c/9460988a53d4373bb6bf719ad4242f16.jpg?u=933655&p=1236392410"
+}

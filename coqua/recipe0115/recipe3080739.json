@@ -1,0 +1,45 @@
+{
+    "name": "ワカメ♡コーンのレタスサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3080739/464x260/a50cbfd1e713b9c49b59f1945270ee42.jpg?u=822079&p=1426989197",
+    "datePublished": "2015-03-22",
+    "description": "いつものサラダにトッピング☆わかめ　冷凍コーンは時短レンチンで♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "おおさじ3"
+        },
+        {
+            "name": "冷凍コーン",
+            "quantity": "おおさじ4"
+        },
+        {
+            "name": "レタス",
+            "quantity": "120ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめ　冷凍コーンは耐熱ボールにいれ水をひたひた位にいれる。ラップをしレンジ600ｗで３分位",
+        "レタスは洗いちぎっておく　",
+        "1の水気を絞りレタスと共にお皿に盛りお好みのドレッシングでめしあがれ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3080739",
+    "advice": "ご家庭のレンジで調整してください^^全てわかめがふやけてなくてもすこし放置しておけば大丈夫です^^",
+    "history": "わかめ摂取に♪",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ",
+        "冷凍コーン",
+        "レタス"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3080739/100x141c/55aa52c5d4ba41a9fc64988de1cc2025.jpg?u=822079&p=1426989197"
+}

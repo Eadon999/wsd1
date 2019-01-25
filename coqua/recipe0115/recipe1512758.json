@@ -1,0 +1,63 @@
+{
+    "name": "ベーコンともやしのぺぺロンチーズ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1512758/464x260/07aeea5d4deb37ce0fb0bc8a9137c319.jpg?u=1228553&p=1313648287",
+    "datePublished": "2011-08-02",
+    "description": "実は栄養の宝庫だったもやし！家計の味方をお手軽調理法で毎日食べたいね♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ベーコン（長いもの）",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適量（お好みで）"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1程度"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイルをひき、みじん切りのニンニクとベーコンを炒める\n\n",
+        "にんにくとベーコンが色づいてきたらもやしと酒を投入、塩とブラックペッパーも加え強火で手早く炒める\n\n",
+        "もやしに火が通ったら粉チーズを入れ２・３度あおれば出来上がり♪\n\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1512758",
+    "advice": "小さなお子様にはにんにくとブラックペッパーを減らしてね☆",
+    "history": "結構前から作っているので忘れました┏○ﾍﾟｺﾘ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし ベーコン"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1512758/100x141c/cbc1cfa2fe7f85c3b627145d30fb1964.jpg?u=1228553&p=1313648287"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "里芋と豚肉の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2856180/464x260/45aa380da536387dcd13bfc59ac8d6ea.jpg?u=3900353&p=1414411606",
+    "datePublished": "2014-10-27",
+    "description": "豚肉を加えた里芋の煮物。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "280g"
+        },
+        {
+            "name": "豚こま",
+            "quantity": "80g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "出汁",
+            "quantity": "1.5カップ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "インゲン",
+            "quantity": "3〜4本"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "インゲンを塩茹でし、3cmくらいに切る。",
+        "里芋は皮をむき、水から下茹でする。ザルに上げサッと洗い、水気を切る。",
+        "フライパンか鍋にごま油をひき、豚こまを炒める。色が変わってきたら砂糖をふる。間をおいて酒、醤油を順に加える。",
+        "里芋を加えて炒める。出汁を加え、落し蓋をして煮る。里芋が柔らかくなり煮汁がほぼ無くなるまで煮る。",
+        "最後にみりんとインゲンを加えて煮詰め、照りを出す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2856180",
+    "advice": "豚肉にしっかり味を入れ、良く炒める。下茹でしてぬめりを取りましたが、お好みで省略しても。",
+    "history": "お弁当のおかずに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋 豚こま 煮物",
+        "里芋 豚肉 煮物"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2856180/100x141c/8d81087cd1815bb349b7695161fcc2c6.jpg?u=3900353&p=1414411606"
+}

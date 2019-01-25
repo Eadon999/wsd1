@@ -1,0 +1,49 @@
+{
+    "name": "インゲンのおかかマヨネーズ和え",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/337682/464x260/c2bf861f117694b5584cd8206d8dd1d0.jpg?u=405605&p=1246265580",
+    "datePublished": "2007-03-01",
+    "description": "私が1番おいしいと思うインゲンの食べ方です。おかかとマヨ醤油がインゲンにピッタリ。和えるだけなのでとっても簡単です。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "インゲン",
+            "quantity": "１袋"
+        },
+        {
+            "name": "削り節",
+            "quantity": "１袋（５ｇ使用）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２（～３）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１（～１.5）"
+        }
+    ],
+    "recipeInstructions": [
+        "おかかと醤油を混ぜてから、マヨネーズを加える。",
+        "インゲンは（筋をとり）好みの硬さに茹でる。 \r\nしっかり水切りし、4cm程の長さにカット。",
+        "おかかマヨ醤油と２のインゲンを和えて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "337682",
+    "advice": "〇おかかが飛んでしまわないように最初にお醤油と混ぜて。 〇マヨネーズとお醤油は好きな分量でおいしく出来ますのでお好みでお試し下さいね。〇インゲンの量が少ないと塩辛くなりますので、加減して下さいね。",
+    "history": "覚えてないけど・・・何十年も食べてます♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "いんげんの食べ方",
+        "いんげん　おかか"
+    ],
+    "tsukurepo_count": "1589",
+    "thumbnail": "https://img.cpcdn.com/recipes/337682/100x141c/bdecafb5e2aaa4bfd4c0c2af1eeae238.jpg?u=405605&p=1246265580"
+}

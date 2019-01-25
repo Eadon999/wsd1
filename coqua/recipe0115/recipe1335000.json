@@ -1,0 +1,49 @@
+{
+    "name": "パパが愛する焼豚キャベツ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "しきママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1335000/464x260/a70b1e226fd593fca1fef9a7ef3084fc.jpg?u=1074680&p=1295527211",
+    "datePublished": "2011-01-20",
+    "description": "パパが愛するビールにぴったりの、パパが愛するおかずです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "焼豚",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "焼豚とキャベツを太めの千切りにする。",
+        "熱したフライパンに少量の油を入れ、焼豚を入れて軽く炒める。",
+        "キャベツを加えて炒め、しんなりしてきたら、醤油・塩・胡椒を加える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1335000",
+    "advice": "炒めるだけ。簡単です。",
+    "history": "お歳暮・お中元の時期になると、よく実家で食べていました。結婚してから、主人のためにつくったら、大好評。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チャーシュー キャベツ",
+        "焼き豚 キャベツ 炒め",
+        "焼豚キャベツ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1335000/100x141c/12004355f8b5b5015e1cdee767bca91d.jpg?u=1074680&p=1295527211"
+}

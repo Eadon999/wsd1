@@ -1,0 +1,62 @@
+{
+    "name": "豆腐のかにかまコーン乗せマヨ醤油サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "えみぴー"
+    },
+    "image": "https://img.cpcdn.com/recipes/265527/464x260/d32dada15354fa0b023cdd2efb35a8a1.jpg?u=254746&p=1214213278",
+    "datePublished": "2006-07-07",
+    "description": "トロリとした口当たりがイイです。是非、試してみてね。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "コーン（缶詰）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しそ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "かにかまぼこ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "カツオ節",
+            "quantity": "適宜"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を縦半分に切って端から薄切りにして、皿に円を描くように広げて盛り付ける。残りの半分も同様に。（これで二皿分）",
+        "1の上に、コーン・かにかま・きざんだシソを乗せてカツオ節をふりかける。",
+        "マヨネーズをかけ、しょう油をサッと回しかけて召し上がれ～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "265527",
+    "advice": "豆腐は絹ごしを使う方が口当たりもよくて美味しいです。それから、豆腐は薄めに切った方がいいかも。",
+    "history": "お豆腐にマヨしょう油をかけて食べたら美味しかったので、具を加えて試してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "コーン",
+        "しそ",
+        "かにかまぼこ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/265527/100x141c/0e431abf27f665fedd31b4cb514e1edd.jpg?u=254746&p=1214213278"
+}

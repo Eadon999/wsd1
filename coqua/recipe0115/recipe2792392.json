@@ -1,0 +1,44 @@
+{
+    "name": "シンプルに*塩しょうが納豆",
+    "author": {
+        "@type": "Person",
+        "name": "MI‐RIN"
+    },
+    "image": "https://img.cpcdn.com/recipes/2792392/464x260/b8097c09421791bfb84d689b1d3b3c60.jpg?u=2652384&p=1410398567",
+    "datePublished": "2014-09-12",
+    "description": "納豆に塩しょうが(ID : 2784568)を混ぜるだけ♪爽やかな辛さがいい感じです( *´艸｀)",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック（40ｇ位）"
+        },
+        {
+            "name": "塩しょうが（すりおろし）",
+            "quantity": "小さじ1/2～"
+        },
+        {
+            "name": "刻みねぎ（お好みで）",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆を練って、塩しょうがを混ぜ、好みで刻みねぎを乗せれば完成♪",
+        "すりおろしの代わりに、薄切りをみじん切りにしてもOKです(=^ェ^=)",
+        "2018/5/5\nクックパッドニュースに掲載していただきました！\nありがとうございます(๑>◡<๑)"
+    ],
+    "cookTime": null,
+    "recipe_id": "2792392",
+    "advice": "薬味はお好きなものを追加してくださいね♪",
+    "history": "塩しょうがを活用したく、よく食べる納豆に混ぜるとおいしかったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "刻みねぎ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2792392/100x141c/0daf2cf7e57e154b141696278d280081.jpg?u=2652384&p=1410398567"
+}

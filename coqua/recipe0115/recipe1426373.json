@@ -1,0 +1,69 @@
+{
+    "name": "高野豆腐の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "mimipo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1426373/464x260/9600674165dd64e957dcd5563881ad05.jpg?u=366613&p=1304222546",
+    "datePublished": "2011-05-01",
+    "description": "甘辛の照り焼きで、ご飯もついついおかわりしちゃいます！しっかり味なので、お弁当やおつまみにもぴったりです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "高野豆腐",
+            "quantity": "４個"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆ネギ（輪切り）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "☆しょうが（すりおろす）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆唐辛子（種をとって）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆水",
+            "quantity": "1/2カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "高野豆腐を熱湯で戻す",
+        "1を固く絞って、一口大に切り、表面に小麦粉（分量外）をまぶす",
+        "フライパンにゴマ油をしき、2を軽く焼き目がつく程度焼いて、☆の調味料を合わせて入れる",
+        "軽く煮詰めて完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1426373",
+    "advice": "焦がさないよう煮詰めてくださいね。",
+    "history": "煮物以外でも高野豆腐を楽しみたい！簡単でご飯に合うおかずになりました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高野豆腐 てりやき",
+        "高野豆腐"
+    ],
+    "tsukurepo_count": "475",
+    "thumbnail": "https://img.cpcdn.com/recipes/1426373/100x141c/234c6bc05d5811e383852e2b8f2a9e66.jpg?u=366613&p=1304222546"
+}

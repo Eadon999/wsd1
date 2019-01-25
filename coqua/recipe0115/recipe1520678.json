@@ -1,0 +1,58 @@
+{
+    "name": "キャベツのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "JuicyPeach"
+    },
+    "image": "https://img.cpcdn.com/recipes/1520678/464x260/671baab6042d5f34310b61c786be9d20.jpg?u=735660&p=1368434701",
+    "datePublished": "2011-08-11",
+    "description": "隠し味の「ちょっぴりお砂糖」がポイントです。お浸しよりもパクパク食べられます♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "テーブルコショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "2cm幅ほどにざく切りにしたキャベツをさっとゆででざるに上げて熱をさます。",
+        "ボウルに、しっかりと水気を絞ったキャベツ、その他の調味料を全て入れてざっくりと和えたら出来上がり。",
+        "つくれぽ、ありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1520678",
+    "advice": "キャベツの水気はしっかりと絞る。お好みでにんにくの擦り卸しを少々入れてもよいです。",
+    "history": "韓国料理屋さんの付けあわせで食べて以来、すっかりと自宅手も定番となりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "炒りゴマ",
+        "塩",
+        "砂糖"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/1520678/100x141c/0328f0511d23cb6e82a141562bba25c7.jpg?u=735660&p=1368434701"
+}

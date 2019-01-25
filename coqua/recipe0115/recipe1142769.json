@@ -1,0 +1,61 @@
+{
+    "name": "鶏のゴマ揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "komicafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1142769/464x260/2018841e88dfaa73fd113bc1943f9a8b.jpg?u=2256135&p=1275185770",
+    "datePublished": "2010-05-30",
+    "description": "本当に便利な時短メニュー！ワンボールで出来ますよ♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "３００g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "卵",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "１.５カップ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉はそぎ切りにして、下味の材料を混ぜておく。",
+        "①に溶き卵を加えて良く混ぜ、更に小麦粉を加えて混ぜる。パン粉と白ごまも加え混ぜ、鶏肉に衣をつける。",
+        "揚げ油を１８０℃に熱し、カラッと揚げる。",
+        "器に鶏のゴマ揚げを盛り付ける。好みでトマトケチャップを添える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1142769",
+    "advice": "２の行程はすべてボールの中に入れて下さい♪ワンボール料理です＾＾ささみは薄くそぎ切りにしているので思っているよりも早めに油から引き上げて下さい。しっとりして硬くならず美味しいです＾＾",
+    "history": "お弁当に時短メニューを考えて出来た、ワンボールでの揚げ物です♪　本当に便利です＾＾",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ ゴマ揚げ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1142769/100x141c/6b31ce5e3a532cedb713be89c0531251.jpg?u=2256135&p=1275185770"
+}

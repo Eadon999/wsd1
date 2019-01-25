@@ -1,0 +1,48 @@
+{
+    "name": "超簡単♫ほうれん草と椎茸のオイマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "てんたろーー"
+    },
+    "image": "https://img.cpcdn.com/recipes/2562811/464x260/7180b5a57f1a0b0309aae636d41119e7.jpg?u=6229130&p=1396006192",
+    "datePublished": "2014-03-28",
+    "description": "簡単だけどがっつり味！おつまみにも最適！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "4個ほど"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は洗って幅3センチ位、\n椎茸は適当な大きさに切る",
+        "フライパンにマヨネーズを入れ、\n溶けてきたらほうれん草と椎茸を投入",
+        "火が回ればオイスターソースを入れ、強火でさっと絡める。\n火を消す直前にガーリックパウダーを少々入れて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2562811",
+    "advice": "ガーリックパウダーを入れなければお弁当のおかずにも！ほうれん草や、椎茸の大きさにより調味料は加減して下さい！",
+    "history": "大好きなほうれん草と椎茸をがっつり味で食べたかったので！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 しいたけ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2562811/100x141c/83ede81c8f7ff1fc57d062af3954daa1.jpg?u=6229130&p=1396006192"
+}

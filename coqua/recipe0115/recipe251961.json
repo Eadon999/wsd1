@@ -1,0 +1,58 @@
+{
+    "name": "チンゲン菜のゴマ酢あえ",
+    "author": {
+        "@type": "Person",
+        "name": "jackychappy"
+    },
+    "image": "https://img.cpcdn.com/recipes/251961/464x260/44e2c04284750d9856364a7c99160316.jpg?u=210296&p=1214212975",
+    "datePublished": "2006-05-02",
+    "description": "夏場は冷蔵庫でキンキンに冷やして召し上がれ！",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "干しエビ",
+            "quantity": "トッピング用にお好みで"
+        },
+        {
+            "name": "すり白ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜をレンジで２、３分チンして、茎と葉に半分に切り水気を切る。",
+        "ゴマ酢を作り、熱いうちにチンゲン菜と混ぜる。",
+        "お皿にくるくると巻きながら盛り付け、最後に干しえびをトッピング。"
+    ],
+    "cookTime": null,
+    "recipe_id": "251961",
+    "advice": "チンゲン菜は、レンジによって時間は調節してください。お湯で茹でるときも茹ですぎないように注意です。（少し歯ごたえがある方がおいしいので。）これからの季節、キンキンに冷やせばなおおいしい！",
+    "history": "お酢がすきなので適当にブレンドしたたれで和えてタッパで保存してます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜",
+        "干しエビ",
+        "しょうゆ",
+        "酢"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/251961/100x141c/269e3e970bd04004510c42cbd1a7f397.jpg?u=210296&p=1214212975"
+}

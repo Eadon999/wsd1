@@ -1,0 +1,50 @@
+{
+    "name": "ゴーヤのツナクリームチーズ和え",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/2694564/464x260/566d7ff686e494feaeb3f064ccbb5cec.jpg?u=1397778&p=1404287755",
+    "datePublished": "2014-07-02",
+    "description": "苦いゴーヤとまったり濃厚なクリームチーズが意外にも合います。2014.0811話題入り感謝です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "１個（15ｇ）"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは種とワタを\n取って3～5mm位に切って塩もみして好みの固さに茹でておく。",
+        "クリームチーズをレンジで少し加熱してやわらかくし、ツナとマスタードを入れて混ぜる。",
+        "1と2を混ぜ合わせたら出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2694564",
+    "advice": "コツは簡単過ぎてないです(><)粒マスタードの量はお好みで入れてくださいね。",
+    "history": "マイレシピ『ブロッコリーのツナクリームチーズ和え』レシピID:1384444のアレンジです。ゴーヤでも美味しかったのでレシピUPしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "ツナ缶",
+        "クリームチーズ",
+        "粒マスタード"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2694564/100x141c/0766a36c5a19d61c4927c79f19152634.jpg?u=1397778&p=1404287755"
+}

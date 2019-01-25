@@ -1,0 +1,67 @@
+{
+    "name": "もやし豚キムチ　5分で作れるもう一品！",
+    "author": {
+        "@type": "Person",
+        "name": "Little Darling"
+    },
+    "image": "https://img.cpcdn.com/recipes/2755391/464x260/48ebe11773ab877fcbb78bfbe6ae288f.jpg?u=4503&p=1408368318",
+    "datePublished": "2014-08-23",
+    "description": "冷蔵庫にある酸っぱいキムチでもおいしい、今すぐ作れるおかずです。定番豚キムチをすこし甘めに仕上げました。",
+    "recipeYield": "2-3人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜キムチ",
+            "quantity": "200g"
+        },
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "2本"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま油をフライパンに入れ　２cmに切った豚肉を加え　いためる。青ねぎは5cmの長さに切る。",
+        "火が通ったら　もやしを加え、少ししんなりしてきたら　酒を入れ　さらに炒める。",
+        "最後に　青ねぎ、キムチと調味料を加え　できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2755391",
+    "advice": "ニラを入れてもおいしいです。",
+    "history": "さっと作れて　ご飯にぴったり。お酒のつまみにも　ピリッとして　合いますね。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚キムチ もやし"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2755391/100x141c/a9430407d16b7986f6211c3f731df7be.jpg?u=4503&p=1408368318"
+}

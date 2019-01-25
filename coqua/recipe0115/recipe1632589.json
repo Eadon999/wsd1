@@ -1,0 +1,61 @@
+{
+    "name": "白菜とツナの和風パスタ☆生姜入り",
+    "author": {
+        "@type": "Person",
+        "name": "yryryryryr"
+    },
+    "image": "https://img.cpcdn.com/recipes/1632589/464x260/d0ba6c0b66e3081fa26ccd71110c64f1.jpg?u=3582578&p=1321766610",
+    "datePublished": "2011-11-20",
+    "description": "醤油と生姜の香りが食欲増進!!ちゃちゃっと簡単に出来る和風パスタです!!家にあるお野菜を入れて!!",
+    "recipeYield": "３人",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "３枚程度"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★生姜",
+            "quantity": "小さじ1/3（お好みで）"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "★サラダ油・パスタのゆで汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタをゆでます。その間にプライパンで油→生姜→白菜→ツナ缶の順にさっと炒めます。",
+        "１にゆでたパスタを入れ醤油→パスタのゆで汁大さじ２~３程度→塩コショウで味を調えて完成。",
+        "白菜は水分が出るので３～４枚程度がちょうど良いですよ!"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1632589",
+    "advice": "うちでは生姜の皮をむいて冷凍保存して使う時は使う分だけおろしがねで削って使用します。チューブの生姜でも美味しいですよ!!",
+    "history": "子供も大好きです。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生姜パスタ",
+        "和風パスタ 白菜",
+        "パスタ 白菜"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/1632589/100x141c/c5e27766f0e4c43bcac59159c0ce5511.jpg?u=3582578&p=1321766610"
+}

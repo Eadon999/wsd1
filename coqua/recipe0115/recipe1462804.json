@@ -1,0 +1,50 @@
+{
+    "name": "塩昆布で☆しゃきしゃき小松菜ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "coconachu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1462804/464x260/fa0eead3b4825b351f96a421e9e16a53.jpg?u=2041583&p=1307357826",
+    "datePublished": "2011-06-06",
+    "description": "小松菜のみずみずしいナムルはいかがでしょうか♬味付けは塩昆布とごま油の２つです^^",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "３つまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を茹で、食べやすい大きさにカットしておきます。",
+        "ボウルに小松菜、塩昆布、ごま油を加えて全体が馴染んだら盛り付けます。",
+        "盛り付けた上から、ぱらぱらっと白ゴマを振って完成です！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1462804",
+    "advice": "茹でた小松菜はよく絞って水気を切っておきます☆塩昆布は味見をしながらお好みで加減してください♬",
+    "history": "茹でた小松菜があったので作ってみました♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "塩昆布",
+        "ごま油",
+        "白ごま"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1462804/100x141c/d73e21960c5a9bd22a54abe4b897a672.jpg?u=2041583&p=1307357826"
+}

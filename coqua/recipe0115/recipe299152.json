@@ -1,0 +1,50 @@
+{
+    "name": "○はんぺんで♪おかかバター醤油○",
+    "author": {
+        "@type": "Person",
+        "name": "かこ太郎"
+    },
+    "image": "https://img.cpcdn.com/recipes/299152/464x260/ef51b6b4c7f72236d9e8f4b73430e8a5.jpg?u=42502&p=1214214015",
+    "datePublished": "2006-11-09",
+    "description": "ダンナが一口食べてニッコリ（´∀｀＊）思いつきで作ったら好評でした♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１まい"
+        },
+        {
+            "name": "カツオ節",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんをサイコロ状にカットする。",
+        "フライパンにバターをいれ、ハンペンに焦げ目がつくまで焼く。",
+        "醤油をまわしかけ、おかかを和えて出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "299152",
+    "advice": "醤油の焦げた所が美味しいです♪",
+    "history": "思いつきです（＾－＾；簡単すぎてレシピと言っていいものか・・汗",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "カツオ節",
+        "バター",
+        "醤油"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/299152/100x141c/62e18de54f110468ceeb1dd427bedf70.jpg?u=42502&p=1214214015"
+}

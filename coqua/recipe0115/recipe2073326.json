@@ -1,0 +1,61 @@
+{
+    "name": "大根と人参のみそ汁☆",
+    "author": {
+        "@type": "Person",
+        "name": "れもんぐらす"
+    },
+    "image": "https://img.cpcdn.com/recipes/2073326/464x260/1154f47cdc2b53a02f0d4dd38ee1875a.jpg?u=3908601&p=1357351513",
+    "datePublished": "2013-01-03",
+    "description": "野菜のうま味がグーンと出て美味しいです(^O^)具だくさんでお試しください☺",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "水",
+            "quantity": "5カップ"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "適量"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "味噌",
+            "quantity": "お好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにします。太めでも気にせずに(^O^)",
+        "水に大根とほんだしを投入し加熱します。",
+        "大根を煮ながら、人参を短めで太めの千切りに。",
+        "大根がクターッとするまで加熱し…",
+        "◆人参をいれます。\n柔らか～くなるまで煮てください。\n◆お味噌で味をととのえてできあがり♪",
+        "アツアツをどうぞ！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2073326",
+    "advice": "人参の千切りは細すぎると折れやすいので太めがおススメです。多少煮込みすぎでも美味しいです(#^.^#)",
+    "history": "実家の大根のみそ汁は、いつもこのスタイルでした。子供たちにはこのみそ汁が人気ナンバーワンです♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "水",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/2073326/100x141c/d22bf57e82b9b0a66f88423ae956f153.jpg?u=3908601&p=1357351513"
+}

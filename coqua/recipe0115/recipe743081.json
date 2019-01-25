@@ -1,0 +1,55 @@
+{
+    "name": "梅シソで♪さっぱり卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆしゅな"
+    },
+    "image": "https://img.cpcdn.com/recipes/743081/464x260/94ce42b67a843e52d9ad547c3c63dad7.jpg?u=666864&p=1235395395",
+    "datePublished": "2009-02-23",
+    "description": "贅沢ですが手軽です。しっかり味なのでお弁当向き。サラダにトッピングするのもいい♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "４こ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "梅肉",
+            "quantity": "大２個分"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "（擂る）大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉はみじん、梅はたたきます。",
+        "すべての材料をかき混ぜます。",
+        "焼きます。砂糖なしで焦げにくいよ。　　梅の成分で傷みにくく、夏場の行楽のお弁当には必ずコレを作ります。",
+        "出会いはサラダでした。和風ドレで☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "743081",
+    "advice": "梅干しは防腐の役目になるそうです。",
+    "history": "パスタやさんで食べたサラダに散らしてあった卵焼きがすっごくおいしくて、奥さんに教わりました。分量は自己流。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "大葉",
+        "梅肉",
+        "みりん"
+    ],
+    "tsukurepo_count": "225",
+    "thumbnail": "https://img.cpcdn.com/recipes/743081/100x141c/bf3330ff7270b5ae8ffc66c3e8f58bb4.jpg?u=666864&p=1235395395"
+}

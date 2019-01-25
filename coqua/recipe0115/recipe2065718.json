@@ -1,0 +1,59 @@
+{
+    "name": "オッサンの油揚げとワカメのお吸い物",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2065718/464x260/a8393384c542579b29597c96e577170c.jpg?u=3323767&p=1356317932",
+    "datePublished": "2012-12-24",
+    "description": "油揚げの油が浸み出たお吸い物です。でも白ダシなので、ホッとする味です☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１０センチ"
+        },
+        {
+            "name": "ワカメ",
+            "quantity": "３グラム"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "白だし",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ワカメは、タップリの水で戻しておきます。",
+        "鍋に水・油揚げ・ネギを入れて沸騰させます。",
+        "沸騰したら、ワカメ・豆腐・白だしを入れて、一煮立ちさせたら、出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2065718",
+    "advice": "ネギは、青い部分を使ってマス。",
+    "history": "白だしのお吸い物に、油揚げを入れてみたら、美味しかったので☆",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": [
+        "お吸い物 9位"
+    ],
+    "related_keywords": [
+        "お吸い物",
+        "豆腐 お吸い物 油揚げ"
+    ],
+    "tsukurepo_count": "163",
+    "thumbnail": "https://img.cpcdn.com/recipes/2065718/100x141c/8bf8d489608070617f776132a4e59166.jpg?u=3323767&p=1356317932"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "簡単ジューシー＊うちのシュウマイ",
+    "author": {
+        "@type": "Person",
+        "name": "maraisさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2581910/464x260/f94e765b907c11c12a8a762afc593ab1.jpg?u=9485515&p=1397186805",
+    "datePublished": "2014-04-11",
+    "description": "しいたけと玉ねぎをたっぷりIN肉汁しみ出るジューシーなシュウマイです＊H26.6.14話題入り♪感謝です",
+    "recipeYield": "30個",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "しいたけ（大きめ）",
+            "quantity": "3個"
+        },
+        {
+            "name": "玉ねぎ（小さめ）",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "すりおろししょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "シュウマイの皮",
+            "quantity": "30枚"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけと玉ねぎをみじん切りにします。",
+        "ボウルに1と、シュウマイの皮以外の材料を入れ、ねばりが出るまでよく混ぜます。",
+        "2をシュウマイの皮に包みます。＊グリーンピースがあればちょこんと乗せて",
+        "ふきんやレタス等を敷いた蒸し器で20分蒸してできあがりです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2581910",
+    "advice": "タレは練り辛子だけでも美味しいです！おべんとうにもピッタリ♪",
+    "history": "大きなしいたけと、新玉ねぎが手に入ったので♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/餃子・シュウマイ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ひき肉",
+        "しいたけ",
+        "玉ねぎ",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2581910/100x141c/3f4d3e34978861e0c13b99a8f0d9edeb.jpg?u=9485515&p=1397186805"
+}

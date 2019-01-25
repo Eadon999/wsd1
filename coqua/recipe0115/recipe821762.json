@@ -1,0 +1,60 @@
+{
+    "name": "たまには❀ししゃもの甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "ＨＥＷＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/821762/464x260/183c539e6091339c3d36351747c2231c.jpg?u=977600&p=1330914691",
+    "datePublished": "2009-05-29",
+    "description": "H21.9.4.話題入り・H23.1.10. １００人突破大感謝です✿ごはんがすすむように煮てみました♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ししゃも",
+            "quantity": "８～１０匹ぐらい"
+        },
+        {
+            "name": "おろししょうが（チューブ入り）",
+            "quantity": "少し"
+        },
+        {
+            "name": "だし汁（水+顆粒だし）",
+            "quantity": "１５０cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１～１半"
+        },
+        {
+            "name": "しょうゆ・みりん",
+            "quantity": "各大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に、だし汁・しょうが・酒を入れて沸騰させる",
+        "ししゃもを並べ入れて煮たったら、弱火にしてあくをとる",
+        "砂糖・しょうゆ・みりんを加えて、煮汁が少なくなるまで煮たら出来上がり♪",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "821762",
+    "advice": "ししゃもを入れる前に、必ず煮立たせてください♪砂糖の量はお好みで調節してね（＾＾）",
+    "history": "焼いたり揚げたりもいいけど、たまには煮てみようと…（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ",
+        "今日のご飯・おかず/ヘルシーおかず/カルシウムたっぷり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししゃも 煮",
+        "ししゃも",
+        "ししゃも 甘辛",
+        "ししゃもの甘辛煮"
+    ],
+    "tsukurepo_count": "388",
+    "thumbnail": "https://img.cpcdn.com/recipes/821762/100x141c/125aa559f36027da0adceb2d90ee9bd3.jpg?u=977600&p=1330914691"
+}

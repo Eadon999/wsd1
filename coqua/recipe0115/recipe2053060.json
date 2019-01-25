@@ -1,0 +1,63 @@
+{
+    "name": "身体にやさしい、煮なます",
+    "author": {
+        "@type": "Person",
+        "name": "ミコおばちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2053060/464x260/8c1536ceb735ed42f3b066dcbcc97df4.jpg?u=2894472&p=1515769234",
+    "datePublished": "2012-12-10",
+    "description": "5月7日、話題のレシピになりました。有難うございます。母の味として伝えたいですね。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "250g"
+        },
+        {
+            "name": "人参",
+            "quantity": "50g"
+        },
+        {
+            "name": "薄揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "大3"
+        },
+        {
+            "name": "酢",
+            "quantity": "大3"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は細く、人参も細く切っておきます。",
+        "薄揚げは油抜きをして、細く切っておきます。",
+        "フライパンに油を入れ、1を炒めます。",
+        "3に2を加え、炒めていきます。\nしんなりしてきたら、砂糖、醤油を加えて味をととねます。",
+        "4にごま、酢を加えて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2053060",
+    "advice": "煮るなます、とてもご飯にあう一品です。甘くするも、薄味にするも、お好みで味付けができます。",
+    "history": "娘達に伝えたい味の、おかずの1つにしたいと思います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "煮なます",
+        "大根 煮なます",
+        "大根 人参 煮なます"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2053060/100x141c/613753f7d4b6595af88becf7a88f1f5a.jpg?u=2894472&p=1515769234"
+}

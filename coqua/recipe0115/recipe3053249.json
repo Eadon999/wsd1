@@ -1,0 +1,53 @@
+{
+    "name": "レンチン♪ほうれん草としいたけのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3053249/464x260/34e5150f7327c07fa02fc0fce3af6b3b.jpg?u=822079&p=1425688810",
+    "datePublished": "2015-03-09",
+    "description": "レンジ調理で楽チン♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "８まい"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "250ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "おおさじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "おおさじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁から下の材料を耐熱ボールに入れ600ｗレンジで４分くらいチン（周りがふつふつしたら大丈夫）",
+        "ほうれん草は水で洗いラップをしレンチン600ｗ３分位して水に取り絞り３センチ幅に切る　　",
+        "しいたけは薄切りにし水おおさじ1と耐熱皿にいれラップをしレンジで１分半くらい柔らかくなるまでチン",
+        "2と3を1に３０分くらいつけておきできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3053249",
+    "advice": "ご家庭のレンジで調整してください^^",
+    "history": "簡単一品",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 しいたけ おひたし",
+        "ほうれん草 しいたけ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3053249/100x141c/179dec5bf5b495a9abcda9fd888d1e82.jpg?u=822079&p=1425688810"
+}

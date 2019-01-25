@@ -1,0 +1,50 @@
+{
+    "name": "困ったときのはんぺん（はんぺんだけ）",
+    "author": {
+        "@type": "Person",
+        "name": "にわとりかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/322703/464x260/5f433d76a15d4e60c91c59023e4a2ca3.jpg?u=205158&p=1239935196",
+    "datePublished": "2007-01-26",
+    "description": "お弁当に後一品。珍しくないですね。私の好きなお弁当の一品でした。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "適量"
+        },
+        {
+            "name": "のり",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんにのりをくるりと巻く。",
+        "フライパンにバターを入れて巻き終わりを下にして①を焼く。焦げやすいので注意。\r\nお醤油をジュンとまわしかける。\r\n",
+        "できあがり～"
+    ],
+    "cookTime": null,
+    "recipe_id": "322703",
+    "advice": "焦げやすいので目を離しすぎないで下さいね。はんぺんは加熱すると大きくなります。のりはゆるめに巻いた方がいいです。さめると元に戻りますので適当にね。",
+    "history": "母がお弁当に入れてくれて今息子のお弁当に私が入れます。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "のり",
+        "バター",
+        "醤油"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/322703/100x141c/507d90fab42bc86d08fd3c55591511fc.jpg?u=205158&p=1239935196"
+}

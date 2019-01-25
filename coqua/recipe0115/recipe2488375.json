@@ -1,0 +1,52 @@
+{
+    "name": "えのきの梅肉和え",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2488375/464x260/ecad02929d4a85c6ead42bc286fa8f7f.jpg?u=4819316&p=1391444774",
+    "datePublished": "2014-02-04",
+    "description": "14/8/8話題入り有難うございます、甘酸っぱくてつるっと食べられます、お酒にもご飯にも合います",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "えのきだけ",
+            "quantity": "１袋（２００ｇ）"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２個"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきだけは石突きを切り落とし、ばらけさせてラップに包みレンジ５００Ｗで２分半加熱する",
+        "えのきだけは水に放した後よく水気を切って長さを半分にする",
+        "梅干しは種を除き、包丁で叩いて潰す",
+        "ボウルにえのきだけと梅と●を入れて混ぜる"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2488375",
+    "advice": "お好みでごまをふったり、刻み海苔を振るのも良いでしょう",
+    "history": "居酒屋で最初のお通しで出されたお料理、真似して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきの梅肉和え"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/2488375/100x141c/5695d4dcaa0316da38487842ed10894b.jpg?u=4819316&p=1391444774"
+}

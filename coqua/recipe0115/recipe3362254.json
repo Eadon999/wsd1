@@ -1,0 +1,71 @@
+{
+    "name": "びっくり長芋とろろご飯。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3362254/464x260/b7d95798bf6da377bf931ae95d3624c8.jpg?u=4036&p=1440396741",
+    "datePublished": "2015-08-24",
+    "description": "調味料の意外さにびっくり！だけどすごくよく合うのです。",
+    "recipeYield": "２～3膳分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "250g"
+        },
+        {
+            "name": "●白だし",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "●胡麻油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ねぎ（小口切り）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適宜"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮をむき、すりおろす。ここに●の調味料を加えてよく混ぜる。時間があれば冷蔵庫に入れてよく冷やしておく。",
+        "お茶碗に温かいご飯を盛り、1.をかける。ねぎを散らし、七味唐辛子を好みの量振る。最後に醤油数滴を落としてどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3362254",
+    "advice": "ねぎの他に、刻んだ大葉・もみ海苔・卵黄などお好みのものをトッピングしても。",
+    "history": "納豆に胡麻油・酢・七味を混ぜて食べるのが大好きなので、アレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": [
+        "とろろご飯 9位"
+    ],
+    "related_keywords": [
+        "山芋とろろご飯",
+        "とろろご飯",
+        "山芋 とろろ",
+        "とろろご飯 白だし"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3362254/100x141c/5312df0f7b0b40a77188a6b45bccb770.jpg?u=4036&p=1440396741"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "【農家のレシピ】豆ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1407261/464x260/f4dd299aafaf8769fc68033565587deb.jpg?u=2513693&p=1302354002",
+    "datePublished": "2011-04-10",
+    "description": "味付けは塩と酒だけ。でもコレが美味しく作るコツなんです。多い目のお酒が豆の甘みを引き出してほっくり仕上がりますよ。",
+    "recipeYield": "3合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "エンドウ豆",
+            "quantity": "１５０ｇ～２００ｇ（豆のみの重さ）"
+        },
+        {
+            "name": "酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "お米をよく洗って、炊飯器のかまに入れ、先に酒を入れ、水を足して3合に合わせます。",
+        "サヤから出したえんどう豆と塩を入れ、さっとかき混ぜてから普通にご飯を炊きます。炊き上がったら全体を軽くかき混ぜ完成です",
+        "冷凍保存もできますよ。",
+        "五目炊き込みご飯↓\nレシピID：1731104",
+        "さつまいもご飯↓\nレシピID：1270345"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "1407261",
+    "advice": "野菜と自然がいっぱいのブログ「Farmer's　KEIKO農家の台所」　　　　　　　　よかったら見てね↓↓http://ameblo.jp/farmers-keiko/",
+    "history": "野菜のご飯の黄金率。多い目のお酒が豆の甘みを引き出します。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/グリーンピース"
+    ],
+    "rankings": [
+        "豆 7位",
+        "豆ご飯 1位"
+    ],
+    "related_keywords": [
+        "豆ご飯",
+        "豆ご飯 農家",
+        "豆"
+    ],
+    "tsukurepo_count": "1195",
+    "thumbnail": "https://img.cpcdn.com/recipes/1407261/100x141c/d7e723ecd2bc0bd0e87a607612462229.jpg?u=2513693&p=1302354002"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "【農家のレシピ】ごぼうの中華チップス",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2626133/464x260/9554861eba76ea92efa647da02d2f440.jpg?u=2513693&p=1399984340",
+    "datePublished": "2014-05-17",
+    "description": "薄めにスライスしたごぼうに下味をつけて、片栗粉をつけてカラッと揚げました。ビールのお供にぜひどうぞ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう（泥を落として3ミリ程度の斜め薄切り）",
+            "quantity": "1本（２００ｇ）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ３程度"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "１片"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうと【Ａ】をビニール袋に入れ軽くもんで30分置く",
+        "①の水けをきり、片栗粉をまんべんなくまぶし180度の油でカラッと揚げて完成～",
+        "こちらは父秘伝の玉ねぎの中華かき揚げです。\nレシピID : 1286163",
+        "サラダのトッピングにはもっと薄く切って揚げたごぼうチップスをどうぞ♪\nレシピID : 1342307"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2626133",
+    "advice": "このレシピのブログ記事はこちらです↓http://ameblo.jp/farmers-keiko/entry-11843198327.html",
+    "history": "父秘伝の玉ねぎと豚肉の中華かき揚げのごぼうバージョンです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "片栗粉",
+        "にんにく",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2626133/100x141c/629b5cf16b8594a621ed7fef4d8ef9bb.jpg?u=2513693&p=1399984340"
+}

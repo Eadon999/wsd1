@@ -1,0 +1,66 @@
+{
+    "name": "簡単！おいしい！お弁当にも！えびマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "nontan_"
+    },
+    "image": "https://img.cpcdn.com/recipes/1828258/464x260/562f6078b93614b5b99d37f0102cd583.jpg?u=2589409&p=1338012031",
+    "datePublished": "2012-05-26",
+    "description": "ブラックタイガーがぷりっぷり～♪家にある調味料だけで１５分で完成です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブラックタイガー",
+            "quantity": "15匹"
+        },
+        {
+            "name": "アスパラガス",
+            "quantity": "5本"
+        },
+        {
+            "name": "片栗粉（エビにまぶす）",
+            "quantity": "適量"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブラックタイガーは殻と背ワタをとって軽く洗い、片栗粉をまぶす。",
+        "アスパラガスは太い茎の部分の皮をむき、レンジで2分チンする。",
+        "★を混ぜ合わせておく。",
+        "オリーブオイルをひいたフライパンで①を炒め、火が通ったら②を入れて軽く炒め、③をからめて少し熱したら完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1828258",
+    "advice": "",
+    "history": "むきえびよりもブラックタイガーがおすすめ♪冷めても美味しいので多めに作って翌日のお弁当によく入れます。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老",
+        "その他/中華料理/エビマヨ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビマヨ 簡単 アスパラ",
+        "ブラックタイガー お弁当"
+    ],
+    "tsukurepo_count": "105",
+    "thumbnail": "https://img.cpcdn.com/recipes/1828258/100x141c/047b2a63b6be354d9c63a899ce265dcd.jpg?u=2589409&p=1338012031"
+}

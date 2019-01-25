@@ -1,0 +1,48 @@
+{
+    "name": "あっさり！豚バラ肉のきゃべつ巻き",
+    "author": {
+        "@type": "Person",
+        "name": "ビリーの妻"
+    },
+    "image": "https://img.cpcdn.com/recipes/797599/464x260/33b4e1ea88f80b53043096c452ff5625.jpg?u=530968&p=1269297487",
+    "datePublished": "2009-05-01",
+    "description": "あっさりしててご飯が何杯でも食べられちゃいます！(ﾉ∇≦*) ポン酢で食べると美味しいよ。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "６枚"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "４枚"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "３分の１本"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "①キャベツとにんじんを千切りにする",
+        "②千切りにしたキャベツを電子レンジで温めてしんなりさせる",
+        "③塩コショウをした豚肉の上にキャベツとにんじんを巻く",
+        "④少し焦げ色がつくようにフライパンで焼く"
+    ],
+    "cookTime": null,
+    "recipe_id": "797599",
+    "advice": "",
+    "history": "大量の早生キャベツを頂いたので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ キャベツ巻き"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/797599/100x141c/c37dc54e13287998e67cdd646013877f.jpg?u=530968&p=1269297487"
+}

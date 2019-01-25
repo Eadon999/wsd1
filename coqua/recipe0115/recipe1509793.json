@@ -1,0 +1,62 @@
+{
+    "name": "簡単！豚とキャベツのしょうが炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ゆいにゃんママ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1509793/464x260/936e1a9f3063f928bff5fa16f1e8d7bb.jpg?u=2292902&p=1311943426",
+    "datePublished": "2011-07-29",
+    "description": "包丁いらず！キャベツをちぎって炒めるだけの簡単すぐできるボリュームおかずです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉(薄切りor細切れ)",
+            "quantity": "150g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "5、6枚"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★昆布だし(顆粒)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★おろし生姜(チューブタイプ)",
+            "quantity": "5cm分"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを適当にちぎる。",
+        "サラダ油で豚肉を炒める。火が通ってきたらキャベツを加えて全体に油が回ったら合わせた★を回しかけ、炒め絡めてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1509793",
+    "advice": "特にありません★",
+    "history": "母から教わりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉キャベツしょうが"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1509793/100x141c/3dcf705b97b3d93d6322628ac0bc620f.jpg?u=2292902&p=1311943426"
+}

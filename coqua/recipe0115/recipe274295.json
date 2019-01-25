@@ -1,0 +1,84 @@
+{
+    "name": "＊野菜たっぷり！豚肉南蛮♪＊",
+    "author": {
+        "@type": "Person",
+        "name": "つくしおん"
+    },
+    "image": "https://img.cpcdn.com/recipes/274295/464x260/93f5a01fc8eafd1ebb338e7dc38f56bd.jpg?u=59462&p=1214213457",
+    "datePublished": "2006-08-16",
+    "description": "お酢でさっぱり！ニンニク風味♪モリモリ食べれま～す＾＾",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉ロース薄切り",
+            "quantity": "10枚くらい"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "水菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "90ml"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ6"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "おろしショウガ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉に塩コショウをしておく。",
+        "玉ねぎは薄くスライスし、水にさらしておく。\r\n人参は千切りに。トマトは角切りに。その他の野菜は大きさを揃えておく。",
+        "鍋に漬け汁の材料を入れ、中火でひと煮立ちさせ火からおろす。",
+        "豚肉に片栗粉をまぶし、中温に熱した油できつね色になるまで揚げる。\r\n※揚げる際、豚肉を軽く丸めて揚げた方が食感が良いです♪",
+        "揚げた豚肉は軽く油分を取り、漬け汁に入れ、野菜と一緒に混ぜ合わせれば完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "274295",
+    "advice": "野菜はカイワレやピーマン、セロリでも良いですね＾＾冷蔵庫の残り野菜をたくさん活用してくださ～い！",
+    "history": "ガッツリ・サッパリと！コレ1品で豪華なおかずに♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉ロース薄切り",
+        "玉ねぎ",
+        "トマト",
+        "人参"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/274295/100x141c/e0ad8f47646d26e5cdb78815ff37eb24.jpg?u=59462&p=1214213457"
+}

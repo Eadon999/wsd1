@@ -1,0 +1,57 @@
+{
+    "name": "玉ねぎとソーセージのマスタードマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "NAGANO久留米"
+    },
+    "image": "https://img.cpcdn.com/recipes/1779308/464x260/7267e0892b48c0ca61b123368d5bf611.jpg?u=3789549&p=1414575080",
+    "datePublished": "2012-07-14",
+    "description": "おかずが、もう1品欲しい時にはこれ2013.08.11話題入り2013.05.31カテゴリに掲載されました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ　小",
+            "quantity": "1個"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "6本"
+        },
+        {
+            "name": "★酢　サラダ油",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "★醤油　粒マスタード",
+            "quantity": "各小さじ1"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリかイタリアンパセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱は薄切りにし、ソーセージは上下の表面に浅い切り目を数本入れます。",
+        "鍋に湯を沸かし、塩少々入れて、玉葱、ソーセージを加えて2分間ゆでて、ざるに上げる。\n＊玉葱のシャキシャキ感が残る位ゆでる",
+        "＊水切りは、確りと行って下さい。",
+        "★を混ぜ合せ2と合わせる　器に盛りパセリをふる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1779308",
+    "advice": "茹でた玉葱は、水気は良く切って下さい",
+    "history": "ウインナーが沢山あったので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ソーセージ",
+        "塩"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1779308/100x141c/62731bd8157292f1bc5806852ee42c1a.jpg?u=3789549&p=1414575080"
+}

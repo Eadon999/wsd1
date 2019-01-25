@@ -1,0 +1,50 @@
+{
+    "name": "✿もやしときゅうりのおかか和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/387406/464x260/620bbdd7712c8b9ab1bfa3ef3dc05760.jpg?u=271833&p=1272464083",
+    "datePublished": "2007-06-10",
+    "description": "簡単和風おかず★シンプルですが美味しいです。❀つくれぽ１００人感謝❀",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "半袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "☆鰹節",
+            "quantity": "1袋(3g)"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは熱湯でさっと茹で、ざるにあけて冷水で冷し水気をよく切っておく。\r\nきゅうりは2～3ミリの半月切りにする。",
+        "1のもやし・きゅうり・☆をボウルに入れて和える。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "387406",
+    "advice": "味をみて薄いようであれば、醤油を足して下さい。",
+    "history": "給食でこんな感じの和え物がたまに出ていました。思い出したら食べたくなったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": [
+        "もやしきゅうり 10位"
+    ],
+    "related_keywords": [
+        "モヤシ キュウリ"
+    ],
+    "tsukurepo_count": "574",
+    "thumbnail": "https://img.cpcdn.com/recipes/387406/100x141c/d1b10ee624ae9bd48fdb8302407549b5.jpg?u=271833&p=1272464083"
+}

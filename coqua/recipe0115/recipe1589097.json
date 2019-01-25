@@ -1,0 +1,56 @@
+{
+    "name": "【農家のレシピ】オクラの豚巻きフライ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1589097/464x260/8c5b57cfc7ad6da31de116688ae817b8.jpg?u=2513693&p=1317735695",
+    "datePublished": "2011-10-05",
+    "description": "オクラを豚肉で巻いたフライです。切り口がとってもかわいいのでお弁当にもいいかもね♪",
+    "recipeYield": "10本分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "10本"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵（溶きほぐしておく）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラはヘタの部分を鉛筆を削るように皮を剥きます。豚肉には軽く塩コショウをしておきます。",
+        "軽く小麦粉を付けたオクラに豚肉を巻きます。写真はヘタの部分を肉で巻いていないですが全部巻いてもOKです。",
+        "②に小麦粉→卵液→パン粉をつけます。",
+        "180度の油でキツネ色になるまでカリッと揚げて完成です。とんかつソースをつけてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1589097",
+    "advice": "",
+    "history": "オクラだけではなく色んな野菜に豚肉を巻いてフライにして食べています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚巻きフライ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1589097/100x141c/32bae0c88ae660198e4631d42d800ad0.jpg?u=2513693&p=1317735695"
+}

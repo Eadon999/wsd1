@@ -1,0 +1,59 @@
+{
+    "name": "小松菜とえのきのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "きゃさりん亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/388657/464x260/5849c926956c27ad8ab482dc618891ed.jpg?u=266147&p=1214216382",
+    "datePublished": "2007-06-13",
+    "description": "小松菜とえのきのナムルです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "えのき",
+            "quantity": "大１ｐ"
+        },
+        {
+            "name": "※ニンニク（すったもの）",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "※塩",
+            "quantity": "小さじ1/2杯"
+        },
+        {
+            "name": "※ごま油",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "※醤油",
+            "quantity": "小さじ1/2杯"
+        },
+        {
+            "name": "いりゴマ",
+            "quantity": "大さじ２杯"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を３ｃｍくらいに切って、えのきも３ｃｍくらいに切る。\r\n\r\n小松菜の軸から先にゆでて葉部分を入れて２～３分湯でたらえのきを入れて５０秒ほどでざるに上げ、そのまま冷ますか、冷水にとって冷やす。",
+        "※を混ぜて、小松菜とえのきをあえて、いりゴマをかける。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "388657",
+    "advice": "味付けが薄かったら醤油を足してください。",
+    "history": "小松菜があったのでナムルにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 えのき ナムル"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/388657/100x141c/0b7f8a655cd5678e997c7f17e5c58d96.jpg?u=266147&p=1214216382"
+}

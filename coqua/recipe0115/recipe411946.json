@@ -1,0 +1,54 @@
+{
+    "name": "ウマっ！いかとネギの♪ガーリック塩炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/411946/464x260/723aa7cf536ae377eb67e37035004fb9.jpg?u=239563&p=1214216867",
+    "datePublished": "2007-07-31",
+    "description": "超簡単なのに美味しいイカの炒め物♪味付けはにんにくと塩だけなのに本当にウマ～イ！お酒のおつまみにもピッタリです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "生いか（大）",
+            "quantity": "１杯"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１本"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１～２かけ"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ　１"
+        }
+    ],
+    "recipeInstructions": [
+        "イカはわたを取って皮をむき（むかなくてもOK）一口大に切り、酒に漬けておく。長ねぎは斜め切り。にんにくはみじん切りにする。",
+        "フライパンにサラダ油（大さじ１）を熱し、にんにくを炒める（焦がさないように注意）",
+        "にんにくが香り立ったら、ネギをさっと炒め、イカを酒ごと加え塩を振り混ぜ、色が変わって火が通ったら出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "411946",
+    "advice": "イカは火を通しずぎると固くなってしまうので注意♪",
+    "history": "友人宅でご馳走になった料理を再現してみました。こんなに簡単なのにとっても美味しいんですよ～♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生いか",
+        "長ねぎ",
+        "にんにく",
+        "塩"
+    ],
+    "tsukurepo_count": "536",
+    "thumbnail": "https://img.cpcdn.com/recipes/411946/100x141c/6e7df935480fcb911a7065fcf079dde0.jpg?u=239563&p=1214216867"
+}

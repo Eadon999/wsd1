@@ -1,0 +1,49 @@
+{
+    "name": "ちくわのガーリックバター焼き",
+    "author": {
+        "@type": "Person",
+        "name": "Lantana"
+    },
+    "image": "https://img.cpcdn.com/recipes/281559/464x260/fc6d184087d1a0ccd7b2b1a3cafd5c9d.jpg?u=14305&p=1214213635",
+    "datePublished": "2006-09-14",
+    "description": "こんなちくわの食べ方もいいですよ～。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "パセリフレーク",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは縦半分に切り、それをまた横半分に切る。",
+        "やわらかくしたバターににんにくのみじん切りを加えて混ぜる。最後にパセリフレークも入れ混ぜる。",
+        "ちくわにガーリックバターをのせ、オーブントースターで焼いて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "281559",
+    "advice": "ガーリックバターはちょっと多めに出来るので、無理に全部使おうとしないでくださいね。脂っこくなっちゃいますから。ちくわは3本でも余裕で作れますよ。ちくわの代わりにパンに塗れば、ガーリックトーストに！",
+    "history": "最近ちくわにはまってます。というか、常に冷蔵庫の中に。こんな食べ方もありかな～と作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "にんにく",
+        "バター"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/281559/100x141c/a6f91e508cb6dada81ed15bb962e6931.jpg?u=14305&p=1214213635"
+}

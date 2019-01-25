@@ -1,0 +1,70 @@
+{
+    "name": "簡単豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/300497/464x260/74d25c56640fbc617eb12588d9880c29.jpg?u=304393&p=1360495155",
+    "datePublished": "2006-11-13",
+    "description": "簡単に作れる豚丼です。温玉か生卵を崩しながら食べると美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★蜂蜜",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "温泉卵（もしくは生卵）",
+            "quantity": "２個"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油少々を弱火で熱して生姜を炒める。\n\n香りが出てきたら薄切り玉ねぎを入れ、じっくり炒める。\n\n",
+        "玉ねぎがしんなりしてきたら肉を入れる。\n\n色が変わるまで中火で焼く。\n\n色が変わったら水を入れてひと煮立ち。",
+        "沸騰してきたら\n\nあらかじめ合わせておいた★の調味料を入れて少し煮込む。"
+    ],
+    "cookTime": null,
+    "recipe_id": "300497",
+    "advice": "肉は何でもよいです。うちでは小間を使います。玉ねぎはじっくり炒めることで豚丼の甘みが違います。温玉は好きな方法で。今まで温玉のみで紹介していましたが、生卵でも美味しかったので追加しました。",
+    "history": "豚だと簡単に安く作れるのでうちの定番です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "玉ねぎ",
+        "おろし生姜",
+        "醤油"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/300497/100x141c/0ff0505ec3a331c834df5da92d7254c2.jpg?u=304393&p=1360495155"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "蓮根のきんぴらサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃしー"
+    },
+    "image": "https://img.cpcdn.com/recipes/310215/464x260/44395989b3712f1759634158b0ef7f91.jpg?u=32354&p=1214214292",
+    "datePublished": "2006-12-13",
+    "description": "あと一品欲しいときに。蓮根と水菜がシャキシャキして美味しいですよ♪",
+    "recipeYield": "５人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "中２節"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "水菜",
+            "quantity": "１/４束"
+        },
+        {
+            "name": "キクラゲ",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは１mm幅にスライスし、水にさらしてアク抜きしたら、よく水を切っておく。\r\nキクラゲはふやかして戻し千切りにする。人参は千切りにして塩茹でし、よく水を切る。",
+        "フライパンを火にかけてごま油を熱し、レンコンを炒める。火が通ったら砂糖としょうゆで味を調え、キクラゲと人参を加えてさっと炒め、ボウルに移して冷ましておく。",
+        "水菜を３cm幅に切って②に加え、味が馴染むようによく混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "310215",
+    "advice": "お好みで白ごまや一味唐辛子を加えても。",
+    "history": "ランチに行ったお店で出された一品が美味しくて再現。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "水菜",
+        "キクラゲ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/310215/100x141c/ce774dc203b33964cb1cf7c25b45514c.jpg?u=32354&p=1214214292"
+}

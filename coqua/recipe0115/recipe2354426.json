@@ -1,0 +1,63 @@
+{
+    "name": "切干大根入りのみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2354426/464x260/e284168e89d2a076713f46bd266c79de.jpg?u=3099986&p=1380104485",
+    "datePublished": "2013-09-25",
+    "description": "具だくさんで食べごたえのある味噌汁です。野菜もたっぷり取れます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "60ｇ"
+        },
+        {
+            "name": "れんこん",
+            "quantity": "60ｇ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "小１枚"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "２本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "３カップ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根は水でもどす。",
+        "油揚げは油ぬきしてからたんざく切り。\nれんこん・にんじんはいちょう切りにする。",
+        "なべにだし汁と切干大根・にんじん・レンコン・あげを入れ柔らかくなるまで煮る。",
+        "柔らかく煮えたら、みそ・ねぎを入れる。\n器に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2354426",
+    "advice": "みそ汁も具だくさんにすると、「満足感」あります。",
+    "history": "ダイエット中なので、具だくさんで作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "人参",
+        "れんこん",
+        "油揚げ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2354426/100x141c/4b9bd526d5f86eba74f6c633d3afdc65.jpg?u=3099986&p=1380104485"
+}

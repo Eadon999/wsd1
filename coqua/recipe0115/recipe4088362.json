@@ -1,0 +1,69 @@
+{
+    "name": "にらキムチ餃子",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4088362/464x260/e799ff6b522fe958d9ab5ba7b665f55c.jpg?u=4819316&p=1474762024",
+    "datePublished": "2016-09-25",
+    "description": "16/11/6人気検索第１位有難うございます、餃子のタネとしてにらとキムチを入れました、よく合う材料です、お試しください",
+    "recipeYield": "２０個分",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "にら",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "白菜キムチ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "餃子の皮",
+            "quantity": "２０枚"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にらはみじん切り、白菜キムチは汁気を切ってみじん切りに切る",
+        "ボウルに豚ひき肉とにら、白菜キムチと●を入れてよく混ぜる",
+        "餃子の皮で包む",
+        "フライパンに分量外のサラダ油を加熱して餃子を並べて中火で焼き、焼き色が付いたら水１００ｃｃを加えて蓋をして蒸し焼きにする",
+        "お皿に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4088362",
+    "advice": "中火で焼いてこんがり焦がす程度に焼くのが美味しいです",
+    "history": "にらキムチ、餃子に入れると絶対合うはずと思って作りました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/餃子・シュウマイ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチ餃子"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4088362/100x141c/df9bf88de901c11acfec778ba0d6787a.jpg?u=4819316&p=1474762024"
+}

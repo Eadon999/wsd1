@@ -1,0 +1,57 @@
+{
+    "name": "にんじんのきんぴら♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃるるん"
+    },
+    "image": "https://img.cpcdn.com/recipes/777435/464x260/499890787fc15e1826985416d7336876.jpg?u=1051126&p=1238989582",
+    "datePublished": "2009-04-06",
+    "description": "ピーラーを使ってシャキシャキのにんじんのきんぴらの出来上がり♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "材料",
+            "quantity": "分量"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "大きめ1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "黒ごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんをピーラーで薄くカットする。",
+        "フライパンにごま油をしき、にんじんを入れ軽く炒め、みりん、しょうゆを入れ更に炒め、最後に黒ごまをふれば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "777435",
+    "advice": "・にんじんを炒めすぎないこと♪",
+    "history": "大量のにんじんを消費するため！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "材料",
+        "にんじん",
+        "ごま油",
+        "みりん"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/777435/100x141c/ad690d788bff517c27ba68878d57aa97.jpg?u=1051126&p=1238989582"
+}

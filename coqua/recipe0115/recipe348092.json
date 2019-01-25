@@ -1,0 +1,66 @@
+{
+    "name": "りんご♥♡しゃきしゃきサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/348092/464x260/180a92853a4c816c58b7278ad67bf85e.jpg?u=304393&p=1214215107",
+    "datePublished": "2007-03-22",
+    "description": "りんごときゅうりだけの簡単サラダです。マヨネーズも少なめなのでさっぱり美味しいです♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "りんご",
+            "quantity": "小1ｺ（大きい場合は1/2ｺ）"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ポッカレモン",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1/2～1"
+        }
+    ],
+    "recipeInstructions": [
+        "りんごときゅうりは細切り。\r\nりんごは薄い塩水につけておく。",
+        "軽く水気を切り、レモン汁を入れてよく合わせる。\r\n",
+        "馴染んだら、☆を入れマヨネーズも入れたらできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "348092",
+    "advice": "りんごはできるだけ皮つきのまま頂いて下さい。調味料はあくまで目安なので味見して調節して下さいね。☆の材料は市販のﾌﾚﾝﾁﾄﾞﾚｯｼﾝｸﾞでも代用できます。子供ｻﾝには少し砂糖とマヨ多目の方が食べやすいです。",
+    "history": "さっぱりサラダが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "りんご",
+        "きゅうり",
+        "ポッカレモン",
+        "酢"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/348092/100x141c/d620270ec1e1ab4cb89a8e5c2971dd71.jpg?u=304393&p=1214215107"
+}

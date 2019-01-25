@@ -1,0 +1,66 @@
+{
+    "name": "鶏胸肉と新玉ねぎの中華風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kimmiy"
+    },
+    "image": "https://img.cpcdn.com/recipes/363962/464x260/a236a7997b280f645e3ce302e7e0af79.jpg?u=378347&p=1214215446",
+    "datePublished": "2007-04-23",
+    "description": "いつもの中華風サラダに新玉ねぎを入れてみました。シャキシャキ、しかも辛くなくっておいしーい（＾＾）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "新玉ねぎ",
+            "quantity": "中1個"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1本"
+        },
+        {
+            "name": "●お酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は、鍋でゆがき、中まで火が通ったら一度取り出して冷まし、フォークなどで裂いておく。\r\n（ゆがいたお湯は捨てずにスープなどに使いましょう）",
+        "キュウリと玉ねぎをスライスする。\r\n新玉ねぎの場合、水にさらさなくてもオッケイです。",
+        "１の鶏胸肉と２の野菜を合わせ、●の調味料とよくなじませる。最後にごま油を適量入れて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "363962",
+    "advice": "新玉ねぎが辛くなくてオススメです。",
+    "history": "花マルマーケットで新玉ねぎの特集をしていて、生のまま食べたらおいしいと言っていたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "新玉ねぎ",
+        "キュウリ",
+        "お酢"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/363962/100x141c/4de707185114f4736bb1f4327728959d.jpg?u=378347&p=1214215446"
+}

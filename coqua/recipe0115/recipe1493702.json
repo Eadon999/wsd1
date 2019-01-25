@@ -1,0 +1,60 @@
+{
+    "name": "トマトとツナのそうめん",
+    "author": {
+        "@type": "Person",
+        "name": "moba"
+    },
+    "image": "https://img.cpcdn.com/recipes/1493702/464x260/e959ddce5522edea9d68d3777ffc58d8.jpg?u=5830&p=1310365890",
+    "datePublished": "2011-07-11",
+    "description": "そうめんを茹でている間に具材を準備。あっという間にできあがり。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "1人分"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "氷",
+            "quantity": "2~3個"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんを茹でる。",
+        "トマトを刻む。お好みで、あらかじめ皮をむいておく。",
+        "刻んだトマトとツナ缶、めんつゆを混ぜる。",
+        "茹であがったそうめんを水にさらし、ぬめりをとり、3と軽く混ぜ合わせる。",
+        "お好みで青じそをのせ、氷を添えて、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1493702",
+    "advice": "そうめんを茹ですぎないように、手早く具材の準備をするのがポイントです。",
+    "history": "暑くて食欲がないときにつくりました。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん",
+        "トマト",
+        "ツナ缶",
+        "青じそ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1493702/100x141c/29384d06b127c42bc0555bd531816e56.jpg?u=5830&p=1310365890"
+}

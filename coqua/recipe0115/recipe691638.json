@@ -1,0 +1,57 @@
+{
+    "name": "ご飯のおかず　きのこの甘辛煮。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/691638/464x260/5b4401cf8903f0277426d36357ae72fc.jpg?u=970306&p=1287728802",
+    "datePublished": "2008-11-30",
+    "description": "2010/7/26話題入りしました。皆さんに感謝。ご飯にぴったり。お豆腐にのせても美味しいです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "きのこ",
+            "quantity": "３００g"
+        },
+        {
+            "name": "かつおだし",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "きのこは小房に分ける。フライパンにゴマ油を熱し、きのこを炒める。きのこに油が馴染んだら、かつおだしを加える。",
+        "沸騰したら砂糖を加え、中火にして煮詰めていく。水分が半分くらいになったところで、醤油とコチュジャンを加える。",
+        "水分がなくなるまで煮詰めたら出来上がり。",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "691638",
+    "advice": "きのこは、エリンギ・しめじ・しいたけ・ひらたけ・まいたけ・えのきだけなど、お好みのものを使ってください。",
+    "history": "冷蔵庫に余りがちなきのこを使って、ご飯に合うピリ辛なお惣菜を作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きのこ おかず"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/691638/100x141c/7f93d526b7c16e70ab165819cdb3a9b0.jpg?u=970306&p=1287728802"
+}

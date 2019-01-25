@@ -1,0 +1,70 @@
+{
+    "name": "鶏胸肉のカレーマヨソテー",
+    "author": {
+        "@type": "Person",
+        "name": "みゆKitchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/1814697/464x260/a44b6cbe29f00026827d009c8e2a3839.jpg?u=2886607&p=1337084935",
+    "datePublished": "2012-05-15",
+    "description": "マヨネーズでこってり＆カレー粉でパンチを効かせて、パサつきがちな鶏胸肉も美味しくいただけます。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "*マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "*醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "*オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "*カレー粉",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は、そぎ切りにし、塩胡椒で下味をつけ、酒をふりかけてておく。\n*を合わせておく。",
+        "鶏胸肉に小麦粉をまぶし、サラダ油（分量外）をひいたフライパンで、中火でこんがり焼く。\n",
+        "鶏肉に火が通ったら、合わせて置いた調味料を入れて絡め、火を止める。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1814697",
+    "advice": "カレー粉の量は辛さの好みによって調節してください。お肉は薄めに切った方が火の通りが早く焦げにくいです。",
+    "history": "クックモニターの「太陽のマテ茶」に合うお肉レシピに応募。パサ付きがちなムネ肉を美味しく食べられる味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "塩",
+        "胡椒",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1814697/100x141c/88cdaee0bbd1321de0e5cd36180c3abf.jpg?u=2886607&p=1337084935"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "まるまる玉葱のおでん",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/2092314/464x260/e7af3c5607bf4f6cad60e005e06c426a.jpg?u=2142891&p=1358915856",
+    "datePublished": "2013-01-23",
+    "description": "玉葱を丸ごと使います。とろとろになって美味しいです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "玉葱(中)",
+            "quantity": "2～４個"
+        },
+        {
+            "name": "おでんの素",
+            "quantity": "1袋"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱の頭とお尻を切り落として、皮を剥きます。",
+        "おでんの素と水を鍋に入れて火にかけ、温まったら、玉葱を入れます。",
+        "落としブタをして、ふつふつ程度の火加減で30分煮ます。",
+        "お皿に盛って、鰹節をかけます。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2092314",
+    "advice": "おでんの素と水の割合は、使うおでんの素によって違うので、それぞれ見てみて下さい。玉葱だけで煮ることで、玉葱の味がしっかり出てきます。",
+    "history": "以前うどん屋さんでまるごと玉葱のおでんを食べたのを思い出して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ まるごと おでん",
+        "おでん 玉ねぎ",
+        "玉ねぎ おでんの素"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2092314/100x141c/4cedca27ffd6bb6f355c1ea3cd67b94f.jpg?u=2142891&p=1358915856"
+}

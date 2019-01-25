@@ -1,0 +1,47 @@
+{
+    "name": "ふじっ子煮で枝豆チーズ昆布おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "パルフェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4067356/464x260/a55a513006eae8f657745b551e3464fa.jpg?u=61922&p=1473726928",
+    "datePublished": "2016-09-13",
+    "description": "色合いも豊かになり、食欲をそそるおにぎり。栄養満点です！子供も大人もよろこんぶおにぎりのレシピ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "冷凍むき枝豆",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "フジッコのふじっ子煮",
+            "quantity": "適量"
+        },
+        {
+            "name": "チーズ（ベビーチーズなど）",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "チーズは小さくカットしておく\n冷凍枝豆を解凍する",
+        "すべての材料を混ぜ合わせて、おにぎりにする"
+    ],
+    "cookTime": null,
+    "recipe_id": "4067356",
+    "advice": "枝豆の色で見た目の良さがプラスされチーズで食べ応えがアップします。栄養満点。",
+    "history": "フジッコのふじっ子煮をモニターさせていただきました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "チーズ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4067356/100x141c/7cea9a638262b2970b2ff8552a252816.jpg?u=61922&p=1473726928"
+}

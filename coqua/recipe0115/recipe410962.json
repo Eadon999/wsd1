@@ -1,0 +1,59 @@
+{
+    "name": "ズッキーニのツナマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/410962/464x260/142b2cb88d934736df66c43b9bbe5a8b.jpg?u=230354&p=1214216850",
+    "datePublished": "2007-07-30",
+    "description": "ツナ缶のオイルもすべて使って無駄ナシ♫ツナの旨味もしっかり染み込んだマリネです♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶（80ｇ）"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "塩・ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは5mmくらいに切り、多めの油をひいたフライパンでこんがり揚げ焼きにする。",
+        "ツナ缶をオイルごとボウルにあけ、オリーブオイル、酢、砂糖、塩、ブラックペッパーとあわせてよく混ぜる。",
+        "②に①を入れて軽く混ぜ、冷蔵庫に入れて30分～1時間ほど漬けたら、出来上がり♫"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "410962",
+    "advice": "ツナ缶のオイルも使い切りで無駄がありません♫",
+    "history": "ズッキーニがたっくさんあるので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの冷副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "ツナ缶",
+        "オリーブオイル",
+        "酢"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/410962/100x141c/9eb1e6efc9673229330361948ca560cf.jpg?u=230354&p=1214216850"
+}

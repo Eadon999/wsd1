@@ -1,0 +1,53 @@
+{
+    "name": "厚揚げだけ　煮ました☆",
+    "author": {
+        "@type": "Person",
+        "name": "kumichon"
+    },
+    "image": "https://img.cpcdn.com/recipes/324778/464x260/1bbacd3e47238043f15df95f2710825c.jpg?u=214942&p=1214214603",
+    "datePublished": "2007-01-31",
+    "description": "ご飯によく合う煮物です！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ　（絹厚揚げ）",
+            "quantity": "四角い物２枚"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ３杯くらい"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１～２杯（好みで）"
+        },
+        {
+            "name": "生姜（すりおろし）",
+            "quantity": "好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げを油抜きし　１枚を半分に切り　さらに１～２センチ厚さ位に切る",
+        "鍋に厚揚げをなるべく重ならないように並べ　ひたひたの水を入れ火にかける",
+        "煮立ってきたら料理酒・砂糖・濃縮の加減をみて　めんつゆを入れる",
+        "落し蓋をして弱火で煮汁がなくなるくらいまで煮て　味を煮含める",
+        "好みでおろししょうがを添えて　どうぞ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "324778",
+    "advice": "厚揚げはお好きなものを使ってください☆調味料はおおよそなので皆さんのお好みで味付けしてくださいね☆",
+    "history": "今日が期限の厚揚げがあり　他に一緒に煮る材料が無かったのと　『○○○だけ』ﾚｼﾋﾟを作ってみたかったので(=^・^=)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げだけ"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/324778/100x141c/9509b9b54fa1d53fe5ea843fdb53010c.jpg?u=214942&p=1214214603"
+}

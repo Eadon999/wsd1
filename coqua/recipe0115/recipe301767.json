@@ -1,0 +1,45 @@
+{
+    "name": "蒟蒻ステーキ♪うさちゃん、オイシイ!!",
+    "author": {
+        "@type": "Person",
+        "name": "ａｋｉａｋｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/301767/464x260/aa9bea6b98c1ed55756749fcd3e36056.jpg?u=233504&p=1214214081",
+    "datePublished": "2006-11-17",
+    "description": "おうささんに教えてもらったこんにゃくのとってもおいしい食べ方です☆",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "焼き肉のたれ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくは斜めに浅く切れ目を入れてから食べやすい大きさに切り、さっとゆがく。",
+        "フライパンに油を熱し、１）を入れて炒める。",
+        "焼き肉のたれをざっとまわし入れ、汁気をとばしながら更に炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "301767",
+    "advice": "とっても簡単です。ごまや七味をふってもおいしい！",
+    "history": "おうささんがレシピアップしてくれないので、代わりにアップしました(^_^;)我が家だけで眠らせておくのはもったいなくて・・・！！",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "焼き肉のたれ",
+        "油"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/301767/100x141c/497475401b3af4fbfa3c6b81eea5fb83.jpg?u=233504&p=1214214081"
+}

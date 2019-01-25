@@ -1,0 +1,55 @@
+{
+    "name": "トースターで簡単付け合わせ♪椎茸マヨ焼",
+    "author": {
+        "@type": "Person",
+        "name": "しえる☆★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1422980/464x260/1574397f0fb0a163ad380b96c43fc131.jpg?u=1807166&p=1303890935",
+    "datePublished": "2011-04-27",
+    "description": "包丁未使用で超簡単(*´∀｀*)トースターで5分！！分量適当でOK！！",
+    "recipeYield": "椎茸４個分",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "4個"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "●ごま",
+            "quantity": "大さじ1くらい"
+        },
+        {
+            "name": "●マスタード（なくてもOK）",
+            "quantity": "小さじ1～2くらい"
+        },
+        {
+            "name": "パン粉や粉チーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸の軸を根元からははさみで切り、軸の石づき（硬い部分）は切り捨て、残りの軸を細かくカット。",
+        "細かくカットした椎茸の軸と●印の材料を混ぜ合わせる。",
+        "②を椎茸の傘に詰め、お好みで上からパン粉や粉チーズをふりかける。",
+        "トースターで軽く焼き色がつくまで焼いたら完成デス。\nうちのトースターでは7分くらいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1422980",
+    "advice": "",
+    "history": "ハンバーグを焼いている合間に簡単に付け合わせを、と思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ",
+        "マヨネーズ",
+        "ごま",
+        "マスタード"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1422980/100x141c/b1c0f23eaad89fea1da6e3ea71ff45e6.jpg?u=1807166&p=1303890935"
+}

@@ -1,0 +1,85 @@
+{
+    "name": "高野豆腐と椎茸の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ただっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/223343/464x260/c46c526584ddb33bb162eb6b3e10dd82.jpg?u=52923&p=1215133391",
+    "datePublished": "2005-10-29",
+    "description": "味がよく浸みていて美味しいです。人気のレシピです。つくれぽ306件を達成した！",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "高野豆腐",
+            "quantity": "３枚"
+        },
+        {
+            "name": "干し椎茸",
+            "quantity": "６個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "カボチャ",
+            "quantity": "適量"
+        },
+        {
+            "name": "きぬさや",
+            "quantity": "１５個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "カップ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "うま味調味料",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "高野豆腐は６０℃くらいの湯につけ、しばらくおいてもどす。２～３回水で押し洗いしてから水気を絞る。",
+        "高野豆腐を縦半分に切って小切りする。干し椎茸はぬるま湯に砂糖を少し入れてもどす。",
+        "人参、カボチャを切り、きぬさやはスジを取る。",
+        "鍋に煮汁を入れ、人参、カボチャ、椎茸、高野豆腐を加えて落し蓋をして２０分くらい煮る。",
+        "煮上がる３分前にきぬさやを入れる。",
+        "器に盛って出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "223343",
+    "advice": "",
+    "history": "母から教わった。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": [
+        "椎茸の煮物 9位",
+        "しいたけ煮物 9位",
+        "高野豆腐の煮物 10位"
+    ],
+    "related_keywords": [
+        "高野豆腐 煮物",
+        "しいたけ 煮物",
+        "高野豆腐",
+        "高野豆腐 人気"
+    ],
+    "tsukurepo_count": "352",
+    "thumbnail": "https://img.cpcdn.com/recipes/223343/100x141c/18d22f1429f3cfe9c17830af3eabee6e.jpg?u=52923&p=1215133391"
+}

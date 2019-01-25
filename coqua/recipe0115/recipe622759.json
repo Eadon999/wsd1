@@ -1,0 +1,49 @@
+{
+    "name": "★チキンラーメンのおいしい食べ方★",
+    "author": {
+        "@type": "Person",
+        "name": "kiyoka777"
+    },
+    "image": "https://img.cpcdn.com/recipes/622759/464x260/d0bebd65bfcb7c691e48b3650b7368b3.jpg?u=892856&p=1217771540",
+    "datePublished": "2008-08-03",
+    "description": "フツーのチキンラーメンに飽きたらぜひお試しあれ♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "チキンラーメン",
+            "quantity": "１袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "バター",
+            "quantity": "お好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "袋の裏の調理法でチキンラーメンを作る。",
+        "出来上がったものに、カレー粉・バターを入れ、よく混ぜたら完成！！",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "622759",
+    "advice": "バターはお好みですが、目安として私は５ｇ程入れます♪ネギなどをトッピングしてもおいしいです★",
+    "history": "安売りしてたチキンラーメンがいっぱいあるので♪",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チキンラーメン カレー粉",
+        "チキンラーメン バター"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/622759/100x141c/9ecd0d2dbaa397fa3ee480f4b8564213.jpg?u=892856&p=1217771540"
+}

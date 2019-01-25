@@ -1,0 +1,67 @@
+{
+    "name": "切干入りきんぴらごぼう",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2313911/464x260/9210a018d7f4c8e6b273c372335e7415.jpg?u=2495483&p=1376383671",
+    "datePublished": "2013-08-13",
+    "description": "生姜ががつんと切干の食感も良くて美味しいです❁",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "５g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "２分の１かけ（正味５g）"
+        },
+        {
+            "name": "人参",
+            "quantity": "２㎝位（正味１０g）"
+        },
+        {
+            "name": "牛蒡",
+            "quantity": "２分の１本（正味３０g）"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま、ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "切干を１０分戻す。その間にごぼうをささがきに、人参、生姜を千切りにする",
+        "フライパンにごま油を適量入れ牛蒡、人参、生姜を入れ３分位炒める",
+        "酒と砂糖を入れ１分位炒めて醤油と水大匙３位と切干を入れて水気が無くなるまで炒める",
+        "ゴマをたっぷりふる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2313911",
+    "advice": "切干は戻しすぎるとしゃきしゃきした食感が無くなるので、１０分経ったら水から引きあげて水気を切っておいてください。",
+    "history": "ニコニコまっきーさんの簡単おやき風（ID:2217543）を作るのにきんぴらごぼうを作ろうと思って",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "生姜",
+        "人参",
+        "牛蒡"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2313911/100x141c/4a5fe1873287f5edfbb594f0c61e10c2.jpg?u=2495483&p=1376383671"
+}

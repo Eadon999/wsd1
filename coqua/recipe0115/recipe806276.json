@@ -1,0 +1,53 @@
+{
+    "name": "✿コンソメ＊バジル＊トマト✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/806276/464x260/52a8eb9c34e6c04ec6d28171a1f8cc47.jpg?u=271833&p=1296129000",
+    "datePublished": "2009-05-13",
+    "description": "コンソメの旨みとバジルの風味で トマトが美味しく頂けます❤  ",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中1玉"
+        },
+        {
+            "name": "☆顆粒コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆ドライバジル",
+            "quantity": "3～4振り"
+        },
+        {
+            "name": "☆黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "（あれば）プロセスチーズ",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "トマト・チーズは食べやすい大きさに切る。",
+        "1と☆をボウルなどに入れて和え、器に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "806276",
+    "advice": "黒胡椒の量はお好みで加減して下さい。",
+    "history": "トマトを使った煮込み料理を作る際には必ずと言っていい程コンソメを使用するので、生のトマトにもコンソメは合うと思い試してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "顆粒コンソメ",
+        "ドライバジル",
+        "黒胡椒"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/806276/100x141c/7d8526760a9a455d999f26ff70d52930.jpg?u=271833&p=1296129000"
+}

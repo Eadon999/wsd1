@@ -1,0 +1,58 @@
+{
+    "name": "春キャベツのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "kuisinbou"
+    },
+    "image": "https://img.cpcdn.com/recipes/355397/464x260/9fc907e7c58722dcac53bc0eaf63060d.jpg?u=57516&p=1214215260",
+    "datePublished": "2007-04-05",
+    "description": "春のやわらかいキャベツをたっぷりどうぞ。箸休めの一品に。ノンオイルでヘルシー！和えるものは何でもOK。たんぱく質系がgood！です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "大さじ１ぐらい"
+        },
+        {
+            "name": "削り節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは塩を少し入れた湯でゆでる。",
+        "ザルにあげて、ボールに移しキャベツが熱いうちに調味料、ちりめんじゃこ、削り節を加える。",
+        "冷めて味が浸み込むのを待って食卓に。"
+    ],
+    "cookTime": null,
+    "recipe_id": "355397",
+    "advice": "キャベツが熱いうちに味付けの調味料を入れること。",
+    "history": "春キャベツがやわらかくて美味しいので、たくさん食べたくて・・・。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春キャベツ",
+        "ちりめんじゃこ",
+        "削り節",
+        "醤油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/355397/100x141c/d996729bd8632e2d1888445f365cfedf.jpg?u=57516&p=1214215260"
+}

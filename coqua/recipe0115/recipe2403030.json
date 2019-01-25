@@ -1,0 +1,58 @@
+{
+    "name": "えびとアボカドのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "JACK0904"
+    },
+    "image": "https://img.cpcdn.com/recipes/2403030/464x260/8a88a3f8ca6edb94a3be0d798ebb8215.jpg?u=2729326&p=1419249324",
+    "datePublished": "2013-11-11",
+    "description": "★2014.4.16話題入り感謝★粒マスタードのドレッシングで美味しく召し上がれ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "海老",
+            "quantity": "４～６尾"
+        },
+        {
+            "name": "☆粒マスタード",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ１～２（好みで）"
+        },
+        {
+            "name": "☆塩・胡椒",
+            "quantity": "適宜"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２～３"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドと茹でて冷ましたえびを1cm角くらいに切る。",
+        "ボウルに☆を入れて混ぜながらオリーブオイルを少しずつ入れてドレッシングを作る。",
+        "（１）に（２）を入れて和え、器に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2403030",
+    "advice": "●ぜひエキストラ・バージン・オリーブオイルを使ってください♪イタリア産が良質でおすすめです。日本の小豆島産なら言うことなしです♪",
+    "history": "冷蔵庫に残っていたえびを思いつきでアボカドのサラダにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "海老",
+        "粒マスタード",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2403030/100x141c/5275118f45ad19f69a158ac276f880a5.jpg?u=2729326&p=1419249324"
+}

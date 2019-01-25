@@ -1,0 +1,50 @@
+{
+    "name": "✽簡単。ナス炒め✽",
+    "author": {
+        "@type": "Person",
+        "name": "しょしょまろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2197739/464x260/383861453ddfcd05eae680a52063f9af.jpg?u=5600220&p=1372308367",
+    "datePublished": "2013-04-20",
+    "description": "ナスをささっと炒めます♪作り方は簡単です( ´艸｀)♡2013.7.1　話題入り感謝✿",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "2本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは縦長に６つくらいに切って、水に浸しておきます。\n青じそを千切りにします。",
+        "フライパンにごま油をよく熱し水を切ったナスを炒めます。\nしんなりするまで炒めたらめんつゆを加えて炒めます。",
+        "青じそもいれて\nさっと炒めたら完成✽"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2197739",
+    "advice": "ナスは色が変わる？しなしなするまで炒めます！",
+    "history": "ナスが余ってたので簡単に炒めました。2012.6.27トップ写真変更しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "ごま油",
+        "青じそ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2197739/100x141c/ab76feb18439443e8b26545c759c7703.jpg?u=5600220&p=1372308367"
+}

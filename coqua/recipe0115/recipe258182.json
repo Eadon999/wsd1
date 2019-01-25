@@ -1,0 +1,70 @@
+{
+    "name": "紅しょうがチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "ａｋｉａｋｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/258182/464x260/97e01c60bedfb240ed97fb416c3f6ed2.jpg?u=233504&p=1214213097",
+    "datePublished": "2006-06-04",
+    "description": "残り物で作ったとは思えない激ウマチャーハンです☆私は吉野家でもらって余っていた紅しょうがで作りました(^_^;)",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "冷やごはん",
+            "quantity": "お茶碗１杯"
+        },
+        {
+            "name": "紅しょうが",
+            "quantity": "大さじ１～１．５"
+        },
+        {
+            "name": "桜エビ or  ちりめんじゃこetc",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "もみのり",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "冷やごはんはレンジで温めておく。フライパンに油を熱し、桜エビを炒める。",
+        "１）にごはん、紅しょうが、ネギの順に加えてよく炒める。",
+        "塩、こしょう、醤油で味をととのえ、器にもってからもみのりを飾る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "258182",
+    "advice": "冷やごはんはレンジで温めておくと炒めやすいです。",
+    "history": "冷やご飯を片づけたいなぁと思っていたとき、以前にテレビで見たグッチ裕三さんのガリチャーハンを思い出し、アレンジして作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷やごはん",
+        "紅しょうが",
+        "刻みネギ",
+        "油"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/258182/100x141c/b499141fc2f68aafcacc27a1742f610f.jpg?u=233504&p=1214213097"
+}

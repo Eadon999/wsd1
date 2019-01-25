@@ -1,0 +1,52 @@
+{
+    "name": "スダチが香る♪明太子スパゲッティ",
+    "author": {
+        "@type": "Person",
+        "name": "ちびたろうキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/300470/464x260/d70bec27d969d2b76f8031fd716807c4.jpg?u=258071&p=1219807739",
+    "datePublished": "2006-11-13",
+    "description": "たっぷりたらこ＆スダチでシアワセの味～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "スパゲッティ　１．８mm",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "明太子（たらこ）",
+            "quantity": "２腹（６０～８０ｇ）"
+        },
+        {
+            "name": "バター",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "きざみ海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "スダチ",
+            "quantity": "２コ"
+        }
+    ],
+    "recipeInstructions": [
+        "バターを室温に戻してクリーム状に練り明太子を混ぜる。\r\n",
+        "スパゲッティはたっぷり塩をいれて表示時間通りゆでて、明太子バターを混ぜ合わせる。",
+        "きざみ海苔をのせて完成♪食べるときにスダチかけます。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "300470",
+    "advice": "スパゲッティは太めがオススメ♪ゆでるときにしっかり塩味をつけておきます。レモンが無くてスダチかけましたが、合う♪",
+    "history": "た～らこ～た～らこ～、のたらこソースはおいしいけれどタラコ少なすぎで物足りません。自分でつくるとたっぷりシアワセ♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太子パスタ すだち",
+        "明太子 パスタ"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/300470/100x141c/6a97f48f93401a59f8e6a00d2e96446e.jpg?u=258071&p=1219807739"
+}

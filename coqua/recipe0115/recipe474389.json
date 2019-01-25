@@ -1,0 +1,59 @@
+{
+    "name": "もちもち♡レンコンじゃが団子",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/474389/464x260/92083e8ead00323d41a32f8f47286f87.jpg?u=230354&p=1214218071",
+    "datePublished": "2007-12-14",
+    "description": "すりおろしたレンコンとじゃがいもを揚げました♫外はカリカリ、中はもっちもちです♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レンコン",
+            "quantity": "15cm"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "1個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶（80g）"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "小さじ1～1.5"
+        },
+        {
+            "name": "◎塩・胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもとレンコンは、皮をむいてすりおろし、絞って水気を切る。",
+        "ボウルで、レンコン・じゃがいも・油を切ったツナ・◎をよく混ぜて、一口大に丸める。",
+        "表面に片栗粉をまぶして、中温の油でこんがり揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "474389",
+    "advice": "食感が欲しいときは、みじん切りにしたレンコンも混ぜると、また違っておいしいです♫",
+    "history": "息子がまだレンコンが食べにくいようで、そのままだと出してしまうので、すりおろして団子にしました。レンコンだけだと少ない気がしたので、じゃがいももプラス。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": [
+        "レンコン団子 7位"
+    ],
+    "related_keywords": [
+        "れんこん 団子",
+        "すりおろし れんこん 揚げ",
+        "レンコン団子 揚げる"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/474389/100x141c/b72ed08130d56d0358e653bfcaa22c6e.jpg?u=230354&p=1214218071"
+}

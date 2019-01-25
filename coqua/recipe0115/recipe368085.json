@@ -1,0 +1,54 @@
+{
+    "name": "ヒエヒエ☆あっさり冷やしトマト♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/368085/464x260/775cb94997d3a5e07645cdc1929feadd.jpg?u=42283&p=1214215536",
+    "datePublished": "2007-05-02",
+    "description": "居酒屋さんなどのメニューにある「冷やしトマト」をイメージして作りました(^^♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中２個"
+        },
+        {
+            "name": "◎生姜（摩り下ろし）",
+            "quantity": "小１，５"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎米酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "◎の材料をよく混ぜておく。多少生姜の塊があっても大丈夫♪",
+        "トマトは８等分したら、横に２等分する。◎と和える。そのまま冷蔵庫でひたすら冷やす。",
+        "出来上がりです(＠＾＾＠)",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "368085",
+    "advice": "特にありませんで、簡単ですo(^-^)o",
+    "history": "居酒屋さんで冷やしトマトというのがあって、注文した事があったので・・・、イメージのまま作りました(人´ｪ｀*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷やしトマト 居酒屋",
+        "冷やしトマト",
+        "あっさり"
+    ],
+    "tsukurepo_count": "580",
+    "thumbnail": "https://img.cpcdn.com/recipes/368085/100x141c/0d4e8ffa9ed8c9b2e18b38fd942637a2.jpg?u=42283&p=1214215536"
+}

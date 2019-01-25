@@ -1,0 +1,74 @@
+{
+    "name": "キャベツのコールスロー風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Omamama"
+    },
+    "image": "https://img.cpcdn.com/recipes/64004/464x260/c45edb9dcd29cf5797075beb64452504.jpg?u=8254&p=1214209368",
+    "datePublished": "2002-09-08",
+    "description": "ドレッシングが決め手！キャベツが沢山食べれちゃうドレッシングです。混ぜないでかけて食べるのもポイント。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "100g程度"
+        },
+        {
+            "name": "人参",
+            "quantity": "30g程度"
+        },
+        {
+            "name": "紫キャベツ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ3強"
+        },
+        {
+            "name": "●メープルシロップ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●玉ねぎのすりおろし",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "●人参のすりおろし",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "●ドライパセリ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "●を合わせ、最後に塩で味を調節する。",
+        "キャベツ・紫キャベツ・人参は全て千切りに。",
+        "1のドレッシングをかけて召し上がれ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "64004",
+    "advice": "他のサラダにもかけてみて下さい。パセリは省略可。マヨネーズはアメリカ製のものがお勧めですが、なければ普通のものでも。メープルシロップの代わりに、蜂蜜でもいいかもしれません。紫キャベツは見た目にキレイなので入れていますが、入れなくてもOK。他の野菜でも美味しいですよ。",
+    "history": "以前どこかのレストランで出てきたサラダが美味しかったのでマネしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "人参",
+        "マヨネーズ",
+        "メープルシロップ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/64004/100x141c/5ed3c07e5d1d3fa79af4bfdb8a1d5fac.jpg?u=8254&p=1214209368"
+}

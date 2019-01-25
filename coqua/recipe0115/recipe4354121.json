@@ -1,0 +1,69 @@
+{
+    "name": "作り置き、小松菜のわさびナムル。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/4354121/464x260/66c5048e37d89b6262a71eae6adb5dea.jpg?u=4036&p=1487055904",
+    "datePublished": "2017-02-14",
+    "description": "作り置きシリーズ！ いつものナムルにわさびを加えました。お弁当のおかずにもどうそ。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "200g"
+        },
+        {
+            "name": "塩(茹で用)",
+            "quantity": "少々"
+        },
+        {
+            "name": "●胡麻油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "●わさび(チューブ)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●炒り胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は塩少々を入れた熱湯で1分ほど茹で、冷水に取ってぎゅっと絞る。2〜3センチの長さに切る。",
+        "●の材料を混ぜ合わせ、手順1の小松菜と合わせる。最後に塩少々で味を整えて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4354121",
+    "advice": "小松菜は歯応えが残るように茹でてください。",
+    "history": "ナムルを少し違った味付けで食べたいと思い、わさびを入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": [
+        "わさび 7位",
+        "小松菜ナムル 6位"
+    ],
+    "related_keywords": [
+        "小松菜 わさび",
+        "小松菜",
+        "わさび",
+        "小松菜 ナムル"
+    ],
+    "tsukurepo_count": "170",
+    "thumbnail": "https://img.cpcdn.com/recipes/4354121/100x141c/a32d272061e56db69c25e6a16b191268.jpg?u=4036&p=1487055904"
+}

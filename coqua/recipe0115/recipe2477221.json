@@ -1,0 +1,60 @@
+{
+    "name": "白菜とベーコンのほっこりスープ",
+    "author": {
+        "@type": "Person",
+        "name": "chanlife"
+    },
+    "image": "https://img.cpcdn.com/recipes/2477221/464x260/04d521e3147026b771c4f01170eeb7ea.jpg?u=2136324&p=1390726641",
+    "datePublished": "2014-01-26",
+    "description": "寒い冬に温まるスープを食べたくて。白菜消費にも。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/6個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "4枚"
+        },
+        {
+            "name": "コーン",
+            "quantity": "70ｇ"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜とベーコンは食べやすい大きさに切っておく。",
+        "鍋に水を入れ、１とコンソメを入れて白菜が柔らかくなるまで煮る。",
+        "コーンを入れ煮立たせたら、味をみて塩コショウを入れる。",
+        "上からパセリをかけて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2477221",
+    "advice": "",
+    "history": "白菜がたくさんあったので消費したくて。パパッとできるので、忙しい時にも。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ベーコン スープ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2477221/100x141c/1db4dc5c9d897488107edf9046b4832e.jpg?u=2136324&p=1390726641"
+}

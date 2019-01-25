@@ -1,0 +1,67 @@
+{
+    "name": "キャベツと舞茸の作り置きサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3726328/464x260/0efbc10fd186ec0e3f90e662361f5b6b.jpg?u=4036&p=1456988510",
+    "datePublished": "2016-03-03",
+    "description": "作り置きシリーズ！　レンジ調理なのでらくらくです。胡麻風味のオイマヨが美味しい～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "250g"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "100g"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●胡麻油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●すり胡麻",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは食べやすい大きさに切る。舞茸は石づきを除き、小房に分ける。",
+        "手順１（キャベツ+舞茸）を耐熱皿に乗せ、ラップをかけて電子レンジ600wで３分加熱する。",
+        "手順2が熱いうちに、塩一つまみを混ぜる。",
+        "●を合わせてよく混ぜたら手順３に入れ、ざっくりと混ぜ合わせて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3726328",
+    "advice": "食材が熱いうちに調味料を混ぜると味がよく入ります。",
+    "history": "キャベツをたくさん食べられる料理を考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ キャベツ",
+        "舞茸作り置き",
+        "キャベツ まいたけ レンジ",
+        "キャベツ きのこ サラダ"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3726328/100x141c/b4c7446c5990d16a0362aa297fb374b6.jpg?u=4036&p=1456988510"
+}

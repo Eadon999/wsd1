@@ -1,0 +1,91 @@
+{
+    "name": "おうちの調味料で出来る☆麻婆☆茄子も春雨も",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/206122/464x260/eb555926c61a3dad9aa7c3f13ab5a8ba.jpg?u=57297&p=1214212043",
+    "datePublished": "2005-07-05",
+    "description": "これはボリュームあるよ。た～っぷりおかずって感じ♪しかも旨い！ ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "2本"
+        },
+        {
+            "name": "春雨",
+            "quantity": "半袋"
+        },
+        {
+            "name": "ひき肉",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "2片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "＠醤油",
+            "quantity": "2.5"
+        },
+        {
+            "name": "＠砂糖",
+            "quantity": "2.5"
+        },
+        {
+            "name": "＠酢",
+            "quantity": "1.5"
+        },
+        {
+            "name": "＠豆板醤",
+            "quantity": "小さじ３(お好みで）"
+        },
+        {
+            "name": "＠おろし生姜",
+            "quantity": "１"
+        },
+        {
+            "name": "＠刻みねぎ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "１"
+        }
+    ],
+    "recipeInstructions": [
+        "まずソース：醤油2.5　おろし生姜１　酢1.5　砂糖2.5　\r\n豆板醤小さじ３(お好みで）　刻みねぎたっぷり",
+        "たっぷりめの油でナスを炒めて塩胡椒、いったん取り出します。\r\n\r\n次に、ごま油でニンニクスライスとひき肉炒めて\r\nコップ半分くらいの水と固形コンソメ、ソースを入れます。",
+        "沸騰したらナスと茹でた春雨入れます。\r\n味が馴染んだら片栗粉でとろみを付けます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "206122",
+    "advice": "麻婆茄子の素で出来るよ。買いに行くの面倒だったんで(^^ゞでも、これは旨かったです♪",
+    "history": "冷蔵庫である物で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "春雨",
+        "ひき肉",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/206122/100x141c/4d1fc53abd240f076cb66e69653f7c7a.jpg?u=57297&p=1214212043"
+}

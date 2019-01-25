@@ -1,0 +1,49 @@
+{
+    "name": "簡単！豚バラカツ(ミルフィーユカツ)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4208217/464x260/3f93fcdcc903bb43f953c4a75367ee04.jpg?u=4376699&p=1480350851",
+    "datePublished": "2016-11-29",
+    "description": "豚バラ薄切り肉でコツ無し簡単とんかつ！お弁当にもどんぶりにもおすすめ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "8枚"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉卵パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラに塩コショウ少々を振る",
+        "折りたたむ",
+        "小麦粉卵パン粉を付ける\n170度の油で3分揚げる",
+        "特製ソースを掛ける"
+    ],
+    "cookTime": null,
+    "recipe_id": "4208217",
+    "advice": "特製ソース：とんかつソース＋ゴマドレご飯にバラカツをのせて特製ソースを掛けるだけで「バラカツ」丼の出来上がり♪",
+    "history": "とんかつが食べたくて余っていた豚バラをとんかつにしてみましたロールカツのようにボリュームはありませんが箸だけで作れますねID:3227957",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": [
+        "ミルフィーユカツ 9位"
+    ],
+    "related_keywords": [
+        "ミルフィーユカツ 豚バラ",
+        "豚バラ とんかつ",
+        "ミルフィーユカツ 簡単",
+        "豚バラカツ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4208217/100x141c/0fe6200e100f3e224a3efb6f4c0facd1.jpg?u=4376699&p=1480350851"
+}

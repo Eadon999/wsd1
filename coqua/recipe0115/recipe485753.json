@@ -1,0 +1,67 @@
+{
+    "name": "ツナ玉糸こんにゃく",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/485753/464x260/69516030d0a03b7a43d4b603b04cfd81.jpg?u=230354&p=1214218296",
+    "datePublished": "2008-01-10",
+    "description": "ツナと卵と一緒なら、糸こんにゃくが子供も喜ぶおいしい1品に♫ぱぱっと出来ちゃいますよ♫♬",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "糸こんにゃく",
+            "quantity": "200g"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶（80g）"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "◎だし汁",
+            "quantity": "50ml"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "糸こんにゃくは塩もみして水洗いしてから、2～3分下茹でして、適当な長さに切る。",
+        "フライパンにツナ缶をオイルごと入れ、糸こんにゃくと一緒に炒める。",
+        "◎を加えて、汁気が半分くらいになるで煮る。",
+        "溶いた卵を流し、半熟くらいで火を止めて器に盛る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "485753",
+    "advice": "ツナはオイルごと使うので無駄なし。いいお味も出ます♫",
+    "history": "なんだかんだでずっと冷蔵庫に居座っている糸こんにゃくを、子供も喜んで食べる1品にしたくて、作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "糸こんにゃく ツナ",
+        "糸こんにゃく",
+        "糸こんにゃく ツナ 卵"
+    ],
+    "tsukurepo_count": "938",
+    "thumbnail": "https://img.cpcdn.com/recipes/485753/100x141c/a2ab350457cedf4121ca8c45c13aae5c.jpg?u=230354&p=1214218296"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "ナスバーグ",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/280708/464x260/30509a1790099223e41198bb7c61d18c.jpg?u=253314&p=1279071434",
+    "datePublished": "2006-09-11",
+    "description": "お好み焼きみたいでしょ＾＾ 母がナス嫌いだった私に作ってくれたレシピです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なすび",
+            "quantity": "2本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスの皮をむき、ラップに包んでレンジでチン♪ \n（600ワットで2分半程）",
+        "①を包丁でたたく",
+        "卵と塩と小麦粉を加え、フライパンを熱し、スプーンでポトッと丸い形に落とす。",
+        "両面コンガリ焼いて、ソース・鰹節・青海苔・マヨをトッピングすればできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "280708",
+    "advice": "ネギを入れても美味しいかも♪",
+    "history": "実家に帰った時、母が作ってくれたんです。ナスが苦手な息子も、知らずに食べてました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なすび",
+        "卵",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/280708/100x141c/ce1aec73bdb2cdd98be1b135cc4f8ece.jpg?u=253314&p=1279071434"
+}

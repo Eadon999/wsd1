@@ -1,0 +1,67 @@
+{
+    "name": "和風カレー焼きうどん",
+    "author": {
+        "@type": "Person",
+        "name": "なお★nao"
+    },
+    "image": "https://img.cpcdn.com/recipes/295880/464x260/aad22bbb26abdc5b9b6d92fa1fccb368.jpg?u=65903&p=1214213946",
+    "datePublished": "2006-10-31",
+    "description": "カレー味の和風焼きうどんです♪休日ブランチやお夜食にピッタリ！！",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "適量"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "一個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "しし唐",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "１００cc"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "各お野菜を適度な大きさに切り豚バラ肉を一口大に切っておく。熱したフライパンに胡麻油を少々入れ豚バラ肉を炒め火の通りにくい野菜から加えサッと炒め軽く塩コショウをしておく",
+        "めんつゆにカレー粉を合わせておく。（１）のフライパンにうどんを加え炒め　カレー粉＋めんつゆを合わせたものをまわし入れ炒め混ぜる。仕上げにオイスターソース小さじ２を加え味を整えたら完成",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "295880",
+    "advice": "めんつゆ＆カレー粉だけだと味がトゲトゲしくぼやけた感じになるので必ずオイスターソースを加えてコクとまろやかさをプラスすると美味しく仕上がりますよ♪　 私のブログです↓大きな料理画像と日記で随時更新中♪ http://plaza.rakuten.co.jp/nao53nao/ 　",
+    "history": "和風の焼きうどんが食べたくて考えました",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/焼きうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレー焼きうどん"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/295880/100x141c/57f8f7320125bf4b5aa5674346604d58.jpg?u=65903&p=1214213946"
+}

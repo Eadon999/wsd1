@@ -1,0 +1,54 @@
+{
+    "name": "かぼちゃとわかめの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2301149/464x260/3d19a03a230c484ed5737d6906c1c340.jpg?u=4819316&p=1375159738",
+    "datePublished": "2013-08-01",
+    "description": "17/8/23話題入り有難うございます、かぼちゃの甘味がお味噌汁によく合います",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは食べやすい大きさに切り、ラップに包んでレンジ５００Ｗ１分加熱する",
+        "鍋にだし汁を加熱し、そこに１のかぼちゃと乾燥わかめを加え、味噌を溶きながら加えてよく混ぜる",
+        "お椀に移してねぎを振って出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2301149",
+    "advice": "だし汁は顆粒和風だしの素を小さじ１／２混ぜて作ってもよいでしょう",
+    "history": "母親がよく作ってくれた味噌汁、子供の頃はあまり好きでなかったですが、つい食べたくなって作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "かぼちゃ味噌汁 8位",
+        "かぼちゃの味噌汁 8位"
+    ],
+    "related_keywords": [
+        "かぼちゃ みそ汁"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2301149/100x141c/62199b4a5e21efee0e02082596b8a20f.jpg?u=4819316&p=1375159738"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "塩昆布で大根炒め",
+    "author": {
+        "@type": "Person",
+        "name": "そらうた"
+    },
+    "image": "https://img.cpcdn.com/recipes/392975/464x260/d860ee0a29a987246a91dbb30f685f6c.jpg?u=390080&p=1214216480",
+    "datePublished": "2007-06-25",
+    "description": "塩昆布の旨みでおいしい～簡単にささっと出来る大根の炒め物です。08/3/14話題入りさせていただきました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "10cm分位"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "2つまみ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を太めの千切りにする。油を熱したフライパンで炒め途中酒を入れる。",
+        "透き通って来たら塩昆布を入れ炒め（ここで味見して醤油はナシでもいい）醤油を入れ全体に味がまわるように炒め出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "392975",
+    "advice": "出来上がってから味が馴染むので２であまりしょっぱくならないように気をつけて下さい。塩昆布を入れた後味見していらないようなら醤油は入れなくていいです。",
+    "history": "なかなか使い切れない大根の消費に作りました。浅漬けにすると家族があまり食べないので炒めました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "塩昆布",
+        "酒",
+        "醤油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/392975/100x141c/a5eb92582e0c3bfa37ea59ab33b6fc3a.jpg?u=390080&p=1214216480"
+}

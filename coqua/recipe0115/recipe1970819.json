@@ -1,0 +1,49 @@
+{
+    "name": "水菜の梅おかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "まぁちゃん＿ましゃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1970819/464x260/463af849fa5a3c663baf95b19cc4072d.jpg?u=4205479&p=1348577836",
+    "datePublished": "2012-09-25",
+    "description": "梅でさっぱり♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "3粒"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "39ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜をざく切りにしてレンジでチンして水気を切る。",
+        "梅を細かくたたく、全部を入れて和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1970819",
+    "advice": "水菜の量によって醤油の量も調節して下さい。",
+    "history": "梅を使いたくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "梅干し",
+        "かつお節",
+        "醤油"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1970819/100x141c/d628d9d11725b329be6f9e8d73b54b71.jpg?u=4205479&p=1348577836"
+}

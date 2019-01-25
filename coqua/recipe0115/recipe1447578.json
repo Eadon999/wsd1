@@ -1,0 +1,63 @@
+{
+    "name": "【農家のレシピ】新玉ねぎと牛肉の甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1447578/464x260/34577b1d2e2ba0b3f6b261b5a45f4ce2.jpg?u=2513693&p=1306077787",
+    "datePublished": "2011-05-25",
+    "description": "甘くてジューシーな新玉ねぎを、すき焼き風に牛肉と一緒に甘辛く炒めました。冷めても美味しいのでお弁当にもいいよ☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "牛こま切れ肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2分の1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはくし形切り、牛肉は食べやすい大きさに切っておきます",
+        "フライパンにごま油を入れ熱し、中火で牛肉を炒め、表面が白くなったら玉ねぎを入れ少ししんなりするまで炒めます。",
+        "次に【A】を入れ2分程度炒めて火を止め、最後に白ごまを入れ全体をかき混ぜて完成です",
+        "ゴマが香ばしくて美味しいよ♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "1447578",
+    "advice": "",
+    "history": "甘くてジューシーな新玉ねぎ。やっぱりすき焼き風に食べるのが好きですねぇ～♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "牛こま切れ肉",
+        "白ごま",
+        "ごま油"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1447578/100x141c/4023fa560279d1bc5bb3cb25f57b58b3.jpg?u=2513693&p=1306077787"
+}

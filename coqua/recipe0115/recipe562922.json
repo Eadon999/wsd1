@@ -1,0 +1,46 @@
+{
+    "name": "うちの♪ピースご飯",
+    "author": {
+        "@type": "Person",
+        "name": "MyDining"
+    },
+    "image": "https://img.cpcdn.com/recipes/562922/464x260/3a3c4ddcd503c78414f566ea71459ed3.jpg?u=619713&p=1240836617",
+    "datePublished": "2008-05-02",
+    "description": "【2009/6/28に話題入リ】　一緒に炊くと　色と形が悪いけど　ご飯に風味＆味が染み・・・美味しいと思います☆",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "グリンピース(取り出し）",
+            "quantity": "2/3カップ"
+        },
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "◎昆布、酒、塩",
+            "quantity": "5ｃｍ角小、大2/3、小2/3"
+        }
+    ],
+    "recipeInstructions": [
+        "炊く前にさやから出す",
+        "いつも通りの米準備に　◎混ぜ",
+        "うえから　ピースのせ",
+        "普通に炊き　蒸らし\r\n昆布除き",
+        "混ぜ　完成！\r\n※下のおこげや　ちょっと崩れる　ピースが　また美味しい",
+        "2009/6/28に話題入りしました。ありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "562922",
+    "advice": "採れたてピースの　母の炊き方です。。。ピースの色はくすむけど・・・染みたご飯の味は　バッチリ！",
+    "history": "ピースが　実家の畑から採れました～",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/グリーンピース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピースご飯"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/562922/100x141c/df95068f52248c295b0389ab891418af.jpg?u=619713&p=1240836617"
+}

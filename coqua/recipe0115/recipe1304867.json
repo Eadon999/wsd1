@@ -1,0 +1,50 @@
+{
+    "name": "新定番！シャキうまレタスのお浸し☆",
+    "author": {
+        "@type": "Person",
+        "name": "ももさん。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1304867/464x260/61ad2bdcd4d62bcc5e1bde77a8bbe47b.jpg?u=967941&p=1291855413",
+    "datePublished": "2010-12-09",
+    "description": "レタスの消費に困ったら是非☆ 意外だけどこれがなぜかハマるよっ♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "１玉"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "一口大に切った（手でちぎってもＯＫ）レタスをフライパンで油なしでしんなりするまで炒める",
+        "1のレタスと☆の材料をボウルにいれて混ぜる。粗熱が取れたら冷蔵庫で冷やす。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1304867",
+    "advice": "レタスはすぐ火が通るので炒めすぎないように。茹でるより早いです。 水分が沢山出た場合、水切りすると味が薄くなりません。レタスの大きさにより調味料はお好みで増減してください。 他にももやしやホウレンソウなどでも美味しいですよ～。",
+    "history": "大量にあったレタスを消費したくて、思いつきでやってみたら意外においしかった！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス",
+        "その他/限られた食材で工夫/食材ひとつでおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "砂糖",
+        "醤油",
+        "すりごま"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1304867/100x141c/ec1df571993753aac0939344547e3fb4.jpg?u=967941&p=1291855413"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "冷製トマトそば",
+    "author": {
+        "@type": "Person",
+        "name": "acchin721"
+    },
+    "image": "https://img.cpcdn.com/recipes/1472424/464x260/50979cd023f24b60f46a9603bfe9b65a.jpg?u=839203&p=1308229301",
+    "datePublished": "2011-06-16",
+    "description": "めんつゆとトマトがいい感じ～～柚子胡椒も風味よく仕上がってます(^^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "お蕎麦",
+            "quantity": "２人前"
+        },
+        {
+            "name": "ベーコン（適当な大きさに切る）",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ニンニクのみじん切り",
+            "quantity": "一カケ分"
+        },
+        {
+            "name": "トマト（ざく切り）",
+            "quantity": "１個"
+        },
+        {
+            "name": "めんつゆ（ストレート）",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小１～２"
+        },
+        {
+            "name": "青ジソ（細切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お蕎麦はお好みの硬さに湯搔き、水で〆て器に盛り付けます。",
+        "フライパンでみじん切りにしたニンニクとベーコンを炒めます。\n",
+        "続いて、トマトも加え、ある程度火が通ったらめんつゆと柚子胡椒を加えあら熱がとれたら冷蔵庫で冷やします。\n",
+        "盛り付けたお蕎麦に③をかけて青ジソをのせたら出来上がり！\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1472424",
+    "advice": "ベーコンはしっかり炒めた方がカリっとして美味しいかも～～",
+    "history": "夏らしくアレンジしました。。",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/アレンジ蕎麦",
+        "その他/夏に食べたい料理/夏のごちそう麺/夏のそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お蕎麦",
+        "ベーコン",
+        "トマト",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/1472424/100x141c/95327008d770f38fbf072354d3b5cc11.jpg?u=839203&p=1308229301"
+}

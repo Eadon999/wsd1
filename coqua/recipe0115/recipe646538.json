@@ -1,0 +1,49 @@
+{
+    "name": "さんまのブラックペッパー焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "shinyui"
+    },
+    "image": "https://img.cpcdn.com/recipes/646538/464x260/0fc0a687a0d8cb44f6a8177e1bf4b1d1.jpg?u=473880&p=1221607788",
+    "datePublished": "2008-09-18",
+    "description": "ブラックペッパーで脂ののった秋刀魚にピリリ♪。 美味しいです♪。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "１匹"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "（すだち）",
+            "quantity": "あれば１/２個"
+        }
+    ],
+    "recipeInstructions": [
+        "秋刀魚は頭とワタを取り２等分にして、塩を両面に軽くふり、ブラックペッパーを両面にたっぷりふる。",
+        "フライパンにクッキングシートを敷き、秋刀魚を入れて、両面を焼いて出来上がり。\r\n（焦げないように♪）",
+        "食べるときにお好みで、すだちをかけても美味しいです♪。"
+    ],
+    "cookTime": null,
+    "recipe_id": "646538",
+    "advice": "簡単なので特にありません＾＾； ブラックペッパーはたっぷりの方が美味しいと思います♪ ☆レシピID :395931 『さんまの唐辛子焼き』も美味しいです♪",
+    "history": "ピリッと辛いのが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "ブラックペッパー",
+        "塩"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/646538/100x141c/c6f1e5ec2580fa0f30abaca3ff8e411d.jpg?u=473880&p=1221607788"
+}

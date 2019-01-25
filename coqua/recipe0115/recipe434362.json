@@ -1,0 +1,66 @@
+{
+    "name": "豚とキャベツのオイスター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ひなねママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/434362/464x260/07ce974977722b1cacc3145babbc2020.jpg?u=312544&p=1214217311",
+    "datePublished": "2007-09-24",
+    "description": "簡単でご飯がすすむメニューです。オイスター好きにはたまりません＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/4個"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "６本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１/2"
+        },
+        {
+            "name": "粗引き黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "食べやすい大きさに豚肉は切る。アスパラも生のまま４等分くらいに切る。キャベツはざく切りに。",
+        "豚肉に塩こしょうをまぶし　熱したフライパンに油を入れ炒め色が少し変わってきたらアスパラを生のまま入れ酒を入れ　キャベツを入れ炒める",
+        "２が出来たら　オイスター　醤油　砂糖を入れ　最後に黒コショウをまぶし出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "434362",
+    "advice": "あまり炒めすぎないでチャチャっとするのがポイントです。",
+    "history": "冷蔵庫にあるものでガッツリ食べれる簡単レシピ＾＾家族に好評でおかわりで　もう一度作りました＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚薄切り肉",
+        "キャベツ",
+        "アスパラ",
+        "酒"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/434362/100x141c/5134142408f4876809430e7c08e3448f.jpg?u=312544&p=1214217311"
+}

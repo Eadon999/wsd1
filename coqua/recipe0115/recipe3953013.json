@@ -1,0 +1,53 @@
+{
+    "name": "卵白のお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3953013/464x260/d9b4221db3b450ecf2e3024124eee106.jpg?u=4819316&p=1467371066",
+    "datePublished": "2016-07-01",
+    "description": "19/1/9話題入り有難う、卵黄だけ使う料理ってよくあるけどその時の卵白を捨てるのがもったいなくて、味噌汁にしてはいかが",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "卵白",
+            "quantity": "1個分"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "●顆粒和風だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●みそ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "卵黄と卵白を分けて卵白だけを使う",
+        "鍋に●を入れて加熱し沸騰させる",
+        "火を弱めて、卵白を回し入れてかき混ぜる",
+        "卵白が固まり始めたらお碗に入れて刻みねぎを散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3953013",
+    "advice": "卵黄だけを使う料理のときに、一緒にお味噌汁を作るとしたらこれでしょう",
+    "history": "納豆に卵黄だけを使ったときに、卵白を捨てるのがもったいなくて味噌汁にしました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵白 味噌汁",
+        "卵白 スープ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/3953013/100x141c/3d6b96cf6121281ca7f6aee1b3ca443f.jpg?u=4819316&p=1467371066"
+}

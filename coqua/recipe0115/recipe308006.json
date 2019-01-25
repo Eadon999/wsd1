@@ -1,0 +1,54 @@
+{
+    "name": "クリームチーズで＊和風おかかサラダ＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/308006/464x260/38d5e827a6a7d4566b680deb772793b0.jpg?u=239563&p=1247491046",
+    "datePublished": "2006-12-07",
+    "description": "クリームチーズとお好きな野菜＆おかか、ポン酢醤油であえたら出来上がり♪簡単で美味しい和風サラダです（ｸｯｸTV紹介）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "クリームチーズ",
+            "quantity": "６０ｇ（お好きなだけ）"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "６個くらい"
+        },
+        {
+            "name": "レタス・水菜など",
+            "quantity": "適量"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "3g（小１パック）"
+        },
+        {
+            "name": "ポン酢醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "クリーチーズをサイコロ型に切る。プチトマトトマトは半分に。青菜は食べやすい大きさに切る。",
+        "ボールに①の材料を全て入れ、鰹節を加え、ポン酢醤油であえたら出来上がり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "308006",
+    "advice": "お好きなお野菜でどうぞ♪",
+    "history": "あと一品、何か和風なサラダが欲しいな～と思った時に冷蔵庫にクリームチーズを見つけたので簡単に作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "クリームチーズ",
+        "プチトマト",
+        "鰹節",
+        "ポン酢醤油"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/308006/100x141c/c463de30448e57e9d1da7d98d81f33b7.jpg?u=239563&p=1247491046"
+}

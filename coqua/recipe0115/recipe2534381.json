@@ -1,0 +1,66 @@
+{
+    "name": "☆簡単えびマヨ☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2534381/464x260/5a6de94c1ad1575376096150533e7419.jpg?u=8803837&p=1394246708",
+    "datePublished": "2014-03-08",
+    "description": "揚げずに作る、簡単えびマヨです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "海老",
+            "quantity": "８～１０匹"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆練乳",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒・塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "レタス",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "海老は殻を剥き、背側に切り込みを入れ背わたを取り、\n\n塩胡椒・酒で下味をつけ１０分置いたら片栗粉をまぶしておく。\n",
+        "ボウルに☆の材料を入れ、混ぜ合わせておく。",
+        "油をひいたフライパンで海老を両面焼き、\n\n火が通ったら☆のボウルに入れ\n\nソースを絡めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2534381",
+    "advice": "海老は殻なしの冷凍剥き海老だと簡単です。大き目の海老を使った方がおいしいよ。ピリ辛にしたい時は、豆板醤を少し混ぜてください。",
+    "history": "簡単に海老マヨが食べたくて、揚げずに作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "海老",
+        "マヨネーズ",
+        "ケチャップ",
+        "練乳"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2534381/100x141c/660f3c5d23c6f8e0e90de36dcb3f6fea.jpg?u=8803837&p=1394246708"
+}

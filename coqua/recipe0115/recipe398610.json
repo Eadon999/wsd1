@@ -1,0 +1,54 @@
+{
+    "name": "ヘルシー＊ピーマンとしめじ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "piko1730"
+    },
+    "image": "https://img.cpcdn.com/recipes/398610/464x260/08cb970645b8222b8b7bc2cfb843cd57.jpg?u=391319&p=1214216592",
+    "datePublished": "2007-07-03",
+    "description": "０カロリーのしめじ。でも炒めるとがっつり満足のいくおかずになります。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "４こ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "一株"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは種を取って縦に切る。幅を広めにすると食べごたえがあります。\nしめじは石づきを取っておく。",
+        "フライパンを中火にかけてサラダ油を熱し、しめじを一つずつ分けながらフライパンに入れる。その後でピーマンも入れて炒める。",
+        "しめじに艶が出て、ピーマンに火が通ったら塩とこしょうを振る。しょう油をフライパンの肌にかけて、焦がしてかおりを出したら全体をもう一度混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "398610",
+    "advice": "ピーマンは炒めすぎずに、歯ごたえを残すと食べごたえがあります。",
+    "history": "よく作る一人ご飯です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "しめじ",
+        "しょう油",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/398610/100x141c/df23fc1632d281c503820872176de9ff.jpg?u=391319&p=1214216592"
+}

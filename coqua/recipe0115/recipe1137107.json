@@ -1,0 +1,51 @@
+{
+    "name": "大根とゆかりのお漬物",
+    "author": {
+        "@type": "Person",
+        "name": "　しょうう　"
+    },
+    "image": "https://img.cpcdn.com/recipes/1137107/464x260/341f918a2453c2aa2bc7740e913b1c5d.jpg?u=1544365&p=1274707436",
+    "datePublished": "2010-05-24",
+    "description": "余った野菜で大好きなお漬物♪手早い、簡単、安上がり♪買うより断然美味しい…ハズ。。多分そう。きっとそう。",
+    "recipeYield": "1〜2",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１〜２cm(80gくらい)"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4(2gくらい)"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１〜２"
+        }
+    ],
+    "recipeInstructions": [
+        "【調味液】の材料を全てビニール袋に入れる。(※調味液っていう程、水分ないと思いますが大丈夫です)",
+        "薄い銀杏切りにした大根を１に入れて揉み揉み…。最低15分くらい置いておけば食べれます♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1137107",
+    "advice": "特にないですが、半日くらい置いておくなら、ゆかりは1/2の量くらいでも十分、色付きます。写真は３時間くらい。",
+    "history": "お漬物…今すぐ食べたい！って思ったら、半端に残った大根が冷蔵庫にあったので可愛く染めました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆかり 大根 漬物",
+        "大根 ゆかり"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1137107/100x141c/5df54d93a44ac5566a9699f3a6fe6f6e.jpg?u=1544365&p=1274707436"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "夏にはこれ！オクラ納豆",
+    "author": {
+        "@type": "Person",
+        "name": "すずくりママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2275938/464x260/da0785079aa6cdd632ac6f6926ea467d.jpg?u=7251627&p=1372861495",
+    "datePublished": "2013-07-08",
+    "description": "娘ちゃんが大好きなスタミナがつく簡単一品料理です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "１０本"
+        },
+        {
+            "name": "納豆",
+            "quantity": "２パック"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ３～４"
+        }
+    ],
+    "recipeInstructions": [
+        "まず、オクラをゆでます。茹でたらそのオクラを輪切りに切っていきます。",
+        "器に輪切りにしたオクラと納豆とそれについてるたれとめんつゆを入れ、混ぜます。後は味を見て調整して完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2275938",
+    "advice": "ついてるたれを入れることです。",
+    "history": "娘が好きな納豆とオクラをご飯にのせて食べていたところからヒントに作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "納豆",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2275938/100x141c/d841481da5108e9b4d3421b4fa4a1e61.jpg?u=7251627&p=1372861495"
+}

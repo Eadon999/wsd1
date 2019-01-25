@@ -1,0 +1,52 @@
+{
+    "name": "レンバイのおばさんに教わったケールみそ汁",
+    "author": {
+        "@type": "Organization",
+        "name": "農Pro"
+    },
+    "image": "https://img.cpcdn.com/recipes/4444644/464x260/0e7a5f83e4e245f78fc5b5045480c4c8.jpg?u=9138041&p=1490926997",
+    "datePublished": "2017-03-31",
+    "description": "ケールの一番おいしい食べ方、それはみそ汁だった! 鎌倉のレンバイのおばさんから教えてもらった絶品レシピ!",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ケール",
+            "quantity": "80g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ケールと油揚げは食べやすい大きさに切る。鍋に油少々を入れ中火で熱しケールを炒める。",
+        "ケールがしんなりしたらだし汁と油揚げを加える。",
+        "ひと煮立ちしたら弱火にして味噌を溶き入れる。沸騰する直前で火を止める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4444644",
+    "advice": "ケールの香りのよさが際立つ出来たてを味わってください。",
+    "history": "鎌倉のレンバイ(鎌倉市農協連即売所)で野菜を売っていた生産者さんから教えてもらったケールのおいしい食べ方です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "ケール 5位"
+    ],
+    "related_keywords": [
+        "ケール 食べ方",
+        "ケール",
+        "ケール 味噌汁",
+        "絶品 味噌汁"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/4444644/100x141c/5837eac500b2f3700b967194c59ffa32.jpg?u=9138041&p=1490926997"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "茄子と鶏肉の揚げ漬け",
+    "author": {
+        "@type": "Person",
+        "name": "cheeさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4020747/464x260/dce0a3445a7de93f5baeffb4d1a6112f.jpg?u=13832021&p=1471098363",
+    "datePublished": "2016-08-13",
+    "description": "話題のレシピ掲載感謝☆冷めても美味しい☆揚げているのにサッパリ♪御飯が欲しくなる１品です！いくらでも食べられますよ～",
+    "recipeYield": "2，3人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "３本"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "250g"
+        },
+        {
+            "name": "小麦粉(薄力粉)",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "糸唐辛子（飾り用）",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は乱切りにして、お水につけてアク抜きし、水気をキッチンペーパーで取っておきます。",
+        "鶏肉は一口大に切ります。",
+        "ボールにに酢、砂糖、醤油を入れて混ぜておきます。",
+        "茄子を170℃の油で透明になるまで上げて、タレに漬けます。",
+        "鶏肉に小麦粉を付けて170℃の油で揚げて、タレに漬けます。",
+        "タレをよく絡ませ、器に盛って、糸唐辛子を飾れば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4020747",
+    "advice": "30分～１時間くらいおくとあじがよりしみます。",
+    "history": "茄子を子供たちに食べさせるために作っていた１品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": [
+        "なす鶏肉 7位"
+    ],
+    "related_keywords": [
+        "鶏肉 揚げ漬け"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/4020747/100x141c/ff9b45483e02712e37dcaed992200361.jpg?u=13832021&p=1471098363"
+}

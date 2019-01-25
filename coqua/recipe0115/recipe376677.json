@@ -1,0 +1,50 @@
+{
+    "name": "ちくわのめんつゆ煮",
+    "author": {
+        "@type": "Person",
+        "name": "そらうた"
+    },
+    "image": "https://img.cpcdn.com/recipes/376677/464x260/5e5a41bc02bd8857da584828e203ccb3.jpg?u=390080&p=1214216131",
+    "datePublished": "2007-05-21",
+    "description": "ちくわだけ甘辛く煮ました。あっという間に出来るのでお弁当の隙間やあと1品に。07/12/14話題入りさせていただきました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "3本"
+        },
+        {
+            "name": "ミツカン「追いがつお節つゆ」",
+            "quantity": "30cc"
+        },
+        {
+            "name": "水",
+            "quantity": "60cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは適当な大きさに切る。",
+        "鍋にめんつゆ、水、砂糖を入れ煮立てたらちくわを入れ中火弱位で煮る。汁気がなくなって来たら出来上がり。",
+        "今回　ミツカン「追いがつお節つゆ」使用しました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "376677",
+    "advice": "調味料はお好みで加減して下さい。",
+    "history": "実家でこんな感じでちくわを煮たのがあったような気がするので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "ミツカン",
+        "水",
+        "砂糖"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/376677/100x141c/207981e77a774b667de86fd78caecfc7.jpg?u=390080&p=1214216131"
+}

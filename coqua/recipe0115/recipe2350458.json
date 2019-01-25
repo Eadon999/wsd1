@@ -1,0 +1,46 @@
+{
+    "name": "シャ乱Qはたけのキャベツサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "はたけ（シャ乱Q）"
+    },
+    "image": "https://img.cpcdn.com/recipes/2350458/464x260/3ba0f74d25213f5731fe1e8bd79d7e52.jpg?u=7760948&p=1379623989",
+    "datePublished": "2013-09-20",
+    "description": "所要時間３分。焼きラーメン(ID:2350433)つくったときの残りキャベツでサラダ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ(ざく切り)",
+            "quantity": "４分の１"
+        },
+        {
+            "name": "ふじっ子",
+            "quantity": "少々"
+        },
+        {
+            "name": "スープ(インスタントラーメンについてる粉)",
+            "quantity": "１袋の３分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツに粉スープ（１袋の３分の１）を加える",
+        "ふじっ子をテキトーにいれる",
+        "キャベツを柔らかくしたいという思いを込めながら混ぜる。オリーブオイルや塩こしょうをくわえても良いよ〜",
+        "盛りつけて出来上がり"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2350458",
+    "advice": "３キャベツを混ぜるときに固いところをモミモミして柔らかくすると食べるときにエエ感じになる",
+    "history": "白菜やキャベツでよくある居酒屋メニューやけど、焼きラーメンで残ったキャベツと粉スープをつかってみたらうまくいった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ふじっ子",
+        "スープ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2350458/100x141c/3f448c0fdb154e3fc3dc6567a8d22afb.jpg?u=7760948&p=1379623989"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "☸簡単！レンジdeキャベツの塩昆布和え☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2183271/464x260/cffd00c364938231318127d5142cfb8e.jpg?u=4672105&p=1417220409",
+    "datePublished": "2013-04-08",
+    "description": "16.04.13.100人話題入り感謝♪レンジで４分！素早く、しかも簡単に一品完成しちゃいます☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１/６玉(約１５０ｇ)"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "８ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは２ｃｍ幅のざく切りにする。",
+        "耐熱容器に材料全てを入れてざっと混ぜる。",
+        "レンジで４～５分加熱する。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2183271",
+    "advice": "昆布が染みて少し黒っぽくなり、味が濃そうに見えますが大丈夫ですよ。キャベツの食感が残る程度に加熱すると美味しいです。",
+    "history": "手で塩もみしないで出来る昆布和えを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "その他/お弁当/困った時のすきまおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "塩昆布",
+        "酒",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "180",
+    "thumbnail": "https://img.cpcdn.com/recipes/2183271/100x141c/209fb892eb2c55974bd304587dc6defb.jpg?u=4672105&p=1417220409"
+}

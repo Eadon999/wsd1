@@ -1,0 +1,79 @@
+{
+    "name": "鶏胸肉のしっとりみぞれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "*Leaf*"
+    },
+    "image": "https://img.cpcdn.com/recipes/724234/464x260/ee9c0724a7cb0184480f94951dc2275f.jpg?u=244542&p=1233295241",
+    "datePublished": "2010-05-23",
+    "description": "フライパン一つで簡単に作れます。固くなりがちな胸肉が、しっとりやわらかな食感になっちゃいます。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●生姜のしぼり汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "○だし汁",
+            "quantity": "1/2C"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は皮と脂を取り除き、薄めの削ぎ切りにし、●をもみ込み下味をつける。",
+        "大根はすりおろし、ネギは小口切りにする。",
+        "1の鶏肉に片栗粉をまぶし、油を敷いたフライパンで両面を軽くソテーし、○の調味料と大根おろしを加え、弱火で暫く煮る。",
+        "器に盛り、ネギとお好みで一味唐辛子をかけて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "724234",
+    "advice": "大根おろしや調味料は、味をみて加減してください。大根おろしは辛味が少ない方が美味しいと思うので、大根の上の部分を使用して下さいね。",
+    "history": "雑誌からの覚書を少々アレンジしました(^^)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "大根",
+        "塩",
+        "だし汁"
+    ],
+    "tsukurepo_count": "302",
+    "thumbnail": "https://img.cpcdn.com/recipes/724234/100x141c/1f2686b6749f5842f02c6f0781524933.jpg?u=244542&p=1233295241"
+}

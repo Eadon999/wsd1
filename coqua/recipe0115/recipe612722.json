@@ -1,0 +1,62 @@
+{
+    "name": "かぼちゃの豚肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/612722/464x260/da61a634bd89a8f25b82f12418062a0a.jpg?u=496128&p=1247137852",
+    "datePublished": "2008-07-20",
+    "description": "かぼちゃのホクホク感と甘さが良いです。豚肉との相性もＧＯＯＤ！簡単にできて、ボリュームもありお腹も満足！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉（薄切り）",
+            "quantity": "約150g（6枚）"
+        },
+        {
+            "name": "かぼちゃ",
+            "quantity": "約200g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "①かぼちゃの種を取り、約1cmの厚さのくし型を６つ切る。",
+        "②レンジで柔らかくなるまで加熱。（我が家のレンジでは片面1分、裏返して1分）",
+        "③②を豚肉1枚ずつ巻く。",
+        "④③に薄く片栗粉をまぶす。",
+        "⑤フライパンに油を熱し、焼く。",
+        "⑥たれを入れて絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "612722",
+    "advice": "かぼちゃはレンジでしっかり加熱して下さいね。フライパンで焼いただけでは柔らかくなりません。適当な大きさに切り、串にさして焼くと食べやすいです。",
+    "history": "大好きな食材を巻いてみよう！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ 豚肉 豚肉巻き"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/612722/100x141c/f6e749a785bf46b4415e03079847c94c.jpg?u=496128&p=1247137852"
+}

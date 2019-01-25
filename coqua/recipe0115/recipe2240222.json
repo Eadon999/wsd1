@@ -1,0 +1,60 @@
+{
+    "name": "ひよこ豆とビーツのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "principito"
+    },
+    "image": "https://img.cpcdn.com/recipes/2240222/464x260/779a4b4c71568864701d8aeb98e6b023.jpg?u=1866046&p=1369866421",
+    "datePublished": "2013-05-30",
+    "description": "◎話題入り感謝◎生ビーツの甘みとひよこ豆が美味しい素材が活きたサラダです。",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "ビーツ",
+            "quantity": "1個"
+        },
+        {
+            "name": "ひよこ豆(水煮)",
+            "quantity": "150ｇ～"
+        },
+        {
+            "name": "砕いたカシューナッツまたは胡桃など",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "イタリアンパセリ(微塵切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "EVオリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "レモン汁またはライムジュース",
+            "quantity": "大さじ"
+        },
+        {
+            "name": "(お好みで)はちみつ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ビーツは皮をむいて、すりおろす。",
+        "大きいボールに全材料を混ぜ、出来上がり。",
+        "冷蔵庫で冷やしてどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2240222",
+    "advice": "乾燥ひよこ豆を使う場合は前日から水で戻し、柔らかくなるまで煮る。ビーツの甘みで十分甘いのではちみつは入れなくてもOK。",
+    "history": "ビーツが大好きなので、生ビーツの甘みをいかしたサラダを作ってみたくて。美味しく出来たので覚書。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/豆類/ひよこ豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生ビーツ サラダ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2240222/100x141c/771d58d8fa3f0f7c435efeeb955d207c.jpg?u=1866046&p=1369866421"
+}

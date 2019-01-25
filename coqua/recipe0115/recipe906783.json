@@ -1,0 +1,57 @@
+{
+    "name": "大根ツナサラダ～わさびマヨ和え～",
+    "author": {
+        "@type": "Person",
+        "name": "ばぶﾁｬﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/906783/464x260/5b7d176ab210f8bc353ecf683808b825.jpg?u=1431330&p=1252417083",
+    "datePublished": "2009-09-08",
+    "description": "箸休めに ぴったり☆ ついつい食べすぎちゃう☆簡単だ～。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根‥（千切り）",
+            "quantity": "８センチ位"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆醤油（薄口）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆レモン汁 / わさび",
+            "quantity": "各小さじ１"
+        },
+        {
+            "name": "☆かつおぶし / 白ゴマ",
+            "quantity": "各適量"
+        }
+    ],
+    "recipeInstructions": [
+        "☆まぜまぜ。",
+        "１に大根とツナ加え\r\n→まぜまぜ。\r\n出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "906783",
+    "advice": "わさびの量はお好みで調整して下さい☆",
+    "history": "いつもの大根サラダにわさびを加えてアレンジ。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ツナ缶",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/906783/100x141c/dcb6825a338bebb15fc173094be548de.jpg?u=1431330&p=1252417083"
+}

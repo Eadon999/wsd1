@@ -1,0 +1,63 @@
+{
+    "name": "鶏ひき肉と白菜カブのあっさり煮",
+    "author": {
+        "@type": "Person",
+        "name": "mimioon"
+    },
+    "image": "https://img.cpcdn.com/recipes/4129731/464x260/aafcca09b3e715044a42ec1231b6cc0e.jpg?u=7626795&p=1476791067",
+    "datePublished": "2016-10-18",
+    "description": "あっさり塩味な簡単煮物です♪柔らかく煮たカブが美味しいです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "80g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "1枚"
+        },
+        {
+            "name": "カブ",
+            "quantity": "2個"
+        },
+        {
+            "name": "水",
+            "quantity": "250ml"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "鶏ガラスープの素(顆粒)",
+            "quantity": "小さじ1強"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カブは皮を剥いて四つ割りにする。白菜は繊維を断つように、幅1cm弱に切る。",
+        "小鍋にカブ、白菜、水、料理酒を入れて蓋をし、火にかける。白菜がくたっとするまで煮る。",
+        "鶏ガラスープの素を入れ、鶏ひき肉をほぐしながら入れる。再び蓋をし、カブが柔らかくなるまで煮る。塩で味を調えたら完成です☆",
+        "2018.2.3\n話題入りしました！作ってくださった皆様、ありがとうございます(*^^*)！"
+    ],
+    "cookTime": null,
+    "recipe_id": "4129731",
+    "advice": "煮ている途中で水が足りなくなったら、適宜足してください。",
+    "history": "母が作ってくれた料理を思い出して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 白菜",
+        "かぶ 白菜 ひき肉",
+        "かぶ 白菜 鶏肉",
+        "かぶ 白菜 煮物"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/4129731/100x141c/a4ca9c03755d5b489f96a99d3ebbd3da.jpg?u=7626795&p=1476791067"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "**たこ唐**",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/392770/464x260/9a864ad78322bb45229ccde05cdc98c3.jpg?u=322945&p=1214216476",
+    "datePublished": "2007-06-21",
+    "description": "ぷりぷりジューシーなレモン風味のたこ唐です♪ ビールのつまみにgoodです♪ ポッカレモンコンテスト、和食賞を頂きました♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でたこ",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "☆卵白",
+            "quantity": "1個分"
+        },
+        {
+            "name": "☆酒、醤油",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "☆ポッカレモン１００",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "青海苔",
+            "quantity": "少々"
+        },
+        {
+            "name": "生レモン",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たこはざく切りにし、軽く塩、胡椒し☆を混ぜたものに最低3時間以上漬けて置く。",
+        "片栗粉をつけ、きつね色になるまで揚げる、青海苔をかけて完成。お好みでさらに生レモンをかけてみても♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "392770",
+    "advice": "できるだけ揚げたてを、早めに食べてください、あまり放置しておくとべたっとしちゃいます。",
+    "history": "以前テレビで卵白につけると、ふわっと、ぷりっと揚がるのを見ました。味付けは簡単に考えました。混ぜて揚げるだけの簡単おつまみです♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茹でたこ",
+        "卵白",
+        "片栗粉",
+        "青海苔"
+    ],
+    "tsukurepo_count": "110",
+    "thumbnail": "https://img.cpcdn.com/recipes/392770/100x141c/d44291e4967406ef7ab047515a385ac6.jpg?u=322945&p=1214216476"
+}

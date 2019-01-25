@@ -1,0 +1,73 @@
+{
+    "name": "☆フライパンで簡単 鮭のちゃんちゃん焼き",
+    "author": {
+        "@type": "Organization",
+        "name": "とうほうキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/3630339/464x260/24bfc41a82a3696e18073e7266a82f46.jpg?u=13303149&p=1453108485",
+    "datePublished": "2016-01-18",
+    "description": "フライパンで簡単 鮭のちゃんちゃん焼き(小石原焼 マルワ窯の器を使用)",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "中１個"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "バター",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭に塩コショウをふっておく。フライパンに油をいれ、鮭を両面焼きしめる。一度取り出しておく。",
+        "切った野菜を硬いものから炒めていく。しんなりしてきたら鮭を入れる。",
+        "味噌・みりん・酒を混ぜて、フライパンに入れて蓋をして３～４分蒸し焼きにるす。",
+        "バターを入れて蓋をし、１～２分蒸し焼きにする。",
+        "ブラックペッパーを振りかけたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3630339",
+    "advice": "器は小石原焼マルワ窯https://www.facebook.com/maruwakama/味噌は『カネダイ』で購入http://www.k-miso.co.jp/",
+    "history": "とうほうキッチン公認レシピ第１２号レシピ開発者：Erina",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭のちゃんちゃん焼き じゃがいも フライパン"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/3630339/100x141c/7c871efa8d0c9966bebe1aee335059ea.jpg?u=13303149&p=1453108485"
+}

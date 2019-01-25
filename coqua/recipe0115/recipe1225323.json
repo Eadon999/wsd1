@@ -1,0 +1,55 @@
+{
+    "name": "なすのポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "シャンプーハット"
+    },
+    "image": "https://img.cpcdn.com/recipes/1225323/464x260/57a0bbc2df1bba395351bd4f93f32688.jpg?u=2367334&p=1361587627",
+    "datePublished": "2010-09-04",
+    "description": "ちょっとだけ残ったポン酢☆炒め物に使ったら簡単調味でさっぱり美味しい♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "2本"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2/3~1"
+        },
+        {
+            "name": "かつおパック",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは1cm厚みの斜め切り、長ねぎは1~2cm幅の斜め切り",
+        "フライパンにゴマ油を入れ、①の野菜を入れて炒めます。油を少なくした場合は蓋をして蒸し焼きにします",
+        "②にポン酢、砂糖を入れて味を付け、器に盛ったらかつおパックをかける(調味料は先に合わせておくといいですよ)"
+    ],
+    "cookTime": null,
+    "recipe_id": "1225323",
+    "advice": "茄子は切ってすぐ使うならアク抜き不要ですアク抜きした場合は、水気をしっかり切って下さい。②は炒めるというよりは焼く感じです焦げないように気をつけて下さい油を少なくした場合は蒸し焼きにするといいと思います",
+    "history": "少しだけポン酢が残ってたので2013/2/23写真変更",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あまったポン酢"
+    ],
+    "tsukurepo_count": "81",
+    "thumbnail": "https://img.cpcdn.com/recipes/1225323/100x141c/b36b9f97c62c8ba18b1ec100b5223153.jpg?u=2367334&p=1361587627"
+}

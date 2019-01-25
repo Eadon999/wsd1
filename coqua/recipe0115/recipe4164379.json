@@ -1,0 +1,56 @@
+{
+    "name": "にんじんの葉のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "カフェCOCO"
+    },
+    "image": "https://img.cpcdn.com/recipes/4164379/464x260/5f8045b6b218862b316731dfce0173a4.jpg?u=13904831&p=1478384966",
+    "datePublished": "2016-11-06",
+    "description": "にんじんの葉を捨てないで、美味しくて、栄養があります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじんの葉",
+            "quantity": "４株"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2杯"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんの葉っぱを洗い、茎の固いところはとります。",
+        "茹でて、3cm位に切ります。調味料で味付けします。",
+        "皿に盛って、いりごまをかけます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4164379",
+    "advice": "少し、時間長くゆでます。",
+    "history": "いつも、天ぷらなので、違う調理方法で(^-^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじんの葉",
+        "人参の葉　ナムル"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4164379/100x141c/b047e7d41d93f5c919bb173cf966c1f4.jpg?u=13904831&p=1478384966"
+}

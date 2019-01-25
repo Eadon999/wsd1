@@ -1,0 +1,66 @@
+{
+    "name": "我が家のこだわり❤絶品カレーうどん",
+    "author": {
+        "@type": "Person",
+        "name": "しばっっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/1396018/464x260/397a888b209135b58819b712c33f780b.jpg?u=1266699&p=1301382491",
+    "datePublished": "2011-03-29",
+    "description": "24.3.24話題入り☆母が試行錯誤して完成させた１品。この材料、この分量、譲れない味です♪超簡単にできますが(笑)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "昆布だしの素＋カツオだしの素",
+            "quantity": "合わせて大さじ１"
+        },
+        {
+            "name": "みりん・醬油",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "１２００ｃｃ"
+        },
+        {
+            "name": "カレールウ",
+            "quantity": "４かけ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゆでうどん",
+            "quantity": "３玉（替え玉必須！）"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎは斜め切りに、油揚げ・豚肉は１ｃｍ幅に。\n鍋に水・だし・みりん・醬油をいれて野菜と油揚げと肉を入れて火を通す。\n",
+        "いったん火を止めルウを入れる。１分置いて再度火にかけよく混ぜる。片栗粉でとろみを調節し茹でうどんにかけて召し上がれ。\n\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1396018",
+    "advice": "肉のアクはとった方がより美味しいです。",
+    "history": "母から受け継いだこだわりの美味しいカレーうどん。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/カレーうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絶品カレーうどん"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1396018/100x141c/d4b1b2e4ce953cc1de5e71b08e5d748a.jpg?u=1266699&p=1301382491"
+}

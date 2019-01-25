@@ -1,0 +1,81 @@
+{
+    "name": "絶対おいしい★野菜の味噌パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/701305/464x260/e63476caf319280ad7d3faf2937170bb.jpg?u=1088838&p=1362296737",
+    "datePublished": "2008-12-18",
+    "description": "話題入りありがとう！具だくさんの和風パスタ！簡単だけどとっても美味しいですよ～！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２人前"
+        },
+        {
+            "name": "大葉",
+            "quantity": "４枚"
+        },
+        {
+            "name": "★合挽肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "★しめじ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "★ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "★茄子",
+            "quantity": "１本"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "★にんにくチューブ",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大２"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "★をフライパンに入れたら火をつけて炒める。",
+        "肉の色が変わったら☆を入れて味噌を溶かす。",
+        "汁がまだ少し残っている状態で茹でたパスタを絡めれば完成！お好みで大葉をのせる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "701305",
+    "advice": "汁が残っている状態でパスタを絡めること。絡めている間に汁気はほとんどなくなります。",
+    "history": "和風のパスタが食べたくて考えました♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/味噌風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "野菜パスタ",
+        "味噌 パスタ",
+        "絶対美味しい パスタ"
+    ],
+    "tsukurepo_count": "92",
+    "thumbnail": "https://img.cpcdn.com/recipes/701305/100x141c/06c9f6d3a15d9775b4997742bd7669d7.jpg?u=1088838&p=1362296737"
+}

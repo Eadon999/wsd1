@@ -1,0 +1,82 @@
+{
+    "name": "大根と麩の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "２４４がう！"
+    },
+    "image": "https://img.cpcdn.com/recipes/1881855/464x260/967fcadfd50fdcac1d50108c1cc0d5c8.jpg?u=2212239&p=1342098508",
+    "datePublished": "2012-07-12",
+    "description": "ほっとする味のあんかけ煮物です。麩がおすすめ♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "焼き麩",
+            "quantity": "大４個"
+        },
+        {
+            "name": "白菜",
+            "quantity": "４〜８枚"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "水",
+            "quantity": "１４００ｃｃ"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "△片栗粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "△水",
+            "quantity": "１００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を３センチ幅の輪切りにし、その後４つに切り、大根がかぶるくらいの水で茹でる。",
+        "沸騰したら水をあけ、分量の水と顆粒だしを入れ、竹串がすっとささるまで煮る。（柔らかめがお好きな方はもう少し煮てください）",
+        "酢を入れ、しめじ、３センチ幅くらいに切った白菜を入れ煮る。",
+        "白菜としめじが煮えたら、さっとかき混ぜてから麩を入れる。",
+        "☆を入れ味をつけたら、△でとろみをつけて、完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1881855",
+    "advice": "お好みの野菜で作ってみてください♪",
+    "history": "煮物（あんかけ）が食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 麩 煮物",
+        "お麩 大根"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1881855/100x141c/23586e5fe3a8e3e0fc8a18162cea0293.jpg?u=2212239&p=1342098508"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "大根と帆立貝柱缶のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "マボー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1626566/464x260/9d75d2e2c7f5fdcdb45a7e6b1f1dcfed.jpg?u=3645439&p=1390403966",
+    "datePublished": "2011-11-13",
+    "description": "簡単に出来て、貝嫌い(嫁、息子)も大好きなサラダです！",
+    "recipeYield": "３～４人前",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/４本"
+        },
+        {
+            "name": "ホタテ貝柱缶詰",
+            "quantity": "小さ目１個(７０g位)"
+        },
+        {
+            "name": "塩",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆レモンの絞り汁",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個(無くても)"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにして塩２つまみを全体に混ぜる。\n１０～１５分してから大根から出た水を絞る。",
+        "ホタテ貝柱(汁は使わない)と、\n☆の材料を入れて良く混ぜる。",
+        "皿に盛り付け、切っておいたトマトを飾ったら出来上がり！写真はパセリのみじん切りを少々。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1626566",
+    "advice": "簡単なのでコツも無いのですが、塩をして水分を出すとドレッシングと良く絡み美味しいです！",
+    "history": "自分が小さいころに食べていたサラダです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": [
+        "貝柱 5位"
+    ],
+    "related_keywords": [
+        "貝柱缶詰",
+        "大根サラダ 貝柱",
+        "大根 貝柱",
+        "ホタテ貝柱 缶詰 サラダ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1626566/100x141c/c3b264ef8f01cabdf32da9a072c381d3.jpg?u=3645439&p=1390403966"
+}

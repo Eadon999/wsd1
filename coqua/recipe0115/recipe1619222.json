@@ -1,0 +1,55 @@
+{
+    "name": "【農家のレシピ】セロリの甘酢漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1619222/464x260/2bb78bc7753000f794d34cab723cd6c3.jpg?u=2513693&p=1320489897",
+    "datePublished": "2011-11-12",
+    "description": "塩漬けしたセロリを甘酢に漬けました。さっぱりしているので中華料理などの箸休めにどうぞ♪　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "3本（茎の部分の重さ２００ｇ）"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "赤唐辛子（小口切りにしておく）",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリは固いすじを取り除き5ミリ幅程度の斜め切りにし、塩一つまみを入れて10分置き水気をギュッと絞ります",
+        "【A】を耐熱容器に入れレンジ５００ｗで30秒ほど加熱し砂糖を溶かします。【A】の粗熱が取れたら【B】と混ぜ合わせます。",
+        "セロリと①をビニール袋又はタッパにいれ半日冷蔵庫で寝かせれば完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1619222",
+    "advice": "",
+    "history": "セロリは甘酸っぱくして食べても美味しいので甘酢に漬け込んでみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリの甘酢漬け"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1619222/100x141c/100549c4be8b02384dcd0380ce481f3d.jpg?u=2513693&p=1320489897"
+}

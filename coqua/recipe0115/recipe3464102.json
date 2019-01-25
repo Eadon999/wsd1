@@ -1,0 +1,66 @@
+{
+    "name": "チョレギサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "青石ことり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3464102/464x260/d23c55a69ccc2ba82835c99c5d6541a2.jpg?u=12589495&p=1445081643",
+    "datePublished": "2015-10-17",
+    "description": "ごま油と塩で食べるシンプルサラダ。調味料とちぎった野菜を混ぜるだけなので直ぐできます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "５枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１０㎝"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "＊顆粒だし（鶏ガラ）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "＊塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊にんにく（すりおろし）",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "レタス、きゅうりは食べやすい大きさに切り、ネギは半分に切り白髪ネギにする。",
+        "＊の調味料を全て混ぜる",
+        "１と２を混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3464102",
+    "advice": "食べる直前に調味料と混ぜると、野菜がしゃきしゃきで美味しいです。",
+    "history": "チョレギサラダが大好きなのですが、お店や市販のドレッシングはほんのり甘いのが多いので、甘くないチョレギサラダを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/韓国風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "きゅうり",
+        "ネギ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3464102/100x141c/e129e23ed90dafc87928ebf1ea8e8528.jpg?u=12589495&p=1445081643"
+}

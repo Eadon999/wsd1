@@ -1,0 +1,66 @@
+{
+    "name": "温玉のっけ♥♡サラダうどん",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/360236/464x260/362339f629e57b89ae90c6630e4ef1d0.jpg?u=304393&p=1214215371",
+    "datePublished": "2007-04-15",
+    "description": "冷たいうどんに具をのせて温玉をのっけて召し上がれ～♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでうどん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "揚げ玉",
+            "quantity": "適量"
+        },
+        {
+            "name": "温玉",
+            "quantity": "2個"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量（かけ用にのばしておく）"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "２本"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "適量（もどしておく）"
+        },
+        {
+            "name": "わけぎ（万能ねぎ）",
+            "quantity": "適量（小口きり）"
+        }
+    ],
+    "recipeInstructions": [
+        "めんつゆは冷蔵庫で冷やしておく。\r\nきゅうりは千きり。\r\nかにかまは縦に裂いておく。",
+        "うどんは表記の通りに軽く茹で、冷水をかけながら冷やす。\r\n",
+        "水気をきり、皿に盛って具をのせ、めんつゆをかけて揚げ玉をのせ、最後に温玉を乗せて出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "360236",
+    "advice": "具は基本なんでもOKです。冷たくても美味しいもので。温玉は崩しながら食べてください。",
+    "history": "ちょっと早いですがうちの定番「冷やしうどん」です。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆでうどん",
+        "揚げ玉",
+        "温玉",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/360236/100x141c/a7a355e5a97b7c52888159482cc6b7c6.jpg?u=304393&p=1214215371"
+}

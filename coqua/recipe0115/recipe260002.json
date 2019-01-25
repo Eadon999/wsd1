@@ -1,0 +1,45 @@
+{
+    "name": "簡単すぎる！鶏胸肉のマヨ＆めんつゆ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/260002/464x260/8015481936b0ee884e27af85b86edaf5.jpg?u=212914&p=1214213155",
+    "datePublished": "2006-06-12",
+    "description": "めんつゆとマヨネーズだけ♪ 忙しい主婦のための一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ2くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "胸肉はそぎ切りにしてビニール袋に入れて、めんつゆとマヨネーズに20、30分つけ込む。",
+        "①の胸肉をフライパンで油をひかずに、並べて焼く。",
+        "★★注意★★めんつゆは2倍濃縮です！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "260002",
+    "advice": "ビニール袋使用で簡単です。安いし早いし美味しいです。　",
+    "history": "以前何かの雑誌にマヨネーズを使うとお肉が柔らかくなるって書いてあったような・・・。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "めんつゆ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "463",
+    "thumbnail": "https://img.cpcdn.com/recipes/260002/100x141c/1fa48e92cd01b46bab46c608b1b585a8.jpg?u=212914&p=1214213155"
+}

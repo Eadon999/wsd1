@@ -1,0 +1,48 @@
+{
+    "name": "節約&ヘルシー♪豆腐のチリソース和え",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4410275/464x260/3c8eb4c82ba50c8cf9f0b455cd2429c9.jpg?u=9664115&p=1489354203",
+    "datePublished": "2017-03-13",
+    "description": "焼いて和えるだけの超簡単レシピです。ピリっと甘辛ソースでしっかり味付け。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を角切りに。",
+        "キッチンペーパーで包んでレンジで1分。\n水切りです。",
+        "フライパンにオリーブオイルをひき中火で焼き色がつくまでコロコロ。",
+        "ケチャップとスイートチリソースを絡めたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4410275",
+    "advice": "ケチャップとチリソースは焦げないようにさっと。",
+    "history": "豆腐さんが、エビチリに憧れを持っているらしくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チリソース 豆腐"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4410275/100x141c/2a4266082fef740586f8c50959f05698.jpg?u=9664115&p=1489354203"
+}

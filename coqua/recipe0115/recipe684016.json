@@ -1,0 +1,51 @@
+{
+    "name": "柚子茶とコチユジャンで✿鶏の甘辛照り煮",
+    "author": {
+        "@type": "Person",
+        "name": "すいーとぴぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/684016/464x260/12f404f04a625c7f1b5ad977a8da86ab.jpg?u=859768&p=1226908482",
+    "datePublished": "2008-11-17",
+    "description": "とても簡単に照り照りの甘辛メインが完成♪ これが食べたくて柚子茶を買うほど大好きな味です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "●柚子茶※",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "●コチュジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を食べやすい大きさに切る。\r\n●をすべて合わせて混ぜておく。",
+        "フライパンにゴマ油を熱し、鶏肉を表面に焼き色がつくよう炒める。フタをし、弱火で蒸し焼きにし火をよく通す。",
+        "合わせておいた●を加えて中火にし、肉を炒めながらタレを煮詰めていく。こんな感じにほぼ煮詰まったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "684016",
+    "advice": "※もし柚子茶がなければオレンジマーマレードでも美味しくできると思います。",
+    "history": "いつもの柚子茶鶏にコチュジャンを加えたら病みつきに。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆず茶 鶏肉"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/684016/100x141c/17cb4da9b7d220425eea38dfc5fa60f8.jpg?u=859768&p=1226908482"
+}

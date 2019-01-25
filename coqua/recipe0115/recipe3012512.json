@@ -1,0 +1,64 @@
+{
+    "name": "厚揚げの甘辛煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3012512/464x260/e806d2a5daddefebf6863a156ab68141.jpg?u=9552524&p=1423788595",
+    "datePublished": "2015-02-19",
+    "description": "甘辛く煮た厚揚げはお酒のおともに♡うちの定番おつまみです(^^)",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ（三角のもの）",
+            "quantity": "４個"
+        },
+        {
+            "name": "☆出し汁",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "適量"
+        },
+        {
+            "name": "練りがらし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは熱湯を回しかけ半分に切ります。",
+        "鍋に☆と①を入れ火にかけます。",
+        "沸騰したらアルミホイルで落し蓋をし弱火～中火で約１５分煮ます。",
+        "器に盛り貝割れ大根、練りがらしを添えます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3012512",
+    "advice": "弱火～中火の火の加減は静かにコトコト煮える感じです(^^)",
+    "history": "主にうちの旦那くんの芋焼酎のおともですが（笑）ご飯にもお弁当にも合いますよ(^^)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ 大根 甘辛煮"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3012512/100x141c/c34115473a37f595599952e115befcf1.jpg?u=9552524&p=1423788595"
+}

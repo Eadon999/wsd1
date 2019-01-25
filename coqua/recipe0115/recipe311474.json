@@ -1,0 +1,43 @@
+{
+    "name": "塩昆布で卵ご飯♪常識だったらごめんなさい",
+    "author": {
+        "@type": "Person",
+        "name": "キキkiki"
+    },
+    "image": "https://img.cpcdn.com/recipes/311474/464x260/f0fd4ec99031fc2e6ba8cc322556abc7.jpg?u=282077&p=1214214321",
+    "datePublished": "2006-12-17",
+    "description": "塩昆布最高ですね♪まだ試してなかったら、やってみて下さい！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "塩昆布",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "一膳"
+        }
+    ],
+    "recipeInstructions": [
+        "卵ご飯に塩昆布を乗せるだけです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "311474",
+    "advice": "醤油をごく少量いれても良いです！",
+    "history": "クックパッドで塩昆布のおいしさにめざめました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩昆布",
+        "卵",
+        "ご飯"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/311474/100x141c/d8d6afa0396c30b9329698f72b0dec73.jpg?u=282077&p=1214214321"
+}

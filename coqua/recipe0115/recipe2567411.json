@@ -1,0 +1,57 @@
+{
+    "name": "桜えびと枝豆の炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "海老マヨネーズ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2567411/464x260/46f7662c6b0911ef27a5bc7c93a52758.jpg?u=1384559&p=1396409665",
+    "datePublished": "2014-04-01",
+    "description": "材料を入れた後は炊飯器まかせの簡単炊き込みご飯です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "１合"
+        },
+        {
+            "name": "★桜えび",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★塩昆布",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★枝豆(冷凍食品でOK)",
+            "quantity": "適量"
+        },
+        {
+            "name": "★めんつゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ゴマ（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は洗って、普通に炊く場合と同様の水加減で準備。",
+        "★印の材料を1の米に投入して、そのまま炊飯。",
+        "召し上がる際にお好みでゴマをふりかけて召し上がれ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2567411",
+    "advice": "このレシピで使っためんつゆは三倍濃縮タイプなので、お手持ちのめんつゆの表示をみて調整してくださいな。",
+    "history": "桜の季節になったので桜えび！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "桜えび 枝豆 炊き込みご飯",
+        "桜えび 炊き込みご飯",
+        "サクラエビ 炊き込みごはん"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2567411/100x141c/93686eee803db08c864f5c3a3880c243.jpg?u=1384559&p=1396409665"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "有名中華再現パクチーサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "shinsukeb"
+    },
+    "image": "https://img.cpcdn.com/recipes/2436226/464x260/91f881861187fa22cf6dcabc0b0b9b6a.jpg?u=1506953&p=1387101339",
+    "datePublished": "2013-12-15",
+    "description": "美味しい中華料理屋さんのパクチーサラダです。病みつきになります。",
+    "recipeYield": "2人",
+    "recipeIngredient": [
+        {
+            "name": "パクチー",
+            "quantity": "6本くらい"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "10個くらい"
+        },
+        {
+            "name": "◯ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◯塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "◯黒胡椒",
+            "quantity": "好みで"
+        },
+        {
+            "name": "◯ナンプラー",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◯レモン",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パクチーを洗って適当な大きさに切る。",
+        "◯を混ぜておく",
+        "パクチー、トマトと2を混ぜて出来上がり"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2436226",
+    "advice": "黒胡椒の量で大人味になります。塩を入れ過ぎないように塩は最後でも良いかもしれません。味を整えるくらいで。",
+    "history": "飯倉にある有名中華料理のパクチーサラダが大変美味しかったのでその再現レシピです。味が良くビールでもワインでもドンドン進んでしまいます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ナンプラーを使ったサラダ"
+    ],
+    "rankings": [
+        "パクチー 2位",
+        "パクチーサラダ 5位"
+    ],
+    "related_keywords": [
+        "パクチー",
+        "パクチーサラダ",
+        "やみつきパクチーサラダ"
+    ],
+    "tsukurepo_count": "263",
+    "thumbnail": "https://img.cpcdn.com/recipes/2436226/100x141c/4850155adee2a5546c347236fbe67cf6.jpg?u=1506953&p=1387101339"
+}

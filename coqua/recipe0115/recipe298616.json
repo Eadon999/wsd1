@@ -1,0 +1,50 @@
+{
+    "name": "ご飯のお供♪玉子味噌",
+    "author": {
+        "@type": "Person",
+        "name": "あゆくるごはん"
+    },
+    "image": "https://img.cpcdn.com/recipes/298616/464x260/3ffd72189e4795ef2491b8d10de0509a.jpg?u=325488&p=1214214000",
+    "datePublished": "2006-11-08",
+    "description": "食欲がないときや朝ご飯などに。これがあればおかずいらないかも？！おにぎりの具でもおいしいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "卵・味噌・砂糖をボウルに入れてよく混ぜる。",
+        "フライパンに油を熱し１を入れたら焦がさないように炒めて出来上がり♪",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "298616",
+    "advice": "焦がさないように炒めるのがポイント。",
+    "history": "子供の頃から食べている母の味？です(^-^)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "味噌",
+        "砂糖",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/298616/100x141c/92d36af5a8cd28afc0499354bb28df76.jpg?u=325488&p=1214214000"
+}

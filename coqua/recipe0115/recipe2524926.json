@@ -1,0 +1,59 @@
+{
+    "name": "本格中華風★簡単たまごスープ",
+    "author": {
+        "@type": "Person",
+        "name": "カジオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2524926/464x260/9acb2a9d58583cb12fb3f1470574df23.jpg?u=4517605&p=1393650412",
+    "datePublished": "2014-03-01",
+    "description": "中華料理店のスープを目指して",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "300ml"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "たまご",
+            "quantity": "一個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお湯を沸かし、鶏ガラスープの素、醤油、酒、ごま油を加えます。",
+        "沸騰したところに、溶き卵を流し入れます。再沸騰するまで我慢。",
+        "お椀に盛りつけ、ネギをちらして完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2524926",
+    "advice": "卵を入れたらあまり混ぜない。",
+    "history": "近所の中華料理屋さんのスープが美味しかったので",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "本格卵スープ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2524926/100x141c/20500722eb39a57d05751997960528d3.jpg?u=4517605&p=1393650412"
+}

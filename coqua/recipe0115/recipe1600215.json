@@ -1,0 +1,48 @@
+{
+    "name": "にんじんてりてり甘煮（ヘルシーグラッセ）",
+    "author": {
+        "@type": "Person",
+        "name": "マヤchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1600215/464x260/34b4a6ae9859a24961b5d4dd9d119971.jpg?u=3431639&p=1318760482",
+    "datePublished": "2011-10-16",
+    "description": "にんじんをてりてりの甘煮にしました。ノンオイルのグラッセ風です☆お弁当にどうぞ！",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "水",
+            "quantity": "２００～３００ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんを皮付きのまま乱切りにします。",
+        "鍋に材料を全て入れ、煮汁がなくなり照りが出るまで、柔らかく煮つめます。約２０分くらいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1600215",
+    "advice": "竹串がスッと刺さるまで柔らかく煮ると、にんじんの甘みが出て美味しくなります。柔らかくなる前に煮汁がなくなってしまったら、水をたしてさらに煮てください。",
+    "history": "お弁当用に考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "その他/お弁当/色別おかず/赤色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん 甘煮",
+        "にんじん グラッセ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1600215/100x141c/3585804986ebc9e7cd79f1548379edf8.jpg?u=3431639&p=1318760482"
+}

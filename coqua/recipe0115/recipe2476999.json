@@ -1,0 +1,53 @@
+{
+    "name": "キュウリには梅でしょ!!★塩昆布ゴマ鰹節",
+    "author": {
+        "@type": "Person",
+        "name": "★クックパパパッド★"
+    },
+    "image": "https://img.cpcdn.com/recipes/2476999/464x260/2b02d6e6083ed75ef410e46d0a274627.jpg?u=7804557&p=1390814402",
+    "datePublished": "2014-01-26",
+    "description": "キュウリと相性のよさそうなものをまぜまぜしてみたところ見た目以外がイイ感じになりました！(笑)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "小１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "ふたつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりを乱切りにする。梅干しは種をとり粗みじん切りに。",
+        "１をボールに入れて、鰹節と塩昆布を入れて合える。\n最後に白ゴマを振りかけて完成!!"
+    ],
+    "cookTime": null,
+    "recipe_id": "2476999",
+    "advice": "梅干しは多めがおいしいですよー！",
+    "history": "副菜が欲しくて、家にあったものでジャンクフード形式でつくってみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "梅干し",
+        "塩昆布",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2476999/100x141c/6931d2a2ce65e65a651f96d561e7c905.jpg?u=7804557&p=1390814402"
+}

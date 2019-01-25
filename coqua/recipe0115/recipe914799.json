@@ -1,0 +1,69 @@
+{
+    "name": "海老とおくらの甘胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/914799/464x260/cac336492f5041a84d3bffe0153461f5.jpg?u=625487&p=1253257564",
+    "datePublished": "2009-09-18",
+    "description": "食べやすい甘めの胡麻だれで和えました",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "海老",
+            "quantity": "１０～１２尾"
+        },
+        {
+            "name": "おくら",
+            "quantity": "６本"
+        },
+        {
+            "name": "◎すり胡麻",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１・１／２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "◎の材料は混ぜ合わせておく。",
+        "おくらは塩少量(分量外)で揉んでガクを取り、熱湯で茹でる。冷水をさっと流して水気を切り、長さを半分にに切る。",
+        "海老は殻を剥いて背ワタがあれば取り除き、下処理の材料を揉み込んで水で流す。",
+        "熱湯でさっと茹で、水気を切る。",
+        "２と４を合わせ、１で和える。",
+        "器に盛り付ける。 \r\n上から炒り胡麻を散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "914799",
+    "advice": "今回は白胡麻を使用していますが、すり胡麻は白でも黒でもOKです。",
+    "history": "ノンオイルでヘルシーでありながら、しっかりめのお味で食べ応えのあるレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "海老",
+        "おくら",
+        "すり胡麻",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/914799/100x141c/fd367489c3234ed2e1b0814c76336d9e.jpg?u=625487&p=1253257564"
+}

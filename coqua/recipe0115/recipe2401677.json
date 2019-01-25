@@ -1,0 +1,59 @@
+{
+    "name": "麩と油揚げの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2401677/464x260/4c42be14afad3d85cbe12cae2aacadf6.jpg?u=4819316&p=1384057721",
+    "datePublished": "2013-11-10",
+    "description": "15/4/15話題入り有難うございます、お味噌汁によく合う麩と油揚げを組み合わせました、ほっこりします",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "麩",
+            "quantity": "3～4個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1/4枚"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "和風顆粒だし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "250cc"
+        }
+    ],
+    "recipeInstructions": [
+        "\n油揚げは縦半分にして1センチ幅に切り、熱湯で油抜きをする\n",
+        "麩は水かぬるま湯で戻し、軽く絞って水気を切り、お碗に入れておく\n",
+        "鍋に水と和風顆粒だしを入れて加熱し、沸騰したら油揚げと味噌を入れて混ぜる\n\n",
+        "2のお碗に3の味噌汁を入れて出来上がり\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2401677",
+    "advice": "基本に忠実に、麩は先に戻して、油揚げは油抜きをすることでほっこり美味しく頂けます",
+    "history": "豆腐と油揚げの味噌汁が最もポピュラーでしょうが、豆腐がなくて代わりに麩を使っても美味しく出来ました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麩",
+        "油揚げ",
+        "ねぎ",
+        "味噌"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2401677/100x141c/fd1e0829ddbbae062e921c286d410809.jpg?u=4819316&p=1384057721"
+}

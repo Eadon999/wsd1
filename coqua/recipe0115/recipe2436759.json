@@ -1,0 +1,64 @@
+{
+    "name": "長芋のきざみ山葵ドレッシングサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "B子chan"
+    },
+    "image": "https://img.cpcdn.com/recipes/2436759/464x260/82a40eb8e8c1e66f869d4c5f78757ccd.jpg?u=1107351&p=1387243670",
+    "datePublished": "2013-12-17",
+    "description": "長芋と野菜の千切り和風サラダ。最近良く見かけるチューブの刻み山葵をドレッシングに加えました。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "100g"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "15ｇ"
+        },
+        {
+            "name": "かいわれ大根",
+            "quantity": "1/3パック"
+        },
+        {
+            "name": "※市販のドレッシング",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "※きざみ山葵（チューブ）",
+            "quantity": "５ｃｍくらい"
+        },
+        {
+            "name": "おかか",
+            "quantity": "適宜"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は千切りにして酢水に晒す。\nその他の野菜も千切りに。\nかいわれは長さを二等分に切る。",
+        "ドレッシングに刻み山葵を入れて良く混ぜておく。",
+        "水気を良く切った①の野菜を②のドレッシングで和える。",
+        "器に盛り、お好みでおかか、海苔をトッピング。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2436759",
+    "advice": "今回は市販の玉ねぎドレッシングを使用。醤油系、シンプルなフレンチ系のドレッシング、ぽん酢+オイルも合うと思います。勿論手作りドレッシングでも！材料、調味料はお好みで調整して下さい。",
+    "history": "最近良く見かける刻み山葵を買ったので、サラダに入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きざみわさび"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2436759/100x141c/69e8df23605693b5bb48fe831921774e.jpg?u=1107351&p=1387243670"
+}

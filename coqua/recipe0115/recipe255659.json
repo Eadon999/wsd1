@@ -1,0 +1,63 @@
+{
+    "name": "☆こんにゃくのコチュジャン煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "キャラメルバニラ"
+    },
+    "image": "https://img.cpcdn.com/recipes/255659/464x260/e4cfe1276b452c0050bfaf2c07df482a.jpg?u=64425&p=1214213048",
+    "datePublished": "2006-05-22",
+    "description": "ほんのり甘くてピリ辛のこんにゃく炒り煮です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "板こんにゃく",
+            "quantity": "2/3枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "三温糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "白炒りごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくは切って、茹でてアクをとる。",
+        "鍋にごま油を熱し、こんにゃくを炒める。",
+        "水、酒、砂糖、醤油、コチュジャンを加え、汁気が少し残るこらいまで煮詰める。\r\n最後にごまをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "255659",
+    "advice": "お好きなこんにゃくの形で作ってください。",
+    "history": "普通にピリ辛のこんにゃくきんぴらを作ろうと思ったのですが、冷蔵庫を開けたらコチュジャンが目に入ったので、入れて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく コチュジャン"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/255659/100x141c/b0e1ac236469e520bb62a90de57bfde7.jpg?u=64425&p=1214213048"
+}

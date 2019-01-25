@@ -1,0 +1,48 @@
+{
+    "name": "お弁当にも♡さつま揚げのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "たまきのパパ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2397593/464x260/4a93add5c02851c86bb8d6fc6b429ddb.jpg?u=3427728&p=1383694550",
+    "datePublished": "2013-11-06",
+    "description": "Ｈ29.4話題入りありがとうございます☆さつま揚げとチーズを焼くだけで手のかかったように見える一品☆おつまみ、弁当に♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "１～２枚"
+        },
+        {
+            "name": "ごま油（サラダ油でも）",
+            "quantity": "少々"
+        },
+        {
+            "name": "葱や七味唐辛子など",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油をひき、さつま揚げを適当な大きさに切り、チーズをのせる。（中火）",
+        "焼き色が付いてきたら裏返す。また裏もチーズをカリカリにして焼き色をつける。",
+        "トッピングに葱や七味唐辛子をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2397593",
+    "advice": "香ばしさを出すのにしっかり焼いてください。",
+    "history": "お弁当に入れるものがなかった時、さつま揚げを簡単に調理して入れました。すき間を埋められて満足(^^♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ チーズ焼き",
+        "さつま揚げ チーズ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2397593/100x141c/a7651251f33c463cef11256ecd08e1d5.jpg?u=3427728&p=1383694550"
+}

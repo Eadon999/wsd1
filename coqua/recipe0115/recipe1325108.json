@@ -1,0 +1,85 @@
+{
+    "name": "✿蕎麦巻き寿司✿",
+    "author": {
+        "@type": "Person",
+        "name": "nyaop"
+    },
+    "image": "https://img.cpcdn.com/recipes/1325108/464x260/5bef1277798ace642ba0463c2bcd26b3.jpg?u=1633854&p=1294581665",
+    "datePublished": "2011-01-09",
+    "description": "酢飯よりヘルシーに、おつまみ蕎麦寿司♪",
+    "recipeYield": "２本分",
+    "recipeIngredient": [
+        {
+            "name": "蕎麦(乾麺)",
+            "quantity": "50g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鰹ダシ",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "1.5本"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1/6"
+        },
+        {
+            "name": "椎茸佃煮",
+            "quantity": "1枚分"
+        },
+        {
+            "name": "長芋ゆかり酢漬け",
+            "quantity": "適量"
+        },
+        {
+            "name": "寿司酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "海苔",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "小さな卵焼きは1/3\r\nキュウリは1/3の長さにして6等分。 \r\nカニカマは縦1/2。 \r\nその他の材料も切りそろえる。",
+        "茹であがった蕎麦は冷水で〆たら寿司酢に砂糖を溶いたものに漬ける。",
+        "海苔をまきすに置き",
+        "蕎麦はキッチンペーパーで軽く水分を取ります",
+        "蕎麦を海苔に並べ乗せ",
+        "具も乗せて、太巻き風に巻いて馴染ませる。",
+        "長芋のゆかり酢漬け \r\nレシピID.1325135",
+        "椎茸の佃煮 \r\nレシピID.1325153 \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1325108",
+    "advice": "切る時は、多量に水を含ませた布巾に包丁を一振り毎に撫で付けながら押し引いて切る！ ",
+    "history": "一度作ってみたかった♪",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/蕎麦寿司"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そば巻き寿司",
+        "和そば つまみ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1325108/100x141c/3eb5b20ef682f18dcef540a2d4fb379e.jpg?u=1633854&p=1294581665"
+}

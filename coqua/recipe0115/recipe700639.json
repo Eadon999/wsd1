@@ -1,0 +1,85 @@
+{
+    "name": "山芋がシャキシャキ～な「鶏つくね」",
+    "author": {
+        "@type": "Person",
+        "name": "kaerururu"
+    },
+    "image": "https://img.cpcdn.com/recipes/700639/464x260/c37627269b76ffcfc359eea0fa3cdc9c.jpg?u=32839&p=1229430823",
+    "datePublished": "2008-12-16",
+    "description": "少ない鶏挽肉でもボリュームアップ！できるし、なにより食感がシャキシャキで美味しいの。タレと絡めば益々食欲そそります。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏挽肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "山芋",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1カケ"
+        },
+        {
+            "name": "卵",
+            "quantity": "M1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "山芋、長ネギ、しょうがはみじん切りにしておく\r\n山芋の切り方は、食感をイメージして調節する",
+        "大き目のボールに挽肉だねの材料を入れ、手で粘りがでるまでよく練る",
+        "フライパンを熱して油を敷き、スプーンで形を整えながら中火で焼く",
+        "焼けたら一旦取り出して、フライパンの油を拭き取る",
+        "フライパンに＊印のタレの材用を入れて、煮立ったらつくねを戻しいれて絡める"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "700639",
+    "advice": "焼く前のタネは、かなりゆるくて手で成形するのは難しいので、スプーンを二つ使って綺麗な形に整えます。",
+    "history": "普通の鶏つくねじゃつまらない・・・ちょうど我が家で掘った山芋があったので、混ぜてみたら食感最高！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/つくね"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏つくね 山芋"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/700639/100x141c/8dbbd1e3c5117a01d9f7a290965c37a7.jpg?u=32839&p=1229430823"
+}

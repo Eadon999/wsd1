@@ -1,0 +1,50 @@
+{
+    "name": "かぼちゃのおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1376027/464x260/dac5d14b672de8705ea2d73b32bb2317.jpg?u=2495483&p=1298991697",
+    "datePublished": "2011-03-02",
+    "description": "かぼちゃの煮物が残っていたらお試しを～",
+    "recipeYield": "１個",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗半分"
+        },
+        {
+            "name": "かぼちゃ",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃの皮をとる。",
+        "かぼちゃを潰して、ご飯とごまに混ぜおにぎりにする。",
+        "まっきー♪３７さんがこんな可愛いく（そばかすちゃん♡と勝手に命名しました笑）作って下さいました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1376027",
+    "advice": "",
+    "history": "かぼちゃを潰しながらご飯と混ぜて食べると美味しいのでおにぎりにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "かぼちゃ",
+        "白ごま",
+        "塩"
+    ],
+    "tsukurepo_count": "118",
+    "thumbnail": "https://img.cpcdn.com/recipes/1376027/100x141c/852c2a3ee28d7b0bfd9a99515c7ddd4b.jpg?u=2495483&p=1298991697"
+}

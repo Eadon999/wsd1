@@ -1,0 +1,63 @@
+{
+    "name": "舞茸と鱈のホイル焼き♪味噌マヨソース",
+    "author": {
+        "@type": "Person",
+        "name": "menako"
+    },
+    "image": "https://img.cpcdn.com/recipes/1712837/464x260/1308fc9b8ec83c2a836b46fff74df2a0.jpg?u=969323&p=1329698014",
+    "datePublished": "2012-02-20",
+    "description": "いつものホイル焼きに飽きてきた時はコレ！！！並べて焼くだけなのに美味♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鱈",
+            "quantity": "２切"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "１パック"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "液状味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "☆調味料を全て混ぜ合わせておく。\n\n舞茸は食べやすい大きさに、玉ねぎは薄切りにする。",
+        "アルミホイルに玉ねぎを敷き、鱈、舞茸を乗せる。",
+        "上から工程１の調味料をかけ、アルミをしっかり閉じる。",
+        "フライパンにのせ、蓋をして弱火で１０分蒸し焼きにすれば完成♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1712837",
+    "advice": "お好みでバターをのせて焼いても美味しいです♪ピーマンや人参など、余り野菜入れても♪オーブンでもいいですが、フライパンの方が早く仕上がります。",
+    "history": "いつものホイル焼きに飽きてしまったので♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マイタケ 鱈",
+        "たら まいたけ",
+        "舞茸ホイル焼き",
+        "鱈ホイル焼き 味噌マヨ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1712837/100x141c/a25a286690dc7713c1b54a9b641f4883.jpg?u=969323&p=1329698014"
+}

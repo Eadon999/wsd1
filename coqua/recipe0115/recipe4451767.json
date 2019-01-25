@@ -1,0 +1,76 @@
+{
+    "name": "おからの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "あぷ子"
+    },
+    "image": "https://img.cpcdn.com/recipes/4451767/464x260/e1abef61d001ac612706a20fe742f098.jpg?u=3542800&p=1491229467",
+    "datePublished": "2017-04-03",
+    "description": "我が家の定番おからの煮物です～",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "おから(生)",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "〇人参(小)",
+            "quantity": "1本"
+        },
+        {
+            "name": "〇白ネギ",
+            "quantity": "1/３本"
+        },
+        {
+            "name": "〇こんにゃく",
+            "quantity": "１/８枚"
+        },
+        {
+            "name": "〇ゴボウ",
+            "quantity": "１０㎝"
+        },
+        {
+            "name": "菜種油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "だし汁（鰹節）",
+            "quantity": "３/４カップ"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "　〇の人参・白ネギ・こんにゃく・ゴボウを3ミリ角に切っておく。",
+        "　鍋を熱し菜種油を入れて、１の野菜を入れてしっかり炒める。",
+        "　２の鍋におからを入れてざっと混ぜ炒め、だし汁・薄口醤油・みりん・砂糖を入れる。",
+        "　３のおからの水分を飛ばして好きな加減で火を止めて出来上がり。",
+        "カテゴリ登録していただきました＾▽＾\n\nありがとうございます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4451767",
+    "advice": "　男性や若い人は油をしっかり入れた、おからの煮物を美味しいと感じるようです。居酒屋さんはマヨネーズを入れてるお店も多いそうです。おからの煮物の美味しさは甘味と油だと思います。女性にはなかなか痛い料理ですが・・・美味しいですよねT▽T",
+    "history": "　長年我が家で作っているおからの煮物です～",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "人参",
+        "白ネギ",
+        "こんにゃく"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4451767/100x141c/ae0b6b1ac1e1cd6fc6ae6caa47eefdbb.jpg?u=3542800&p=1491229467"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "ヘルシー！ぶり豆腐ハンバーグ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4455464/464x260/27cf10ef536b5ece065bfaf84ba27fa8.jpg?u=4376699&p=1491406625",
+    "datePublished": "2017-04-06",
+    "description": "鰤+豆腐＝ハンバーグですね",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鰤",
+            "quantity": "1切れ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐をレンジ600w1分半チンして放置して出てきた水を捨てる",
+        "鰤の骨皮を取って生姜でひと煮たてしてザルに取る",
+        "材料を全部混ぜる",
+        "油少々を温めヘラでタネを落として成形する\n蓋をして中火で5分",
+        "反してもう5分で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4455464",
+    "advice": "ソースは醤油鰹節などお好みで",
+    "history": "ぶりを洋食に・・・豆腐ハンバーグと合わせてみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり ハンバーグ",
+        "豆腐ハンバーグ　魚"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4455464/100x141c/8cbc0d669336530f9532271e10e4e999.jpg?u=4376699&p=1491406625"
+}

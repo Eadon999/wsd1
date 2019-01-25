@@ -1,0 +1,44 @@
+{
+    "name": "炒めるだけ☆さつまいものきんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "chieno☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3715482/464x260/5684982e53c5f1feada134b8fd7695bd.jpg?u=3209668&p=1456534522",
+    "datePublished": "2016-02-27",
+    "description": "炒めるだけです☆さつまいもをおかずに☆",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中1本"
+        },
+        {
+            "name": "醤油・みりん",
+            "quantity": "各大1～"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもを細い千切りにしてみずにさらす☆",
+        "ごま油で水切りしたさつまいもを透明になるまで炒める☆",
+        "醤油・みりんを絡めてごまをふる☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3715482",
+    "advice": "さつまいもはできるだけ細く！！",
+    "history": "さつまいもがたくさんあるので消費のためいろいろな調理法を試しています！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "黒ゴマ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3715482/100x141c/713be12de39300e39256bf912f194edb.jpg?u=3209668&p=1456534522"
+}

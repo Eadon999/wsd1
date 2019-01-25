@@ -1,0 +1,67 @@
+{
+    "name": "つきこんにゃくと人参の照り煮",
+    "author": {
+        "@type": "Person",
+        "name": "みか＊＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2514605/464x260/30d3a801631a27531f67bba722770956.jpg?u=8866525&p=1392982138",
+    "datePublished": "2014-02-21",
+    "description": "甘辛く照りっと煮たご飯がすすむ一品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "つきこんにゃく",
+            "quantity": "1袋"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "だし汁（水＋顆粒だし）",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "炒りごま・七味",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを下茹でしてザルにあげておく。",
+        "人参は食べやすい大きさに切る。",
+        "だし汁に人参、こんにゃくを入れ砂糖、酒を入れて煮る。",
+        "しょうゆ、みりんを入れ煮汁がなくなるまで煮る。",
+        "お好みで炒りごまや七味をふりかけてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2514605",
+    "advice": "煮汁がなくなるまで混ぜながら煮てください。頑張って煮ていくと照り照りになります！",
+    "history": "つきこんにゃくを照り照りにしてご飯がすすむおかずにしたかったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": [
+        "つきこんにゃく 8位"
+    ],
+    "related_keywords": [
+        "つきこんにゃく"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2514605/100x141c/16ba6932bc5b3f5fd5f72e79c88f46e2.jpg?u=8866525&p=1392982138"
+}

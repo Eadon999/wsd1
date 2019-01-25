@@ -1,0 +1,65 @@
+{
+    "name": "筍と鶏肉の超カンタン♪煮物",
+    "author": {
+        "@type": "Person",
+        "name": "みぽママン"
+    },
+    "image": "https://img.cpcdn.com/recipes/785906/464x260/ed3fad8326019c88ee37ad46b58fbe04.jpg?u=1208746&p=1239955342",
+    "datePublished": "2009-04-17",
+    "description": "我が家の「春の定番」の煮物です。 こってり味が筍の美味しさをさらにＵＰ。 短時間で美味しい煮物がカンタンに完成。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "たけのこ（下茹で済み）",
+            "quantity": "約３５０ｇ"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "顆粒和風だしの素",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのこを食べやすい大きさに切る。\r\n鶏肉も同じく食べやすい大きさに切る。",
+        "鍋に水・醤油などの材料を入れ、たけのこを入れて火にかける。",
+        "沸騰してきたら鶏肉を入れて\r\n中火で１５分煮る。\r\n途中鍋を揺らして全体に味がしみるようにする。",
+        "照りよく仕上げるために蓋はせず、中火のまま焦げ付かないように注意しながら煮ていく。",
+        "キレイな色艶になったら出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "785906",
+    "advice": "甘めがお好みなら砂糖は大さじ３で作るといい。一日おいてお弁当の一品にもオススメです。",
+    "history": "旬のたけのこ、和風の煮物で美味しく食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 鶏肉 煮物"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/785906/100x141c/1e27f826a09fd7647d7fd8b10e768f33.jpg?u=1208746&p=1239955342"
+}

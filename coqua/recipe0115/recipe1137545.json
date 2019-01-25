@@ -1,0 +1,55 @@
+{
+    "name": "めかぶご飯",
+    "author": {
+        "@type": "Person",
+        "name": "♥孔燐♥"
+    },
+    "image": "https://img.cpcdn.com/recipes/1137545/464x260/41adfc505d0da09486b7381f40c4f135.jpg?u=1101239&p=1337979819",
+    "datePublished": "2010-05-25",
+    "description": "おかずが無くても単品で食べれる　おかずがあっても邪魔しない程のうっすら味付けです。",
+    "recipeYield": "３合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "乾燥めかぶ",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "７０ｃｃ"
+        },
+        {
+            "name": "本みりん",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "炊飯器の分量（３合のめもりまで）"
+        }
+    ],
+    "recipeInstructions": [
+        "お米をといだら　炊飯器へ　そこに　調味料を入れてから　水を３合のめもりまで入れ混ぜる　",
+        "乾燥めかぶを上にちりばめて　炊き上げる\r\n炊き上がったら　めかぶを均一になるように混ぜたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1137545",
+    "advice": "乾燥めかぶは水で戻しません　そのまま炊飯器に入れてください",
+    "history": "乾燥めかぶをもらったので",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/めかぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥めかぶ",
+        "味付 めかぶ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1137545/100x141c/5617bd79e5cb59fe78ce6cc741f97894.jpg?u=1101239&p=1337979819"
+}

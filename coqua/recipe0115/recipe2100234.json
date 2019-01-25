@@ -1,0 +1,52 @@
+{
+    "name": "簡単♡牛丼",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2100234/464x260/1aa0ea485049920ccb4785f6f940ba87.jpg?u=2495483&p=1359524475",
+    "datePublished": "2013-01-30",
+    "description": "焼き肉のたれで簡単牛丼",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "牛肉(薄切り)",
+            "quantity": "５０g"
+        },
+        {
+            "name": "焼き肉のたれ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "１膳"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "新生姜甘酢漬け又は紅生姜",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉を炒めて焼き肉のたれをからめる",
+        "ご飯に白ごまを混ぜる",
+        "茶碗にご飯を半分入れて牛肉を乗せ上からご飯を入れて牛肉を乗せる",
+        "紅生姜又は新生姜を細く切って乗せる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2100234",
+    "advice": "",
+    "history": "牛丼が食べたくなって。○○屋の牛丼を真似して紅生姜を乗せたかったけど、なかったので新生姜甘酢漬けを乗せました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛丼 玉ねぎなし"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2100234/100x141c/d3a6e8325f80097fc66e9ba1d8d0bbc1.jpg?u=2495483&p=1359524475"
+}

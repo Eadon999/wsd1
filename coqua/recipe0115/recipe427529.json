@@ -1,0 +1,57 @@
+{
+    "name": "しらすとキャベツの酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "おぶうさま"
+    },
+    "image": "https://img.cpcdn.com/recipes/427529/464x260/83df5aeb9c8a78ab9c9cde47b7f09ee7.jpg?u=47582&p=1214217170",
+    "datePublished": "2007-09-08",
+    "description": "酢の物ってきゅうりだけではありません。キャベツだって立派な酢の物に・・・♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "しらす（ちりめんじゃこでも）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "☆米酢",
+            "quantity": "大さじ１～１．５"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１～１．５"
+        },
+        {
+            "name": "☆めんつゆ（濃縮3倍）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白胡麻",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざくざくと切り、耐熱容器に入れてしんなりするまで電子レンジで加熱する。（かためにゆがいてもよい。この場合は水気をしっかり絞る）",
+        "キャベツとしらす（またはちりめんじゃこ）を混ぜ、☆印で調味し、白胡麻も加えて混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "427529",
+    "advice": "よく冷やして召し上がってください。",
+    "history": "実家では酢の物といえばきゅうりばかり。結婚して主人の母が作ってくれたキャベツの酢の物はカルチャーショック（←大げさ）でした。ちょっと野菜が足りないときには便利な一品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "しらす",
+        "米酢",
+        "砂糖"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/427529/100x141c/9307c85498ca89474387fd0d98a81001.jpg?u=47582&p=1214217170"
+}

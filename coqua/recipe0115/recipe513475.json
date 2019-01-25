@@ -1,0 +1,54 @@
+{
+    "name": "キムチマヨ納豆！",
+    "author": {
+        "@type": "Person",
+        "name": "レンバス"
+    },
+    "image": "https://img.cpcdn.com/recipes/513475/464x260/47ca2bee8173c80b9f1832c9e1a1d995.jpg?u=27137&p=1214218815",
+    "datePublished": "2008-02-21",
+    "description": "納豆とマヨネーズって合うんですよ♪キムチの辛味と旨みがベストマッチ★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "２パック"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "３０ｇ～"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２枚～"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キムチと大葉はみじん切りにし、マヨネーズと和えます。",
+        "納豆に１のキムチマヨとごまを混ぜて頂きます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "513475",
+    "advice": "★キムチ、大葉などはお好みの量にしてください。",
+    "history": "★くるみ焼き味噌納豆同様、このキムチマヨも我が家では大好評！パンに乗せて溶けるチーズをトッピングしてトーストしてもすごーく美味しいですよ♪★２００８年４月に「納豆のタレレシピ」でノミネート賞を頂きました。★２００８年４月９日に話題のレシピとして紹介して頂きました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "キムチ",
+        "大葉",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/513475/100x141c/1a1993515df8917b0be190eec831cb7d.jpg?u=27137&p=1214218815"
+}

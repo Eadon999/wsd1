@@ -1,0 +1,54 @@
+{
+    "name": "10分レシピ☆にんじんの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "mikarin4"
+    },
+    "image": "https://img.cpcdn.com/recipes/309986/464x260/43cfd7a63240ab1bbeafa213c4976b97.jpg?u=245761&p=1214214278",
+    "datePublished": "2006-12-13",
+    "description": "昔、料理本にのっていたレシピを思い出して作りました。なんということのない料理ですが、素朴なお味で美味しいのです。なにより、にんじんがいっぱいとれてお肌ツルツルになりますよ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "1/2～1/3本"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんはそぎ切りにする。",
+        "サラダ油を熱してにんじんを炒める。油がまわってきたら、ひたひたの水、醤油、砂糖を入れてしばらく煮る。",
+        "水が少なくなってきたら、溶いた卵を流し入れる。かたまってきたら、全体をざっと混ぜてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "309986",
+    "advice": "卵のかたさはお好みで調整してくださいね。私は、やや半熟くらいが好みです。",
+    "history": "お金＆時間がない、ひとり暮らしのときによく作ったレシピです。見栄えはイマイチですが、ふんわり卵ににんじんの甘さがひきだされて美味しいですよ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "卵",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/309986/100x141c/368bc0e6ae658442ba069411e8d4955d.jpg?u=245761&p=1214214278"
+}

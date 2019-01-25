@@ -1,0 +1,57 @@
+{
+    "name": "えのたまみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "kururin18"
+    },
+    "image": "https://img.cpcdn.com/recipes/1404115/464x260/acc95428d60b9464ec2514e6b648cb0f.jpg?u=2859574&p=1329927329",
+    "datePublished": "2011-04-06",
+    "description": "えのきのしゃきしゃき食感とふんわりたまごの組合せ、体も温まって美味しいです♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "約80g"
+        },
+        {
+            "name": "たまご",
+            "quantity": "Lサイズ1個(約50g)"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少量(なくても大丈夫です)"
+        },
+        {
+            "name": "みそ",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "700㏄"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは根元を切り落とし半分に切り分けます。",
+        "たまごをボウルに割りいれ万能ねぎを入れてときほぐしておきます。",
+        "鍋にだし汁を入れて沸騰してきたらえのきを入れみそを溶かします。",
+        "味見をしてよければ、たまごを箸を使って細くまわし入れ蓋をします。",
+        "みそ汁がふつふつしてきたら火を止めます。",
+        "2011.6.7　話題入りすることができました。つくれぽを届けてくださった皆様、ありがとうございました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1404115",
+    "advice": "たまごを入れたら沸騰させないようにしてくださいね。",
+    "history": "子供がこの組合せが好きなので…",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "万能ねぎ",
+        "みそ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "139",
+    "thumbnail": "https://img.cpcdn.com/recipes/1404115/100x141c/9f50dd0d1b577091227f43c3c7d81c90.jpg?u=2859574&p=1329927329"
+}

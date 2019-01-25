@@ -1,0 +1,54 @@
+{
+    "name": "揚げ茄子のマヨソース和え。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/50393/464x260/dadb533eeab4368f74f0bda56c856141.jpg?u=4036&p=1214209112",
+    "datePublished": "2002-04-22",
+    "description": "こんがりと揚げた茄子ってなんでこんなにおいしいんでしょう？",
+    "recipeYield": "5～6人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "中3本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ1と半分"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "揚げ油（サラダ油）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は洗って水気をペーパータオルなどでふき取り、乱切りにする。",
+        "180度のサラダ油で茄子をこんがりと揚げ、余分な油を切ってボウルに入れる。",
+        "マヨネーズとめんつゆを良く混ぜ、2.の茄子と和えて器に盛り、ねぎを散らして完成。できたてをどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "50393",
+    "advice": "めんつゆは、市販の2倍濃縮タイプを使いました。揚げたてもおいしいですが、冷たくしてもおいしかったです。",
+    "history": "揚げた茄子が大好きなのでそれを使ったお料理を考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "マヨネーズ",
+        "めんつゆ",
+        "揚げ油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/50393/100x141c/69f1c69678b2c38cbd0b716400fa0334.jpg?u=4036&p=1214209112"
+}

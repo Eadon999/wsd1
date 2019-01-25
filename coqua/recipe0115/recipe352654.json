@@ -1,0 +1,56 @@
+{
+    "name": "タコのガーリックバタポン",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/352654/464x260/9d44c78da035014210f5c93ab614b230.jpg?u=274122&p=1214215207",
+    "datePublished": "2007-03-31",
+    "description": "バターとポン酢にはまっています。",
+    "recipeYield": "３人分ぐらい",
+    "recipeIngredient": [
+        {
+            "name": "タコ（茹でだこ使用）",
+            "quantity": "２５０グラム"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０グラム"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒コショウ（粗挽きをおすすめ）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "タコは食べやすい大きさに切る。",
+        "フライパンにバターを入れ溶かしタコを炒める。",
+        "ガーリックパウダーをふり、火が通ったらポン酢を回し入れる。",
+        "盛りつけネギや黒コショウをかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "352654",
+    "advice": "今回簡単に作りたかったのでガーリックパウダーを使いましたが、ニンニクのみじん切りやチューブのニンニクでもＯＫです。その場合はバターと一緒に入れて弱火で香りが立つまで炒め、それからタコを入れてくださいね。",
+    "history": "いつも野菜や果物をくれる母がめずらしくゆでだこを持ってきてくれたので、最近はまっているバタポンで食べました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ"
+    ],
+    "tsukurepo_count": "337",
+    "thumbnail": "https://img.cpcdn.com/recipes/352654/100x141c/a0207ff364c9ed62cd21a58e9834eed5.jpg?u=274122&p=1214215207"
+}

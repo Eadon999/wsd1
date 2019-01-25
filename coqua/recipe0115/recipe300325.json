@@ -1,0 +1,59 @@
+{
+    "name": "ブロッコリーとちくわのマヨ胡麻ポン♪",
+    "author": {
+        "@type": "Person",
+        "name": "さとみわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/300325/464x260/2c1a7b4955b7ad3154c68f9579b6ca4b.jpg?u=317578&p=1214214054",
+    "datePublished": "2006-11-13",
+    "description": "マヨ胡麻ポン♪がブロッコリーを美味しくしてくれます。温サラダにしてもgoodですよ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "６個"
+        },
+        {
+            "name": "※マヨネーズ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "※練胡麻（白）",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "※ポン酢",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは塩茹でしておく。\r\nちくわは一口大に切っておく。",
+        "１とミニトマトを盛り付け、合わせた※をかけて出来上がり♪",
+        "２０１１年\n１２月２０日\n話題入りできました☆ありがとうございます(≧▽≦)ノ"
+    ],
+    "cookTime": null,
+    "recipe_id": "300325",
+    "advice": "特にありません。",
+    "history": "朝の忙しい時にブロッコリーを使ったサラダを手早く作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ちくわ",
+        "ミニトマト",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/300325/100x141c/e94361c6a770ec08bb9770d5c5a9c3e9.jpg?u=317578&p=1214214054"
+}

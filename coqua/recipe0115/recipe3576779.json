@@ -1,0 +1,54 @@
+{
+    "name": "簡単！焼きパン粉☆揚げないチーズハムカツ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3576779/464x260/b51c57a1031f7872e36bf97aecfb2d62.jpg?u=4376699&p=1450275669",
+    "datePublished": "2015-12-17",
+    "description": "焼きパン粉をまぶしてオーブンで！揚げないのでチーズが出ずオススメ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "8枚"
+        },
+        {
+            "name": "とろけるスライスチーズ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "小麦粉卵",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "チーズを4等分\n少しずらして2枚ずつ乗せハムで挟む",
+        "小麦粉をまぶし卵に付け焼きパン粉を付ける\nオーブン230度10分焼いて完成\nオーブントースターでもＯＫ",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "3576779",
+    "advice": "焼きパン粉は同量比で増やしてください　ID:3567552※パン粉とオイルを混ぜてラップで1分半チン混ぜるだけでＯＫ",
+    "history": "チーズハムカツにしようとしてチーズがはねるな～と思った時に焼きパン粉を思い出して揚げないで焼くことに！チーズも出ないで正解でした",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハムカツ 揚げない",
+        "ハムカツ 揚げない トースター",
+        "ハムカツ トースター",
+        "焼きパン粉 揚げない"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3576779/100x141c/3eccde82c515fc00955ae276b75299cc.jpg?u=4376699&p=1450275669"
+}

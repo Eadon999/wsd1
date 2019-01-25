@@ -1,0 +1,52 @@
+{
+    "name": "おうちで☆お好み焼きソース",
+    "author": {
+        "@type": "Person",
+        "name": "ききらら25"
+    },
+    "image": "https://img.cpcdn.com/recipes/1818553/464x260/39dbc02e94dd485f0652c68d2b168c06.jpg?u=4254827&p=1337341116",
+    "datePublished": "2012-05-18",
+    "description": "混ぜるだけの超簡単レシピ！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "ウスターソース",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ハチミツ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "練りからし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "全部の材料をいれて混ぜるだけ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1818553",
+    "advice": "",
+    "history": "ソースを作りたくて( *´ω`* )",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマトケチャップ",
+        "ウスターソース",
+        "しょうゆ",
+        "ハチミツ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1818553/100x141c/8e5036e85282131f6cc389d654a66639.jpg?u=4254827&p=1337341116"
+}

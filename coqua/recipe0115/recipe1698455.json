@@ -1,0 +1,61 @@
+{
+    "name": "簡単！我が家のたまご雑炊♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1698455/464x260/d79b34995bd7aa9a241c0fee861c32b0.jpg?u=603745&p=1447811590",
+    "datePublished": "2012-02-07",
+    "description": "余りご飯で簡単に作れる雑炊です。疲れた時や食欲のない時にもいいですよ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆お醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "小ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れて沸かします。",
+        "葱をみじん切りにしておきます。",
+        "卵も溶いておきます。",
+        "沸いたお湯にご飯を入れて少し煮ます。",
+        "葱を加えます。",
+        "☆の調味料を加えてひと煮立ちさせます。",
+        "溶き卵を加えます。",
+        "卵にしっかり火が通るように煮ます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1698455",
+    "advice": "",
+    "history": "残ったご飯で良く作る雑炊レシピです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷凍ご飯 たまご雑炊",
+        "たまご雑炊"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1698455/100x141c/d34d343dbd24d4148193f556948dcae8.jpg?u=603745&p=1447811590"
+}

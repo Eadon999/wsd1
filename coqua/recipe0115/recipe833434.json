@@ -1,0 +1,61 @@
+{
+    "name": "簡単ヘルシー　エビマヨのサクサク焼き♥",
+    "author": {
+        "@type": "Person",
+        "name": "紅葉ｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/833434/464x260/2a30ab2b93bdd458a3215f65eb0b5ab4.jpg?u=1389109&p=1342161663",
+    "datePublished": "2009-06-13",
+    "description": "オーブントースター使用で簡単調理。 お弁当のおかずにも、おつまみにも最適です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ",
+            "quantity": "10尾"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "30ｍｌ"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "20ｍｌ"
+        },
+        {
+            "name": "バジル",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "エビの背ﾜﾀを取り片栗粉をまぶし軽く揉んでから水洗いし、キッチンペーパーで水気をふき取り、片栗粉をまぶす。",
+        "マヨネーズ、トマトケチャップ、バジル、黒コショウを混ぜたものにエビを入れて絡ませる。",
+        "クッキングシートの上にエビを置き、パン粉を全体にまぶし、オーブントースターで5分間焼いて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "833434",
+    "advice": "パン粉が焦げる様ならホイルをかぶせて下さい。 油で揚げないのでヘルシーに出来上がります。",
+    "history": "簡単にお弁当のおかずやおつまみにできる1品料理を考えて出来た1品です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビマヨ サクサク",
+        "エビマヨ ヘルシー",
+        "エビマヨ パン粉"
+    ],
+    "tsukurepo_count": "222",
+    "thumbnail": "https://img.cpcdn.com/recipes/833434/100x141c/cecd6903a883f775c003cd72f8368b29.jpg?u=1389109&p=1342161663"
+}

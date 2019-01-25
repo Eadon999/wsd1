@@ -1,0 +1,47 @@
+{
+    "name": "じゃが芋のしょうが醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "moj"
+    },
+    "image": "https://img.cpcdn.com/recipes/1769087/464x260/4d7f57e8e8e767d813f17f62580d46fd.jpg?u=369673&p=1448779882",
+    "datePublished": "2012-04-07",
+    "description": "定番のジャガイモの細切り炒めをしょうが醤油で仕上げました。焦がし醤油の香りとピリリとした生姜味がおつまみにピッタリ。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "摩り下ろししょうが",
+            "quantity": "1かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は細切りにして水にさらす。\n",
+        "フライパンで火が通るまで炒め、塩コショウで軽く味付け。",
+        "仕上げに摩り下ろし生姜と醤油を入れタレを絡めます。\n※醤油は鍋肌にジュワッと焦がしいれます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1769087",
+    "advice": "・じゃが芋は炒めすぎると柔らかくなるのせ注意！シャキシャキと歯ごたえがある感じがよいです。・最初は軽く塩コショウをふって、最後に香ばしく醤油で味付けます。薄味より少し濃い目がポイント！",
+    "history": "じゃが芋の千切りを塩コショウでよく炒めるのですが、大人味にする為、しょうが醤油にしたところ、パンチがきいて、美味しくなりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも 生姜炒め"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1769087/100x141c/fe4ab930c1bcfad1c7a7e9fe8bc94d93.jpg?u=369673&p=1448779882"
+}

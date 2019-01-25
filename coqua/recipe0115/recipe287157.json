@@ -1,0 +1,68 @@
+{
+    "name": "ちくわで簡単オードブル＠",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/287157/464x260/7165ede4eee3ec625dd62385555c6ee3.jpg?u=252604&p=1214213758",
+    "datePublished": "2006-10-03",
+    "description": "お正月の門松のようなちくわのオードブル。ちくわが可愛く変身しました。胡麻マヨで♪",
+    "recipeYield": "6個",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "3本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "適量"
+        },
+        {
+            "name": "大根",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆すり胡麻",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "1つまみ"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "数滴"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを斜めに切ります。",
+        "野菜をそれぞれ、7～8ｃｍの長さで、細く千切りにします。",
+        "ちくわに野菜を数本ずつ束ねて押し込みます。",
+        "☆をよく混ぜ合わせて、胡麻マヨを作ります。ちくわに添えて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "287157",
+    "advice": "彩りよく野菜を組み合わせると、綺麗です。",
+    "history": "ちくわがとっても安かったので、作ってみました♪",
+    "categories": [
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お正月 オードブル 簡単",
+        "お正月 オードブル",
+        "ちくわオードブル",
+        "オードブル"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/287157/100x141c/9ab251b67dc33003a7de1d589c4791d1.jpg?u=252604&p=1214213758"
+}

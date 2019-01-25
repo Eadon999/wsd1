@@ -1,0 +1,77 @@
+{
+    "name": "なすの揚げだし",
+    "author": {
+        "@type": "Person",
+        "name": "NAGANO久留米"
+    },
+    "image": "https://img.cpcdn.com/recipes/2171323/464x260/512d590ef0b3fcf4073cf50d1912569b.jpg?u=3789549&p=1474521937",
+    "datePublished": "2013-04-02",
+    "description": "なす本来の旨みが引きたつ2013.08.09カテゴリに掲載",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす　　大",
+            "quantity": "1本"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "少々"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうが　千切り",
+            "quantity": "少々"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なす:縦半分に切り、6当分にカットにし水につけておく\n\n\n\n",
+        "Aを沸騰させ冷ましておく",
+        "なすを天ぷら油で素揚げ",
+        "直接2の中に入れて漬けて、器に盛り大根おろし、細ネギを飾る",
+        "レシピID : 2171320 \nなすのスタミナ揚げ",
+        "レシピID : 2183763\nなすのレモン煮"
+    ],
+    "cookTime": null,
+    "recipe_id": "2171323",
+    "advice": "なすの大きさにもよりますが....あと1本増やしても良いです。出し調味料はそのままで....",
+    "history": "母から教わりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根おろし",
+        "細ネギ",
+        "だし汁",
+        "酒"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2171323/100x141c/7f21a1dc935f9319424d32222f569c7d.jpg?u=3789549&p=1474521937"
+}

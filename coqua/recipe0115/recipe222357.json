@@ -1,0 +1,66 @@
+{
+    "name": "牛肉とごぼうコンニャクの炒り煮",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/222357/464x260/2fab814e60af02c3c3bef173411a79b7.jpg?u=57297&p=1214212333",
+    "datePublished": "2005-10-23",
+    "description": "ごぼうと牛肉も煮物にすると相性がいいよ。《はい、ご飯が進みます(*^ｍ^)o☆》",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "コンニャク",
+            "quantity": "1丁"
+        },
+        {
+            "name": "牛肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "コンニャクは指でちぎり、\r\nごぼうの千切りをよくもみ洗いして\r\n酢水に浸け、あくを取ります。\r\n",
+        "ごま油でコンニャクとごぼうを炒め、砂糖２、酒１、醤油２、だしの素を入れて\r\n味をからめます。",
+        "水を浸るくらいに張り、蓋をして中火で10分くらい。\r\n最後に牛肉を入れ、火が通ったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "222357",
+    "advice": "こんにゃくをちぎると味が浸みやすくなります",
+    "history": "晩ご飯のおかずです",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "コンニャク",
+        "牛肉",
+        "醤油"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/222357/100x141c/d9c06e80633dccab39315f23a236920f.jpg?u=57297&p=1214212333"
+}

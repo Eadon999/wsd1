@@ -1,0 +1,63 @@
+{
+    "name": "優しい春の味わい♪簡単な筍の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ポテチ犬"
+    },
+    "image": "https://img.cpcdn.com/recipes/3853076/464x260/efd0e87f28c127e7be166d0b01da22dc.jpg?u=7027453&p=1463016557",
+    "datePublished": "2016-05-12",
+    "description": "旬の筍を優しい煮物にしました(#^.^#)。鍋に入れっぱなしなので、初心者さんでも簡単です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "筍(水煮)",
+            "quantity": "1本"
+        },
+        {
+            "name": "■水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "■顆粒和風だし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "筍を食べやすい大きさに切る。",
+        "鍋に(1)と■を入れ、中火にかける。沸騰してきたら弱火にし、蓋をして10～15分煮る。",
+        "※落し蓋をすればしっかり味が染みます。",
+        "冷めても美味しいです！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3853076",
+    "advice": "あく抜きした筍を使いました。市販の筍水煮でも大丈夫です。",
+    "history": "実家の母から、あく抜きした筍をおすそ分けしてもらいました。たくさん作って、常備菜として保存です(^_^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "筍",
+        "顆粒和風だし",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3853076/100x141c/c07c063da6444c06d175b647fcd215f0.jpg?u=7027453&p=1463016557"
+}

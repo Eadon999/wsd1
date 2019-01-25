@@ -1,0 +1,63 @@
+{
+    "name": "大根の明太マヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "けい♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/346868/464x260/204edb5563dd401f3e0d67cbf5f8dd5c.jpg?u=60994&p=1214215084",
+    "datePublished": "2007-03-19",
+    "description": "1人分：106kcal大根と明太マヨがよく合います。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "7～8cm"
+        },
+        {
+            "name": "明太子",
+            "quantity": "50g"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "★塩",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "★ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて、好きな太さに短冊切りする。\r\n塩（分量外）を揉み込んでしばらく置く。",
+        "明太子は皮から出して、★の材料と一緒にボールに入れて混ぜておく。",
+        "1の大根についた塩を水で洗い流して、水気を絞る。\r\n（思いっきり絞ってください）",
+        "2に3を入れてあえて、お皿に盛ったら海苔を散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "346868",
+    "advice": "大根の水気はしっかり切ってください。",
+    "history": "近所のお店のメニューを多分こんな感じかな？と真似してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "明太子",
+        "マヨネーズ",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/346868/100x141c/793d0a39631cb2c8a6a4f3b2ac9bcf9c.jpg?u=60994&p=1214215084"
+}

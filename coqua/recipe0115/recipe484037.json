@@ -1,0 +1,44 @@
+{
+    "name": "◆１：１：１　手作りぽん酢◆",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/484037/464x260/d69afe61ab72b0cd93f82c519111fa72.jpg?u=322621&p=1215455263",
+    "datePublished": "2008-01-07",
+    "description": "料理好きの実家の母が自画自賛した　手作りぽん酢ﾃﾞｽ♥同じ割合で簡単　美味しぃ♥",
+    "recipeYield": "１５０ｃｃ",
+    "recipeIngredient": [
+        {
+            "name": "ゆず果汁（ﾚﾓﾝでもOK)",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "ダシ醤油（無ければ普通の醤油）",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "みりんはﾚﾝｼﾞ500～600Wで１分強加熱して軽く沸騰させる（吹きこぼれないようにじーっと見ててﾈ）",
+        "１にﾀﾞｼ醤油・ゆず果汁を加えて軽く混ぜたら出来上がり",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "484037",
+    "advice": "みりんは加熱せずに合わせると　苦味が出るので軽く沸騰させて下さい",
+    "history": "料理好きの母　直伝のﾚｼﾋﾟです　母はこれに細く切った昆布を入れて保存していましたが使う度にねばりが気になるので私は入れていません",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ポン酢 手作り",
+        "ポン酢 作り方"
+    ],
+    "tsukurepo_count": "352",
+    "thumbnail": "https://img.cpcdn.com/recipes/484037/100x141c/a38d5eac4bc7dbbc04d52cfd24c813fc.jpg?u=322621&p=1215455263"
+}

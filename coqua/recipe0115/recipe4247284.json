@@ -1,0 +1,60 @@
+{
+    "name": "とっても簡単⭐クリームシチュー",
+    "author": {
+        "@type": "Person",
+        "name": "kojyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/4247284/464x260/61b0a45d71f580587bed8643410b2a7d.jpg?u=657130&p=1482238619",
+    "datePublished": "2016-12-21",
+    "description": "忙しい日は簡単にクリームシチューでも♥",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ・にんじん・たまねぎ",
+            "quantity": "各1個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "4枚ぐらい"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "400ｃｃ～500cc"
+        },
+        {
+            "name": "コンソメキューブ",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩コショウ・味の素",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を好きな大きさにカットして、耐熱容器にいれ、ラップをして600Wレンジで4分温める。（小さめにカットおすすめ）",
+        "鍋にバターを熱し、ベーコンをいため、1も一緒に炒める。",
+        "２に小麦粉をいれ、粉っぽさがなくなるまで炒めたら、牛乳をいれて混ぜる。\n",
+        "３にコンソメをいれて、味をみながら塩コショウ、お好みで味の素をいれ出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4247284",
+    "advice": "野菜をレンジでチンして時短しました。",
+    "history": "時間がないときでもすぐあたたかいものがたべたくて、野菜を炒める時間を削減してみようと思ったのがきっかけです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/シチュー/クリームシチュー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とっても簡単　クリームシチュー"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4247284/100x141c/c75eb26630aa5c61f384af40abda237c.jpg?u=657130&p=1482238619"
+}

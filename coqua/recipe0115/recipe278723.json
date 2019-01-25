@@ -1,0 +1,59 @@
+{
+    "name": "ケンタッキーのコールスロー",
+    "author": {
+        "@type": "Person",
+        "name": "いちきち"
+    },
+    "image": "https://img.cpcdn.com/recipes/278723/464x260/2ccd834af371c67b8c8f4d430b9bd2cd.jpg?u=267651&p=1214213564",
+    "datePublished": "2006-09-04",
+    "description": "うちにあるものだけで作れちゃう！ケンタッキーのコールスローが大好きなのでまねして作りました！２００８．２．写真だけ更新しました。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１/２ぐらい"
+        },
+        {
+            "name": "コーン",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４～５"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは千切りにし塩でもんで水気を出す。",
+        "水で塩を落とし固く絞りしなしなのキャベツを作る。",
+        "マヨネーズ、お酢、砂糖をお好みの量入れ混ぜ合わせコーンを入れあえる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "278723",
+    "advice": "いつものサラダにあきたら試してみて。具をもっと細かく切るとよりケンタッキー近づくと思います。ツナ、にんじん、他にも色々入れてアレンジしてくださいね★私はツナがおすすめ！味付けに失敗してもツナを入れるとごまかせます（笑）",
+    "history": "キャベツがたくさんあったので作りました。http://blog.goo.ne.jp/mihoreshipi/料理ブログかいてます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ",
+        "その他/再現レシピ/ファーストフード/その他再現サイドメニュー/再現コールスロー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "コーン",
+        "マヨネーズ",
+        "お酢"
+    ],
+    "tsukurepo_count": "204",
+    "thumbnail": "https://img.cpcdn.com/recipes/278723/100x141c/069581fdc027e3368dd52fae1ced8ab1.jpg?u=267651&p=1214213564"
+}

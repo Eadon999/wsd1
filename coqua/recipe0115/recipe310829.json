@@ -1,0 +1,45 @@
+{
+    "name": "豚肉長いも巻き",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/310829/464x260/a1273b6f896980651543e28f47799b33.jpg?u=253314&p=1214214310",
+    "datePublished": "2006-12-15",
+    "description": "さくさく美味しいですよ。お弁当にもＧＯＯＤ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚肉薄切り",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "長いも",
+            "quantity": "１ｃｍ幅×肉の枚数"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもの皮をむき１ｃｍ幅に切り、塩コショウをしてレンジでチンする（６００ワット１分半）",
+        "豚肉に塩、こしょうし、①の長いもを乗せて巻く。",
+        "焼く！"
+    ],
+    "cookTime": null,
+    "recipe_id": "310829",
+    "advice": "焼いてから、味が薄いなら塩、こしょうして下さい。",
+    "history": "今日の付きだしです♪＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉薄切り",
+        "長いも",
+        "塩、こしょう"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/310829/100x141c/37621892dc5278ba29dd0624e987b6a1.jpg?u=253314&p=1214214310"
+}

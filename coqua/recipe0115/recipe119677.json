@@ -1,0 +1,62 @@
+{
+    "name": "海老とアスパラの塩炒め。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/119677/464x260/a838c682589bc9ef62ef37b1da21b149.jpg?u=14642&p=1214210449",
+    "datePublished": "2003-12-04",
+    "description": "あっさりと。　海老の旨味をいかした、シンプルな一品です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "むき海老",
+            "quantity": "100㌘"
+        },
+        {
+            "name": "アスパラガス",
+            "quantity": "1束（5～6本）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1弱"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ1／2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラは固い根本の部分は切り落とし、皮をむいて4～5㎝の長さに切っておく。",
+        "フライパンにサラダ油を熱し、海老と1のアスパラをしっかり炒める。",
+        "水大さじ2で溶いた鶏ガラスープ、酒を加えて炒めあわせ、塩・胡椒で味を調えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "119677",
+    "advice": "",
+    "history": "エビもアスパラも大好き！　沢山食べたいので、シンプルな炒め物にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "むき海老",
+        "アスパラガス",
+        "サラダ油",
+        "酒"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/119677/100x141c/fa737bd520414098b15098d9076145b5.jpg?u=14642&p=1214210449"
+}

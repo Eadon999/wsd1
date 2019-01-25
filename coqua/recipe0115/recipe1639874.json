@@ -1,0 +1,70 @@
+{
+    "name": "トマトのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kebeibiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1639874/464x260/35f52a4b1cfa4f62b49b4886a4c82acd.jpg?u=3378740&p=1397269230",
+    "datePublished": "2011-11-30",
+    "description": "カプレーゼもいいけれど簡単に作れる手作りリコッタチーズがあればトマトに乗せるだけ♪白だしで綺麗な色のドレッシング仕立て♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "適量"
+        },
+        {
+            "name": "リコッタチーズID1626396（カッテージチーズ）",
+            "quantity": "適量"
+        },
+        {
+            "name": "玉葱のみじん切り",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "バジルソースID1619957",
+            "quantity": "小1"
+        },
+        {
+            "name": "ハチミツ",
+            "quantity": "小２（14g）"
+        },
+        {
+            "name": "酢（レモン汁）",
+            "quantity": "大２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大４"
+        },
+        {
+            "name": "白だし（白醤油）",
+            "quantity": "小1/2～１"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは輪切りの食べやすい厚さにスライスします。",
+        "リコッタチーズは指先でほぐす感じでトマトの上に掛け、その上にドレッシングを掛けて繰り返しサンドしていく。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1639874",
+    "advice": "手作りのリコッタチーズは簡単にでき、冷蔵庫で10日程保存OK♪ドレッシングのバジルソースの塩分により白だしの量を加減してください。",
+    "history": "手作りリコッタチーズとバジルソースでシンプルに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "玉葱のみじん切り",
+        "ハチミツ",
+        "酢"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1639874/100x141c/127727752c420e374d01e7f3e50bb7ab.jpg?u=3378740&p=1397269230"
+}

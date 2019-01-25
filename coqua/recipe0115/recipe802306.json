@@ -1,0 +1,76 @@
+{
+    "name": "野菜もたっぷり、鯖の焼き浸し（南蛮漬け）",
+    "author": {
+        "@type": "Person",
+        "name": "居酒屋英二"
+    },
+    "image": "https://img.cpcdn.com/recipes/802306/464x260/ba62100ee5fa74bccf2446f68d01af19.jpg?u=582219&p=1241704191",
+    "datePublished": "2009-05-07",
+    "description": "揚げないので油の処理もなくお手軽です。更にカロリーダウンしたい人はふつうに塩焼きして（小麦粉は使わず）漬け込んでもOK",
+    "recipeYield": "四人前",
+    "recipeIngredient": [
+        {
+            "name": "鯖の切り身",
+            "quantity": "１尾分"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "小1/2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★ダシ",
+            "quantity": "100cc"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "★薄口醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★味醂",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★唐辛子（小口切り）",
+            "quantity": "１本分"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖の切り身に塩を振ってしばらくおきペーパーで水気を拭き取る。小麦粉を薄くはたき、フライパンにサラダ油を敷いて色よく焼く",
+        "★を鍋でひと煮立ちさせておく。玉ねぎは薄切りして水にさらし、よく水気を切る（新玉ねぎなら不要）。人参、ピーマンは細切り",
+        "鯖と野菜を★に漬け込む",
+        "09.08.27話題入り！作って下さった皆さんのおかげです！感謝！！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "802306",
+    "advice": "できたてのアツアツもおいしいし、冷蔵庫で冷やしたものもおいしいです。",
+    "history": "揚げて作っていた鰺の南蛮漬けが長い変遷の果てにこうなりました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖の焼き浸し"
+    ],
+    "tsukurepo_count": "476",
+    "thumbnail": "https://img.cpcdn.com/recipes/802306/100x141c/8cb3e97c95daaef6e61638a20c529c81.jpg?u=582219&p=1241704191"
+}

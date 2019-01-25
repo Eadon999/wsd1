@@ -1,0 +1,55 @@
+{
+    "name": "椎茸のオイル焼き",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2438974/464x260/6f59fda5f0c4a4b8e168211db8afc76a.jpg?u=6957661&p=1387364463",
+    "datePublished": "2013-12-18",
+    "description": "2014/7/29皆様のお陰で話題入りしましたほんのちょっとのひと手間で焼き椎茸が美味しくなります",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "椎茸",
+            "quantity": "6個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "カリカリカリ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸は石突きを取って半分に切る",
+        "ボールに1と酒と塩胡椒とオイルを入れてよく混ぜる",
+        "クッキングペーパーかアルミホイルの上に並べてオーブントースターで10分焼く",
+        "お好みでレモンなど絞ってお召し上がりください"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2438974",
+    "advice": "生椎茸がいいですね干し椎茸ならよく戻してから",
+    "history": "義父が歯が悪いので柔らかい物をと思い焼き椎茸を美味しく柔らかく食べられる様にしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "椎茸",
+        "オリーブオイル",
+        "塩",
+        "黒胡椒"
+    ],
+    "tsukurepo_count": "142",
+    "thumbnail": "https://img.cpcdn.com/recipes/2438974/100x141c/fa8a87cfd8bb99c1e818a5c1f5fad323.jpg?u=6957661&p=1387364463"
+}

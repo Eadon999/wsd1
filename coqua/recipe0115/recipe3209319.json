@@ -1,0 +1,51 @@
+{
+    "name": "✿簡単✩しらす温泉たまご丼✿",
+    "author": {
+        "@type": "Person",
+        "name": "毎日楽しい"
+    },
+    "image": "https://img.cpcdn.com/recipes/3209319/464x260/8ad9308d8b879ee264d4bbac6990ed37.jpg?u=560969&p=1433077687",
+    "datePublished": "2015-05-31",
+    "description": "簡単なので忙しい朝食やランチにも♪",
+    "recipeYield": "１杯分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "多めの一膳"
+        },
+        {
+            "name": "しらす干し",
+            "quantity": "２５～３０ｇ"
+        },
+        {
+            "name": "温泉たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "１／２枚"
+        },
+        {
+            "name": "麺つゆ(3倍濃縮)",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "焼き海苔はちぎっておく\n温泉たまごを作る\n（お好みの方法で）",
+        "たきたてのご飯を丼に盛る",
+        "２に海苔を散らし、\nしらすをのせて、真ん中に温泉たまごをのせて麺つゆを温玉にかけてできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3209319",
+    "advice": "しらすも塩分があるのでめんつゆは控えめです",
+    "history": "しらすも温泉たまごも好きなので一緒にして食欲増進♪子どもにも好評です",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温泉たまご丼"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/3209319/100x141c/9dec1e92c73e893e3764faa9d2b0d238.jpg?u=560969&p=1433077687"
+}

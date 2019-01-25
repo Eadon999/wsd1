@@ -1,0 +1,50 @@
+{
+    "name": "ナスのマヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kapacyan"
+    },
+    "image": "https://img.cpcdn.com/recipes/34201/464x260/3b4926fc9dfef7ecbd8f1b8692e0f013.jpg?u=10827&p=1214208805",
+    "datePublished": "2001-11-09",
+    "description": "かぱちゃん定番ナス料理！とっても簡単で美味しい。必ず作り方を聞かれる一品です。是非、お試しあ～れ～！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "２本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "半パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを１cm弱の厚さに切る。塗るので面積が広い方が良い。\r\n水にさらしてから、フライパンで油を熱し、ナスを両面焼く。\r\n",
+        "マヨネーズ、かつお節、醤油をよく混ぜ合わせ、耐熱皿に並べたナスにそれを塗り、オーブントースターで焦げ目がつくまで焼いて、出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "34201",
+    "advice": "急なお客さまにもバッチリ。この写真は米ナス、それも半分でこの量。日本のナスは大きさにもよるけど、縦切りがお勧めです。",
+    "history": "子供の頃、母が作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なすのマヨネーズ焼き"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/34201/100x141c/55ad4dbc4b3ba0e62d749455f60de90e.jpg?u=10827&p=1214208805"
+}

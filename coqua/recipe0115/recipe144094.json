@@ -1,0 +1,51 @@
+{
+    "name": "*新玉ねぎとトマトのポン酢マリネ*",
+    "author": {
+        "@type": "Person",
+        "name": "poohkiti"
+    },
+    "image": "https://img.cpcdn.com/recipes/144094/464x260/816ed5d724d9eb494c63d3edf2fd397b.jpg?u=4705&p=1214210917",
+    "datePublished": "2004-05-19",
+    "description": "このところずっと冷蔵庫に常備してます。切ってドレッシングに漬けるだけの超簡単おかずです。暑い日は特にたくさん食べれるのでトマトと玉ねぎの消費量がどんどん増えてます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "小1/2個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "小２個"
+        },
+        {
+            "name": "ポン酢（ゆずなど柑橘系）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１・５～２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "新玉ねぎは薄くスライスする。トマトは縦に半分切り、寝かせて５ミリくらいにスライスする。",
+        "ポン酢と砂糖とごま油をよーく混ぜる。",
+        "フタのある容器にトマト、玉ねぎの順に重ね、上から②をかける。フタをしてよく味が染み込むように上下左右に軽く振り、冷蔵庫に入れて水分が出て味がなじんだら（３０分～１時間）出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "144094",
+    "advice": "",
+    "history": "簡単においしく新玉ねぎを使った料理が食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト 玉ねぎ マリネ"
+    ],
+    "tsukurepo_count": "254",
+    "thumbnail": "https://img.cpcdn.com/recipes/144094/100x141c/6385cc57dd1268fe803f361946692527.jpg?u=4705&p=1214210917"
+}

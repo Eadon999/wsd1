@@ -1,0 +1,57 @@
+{
+    "name": "お義母さんのブリの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ちわここ"
+    },
+    "image": "https://img.cpcdn.com/recipes/994854/464x260/e6978ddf3cd6296a0ac3e424173f346e.jpg?u=640846&p=1295750220",
+    "datePublished": "2009-12-23",
+    "description": "ちょっと香ばしい照り焼きです♪話題入り感謝♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶりの切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリは軽く塩をして魚焼きグリルで焦げ目がつくまで焼く（強火）",
+        "◎印を鍋に入れ沸騰して煮汁が大きな泡状になったらブリを加えに絡めるタレにとろみが出たら火を止める"
+    ],
+    "cookTime": null,
+    "recipe_id": "994854",
+    "advice": "魚焼きグリルは魚を入れる前に火をつけグリル内を温めてからブリを焼いてください ",
+    "history": "お義母さんのブリに照り焼きが美味しいので再現",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶりの切り身",
+        "醤油",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/994854/100x141c/b946438abde5e1cc8d9b673b186a517a.jpg?u=640846&p=1295750220"
+}

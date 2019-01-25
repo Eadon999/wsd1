@@ -1,0 +1,60 @@
+{
+    "name": "＊小松菜のサラダ＊",
+    "author": {
+        "@type": "Person",
+        "name": "happyspice"
+    },
+    "image": "https://img.cpcdn.com/recipes/2155110/464x260/8b9665c516c6a6cb8fd6ed92101c968c.jpg?u=3874463&p=1363347184",
+    "datePublished": "2013-03-15",
+    "description": "小松菜が美味しい季節に♪是非作ってねヽ(・∀・)ノ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜（食べやすく切る）",
+            "quantity": "100g"
+        },
+        {
+            "name": "★人参(千切り)",
+            "quantity": "40g"
+        },
+        {
+            "name": "★ツナ缶(ノンオイル)",
+            "quantity": "１個（８０g）"
+        },
+        {
+            "name": "★コーン缶",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "●すし酢（酢）",
+            "quantity": "小さじ１（お好みで）"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はレンジ５００wで２～３分加熱する。",
+        "１に★を混ぜたら合わせた●であえ、仕上げに白ごまを飾って出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2155110",
+    "advice": "小松菜の香りを楽しむためにシンプルな味つけで仕上げました。すし酢は(*ﾟ▽ﾟ*)お好みで加えてくださいね！私はお酢好きなので加えました♪",
+    "history": "実家の畑で育った小松菜を使ったレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "その他/おもてなし料理/おもてなしサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 サラダ",
+        "小松菜 ツナ コーン"
+    ],
+    "tsukurepo_count": "166",
+    "thumbnail": "https://img.cpcdn.com/recipes/2155110/100x141c/d22e269dcb2856d5b6fb93123fbb4dce.jpg?u=3874463&p=1363347184"
+}

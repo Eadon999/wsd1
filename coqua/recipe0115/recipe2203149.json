@@ -1,0 +1,65 @@
+{
+    "name": "豚肉ときのこのレモンマスタード炒め",
+    "author": {
+        "@type": "Person",
+        "name": "marmaraid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2203149/464x260/1e9c6e1c76ffaec8538e7aaaf988384b.jpg?u=4923392&p=1368751117",
+    "datePublished": "2013-04-25",
+    "description": "冷蔵庫の隅に放置されたマスタードを救済！ご飯にもパンにも合う味♪",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉(薄切り)",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "きのこ類",
+            "quantity": "２パック"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリなど",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を食べやすい大きさに切る。\nきのこを食べやすい大きさにする。\n玉ねぎをくし切りにする。",
+        "フライパンにサラダ油を熱し、豚肉、玉ねぎ、きのこの順に入れて炒める。",
+        "マスタードを加えてからめ、レモンを絞り入れる。",
+        "塩、コショウで味を調え、パセリなどを散らす。(写真は刻みネギです。)"
+    ],
+    "cookTime": null,
+    "recipe_id": "2203149",
+    "advice": "粒マスタードはたっぷり使っても辛さはそう感じません。きのこは好みのものを２、３種類使ってください。鶏もも肉でもおいしくできます。",
+    "history": "買ったもののあまり使わない粒マスタードをなんとかして消費したくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パンに合う  豚肉"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2203149/100x141c/93784a6d2c03ae3937580582ae715e92.jpg?u=4923392&p=1368751117"
+}

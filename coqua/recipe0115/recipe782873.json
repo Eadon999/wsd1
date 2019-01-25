@@ -1,0 +1,59 @@
+{
+    "name": "万能!!　味噌たれ",
+    "author": {
+        "@type": "Person",
+        "name": "アルストロメリア"
+    },
+    "image": "https://img.cpcdn.com/recipes/782873/464x260/42f7722c64607c1493ee1ef784a461f5.jpg?u=325196&p=1262831839",
+    "datePublished": "2009-04-13",
+    "description": "焼き肉・炒め物・野菜スティック・焼きおにぎり・・・何にでも使えます。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "味噌",
+            "quantity": "100g"
+        },
+        {
+            "name": "上白糖",
+            "quantity": "30g"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "1g"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "1g"
+        },
+        {
+            "name": "本みりん",
+            "quantity": "40g"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "40g"
+        }
+    ],
+    "recipeInstructions": [
+        "今回は麦味噌を使用しました。",
+        "みりん・醤油以外の材料を鍋に入れる",
+        "よく混ぜる",
+        "みりん・醤油を加えて、混ぜる。",
+        "火にかけ、沸騰させる。",
+        "ごく弱火にして5分間。",
+        "耐熱の容器にあついうちに入れて保存。冷蔵庫で1ヶ月は保存可能。"
+    ],
+    "cookTime": null,
+    "recipe_id": "782873",
+    "advice": "焦げないように注意して下さい。甘口が好きな方は砂糖を増やしてください。一味唐辛子を入れてもおいしいです。",
+    "history": "味噌を沢山戴いたので、味噌汁だけでは食べきらないと思い、たれを作りました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌たれ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/782873/100x141c/61b838722d503e2cf7f5cffcf4634538.jpg?u=325196&p=1262831839"
+}

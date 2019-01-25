@@ -1,0 +1,71 @@
+{
+    "name": "少しの鰻で☆うなたま丼",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/186149/464x260/66f57b4e98567134d92cc957e3ecd054.jpg?u=42283&p=1214211684",
+    "datePublished": "2005-03-05",
+    "description": "国産鰻を家族で分け合って食べる時にはこの丼を作ります♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鰻（国産）",
+            "quantity": "長焼き２枚"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大５"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "付属タレ",
+            "quantity": "２つ３つ"
+        },
+        {
+            "name": "卵",
+            "quantity": "６個"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小４分の１"
+        },
+        {
+            "name": "海苔",
+            "quantity": "２枚"
+        },
+        {
+            "name": "大葉",
+            "quantity": "５枚程度"
+        }
+    ],
+    "recipeInstructions": [
+        "小鍋に鰻を５ミリ幅程度で切って入れ、添付のタレと山椒を入れ、酒＆みりんを加えて煮る。",
+        "フライパンに、溶いた卵に塩＆砂糖を加えたものでスクランブルエッグ状態まで焼く。",
+        "ご飯の上に海苔敷いて、周囲に鰻乗せて中央に卵乗せて、その上に千切りの大葉乗せる。お好みでもっと山椒を振って出来上がり☆",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "186149",
+    "advice": "簡単です☆",
+    "history": "少ない鰻でどう賄うか・・・考えました(^^)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/うなぎ"
+    ],
+    "rankings": [
+        "うなぎ 10位"
+    ],
+    "related_keywords": [
+        "うなたま丼",
+        "うなぎ"
+    ],
+    "tsukurepo_count": "405",
+    "thumbnail": "https://img.cpcdn.com/recipes/186149/100x141c/cc3d1f9e628acb20026d7eb4451dc97b.jpg?u=42283&p=1214211684"
+}

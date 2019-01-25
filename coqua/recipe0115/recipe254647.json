@@ -1,0 +1,58 @@
+{
+    "name": "✿豆腐の卵とじ✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/254647/464x260/f4419ce66bd1530b24d9368b7864e28e.jpg?u=226453&p=1214419389",
+    "datePublished": "2006-05-17",
+    "description": "味の染みてるかつお節と卵と一緒に熱々のお豆腐をツルンとどうぞ♪ ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁（１５０ｇを２丁）"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２　１/２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２　１/２"
+        },
+        {
+            "name": "酒",
+            "quantity": "１/４カップ"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "小さい土鍋に砂糖、醤油、酒、食べやすく切った豆腐、かつお節を入れふたをして中火で５分くらい煮ます",
+        "煮立ったらとき卵をまわし入れ火を止めます。ねぎを散らして出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "254647",
+    "advice": "丼やご飯のおかず用に濃いめの味付けになっています。お豆腐から水分が出てきますが味をみて濃いようでしたら少しお水を足して下さい。",
+    "history": "友人におしえてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 卵とじ"
+    ],
+    "tsukurepo_count": "408",
+    "thumbnail": "https://img.cpcdn.com/recipes/254647/100x141c/7950c9b121395961fe7745193580e1c7.jpg?u=226453&p=1214419389"
+}

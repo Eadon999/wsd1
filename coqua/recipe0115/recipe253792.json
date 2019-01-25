@@ -1,0 +1,54 @@
+{
+    "name": "ピーマンとしらすのバター醤油♪",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/253792/464x260/f998cc007fdaed47c1e4e59d8f8ca25a.jpg?u=203689&p=1214213009",
+    "datePublished": "2006-05-12",
+    "description": "パパッとできるのにカルシウム満点の一品です。ピーマンも甘くなって食べやすいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "3個"
+        },
+        {
+            "name": "しらす",
+            "quantity": "1パック"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "ひとつかみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは種を除いて\r\n切る。",
+        "フライパンにバターを熱し、ピーマンを炒めてしんなりしたらしらすを加えて炒める。",
+        "醤油をまわし入れ、かつお節を入れて手早く混ぜたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "253792",
+    "advice": "かつお節を混ぜて、バター醤油がからむと美味しいです。",
+    "history": "子供達がしらす大好きで（おやつにそのまま食べてしまうくらい）、苦手なピーマンと一緒にしてみました。これだとピーマンがおいしくいただけます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "しらす",
+        "バター",
+        "醤油"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/253792/100x141c/5609f401c9efd736d9988876753ea2af.jpg?u=203689&p=1214213009"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "☆鶏胸肉の照り焼き☆お弁当にも♬",
+    "author": {
+        "@type": "Person",
+        "name": "Ｃｈｉｋａｙａｎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4407927/464x260/9b4bc443aeeabd7b635ebefc99462538.jpg?u=2290698&p=1489251752",
+    "datePublished": "2017-03-21",
+    "description": "手軽に出来る鶏の照り焼き！冷めても硬くなりにくいのでお弁当にもピッタリ♬",
+    "recipeYield": "お弁当で２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1/3枚"
+        },
+        {
+            "name": "■薄力粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は繊維を断つように一口大のそぎ切りにする。",
+        "★印の調味料を合わせておく。",
+        "ビニール袋に■印を入れてシャカシャカ振る。次に鶏肉を入れてシャカシャカ振る。",
+        "熱したフライパンにサラダ油をひき、鶏肉を両面こんがり焼く。",
+        "②の調味料を入れて全体に絡めたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4407927",
+    "advice": "鶏肉を焼くときに蓋をすると早く焼けます。",
+    "history": "最初は鶏のささ身で作っていたのですが、子供が『軟らかすぎてイヤ！』と言うので、今は胸肉を使っています。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/照り焼きチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉 お弁当 照り焼き"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4407927/100x141c/04de57045cc0796a2fdeaf1aef5aeb74.jpg?u=2290698&p=1489251752"
+}

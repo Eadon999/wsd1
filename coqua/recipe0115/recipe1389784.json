@@ -1,0 +1,68 @@
+{
+    "name": "食べすぎ注意！絶品クリーミーたらこスパ☆",
+    "author": {
+        "@type": "Person",
+        "name": "esdurpiano"
+    },
+    "image": "https://img.cpcdn.com/recipes/1389784/464x260/e1470d86798cc3bc680bf4a1e7e02bf2.jpg?u=2458228&p=1300554808",
+    "datePublished": "2011-03-20",
+    "description": "ソース作りにかかる時間は…わずか5分！簡単なのにコクうまで「お店の味！」と両親にも喜ばれました☆辛子明太子でもokです♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "1L"
+        },
+        {
+            "name": "塩",
+            "quantity": "10g"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "100g"
+        },
+        {
+            "name": "たらこ",
+            "quantity": "50g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "80cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "バター",
+            "quantity": "20g"
+        },
+        {
+            "name": "のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れて沸かす。沸騰したら塩を入れて混ぜ、パスタをゆで始める。",
+        "たらこ、牛乳、醤油を混ぜる。",
+        "パスタがゆであがったら、フライパンでバターを溶かす。あらかた溶けたら、パスタを入れて絡める。\n",
+        "フライパンに2を入れ、全体的に絡める。",
+        "皿に盛り、のりを刻んでふりかければ完成☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1389784",
+    "advice": "①たらこは皮をはぎ、身を出して使って下さい②コクが足りないと思ったら、手順4のなかで牛乳を少しずつ足して下さい。",
+    "history": "父のお得意先から、大量にたらこを頂いたので。。。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水",
+        "パスタ",
+        "たらこ",
+        "牛乳"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/1389784/100x141c/20d21be1b9bc82133300ce152a656801.jpg?u=2458228&p=1300554808"
+}

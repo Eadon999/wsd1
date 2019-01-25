@@ -1,0 +1,56 @@
+{
+    "name": "カリカリアゲとゴマの香ばしご飯☆",
+    "author": {
+        "@type": "Person",
+        "name": "まぶたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/678386/464x260/f3c2ac5e57156a3e7fe8769e6876743b.jpg?u=889136&p=1226069246",
+    "datePublished": "2008-11-08",
+    "description": "早い!安い!うまい!と我が家では良く登場する１品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "あげ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "すりごま(白)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗に２はい(それぞれ一杯づづ)"
+        },
+        {
+            "name": "ダシ醤油",
+            "quantity": "大さじ５(各大さじ２と1/2)"
+        },
+        {
+            "name": "貝割れ又は海苔など",
+            "quantity": "(お好みで)適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油を熱し、アゲを両面こんがり焼き色がつくまで焼きます。縦半分に切ってから８mm幅の千切りにします。",
+        "茶碗(又は皿)にご飯を盛りアゲをのせます。ゴマを振り、ダシ醤油を回しかけます。彩りに貝割れ(海苔)をちらして出来上がり!",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "678386",
+    "advice": "ゴマはすりゴマの方が香ばしさが増して美味しいです。",
+    "history": "焼いたアゲって美味しいですよね!ご飯に乗っけてみたらどうだろう?なんてやってみたら旨い!って事で我が家では良く登場する１品です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あげ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/678386/100x141c/b02029cb7f78414f3c7872614ad5dabd.jpg?u=889136&p=1226069246"
+}

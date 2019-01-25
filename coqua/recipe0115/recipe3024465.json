@@ -1,0 +1,43 @@
+{
+    "name": "小松菜のゴマ和え",
+    "author": {
+        "@type": "Person",
+        "name": "oninopantu"
+    },
+    "image": "https://img.cpcdn.com/recipes/3024465/464x260/ce0797d58ab00eff5cf97f28eed035c6.jpg?u=8016002&p=1424303617",
+    "datePublished": "2015-02-19",
+    "description": "緑のお野菜食べてますか～！簡単副菜で栄養補給しましょう☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋位"
+        },
+        {
+            "name": "すりゴマ・醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "沸騰したお湯で小松菜を茹でる。\n火が通ったらザルにあげ水にさらす",
+        "水気を絞って食べやすい大きさにカットし\n調味料と和えれば完成"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3024465",
+    "advice": "小松菜は茹ですぎない様にお気を付け下さい小松菜の分量１袋にしましたが我が家に沢山ある小松菜を私の大きな手で１掴み分なのでもしかしたら１袋以上あるかもしれません",
+    "history": "はい出ましたまたまた小松菜でございます私の父が作って出荷までしている小松菜なので小松菜が食べ放題の我が家です毎日あれこれ工夫して食べまくっております",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "砂糖"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3024465/100x141c/15f06026a8d9a309420c8a4daa6d2066.jpg?u=8016002&p=1424303617"
+}

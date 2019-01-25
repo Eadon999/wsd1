@@ -1,0 +1,63 @@
+{
+    "name": "鶏もも肉とゆで卵のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "marriott"
+    },
+    "image": "https://img.cpcdn.com/recipes/2119216/464x260/526dfc6cb35743396cfdee6ab66e2ca7.jpg?u=3504517&p=1360851447",
+    "datePublished": "2013-02-14",
+    "description": "ずっしりとした食べごたえのあるサラダです。",
+    "recipeYield": "３～4人分",
+    "recipeIngredient": [
+        {
+            "name": "とりもも肉",
+            "quantity": "1枚（290g）"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本（120g）"
+        },
+        {
+            "name": "◎味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "40g"
+        },
+        {
+            "name": "◎塩",
+            "quantity": "一つまみ（1g）"
+        },
+        {
+            "name": "◎こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もも肉を茹でやすい大きさに切って、お湯を沸かして茹でる。（目安5~6分）",
+        "1をザルにあけて粗熱を取り、一口大に手でちぎる。\n卵は茹でる。（沸騰してから10分強）",
+        "きゅうりを洗い、包丁の背でスジを入れ、手でちぎる。\nゆで卵の白身はザク切りにする。",
+        "２，３をボウルに入れ◎の調味料を入れ、ざっくり混ぜ合わせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2119216",
+    "advice": "＊卵の黄身を残したければざっくり混ぜ合わせて　ください。＊微妙な分量で味が変わりますので、　最後に塩で味を調整してください。",
+    "history": "以前お店で食べて美味しかったので、私なりの味付けで再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/お肉を使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とりもも肉",
+        "卵",
+        "きゅうり",
+        "味の素"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2119216/100x141c/6ea17042826106943feae9f62ad60cb2.jpg?u=3504517&p=1360851447"
+}

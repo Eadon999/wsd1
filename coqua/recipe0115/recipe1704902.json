@@ -1,0 +1,67 @@
+{
+    "name": "簡単に作れる！塩焼きそば☆",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1704902/464x260/a9e8e551d810e3d02f96092d35f153a7.jpg?u=603745&p=1447765784",
+    "datePublished": "2012-02-13",
+    "description": "凄く簡単!!誰でも作れる塩焼きそば♪忙しいお昼にも夕食にもピッタリ。お弁当にも○ですよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "焼きそばの麺",
+            "quantity": "１玉"
+        },
+        {
+            "name": "もやし",
+            "quantity": "少々"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "少々"
+        },
+        {
+            "name": "豚肉（細切れ）",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "ひと振り"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは適当な大きさに刻みます。",
+        "フライパンにゴマ油を敷いて野菜と豚肉を炒めます。\n",
+        "麺を加えてほぐしながら炒めます。",
+        "☆の材料を加えて炒めながらよく絡ませます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1704902",
+    "advice": "",
+    "history": "普段ソース焼きそばなので、シンプルに塩焼きそばを作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きそばの麺",
+        "もやし",
+        "キャベツ",
+        "豚肉"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1704902/100x141c/f0491c669abe60eebe2d8bfbd36b7fa3.jpg?u=603745&p=1447765784"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ピーマンのツナ＆ジャガイモ詰め",
+    "author": {
+        "@type": "Person",
+        "name": "hmaruuo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1169251/464x260/daccc494a87a8c42d20b8004bffdb874.jpg?u=2206861&p=1277515056",
+    "datePublished": "2010-06-26",
+    "description": "ピーマンの肉詰めより簡単スピーディ！ピーマンが苦手な子供にもオススメ！レンジとオーブントースターで絶品料理に大変身！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "6個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "中2個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "60g"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ツナ缶は缶汁をきる。ピーマンは縦半分に切って、種を除く。",
+        "じゃがいもはラップに包んで電子レンジで約3分加熱し、熱いうちに皮をむいて粗くつぶす。",
+        "塩こしょう、マヨネーズ、ツナを加えてよく混ぜる。",
+        "ピーマンに、混ぜ合わせたじゃがいもを均等に詰めてチーズをのせ、オーブントースターでこんがり焼く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1169251",
+    "advice": "小さめのピーマンを使えば、お弁当のおかずとしても使えますよ！色とりどりのパプリカもオススメです。",
+    "history": "フライパンを使わないからコンロが汚れません。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン ツナ 詰め",
+        "じゃがいも ピーマン",
+        "ピーマン じゃがいも 詰め",
+        "ピーマン ツナ"
+    ],
+    "tsukurepo_count": "121",
+    "thumbnail": "https://img.cpcdn.com/recipes/1169251/100x141c/3c978e4b71085b2729fbeeff499bdfb5.jpg?u=2206861&p=1277515056"
+}

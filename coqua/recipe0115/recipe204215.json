@@ -1,0 +1,50 @@
+{
+    "name": "モロヘイヤとトマトの冷たいスープ☆",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/204215/464x260/a4c6e1171f2e4bff96cc3d280d2c91a1.jpg?u=57297&p=1214212010",
+    "datePublished": "2005-06-23",
+    "description": "モロヘイヤは特別美味しいと思ったことありませんが、これは美味しくて沢山食べられます☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "モロヘイヤ",
+            "quantity": "一束"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "茎は硬いとこがあるので、太いとこは除きます。\r\n５分くらいじっくり茹でて、水に晒し、水気を絞って細かく切ります",
+        "固形コンソメでコンソメスープを作って冷まします。\r\n\r\nスープ皿にモロヘイヤとトマトを盛り付け、冷たいスープを注ぎます。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "204215",
+    "advice": "風邪引きお茶子「旨い旨ぁ～い♪」と一気に食べました☆《トマトは外せないよ、コンビネーションが絶妙☆》",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/モロヘイヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モロヘイヤ",
+        "トマト",
+        "固形コンソメ",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/204215/100x141c/f37eb6d7fa03351e3eb95873ffd9dac2.jpg?u=57297&p=1214212010"
+}

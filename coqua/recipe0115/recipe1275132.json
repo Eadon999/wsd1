@@ -1,0 +1,58 @@
+{
+    "name": "こっくり♪里芋サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "だいず♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1275132/464x260/f70a3ff5f2acfc447134fd22f1b0264e.jpg?u=1616502&p=1320482925",
+    "datePublished": "2010-11-04",
+    "description": "温かくても冷めてもおいしい！味噌とゴママヨでこくうまです！お弁当にもいいですよ!",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "正味400g"
+        },
+        {
+            "name": "昆布顆粒だしのもと",
+            "quantity": "スティック半分強（約5g）"
+        },
+        {
+            "name": "☆だしなしみそ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "☆すりゴマ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋は皮をむき鍋に入れかぶる位の水をいれ、だしの素をいれ蓋をして煮る。 \r\n☆は全て混ぜておく",
+        "芋に箸がすっと通るくらいになったらふたを取って水分を飛ばす。粉ふきいものように！",
+        "☆を加えてぐりぐり混ぜる！\r\n飾りにねぎを乗せて出来上がり!"
+    ],
+    "cookTime": null,
+    "recipe_id": "1275132",
+    "advice": "",
+    "history": "毎年里芋をたくさん頂くのですが、なかなか消費できないので、煮物いがいで美味しい食べかたを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋",
+        "マヨネーズ",
+        "すりゴマ",
+        "刻みねぎ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1275132/100x141c/a843fe3844fca96512475544b1a5ac0a.jpg?u=1616502&p=1320482925"
+}

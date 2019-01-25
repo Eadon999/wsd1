@@ -1,0 +1,74 @@
+{
+    "name": "炊飯器ｄｅ炊き込みピラフ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃしー"
+    },
+    "image": "https://img.cpcdn.com/recipes/267716/464x260/098797c70000ebdbe1cf9ba3c4641cf5.jpg?u=32354&p=1214213322",
+    "datePublished": "2006-07-17",
+    "description": "切って混ぜてスイッチオン！いつでも暖かいピラフが食べられて忙しい日は便利です(ﾟ▽^)v ",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "荒挽きウインナー",
+            "quantity": "６本"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "コーン",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２/３"
+        },
+        {
+            "name": "コショー",
+            "quantity": "少々"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "お米を洗ってお釜に入れ、普通に炊くよりも、やや少なめの水を入れる。",
+        "荒挽きウインナーは薄切り、たまねぎとにんじんは粗みじん切りにして、コーンも一緒にお釜に入れる。",
+        "調味料を全て入れ、よーくかき混ぜてから、スイッチを入れて炊く。"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "267716",
+    "advice": "調味料はほぼ目分量。。。ケチャップもっと多めでも良いかも♪",
+    "history": "簡単手抜き料理を。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/ピラフ"
+    ],
+    "rankings": [
+        "炊き込みピラフ 5位"
+    ],
+    "related_keywords": [
+        "炊き込み ピラフ",
+        "炊き込みピラフ ケチャップ"
+    ],
+    "tsukurepo_count": "366",
+    "thumbnail": "https://img.cpcdn.com/recipes/267716/100x141c/0b4e16bb788f1de5024ef92c21fce867.jpg?u=32354&p=1214213322"
+}

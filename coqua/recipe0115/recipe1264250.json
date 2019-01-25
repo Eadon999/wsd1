@@ -1,0 +1,54 @@
+{
+    "name": "朝食に♪ウインナーのコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ばけっと"
+    },
+    "image": "https://img.cpcdn.com/recipes/1264250/464x260/b1a6802965f0370a2e08d39dae609b9b.jpg?u=1418622&p=1287615603",
+    "datePublished": "2010-10-21",
+    "description": "材料を切って鍋を火にかけるだけの簡単スープです。2012.2.28話題入り♬♩♫",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ウインナー",
+            "quantity": "２本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "にんじん（小さいもの）",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "固形２個"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ・にんじんはなるべく細めに、ウインナーは形がくずれない程度に細く切る。",
+        "鍋にウインナー以外の材料を入れて、中火にかける。",
+        "７分位たったらウインナーを入れて、３分したら出来上がり。 \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1264250",
+    "advice": "ウインナーをあまり煮込むとスープにうまみが出てウインナー自体の味がいまいちになってしまいます。",
+    "history": "我が家の冬の定番です。テーブルを拭いたり、目玉焼きを焼いたりしている間に作っています。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナー",
+        "玉ねぎ",
+        "にんじん",
+        "水"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1264250/100x141c/c1067e4dfce9fcf93f2b3ef9616a7f83.jpg?u=1418622&p=1287615603"
+}

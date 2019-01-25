@@ -1,0 +1,64 @@
+{
+    "name": "✿しめじのバタポンパスタ✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1247560/464x260/1994b8b641f911d0ec20a4abc3164b90.jpg?u=271833&p=1285916125",
+    "datePublished": "2010-10-01",
+    "description": "パスタとしめじを一緒に茹でて調味料を和えるだけなので簡単です♪ポン酢でさっぱり＆バターのコクが美味しいパスタです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "100g"
+        },
+        {
+            "name": "＊バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "＊ポン酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊ほんだし(粉末かつおだし)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "＊塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは石づきを取ってほぐしておく。\r\n",
+        "鍋にたっぷりの湯を沸かしパスタを茹でる。茹であがる3分前になったらしめじも加えて一緒に茹でる。",
+        "２をしっかり湯切りし＊印で和える。※パスタを茹でたお鍋の中で和えると洗い物が減ります。",
+        "刻み海苔を乗せて出来上がり。",
+        "【アレンジ】鮭フレークと青海苔をプラス。風味よく美味しかったです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1247560",
+    "advice": "調味料の分量は、味をみてお好みで加減して下さい。",
+    "history": "しめじが沢山あったので、ランチに簡単なパスタを作りました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "しめじ",
+        "バター",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1247560/100x141c/c2162d5e146ca6edd9157208ce6553d4.jpg?u=271833&p=1285916125"
+}

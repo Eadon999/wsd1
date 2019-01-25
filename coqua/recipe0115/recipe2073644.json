@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】とろろ汁",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2073644/464x260/6c88a580270374085371fc3bd829d7af.jpg?u=2513693&p=1357268040",
+    "datePublished": "2013-01-05",
+    "description": "胃に優しいとろろ汁。味付けはお味噌で優しい味に仕上げました。たまごも入っているからフワフワのトロトロだよ～♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "青のりまたは刻みのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁を煮立たせ、味噌を溶かし冷ましておきます。長芋はすりおろし、すり鉢に入れます。",
+        "長いもの中にたまごを割りいれ、すりこぎで滑らかになるまですります。",
+        "次に①の味噌汁を少しず加えてすり、滑らかになれば完成。",
+        "ご飯の上にかけて、青のりをちらしてどうぞ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2073644",
+    "advice": "■味噌汁は一度にいれずに少しずつ加えてください。■山芋を使う場合は、粘りが強いのでだし汁を多い目にしてください。",
+    "history": "とろろ汁はしょうゆやみりんを加えて作ったりもしていますが、やはり味噌で作るほうが優しい味で美味しいです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": [
+        "とろろ汁 5位"
+    ],
+    "related_keywords": [
+        "とろろ汁"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2073644/100x141c/3baadb4d7dbf4ff2b66b31f3e9ce2d78.jpg?u=2513693&p=1357268040"
+}

@@ -1,0 +1,94 @@
+{
+    "name": "☆挽肉たっぷり☆ジャージャー麺",
+    "author": {
+        "@type": "Person",
+        "name": "saijun"
+    },
+    "image": "https://img.cpcdn.com/recipes/278406/464x260/b2cb0ce596260c55ba4ed7b018ab3d0f.jpg?u=675&p=1214213557",
+    "datePublished": "2006-09-02",
+    "description": "挽肉をたっぷり！の甘辛いジャージャー麺！！簡単ですよ",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "4玉分"
+        },
+        {
+            "name": "合挽肉or豚挽肉",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "ネギ（粗みじん切り）",
+            "quantity": "1本"
+        },
+        {
+            "name": "ネギ（しらがネギ）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "きゅうり（千切り）",
+            "quantity": "1本"
+        },
+        {
+            "name": "生姜（みじん切り）",
+            "quantity": "80g"
+        },
+        {
+            "name": "●甜面醤",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "●豆板醤",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●鶏がらスープ大さじ2を湯で溶く",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "中華麺をゆで、湯であがったら湯を切り氷水の中に入れて冷やす。冷やさなくても美味しく食べれるので好みでどうぞ。",
+        "中華鍋にサラダ油を熱し、ひき肉と生姜を炒め、●を加えて10分間ほど煮込む。",
+        "ネギを加えたら大さじ3の水で溶いた片栗粉を入れ、とろみをつける。最後にゴマ油を入れる。",
+        "器に中華麺を盛り、ソースをたっぷりかけて真ん中にきゅうりとしらがねぎを盛る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "278406",
+    "advice": "とろみ加減はお好みで調整してください。",
+    "history": "ジャージャー麺が好きで、自分でアレンジして作ってやっと納得いく味になりました♪",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ジャージャー麺"
+    ],
+    "rankings": [
+        "ジャージャー麺 6位"
+    ],
+    "related_keywords": [
+        "ジャージャー麺"
+    ],
+    "tsukurepo_count": "362",
+    "thumbnail": "https://img.cpcdn.com/recipes/278406/100x141c/07341839267c324ede8d5087848ca509.jpg?u=675&p=1214213557"
+}

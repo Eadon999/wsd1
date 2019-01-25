@@ -1,0 +1,40 @@
+{
+    "name": "クレイジー♡♥さんま塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/297100/464x260/caee4518879593db14aa372af76427d6.jpg?u=304393&p=1216206476",
+    "datePublished": "2006-11-03",
+    "description": "クレイジーソルトをかけて焼いたさんまは一味変わって美味しくなります！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "２尾"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "さんまは好きなように処理してください。\r\nそしてたっぷりのクレイジーソルトを両面に揉みこむ。\r\nなじませる為に冷蔵庫で３０分から１時間くらい。",
+        "あとは好きな方法で焼いてください。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "297100",
+    "advice": "コツも何もありません。ただクレイジーソルトをさんまにかけるだけ。旬の時期はグリルで焼くと美味しいです。",
+    "history": "さんまが大好き。特に旬の時期はよく食卓に登場するのでいつもの塩焼きを変えてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "147",
+    "thumbnail": "https://img.cpcdn.com/recipes/297100/100x141c/149221dc44af1b43dea783c809f737ce.jpg?u=304393&p=1216206476"
+}

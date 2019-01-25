@@ -1,0 +1,58 @@
+{
+    "name": "たらのバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "とんかつだいすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3799137/464x260/b309fd7576aca1d5bd37bb9cf803ab8c.jpg?u=5804714&p=1460315110",
+    "datePublished": "2016-04-13",
+    "description": "むき身のたらを使ってバターソテーにしました",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "皮なしむき身たら",
+            "quantity": "2枚"
+        },
+        {
+            "name": "バター(有塩)",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たらは半分に切る",
+        "たらに塩コショウをふる",
+        "焼く直前にたらの両面に薄力粉をふる",
+        "フライパンにバターを入れてから火にかける",
+        "バターが溶け始めたらたらを焼き始める",
+        "たらに火が通ったら皿に盛り付ける",
+        "フライパンは拭かずに弱火にかけ、素早く醤油を加えてソースにする",
+        "盛り付けたたらにソースをかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "3799137",
+    "advice": "バターは焦がさないようにフライパンに入れてから火にかけます。",
+    "history": "最近むき身のたらがよく売られているので、なにかできないかと思い、作ってみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "バターソテー たら",
+        "たら 皮なし",
+        "たら ソテー"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3799137/100x141c/3c2f5738bf936c37e964542564043b8d.jpg?u=5804714&p=1460315110"
+}

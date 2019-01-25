@@ -1,0 +1,63 @@
+{
+    "name": "大根と人参のスイチリマヨゴマサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "ma:9"
+    },
+    "image": "https://img.cpcdn.com/recipes/2619398/464x260/8658ddab7e45e093283dfdd3a66f4783.jpg?u=3710353&p=1399551744",
+    "datePublished": "2014-05-08",
+    "description": "わたしの大好きなサラダ：D♪スイチリマヨに胡麻を+した香ばしくアクセントに◎",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "５cm"
+        },
+        {
+            "name": "人参",
+            "quantity": "３cm"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１枚"
+        },
+        {
+            "name": "●スイートチリソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●豆乳",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白煎りゴマ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参は皮を剥いて細切りにし、塩もみして水分を抜いてしっかり絞る。",
+        "●の材料をよく混ぜる。",
+        "白煎りゴマをフライパンで空煎りする。",
+        "お皿にちぎったレタス、塩揉みした１の順にのせ、混ぜた●をかけ、炒った胡麻を散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2619398",
+    "advice": "混ぜないで掛けるのがポイント！ドレッシングが足りない場合は全ての材料を大さじ１ずつ増やしてね♪",
+    "history": "スイチリマヨが好きなので♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "レタス",
+        "スイートチリソース"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2619398/100x141c/9944bb9f2b8d1d7e9dd47f62f9ef0d8d.jpg?u=3710353&p=1399551744"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "☆三ツ星ほうれん草のお吸い物☆",
+    "author": {
+        "@type": "Person",
+        "name": "12kirakira"
+    },
+    "image": "https://img.cpcdn.com/recipes/1581933/464x260/501d1a7a1cc8c196e7dae2075a066f6b.jpg?u=3503953&p=1317055014",
+    "datePublished": "2011-09-27",
+    "description": "旦那さんに大好評。簡単お吸い物です☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "水",
+            "quantity": "600ml"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "4g"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を軽くゆでて絞り水気をとる。次にザク切りにする。",
+        "鍋に水を入れ沸騰したら中火にし、ほんだしを入れ１分間煮る。",
+        "火を弱火にし、ステップ１のほうれん草、★調味料を入れ１分間煮たら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1581933",
+    "advice": "ステップ３で煮すぎないように。",
+    "history": "母に教えてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 お吸い物"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1581933/100x141c/c9cffa433bac4f8ff3d5c88e1d0a8ba7.jpg?u=3503953&p=1317055014"
+}

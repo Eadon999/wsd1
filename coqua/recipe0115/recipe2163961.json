@@ -1,0 +1,51 @@
+{
+    "name": "♡簡単プチトマトマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "さにパン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2163961/464x260/1eb2fa55ccef8590ab1d2586efb5ffcd.jpg?u=5174465&p=1364015911",
+    "datePublished": "2013-03-23",
+    "description": "すぐ作って冷やしておこう♪おいしいトマトの１品です．",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ミニトマト",
+            "quantity": "２０個くらい"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "黒コショー",
+            "quantity": "ガリガリ適量"
+        },
+        {
+            "name": "バジル（乾燥）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを十字に切り込みをいれてー",
+        "マリネ液をかけて混ぜます．",
+        "冷やしてできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2163961",
+    "advice": "トマトに切り込みをいれてね．よくしみるよ！",
+    "history": "プチトマトはたくさん食べます．いろいろな食べ方で．レシピみてね♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミニトマト マリネ"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/2163961/100x141c/b474e1e1ab91e0d6eaa94b3c570361bc.jpg?u=5174465&p=1364015911"
+}

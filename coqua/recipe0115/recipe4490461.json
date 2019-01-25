@@ -1,0 +1,44 @@
+{
+    "name": "お弁当に便利！プチプチ卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "丸美屋"
+    },
+    "image": "https://img.cpcdn.com/recipes/4490461/464x260/845320d321c02cfadc81eb9ffd3621a7.jpg?u=1117265&p=1493081839",
+    "datePublished": "2017-04-25",
+    "description": "味付け簡単！いつもの卵焼きにひと工夫♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "丸美屋「ごましお」",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "（お好みで）スライスチーズ",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに「ごましお」を入れ、卵を割り入れて溶きほぐします。",
+        "よく熱したフライパンに油を適量入れ、1を焼きます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4490461",
+    "advice": "お好みでスライスチーズをのせ、くるんで焼いてもおいしく召し上がれます。※調理の際は、やけどに充分ご注意ください。",
+    "history": "マンネリ化しがちな卵焼き。毎日のお弁当に彩りを添えるのにピッタリな簡単アレンジ♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き",
+        "その他/お弁当/色別おかず/黄色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "スライスチーズ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4490461/100x141c/22388dc482c33b32615bfbe67add5f69.jpg?u=1117265&p=1493081839"
+}

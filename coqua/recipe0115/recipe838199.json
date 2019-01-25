@@ -1,0 +1,62 @@
+{
+    "name": "胡瓜の酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "surirera"
+    },
+    "image": "https://img.cpcdn.com/recipes/838199/464x260/e3f7acb71b117d0c62d402826dcd3649.jpg?u=976322&p=1374390999",
+    "datePublished": "2009-06-15",
+    "description": "✿2009年6月19日話題入り✿ ✿2011年6月4日100人話題入り✿箸休めに甘めの酢の物。いかがですか？",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "●リンゴ酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "胡瓜は薄〰く輪切りに。",
+        "塩もみ(分量外)する。",
+        "１０分ほど経ったら、ぎゅ〜っと水分を絞る。",
+        "●を合わせておく。",
+        "３と４を合わせる。",
+        "器に盛ってゴマを振りかけて出来上がり。\r\n冷蔵庫で冷やしておくと、サッパリで美味しいです♡"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "838199",
+    "advice": "きゅうりの水分はぎゅ〰〰と絞ってから合わせてください",
+    "history": "酢が嫌いだった子供時代に母がよく作ってくれてました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "その他/限られた食材で工夫/食材ひとつでおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "リンゴ酢",
+        "砂糖",
+        "塩"
+    ],
+    "tsukurepo_count": "172",
+    "thumbnail": "https://img.cpcdn.com/recipes/838199/100x141c/137e0645c9f2b630e9d63fd571464899.jpg?u=976322&p=1374390999"
+}

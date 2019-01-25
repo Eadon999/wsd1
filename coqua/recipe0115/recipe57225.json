@@ -1,0 +1,49 @@
+{
+    "name": "ズッキーニのマヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kapacyan"
+    },
+    "image": "https://img.cpcdn.com/recipes/57225/464x260/c7b78f0ac0dbf2afbc492bcf4d16112e.jpg?u=10827&p=1214209238",
+    "datePublished": "2002-06-14",
+    "description": "かぱちゃん定番のナスのマヨ焼きID34201のズッキーニ版です。どちらにしても簡単で美味しいよ～。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "1～2本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは、皮を少し剥いて面積が大きくなるように斜め切り、耐熱皿に並べる。",
+        "マヨネーズ、かつお節、醤油を混ぜた物を1に塗り、オーブントースターで焦げ目がつくまで焼いて、出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "57225",
+    "advice": "ズッキーニの場合は、フライパンで焼かず、そのまま焼いた方が歯ごたえがあって美味しいです。ナスはアクがあるので、フライパンで焼いて下さい。",
+    "history": "ナスとズッキーニは似てるので、同じようなものができるかと思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "マヨネーズ",
+        "かつお節",
+        "醤油"
+    ],
+    "tsukurepo_count": "219",
+    "thumbnail": "https://img.cpcdn.com/recipes/57225/100x141c/c0515242202bb7ddace7a1afe576b2b5.jpg?u=10827&p=1214209238"
+}

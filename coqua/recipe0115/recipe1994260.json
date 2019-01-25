@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】なすの揚げびたし",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1994260/464x260/31721c374636549cc15f1acd0bb617d7.jpg?u=2513693&p=1350278026",
+    "datePublished": "2012-10-17",
+    "description": "水としょうゆとみりんを入れた煮汁にかつおぶしを入れた、旨みたっぷりのだし汁に揚げたなすを入れるだけの簡単揚げびたしです。",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "１本（１００ｇ）"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "なすはヘタをとり、縦半分、横半分に切り、７ミリ幅に切っておきます。",
+        "１８０度の油でなすがしんなりするまで揚げ油をきり、煮立たせた【A】に入れ、最後にかつおぶしを入れて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1994260",
+    "advice": "",
+    "history": "カルシウムたっぷりのかつおぶしも一緒に食べるようにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "かつおぶし",
+        "水",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1994260/100x141c/6df8f600f412c486caa6a9970f2eb3e5.jpg?u=2513693&p=1350278026"
+}

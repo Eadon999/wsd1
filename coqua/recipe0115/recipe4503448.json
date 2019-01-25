@@ -1,0 +1,84 @@
+{
+    "name": "美味しい　たけのこご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ＪＫ☆クック"
+    },
+    "image": "https://img.cpcdn.com/recipes/4503448/464x260/e293adae81313ce0cff8f58b3754ba44.jpg?u=10781559&p=1493731447",
+    "datePublished": "2017-05-02",
+    "description": "こどもも大好き！！美味しいお味",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "水+煮汁（たけのこ）",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "たけのこ(水煮)穂先",
+            "quantity": "2～3本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "だしの素(粉末)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうが（チューブ）",
+            "quantity": "1センチ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのこは薄くスライス、油揚げも食べやすく切り調味料で煮ておく→具と煮汁をわけておく",
+        "米は洗って、ザルにあげておく",
+        "炊飯器に分量の水＋煮汁をいれ上に具材をのせて炊く",
+        "塩で味を整える"
+    ],
+    "cookTime": null,
+    "recipe_id": "4503448",
+    "advice": "タケノコに味を付けておくことで、ご飯がおいしくなる",
+    "history": "母がたけのこをゆでてたくさんくれたので♡たけのこ肉巻きもあるのでよかったら見てくださいＩＤ4503468",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "油揚げ",
+        "だしの素",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "0",
+    "thumbnail": "https://img.cpcdn.com/recipes/4503448/100x141c/684d8d9283442ec37d06ecbf68baeaf2.jpg?u=10781559&p=1493731447"
+}

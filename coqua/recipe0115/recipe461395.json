@@ -1,0 +1,63 @@
+{
+    "name": "レバーたっぷり♪赤いカレー",
+    "author": {
+        "@type": "Person",
+        "name": "むっちゃら"
+    },
+    "image": "https://img.cpcdn.com/recipes/461395/464x260/27b32578372d9ea25e4fd36b7f1a7bc1.jpg?u=629010&p=1214217828",
+    "datePublished": "2007-11-17",
+    "description": "レバーが苦手な方でもおいしくい食べれます。とっても簡単です。カレーのような、ハヤシライスのような・・・でもおいしいです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏レバー",
+            "quantity": "２００g(まだ多くてもよい)"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "トマト水煮",
+            "quantity": "１/２缶"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "２片"
+        },
+        {
+            "name": "枝豆",
+            "quantity": "適当"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適当"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "適当"
+        },
+        {
+            "name": "水",
+            "quantity": "１cup"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏レバーは細かく切って牛乳にひたして血抜きする。(３０分)\r\nトマトは湯むきして細かく刻む。",
+        "鶏レバーを流水でよく洗う。沸騰させた熱湯に入れ、軽く火を通す。ざるにあげる。",
+        "鍋に２を入れ、トマト、トマト水煮を入れ軽く炒める。水を入れあくをとる。カレールーを入れ、枝豆を入れる。塩コショウをして味をととのえて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "461395",
+    "advice": "トマトは箸にさしてコンロの火で軽くあぶると簡単に皮がむけますよ。",
+    "history": "レバーが苦手だけどこれなら食べれるから（*^_^*）御飯がムカゴ入りなのは冷凍していた御飯がこれしかなかったから。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/レバー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レバー カレー"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/461395/100x141c/2805f187f98c1fd04c945cdda84ec270.jpg?u=629010&p=1214217828"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "タコのペペロンチーノ",
+    "author": {
+        "@type": "Organization",
+        "name": "築地魚河岸の嫁"
+    },
+    "image": "https://img.cpcdn.com/recipes/3133508/464x260/90465e734a6d25145fde997934798202.jpg?u=11175211&p=1429688436",
+    "datePublished": "2015-04-21",
+    "description": "ペペロンチーノをタコの旨味でグレードアップ！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "タコ（生食用）",
+            "quantity": "50g"
+        },
+        {
+            "name": "スパゲッティ",
+            "quantity": "100g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "にんにくのみじん切り",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ（乾燥）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たっぷりのお湯に塩を入れて、スパゲッティをゆでる",
+        "フライパンにオリーブオイル・にんにく・唐辛子を中火で熱し、香りが出たらぶつ切りにしたタコを炒め、パセリ・こしょうを加える",
+        "ゆで汁をおたま1杯加え、よく混ぜる",
+        "ゆであがった麺を入れ、すばやく混ぜあわせ、塩で味を整える"
+    ],
+    "cookTime": null,
+    "recipe_id": "3133508",
+    "advice": "スパゲティは水1Lに対し小さじ1の塩を入れてゆでるにんにく・唐辛子は焦げないように中火~弱火でゆっくり香りを出すゆで汁を先に入れてソースにすると麺とよく味がなじむと思います",
+    "history": "タコのガーリック炒めが美味しかったので、パスタでもイケる！と思いました。タコは火を通すと旨味が凝縮され、いい出汁が出ました。http://gyogun.net/blog/?p=962",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/オイル・塩系パスタ/ペペロンチーノ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タコのペペロンチーノ"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/3133508/100x141c/cecfcdbd63a2a69fb38a1b09054f6ffa.jpg?u=11175211&p=1429688436"
+}

@@ -1,0 +1,48 @@
+{
+    "name": "鮭フレ＆大葉の爽やかおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/2693366/464x260/a50ab22fd92b1fa6783ad67cd3a7241c.jpg?u=3707330&p=1404210667",
+    "datePublished": "2014-07-07",
+    "description": "冷蔵庫によく入ってるシャケフレークと香りの良い大葉のおにぎりです(*^^)お弁当や朝ご飯に…✿",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗に軽く1杯"
+        },
+        {
+            "name": "鮭フレーク",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "大葉",
+            "quantity": "1～2枚"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにご飯、千切りした大葉、鮭フレーク、ゴマを全部入れ良く混ぜて好きな形に握るだけ♬"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2693366",
+    "advice": "大葉はみじん切りでもご飯によく混ざるにのでいいと思います✿",
+    "history": "大葉が沢山あったので、鮭フレークと合わせてみました(*^^)",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "鮭フレーク",
+        "大葉",
+        "ゴマ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2693366/100x141c/95541a23229a6ce7fbd229f35d88abb9.jpg?u=3707330&p=1404210667"
+}

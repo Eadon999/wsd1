@@ -1,0 +1,60 @@
+{
+    "name": "ちくわのガーリックチーズパン粉焼き",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4492558/464x260/d40fef367d7607a2f3d7d5db8f1d4bb7.jpg?u=13556534&p=1493181763",
+    "datePublished": "2017-04-26",
+    "description": "粉チーズとニンニクを合わせた、ちくわのガーリックチーズパン粉焼き。お酒のおつまみによく合います。",
+    "recipeYield": "4個分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "パセリ(みじん切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは縦半分に切る。",
+        "容器にパン粉、にんにく、粉チーズ、塩、こしょう、オリーブ油を入れ混ぜる。",
+        "アルミホイルを広げ、ちくわの表側を下にして並べ、ちくわの内側、へこんでる所に混ぜたパン粉をのせる。",
+        "1000wのオーブントースターで3分～4分、綺麗な焼き色がついたら皿にうつし、上からパセリをちらし出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4492558",
+    "advice": "特にコツはありません。簡単に作れます。パセリはドライパセリを使用しました。生のパセリでも美味しく頂けます。",
+    "history": "粉チーズとにんにく風味が、お酒のおつまみなどよく合います。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ パン粉焼き"
+    ],
+    "tsukurepo_count": "0",
+    "thumbnail": "https://img.cpcdn.com/recipes/4492558/100x141c/abfaef4284ffd2a4f59e18723aaf5131.jpg?u=13556534&p=1493181763"
+}

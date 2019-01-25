@@ -1,0 +1,68 @@
+{
+    "name": "トマトと卵の中華炒め",
+    "author": {
+        "@type": "Person",
+        "name": "けんこうなかつがわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2260172/464x260/b95cd69f6e3200691c3499e7b5b1652c.jpg?u=2054892&p=1371623646",
+    "datePublished": "2013-06-19",
+    "description": "つくれぽ100人達成レシピです♪この１品で野菜が150ｇとれますよ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト（完熟）",
+            "quantity": "２個"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "万能ねぎ(小口切り)",
+            "quantity": "２本分"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１／４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはくし型に切る。",
+        "卵は溶いて分量の調味料を混ぜる。",
+        "フライパンに油を熱し、2の卵を流し入れ、大きくかき混ぜて半熟状にし、一度取り出す。",
+        "3のフライパンで1のトマトを炒め、火が通ったら、3の卵を戻して炒め合わせる。",
+        "4を器に盛り付け、万能ねぎを散らす。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2260172",
+    "advice": "",
+    "history": "トマトが沢山採れる時期に作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "卵",
+        "万能ねぎ",
+        "調味料"
+    ],
+    "tsukurepo_count": "164",
+    "thumbnail": "https://img.cpcdn.com/recipes/2260172/100x141c/ea0f27698f592c3bc548c1d2001b4fda.jpg?u=2054892&p=1371623646"
+}

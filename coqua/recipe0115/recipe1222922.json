@@ -1,0 +1,67 @@
+{
+    "name": "＊ふんわり豚こま団子＊",
+    "author": {
+        "@type": "Person",
+        "name": "＊ゆったん＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1222922/464x260/01d152698fe82afd8a778c4ebcbdc0bd.jpg?u=1652452&p=1287687980",
+    "datePublished": "2010-10-22",
+    "description": "お肉ふんわり。ひき肉で作るよりボリューム感があります☺",
+    "recipeYield": "３ｃｍ×１０こ分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２～大１"
+        }
+    ],
+    "recipeInstructions": [
+        "＊たれ＊を合わせておく。豚こま・片栗粉・酒・塩こしょうをビニール袋に入れて揉む。",
+        "肉をぎゅっと握りまるめる。",
+        "フライパンにサラダ油をひき肉を転がしながら焼いていく。",
+        "肉にほぼ火が通ったところでキッチンぺーパーでフライパンの余分な油を拭き＊たれ＊を加え煮詰めながら絡めていく。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1222922",
+    "advice": "甘さはお好みで☺焼き始めはあまりコロコロ転がさないで下さいね☺",
+    "history": "豚こま団子を自分好みの味付けにアレンジしてみました☺",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま",
+        "片栗粉",
+        "酒",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1222922/100x141c/3888bf8ed49d1e50fe6006d7fe49e525.jpg?u=1652452&p=1287687980"
+}

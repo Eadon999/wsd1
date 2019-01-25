@@ -1,0 +1,66 @@
+{
+    "name": "白菜の芯で！中華風甘酢♪",
+    "author": {
+        "@type": "Person",
+        "name": "スタイリッシュママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1656946/464x260/18ee1c32a80217b9c4c5808c6c60ba52.jpg?u=3674035&p=1540218281",
+    "datePublished": "2011-12-22",
+    "description": "甘酢漬けの白菜の芯に熱したごま油をジュッとかけます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜の芯",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "輪切とうがらし",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/４"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜の芯を繊維に沿って、細く切り、軽く塩を振り、10分置く。水気を絞り、甘酢に漬ける。\n",
+        "ごま油を熱し、とうがらしを入れ香りがたったら、火を止める。",
+        "１にジュッとかける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1656946",
+    "advice": "ごま油は唐辛子の香りがたったら、焦げないように、火を止めましょう♪",
+    "history": "白菜の芯が余りがちなので・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 甘酢漬け",
+        "白菜 甘酢 中華",
+        "白菜 芯 甘酢",
+        "白菜 芯"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1656946/100x141c/ec132b44bbd3fe28d11993fadf0809e9.jpg?u=3674035&p=1540218281"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】小松菜とえのきだけの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2834812/464x260/1d7306a99c200ff43a30c2b773877c80.jpg?u=2513693&p=1413066226",
+    "datePublished": "2014-10-12",
+    "description": "材料をすべて鍋に入れて６，７分で完成～。なめたけに小松菜を加えただけなのですが、ごはんにとっても合う佃煮です。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "小松菜（細かく切る）",
+            "quantity": "２分の１袋（１００ｇ）"
+        },
+        {
+            "name": "えのきだけ（細かく切る）",
+            "quantity": "２袋（２００ｇ）"
+        },
+        {
+            "name": "しょうゆ、みりん",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "酢、砂糖",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "和風顆粒だしの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に材料をすべて入れて中火で煮る。",
+        "すぐに水分が出てきますよ～",
+        "こんな感じで水分がなくなれば完成～。だいたい６，７分です。",
+        "ご飯のお供にぜひどうぞ♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2834812",
+    "advice": "作ってすぐに食べてもいいですけど、翌日には小松菜にもっと味が染みておいしいですよ。",
+    "history": "なめたけも自家製なのですが、小松菜を入れるとシャキシャキして美味しいかも？と思い作ってみタラ、予想以上に美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "えのきだけ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2834812/100x141c/be24110a52eda164564d671aca8bbe1b.jpg?u=2513693&p=1413066226"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "簡単韓国料理♪プルコギ♪",
+    "author": {
+        "@type": "Person",
+        "name": "alohafork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1123071/464x260/43e786506940f887d6d659a01d2c3af7.jpg?u=2122688&p=1273587457",
+    "datePublished": "2010-05-11",
+    "description": "お野菜をたっぷりおいしく食べられる韓国料理です♪ご飯にも合うし、ホットプレートで焼けばおもてなしにもぴったり！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "２００～３００グラム"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "半分"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "もやし",
+            "quantity": "２分の１袋"
+        },
+        {
+            "name": "えのき",
+            "quantity": "１袋"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "２分の１袋"
+        },
+        {
+            "name": "★コチュジャン",
+            "quantity": "大さじ山盛り１"
+        },
+        {
+            "name": "★はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "★にんにくすりおろし",
+            "quantity": "２かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "人参、玉ねぎ、ピーマンは細く切っておきます。",
+        "★を全て大きめのボウルに混ぜ合わせておきます。",
+        "２に全ての材料を入れ、全体をかき混ぜたら、ガガっと強火で焼きます♪出来上がり♪",
+        "食卓にホットプレートを置いて、みんなで焼きながら食べるのもおいしいと思います♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1123071",
+    "advice": "コツは、強火でガガっと焼いてしまうことです♪",
+    "history": "夫と韓国に行き、韓国料理にハマって作りまくってます♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "玉ねぎ",
+        "人参",
+        "ピーマン"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1123071/100x141c/d122c1ffe20efd6573401279e581e1cc.jpg?u=2122688&p=1273587457"
+}

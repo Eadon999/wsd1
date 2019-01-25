@@ -1,0 +1,56 @@
+{
+    "name": "☆お肉に大根おろしのタレ☆",
+    "author": {
+        "@type": "Person",
+        "name": "kazte"
+    },
+    "image": "https://img.cpcdn.com/recipes/752215/464x260/1c67fc841d8bca5eaa58ff3eac074bf9.jpg?u=1191931&p=1236329018",
+    "datePublished": "2009-03-06",
+    "description": "大根をおろして調味料を入れて混ぜるだけの簡単タレですがさっぱりしてて美味しいです。お肉は鶏肉・豚肉なんでも合いますよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "７㎝"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大１弱"
+        },
+        {
+            "name": "しょうがのすりおろし",
+            "quantity": "小1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をおろし、水気を軽く切る。その中に全ての調味料を入れて混ぜれば完成です。",
+        "お豆腐にもさっぱりしてて合いました！\r\n豆腐→納豆→タレ→大葉の順に盛り付けました♪",
+        "このタレ、パスタにも美味でした☆ \r\nパスタ→納豆→ツナ→タレ→大葉 \r\n１人ランチにお皿を抱えて食べてしまいました♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "752215",
+    "advice": "我家では塩・こしょうをしてカリッと焼いたお肉やハンバーグにかけて食べてます。",
+    "history": "お肉をさっぱり食べたくて大根おろしのタレのレシピを色々見ながら分量を少しづつ変えて我家にあう味を探しました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根おろしタレ",
+        "大根おろし たれ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/752215/100x141c/35b56b7c9370d61f4672ab491c16b11e.jpg?u=1191931&p=1236329018"
+}

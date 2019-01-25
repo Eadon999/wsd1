@@ -1,0 +1,55 @@
+{
+    "name": "ポン酢使って手抜き中華風ナスのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "やりんりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/656672/464x260/e0fd054318b202a92e6fbe2f5d5d21d6.jpg?u=993492&p=1222779316",
+    "datePublished": "2008-09-30",
+    "description": "ポン酢に砂糖！なんて思わないで、ごま油を加えれば・・・あらら中華風なんです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "なす(中）",
+            "quantity": "3本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小匙１弱"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを短冊状に切り、耐熱容器にラップをして、600ｗ3分くらい。\r\n火が通ればよいです",
+        "ポリ袋に、レンチンのなす、ポン酢・砂糖・ごま油を入れて味をなじませる。",
+        "お皿に盛ってゴマを一振り出来上がり！",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "656672",
+    "advice": "",
+    "history": "お昼ごはん、1品足りないとき手間暇かけずに思いついたおひたしです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ポン酢",
+        "砂糖",
+        "ごま油"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/656672/100x141c/d487392b7d98b66fe8117aa58983975d.jpg?u=993492&p=1222779316"
+}

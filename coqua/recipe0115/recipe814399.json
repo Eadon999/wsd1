@@ -1,0 +1,55 @@
+{
+    "name": "◆ごまダレ豆腐◆",
+    "author": {
+        "@type": "Person",
+        "name": "komomoもも"
+    },
+    "image": "https://img.cpcdn.com/recipes/814399/464x260/87722ecad8df6212a75a09b2511a060e.jpg?u=793202&p=1299636061",
+    "datePublished": "2009-05-21",
+    "description": "♥600件感謝♥専門家厳選レシピ『働くママ』登録。我が家で好評のごまダレ♡お豆腐にも相性バッチリでした♫",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１/２丁"
+        },
+        {
+            "name": "めんつゆ（３倍濃縮）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "めんつゆに砂糖を入れてよく混ぜ、ゴマ油とすりごまも入れて混ぜ合わせてゴマダレを作る。",
+        "お豆腐にゴマダレをかけ、お好みで小葱や長葱をのせて召し上がれ♪",
+        null,
+        null
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "814399",
+    "advice": "夏は冷奴で♪冬は温奴でどうぞ♪",
+    "history": "ＭＹレシピの「きゅうりのごま和え」のゴマダレが残っていたのでお豆腐にかけて食べてみたところ、とっても美味しかったので♫",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "めんつゆ",
+        "砂糖",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "730",
+    "thumbnail": "https://img.cpcdn.com/recipes/814399/100x141c/b268d079a663890acb3d2dd52ac5d880.jpg?u=793202&p=1299636061"
+}

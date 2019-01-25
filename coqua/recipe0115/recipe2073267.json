@@ -1,0 +1,51 @@
+{
+    "name": "大根とにんじん＆みつばのさっぱり梅サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "STBOM"
+    },
+    "image": "https://img.cpcdn.com/recipes/2073267/464x260/aa2c9c9ba3b9d5c85d7bd2c545dfbf20.jpg?u=2642112&p=1357205041",
+    "datePublished": "2013-01-03",
+    "description": "クエン酸と香味野菜で疲労回復！",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "５センチ位"
+        },
+        {
+            "name": "人参",
+            "quantity": "５センチ位"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "大２個"
+        },
+        {
+            "name": "だしの素(粉末)",
+            "quantity": "大匙１～１．５"
+        },
+        {
+            "name": "みつば",
+            "quantity": "みじん切りでお好み量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参を千切りか、スライサーでカットし、軽く水にさらす。",
+        "梅干しｘ２個を刻んで１とボウルであえる。だしの素も合わせる。",
+        "最後に三つ葉をみじん切りしたものを軽く混ぜて出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2073267",
+    "advice": "梅干しは酸っぱいのが合いそうです。我が家は自家製使用です。イタリアンパセリでも美味しいみたいです。他にも香味野菜で合うのがあるかもしれません。",
+    "history": "年末年始のごちそう疲れから、つまみに作ってみました。さっぱりしてて酸味も適度。三つ葉が好きな人は美味しいと思います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みつば さっぱりサラダ"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2073267/100x141c/3ceec3ec4aa1edc5a6c07b71eec220e6.jpg?u=2642112&p=1357205041"
+}

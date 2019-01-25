@@ -1,0 +1,51 @@
+{
+    "name": "速攻で完成♪わかめと卵の中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ポテチ犬"
+    },
+    "image": "https://img.cpcdn.com/recipes/4367506/464x260/fbed86c19a886134dfb45f658f8809b5.jpg?u=7027453&p=1487819972",
+    "datePublished": "2017-02-27",
+    "description": "料理の合間に出来ちゃう、超絶簡単なスープです。お好みで具を追加してください(^_^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "500ml"
+        },
+        {
+            "name": "ウェイパー(中華だし)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "溶き卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れてお湯を沸かし、沸騰したら中火にしてウェイパーと乾燥ワカメを入れる。",
+        "(1)に、溶き卵を菜箸を伝いながら流し入れる。ふんわりと卵が浮いてきたら出来上がり。器へ注ぎ、ブラックペッパーを振る。",
+        "簡単なので料理の合間に出来ますよ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4367506",
+    "advice": "万能すぎるウェイパー様に、素直にお世話になりました。ウェイパーがないときは、中華顆粒だしで代用できます(^_^)/",
+    "history": "グラタンをオーブンで焼いている間に時間が余ってしまったので・・・。速攻で作った割に美味しかったので、レシピに追加しました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中華スープ 卵"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4367506/100x141c/702b207fbd59ad8483b5765bd37da41b.jpg?u=7027453&p=1487819972"
+}

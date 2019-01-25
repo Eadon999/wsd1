@@ -1,0 +1,60 @@
+{
+    "name": "豆腐のフリッター♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3633840/464x260/4a67bf54adddc5c76c25ae5230a14b1e.jpg?u=9552524&p=1453265304",
+    "datePublished": "2016-01-20",
+    "description": "めちゃふわ♡ヘルシー！子供のおやつや旦那様のおつまみにいかがですか(^^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "１/２丁"
+        },
+        {
+            "name": "☆玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "☆小麦粉",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "☆中華あじ・湯",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "好みで適量"
+        }
+    ],
+    "recipeInstructions": [
+        "中華あじをお湯で溶き、☆をボールに合わせてよく混ぜます。",
+        "①に水切りした豆腐を手で崩しながら加えよく混ぜます。",
+        "②をスプーンですくって形を整え、中温に熱した油に落とし入れカラッと揚げます。",
+        "器に盛ります。好みでケチャップを添えます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3633840",
+    "advice": "やさしい味にしてあるので好みでケチャップやお塩を振って食べてね(^^)",
+    "history": "太り気味のうちの旦那くんのヘルシーオツマミです(^^)チキンナゲットの代わり（笑）",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "フリッター 10位"
+    ],
+    "related_keywords": [
+        "豆腐 フリッター",
+        "フリッター",
+        "ベーキングパウダーなし フリッター"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/3633840/100x141c/78ef53b981b725bb3b334aa5df4fddd1.jpg?u=9552524&p=1453265304"
+}

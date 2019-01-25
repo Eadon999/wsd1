@@ -1,0 +1,56 @@
+{
+    "name": "絶品！まいたけとふんわり卵の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃんごう"
+    },
+    "image": "https://img.cpcdn.com/recipes/3087893/464x260/0debf67df67a9edf777540a2f0d46801.jpg?u=4839599&p=1427344432",
+    "datePublished": "2015-03-26",
+    "description": "まいたけを買ったら絶対コレ！きのこの美味しい出汁が出て絶品です(*´∀`)b！我が家のリピメニュー♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "まいたけ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "おわん４杯分"
+        }
+    ],
+    "recipeInstructions": [
+        "お鍋に水と本だしをいれて火にかけます。",
+        "グツグツしてきたらまいたけを手でさいていれていきます",
+        "2〜3分たったら卵を回し入れる。菜ばしでひとかきしたら火を止めます。\n",
+        "みそを入れて溶かしたら完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3087893",
+    "advice": "グツグツしている状態で卵を入れると、うまくふんわりしますよ♪",
+    "history": "母から教わりました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ",
+        "卵",
+        "味噌",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/3087893/100x141c/51bd414b8626f49c7161f1ead3cc5d19.jpg?u=4839599&p=1427344432"
+}

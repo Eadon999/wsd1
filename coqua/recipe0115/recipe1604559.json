@@ -1,0 +1,43 @@
+{
+    "name": "バルサミコ＆マスタード　ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "kurynamy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1604559/464x260/14e79588e2084859184da8093b8586d3.jpg?u=1009649&p=1340319842",
+    "datePublished": "2011-10-21",
+    "description": "手作りのドレッシングを作り置きしておくと便利ですよね",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "エキストラバージンオリーブオイル",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "全ての材料をよく混ぜる。",
+        "＊手作りドレッシングは冷蔵庫で保存しておくと油が固まってしまうので、食べる前に冷蔵庫から出しておきます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1604559",
+    "advice": "",
+    "history": "最近ドレッシング作りにはまってて、おいしかったものを( ..)φメモメモ",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マスタードドレッシング",
+        "バルサミコ酢 ドレッシング"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1604559/100x141c/c6a7ad764756bf4a7a960797cb51bd8d.jpg?u=1009649&p=1340319842"
+}

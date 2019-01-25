@@ -1,0 +1,48 @@
+{
+    "name": "【農家のレシピ】大根のジャコおかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1769638/464x260/0f79fa5e18f9371ea9311c97b027d1da.jpg?u=2513693&p=1333779041",
+    "datePublished": "2012-04-09",
+    "description": "サラダ感覚で食べられる大根の和え物です。ジャコとかつおぶしの塩分と少しのお醤油で頂きます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "チリメンジャコ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き細切りにしチリメンジャコを混ぜて３分置き、もう一度混ぜてからかつおぶしと醤油を入れて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1769638",
+    "advice": "■大根とチリメンジャコを最初に混ぜて、ジャコの塩分と旨みを大根に染み込ませるのがコツです。■チリメンジャコの塩加減で味が薄いと感じる場合はお醤油を足してくださいね。",
+    "history": "飲食店で大根の千切りにジャコを混ぜたサラダがあり美味しかったのでアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "チリメンジャコ",
+        "かつおぶし",
+        "醤油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1769638/100x141c/b14b47e81ce3a384851326abe80b5298.jpg?u=2513693&p=1333779041"
+}

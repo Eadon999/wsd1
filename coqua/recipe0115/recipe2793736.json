@@ -1,0 +1,49 @@
+{
+    "name": "わが家の美味しいトマトの食べ方",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/2793736/464x260/e940c085638ba55282f3606e7194de1d.jpg?u=7167639&p=1438023464",
+    "datePublished": "2014-09-12",
+    "description": "2015・8・6 話題入り♬大感謝です♡とにかく簡単！切って冷やしておけば、家にある調味料で直ぐに出来ます♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "味塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "粗びき黒胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを８等分の\nくし型に切る。\n(食べやすい大きさ切り方でいいわよ～)",
+        "冷蔵庫で冷た～く冷やして置く。",
+        "食べる直前に味塩→粗びき黒胡椒→ごま油をかけて出来上がり～"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2793736",
+    "advice": "食べる直前まで しっかり冷やしてね。",
+    "history": "ごま油 好きの私の思いつきで……",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "味塩",
+        "ごま油"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/2793736/100x141c/9f31bf5ddddccf5055e735e4fde47ea4.jpg?u=7167639&p=1438023464"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "ピーマンベーコンwithおかか",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/297423/464x260/4946feda782be591d95c6e085337292a.jpg?u=274122&p=1214213977",
+    "datePublished": "2006-11-04",
+    "description": "セロリベーコンも大好きですが、ピーマンベーコンもなかなかですよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１枚～"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "小袋半分ぐらい"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ半分～１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンとピーマンは食べやすい大きさに切る。",
+        "フライパンに少量の油を熱しベーコンをいためる。",
+        "ベーコンがカリッとしてきたらピーマンを入れ、さっと炒め、しょうゆを回し入れる。",
+        "器に盛り、かつおぶしをかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "297423",
+    "advice": "ダイエット中の方はベーコンの油でピーマンを炒めるといいかも。",
+    "history": "ベーコンと一緒に炒める野菜でセロリの次に好きなのがピーマンなので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "かつおぶし",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "112",
+    "thumbnail": "https://img.cpcdn.com/recipes/297423/100x141c/63900177bd303853ec4f7cfbe182a1b6.jpg?u=274122&p=1214213977"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "簡単に美味しく揚げ出し豆腐～☆",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/333653/464x260/296aff3fad49672db4b921fe58deefa2.jpg?u=322985&p=1214214786",
+    "datePublished": "2007-02-20",
+    "description": "優しい味です☆子供から大人までサラッと食べられます♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "細ねぎ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を３～４㌢角に切ってキッチンペーパーの上に置いておく。その間に小鍋にだし汁１カップを入れて煮立たせ、しょうゆ・みりんで味をつけたら水溶き片栗粉でとろみをつけます。",
+        "豆腐の全面に片栗粉をつけて油で揚げます。おつゆをかけて細ねぎを散らして出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "333653",
+    "advice": "揚げるときは低温で☆",
+    "history": "メインがお魚の時はよく作ります♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/揚げだし豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "片栗粉",
+        "細ねぎ",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/333653/100x141c/e254aec7b8f4724812097e48df9047a7.jpg?u=322985&p=1214214786"
+}

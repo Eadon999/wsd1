@@ -1,0 +1,63 @@
+{
+    "name": "我が家のたらこパスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ヤンー"
+    },
+    "image": "https://img.cpcdn.com/recipes/735922/464x260/76a29c09fba478894734c7ef9bb53007.jpg?u=1098294&p=1234691218",
+    "datePublished": "2009-02-15",
+    "description": "お店で食べるようにおいしいです！１人前じゃあ足りないかもしれませんよ～",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２００g"
+        },
+        {
+            "name": "●たらこ",
+            "quantity": "２腹"
+        },
+        {
+            "name": "●バター",
+            "quantity": "２０g"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "●昆布茶",
+            "quantity": "小１"
+        },
+        {
+            "name": "大葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "きざみのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタを表示通り茹でる。",
+        "ボウルに●を入れて軽く混ぜておく。（たらこは薄皮を除いて。バターは溶かさなくていい。）",
+        "茹で上がったパスタをボウルにうつし、和える。（茹で汁も少し入れるように）\r\n",
+        "皿に盛り付け、大葉、海苔をのせ出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "735922",
+    "advice": "",
+    "history": "たらこ大好き夫婦で、たらこパスタをよく作るんですが、これ！っていう味になかなかたどりつけなかったけど、いろいろ作ってめぐり逢えました！",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "たらこ",
+        "バター",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/735922/100x141c/b1530635c50da1f9550937ee31ff4ef3.jpg?u=1098294&p=1234691218"
+}

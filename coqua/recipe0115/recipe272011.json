@@ -1,0 +1,54 @@
+{
+    "name": "きゅうりたっぷりそうめんのごまだれ",
+    "author": {
+        "@type": "Person",
+        "name": "myukitty"
+    },
+    "image": "https://img.cpcdn.com/recipes/272011/464x260/e7f2191c0cbb557452afdb9aa8e1b2e9.jpg?u=63267&p=1214213417",
+    "datePublished": "2006-08-06",
+    "description": "そうめんの季節。めんつゆに飽きたらコレ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大２"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大２"
+        },
+        {
+            "name": "さとう",
+            "quantity": "大１"
+        },
+        {
+            "name": "水またはだし汁",
+            "quantity": "１５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりはスライサーで輪切り。",
+        "材料すべて混ぜるだけ。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "272011",
+    "advice": "大葉やみょうがを入れたりアレンジしても◎お砂糖はお好みで加減してください。",
+    "history": "数十年前、知人に材料だけ聞いて、分量適当につくってました。家では飽きないように、しょうゆだれ（つゆ）と一緒に出します。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "みそ",
+        "すりごま",
+        "さとう"
+    ],
+    "tsukurepo_count": "122",
+    "thumbnail": "https://img.cpcdn.com/recipes/272011/100x141c/3a264437c63c67f9007f175204887f65.jpg?u=63267&p=1214213417"
+}

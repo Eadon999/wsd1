@@ -1,0 +1,70 @@
+{
+    "name": "タコとエビの炒め物♪",
+    "author": {
+        "@type": "Person",
+        "name": "くにしゃん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/4395214/464x260/561ca74b6918ee6168bfda12cae708d2.jpg?u=7615655&p=1488703345",
+    "datePublished": "2017-03-10",
+    "description": "タコとエビとシメジにアスパラのオリーブオイルを使った炒め物です。ヘルシーに美味しい一品です(^-^)/",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でタコ足",
+            "quantity": "2本"
+        },
+        {
+            "name": "エビ",
+            "quantity": "12尾"
+        },
+        {
+            "name": "シメジ",
+            "quantity": "1株"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "2本"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "5g"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "アスパラ塩茹で用塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "シメジは根を落としほぐします♪タコはぶつ切りにします♪エビは皮を剥き背綿を取ります♪アスパラは塩茹でし斜めに切って置く♪",
+        "フライパンを熱しオリーブオイルを入れシメジを炒めます♪",
+        "シメジがしんなりしたら、エビ、タコを入れ炒めます♪エビのが赤くなったら酒を入れます♪",
+        "次に鶏ガラスープの素を入れコショウをし混ぜ混ぜしたら出来上がり♪",
+        "お皿に盛ってアスパラを散らしたら完成(^-^)/ハイ！どうぞ召し上がれp(^-^)q"
+    ],
+    "cookTime": null,
+    "recipe_id": "4395214",
+    "advice": "",
+    "history": "タコ、エビが冷凍庫に眠っていたから、起こしました(笑)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タコとエビ",
+        "蛸 海老"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4395214/100x141c/3b87fd9543cb122f30450679f1e4257c.jpg?u=7615655&p=1488703345"
+}

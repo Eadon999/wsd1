@@ -1,0 +1,60 @@
+{
+    "name": "鶏手羽とキャベツのカレーコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/883562/464x260/d09496eeb7b183afdad91bfa6500f26a.jpg?u=377757&p=1249563703",
+    "datePublished": "2009-08-06",
+    "description": "キャベツがたくさん食べられるカレー風味のコンソメスープです！お好きな野菜でどうぞ。",
+    "recipeYield": "３人～４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽",
+            "quantity": "６本"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "２個"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "材料の野菜をお好みの大きさに切る。鶏手羽と野菜を鍋に入れ、ひたひたの水（分量外）を入れて約１５分煮込んでいく。",
+        "キャベツがしんなりして全体に火が通ったら、コンソメを手で割りいれる。弱火～中火で約５分煮込む。",
+        "カレー粉を入れる。弱火～中火で約５～１０分煮込んでブラックペッパーで味を調えて完成！",
+        "くたくたになったカレー風味のキャベツなのでたくさん食べられますよ＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "883562",
+    "advice": "きのこ類を入れるのもおすすめです。今回しめじを入れるつもりが、入れ忘れちゃいました…",
+    "history": "キャベツをたくさん食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チキンコンソメスープ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/883562/100x141c/a050ee1aa9bec0549a095fb225048cae.jpg?u=377757&p=1249563703"
+}

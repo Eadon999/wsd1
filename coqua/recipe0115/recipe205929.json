@@ -1,0 +1,62 @@
+{
+    "name": "冷やし中華のタレ",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/205929/464x260/5b29f486ce58aa26873dca81680b44c4.jpg?u=39686&p=1215133390",
+    "datePublished": "2005-07-04",
+    "description": "このタレがあればタレつき冷やし中華セットを買わなくてもよい。",
+    "recipeYield": "約4人分",
+    "recipeIngredient": [
+        {
+            "name": "醤油",
+            "quantity": "120ｃｃ"
+        },
+        {
+            "name": "酢",
+            "quantity": "100ｃｃ（酸っぱいのニガテな人は80ｃｃ）"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "鶏がらスープの素（顆粒）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "湯",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "しょうがの絞り汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏がらスープの素を湯で溶く。これと残りの材料を全て合わせて冷蔵庫でキンと冷やす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "205929",
+    "advice": "酢の種類を変えれば風味も変わります。鶏がらスープのもとは味の素使用です。〝中華味〟やウェイパーなど塩分が多く入っているものを使用する場合は湯を１５０ccに増やして作りますが、出来上がりは５人分くらいになります。",
+    "history": "タレつき２食入り２５０円、中華麺のみ５玉２００円、さぁ、どっちを買う？！",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": [
+        "冷やし中華たれ 3位"
+    ],
+    "related_keywords": [
+        "醤油",
+        "酢",
+        "砂糖",
+        "鶏がらスープの素"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/205929/100x141c/c3de81c2197b6e5445bcb23d81f56f14.jpg?u=39686&p=1215133390"
+}

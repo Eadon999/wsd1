@@ -1,0 +1,74 @@
+{
+    "name": "ちくわの回鍋肉風",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3935605/464x260/9167a19e642f72922a002656fd7e62e8.jpg?u=13556534&p=1466584077",
+    "datePublished": "2016-06-22",
+    "description": "2017/5/9話題レシピ有難うございます。アレンジちくわの回鍋肉風。お弁当やお酒のおつまみによく合います。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "１０㎝"
+        },
+        {
+            "name": "にんにく（スライス）",
+            "quantity": "１/２かけ"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "甜麺醤",
+            "quantity": "小さじ１と１/２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切り。ネギは２㎝ぶつ切り。ちくわは縦半分に切り３等分に切る。ピーマンは食べやすい大きさに切る",
+        "フライパンに油入れ野菜を炒め一旦皿にうつす。フライパンに油を入れちくわ、ニンニク、豆板醤、甜麺醤を加えからめる",
+        "ちくわに炒めた野菜、酒、醤油を加え、からめる用に炒め出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3935605",
+    "advice": "強火で手早く一気に炒めるのがポイントです。",
+    "history": "節約おかずです。お肉が冷蔵庫にない時、ちくわも回鍋肉風にアレンジするとボリューム感あるおかずになります",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "キャベツ",
+        "ピーマン",
+        "ネギ"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/3935605/100x141c/b968bace46d92f9acdf6a5b421e09a86.jpg?u=13556534&p=1466584077"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "三つ葉の卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "やまうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/360054/464x260/e8528ab0ac818d4a9240655ed3b3c9fa.jpg?u=256204&p=1214215367",
+    "datePublished": "2007-04-19",
+    "description": "いつもの卵焼きに三つ葉をたっぷり♪風味豊かなちょっと大人味～。＾＾　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "好みでたっぷり"
+        },
+        {
+            "name": "出汁の素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水または牛乳",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "三つ葉は１ｃｍくらいに細かく切る。ボールに材料を全部いれ混ぜ合わせる。",
+        "フライパンに油を引き（分量外）、いつものとおり卵焼きを焼く。",
+        "出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "360054",
+    "advice": "特になし。卵の焼きの材料は皆さんのお好みの分量でかまいません。",
+    "history": "卵丼のような、卵とじのような三つ葉たっぷりのが食べたかったので！もちろんお弁当にも持っていきたくって。。。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "三つ葉",
+        "三つ葉 卵焼き"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/360054/100x141c/e40249537526f456c366af2690f7f46e.jpg?u=256204&p=1214215367"
+}

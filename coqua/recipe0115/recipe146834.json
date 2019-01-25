@@ -1,0 +1,50 @@
+{
+    "name": "万能つゆ（主に麺つゆ）",
+    "author": {
+        "@type": "Person",
+        "name": "あやこな"
+    },
+    "image": "https://img.cpcdn.com/recipes/146834/464x260/68f10e7ff2e32b4ad641849239b471b2.jpg?u=41857&p=1214210968",
+    "datePublished": "2004-06-04",
+    "description": "子供の頃から、市販のそばつゆ等買ったことがありません。母のレシピです。このつゆは主に、天つゆ、そば、うどん、あげ浸し、などに使ってます。",
+    "recipeYield": "　",
+    "recipeIngredient": [
+        {
+            "name": "酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "酒、みりんのアルコール飛ばすために、しばらく火にかける。",
+        "ここへ残りの材料を加えて、一煮立ちしたら、出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "146834",
+    "advice": "このつゆを素に、砂糖大さじ１～２、醤油大さじ２～３を足して、カツどん、天丼、などにも使います。乱暴だけど、すぐにざる蕎麦とか食べたいときは、濃い目に作って氷を入れて冷ましちゃいます。",
+    "history": "実家の母の割合。醤油：みりん：ダシ＝１：１：４というのを、子供の頃からたたき込まれました。それに酒と砂糖は私の好み♪",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そばつゆ めんつゆ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/146834/100x141c/e89b84564151ea5ec08ae3f4df6e7b2e.jpg?u=41857&p=1214210968"
+}

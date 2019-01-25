@@ -1,0 +1,54 @@
+{
+    "name": "簡単　美味しい♪　焼き肉のタレ",
+    "author": {
+        "@type": "Person",
+        "name": "ジュビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/254653/464x260/706a06b6c7b2af49e3b16d063e221ea5.jpg?u=204884&p=1214213024",
+    "datePublished": "2006-05-17",
+    "description": "家にあるものを混ぜるだけ☆でも本当に美味しいですよ～(*^_^*)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全てをよく混ぜる。　１０分以上冷蔵庫において味をなじませたら完成☆",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "254653",
+    "advice": "お好みでニンニクのみじん切りやネギのみじん切りを加えても美味しいです！",
+    "history": "焼き肉のタレってすぐなくなるし高いので自分で作ってます。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しょうゆ",
+        "ごま油",
+        "砂糖",
+        "いりごま"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/254653/100x141c/55952110b96a9aae312241a54cb02a95.jpg?u=204884&p=1214213024"
+}

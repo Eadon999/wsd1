@@ -1,0 +1,62 @@
+{
+    "name": "簡単★ニラのマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "berryberry"
+    },
+    "image": "https://img.cpcdn.com/recipes/274996/464x260/44f28a2e06fb72a1f5a3bef26c22f5bb.jpg?u=63655&p=1214213476",
+    "datePublished": "2006-08-19",
+    "description": "ニラとツナをカレー味のマヨネーズで和えました♪ケンタロウさんのレシピのアレンジです（＾＾）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは３㎝くらいの長さに切って、耐熱容器に入れてラップをし、レンジで40秒くらい加熱。ザルにあけて水気を切っておく。",
+        "ボウルにカレー粉、マヨネーズ、牛乳、ごま油を入れてよく混ぜる。",
+        "２に１と油を切ったツナを加えて混ぜる。塩コショウで味を整える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "274996",
+    "advice": "ケンタロウさんのレシピでは、ニラは生のままです。子供が食べやすいようにレンジで加熱しました。",
+    "history": "ケンタロウさんのレシピのアレンジです★",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "ツナ缶",
+        "カレー粉",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/274996/100x141c/8a77142a0716db63f47cccc482ff591d.jpg?u=63655&p=1214213476"
+}

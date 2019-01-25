@@ -1,0 +1,48 @@
+{
+    "name": "✿鮭＆コーンおにぎり✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/559089/464x260/73ad0853a942297272af5e90245123d9.jpg?u=271833&p=1268336123",
+    "datePublished": "2008-04-26",
+    "description": "鮭とコーンの彩りの良いおにぎりです♪",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗1杯半"
+        },
+        {
+            "name": "鮭フレーク",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "コーン",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "（あれば）パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルなどに材料を全て入れて混ぜ合わせ、おにぎりにします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "559089",
+    "advice": "特にありません。",
+    "history": "鮭フレークのみのおにぎりも美味しいですが、コーンも加えて彩りをよくしました。コーンの甘みとシャキシャキ感も加わって美味しいです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "鮭フレーク",
+        "コーン",
+        "パセリ"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/559089/100x141c/8d36b9c2d9bcd4dc2bbf89df9f5a11bb.jpg?u=271833&p=1268336123"
+}

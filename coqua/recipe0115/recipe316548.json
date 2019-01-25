@@ -1,0 +1,65 @@
+{
+    "name": "ネギ豚コチュマヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "けい♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/316548/464x260/5258f6dab9c92616fa149327fa396eaf.jpg?u=60994&p=1214214422",
+    "datePublished": "2007-01-07",
+    "description": "ピリっと、ご飯がススム簡単おかずです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "1束"
+        },
+        {
+            "name": "★コチュジャン",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "ふたつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "万能ネギは5cm長さに切っておく。\r\n★は混ぜ合わせておく。",
+        "豚肉を広げて、塩コショウをしたら、ネギを乗せて巻く。",
+        "フライパンに油を熱し、2を巻き終わりを下にして入れて焼く。\r\n最初にしっかり焼き付けたら、コロコロ転がしながら全体に火を通す。",
+        "火が通ったら、★を入れて全体に絡めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "316548",
+    "advice": "豚肉は何でも良いです。私は今回はバラ薄切りで作りました。",
+    "history": "実家で母がこんな感じのを作っていた気がしたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/小ねぎ・葉ねぎ"
+    ],
+    "rankings": [
+        "ネギ豚 7位"
+    ],
+    "related_keywords": [
+        "豚薄切り肉",
+        "万能ネギ",
+        "コチュジャン",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/316548/100x141c/d986affd51d663e59a2d33fb82efda60.jpg?u=60994&p=1214214422"
+}

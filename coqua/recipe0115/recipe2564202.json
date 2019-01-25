@@ -1,0 +1,60 @@
+{
+    "name": "松山あげ入り・さつまいもと玉ねぎのみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2564202/464x260/b45d0b1cd2f9195c1cc4a3dbd11722c5.jpg?u=3099986&p=1396340280",
+    "datePublished": "2014-04-01",
+    "description": "松山あげを使いました。さつまいもが甘くておいしい。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "小1本"
+        },
+        {
+            "name": "松山あげ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ8"
+        },
+        {
+            "name": "青ネギ(きざんでおく)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "松山あげ。",
+        "材料。さつまいもは、大きめの角切り。玉ねぎは薄切りにする。松山あげはたんざく切り。",
+        "だし汁でさつまいも・玉ねぎ・松山あげを入れて煮た後、みそを入れる。",
+        "器に盛る。青ネギをのせる。",
+        "2016.12.9付け\n松前あげの人気検索でトップ10に入りました。\n3位でした。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2564202",
+    "advice": "味噌を入れてからはあまり煮たてないようにします。",
+    "history": "四国旅行で買った「松山あげ」。さつまいものみそ汁が食べたいという家族のリクエストで作った。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だし汁",
+        "玉ねぎ",
+        "さつまいも",
+        "松山あげ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2564202/100x141c/32e60ada3e1f9a8da9fb2c16172d1194.jpg?u=3099986&p=1396340280"
+}

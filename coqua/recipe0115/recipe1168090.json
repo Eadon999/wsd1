@@ -1,0 +1,55 @@
+{
+    "name": "だしマヨ♡焼きおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "リりｨ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1168090/464x260/c386f69e7fb8cf1471f5306583b13c7a.jpg?u=1255183&p=1277381771",
+    "datePublished": "2010-06-24",
+    "description": "ほんだしとマヨネーズがなんとも言えない 濃くウマな美味しさを演出している最高の一品ですヾ(｡・ω・｡)｀*:;,★",
+    "recipeYield": "1個",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "お茶碗１杯"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "プロセスチーズ",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "プロセスチーズは適当な大きさにちぎっておく。",
+        "ごはんにほんだし、マヨネーズ、醤油、かつお節、プロセスチーズをまんべんなく混ぜ合わせる。",
+        " お好みの形ににぎり、フライパンで両面を焼けば出来上がり☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1168090",
+    "advice": "混ぜて焼くだけなので特ににありません☆",
+    "history": "大好きなおにぎりを和♡テイストにしてみたら大成功でした（*^^*）",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だしマヨおにぎり"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/1168090/100x141c/569a4078367d5d69a4c2f1ea325224f8.jpg?u=1255183&p=1277381771"
+}

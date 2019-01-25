@@ -1,0 +1,60 @@
+{
+    "name": "レタスとネギだけ♡絶品豚しゃぶ",
+    "author": {
+        "@type": "Person",
+        "name": "ぷるベリー"
+    },
+    "image": "https://img.cpcdn.com/recipes/2422052/464x260/b481815b2505a61ae69ef47ddf2688bf.jpg?u=5054658&p=1385889950",
+    "datePublished": "2013-12-01",
+    "description": "お鍋にレタス？美味しいんです♡豚肉との相性抜群です♪♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉しゃぶしゃぶ用",
+            "quantity": "300〜400g"
+        },
+        {
+            "name": "レタス",
+            "quantity": "大1玉"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "2〜3本"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "お好きな薬味(ネギ、もみじおろしなど)",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし昆布",
+            "quantity": "一枚"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは洗って食べやすい大きさにちぎっておく。ネギは2ミリぐらいの斜め薄切りに。",
+        "薬味を準備する。刻みネギ、大根おろし、もみじおろし、七味などお好きなものを♪",
+        "昆布で出汁をとる。",
+        "しゃぶしゃぶ♬してお召し上がりください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2422052",
+    "advice": "レタスは火を通し過ぎない方がシャキシャキで美味しいです♡",
+    "history": "茹でたり炒めたレタスが好きなのでしゃぶしゃぶに入れてみたところ美味しかったので♡今や我が家の定番です！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "今日のご飯・おかず/鍋もの/しゃぶしゃぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉しゃぶしゃぶ用",
+        "レタス",
+        "長ネギ",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2422052/100x141c/21b6b43cea34b1d01345bed98e1983d7.jpg?u=5054658&p=1385889950"
+}

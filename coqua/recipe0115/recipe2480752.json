@@ -1,0 +1,68 @@
+{
+    "name": "たらのきのこあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "yakopan♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2480752/464x260/bedf21d4407d0c4e98d370d35d5c0d3f.jpg?u=316626&p=1391479576",
+    "datePublished": "2014-02-04",
+    "description": "きのこたっぷりのあんとさっぱりたらがよく合います。カロリー控えめでGood！！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "たら(切り身)",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白ネギ(みじん切り)",
+            "quantity": "10cmくらい"
+        },
+        {
+            "name": "えのき茸",
+            "quantity": "1束"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ml"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1．5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1．5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "たらに塩をふって、水分をキッチンペーパーで取り3等分くらいに切る。",
+        "両面に片栗粉をまぶし、フライパンに油を熱し両面をこんがり焼く。",
+        "だし汁の材料を鍋に入れ一煮立ちさせ、白ネギとえのき茸を入れさっと火を通し水溶き片栗粉でとろみをつける。",
+        "2．のたらをお皿に並べ、3．のあんをかけてできあがり＊^^＊"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2480752",
+    "advice": "焼くときは崩れやすいので気をつけて。皮の方から焼くといいでしょう！他の野菜を刻んで入れても合いますよ＊^^＊",
+    "history": "淡泊なお魚にはとろ～りあんがぴったりです♪♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鱈のきのこあんかけ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2480752/100x141c/b4c54e880a40b9497680ca33bf2d07a4.jpg?u=316626&p=1391479576"
+}

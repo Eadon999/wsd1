@@ -1,0 +1,57 @@
+{
+    "name": "Macaroni＆Cheese",
+    "author": {
+        "@type": "Person",
+        "name": "Omamama"
+    },
+    "image": "https://img.cpcdn.com/recipes/38497/464x260/0f2c2f6a6560cbccc65ad4e181debfab.jpg?u=8254&p=1372393020",
+    "datePublished": "2002-01-06",
+    "description": "【マカロニ　アンド　チーズ】またの名をMac'n Cheese・・・アメリカでは、子供も大人も大好きな一品。サイドディッシュなどにも。",
+    "recipeYield": "2人～3人分",
+    "recipeIngredient": [
+        {
+            "name": "マカロニ",
+            "quantity": "100g"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "200ml"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "チェダーチーズ",
+            "quantity": "200g"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニは塩を入れたたっぷりのお湯で茹でる。",
+        "1が茹で上がったら湯を捨て、鍋にマカロニを戻す。",
+        "2に生クリームを加えて中火にかけ、コンソメを加える。",
+        "チェダーチーズを溶かし、オレンジ色になったら塩・こしょうで味を調えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "38497",
+    "advice": "塩・こしょうを控えれば、後期からの離乳食にも使えます。チーズの量がかなり多くてビックリするかもしれませんが、溶けてしまうとアッという間。アルデンテで食べるものではないので、やわやわのマカロニでも失敗ではありません。牛乳で代用しても◎ですよ！",
+    "history": "レトルトやインスタントでも売っているものですが、離乳食時に手作りで作り始めて以来作り続けているアメリカンメニューです。【100万人が選んだ　大絶賛パスタ】の本にも載せて頂きました♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/チーズ系パスタ",
+        "その他/おもてなし料理/子どものパーティ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マカロニアンドチーズ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/38497/100x141c/4b8866ac5d5dd3c3bc4a333c79a0e4f3.jpg?u=8254&p=1372393020"
+}

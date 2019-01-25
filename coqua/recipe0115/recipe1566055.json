@@ -1,0 +1,54 @@
+{
+    "name": "おかかネギのあまいたまご焼き",
+    "author": {
+        "@type": "Person",
+        "name": "Natsutach"
+    },
+    "image": "https://img.cpcdn.com/recipes/1566055/464x260/f551159be63840ae814e3c1b590501e0.jpg?u=1166163&p=1315775195",
+    "datePublished": "2011-09-12",
+    "description": "めんつゆのしみこんだかつお節とネギの風味が美味しいです。H23.9.19話題入りありがとう♡",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "3個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "1パック（3ｇ）"
+        },
+        {
+            "name": "小ネギ",
+            "quantity": "2本分"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "かつおぶしにめんつゆ、小ネギを混ぜておく。たまごは砂糖と一緒にときほぐす。先に混ぜたかつお節をたまごにサッと混ぜる。",
+        "あとはいつものようにたまご焼きを焼いて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1566055",
+    "advice": "かつお節をめんつゆで先に混ぜしみ込ませた方がじゅわっと美味しいです。砂糖の量は我が家の好みに合わせて多目なのでお好みの量で調整して下さい。",
+    "history": "おかかとネギの組み合わせが大好き。絶対日本人の好きな組み合わせ♡",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き",
+        "その他/お弁当/色別おかず/黄色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまご",
+        "かつおぶし",
+        "小ネギ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1566055/100x141c/79321afc7ca7422be141c4f1988bcbe4.jpg?u=1166163&p=1315775195"
+}

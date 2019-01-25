@@ -1,0 +1,75 @@
+{
+    "name": "鯖のごま味噌煮　バター風味　～韓国風～",
+    "author": {
+        "@type": "Person",
+        "name": "オークルマルシェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/920057/464x260/0e6068795a1f6cf28b6d7cdca2e82a9e.jpg?u=1285038&p=1253884253",
+    "datePublished": "2009-09-25",
+    "description": "味噌とバターの組み合わせって大好き！！更に、コチュジャンとすりごまで韓国風に。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖１匹",
+            "quantity": "２枚におろしたもの"
+        },
+        {
+            "name": "生姜の薄切り",
+            "quantity": "２かけ分"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ CC"
+        },
+        {
+            "name": "酒",
+            "quantity": "１００ CC"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "こうじ味噌(田舎味噌などでも）",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小2(ピリカラ）～"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１　お好みで増量"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ半分～１　お好みで増量"
+        },
+        {
+            "name": "ニンニクスライス（省略可）",
+            "quantity": "１片"
+        }
+    ],
+    "recipeInstructions": [
+        "食べやすく切った鯖の皮目に十文字に切れ目をいれ（塩を多めにふり水分が出たら）酢を入れた湯でサッとゆでザルにあけます。",
+        "深めのフライパンにすりごまとバター以外の煮汁の材料を煮たてたら、鯖の皮の方を上にして並べて入れて、落とし蓋をして煮ます。",
+        "汁気がなくなってきたら、すりごまと\nバターを加えます。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "920057",
+    "advice": "辛いのが好きな方は、コチュジャンを増やして下さいね。",
+    "history": "和食の定番の鯖の味噌煮。でも、ちょっと飽きてしまったのでアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "煮汁",
+        "水",
+        "砂糖",
+        "こうじ味噌"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/920057/100x141c/03cd468781a8cc847a109d2378cd30f6.jpg?u=1285038&p=1253884253"
+}

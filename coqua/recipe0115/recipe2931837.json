@@ -1,0 +1,66 @@
+{
+    "name": "豆腐とレタスでかさ増し☆鶏ミンチの甘辛丼",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/2931837/464x260/8cceab4243af7851db519fe2cf2a2049.jpg?u=7510994&p=1418875294",
+    "datePublished": "2014-12-18",
+    "description": "お安い鶏胸ミンチで甘辛い丼にしました。豆腐とレタスを入れてヘルシーに♪ランチにピッタリですよ。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸ミンチ",
+            "quantity": "300g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2"
+        },
+        {
+            "name": "レタス",
+            "quantity": "2枚"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "150g"
+        },
+        {
+            "name": "●砂糖、醤油、みりん、酒",
+            "quantity": "各大さじ3"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎片栗粉+水",
+            "quantity": "各小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを5mm 角に切り、ゴマ油を熱したフライパンで炒める。火が通れば鶏ミンチと生姜を加えて炒める。",
+        "鶏肉の色が変われば豆腐を入れ、箸で崩す。●を加えて3分煮たら、◎の水溶き片栗粉を混ぜてトロミをつける。",
+        "食べる直前にちぎったレタスを加えて加熱し、しんなりしたら熱々ご飯に乗せて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2931837",
+    "advice": "豆腐は水切り不要です。鶏肉が少ない場合は豆腐を増やしても美味しいです。",
+    "history": "ランチに丼を作ったものの4人分には少なく、豆腐とレタスを足してみたら美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸ミンチ",
+        "玉ねぎ",
+        "レタス",
+        "おろし生姜"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2931837/100x141c/e949dcce444dfe8522b1f7d425beec8e.jpg?u=7510994&p=1418875294"
+}

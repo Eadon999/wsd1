@@ -1,0 +1,68 @@
+{
+    "name": "ちょっとハマる＊白菜のお味噌汁＊",
+    "author": {
+        "@type": "Person",
+        "name": "woochee"
+    },
+    "image": "https://img.cpcdn.com/recipes/290637/464x260/aca08f2779e95e9f9c4ffd98097753c4.jpg?u=235605&p=1214213841",
+    "datePublished": "2006-10-14",
+    "description": "最近ちょっとハマってます。味噌汁といえばこればっか…（＾＾＊）",
+    "recipeYield": "1杯分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1／２枚"
+        },
+        {
+            "name": "味噌（白）",
+            "quantity": "大１"
+        },
+        {
+            "name": "昆布だし",
+            "quantity": "適量"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小１.５〜"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小１〜"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ml"
+        }
+    ],
+    "recipeInstructions": [
+        "小鍋にお湯をわかす、白菜は食べやすい大きさにカット、油揚げは短冊にカット\n",
+        "お湯が沸騰したら、昆布だし、白菜と油揚げをいれて、白菜がやわらかくなるまで煮る\n\n",
+        "２に味噌、みりん、を加え一煮立ちさせ、最後に胡麻油を加える\n",
+        "お椀にもって一味唐辛子をかけて♪いただきます♪\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "290637",
+    "advice": "あまりないです（＾＾；）ふつうの白菜と油揚げのお味噌汁に胡麻油と一味で風味をつけただけです、、、が！なんかハマってしまって。",
+    "history": "白菜のお味噌汁ってあまくて美味しいですよね♡家庭風中華のおかずに合わないかな〜と思ってなんとなく出来ました♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "油揚げ",
+        "味噌",
+        "昆布だし"
+    ],
+    "tsukurepo_count": "196",
+    "thumbnail": "https://img.cpcdn.com/recipes/290637/100x141c/5bd0fba443c2448bae6a9ad6b1c8410b.jpg?u=235605&p=1214213841"
+}

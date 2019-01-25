@@ -1,0 +1,59 @@
+{
+    "name": "簡単♪白滝と玉ねぎの煮物☆",
+    "author": {
+        "@type": "Person",
+        "name": "meff"
+    },
+    "image": "https://img.cpcdn.com/recipes/2545244/464x260/dd421ddf9c42934695b7af736a058ec6.jpg?u=3682915&p=1394893519",
+    "datePublished": "2014-03-15",
+    "description": "ハマったら癖になる♪副菜、ご年配の方に、お酒のアテになど＾＾♪玉ねぎだけ切ってしまえば後は放ったらかしの簡単１品☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小結しらたき",
+            "quantity": "２０個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "２個"
+        },
+        {
+            "name": "♦めんつゆ(3倍濃縮)",
+            "quantity": "50cc"
+        },
+        {
+            "name": "♦鰹節",
+            "quantity": "１パック（３～５g）"
+        },
+        {
+            "name": "♦一味唐辛子",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水分を飛ばすため、白滝をから炒りします。",
+        "白滝の水分が飛んだら、ごま油を入れて玉ねぎを投入して軽く炒める。",
+        "②に♦とフライパン8分目ぐらいに水を入れて煮汁がなくなるまで煮詰める",
+        "はい出来あがり♪＾＾ゞかなりウマー！！！ですよ☆(笑)"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2545244",
+    "advice": "",
+    "history": "母から教わりました^^",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "めんつゆ",
+        "鰹節",
+        "一味唐辛子"
+    ],
+    "tsukurepo_count": "156",
+    "thumbnail": "https://img.cpcdn.com/recipes/2545244/100x141c/7ac09c76b95b9f43461ba7999e0b9de5.jpg?u=3682915&p=1394893519"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "これなあに？ふわふわ食感！はんぺん団子",
+    "author": {
+        "@type": "Person",
+        "name": "AntyRyoko"
+    },
+    "image": "https://img.cpcdn.com/recipes/266211/464x260/62bbd07f9137a3a312e75e136aededf5.jpg?u=262932&p=1214213290",
+    "datePublished": "2006-07-16",
+    "description": "一口食べて、これなあに？かわいいボールの中身はふわふわ！でも、ビールと相性ピッタシ！大人用は明太子、子供たちは普通のタラコでOK.",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "大1枚"
+        },
+        {
+            "name": "明太子又はタラコ",
+            "quantity": "1腹"
+        },
+        {
+            "name": "葱（みじん切り）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "●玉子",
+            "quantity": "1個"
+        },
+        {
+            "name": "●小麦粉、パン粉",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんは叩いてつぶす。後は手でくちゃくちゃ揉んで、粗いペースト状にする。フードプロセッサーを使用しても良い。",
+        "明太子又はタラコは皮から出し、葱のみじん切りと溶き卵少々を入れて混ぜる。",
+        "1と2を混ぜて、一口大に丸くする。",
+        "小麦粉、溶き卵、パン粉の順に付けて、フライにする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "266211",
+    "advice": "中身を色々変えてもGOOD! コツはナシ！タラコ、明太子はパスタ用の出来合いソースでOK。 お好みで色々な材料を入れてください。",
+    "history": "はんぺんを、はんぺん　らしくなく　食べたくって。。。!(^^)!",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん",
+        "その他/おもてなし料理/子どものパーティ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "葱",
+        "玉子"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/266211/100x141c/68a0cd7ccc7d7139ea707e9b662e5082.jpg?u=262932&p=1214213290"
+}

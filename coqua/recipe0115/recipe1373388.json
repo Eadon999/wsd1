@@ -1,0 +1,59 @@
+{
+    "name": "＊アンチョビポテト＊",
+    "author": {
+        "@type": "Person",
+        "name": "cafecafemi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1373388/464x260/533140e0e6766e551e8b6f795b894447.jpg?u=2950318&p=1298769232",
+    "datePublished": "2011-02-27",
+    "description": "アンチョビとガーリックの香りがやみつきになるワインにもあう1品です♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "小4個"
+        },
+        {
+            "name": "アンチョビフィレ",
+            "quantity": "3～4枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモは一口大に切って水につけた後、固めにゆでておく。（電子レンジでチンしても可）",
+        "フライパンにオリーブオイル、アンチョビ、すりおろしたニンニクを炒め、香りが出たら１のジャガイモを加えて炒める。",
+        "カリカリになるまでしっかり炒める。\n塩コショウで味を整える。",
+        "バジルをかけて、完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1373388",
+    "advice": "カリカリになるまでしっかり炒めると、すりおろしたニンニクがじゃがいもにカリカリにくっ付いて、また美味しいですよ♪",
+    "history": "大好きなアンチョビで、おつまみが作れないかな？？と思って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "アンチョビフィレ",
+        "にんにく",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1373388/100x141c/bccf7001c62635d38b37c24fcb58e602.jpg?u=2950318&p=1298769232"
+}

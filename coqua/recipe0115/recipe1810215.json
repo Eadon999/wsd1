@@ -1,0 +1,45 @@
+{
+    "name": "一番おいしい食べ方！こごみのお刺身",
+    "author": {
+        "@type": "Person",
+        "name": "りょーーーこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1810215/464x260/3bf03019eb560c83b364e741e780c8ef.jpg?u=640986&p=1336782925",
+    "datePublished": "2012-05-12",
+    "description": "☆75個目の話題入り感謝☆新鮮なこごみ（くぐみ）が手に入ったら、シンプルにこの食べ方！素材の味がしっかり味わえます＾＾",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "こごみ",
+            "quantity": "一パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "こごみは良く洗います。",
+        "沸騰したお湯で３分ゆでる。",
+        "直ぐに冷水で洗い、水気を切ります。",
+        "根元の黒いところを切り落とし、食べやすい大きさに切って、わさび醤油でどうぞ＾＾",
+        "レシピ本発売中☆\nhttp://www.amazon.co.jp/dp/4800235510"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1810215",
+    "advice": "ゆでた後はすぐに冷水で洗ってください＾＾",
+    "history": "朝市のおじちゃんに教えてもらった食べ方です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こごみ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1810215/100x141c/4e2a8f9df8de4db27c2b8c535b61375e.jpg?u=640986&p=1336782925"
+}

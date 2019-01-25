@@ -1,0 +1,73 @@
+{
+    "name": "圧力鍋で牛肉をつかった肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "あやのんのママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2941825/464x260/d020490f8e2cb4412c532e7e483009fa.jpg?u=10134309&p=1508493698",
+    "datePublished": "2014-12-26",
+    "description": "寒い夜に肉じゃがで１杯＾＾♪パパのお酒のあてに！子どもの夕飯のおかずに！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "３～４個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "しらたき",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "牛肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ミリン",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "圧力鍋にごま油をいれ牛肉、玉ねぎを炒め、人参、じゃがいもしらたきをいれいっしょに炒める。",
+        "出汁と調味料をいれ、煮る。圧力がかかって２～３分したら火を止め、圧力が抜けるまで放置する。",
+        "味見をしてじゃがいもが煮えていたら\n器に盛りつけたらできあがり。",
+        "圧力鍋でつくると、じゃがいもも大きくてもホクホク♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2941825",
+    "advice": "ごま油で炒めていますが、サラダ油でもどちらでもお好みで！",
+    "history": "家にあった材料で作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "子供夜ご飯",
+        "肉じゃが 牛肉 圧力鍋"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2941825/100x141c/527c6731edde60460f17eb5735bf3d51.jpg?u=10134309&p=1508493698"
+}

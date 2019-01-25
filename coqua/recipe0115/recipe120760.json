@@ -1,0 +1,52 @@
+{
+    "name": "すごくおいしい！ハムとトマトのチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "artemis"
+    },
+    "image": "https://img.cpcdn.com/recipes/120760/464x260/e4023633e278a2897bb30e66b7e5773c.jpg?u=8300&p=1214210476",
+    "datePublished": "2003-12-12",
+    "description": "簡単ですが、ハムを大量消費したい方へ（＾＾；",
+    "recipeYield": "１～2人分",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "トマト",
+            "quantity": "小１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱容器にバターを薄く塗り、ハムとスライスしたトマトを交互に重ね、塩こしょうする。",
+        "ピザ用チーズを散らし、",
+        "オーブントースターのグラタン加熱で１５～２０分焼いて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "120760",
+    "advice": "",
+    "history": "ハムを大量消費しなくてはならず、なんとなく作ってみました＾＾姉はもっと大胆にハムとチーズを何段にも重ねて焼いていました（・・；",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム大量消費",
+        "ハム トマト"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/120760/100x141c/9f3f6e9b05e8ef0009aaa071c51b0155.jpg?u=8300&p=1214210476"
+}

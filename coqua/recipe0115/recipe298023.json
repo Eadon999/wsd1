@@ -1,0 +1,54 @@
+{
+    "name": "☆大根のみそバタ焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "こはたんmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/298023/464x260/bb64aa43067321a42e42982e29984c14.jpg?u=265234&p=1214213989",
+    "datePublished": "2006-11-06",
+    "description": "だし汁でやわらか～く下茹でした大根をみそバターでこんがりッ☆",
+    "recipeYield": "4コ分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "12ｃｍ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は　3ｃｍくらいの厚さに切って　面取りをして　両面に十文字に切り込みをいれ　\r\nだし汁でやわらかくなるまでゆでる。",
+        "大根は水気をきる。\r\nみそ、酒、みりんをまぜておく。",
+        "フライパンにバターをいれ　\r\n大根を焼く。　両面に　軽く\r\n焼き色がついたら　調味料を入れて　　こんがり　キツネ色になったら　できあがり～☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "298023",
+    "advice": "バターで焼く時に　強火で焼くと焦げやすいので　中火で！",
+    "history": "ふろふき大根の　『おこちゃまバージョン』　を考えてみました＾＾；",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "バター",
+        "みそ",
+        "酒"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/298023/100x141c/9e4bfc096c42ca298285d402ed4d7b3b.jpg?u=265234&p=1214213989"
+}

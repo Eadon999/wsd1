@@ -1,0 +1,58 @@
+{
+    "name": "たけのこ+わかめで・・・",
+    "author": {
+        "@type": "Person",
+        "name": "ありす2000"
+    },
+    "image": "https://img.cpcdn.com/recipes/339580/464x260/081332904cf5dad0b681d72e89c61a4f.jpg?u=383726&p=1214214918",
+    "datePublished": "2007-03-05",
+    "description": "　和食の1品に！！之からの季節　たけのこが美味しいよね～旬の若布と合わせれば　最高～",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "たけのこ",
+            "quantity": "小2ケ"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "30ｃｃ"
+        },
+        {
+            "name": "出汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "30ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お出汁でたけのこを\r\n柔らかくなるまでに煮ます。",
+        "　柔らかくなってから　醤油　みりんを加え　塩で味を整えます。",
+        "最後に新鮮な生若布をさっと加えれば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "339580",
+    "advice": "　出汁がなくなるまで煮て　鰹節をからめても美味しいです。甘いのが好みの方は　みりん大目でもOK! ",
+    "history": "　季節のものを楽しみたいので　毎年我が家では　作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ",
+        "わかめ",
+        "醤油",
+        "出汁"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/339580/100x141c/78bd770be29b42a6cdd2d3967c4cce20.jpg?u=383726&p=1214214918"
+}

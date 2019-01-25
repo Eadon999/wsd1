@@ -1,0 +1,67 @@
+{
+    "name": "もやしとしめじの卵とじ♪",
+    "author": {
+        "@type": "Person",
+        "name": "onputti"
+    },
+    "image": "https://img.cpcdn.com/recipes/502597/464x260/334ee5577d6607b6c06462142584e49d.jpg?u=128223&p=1214218620",
+    "datePublished": "2008-02-06",
+    "description": "優し～い味です。ごはんに乗せてつゆだく丼にも！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "一袋"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/2～１パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "一個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "めんつゆ（三倍濃縮）",
+            "quantity": "大さじ1・1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしはひげをとり、しめじはばらしておく。",
+        "もやしとしめじをごま油でさっと炒め、酒、めんつゆ、みりん、水を入れて一煮立ちさせる。",
+        "といた卵を流しいれ、すぐに蓋をして半熟に蒸らす。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "502597",
+    "advice": "火の通しすぎに注意してください。シャキシャキのもやしととろっと卵が美味しいです。☆めんつゆの味によって濃さがかわってくると思いますので、お好みで調整してください。",
+    "history": "あと一品足りなかったので、サッとできる煮物を作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "しめじ",
+        "卵",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/502597/100x141c/8ba97b10b71b25a05b0e3bbec69227ab.jpg?u=128223&p=1214218620"
+}

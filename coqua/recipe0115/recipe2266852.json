@@ -1,0 +1,55 @@
+{
+    "name": "大葉の香り✣れんこんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Hoink"
+    },
+    "image": "https://img.cpcdn.com/recipes/2266852/464x260/1f64298eb541274cd63d35949c9d95a2.jpg?u=1824841&p=1524973966",
+    "datePublished": "2013-08-16",
+    "description": "ほんのひと手間でいい香り。大葉と和えた簡単れんこんサラダです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "一節（約120ｇ）"
+        },
+        {
+            "name": "大葉",
+            "quantity": "３枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "小さめ１片"
+        },
+        {
+            "name": "麺つゆ　又はだし醬油",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１.５"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉は縦半分に切って横に千切りし、にんにくは包丁の腹で軽く叩いて潰す。\n麺つゆに両方とも浸し香りを移す。",
+        "レンコンは２～３㎜の薄切りにして酢水にさらし、シャキシャキに茹でて冷ます。\n",
+        "１からにんにくだけを取り出し、れんこんが完全に冷めたらマヨネーズと合わせて和える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2266852",
+    "advice": "味がはっきりしているほうが美味しいので、れんこんの量が増えるときは調味料も適宜調整してください。",
+    "history": "れんこんが手に入りやすくなったので色々と楽しんでいます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "大葉",
+        "にんにく",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/2266852/100x141c/e6b19d8d6cc4f6e02f6a4caa03ebc4dc.jpg?u=1824841&p=1524973966"
+}

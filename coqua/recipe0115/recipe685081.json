@@ -1,0 +1,63 @@
+{
+    "name": "素朴で懐かしい味の♡大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "おりんmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/685081/464x260/be157f2a3c52df8170333ed6f24079bc.jpg?u=1031262&p=1227044600",
+    "datePublished": "2008-11-19",
+    "description": "素朴で懐かしい味･･･ホッとするような、あっさり味の大根の煮物です♡調味料をあわせて大根を煮るだけ♡とっても簡単です♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "★水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "★だしの素（顆粒）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を２～３ｃｍの厚さの半月切りか、いちょう切りにします。必要に応じて面取りして下さい）",
+        "鍋に★と大根を入れ、火にかけます。沸騰したら強めの弱火で、大根が柔らかくなるまで煮ます。（目安:１５～２０分）",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "685081",
+    "advice": "◎★は味をみて、砂糖・醤油の量はお好みで調整して下さいね♡◎大根の固さもお好みで茹で時間を調整して下さい♡",
+    "history": "母が作る大根の煮物を思い出して、食べたくなって作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "水",
+        "だしの素",
+        "砂糖"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/685081/100x141c/e036feb41cb1b9b51dd67b1334692f34.jpg?u=1031262&p=1227044600"
+}

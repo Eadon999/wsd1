@@ -1,0 +1,43 @@
+{
+    "name": "めかぶもやし",
+    "author": {
+        "@type": "Person",
+        "name": "myukitty"
+    },
+    "image": "https://img.cpcdn.com/recipes/272009/464x260/386954741c7d9e0d4bda7d0fbcafa2db.jpg?u=63267&p=1214213417",
+    "datePublished": "2006-08-06",
+    "description": "困ったときの「もやし」頼み！？和えるものはなんでも。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/2～1袋"
+        },
+        {
+            "name": "めかぶ",
+            "quantity": "1パック"
+        }
+    ],
+    "recipeInstructions": [
+        "こんな感じ♪",
+        "もやしをさっと茹でる。",
+        "湯きり、時間がないときは水でしめる。",
+        "味付けめかぶで和える。",
+        "味が薄いようなら、ポン酢などで調節。\r\n\r\nこれだけ・・・。"
+    ],
+    "cookTime": null,
+    "recipe_id": "272009",
+    "advice": "「めかぶ」のかわりに「もずく」もおすすめ。",
+    "history": "いつもは「もずく」使用。「めかぶ」もおいしいかも、と思って、やってみました。きっとおんなじレシピあるかも・・と思ったのですが検索せずにアップしちゃいました。同じ方がいたらごめんなさい<(_ _)>",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/めかぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "めかぶ"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/272009/100x141c/649f686c45e5cd38248600a6bb9b7688.jpg?u=63267&p=1214213417"
+}

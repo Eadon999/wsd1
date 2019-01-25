@@ -1,0 +1,50 @@
+{
+    "name": "れんこんのバルサミコ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Lantana"
+    },
+    "image": "https://img.cpcdn.com/recipes/349165/464x260/598f0feffe60a0bfb1f40d6b6a15a93d.jpg?u=14305&p=1214215127",
+    "datePublished": "2007-03-24",
+    "description": "バルサミコ酢で健康的に♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "１節（８㎝位）"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは皮を剥き、５ミリ厚さくらいの半月切りにして、しばらく水につけておく。",
+        "フライパンに油を入れて、水気を切ったれんこんを入れ、こんがり焼き色がついたら、バルサミコ酢と醤油を加えて混ぜ、出来上がり♪",
+        "１０月１６日に話題入りさせて頂きました。皆さん、どうもありがとう♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "349165",
+    "advice": "バルサミコ酢と醤油を入れたら、すぐ火を止めてくださいね♪",
+    "history": "またまたれんこん料理です♪　以前作ったごぼうのバルサミコ炒めが結構お気に入りなので、そのれんこん版！主人も気に入ってくれました～♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "オリーブ油",
+        "バルサミコ酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/349165/100x141c/b9d4dd6f8955c0cf34f50692d6c6d87e.jpg?u=14305&p=1214215127"
+}

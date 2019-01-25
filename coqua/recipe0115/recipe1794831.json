@@ -1,0 +1,48 @@
+{
+    "name": "白菜サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1794831/464x260/ce7c4f48e6793582ed4fabbf64c3adc5.jpg?u=2495483&p=1335538142",
+    "datePublished": "2012-04-27",
+    "description": "マヨや油を使わないヘルシーなサラダ☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１~２枚"
+        },
+        {
+            "name": "トマトなど好みの野菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を洗って細く切る。他に好きな野菜を切る。トマトはお勧め。写真はキャベツ、レタスも入ってます。",
+        "酢をかけて全体を混ぜる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1794831",
+    "advice": "混ぜてから少し置いた方が美味しいです",
+    "history": "茜さんのサラダで白菜を初めて生で食べ美味しくて。キャベツや胡瓜に酢だけよりも白菜を入れると全体が甘くて他の調味料を入れなくても美味しいことに気づき。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "酢",
+        "胡椒"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1794831/100x141c/b05e810faacf62ab62d69b6bf0531010.jpg?u=2495483&p=1335538142"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "簡単じゃがいもだけ★ママのレシピ",
+    "author": {
+        "@type": "Person",
+        "name": "ＭÅＹＵＭＩ"
+    },
+    "image": "https://img.cpcdn.com/recipes/919317/464x260/a883dfb74625c5deacd9b55a3e4f1a69.jpg?u=1338473&p=1253797311",
+    "datePublished": "2009-09-24",
+    "description": "むちゃくちゃ簡単！放置しててもできちゃう★でもすごくおいしくてパクパク食べれます(≧∀≦)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中３コ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★バター",
+            "quantity": "30g"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮をむいて一口大に切って水にさらしておく。",
+        "お鍋にじゃがいもを入れて、ひたひたより少し少なめの水と、★を全部入れる。",
+        "落とし蓋をして、中火でコトコト煮込む。じゃがいもがやわらかくなったら落とし蓋を外して水分を飛ばす。 できあがり★"
+    ],
+    "cookTime": null,
+    "recipe_id": "919317",
+    "advice": "ポイントもないぐらい簡単〜〜(;゜O゜)",
+    "history": "これも母親に教えてもらいました〜あたしの大好きなじゃがいも★バターが決め手ヽ(´ー｀)ノ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "砂糖",
+        "醤油",
+        "バター"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/919317/100x141c/ed334dbc1ac9bff530b04504b6aba489.jpg?u=1338473&p=1253797311"
+}

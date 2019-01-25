@@ -1,0 +1,51 @@
+{
+    "name": "バターでまろやか＊あさりの酒蒸し＊",
+    "author": {
+        "@type": "Person",
+        "name": "miitamago"
+    },
+    "image": "https://img.cpcdn.com/recipes/1348026/464x260/fbddbb5b590feeb3394219fcf3d39f80.jpg?u=2693391&p=1296658765",
+    "datePublished": "2011-02-03",
+    "description": "バターを入れるととってもおいしいです☆あっという間に出来るので、助かります♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "３００㌘"
+        },
+        {
+            "name": "バター",
+            "quantity": "５～１０㌘"
+        },
+        {
+            "name": "酒",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "あさりをこすり合わせてよく洗います。\n（砂抜き済みのあさりを使用しています）",
+        "フライパンにバターをいれ、溶けたらあさりをいれます。\n",
+        "バターを全体にからめ、酒を入れ蓋をして、フライパンを振ります。\n",
+        "あさりが開いたら、蓋をあけ、少しお酒を飛ばし、ねぎを入れて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1348026",
+    "advice": "あっという間に出来上がります！でも急ぎすぎて、すぐ火からおろすと、まだお酒臭いときがあります（急ぎすぎ！？）",
+    "history": "PaPaさんが大好物なので☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "バター",
+        "酒",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1348026/100x141c/e2f4bb085244e5599ca1789ec749b1ef.jpg?u=2693391&p=1296658765"
+}

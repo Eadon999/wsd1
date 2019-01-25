@@ -1,0 +1,53 @@
+{
+    "name": "ほっこりしみじみ．．　しじみの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "りなまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/250426/464x260/f338907517741cb173e03b350bdec1d5.jpg?u=232175&p=1214212945",
+    "datePublished": "2006-04-23",
+    "description": "ダシがきいてる～うゥ。体がホッとするしみじみうま～いお味噌汁です～。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "しじみ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "カツオダシ汁",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに水をたっぷりいれて、しじみをいれる。塩ひとつかみいれて砂抜きをする。\r\nできれば半日くらい置いたほうが良いが、２時間くらい。",
+        "しじみをザルにあけて水切りをする。\r\n鍋にカツオだし汁をいれてしじみもいれる。\r\n火をつけてコトコト。\r\nアクが出るので、きちんと取ること。\r\n",
+        "しじみの口が開いたら味噌を溶きいれる。我が家は白味噌使用。\r\n万能ネギを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "250426",
+    "advice": "あ～おいし♪うま～いっやっぱりダシだね！",
+    "history": "肝臓にいい☆ですよね☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/しじみ"
+    ],
+    "rankings": [
+        "しじみの味噌汁 7位"
+    ],
+    "related_keywords": [
+        "しじみの味噌汁"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/250426/100x141c/aee522ecc3cf32e7a823952683473d15.jpg?u=232175&p=1214212945"
+}

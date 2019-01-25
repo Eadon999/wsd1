@@ -1,0 +1,59 @@
+{
+    "name": "アボカドとトマトのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "パティシエママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/170906/464x260/e9b0d2da701dd1b1072c4afbeaa2ed2f.jpg?u=39686&p=1443014138",
+    "datePublished": "2004-11-23",
+    "description": "この組み合わせは相性がいいですね。ドレッシングがおいしかったので載せます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "２個（大きめ)"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みじん切りの玉葱",
+            "quantity": "１／４個分"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドとトマトは皮をむいて１．５㎝角の角切りにする。",
+        "ドレッシングの材料を全て混ぜて１にかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "170906",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド",
+        "その他/おもてなし料理/お客様いろいろ！/外国からのお客様"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト アボカド"
+    ],
+    "tsukurepo_count": "369",
+    "thumbnail": "https://img.cpcdn.com/recipes/170906/100x141c/e7f7cec8ebf7174952a1053a379c650c.jpg?u=39686&p=1443014138"
+}

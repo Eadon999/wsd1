@@ -1,0 +1,67 @@
+{
+    "name": "大根とひき肉の簡単炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "cafe-cafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/548191/464x260/0d2d2eef43eb61da112db59756eb2baf.jpg?u=672442&p=1443670251",
+    "datePublished": "2008-04-10",
+    "description": "おふくろの味をお手軽に再現！（笑）薄切り大根で手早く作できる簡単炒め煮☆ あと一品！ってときにどうぞ♪",
+    "recipeYield": "3人くらい",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "250g（1/3本くらい）"
+        },
+        {
+            "name": "ひき肉（何でも可）",
+            "quantity": "100～150gほど"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダオイル（炒め用）",
+            "quantity": "大さじ1ほど"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は3cm×3㎜の拍子切りにしてやわらかく茹でます\r\n調味料を合わせておきます",
+        "フライパンにオイルを入れ、しょうがとひき肉をよく炒めます",
+        "茹でた大根と合わせた調味料を入れ中火より強い目で炒め煮にします",
+        "汁気を飛ばすように炒めます"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "548191",
+    "advice": "ひき肉は牛・豚・鶏肉など何でも◎その時あるもので炒めオイルは好みでゴマ油を使って下さい好みで水どき片栗粉でとろみをつけてください甘いめの味付けなので甘いの苦手な人は砂糖を少し控えてね",
+    "history": "実家のﾚｼﾋﾟ～というほどじゃないけど我が家の覚書です",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ひき肉",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "108",
+    "thumbnail": "https://img.cpcdn.com/recipes/548191/100x141c/50c9c392057986e80e16b41ad1b68f2c.jpg?u=672442&p=1443670251"
+}

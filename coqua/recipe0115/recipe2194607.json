@@ -1,0 +1,52 @@
+{
+    "name": "そうめん入りお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2194607/464x260/193d64db527f6b50f938949664550928.jpg?u=1690437&p=1366190645",
+    "datePublished": "2013-04-17",
+    "description": "2017・9・30話題入りに感謝♪時々ふいに食べたくなるそうめん入りのお味噌汁。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "出し汁",
+            "quantity": "400cc"
+        },
+        {
+            "name": "赤味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "そうめん",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "出し汁が沸騰したらそうめんを二つ折りにして入れ1分煮る。",
+        "小口切りしたねぎと戻したわかめを入れ味噌を溶いて火を消す。",
+        "2013・4・25\n「お味噌汁」カテゴリ入り♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2194607",
+    "advice": "味噌を入れたら火を消す。",
+    "history": "時々食べたくなるので作りました。母が良く作ってくれたお味噌汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん入り味噌汁",
+        "そうめん 味噌汁"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2194607/100x141c/ce4d465e78d7052d78742a336710aa15.jpg?u=1690437&p=1366190645"
+}

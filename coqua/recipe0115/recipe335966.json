@@ -1,0 +1,40 @@
+{
+    "name": "こんな簡単でいいのか？うまうまえんどう！",
+    "author": {
+        "@type": "Person",
+        "name": "ブーまんま"
+    },
+    "image": "https://img.cpcdn.com/recipes/335966/464x260/7612739e10f465d5c11f5d61dc6f6021.jpg?u=372508&p=1214214841",
+    "datePublished": "2007-02-25",
+    "description": "５分もかかりません（笑）材料もスナップえんどうとマヨネーズだけ。レシピと言うのか～？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "スナップえんどう",
+            "quantity": "１パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２～３"
+        }
+    ],
+    "recipeInstructions": [
+        "スナップえんどうは、スジを取っておく。\r\nマヨネーズをフライパンに入れる。\r\n",
+        "マヨネーズが溶けだしたら、スナップえんどうを入れて炒める。\r\n出来上がり～♪\r\n",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "335966",
+    "advice": "コツ？ありません。ポイント？これもありません。。。。",
+    "history": "スナップえんどうってどうやって食べるの？八百屋さんに聞きました。お肉料理の付け合せに♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/スナップえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スナップえんどう",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/335966/100x141c/0c1d982fec9016d967c6c2ce65454be1.jpg?u=372508&p=1214214841"
+}

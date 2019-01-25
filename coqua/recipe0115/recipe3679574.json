@@ -1,0 +1,69 @@
+{
+    "name": "たけのこ、人参、こんにゃくの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3679574/464x260/ecc206bd3028b3dc6a8a4363bcfbfec1.jpg?u=4819316&p=1455115072",
+    "datePublished": "2016-02-10",
+    "description": "17/4/17話題入り有難うございます、懐かしい昭和の味の煮物です、昭和を思い出しながらお召し上がり下さい",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "たけのこ(水煮）",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのことにんじんは食べ易い大きさに切る",
+        "こんにゃくは１センチ幅に切り、中に切り目を入れて端をくぐらせ手綱こんにゃくにする",
+        "鍋に●と切った具材を入れて加熱し煮立ったら弱火にして水気が４分の１ぐらいになるまで煮る",
+        "器に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3679574",
+    "advice": "濃い目の味付けにしています、こんにゃくは手綱にすることで表面積が増えて味が染み易くなります",
+    "history": "私の実家では昔からやっていた料理です、年末のおせち料理もこの作り方で作ります",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃくとにんじんの煮物"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3679574/100x141c/ad2ce5e8b7589794557f6d56ade2c9a0.jpg?u=4819316&p=1455115072"
+}

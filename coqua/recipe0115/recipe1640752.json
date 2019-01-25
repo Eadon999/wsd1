@@ -1,0 +1,72 @@
+{
+    "name": "残ったカレーで❀カレーうどん",
+    "author": {
+        "@type": "Person",
+        "name": "sekinan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1640752/464x260/47a44cdfc0f4f3b009e554094e9860bf.jpg?u=3606530&p=1337765148",
+    "datePublished": "2011-11-30",
+    "description": "残ったカレーで簡単！しっかり和風なカレーうどんになります＾＾リメイクとは思えない結構本格的な味に♪我が家は汁まで完食♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "☆残ったカレー",
+            "quantity": "お玉山盛り2杯"
+        },
+        {
+            "name": "☆顆粒和風だし",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆水",
+            "quantity": "400㏄"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "小ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に☆を入れ、焦げないようにかき混ぜながら火にかける。\n沸騰してきたら、薄切りにした油揚げを入れてひと煮立ちさせる。",
+        "別の鍋にうどんを湯がいて、器に盛っておく。",
+        "1に水溶き片栗粉で好みのとろみを付け、器に盛ったうどんにかける。\n小ねぎを散らしたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1640752",
+    "advice": "汁とうどんを一緒に煮込んでもOKです。その際は、うどんを煮込んでから最後に水溶き片栗粉でとろみを付けて下さい。※写真は子供のリクエストで冷凍コーンも入ってます。",
+    "history": "残ったカレー救済！！",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/カレーうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "残ったカレー カレーうどん",
+        "残ったカレー カレーうどん めんつゆなし"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1640752/100x141c/eb45630b66f156cd802c8c7063518ed8.jpg?u=3606530&p=1337765148"
+}

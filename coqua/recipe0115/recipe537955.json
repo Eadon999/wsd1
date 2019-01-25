@@ -1,0 +1,62 @@
+{
+    "name": "♪大根の照り焼きステーキ♪",
+    "author": {
+        "@type": "Person",
+        "name": "mynameisyuko"
+    },
+    "image": "https://img.cpcdn.com/recipes/537955/464x260/abf041859758e8e28c7f6adb232b9bb9.jpg?u=710086&p=1290253795",
+    "datePublished": "2008-03-26",
+    "description": "簡単で冷めても美味しい！煮物やサラダ以外の食べ方です。",
+    "recipeYield": "8切れ分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "200ｇ程度"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "A 酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "A 砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "A しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "A みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき、5ｍｍ程度の厚さに輪切りにし、片栗粉をまんべんなくまぶす。",
+        "サラダ油を熱したフライパンで、大根を両面きつね色まで焼く。",
+        "焼いたら混ぜたAを入れてからめてできあがり。",
+        "*09/09/15追記*\r\nつくれぽ10人になりました！皆さんありがとうございます☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "537955",
+    "advice": "*大根の厚さは、もっと薄くてもいいと思います。この厚さだと、大根のしゃきっとした感じが楽しめます。**甘目が好きな方は砂糖を増やしてください。",
+    "history": "煮物以外の大根料理を食べたくて作りました。冷めてから食べましたが、味がしみこんでいておいしかったです＾＾明日のお弁当にも入れます！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "片栗粉",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/537955/100x141c/1c6cc438dc6e5ee51f4b6f74c3fb5899.jpg?u=710086&p=1290253795"
+}

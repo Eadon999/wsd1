@@ -1,0 +1,76 @@
+{
+    "name": "✿ひじきとゴボウのさっぱりサラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/279208/464x260/af7e2f84eac0df39b27ae9d7642f5817.jpg?u=226453&p=1411264401",
+    "datePublished": "2006-09-06",
+    "description": "さっぱりした食物繊維たっぷりのサラダです。歯ごたえがあって美味しいです。",
+    "recipeYield": "４人",
+    "recipeIngredient": [
+        {
+            "name": "乾燥ひじき",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "ゴボウ",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "＊ゴマ油",
+            "quantity": "大２"
+        },
+        {
+            "name": "＊酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大１　１/２"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "＊めんつゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "＊にんにくのすりおろし",
+            "quantity": "１カケ分"
+        },
+        {
+            "name": "＊塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊白いりゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは、水で戻しさっと茹でて水気をきります。ごぼうと人参は適当な長さの細切りにし、ごぼうはアク抜きを。ごぼうと人参はさっと茹でて水気をきります。",
+        "ボウルにごぼう、人参、ひじき、＊のドレッシングの材料を合わせて加えよく和えます。",
+        "2014/09/20クックパッドニュースに掲載して頂きました。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "279208",
+    "advice": "冷蔵庫で少しなじませた方が美味しいです。 水気はしっかりきって下さいね。",
+    "history": "傷む前にごぼうを使いたかったのとさっぱりしたサラダが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう サラダ"
+    ],
+    "tsukurepo_count": "223",
+    "thumbnail": "https://img.cpcdn.com/recipes/279208/100x141c/1b0e4000bf8f3e553fe091a7bac5c7d7.jpg?u=226453&p=1411264401"
+}

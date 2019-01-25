@@ -1,0 +1,67 @@
+{
+    "name": "おかかｄｅ焼きおにぎり！",
+    "author": {
+        "@type": "Person",
+        "name": "naru＊café"
+    },
+    "image": "https://img.cpcdn.com/recipes/756998/464x260/47215572e36c06c834e52294d6ce263b.jpg?u=1158856&p=1269707758",
+    "datePublished": "2009-03-12",
+    "description": "簡単でしっかりした味つけです(*^^)v眠ってるかつお節ありませんか？是非、試して見て下さい！",
+    "recipeYield": "ご飯２合分です！",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "２合"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "ホンだし",
+            "quantity": "大１/２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "６番(最後のおこげ用）"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を用意する。",
+        "かつお節に、ホンだし、醤油、白ゴマを入れ混ぜておく。",
+        "ご飯に、２を入れ混ぜる。",
+        "おむすびを作ります。私は型を使いました。\r\n(#^.^#)",
+        "ごま油を適量入れ、両面を焼く。",
+        "焼けてきたら、醤油を片面だけに付け焼く。",
+        "両面引っ繰り返して、美味しい焼き色が付いたらＯＫ！",
+        "出来上がりです(。\r\n*^^)v"
+    ],
+    "cookTime": null,
+    "recipe_id": "756998",
+    "advice": "食べてもらう人を思い、作ればそれでＯＫ(^_-)-☆美味しくできます!!!",
+    "history": "おかかがあったので、入れてみちゃう？",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "かつお節",
+        "醤油",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/756998/100x141c/8ee318267bb9f566e53eaf958179d088.jpg?u=1158856&p=1269707758"
+}

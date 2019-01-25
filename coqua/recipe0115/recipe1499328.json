@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】ジャコピーマン",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1499328/464x260/a9ae882953b1050fcb692a0bbd50d4ab.jpg?u=2513693&p=1310955099",
+    "datePublished": "2011-07-23",
+    "description": "ジャコピーマンは夏の我が家の常備菜。ピーマンを弱火でクタクタになるまで煮てるのでとっても味が染みてて美味しいよ☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "チリメンジャコ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒・みりん・醤油",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンはたて半分に切って種とヘタを取り除き、横に５ミリ程度の幅の細切りにします。",
+        "フライパンにごま油を熱し、ピーマンを１分程度中火で炒めた後、【A】を加え弱火で汁けがなくなるまで煮て、ゴマを入れて完成♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1499328",
+    "advice": "",
+    "history": "ジャコピーマンはご飯のお供として、常備しています。ジャコの量が日増しに多くなってきてます（笑）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃこ ピーマン"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/1499328/100x141c/5ebcdac1ca3295edc96569fe4c4cfcd4.jpg?u=2513693&p=1310955099"
+}

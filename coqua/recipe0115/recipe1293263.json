@@ -1,0 +1,80 @@
+{
+    "name": "＠鮭マヨ＠",
+    "author": {
+        "@type": "Person",
+        "name": "チャゴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1293263/464x260/b56e32bd2bcda1f93ddfe21f2e0f792f.jpg?u=686205&p=1313673967",
+    "datePublished": "2010-11-24",
+    "description": "2011/5/24ピックアップレシピ&話題入りしました。エビマヨのエビの代わりに鮭を使って。鮭を焼いてソースに絡めるだけ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭の切り身",
+            "quantity": "３枚"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大３"
+        },
+        {
+            "name": "油",
+            "quantity": "大３"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大３"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大１"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "小１"
+        },
+        {
+            "name": "★塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "レタス",
+            "quantity": "３枚"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭は皮と骨をとって１枚を４等分にする。\r\n酒を揉みこみ、両面にたっぷりめに塩こしょうをしておく。 ",
+        "レタスは小さく切っておく。 \r\nボールに★を入れて混ぜておく。",
+        "フライパンに油をしき、１）の鮭に片栗粉をまぶして、両面を揚げ焼きにする。",
+        "焼きあがったら★の入ったボールに入れてソースを絡める。 \r\nお皿にレタスをしき、その上にソースごと鮭をおいて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1293263",
+    "advice": "鮭の代わりにエビでももちろん美味しいです。鮭にしっかり塩こしょうしないと、味がぼやけます。",
+    "history": "エビアレルギーの人の為に。エビの変わりに鮭を使って。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭マヨ"
+    ],
+    "tsukurepo_count": "219",
+    "thumbnail": "https://img.cpcdn.com/recipes/1293263/100x141c/ed65e0b86cee272889e1cd39da913beb.jpg?u=686205&p=1313673967"
+}

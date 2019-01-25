@@ -1,0 +1,91 @@
+{
+    "name": "豚しゃぶサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "鹿児島県"
+    },
+    "image": "https://img.cpcdn.com/recipes/3367497/464x260/30afbb01134e9569ee9c743a6f1132fa.jpg?u=12690091&p=1440650801",
+    "datePublished": "2015-08-27",
+    "description": "鹿児島を代表する食材「かごしま黒豚」のしゃぶしゃぶサラダは，栄養価に優れ，さっぱりといただけます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "黒豚ロース薄切り肉",
+            "quantity": "280g"
+        },
+        {
+            "name": "水",
+            "quantity": "1,000cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "100cc"
+        },
+        {
+            "name": "白だし",
+            "quantity": "40cc"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "6枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "みず菜",
+            "quantity": "2束"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "12個"
+        },
+        {
+            "name": "麦みそ（白みそでも可）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水，酒，白だしを入れ沸騰させ，お肉をしゃぶしゃぶのように湯通しする。",
+        "1のお肉を氷水にあげる。",
+        "野菜を食べやすい大きさに切る。",
+        "材料を混ぜ，ドレッシングを作る。",
+        "野菜とお肉を皿に盛り付け，ドレッシングをかけてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3367497",
+    "advice": "ダシで湯通しするひと手間でお肉の旨みが増します。",
+    "history": "レシピ提供元鹿児島黒牛黒豚銘柄販売促進協議会",
+    "categories": [
+        "今日のご飯・おかず/サラダ/お肉を使ったサラダ",
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "黒豚しゃぶしゃぶ",
+        "黒豚ロース薄切り肉"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3367497/100x141c/8a9bbda0431cfc3ee2b6584118b9837c.jpg?u=12690091&p=1440650801"
+}

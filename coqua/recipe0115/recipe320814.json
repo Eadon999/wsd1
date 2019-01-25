@@ -1,0 +1,66 @@
+{
+    "name": "ドゥブジョリム♪韓国式豆腐の煮物♪",
+    "author": {
+        "@type": "Person",
+        "name": "やんず"
+    },
+    "image": "https://img.cpcdn.com/recipes/320814/464x260/24a1831625ed7415f477f0405c3f2ad9.jpg?u=268460&p=1214214520",
+    "datePublished": "2007-01-20",
+    "description": "早い、安い、うまい！！韓国家庭料理です☆辛い物好きさんは、コチュカルやコチュジャンをいれて作ってみて☆",
+    "recipeYield": "１〜２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★コチュジャン、コチュカル(唐辛子粉)",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★にんにく",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を１cmくらいの厚さに切って、片栗粉をまぶす。",
+        "フライパンに油をしき、１の豆腐を軽く焼く",
+        "★を混ぜ合わせ作ったソースを２に入れフタをして煮る。タレが少なくなってきたらお好みで葱や糸唐辛子を飾り出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "320814",
+    "advice": "片栗粉はつけすぎないでください♪手順３のときお好みでコチュジャンやコチュカルを入れて下さい☆辛ウマ！！とレポくれた方々ありがとうござぃますm(u_u*)m",
+    "history": "留学していた時のダーリンが生粋の韓国人でした☆彼直伝の韓国本場の味です♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "片栗粉",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/320814/100x141c/a95efbb43c10d85fcef5063385ebf979.jpg?u=268460&p=1214214520"
+}

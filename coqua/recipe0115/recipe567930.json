@@ -1,0 +1,68 @@
+{
+    "name": "我が家のフレンチドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/567930/464x260/cb2bdd6851ff014894b4eed53a19017b.jpg?u=405605&p=1214219895",
+    "datePublished": "2008-05-28",
+    "description": "我が家で１番出番の多いドレッシングです。",
+    "recipeYield": "２～３回分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ（すりおろしたもの）",
+            "quantity": "大匙１を目安で"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "大４"
+        },
+        {
+            "name": "米酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "自然塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎをする。\r\n全ての材料をよく混ぜ合わせる。",
+        "私はこのボトルでよーく振って使っています。",
+        "サラダレシピ本に掲載していただきました。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "567930",
+    "advice": "よく混ぜて下さい。 サラダ２～３回分です。",
+    "history": "我が家の定番ドレッシングです。お醤油を入れたことで美味しくなりました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": [
+        "フレンチドレッシング 9位"
+    ],
+    "related_keywords": [
+        "玉ねぎ",
+        "サラダオイル",
+        "米酢",
+        "粒マスタード"
+    ],
+    "tsukurepo_count": "149",
+    "thumbnail": "https://img.cpcdn.com/recipes/567930/100x141c/5799abecbaba2968a3971784ae70c8d4.jpg?u=405605&p=1214219895"
+}

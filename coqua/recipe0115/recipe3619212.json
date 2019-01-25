@@ -1,0 +1,48 @@
+{
+    "name": "だれでも簡単！白菜の味噌汁(とろとろ)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3619212/464x260/dcdaf4c9dabb2d6d289348fb8dc64c82.jpg?u=4376699&p=1452603433",
+    "datePublished": "2016-01-13",
+    "description": "煮るだけ簡単♪暖まりますね。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "3枚"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を1cm程に切る\n材料を全部小鍋に入れ強火で沸騰したら中火5分で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3619212",
+    "advice": "お好みで少し余計に煮てトロトロに",
+    "history": "白菜の味噌汁を飲みたくなって何十年ぶりに作りました■産直「みやもと農園」利用",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "味噌",
+        "ほんだし",
+        "水"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/3619212/100x141c/9454436af160f91f231775366fde2f43.jpg?u=4376699&p=1452603433"
+}

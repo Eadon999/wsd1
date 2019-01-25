@@ -1,0 +1,47 @@
+{
+    "name": "砂肝の銀皮の牛タン風",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1353996/464x260/02a8dbe4ac6dceb2f5fbf9920a410752.jpg?u=2513693&p=1297164815",
+    "datePublished": "2011-02-09",
+    "description": "砂肝の銀皮の食感が牛タンに似ているので、塩＋レモンでよく食べるんです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "砂肝の銀皮",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンにごま油を入れ、中火で銀皮を１分炒め少し強めに塩をし、食べる時にレモン果汁をしぼっていただきます"
+    ],
+    "cookTime": null,
+    "recipe_id": "1353996",
+    "advice": "銀皮は炒めすぎると固くなってしまうので2分程度にしてくださいね。",
+    "history": "砂肝の銀皮って牛タンに似ているので塩＋レモンでよく食べます",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/砂肝"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "砂肝の銀皮",
+        "銀皮",
+        "砂肝 牛タン"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1353996/100x141c/c256285c714e652ef632b18e4d3e8315.jpg?u=2513693&p=1297164815"
+}

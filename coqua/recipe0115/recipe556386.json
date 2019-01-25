@@ -1,0 +1,66 @@
+{
+    "name": "お弁当に★天かすとネギの卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/556386/464x260/92878ac5eb902b7be55b9650be1e9479.jpg?u=322621&p=1239248528",
+    "datePublished": "2008-04-22",
+    "description": "じゅゎっと染み出る天かすがいいお味の卵焼きです♡写真を撮り直しました",
+    "recipeYield": "３～４切れ分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "●塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●ｺｰﾋｰﾌﾚｯｼｭor牛乳or生ｸﾘｰﾑ",
+            "quantity": "２個（大さじ１弱）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "天かす",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "大さじ２～３"
+        }
+    ],
+    "recipeInstructions": [
+        "卵に●を合わせ　天かす・ねぎを加えて混ぜる",
+        "ｻﾗﾀﾞ油を熱したﾌﾗｲﾊﾟﾝに１を流して焼いたら出来上がり",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "556386",
+    "advice": "卵液はご家庭の味でどうぞ♡我が家は納豆のﾀﾚが余るのでいつも１袋入れて作っています",
+    "history": "みなさんのｱｲﾃﾞｱ溢れる卵焼きﾚｼﾋﾟに触発されて作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "砂糖",
+        "みりん",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "553",
+    "thumbnail": "https://img.cpcdn.com/recipes/556386/100x141c/2e3b70542e3545aa3d6900282ec613a1.jpg?u=322621&p=1239248528"
+}

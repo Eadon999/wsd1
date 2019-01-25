@@ -1,0 +1,60 @@
+{
+    "name": "【農家のレシピ】小松菜と卵のバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2006444/464x260/0599ff37aa9ff9908e94b369fa27178e.jpg?u=2513693&p=1351168251",
+    "datePublished": "2012-10-26",
+    "description": "小松菜の青臭さをまろやかにするため、卵と一緒にバターソテーにしました。パンと一緒に食べてもおいしい一品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋（２００ｇ）"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は５センチ程度のざく切り、にんにくは薄切りにしておきます。",
+        "フライパンにサラダ油を熱し、【A】を入れざっとかき混ぜ炒り卵を作っておきます",
+        "別のフライパンにバターとにんにくを入れ、中火で炒め、香りが出たら小松菜の茎の部分を入れ強火で炒めます。",
+        "小松菜の茎がしんなりしたら葉を入れ１分炒めてから、②を戻しいれ、最後に塩コショウで味をととのえて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2006444",
+    "advice": "",
+    "history": "ゴーヤチャンプルに卵が入るとゴーヤの苦味が和らぐので、小松菜にも使ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 バターソテー"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2006444/100x141c/f1400cada1107ddce5956fc8d5a1b442.jpg?u=2513693&p=1351168251"
+}

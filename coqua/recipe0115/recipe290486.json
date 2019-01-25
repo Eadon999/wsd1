@@ -1,0 +1,61 @@
+{
+    "name": "+++みずなっとうサラダ+++",
+    "author": {
+        "@type": "Person",
+        "name": "まり。"
+    },
+    "image": "https://img.cpcdn.com/recipes/290486/464x260/5302c9c38755736d78703045ff116f35.jpg?u=59349&p=1214213838",
+    "datePublished": "2006-10-14",
+    "description": "「みずなっとう」＝｢水菜＋納豆｣火を一切使わない和え物レシピです。（得意です） 納豆が体に良いのは間違いないっ!!",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "2～3束"
+        },
+        {
+            "name": "*納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "*マヨネーズ",
+            "quantity": "適量（大１）"
+        },
+        {
+            "name": "*ごま油",
+            "quantity": "適量（小１）"
+        },
+        {
+            "name": "*めんつゆ",
+            "quantity": "適量（小１）"
+        },
+        {
+            "name": "*白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "*のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は洗ってしっかり水切りしてください。食べやすい大きさにカット。（２～３センチくらいかな）",
+        "納豆に付属のからしとたれを加え、まぜまぜします。",
+        "水菜に*印をすべて加えます。",
+        "食べるときは全部をまぜまぜして食べてくださいね。",
+        "キャベツの千切りでも♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "290486",
+    "advice": "わたしの苦手な水切りが重要!!",
+    "history": "ｐｉｃｏさんの｢納豆サラダ｣が大好きで作り続けるうちにできあがりました!　簡単でとぉ～ってもおいしいですよ☆　キャベ千でももちろんおいしぃ☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/290486/100x141c/734b0255565897dfcef967566005a6f1.jpg?u=59349&p=1214213838"
+}

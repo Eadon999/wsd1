@@ -1,0 +1,51 @@
+{
+    "name": "簡単おつまみ☆きゅうり＆大葉マヨネーズ",
+    "author": {
+        "@type": "Person",
+        "name": "Snow＊Love"
+    },
+    "image": "https://img.cpcdn.com/recipes/1893495/464x260/6a2f2b8446232b228c261748b65c8a5f.jpg?u=2729928&p=1371911519",
+    "datePublished": "2012-07-24",
+    "description": "みずみずしい新鮮きゅうりをわさび風味の大葉マヨネーズで♪2013.6.29話題入り☆皆様ありがとうございます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "お好みの数"
+        },
+        {
+            "name": "◆マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "◆大葉",
+            "quantity": "７〜８枚"
+        },
+        {
+            "name": "◆わさび(チューブ)",
+            "quantity": "約2cm"
+        }
+    ],
+    "recipeInstructions": [
+        "◎大葉を細かく刻みます\n※大葉は洗ってクルクル丸め刻むと刻み易いです\n\n◎きゅうりは半分の長さに切ってから縦十字に切る",
+        "器に◆の材料全てを入れます",
+        "よくかき混ぜて出来上がり！",
+        "器に盛り付け食卓へ！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1893495",
+    "advice": "わさびは２cmくらい絞り出した量で作りました。皆さん、お好みで加減してください。",
+    "history": "レシピID：1892797　簡単！おつまみ竹輪☆梅しそ・胡瓜　を作った時の残りのきゅうりと大葉でもう一品作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "マヨネーズ",
+        "大葉",
+        "わさび"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1893495/100x141c/9282a9681aa4cac5e324591f054c51db.jpg?u=2729928&p=1371911519"
+}

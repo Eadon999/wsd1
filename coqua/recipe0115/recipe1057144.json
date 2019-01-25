@@ -1,0 +1,52 @@
+{
+    "name": "菜の花とゆで卵のオイマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "AyaChihi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1057144/464x260/d208b668718d958edf7e00ed0d5b23b0.jpg?u=1443366&p=1267656008",
+    "datePublished": "2010-03-04",
+    "description": "ゆで卵とオイマヨで和えると苦味が和らぎ、菜の花が苦手な子供もパクパク食べれました♪　【10/5/6話題入りしました☆】",
+    "recipeYield": "3～４人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "1束"
+        },
+        {
+            "name": "ゆで卵（好みの固さで）",
+            "quantity": "2個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大3"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花を茎から先に入れて１分半～2分程塩茹でして冷水に取る。水気をしっかり絞り３等分にカットする。",
+        "ゆで卵も食べやすい大きさにカットしておく。",
+        "ボウルにマヨネーズとオイスターソースを混ぜて、菜の花・ゆで卵を加えて混ぜる。塩こしょうで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1057144",
+    "advice": "菜の花の水気はしっかり切ってください。　 和えてしばらく置いてから食べると、味がなじんで美味しいですよ♪",
+    "history": "オイマヨが大好きで、菜の花にも合うかなーっと作ってみました（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花 サラダ",
+        "菜の花 卵"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1057144/100x141c/5ed789b8c06894554d72895bc019397c.jpg?u=1443366&p=1267656008"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "わけぎとイカのぬた和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/765962/464x260/f6353d21dbaef566c11e64a3300a84b9.jpg?u=921598&p=1365977742",
+    "datePublished": "2009-03-22",
+    "description": "絶妙のバランスの酢味噌が酒の肴にもピッタリ！タコでも美味しく出来ますよぉ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "わけぎ",
+            "quantity": "1束"
+        },
+        {
+            "name": "紋甲イカ下足",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに●の材料をよく混ぜて、合わせ調味料を作る。",
+        "わけぎは、根の方からさっと湯通しして3ｃｍ幅カット、イカは一口大に切る。",
+        "1に2を入れて、よく和えたら出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "765962",
+    "advice": "今回は紋甲イカ下足を使用しましたが、スルメイカや蒸しタコでも代用できますよぉ♪ 味噌はお好みの味噌を使用して下さい☆今回は合わせ味噌で作りましたぁ！",
+    "history": "紋甲イカ下足が安かったので、わけぎとぬた和えをしてみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": [
+        "ぬた和え 4位"
+    ],
+    "related_keywords": [
+        "モンゴウイカ 下足",
+        "ぬた和え いか",
+        "わけぎ いか",
+        "ぬた和え"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/765962/100x141c/f4894a8f5e74737a4651a12eccf15b9c.jpg?u=921598&p=1365977742"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "豚肉しょうが焼き",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/255612/464x260/578c9abf3265a289b0162a54513584cf.jpg?u=252604&p=1214213047",
+    "datePublished": "2006-05-22",
+    "description": "千切り生姜とおろし生姜のダブルで。味がしみてるのでお弁当にもどうぞ。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "250ｇ"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜を小さじ1杯分だけすりおろします。薄切り１枚分ほどを細い千切りにしておきます。",
+        "豚バラ肉は、5cm幅に切ります。たまねぎは、薄切りにしておきます。",
+        "フライパンにサラダ油をひき、生姜の千切りを入れ炒めます。",
+        "豚バラ肉とたまねぎを炒め、最後に調味料と生姜のすりおろしを加え、ゆすって照りがでたら火を止めます。",
+        "お皿にお肉を盛り、その上にたまねぎをのせ、白ごまを振り出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "255612",
+    "advice": "生姜たっぷりで作ります。",
+    "history": "定番メニューです。レシピ改定しました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "たまねぎ",
+        "生姜",
+        "醤油"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/255612/100x141c/5006726d26936d9a2b7cd1bca663669b.jpg?u=252604&p=1214213047"
+}

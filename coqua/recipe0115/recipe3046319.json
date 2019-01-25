@@ -1,0 +1,57 @@
+{
+    "name": "おつまみに☆大根の青のり和え",
+    "author": {
+        "@type": "Person",
+        "name": "YUZVIO"
+    },
+    "image": "https://img.cpcdn.com/recipes/3046319/464x260/33019cebf00f8541d68a7b87438fdec3.jpg?u=1094592&p=1425370208",
+    "datePublished": "2015-03-03",
+    "description": "大根消費に♪シンプルな材料で、浅漬け？サラダ風にしてみました。2015.8.21 話題入りありがとうございます♥",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "5cm位"
+        },
+        {
+            "name": "青のり",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "あればいりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●ポン酢",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は2～3ミリの輪切りにした後、千切りにする。塩をふって10分ほど待つ。水気をぎゅっとしぼる。",
+        "●と青のり、いりごまを混ぜて完成です♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3046319",
+    "advice": "大根はしっかりしぼって下さい。太めに切った場合は、塩で少し揉んだ方が良さそうな気がします。",
+    "history": "お酒のおつまみが欲しかったけど、すぐ使えるのが大根くらいしかなくて…青のりと合わせたら意外と美味しかった♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "青のり",
+        "塩",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/3046319/100x141c/c44fc413f4b69bd0221cbfaa58b33e01.jpg?u=1094592&p=1425370208"
+}

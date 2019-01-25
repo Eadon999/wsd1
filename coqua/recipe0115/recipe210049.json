@@ -1,0 +1,61 @@
+{
+    "name": "オクラとトマトのお豆腐サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/210049/464x260/9a12d70937425ba63e17cc19ee3026de.jpg?u=57297&p=1214212114",
+    "datePublished": "2005-08-02",
+    "description": "野菜メインの豆腐サラダ《木綿豆腐もサラダで美味しく♪》 ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "一袋"
+        },
+        {
+            "name": "トマト",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "１"
+        },
+        {
+            "name": "生姜汁",
+            "quantity": "１"
+        },
+        {
+            "name": "刻み葱",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は木綿豆腐、お皿を乗っけて水切りします。\r\nオクラもトマトもコロコロに切ってタレをかけます。\r\n\r\nタレ：オリーブオイル２、醤油２、レモン汁１、おろし生姜１、刻み葱"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "210049",
+    "advice": "夏の定番メニューです",
+    "history": "木綿豆腐はサラダに最適☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐サラダ"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/210049/100x141c/54a62a9ddd5dd93eade537b143ce7e3f.jpg?u=57297&p=1214212114"
+}

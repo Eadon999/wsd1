@@ -1,0 +1,56 @@
+{
+    "name": "ねばねば☆春菊と納豆とごまの和え物☆",
+    "author": {
+        "@type": "Person",
+        "name": "さにパン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2102420/464x260/0761fe45b8d3a51ee4415e5786eb5c3a.jpg?u=5174465&p=1359703073",
+    "datePublished": "2013-02-01",
+    "description": "納豆は低カロリーで高タンパク．春菊はビタミン，ミネラルなどが豊富．ゴマも＋して栄養満点♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "１束"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "適量に"
+        }
+    ],
+    "recipeInstructions": [
+        "万能ねぎを切ります．",
+        "春菊は熱湯でゆでます．入れてから１分くらいで水にとってー",
+        "かたく絞って，細かく切ります．",
+        "納豆，ネギ，春菊をボールにいれて，しょうゆ，白ごまをいれて混ぜます．",
+        "できあがり！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2102420",
+    "advice": "春菊は水にあげたらかたくしぼってくださいね．",
+    "history": "春菊もおいしく食べたいのでいつも食べる納豆と！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊",
+        "万能ねぎ",
+        "納豆",
+        "白ごま"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/2102420/100x141c/9338691f55e26e11d603cbf4a080da4e.jpg?u=5174465&p=1359703073"
+}

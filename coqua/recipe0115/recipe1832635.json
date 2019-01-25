@@ -1,0 +1,48 @@
+{
+    "name": "超簡単♬【三つ葉なめこ】",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1832635/464x260/cfd4a366b103760c469a091eef471006.jpg?u=2619264&p=1338336977",
+    "datePublished": "2012-05-31",
+    "description": "5分もあれば出来ちゃいます♪おつまみ、お弁当、あと1品という時にすぐ出来て便利✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "三つ葉",
+            "quantity": "1束"
+        },
+        {
+            "name": "なめこ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮タイプ)",
+            "quantity": "大1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に少量のお湯を沸かし、三つ葉を入れてさっと茹でたら水に取る。その鍋でなめこもさっと茹で、ザルにあける",
+        "三つ葉をギュッと絞り、ざく切りにしてなめこと合わせ、めんつゆとみりんを加えて良く混ぜる。出来た!!"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1832635",
+    "advice": "三つ葉を茹でる時、根元を輪ゴムで縛ったまま茹でると、切る時楽々♪めんつゆは種類によって違うので味見して調節してね☆",
+    "history": "定番ですが…",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/なめこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "三つ葉",
+        "なめこ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1832635/100x141c/6a1b0649a6ab3863b59458c53d037d75.jpg?u=2619264&p=1338336977"
+}

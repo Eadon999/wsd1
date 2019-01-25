@@ -1,0 +1,72 @@
+{
+    "name": "給食のナポリタン！フライパン１つ！",
+    "author": {
+        "@type": "Person",
+        "name": "りむゆらマンマ"
+    },
+    "image": "https://img.cpcdn.com/recipes/545237/464x260/0caa00f67daefc4a96130d2317dd4bbe.jpg?u=781107&p=1269077913",
+    "datePublished": "2008-04-05",
+    "description": "懐かしさがこみあげるそんな味。これを２００㌔作ってました。作りたては格別です。",
+    "recipeYield": "２～３人前",
+    "recipeIngredient": [
+        {
+            "name": "ウィンナー",
+            "quantity": "３本"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ７"
+        },
+        {
+            "name": "鶏がらスープ素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "３００ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "深めのフライパンにお湯を沸かし、塩を入れパスタを茹でる。",
+        "パスタを茹でている間に具材を切る。",
+        "パスタをざるにあけ、そのフライパンにバターを入れ具材\r\nを炒める。",
+        "野菜がしんなりしたら調味料、パスタを入れて手早く絡ませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "545237",
+    "advice": "硬めに茹でて具材に味付けしてから混ぜるとべちゃっとしません。パスタに油を少しかけてまぶしておくといいですよ。",
+    "history": "以前働いていた給食センターの味を思い出してレシピにしてみました。 味はパスタの太さや湯切りなどで変わるのでケチャップの量で調整してください。 ２０１０年３月２０日、分かりやすいように修正しました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/ナポリタン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナポリタン 給食"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/545237/100x141c/9bac3847a40b77bdf2bfec50a1db4ea1.jpg?u=781107&p=1269077913"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "ゴーヤとツナのマヨネーズ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1998542/464x260/3f52b42a991d17fd0cfae72ef67d5ad6.jpg?u=2513693&p=1350564652",
+    "datePublished": "2012-10-19",
+    "description": "油じゃなくてマヨネーズで炒めるから、コクが出て苦味もまろやかになって美味しいよ♪ぜひどうぞ。　",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "１本（２００ｇ）"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小１缶（８０ｇ）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは縦半分に切り、種とわたを取り除き、１ミリの薄切りにし、塩を入れた熱湯でさっと茹でざるにあげ水気を絞っておく",
+        "中火で熱したフライパンにマヨネーズを入れ溶かし、①のゴーヤとツナを入れ２分炒め、最後に塩コショウで味を調え完成\n\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1998542",
+    "advice": "",
+    "history": "マヨネーズを油代わりにして野菜を色々炒めたりしています。コクが出て、ゴーヤの場合は苦味もまろやかになるような感じです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "ツナ缶",
+        "マヨネーズ",
+        "塩、こしょう"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/1998542/100x141c/f039daf5a36e8ee4a3befc5743f585c8.jpg?u=2513693&p=1350564652"
+}

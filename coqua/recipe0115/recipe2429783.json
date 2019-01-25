@@ -1,0 +1,54 @@
+{
+    "name": "オッサンの簡単ちりめん雑魚＆鰹節ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2429783/464x260/b88fccfe6de39bf0601a7cdbb1e06181.jpg?u=3323767&p=1386503862",
+    "datePublished": "2013-12-08",
+    "description": "ちりめん雑魚と鰹節の風味は、ご飯とよく合います☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "２膳"
+        },
+        {
+            "name": "ちりめん雑魚",
+            "quantity": "大さじ２(山盛り)"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "小ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ちりめん雑魚・麺つゆ・みりんを混ぜ、ラップをしてレンジで600W１分チンします。",
+        "温かいご飯に、１のちりめん雑魚・鰹節・小ネギの順に盛り付けたら出来上がり☆"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2429783",
+    "advice": "１でレンチンした時、熱いので注意して下さい。",
+    "history": "居酒屋の〆で食べたご飯が美味しかったので、再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちりめんじゃこ ご飯"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2429783/100x141c/49e66df0ff8c5e3241c45302a6f92f21.jpg?u=3323767&p=1386503862"
+}

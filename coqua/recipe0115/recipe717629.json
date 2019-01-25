@@ -1,0 +1,65 @@
+{
+    "name": "【圧力鍋】ゴロゴロ豚バラカレー",
+    "author": {
+        "@type": "Person",
+        "name": "pandyda"
+    },
+    "image": "https://img.cpcdn.com/recipes/717629/464x260/83f4f7de12714d07a5fe39f2e448ce6d.jpg?u=841313&p=1232443970",
+    "datePublished": "2009-01-20",
+    "description": "トロトロの豚バラ入りのカレーです。旨味たっぷりです。2日目がまた美味しい…！",
+    "recipeYield": "12皿分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラブロック",
+            "quantity": "400g"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "4個"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "2個"
+        },
+        {
+            "name": "水",
+            "quantity": "1リットル"
+        },
+        {
+            "name": "カレールウ（こくまろ使用）",
+            "quantity": "1箱"
+        },
+        {
+            "name": "チョコレート",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "お好み焼き用ソース",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラブロックは食べ易い大きさに切る。じゃがいも、人参も同様に切り分け、玉葱は1個分みじんぎりにする。",
+        "圧力鍋に材料を全て入れ、水から一煮立ちさせる。灰汁を取り除く。",
+        "蓋をし10分加圧し自然放置する。安全装置が解除されたら蓋をあける。（お持ちの鍋の取り扱いに準じてください）",
+        "カレールウとチョコレート、ソースをいれまぜながらよく溶かし、こげないよう一煮立ちさせて完成！",
+        "2009年7月23日つくれぽ10人になりました♪ありがとうございます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "717629",
+    "advice": "圧力鍋はティファールのClipsoプレミアを使用しました。",
+    "history": "豚バラがとろ〜っと大好きです",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/ポークカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "圧力鍋 カレー ゴロゴロ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/717629/100x141c/fdb9d1e12413d16ccd3b422b6b76efca.jpg?u=841313&p=1232443970"
+}

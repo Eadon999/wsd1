@@ -1,0 +1,64 @@
+{
+    "name": "ささみのレモンソース",
+    "author": {
+        "@type": "Person",
+        "name": "Missねこやま"
+    },
+    "image": "https://img.cpcdn.com/recipes/2063893/464x260/f815d81f93a61a0ead6f93c0fb4aac31.jpg?u=5129390&p=1356103307",
+    "datePublished": "2012-12-22",
+    "description": "話題入り感謝^_^　いつものささ身が簡単に立派なメイン料理に。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ささ身",
+            "quantity": "12身"
+        },
+        {
+            "name": "レモン絞り汁",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "1個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "1カップ強"
+        },
+        {
+            "name": "パセリのみじん切り",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋を取り軽く塩こしょうして小麦粉をまぶす。",
+        "フライパンに油を入れささ身をこんがりと焼く。この時あまり触らないようにする。焼けたら一度取り出す。",
+        "同じフライパンに水とコンソメを入れて木べらで鍋底についたうまみをこそぎ落とすようにする。ささ身を戻し軽く煮立たせる。",
+        "そこへバターとレモン汁を入れて軽く火を通しソースに濃度がでてきたら火を止める。皿に盛りソースをかける。パセリをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2063893",
+    "advice": "レモンの酸味、塩加減はお好みで調節して下さい。",
+    "history": "冷蔵庫にささ身くらいしかなく、フライにもしたくなかった時に家にある材料で何か〜と考えついたのがコレ。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 簡単 メイン"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2063893/100x141c/12ca733b5eccbe33d5b75c611f63119b.jpg?u=5129390&p=1356103307"
+}

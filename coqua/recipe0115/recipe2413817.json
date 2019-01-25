@@ -1,0 +1,60 @@
+{
+    "name": "青梗菜・キャベツとさつま揚げのサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2413817/464x260/efb839dab0deb1e51dcebb263b1553ec.jpg?u=7402421&p=1435017722",
+    "datePublished": "2013-11-22",
+    "description": "生野菜バリバリ☆食物繊維たっぷり♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "1株（100g）"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "100g"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "1枚（22g）"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個（200g）"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は幅5ミリに切り、キャベツは千切りにする。\nチンゲン菜とキャベツに、塩（分量外）少々をふってしんなりさせる。",
+        "さつま揚げは細切りにして、トマトは薄くスライスする。",
+        "チンゲン菜とキャベツを、さっと水洗いしてから、ぎゅーっとしぼって、トマトと一緒に、器に盛り付ける。",
+        "さつま揚げをトッピングして、レモン酢醤油をかけて、いただきま～す♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2413817",
+    "advice": "さつま揚げの代わりに、竹輪や蒲鉾でも。",
+    "history": "あれもこれもと、野菜を買いすぎて、冷蔵庫がぱんぱんなのです♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 キャベツ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2413817/100x141c/edbfc2f1c152e716e9f22cc019c0b8b4.jpg?u=7402421&p=1435017722"
+}

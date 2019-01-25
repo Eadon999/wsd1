@@ -1,0 +1,49 @@
+{
+    "name": "納豆シラス丼並なご飯☆",
+    "author": {
+        "@type": "Person",
+        "name": "りんごあっぷる"
+    },
+    "image": "https://img.cpcdn.com/recipes/897685/464x260/8697d8ff38ad7a14acb56e704027b658.jpg?u=1291715&p=1251371604",
+    "datePublished": "2009-08-27",
+    "description": "2010/09/12話題入り有難うございます！納豆とシラスと小ネギを混ぜて簡単すぎヘルシーなお腹いっぱいご飯になります♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆パック",
+            "quantity": "小２個"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "小ねぎ",
+            "quantity": "小さじ２（お好み）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "小ネギを細かく切る。",
+        "納豆２パックは醤油を入れて混ぜ合わせておく。",
+        "お皿にご飯を盛りつけて、納豆→しらす→小ネギの順にのせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "897685",
+    "advice": "簡単なので醤油や小ネギはお好みで♪ボリュームがあるので朝食に♪元気つきます♪",
+    "history": "納豆だけじゃ物足りない時に、大好きなシラス丼を思い出して作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらす",
+        "小ねぎ",
+        "醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/897685/100x141c/06623e3cd2f7d32553fbdb4b6a03ba10.jpg?u=1291715&p=1251371604"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "春の七草がゆ",
+    "author": {
+        "@type": "Person",
+        "name": "Mrs.Kelley"
+    },
+    "image": "https://img.cpcdn.com/recipes/317258/464x260/3bb37e5c1e9706bf3bfef097e2e21ff4.jpg?u=360976&p=1214214440",
+    "datePublished": "2007-01-09",
+    "description": "日本の風習の１つ、春の七草粥を作りました。 2009．1.8話題入りさせていただきました。皆様有難うございます",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "七草",
+            "quantity": "市販のセット１箱"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "お茶碗３杯分"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "５００cc"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "おもち",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "七草は軽く下茹でし、細かく刻んでおく。\r\nおもちはさいの目に切る。",
+        "お鍋にだし汁を入れる(今回は昆布と鰹だしを使いました)。\r\nそこに冷ご飯を入れて火にかける。",
+        "ご飯がやわらかくなったら①の七草、おもち、ツナ缶を汁ごと加えてひと煮立ちさせる。",
+        "塩で味を調えて、最後にしょうゆを加え風味を出す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "317258",
+    "advice": "ツナは汁ごと入れたほうがだしが出てより美味しくなります＾＾",
+    "history": "日本の食の風習を外国人のご主人様に教えたくて作りました。これまでは毎年母が作ってくれていましたが、今回初めて挑戦しましたw",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "七草粥",
+        "七草粥 ツナ",
+        "春の七草粥"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/317258/100x141c/cf0114f39829908b09871a18d7abe40b.jpg?u=360976&p=1214214440"
+}

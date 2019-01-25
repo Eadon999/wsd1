@@ -1,0 +1,54 @@
+{
+    "name": "お弁当の隙間埋めに☆簡単かぼチーベー♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/333365/464x260/68c0f0753d7cb89634171c0e413a37e5.jpg?u=42283&p=1214214780",
+    "datePublished": "2007-02-20",
+    "description": "他のおかずを作っている間に、かぼちゃを茹でて（又は酒振りレンジでも）ササッとサラダです(o^-')o",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "小振りの４分の１個"
+        },
+        {
+            "name": "とろけるスライスチーズ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "クレージーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは皮ごと茹でて、又は酒振ってレンジでも、粗く潰す。とろけるスライスチーズとベーコンを角切りにして、余熱でチーズを軽く溶かして混ぜる。クレージーソルトで味付けする。",
+        "生パセリをお好みで微塵切りにして散らす。出来上がりです(人´∀｀o)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "333365",
+    "advice": "かぼちゃの甘さによって、クレージーソルトの量が変わります（＾人＾）",
+    "history": "お弁当に手早くできるおかずを考えていて(。^_・)ノ　",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "とろけるスライスチーズ",
+        "ベーコン",
+        "クレージーソルト"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/333365/100x141c/8eb915e0a0047614a7bce17619860c37.jpg?u=42283&p=1214214780"
+}

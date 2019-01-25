@@ -1,0 +1,67 @@
+{
+    "name": "簡単！たけのこご飯",
+    "author": {
+        "@type": "Person",
+        "name": "きみぽん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/364364/464x260/c350b0f0ce55a252c34f1d6ead3376c0.jpg?u=273089&p=1214215458",
+    "datePublished": "2007-04-28",
+    "description": "春です！たけのこの季節です！おいしいたけのこご飯食べませんか(^_-)-☆？ 上品なお味でおいしいですよ！",
+    "recipeYield": "３、４人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "たけのこ",
+            "quantity": "１/２本（２００ｇ）"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "根元５ｃｍ"
+        },
+        {
+            "name": "鶏肉",
+            "quantity": "１/２枚（約１２０ｇ）"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大３"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのこ→いちょう切り\r\n人参・油揚げ→千切り\r\n鶏肉→１ｃｍ角切り",
+        "いったん水加減を２合の目盛りに合わせ、水を１００ｃｃ減らしてから、酒・醤油・みりんを入れる",
+        "たけのこ、油揚げ、人参、鶏肉をのせてスイッチON！\r\n",
+        "出来上がり～～"
+    ],
+    "cookTime": null,
+    "recipe_id": "364364",
+    "advice": "水加減だけ気をつけてください",
+    "history": "実家から旬の竹の子を頂いたので作ってみました(^o^)丿",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "たけのこ",
+        "油揚げ",
+        "人参"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/364364/100x141c/8fc73ec1e905003a2377c2223a5741a2.jpg?u=273089&p=1214215458"
+}

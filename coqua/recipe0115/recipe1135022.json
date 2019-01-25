@@ -1,0 +1,56 @@
+{
+    "name": "キャベツが美味しい！アサリの酒蒸し♪",
+    "author": {
+        "@type": "Person",
+        "name": "パルフェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1135022/464x260/4c86eb0a58cb494dd8faba1d06b25b5e.jpg?u=61922&p=1274573268",
+    "datePublished": "2010-05-23",
+    "description": "アサリのうまみがキャベツにしみこんでめちゃうま♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "200g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "100g"
+        },
+        {
+            "name": "バター",
+            "quantity": "15g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アサリはしっかりと塩抜きしておく。\nキャベツは粗めの千切り、にんにくはみじん切りにする。",
+        "耐熱容器にキャベツを敷き詰め、その上にアサリを並べる。",
+        "バターをちぎりながら散らして、酒、にんにくを加えてラップをかける。",
+        "電子レンジ（６００Ｗ）で２～３分加熱、アサリの口が開けば完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1135022",
+    "advice": "アサリのうまみ、キャベツの甘みが染み出たスープが美味しいのでパスタに絡めてもいいかも？",
+    "history": "アサリが安くて、春キャベツの美味しい季節だったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "キャベツ",
+        "バター",
+        "酒"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1135022/100x141c/6dd5f6182ba379ce54a0dbf38fb59a9e.jpg?u=61922&p=1274573268"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "スタミナねばねば丼",
+    "author": {
+        "@type": "Person",
+        "name": "CookinCool"
+    },
+    "image": "https://img.cpcdn.com/recipes/2271779/464x260/caf3b24646381fefcd1ac5172dc7ba0b.jpg?u=7044192&p=1372505883",
+    "datePublished": "2013-06-29",
+    "description": "夏バテをふっとばすスタミナ丼",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "山芋",
+            "quantity": "10ｃｍ"
+        },
+        {
+            "name": "納豆",
+            "quantity": "２パック"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "７本"
+        },
+        {
+            "name": "まぐろ(刺身用)",
+            "quantity": "数キレ"
+        },
+        {
+            "name": "玉子",
+            "quantity": "３個"
+        },
+        {
+            "name": "海苔",
+            "quantity": "少々"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "山芋をすり、納豆を刻み、オクラは塩ゆでして刻み、マグロを小切りにする",
+        "マグロは高かったので海鮮チラシセットの中からマグロだけ取り出した！",
+        "最後に玉子の黄身と海苔を刻んで炊き立てご飯の上に乗せるだけ",
+        "食べるときは薄口醤油をお好みで掛けて食べます。わさび醤油も美味しい"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2271779",
+    "advice": "あったかいご飯の上に乗せるだけの簡単レシピ！本当はモロヘイヤやメカブを入れようと思ったが売ってなかったのであきらめた…今度はもっと乗せよう！",
+    "history": "ねばねばの食材が大好きで会社の食堂でもねばねばのものを探してはご飯に乗せて食べてます！夏は特にこういう食材が食べやすいと思い作りました！家族にも好評で満足！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ネバネバ丼"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2271779/100x141c/fc7e11fe30c2208f7d0827c5943b1a5e.jpg?u=7044192&p=1372505883"
+}

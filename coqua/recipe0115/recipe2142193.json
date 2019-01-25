@@ -1,0 +1,66 @@
+{
+    "name": "生ハムサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "のんちゃん921"
+    },
+    "image": "https://img.cpcdn.com/recipes/2142193/464x260/b36838bff85fc5ac14102284eeef4c85.jpg?u=3740638&p=1443684871",
+    "datePublished": "2013-03-05",
+    "description": "そのままでも、パンにはさんでも、ワインなどのおつまみにも合うサラダです♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生ハム",
+            "quantity": "１００ｇ前後"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ベビーリーフ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ベビーチーズ",
+            "quantity": "３個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトとアボカドは食べやすい大きさに切る。",
+        "ベビーチーズは小さい角切りにする。",
+        "お皿に全部を盛って、\nオリーブオイルと塩とブラックペッパーをかけてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2142193",
+    "advice": "ベビーチーズじゃなくてスライスチーズでもOKです。他の野菜やスモークサーモンを使っても美味しいです。",
+    "history": "私の大好きな物ばっかりのせて、ドレッシングは苦手なのでオリーブオイルと塩でサラダを作りました。家族にも好評で定番になりました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/お肉を使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生ハム",
+        "トマト",
+        "アボカド",
+        "ベビーリーフ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2142193/100x141c/ff956c8306f0aa909daf8ff6ed3dbcd2.jpg?u=3740638&p=1443684871"
+}

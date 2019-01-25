@@ -1,0 +1,58 @@
+{
+    "name": "✿鶏胸肉でヘルシー✿鶏生姜焼き♫♫",
+    "author": {
+        "@type": "Person",
+        "name": "かのん２９"
+    },
+    "image": "https://img.cpcdn.com/recipes/1231832/464x260/aa576457c8a85811acec0d2dcad792e5.jpg?u=212281&p=1388910454",
+    "datePublished": "2010-09-12",
+    "description": "味付け濃い目ボリューム満点！ご飯が進みますよヾ(●´∀｀●）話題入りありがとうございました(  ´∀`  )ノ ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "２枚（４００グラム）"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒　みりん",
+            "quantity": "各大さじ１と２分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３と２分の１"
+        },
+        {
+            "name": "生姜のすりおろし",
+            "quantity": "大１かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉1.5cmのそぎ切りにする。片面は包丁で軽くたたいて薄く伸ばし小麦粉を薄くまぶす。たれの材料は合わせておく。",
+        "フライパンにサラダ油を引き鶏肉のたたいた面を上にして並べ両面を焼く。",
+        "肉が焼けたらたれを回し入れて強火で肉にからめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1231832",
+    "advice": "たたくとお肉が柔らかで　表面の凸凹でたれもからまりやすくなりますﾟ+*｡(*UωUp嬉q)｡*+ﾟ",
+    "history": "あっさりとした胸肉をご飯のおかずに濃い目に味付けしたくて♫",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "小麦粉",
+        "サラダ油",
+        "醤油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1231832/100x141c/32aad48b113bd70ebff461a44c5655aa.jpg?u=212281&p=1388910454"
+}

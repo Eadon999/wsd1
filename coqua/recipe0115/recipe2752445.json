@@ -1,0 +1,58 @@
+{
+    "name": "自宅で簡単・豪華に　キャロットラペ",
+    "author": {
+        "@type": "Person",
+        "name": "辛三郎"
+    },
+    "image": "https://img.cpcdn.com/recipes/2752445/464x260/6e413c0b79e5e45ca2ecf7e0110d9e59.jpg?u=4730249&p=1408225372",
+    "datePublished": "2014-08-17",
+    "description": "にんじんの大量消費に甘酸ソースでさっぱりと",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "2本"
+        },
+        {
+            "name": "イタリアンパセリ",
+            "quantity": "1株程度"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "レモン汁（省略可）",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "【下準備】\n・にんじん：千切りにしておく\n・イタリアンパセリ：一部を飾り用に、一部はみじん切りにしておく",
+        "【調理】\nボールに全材料を入れ、よく和える\n\nお皿に盛り、最後にイタリアンパセリを添えて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2752445",
+    "advice": "にんじん嫌いでも甘酸っぱいソースでモリモリ食べられますにんじんはできるだけ細く千切りにしておく",
+    "history": "友人宅で食べてレシピを教わりましたマスタードとレモンを入れるのがコツです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イタリアンパセリ 大量消費"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2752445/100x141c/c7feb0a6d143509c1f33bc25a40b1105.jpg?u=4730249&p=1408225372"
+}

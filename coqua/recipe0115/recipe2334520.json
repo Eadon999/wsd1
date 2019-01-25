@@ -1,0 +1,71 @@
+{
+    "name": "牛肉と玉ねぎの甘辛焼き",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/2334520/464x260/18425c407d3b6b4f0520ae6615afb54b.jpg?u=533232&p=1509279953",
+    "datePublished": "2013-09-04",
+    "description": "みんなが好きな甘辛味の家庭料理です2014.02.13　話題入り感謝♡",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉の薄切り",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "2個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1片"
+        },
+        {
+            "name": "ごま",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆だしの素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "☆の材料を混ぜてたれを作っておきます",
+        "玉ねぎは1個はスライス1個は輪切りにしておきます",
+        "フライパンにごま油を入れ、千切りにした生姜を入れて、２のたまねぎを炒めます",
+        "玉ねぎに火が通ったら牛肉を加えて表面に軽く火が通ったら１のたれを加えて全体に絡まったら出来上がりです",
+        "皿にお野菜などと一緒に盛り付け、ごまを振ってお召し上がりください",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2334520",
+    "advice": "玉ねぎは切り方を替えて食感を楽しみます。玉ねぎにしっかり火を通してからお肉を入れると玉ねぎが柔らかくなります。",
+    "history": "薄切りの肉でしっかりした味付けの定番メニューです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ",
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 甘辛焼き"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2334520/100x141c/5b98069f912e8722f27a9bb8a3e5fb55.jpg?u=533232&p=1509279953"
+}

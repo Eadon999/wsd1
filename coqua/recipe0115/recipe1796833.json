@@ -1,0 +1,53 @@
+{
+    "name": "納豆・梅干し・ごま丼",
+    "author": {
+        "@type": "Person",
+        "name": "ねこのかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1796833/464x260/e36896a9ffab9a574e4255cabd8b0a80.jpg?u=4117562&p=1335742863",
+    "datePublished": "2012-04-30",
+    "description": "混ぜるだけだから、朝食や夜食に最適！！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗1杯"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "梅干",
+            "quantity": "1個"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "海苔",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干は、種を取り除き刻む。付属のたれをかけた納豆と梅干を混ぜる。",
+        "切った海苔をご飯にのせ、その上に納豆をかける。ごまを振りかければ出来上がり！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1796833",
+    "advice": "特にありません。混ぜるだけ＾＾",
+    "history": "夫に\"ごまを使った料理を考えて\"といったら考えてくれました♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "納豆",
+        "梅干",
+        "いりごま"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1796833/100x141c/abcddb65b2afac320839a7c90d19f32a.jpg?u=4117562&p=1335742863"
+}

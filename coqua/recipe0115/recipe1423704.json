@@ -1,0 +1,54 @@
+{
+    "name": "ほっくり♡マッシュポテト",
+    "author": {
+        "@type": "Person",
+        "name": "そらら82"
+    },
+    "image": "https://img.cpcdn.com/recipes/1423704/464x260/4ec0eb001b6bd07439f8ffa95bc5aa81.jpg?u=749647&p=1307620019",
+    "datePublished": "2011-04-28",
+    "description": "☆2013.2.1 レポ100人達成 大感謝☆クリーミー過ぎない、私好みのマッシュポテトです(◕‿◕❤",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋（男爵）",
+            "quantity": "（約300g）2個"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "50ml"
+        },
+        {
+            "name": "バター（マーガリンでも）",
+            "quantity": "10g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋をよく洗って皮ごと半分に切り、耐熱皿に並べてふんわりラップをかけて３分加熱。裏返してもう3分加熱。",
+        "熱いうちに皮を剥いて小鍋に入れてマッシャーで潰す。\nバター、塩を入れてヘラで混ぜ、牛乳を半量づつ加えて混ぜる。",
+        "弱火で3分程、ヘラで混ぜながら水分をしっかり飛ばす。\n胡椒で味を調えて できあがり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1423704",
+    "advice": "",
+    "history": "付け合わせのマッシュポテト、生クリームやサワクリームを使わずにシンプルに作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "牛乳",
+        "バター",
+        "塩"
+    ],
+    "tsukurepo_count": "191",
+    "thumbnail": "https://img.cpcdn.com/recipes/1423704/100x141c/03cf62fa409eabbd9419ba1ee7fec854.jpg?u=749647&p=1307620019"
+}

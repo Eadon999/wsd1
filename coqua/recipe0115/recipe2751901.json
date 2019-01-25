@@ -1,0 +1,54 @@
+{
+    "name": "白菜・わかめ・あげのみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2751901/464x260/332bc851f23340eb3c1d66e2bf48aa57.jpg?u=3099986&p=1408178300",
+    "datePublished": "2014-08-16",
+    "description": "白菜煮ると甘くておいしい。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜(ザク切り)",
+            "quantity": "2枚"
+        },
+        {
+            "name": "あげ(たんざく切り)",
+            "quantity": "小1枚"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "水",
+            "quantity": "400ｃｃくらい"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2くらい"
+        },
+        {
+            "name": "青ネギ(きざんでおく)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜・あげ・わかめ・水を入れて煮る。\n味噌を入れる。",
+        "器の盛り、青ネギを入れる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2751901",
+    "advice": "味噌を入れてからはあまり煮たてないようにします。",
+    "history": "好みの具材をあわせました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌汁　あげ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2751901/100x141c/742caac66c9c7919c6e2ec0ddd6c3de2.jpg?u=3099986&p=1408178300"
+}

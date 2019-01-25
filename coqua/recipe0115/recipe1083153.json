@@ -1,0 +1,65 @@
+{
+    "name": "豆腐とはんぺんのふわふわツナオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "tarragon"
+    },
+    "image": "https://img.cpcdn.com/recipes/1083153/464x260/f6ecc64679b7f46826820a3fc2e04ec6.jpg?u=1041181&p=1269784276",
+    "datePublished": "2010-03-28",
+    "description": "レンジとトースターを使い10分でできちゃう、包丁なしでぱぱっと作っちゃいますよ〜♪ズボラな私もこれならすぐ作ります。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "はんぺん",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "小2"
+        },
+        {
+            "name": "A　卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "A　塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "木綿豆腐をキッチンペーパーで包み500ｗで2分加熱しザルにあげておく。\nはんぺんは袋ごともみもみして潰しておく。",
+        "耐熱容器にツナ缶の油を入れ全体に塗り①の水切りした豆腐は一口大にし、はんぺんと一緒に器の中に並べる。\n",
+        "ツナを乗せよく混ぜたＡをかけ、チーズごまマヨをのせる。",
+        "②を500ｗのレンジで4分加熱する。\nレンジから取り出しトースターに入れ焦げ目をつけたらできがり〜。\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1083153",
+    "advice": "マヨの乗せかたがかなり雑ですが（笑）、チーズと混ぜてからのせてもOK♪",
+    "history": "「卵料理、食べたい！」っていう時によく登場するズボラオムレツは時間がない時におすすめな定番。その他ぱぱっとできて簡単おすすめレシピブログ 『タラゴンの挿し木』 http://ameblo.jp/tarragon/",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 ツナ はんぺん",
+        "はんぺんオムレツ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1083153/100x141c/b6e8f658752fa48032b0f423c9bb4ce4.jpg?u=1041181&p=1269784276"
+}

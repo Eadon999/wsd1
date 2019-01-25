@@ -1,0 +1,50 @@
+{
+    "name": "じゃがもち",
+    "author": {
+        "@type": "Person",
+        "name": "T☆moco"
+    },
+    "image": "https://img.cpcdn.com/recipes/3988253/464x260/6a714c535350801ca9ac3ad21da19b77.jpg?u=9614233&p=1469148594",
+    "datePublished": "2016-07-22",
+    "description": "簡単です❤️おやつに、おつまみに如何でしょう✨2016.8.1人気検索一位✨8.26カテゴリ掲載。9.13話題入り✨",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "二個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモをカットし、耐熱容器に入れてレンジで加熱する。(ラップする)",
+        "①のジャガイモを潰して、片栗粉と塩を加えて混ぜる。",
+        "②を丸めて、中にチーズを入れて少し押し潰し、フライパンで両面こんがり焼く。\nバターで焼くのがオススメです。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "3988253",
+    "advice": "白玉粉で作っても✌︎",
+    "history": "子供のおやつに作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがもち",
+        "じゃがもち 簡単",
+        "じゃがもち チーズ"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/3988253/100x141c/2cd99297477538ac49e606cb43fb6122.jpg?u=9614233&p=1469148594"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "もやしとハムの中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/455621/464x260/6e1bd0e10019ca3e9541bd16420d8b00.jpg?u=322945&p=1214217711",
+    "datePublished": "2007-11-06",
+    "description": "もやしとハムを中華風に和えました。さっぱりなのでいくらでも食べれちゃいます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "一袋"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★味の素",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ1/２"
+        },
+        {
+            "name": "★白いりごま",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料をボールにあわせておく。\r\n鍋にたっぷりの湯をわかし、もやしをさっと茹で（１分以内）ざるにあけて水をよーーく切っておく）。",
+        "もやしの粗熱がとれたら冷蔵庫で冷し、もやしとハムを１のボールに入れ和える。\r\n完成。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "455621",
+    "advice": "もやしの水をよく切って、できるだけ食べる直前に和えてください。",
+    "history": "ムーくんのレシピがとっても美味しく、もやしとハムで和えても美味しかったのでレシピアップさせて頂きました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ハム",
+        "醤油",
+        "酢"
+    ],
+    "tsukurepo_count": "97",
+    "thumbnail": "https://img.cpcdn.com/recipes/455621/100x141c/730f85c71ea8f1bb8a45ee97b11978ec.jpg?u=322945&p=1214217711"
+}

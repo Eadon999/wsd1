@@ -1,0 +1,76 @@
+{
+    "name": "豚平焼き。簡単おかず☆",
+    "author": {
+        "@type": "Person",
+        "name": "yumi。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2710946/464x260/d706a4f0e4b2c8a57e48b434abc0f037.jpg?u=1119372&p=1405331561",
+    "datePublished": "2014-07-14",
+    "description": "簡単にできるのに、ご飯に合う！材料もざっくりで大丈夫！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "薄切り豚肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "キャベツの千切り",
+            "quantity": "２つかみ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "チーズ(とけるタイプ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大1"
+        },
+        {
+            "name": "お好みソース",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を一口大に切り、塩コショウをして炒める。",
+        "キャベツ、ネギを加えさっと炒めて、上げておく。",
+        "卵、マヨネーズを混ぜて、半熟な感じに焼き火を止める",
+        "真ん中にチーズ、炒めた具材をのせる。",
+        "木べらやフライ返しで、フライパンの端によせ、お皿にひっくり返して完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2710946",
+    "advice": "もやしを入れるのもおすすめです。",
+    "history": "今日はご飯作りたくない。ってとき。ささっと(適当に)作ったら、旦那大絶賛！！笑",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯に合う おかず キャベツ",
+        "キャベツの千切り おかず",
+        "ご飯に合う おかず 簡単",
+        "とんぺい焼き"
+    ],
+    "tsukurepo_count": "194",
+    "thumbnail": "https://img.cpcdn.com/recipes/2710946/100x141c/84ad77d99760f44372a9a360656fd756.jpg?u=1119372&p=1405331561"
+}

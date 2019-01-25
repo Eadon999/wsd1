@@ -1,0 +1,53 @@
+{
+    "name": "おかず、お弁当に❤エノキ入りちくわ揚げ❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/2327805/464x260/a288166a2f9ed3b889a448f7d593fcf3.jpg?u=2619264&p=1377739757",
+    "datePublished": "2013-09-02",
+    "description": "エノキの歯ごたえがいい♪簡単に出来るので朝の時間のないときでも便利✿",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "４本"
+        },
+        {
+            "name": "えのき",
+            "quantity": "３０g"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大３"
+        },
+        {
+            "name": "青のり",
+            "quantity": "小1~2"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわに縦の切れ目を入れて中にエノキを詰め、半分に切る。",
+        "小麦粉と同量の水、青のりを入れて混ぜ、①をつけて1㎝幅に切った海苔を巻いて揚げる。塩を振るかしょうゆをかけて♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2327805",
+    "advice": "のりは衣でうまいことくっつきます（＾−＾）不安な時は油に入れた時に5秒ほど箸でつなぎ目をおさえて揚げれば大丈夫。",
+    "history": "ちくわの穴ってなぜか何か入れたくなる(笑)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "えのき",
+        "小麦粉",
+        "青のり"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2327805/100x141c/05c87288e956039295ee150e0e249e75.jpg?u=2619264&p=1377739757"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ゴママヨにんじんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "たく＆ももママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2479183/464x260/c76a6fa0c1ff4028cb578f15d3186542.jpg?u=2698854&p=1390865430",
+    "datePublished": "2014-01-28",
+    "description": "家にあるもので、和えるだけの簡単サラダです。にんじんサラダの人気検索でトップ１０に入りました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじん(千切り)",
+            "quantity": "1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "すりごま(白)",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんを千切りにし、塩をふってしばらくおく。",
+        "マヨネーズにごま、みりん、しょうゆ、を混ぜておく。",
+        "にんじんの水気をしぼり、マヨネーズとあえる。",
+        "５月13日話題入りしました。\nありがとうございます"
+    ],
+    "cookTime": null,
+    "recipe_id": "2479183",
+    "advice": "ごまたっぷりがおいしいです。",
+    "history": "家にあるもので、あと一品何かできないかと考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "マヨネーズ",
+        "すりごま",
+        "みりん"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2479183/100x141c/24e6161cf45b431fdc992f8e397c9d1b.jpg?u=2698854&p=1390865430"
+}

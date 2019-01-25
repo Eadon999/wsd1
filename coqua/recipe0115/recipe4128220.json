@@ -1,0 +1,57 @@
+{
+    "name": "風邪予防！たっぷり葱と鶏肉の生姜炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4128220/464x260/9136aed6e94259a57a825a7865b26645.jpg?u=4376699&p=1476716164",
+    "datePublished": "2016-10-19",
+    "description": "大きなネギをまるまる1本！じっくり炒めてとろとろ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "葱",
+            "quantity": "1本"
+        },
+        {
+            "name": "もも肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "1cm"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜の皮はスプーンで削ぐ\n薄切りにして千切り",
+        "葱は小口切りにする\nももは小さく切る",
+        "油少々とにんにくでネギを中火で3分炒める\n肉を加えて軽く炒める\n",
+        "ほんだしと水を加えて中火で2分蒸し焼きにして完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4128220",
+    "advice": "葱は葉も入れてとろとろにしました葱の下処理　ID:4128639",
+    "history": "親子丼にしようとして生姜炒めに変更しました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにく しょうが 風邪",
+        "鶏肉ネギ炒め"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4128220/100x141c/ff6765de80a22d3d4100b1e7096c29c5.jpg?u=4376699&p=1476716164"
+}

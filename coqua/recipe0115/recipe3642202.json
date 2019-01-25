@@ -1,0 +1,62 @@
+{
+    "name": "おからの洋風からし酢味噌和えサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "二角形"
+    },
+    "image": "https://img.cpcdn.com/recipes/3642202/464x260/880019ec3fc08c31d5fdd4dcfe50dc5e.jpg?u=10351362&p=1453679080",
+    "datePublished": "2016-01-27",
+    "description": "マヨネーズを使わないぬた風おからサラダです。食物繊維たっぷり、ノンオイルでヘルシーだからダイエットにも♪レンジで簡単！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "50g"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1／4本"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酢(あればワインビネガー)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "☆粒マスタード",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "おからをレンジ(600w)で2分加熱して冷ましておく。その間にねぎと人参を粗めのみじん切りにする。",
+        "人参とネギ をレンジ(600w)で2分チン。取り出して熱いうちに☆で和える。",
+        "おからを加えてよく混ぜる。冷蔵庫で冷やしたら完成です(*^^*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "3642202",
+    "advice": "野菜はキャベツとかでも美味しいかも。",
+    "history": "おからの煮物以外の使い方をしたくて。サラダだとマヨネーズを使うレシピが多いので自分なりに工夫してみました。粒マスタードとワインビネガーで少し変わったからし酢味噌で和えてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "ネギ",
+        "人参",
+        "味噌"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3642202/100x141c/b9b24c949b809adbbedfb168cde2eaa2.jpg?u=10351362&p=1453679080"
+}

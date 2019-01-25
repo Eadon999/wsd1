@@ -1,0 +1,63 @@
+{
+    "name": "白ゴーヤの味噌から揚げ♪",
+    "author": {
+        "@type": "Person",
+        "name": "amamitu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1524907/464x260/068b0807ef4983d01685a8c935dcfa56.jpg?u=1715950&p=1313561192",
+    "datePublished": "2011-08-17",
+    "description": "白いゴーヤがあるって知ってますか？緑のゴーヤでも是非作って見て下さいね～☆ホクホクで美味しいょ～♪",
+    "recipeYield": "ゴーヤ１本分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ（今回は白・緑でもＯＫ）",
+            "quantity": "１本"
+        },
+        {
+            "name": "●合わせ味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大１/２"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは縦半分に切り、種と綿を綺麗に取り除き、１ｃｍ幅に切り、塩を振って暫く置く。水分が出たら水で洗って、よく拭き取る。",
+        "ボウルに●の調味料を入れて、ゴーヤと混ぜ合わせて、暫く置き、下味をつける。",
+        "下味が付いたら、片栗粉をまぶし、少ない油でカラっと揚げ出来上がり～☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1524907",
+    "advice": "下味がついているので、そのまま食べてもＯＫ～♪何かつけるとしたらぁ・・・・塩かな？（＾−＾）ｖ",
+    "history": "ゴーヤの苦味を抑えて、なんとか美味しく食べたい！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌唐揚げ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1524907/100x141c/d4cc33fd023bb7c675dbfa4c95fb4819.jpg?u=1715950&p=1313561192"
+}

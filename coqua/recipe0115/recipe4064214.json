@@ -1,0 +1,47 @@
+{
+    "name": "簡単！アスパラガスとベーコンのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4064214/464x260/fdafc345ece8d6c4d23175f5b530e9ec.jpg?u=4376699&p=1473575485",
+    "datePublished": "2016-09-11",
+    "description": "疲労回復アスパラギン酸をまるまるスープで！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アスパラガス",
+            "quantity": "1/3束"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラガスを3等分\n一番下の固い部分でＯＫ",
+        "小さく切る\nベーコンを切って材料を小鍋に入れコトコト煮て完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4064214",
+    "advice": "ゆっくりことこと煮てアスパラが柔らかくなったらＯＫ",
+    "history": "固いアスパラをスープにまるまるいただいて疲労回復",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラガス スープ",
+        "アスパラ ベーコン スープ"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/4064214/100x141c/101a7a921af7a440b533c8ea7621d608.jpg?u=4376699&p=1473575485"
+}

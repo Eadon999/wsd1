@@ -1,0 +1,58 @@
+{
+    "name": "切干大根と貝割れのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Drako"
+    },
+    "image": "https://img.cpcdn.com/recipes/1831003/464x260/699864da041d9c8fb52a2ac9d1f60f28.jpg?u=2856226&p=1391991433",
+    "datePublished": "2012-05-29",
+    "description": "★話題入り感謝★サクサクに焼いた油揚げが、とってもいい仕事してます♪ポン酢とオリーブオイル意外に合います！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "1パック"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "大1枚（小さめなら２枚）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆ポン酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根は水で戻す。（30分くらい）戻ったらぎゅっと水気を絞っておく。",
+        "油揚げを細切りにし、ごま油を熱したフライパンでこんがりするまで炒る。",
+        "①の切干大根、②の油揚げと、根元を切った貝割れと☆を合わせて、よく混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1831003",
+    "advice": "少し時間をおいたほうが、味がなじんでおいしいと思います。",
+    "history": "友人宅でいただいて、とってもおいしかったサラダ☆材料だけ聞いたので、何回か作ってみて、おいしかった分量を覚書としてレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "貝割れ大根",
+        "油揚げ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1831003/100x141c/2fb526d67033f9067866d8fa04d0b0fd.jpg?u=2856226&p=1391991433"
+}

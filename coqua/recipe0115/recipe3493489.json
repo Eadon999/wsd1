@@ -1,0 +1,49 @@
+{
+    "name": "簡単☆だし巻き風玉子焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/3493489/464x260/d8dfa29c193498d0d502819a23efeb72.jpg?u=1690437&p=1446519077",
+    "datePublished": "2015-11-03",
+    "description": "だしの素で作る、だしの効いた「だし巻き風玉子焼き」♪",
+    "recipeYield": "卵2個分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "だしの素(粉末)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに卵を割り入れよくときほぐす。\n\n水とだしの素を加え更によく混ぜる。",
+        "フライパン又は玉子焼き器を熱し油を塗って卵液を2/3入れ素早く半熟に焼き奥から手前に向かって巻く。",
+        "奥の方に油を塗って玉子焼きを寄せ手前にも油を塗る。\n残りの卵液を入れ焼いた玉子焼きの下に箸を入れ卵液を流し入れる。",
+        "奥から手前に巻いて出来上がり。\n食べやすい大きさに切って皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3493489",
+    "advice": "半熟にしてから巻くので巻きやすい。何度も巻かなくていい焼き方です。",
+    "history": "だしの効いた玉子焼きが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "だしの素"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3493489/100x141c/11e472bcb47094be47f6f218eb18e237.jpg?u=1690437&p=1446519077"
+}

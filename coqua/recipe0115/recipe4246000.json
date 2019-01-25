@@ -1,0 +1,58 @@
+{
+    "name": "カレー風味のサーモンのムニエル",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/4246000/464x260/e0a3b5edc7dc1147c15c1ee219b025bc.jpg?u=276760&p=1482193375",
+    "datePublished": "2016-12-21",
+    "description": "カレー風味が食欲をそそります。油を少し多めにして、カリッと仕上げます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鮭の切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2くらい"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭にクレイジーソルトを両面に振りかける。\n小麦粉とカレー粉を混ぜる。\n鮭にこれをまぶす。",
+        "フライパンにバターとオリーブオイルを入れて、火をつける。\n両面こんがり焼いて、ドライパセリを振りかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4246000",
+    "advice": "バターと油の両方を使うこと。油多めでちょっとした揚げ焼きっぽく焼き付けると、カリッと仕上がります。バターも焦げにくなります。バター効果で味が深くなります。",
+    "history": "鮭の切り身が安かったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭 カレー粉 ムニエル"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4246000/100x141c/e1035ebe65c1b0ddb517d4007d409498.jpg?u=276760&p=1482193375"
+}

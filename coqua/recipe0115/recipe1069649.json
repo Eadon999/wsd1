@@ -1,0 +1,71 @@
+{
+    "name": "かんたん♪ 玉ねぎとしめじのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "あぁるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1069649/464x260/eb350a82e5f9a4d8e752c8c26c48d957.jpg?u=803201&p=1294820120",
+    "datePublished": "2010-03-15",
+    "description": "しめじがぷりぷり～うまみも出ておいしいです☆しめじが苦手な子も食べてみてね。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ（玉ねぎでも）",
+            "quantity": "１個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "バター",
+            "quantity": "６ｇ位"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "お好みで少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "あれば"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ、しめじを粗みじんぎりにする。",
+        "鍋にバターを熱し、１を炒め、玉ねぎが透き通ってきたら水とコンソメをいれ煮る。",
+        "沸騰後、中火～弱火で５分位煮る。",
+        "牛乳を入れて一煮立ちさせ、生クリーム、塩こしょうで味をととのえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1069649",
+    "advice": "お好みでコンソメの量を追加してください。 玉ねぎの硬さはお好みで。",
+    "history": "子供達がお気に入りのスープです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "しめじ",
+        "バター",
+        "水"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/1069649/100x141c/953ab99874e47e386eba0c1e0cb3bb0f.jpg?u=803201&p=1294820120"
+}

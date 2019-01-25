@@ -1,0 +1,46 @@
+{
+    "name": "簡単♪キッズ大好き海苔チーズごはん",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/257929/464x260/47424eb64fa88b5b3354dd853fefc24e.jpg?u=252604&p=1214213092",
+    "datePublished": "2006-06-03",
+    "description": "子ども達に人気の簡単ご飯です。お子様にも作れてしまいます♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "海苔",
+            "quantity": "1/6枚くらい"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "茶碗１杯"
+        }
+    ],
+    "recipeInstructions": [
+        "小さく切った海苔と、チーズを入れて、醤油を全体にかけておきます。",
+        "その中に炊きたてのご飯をいれて、さっくり混ぜたら、出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "257929",
+    "advice": "ご飯のお茶碗に、直接海苔とチーズを入れてしまうと楽です。",
+    "history": "我が家の朝ごはんによく登場します。子ども達は、自分で作ってしまうぐらい大好きです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "のりチーズごはん"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/257929/100x141c/ff732783bdea9573b50e6acb20f414b6.jpg?u=252604&p=1214213092"
+}

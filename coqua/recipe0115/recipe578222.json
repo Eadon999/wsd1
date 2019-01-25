@@ -1,0 +1,71 @@
+{
+    "name": "まぐろキムチ丼",
+    "author": {
+        "@type": "Person",
+        "name": "REKO-tan"
+    },
+    "image": "https://img.cpcdn.com/recipes/578222/464x260/548ab68aacc543b37a9b0626d594fcb1.jpg?u=462324&p=1214220106",
+    "datePublished": "2008-05-26",
+    "description": "マグロとキムチを、大葉・ネギ・ごま油などで和えました☆味付けも麺つゆを使って簡単に、とっても美味しくできます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "どんぶり2杯分"
+        },
+        {
+            "name": "まぐろ（刺身用）",
+            "quantity": "200g"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "100g"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "3本"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "★めんつゆ（3倍濃縮のもの）",
+            "quantity": "大2と1/3"
+        },
+        {
+            "name": "★すり白胡麻",
+            "quantity": "小2"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "★おろしにんにく",
+            "quantity": "小1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ｷﾑﾁを刻んで軽く水気を絞ります。大葉は千切りに、青ねぎは小口切りにします。",
+        "★の調味料を混ぜます。まぐろは一口大のそぎ切りにしておきます。",
+        "海苔・ご飯以外の全ての材料を混ぜ合わせます。ご飯にのせ、刻み海苔をかけたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "578222",
+    "advice": "まぐろは最初から切られている刺身を使うと、より簡単に出来ます☆",
+    "history": "市販の麺つゆを使って出来、お味はとっても美味しい♪ドラフトワンにぴったりな　まぐろキムチ丼です♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マグロ キムチ 丼"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/578222/100x141c/b4af55acd82fae0b402ea072d3c03548.jpg?u=462324&p=1214220106"
+}

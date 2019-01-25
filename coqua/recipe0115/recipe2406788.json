@@ -1,0 +1,76 @@
+{
+    "name": "簡単、胡麻だれの作り方",
+    "author": {
+        "@type": "Person",
+        "name": "テキサスオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2406788/464x260/8fba652b3bc2b5297eeec318c14e24ee.jpg?u=3286407&p=1384486188",
+    "datePublished": "2013-11-15",
+    "description": "直ぐ出来ます。保存が効くし、何にでも合う胡麻だれ！",
+    "recipeYield": "２００ＣＣ位",
+    "recipeIngredient": [
+        {
+            "name": "味噌",
+            "quantity": "小匙２−３"
+        },
+        {
+            "name": "酢",
+            "quantity": "大匙　２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙　２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙　２"
+        },
+        {
+            "name": "オリーブ油（サラダ油）",
+            "quantity": "大匙　２"
+        },
+        {
+            "name": "砂糖　（注）",
+            "quantity": "大匙　３−４"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙　５−６"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうが(すりおろし)",
+            "quantity": "少々"
+        },
+        {
+            "name": "好みでレッドペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "すり白ごま",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "酒に砂糖を入れて１分チンしてアルコール分を飛ばし、砂糖を溶かす。",
+        "後の材料を混ぜて終わり。\n味噌の塩分によって砂糖の量を加減する。\n",
+        "白ごま。　最初、単に白ごまと表記しましたが、すり白ごまに訂正します。市販のを使用しました。\n"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2406788",
+    "advice": "味噌の種類によって塩分が異なるので、最初砂糖の分は少な目に。味見して辛ければ砂糖を加えて調整してください。",
+    "history": "鳥シャブをするのに、ポン酢ではさっぱり過ぎるので、胡麻だれにしたら家族に大好評。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごまだれ 作り方",
+        "ごまだれ 作り方 簡単"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2406788/100x141c/b16800815ab71e8c6e09281ef34ac1fa.jpg?u=3286407&p=1384486188"
+}

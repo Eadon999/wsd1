@@ -1,0 +1,67 @@
+{
+    "name": "しっかり味でおいしい☆鶏ごぼうご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ｍｋｍｃｈｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1592111/464x260/b21e1a8ed7ef1fb3d6dee6c36134656f.jpg?u=2870348&p=1318557352",
+    "datePublished": "2011-10-13",
+    "description": "しっかりめの味付けの「とりめし」。おかずがなくても満足です。冷めてもおいしくいただけます！",
+    "recipeYield": "米2合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "☆水",
+            "quantity": "2合分より気持ち少なめ"
+        },
+        {
+            "name": "☆顆粒だしの素",
+            "quantity": "大さじ1杯弱"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "2分の1枚"
+        },
+        {
+            "name": "ごぼう（細いもの）",
+            "quantity": "2分の1本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "○酒、みりん、しょうゆ",
+            "quantity": "各大さじ3杯"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "米を研ぎ、炊飯器に☆を入れ炊く。\n鶏もも肉は小さく、ごぼうはささがきにして水にさらしておく。",
+        "鍋に油をひき、中火で鶏肉を焼く。\nごぼうを入れ軽く炒める。\n",
+        "○を入れ5分程煮込む。\n火を消しふたをして置いておく。",
+        "ご飯が炊けたら○を入れよく混ぜる。\n10分程ふたをして蒸らす。\nできあがり♪\nおにぎりにしてもおいしいです！"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "1592111",
+    "advice": "ご飯と具を混ぜたら必ず蒸らしてください。",
+    "history": "しっかりめの味付けでおかずがなくても満足なご飯です！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "顆粒だしの素",
+        "鶏もも肉",
+        "ごぼう"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1592111/100x141c/f3c54db2c25ba5932aaa85efac39e967.jpg?u=2870348&p=1318557352"
+}

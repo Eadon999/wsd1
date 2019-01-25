@@ -1,0 +1,75 @@
+{
+    "name": "豚としめじのツヤツヤ中華炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/766431/464x260/3f4ac6329bafa75f280ab4321beec64b.jpg?u=54489&p=1237727221",
+    "datePublished": "2009-03-23",
+    "description": "オイスターソースでご飯がツヤツヤ！コクもあって香ばしくて、これはやめられないです ヽ(ﾟ∀ﾟ)ﾉ",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合分"
+        },
+        {
+            "name": "豚肉の切り落とし",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "カシューナッツ（無塩）",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "さやいんげん（冷凍）",
+            "quantity": "８本"
+        },
+        {
+            "name": "┌李錦記オイスターソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "│酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "│ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "│醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "└塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "炊飯器にといだ米を入れ、２合の目盛りまでＡと水をそそぎ、混ぜ合わせておく。",
+        "豚肉は一口大に、しめじは石付きを取り除きほぐしておく。",
+        "1の炊飯器の中に豚肉、カシューナッツ、しめじを順にのせて普通に炊く。",
+        "炊き上がったら蓋を開けずに１０分蒸らし、解凍して１ｃｍ幅に切ったさやいんげんをさっくり混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "766431",
+    "advice": "あればお米にもち米を混ぜると美味しいと思います！",
+    "history": "オイスターソースで炊き込みご飯に挑戦！マジウマで彼がモリモリ食べる食べる...大ヒットでした！！！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "豚肉の切り落とし",
+        "カシューナッツ",
+        "しめじ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/766431/100x141c/258e008b348a4049fbf603cba2f9d148.jpg?u=54489&p=1237727221"
+}

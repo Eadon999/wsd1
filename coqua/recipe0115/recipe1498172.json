@@ -1,0 +1,65 @@
+{
+    "name": "小松菜の煮びたし♪しらす入り",
+    "author": {
+        "@type": "Person",
+        "name": "微笑む太陽"
+    },
+    "image": "https://img.cpcdn.com/recipes/1498172/464x260/038e762233bfb2d1d2aeed2a47717d49.jpg?u=2505989&p=1310815020",
+    "datePublished": "2011-07-18",
+    "description": "カルシウム増強メニュー？しらすを入れて、さらにおいしく♪2012/6/22話題入り、ありがとう♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "しらす干し",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は５ｃｍくらいのざく切りにする。",
+        "油揚げは１ｃｍ幅に切る。",
+        "鍋に水を入れ、沸騰したら、調味料を全部入れ、油揚げを入れて１分ほど煮る。",
+        "次に小松菜を入れます。",
+        "小松菜に火がまわったら、しらす干しを入れて、全体を混ぜます。",
+        "召しあがれ♪\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1498172",
+    "advice": "特にありませんが、冷めたほうが味が落ち着いておいしいかったです。",
+    "history": "いつもの煮びたしにしらすを入れました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "油揚げ",
+        "しらす干し",
+        "水"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1498172/100x141c/edfa2f551b1f56afc25b1c94db8f1dc4.jpg?u=2505989&p=1310815020"
+}

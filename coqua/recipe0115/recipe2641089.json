@@ -1,0 +1,50 @@
+{
+    "name": "簡単☆そら豆サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2641089/464x260/3409aaf0b1faf272b57a4eebcddd6548.jpg?u=1690437&p=1400899688",
+    "datePublished": "2014-05-24",
+    "description": "2015・4・6話題入りに感謝です♪レンジで蒸したそら豆を簡単なサラダにしました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "そら豆",
+            "quantity": "10サヤ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル（ＥＸ）",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "そら豆はさやから取り出し豆に切れ目を入れシリコンスチーマーに入れ700ｗのレンジで2分加熱し2分蒸らす。",
+        "ボウルに皮をむいたそら豆を入れ塩・胡椒・オリーブオイルを入れ混ぜる。",
+        "器に盛り付ける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2641089",
+    "advice": "シリコンスチーマーがなければ耐熱容器に入れラップして過熱。お塩は美味しいお塩で。今回はアルペンザルツを使用しました。",
+    "history": "そら豆を沢山頂いたのでシンプルにサラダとして頂きました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/そら豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そら豆",
+        "塩",
+        "粗挽き黒胡椒",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2641089/100x141c/b8f2fe8adb263531ba668da4a1c47b7f.jpg?u=1690437&p=1400899688"
+}

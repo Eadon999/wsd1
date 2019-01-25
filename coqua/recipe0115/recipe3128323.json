@@ -1,0 +1,63 @@
+{
+    "name": "ダイエット♪ポークチャップ風豆腐チャップ",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/3128323/464x260/3305c0ea6c8609744481d4035f3db2a4.jpg?u=9664115&p=1429363795",
+    "datePublished": "2015-04-18",
+    "description": "ダイエット中に最適！食べ応えをそのままにヘルシーな豆腐で大満足な洋食メニュー♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆中濃ソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆お酒orワイン",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を棒状に切り、キッチンペーパーで水気をよく切る。",
+        "片栗粉をまぶし、よく熱した多めの油で焼く。\n中強火で。",
+        "全体に焦げ目がついたら、キッチンペーパーで油をとり、\n混ぜ合わせた☆をかける。",
+        "半分程水分を飛ばしながら和えたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3128323",
+    "advice": "タレを焦がさないように。",
+    "history": "ダイエット中の旦那を持つ友人からのリクエストに応えるために考案。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "片栗粉",
+        "ケチャップ",
+        "中濃ソース"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/3128323/100x141c/d879bde3d4daf7af0712e2a856c1ec67.jpg?u=9664115&p=1429363795"
+}

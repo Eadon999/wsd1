@@ -1,0 +1,50 @@
+{
+    "name": "お弁当の一品！　ブロッコリーの簡単和え物",
+    "author": {
+        "@type": "Person",
+        "name": "ひむとも"
+    },
+    "image": "https://img.cpcdn.com/recipes/1756139/464x260/1f7d819c4eaa636b663aacc7459ea253.jpg?u=2841138&p=1389323833",
+    "datePublished": "2012-03-28",
+    "description": "湯がいて水気を切って、かつお節・ごま油・しょうゆでサッと味付け。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１房"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "軽くひとつかみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーは食べやすく切り、塩少々で湯がき水気を切っておく。",
+        "まず、ブロッコリーにかつお節をまぶす。",
+        "しょうゆとごま油で味付け。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1756139",
+    "advice": "温かいうちに調味しても美味しいです。",
+    "history": "今が旬のブロッコリー！　　ＭＹ畑に山盛りのブロッコリー！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "しょうゆ",
+        "ごま油",
+        "かつおぶし"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1756139/100x141c/77585bfa625cf7d58f2506c1e57e3116.jpg?u=2841138&p=1389323833"
+}

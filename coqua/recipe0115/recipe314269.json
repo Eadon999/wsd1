@@ -1,0 +1,44 @@
+{
+    "name": "☆健康☆胡麻いっぱいのおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめりの"
+    },
+    "image": "https://img.cpcdn.com/recipes/314269/464x260/80a19685872c0c702a30c2246c768ca8.jpg?u=278429&p=1214214374",
+    "datePublished": "2006-12-29",
+    "description": "胡麻パワーでおいしいです。おにぎりのレパートリーに入れてくださいね☆☆☆お花見のお供にもどうぞ～",
+    "recipeYield": "３個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ゴマ・黒ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お好きな具でおにぎりをにぎって、胡麻をいっぱいまぶす。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "314269",
+    "advice": "塩加減はお好みでどうぞ～",
+    "history": "お嫁に来た時に、姑が作ってくれました。実家にはないおにぎりに、ﾋﾞｯｸﾘ！それ以来定番です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "塩"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/314269/100x141c/4b5490d3a90229381a4ec4f297269567.jpg?u=278429&p=1214214374"
+}

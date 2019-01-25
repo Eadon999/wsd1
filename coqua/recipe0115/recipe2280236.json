@@ -1,0 +1,63 @@
+{
+    "name": "茄子とピーマンの煮浸し",
+    "author": {
+        "@type": "Person",
+        "name": "ゆめ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2280236/464x260/7c5d3dad9f2136823fb6246ce1941f70.jpg?u=3671213&p=1373266190",
+    "datePublished": "2013-07-08",
+    "description": "トロトロ美味しい茄子の煮浸しです♪もちろんピーマンも美味しいよ☆夏は冷やして～♪（∈＾∇゜）ｷﾗｯ",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "５本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "★水",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "★醤油・めんつゆ",
+            "quantity": "各７５ｃｃ"
+        },
+        {
+            "name": "★酒・みりん",
+            "quantity": "各５０ｃｃ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★生姜(チューブ可)",
+            "quantity": "１片"
+        }
+    ],
+    "recipeInstructions": [
+        "★を鍋でひと煮立ちさせたら火を止めます。",
+        "茄子とピーマンは半分に切ります。(食べやすい大きさでもOKです)",
+        "２を素揚げしま～す♪",
+        "揚がった茄子とピーマンを１の鍋にボンボンと浸し、冷めたらタッパーなどに入れて冷蔵庫で冷やして出来上がり～♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2280236",
+    "advice": "出来立てでも美味しいですが冷やして味が染み込んだのも美味しいよ♪お好みで鷹の爪などを入れても♪(＾v＾)",
+    "history": "毎日暑いので冷たいお野菜をと♪(＾v＾)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ピーマン",
+        "水",
+        "砂糖"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2280236/100x141c/bf22823baf3590d693e320cddf41efdf.jpg?u=3671213&p=1373266190"
+}

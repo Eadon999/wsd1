@@ -1,0 +1,64 @@
+{
+    "name": "かぶの♪和風カルパッチョ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/676575/464x260/7c552e9e2e36226e2ff3d55290c3dd69.jpg?u=239563&p=1225803038",
+    "datePublished": "2008-11-05",
+    "description": "ちょっとお洒落なかぶの和風カルパッチョ♪見た目も味もＧＯＯＤです♪余ってしまった、たった一つのかぶでもこれなら大満足。",
+    "recipeYield": "１個分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "１個"
+        },
+        {
+            "name": "かぶの葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "★ポン酢醤油",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "★すりおろしにんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "★サラダ油",
+            "quantity": "小さじ　１"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶはスライサーで薄くスライスする。\r\nかぶの葉は細かく刻み塩を振りしんなりしたら水気をぎゅっと絞る。",
+        "お皿にかぶを並べ、かぶの葉を乗せる。★の材料をよく混ぜ合わせたものを回しかける。",
+        "最後に鰹節をかけたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "676575",
+    "advice": "かぶはスライサーを使ってスライスします（指を切らないように注意！）",
+    "history": "余ったカブで何か一品をと考えたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": [
+        "カルパッチョ 7位"
+    ],
+    "related_keywords": [
+        "カルパッチョ",
+        "かぶ カルパッチョ",
+        "かぶ",
+        "カブ"
+    ],
+    "tsukurepo_count": "742",
+    "thumbnail": "https://img.cpcdn.com/recipes/676575/100x141c/104aa61bc4ec3dc4cb83f9988216e932.jpg?u=239563&p=1225803038"
+}

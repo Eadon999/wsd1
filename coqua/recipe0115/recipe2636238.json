@@ -1,0 +1,55 @@
+{
+    "name": "キャベツの✿ミルクみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2636238/464x260/4cedb388fae6cbd4d995e699ff988a7d.jpg?u=3540419&p=1400587410",
+    "datePublished": "2014-05-20",
+    "description": "牛乳とお味噌はふしぎによく合います☆野菜の甘みと牛乳のコクで塩分ひかえめ♪カルシウムたっぷりです(^-^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "3cm"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/3袋"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "顆粒和風だし",
+            "quantity": "2g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100ml"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは一口大に、にんじんは1cm厚さの半月に、しめじはバラバラにして2つに切る",
+        "鍋に１の野菜、水200mlと顆粒だしを入れて煮る",
+        "野菜がやわらかくなったら味噌を溶き入れ、牛乳を加えて一煮立ちしたらできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2636238",
+    "advice": "簡単です。牛乳を入れたら、一煮立ちしたら火を止めてください。味噌の量はお好みでかげんしてください。",
+    "history": "ときどき作るわが家のミルクみそ汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みそしる 牛乳"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/2636238/100x141c/caa69b5e73cdee68cca5ef94ff2c7475.jpg?u=3540419&p=1400587410"
+}

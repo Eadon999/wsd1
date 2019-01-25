@@ -1,0 +1,66 @@
+{
+    "name": "カブの葉とワカメのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "ナチクマ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1736930/464x260/7fe4f9cc114e518a38825d00f28fc6cb.jpg?u=714947&p=1337780237",
+    "datePublished": "2012-03-12",
+    "description": "葉っぱがおいしいカブ♪簡単にできる副菜です",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カブの葉",
+            "quantity": "３個分"
+        },
+        {
+            "name": "乾燥ワカメ",
+            "quantity": "一握り"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎いりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩（茹で用）",
+            "quantity": "小さじ２／１"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥ワカメを水で戻しておき、お湯を沸かし塩を入れてカブの葉を軽く塩ゆでします。（沸騰したお湯に30秒くらいくぐらせる）",
+        "茹でたカブの葉はあら熱がとれたら1㎝くらいの長さに刻み水気をよく切ります。ワカメも戻ったら水気をよく切ります。",
+        "ボウルにカブの葉、ワカメ◎印の調味料を入れて混ぜ合わせて出来上がり～♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1736930",
+    "advice": "カブの葉は茹ですぎない方が食感がいいです。カブの葉もワカメもよく水気を取ってください",
+    "history": "チビちゃんの離乳食でよく使うカブ。カブの葉っぱも捨てずに美味しく頂きます♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 葉",
+        "蕪の葉",
+        "かぶ 葉 ナムル",
+        "カブの葉"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/1736930/100x141c/752ae34aef0e62f8662337513f19109e.jpg?u=714947&p=1337780237"
+}

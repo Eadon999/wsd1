@@ -1,0 +1,53 @@
+{
+    "name": "牡蠣の佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2435924/464x260/586245b6cb92477c7e75be7630ddf406.jpg?u=1298841&p=1395460078",
+    "datePublished": "2014-03-22",
+    "description": "日持ちする牡蠣の佃煮。一旦取り出すことでふっくらした身の佃煮になります。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣(加熱用)",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "全ての材料をフライパンにいれ、中火で煮詰め、牡蠣がぷっくりしてきたら一旦取り出し、残りの汁を煮詰める。",
+        "ほとんど水分がなくなるくらい煮詰めたら、牡蠣を戻し、汁っぽさがなくなるまで煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2435924",
+    "advice": "一旦牡蠣を取り出して煮汁を煮詰めることによって、牡蠣が縮み過ぎないようにします。",
+    "history": "ふっくらした牡蠣の佃煮を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牡蠣 日持ち",
+        "牡蠣 佃煮 保存",
+        "牡蠣の佃煮",
+        "牡蠣 保存"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2435924/100x141c/9c2597d95e56bca107af2faec81859bb.jpg?u=1298841&p=1395460078"
+}

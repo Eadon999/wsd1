@@ -1,0 +1,67 @@
+{
+    "name": "海老とマッシュルームのアヒージョ",
+    "author": {
+        "@type": "Person",
+        "name": "chi-bo-3"
+    },
+    "image": "https://img.cpcdn.com/recipes/645548/464x260/1642f255c1b41650c7c756307db649f2.jpg?u=639499&p=1221479249",
+    "datePublished": "2008-09-15",
+    "description": "フランスパンに付けていただくと　最高にうまい！海老のプリプリの食感が最高！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "海老（冷凍でも　むき海老でもOK)",
+            "quantity": "６～１０尾"
+        },
+        {
+            "name": "マッシュルーム",
+            "quantity": "３～５個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "アンチョビ",
+            "quantity": "３フィレ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "１本（輪切りでも）"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくのスライスと鷹の爪とアンチョビをオリーブオイルに入れて　香りを出す。",
+        "殻と背わたを取った海老とスライスしたマッシュルームを入れて　蓋をして弱火で１０分　火を通す。",
+        "塩胡椒で味を見て　微塵切りのパセリをトッピングして出来上がり。",
+        "スライスしたフランスパンに付けていただく。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "645548",
+    "advice": "",
+    "history": "キャンプでも自宅でも　コロダッチカプセルで作る　ワインやビールに合うおつまみ　",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老",
+        "その他/バーベキュー・キャンプ料理/魚介料理"
+    ],
+    "rankings": [
+        "海老のアヒージョ 8位"
+    ],
+    "related_keywords": [
+        "海老 アヒージョ"
+    ],
+    "tsukurepo_count": "310",
+    "thumbnail": "https://img.cpcdn.com/recipes/645548/100x141c/281b070ed2f6f390286eefb9265e6afc.jpg?u=639499&p=1221479249"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "ピーマンと糸こんにゃくの塩昆布炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ちょびころ"
+    },
+    "image": "https://img.cpcdn.com/recipes/907207/464x260/fe5658b38af60eb867ec76218320e176.jpg?u=491038&p=1252470492",
+    "datePublished": "2009-09-09",
+    "description": "何か１品足りない時にささっと出来る炒め物。塩こんぶが良い仕事してくれます＾＾　お弁当にも。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "４個"
+        },
+        {
+            "name": "糸こんにゃく（しらたき）",
+            "quantity": "１６０ｇ入り１袋"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "大さじ２くらい"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは細切り、糸こんにゃくは下ゆでして食べやすい長さに切る。",
+        "フライパンにごま油を熱しピーマン・糸こんにゃくを炒める。",
+        "次に塩昆布を投入。全体にいきわたったら仕上げに酒・醤油を加えて炒め合わせてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "907207",
+    "advice": "特にありませんが　塩昆布の味によって足りなければ適宜　醤油を足しても。",
+    "history": "期限ぎりぎりのしらたきを使い切りたくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "糸こんにゃく",
+        "塩こんぶ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/907207/100x141c/2db21f407154a5a87b95367dafbbfab0.jpg?u=491038&p=1252470492"
+}

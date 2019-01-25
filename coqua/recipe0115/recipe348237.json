@@ -1,0 +1,71 @@
+{
+    "name": "長ネギ☆鶏もも肉の塩炒め",
+    "author": {
+        "@type": "Person",
+        "name": "maiwan"
+    },
+    "image": "https://img.cpcdn.com/recipes/348237/464x260/6d8e30a1786eeeac6b45560f16d1f5d4.jpg?u=285065&p=1214215109",
+    "datePublished": "2007-03-22",
+    "description": "ビールによく合うおかずです！焼き鳥のねぎまをイメージして作ってみました☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "100ｇ位"
+        },
+        {
+            "name": "長ネギ（細めのもの）",
+            "quantity": "2本"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★ニンニク（チューブ）",
+            "quantity": "小さじ1/2～1位"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "★ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大に切り、★印の調味料をもみこんで下味をつける。長ネギは2～3ｃｍのぶつ切りにする。",
+        "フライパンにサラダ油を熱し、下味をつけた鶏肉を皮から強めの火で両面こんがり焼き、いったん取り出す。",
+        "フライパンの余分な油を吸い取り長ネギを炒め、鶏肉を戻し入れて炒めあわせ、分量外の塩を少々振る。",
+        "器に盛り、一味唐辛子を少々ふって出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "348237",
+    "advice": "鶏肉は少々焦げ目がつく位に焼くと美味しいです。長ネギは炒めすぎない方がいいと思います。",
+    "history": "焼き鳥の「ねぎま」をイメージして作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "長ネギ",
+        "酒",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/348237/100x141c/790062e25f0f1023135b78ef7a30c8ae.jpg?u=285065&p=1214215109"
+}

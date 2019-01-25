@@ -1,0 +1,61 @@
+{
+    "name": "【農家のレシピ】はりはり漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1420102/464x260/a1d05da307df208b38bcefb46f6b0cd6.jpg?u=2513693&p=1303735663",
+    "datePublished": "2011-04-30",
+    "description": "保存食です。調味料に切り干し大根を漬けるだけ。カリカリして美味しい「はりはり漬け」ができますよ。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "切干し大根",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "昆布",
+            "quantity": "5センチ"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "1本"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "万能だし醤油",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "切り干し大根は水でよく洗ってから水けを絞っておきます。昆布は細切り、赤唐辛子は種を取って小口切りにしておきます",
+        "【A】を沸騰させ、冷ました後に①の材料をすべて入れタッパなどに入れて冷蔵庫で寝かせます。たまにかき混ぜてね。",
+        "3日後くらいから味がなじんで美味しくいただけますよ。保存期間は冷蔵庫で1ヶ月です。",
+        "とっても便利な万能だし醤油。麺つゆとしても使えます。　「レシピID :1236017 」"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1420102",
+    "advice": "■万能だし醤油大さじ５の代用として、「しょうゆ大さじ２．５＋みりん大さじ２．５＋だしの素小さじ２分の１」になります。",
+    "history": "自家製の切り干し大根を使って色んな料理を作っています",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はりはり漬け",
+        "農家のレシピ 大根"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/1420102/100x141c/cbbfa0ec1210b391a829f8c894a71bc6.jpg?u=2513693&p=1303735663"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "しいたけのねぎオイマヨ焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "なつたくかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/551705/464x260/c5cc2d5e1f84f6f7eea81c11e84f5a33.jpg?u=309255&p=1292078568",
+    "datePublished": "2008-04-15",
+    "description": "簡単もう１品に、おつまみにいかがですか？2010.12.11　写真差し替えました^^;",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "５コ"
+        },
+        {
+            "name": "☆万能ねぎ",
+            "quantity": "２本くらい"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ1.5〜２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ねぎをみじん切りにします。\n☆のものを、合わせてぐるぐるかき混ぜます。",
+        "かさの部分に、１のねぎソースを塗り。オーブンかトースターで、焦げ目がつくくらい焼いてできあがり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "551705",
+    "advice": "ねぎ、たっぷりの方がおいしいですよ♪",
+    "history": "立派なしいたけをもらったので、大好きなオイマヨで焼いてみました❤",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ",
+        "万能ねぎ",
+        "マヨネーズ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/551705/100x141c/c2a3ab96866006184ab4cd42bd394253.jpg?u=309255&p=1292078568"
+}

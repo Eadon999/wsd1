@@ -1,0 +1,81 @@
+{
+    "name": "鶏ササミと蒸し野菜のわさびしょうゆ和え",
+    "author": {
+        "@type": "Person",
+        "name": "momo_foods"
+    },
+    "image": "https://img.cpcdn.com/recipes/764286/464x260/991b8dce19ebf78231deac8cd780518e.jpg?u=1248423&p=1237492166",
+    "datePublished": "2009-03-27",
+    "description": "蒸しがいいっ！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ササミ",
+            "quantity": "2本"
+        },
+        {
+            "name": "塩・酒",
+            "quantity": "各少々"
+        },
+        {
+            "name": "モヤシ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "赤ピーマン",
+            "quantity": "1コ"
+        },
+        {
+            "name": "ミツバ",
+            "quantity": "1束"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "本わさび",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミはバットに並べ、塩・酒をふり、電子レンジに2～3分かけます。冷めれば食べやすい大きさに裂いておきます。\r\n",
+        "赤ピーマンは縦半分に切って種を取り、横半分に切って千切りにします。",
+        "ミツバは根を切り落とし、4～5㎝長さに切ります。",
+        "蒸し器でモヤシ、2、3を3分ほど蒸します。",
+        "◆ワサビしょうゆダレを作ります。\r\n鍋にみりん、酒を入れて火にかけ、アルコール分を飛ばします。 \r\n",
+        "火から下ろした5に濃口しょうゆを加えて冷まします。",
+        "わさび、砂糖をボウルに入れ、酢を少しづつ加えてよく混ぜます。混ざれば6を加えて仕上げます。\r\n",
+        "蒸しあがった4を7で和えます。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "764286",
+    "advice": "",
+    "history": "diet用のヘルシーメニューです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蒸し野菜",
+        "蒸し野菜 ささみ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/764286/100x141c/88ab87d2d009a1e518c3d3ae1833c8fb.jpg?u=1248423&p=1237492166"
+}

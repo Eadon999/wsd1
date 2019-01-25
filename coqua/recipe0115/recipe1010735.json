@@ -1,0 +1,53 @@
+{
+    "name": "☆ツナときゅうりの春雨マヨサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "love miffy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1010735/464x260/fe930ed01bbfe139eca15249d1b85fa1.jpg?u=1327335&p=1263473695",
+    "datePublished": "2010-01-14",
+    "description": "2010年10月18日話題入りしました。春雨とツナ、マヨネーズの組み合わせがよく合います☆ 子どもも大好きな味♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１(80g)"
+        },
+        {
+            "name": "春雨",
+            "quantity": "1袋(40g)"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "お好みでわさび・しょうゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは塩で板ずりしてから輪切りする。(板ずりしないときは、切ったあと軽く塩をふる） ",
+        "春雨を熱湯で茹でる。",
+        "ボールに水気を切ったきゅうり、春雨、ツナを入れる。ツナのオイルで春雨をほぐしながら軽く混ぜる。",
+        "マヨネーズで和える。お好みでわさび醤油を少々加えるとおいしいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1010735",
+    "advice": "春雨は、和える前にキッチンバサミで適当な長さに切ると食べやすいです。 春雨ときゅうりの水分はしっかり切って和えると水っぽくならないです。 きゅうりの代わりにさらし玉ねぎのみじん切りを加えてもおいしいです",
+    "history": "実家でよく食べていた大好きなサラダ",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨サラダ マヨネーズ",
+        "春雨サラダ ツナ"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/1010735/100x141c/c1d54a22ebfa00441fd00bd2fbbfa013.jpg?u=1327335&p=1263473695"
+}

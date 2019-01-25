@@ -1,0 +1,58 @@
+{
+    "name": "かぶとベーコンのとろとろコンソメ煮",
+    "author": {
+        "@type": "Person",
+        "name": "xKOBUTAx"
+    },
+    "image": "https://img.cpcdn.com/recipes/154189/464x260/7b820de909c4e267935169b1bd7f01a5.jpg?u=23840&p=1344138214",
+    "datePublished": "2004-07-27",
+    "description": "かぶがとろっと口の中でとろけます♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "４個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは葉に部分を切り、薄く皮むきをします。ベーコンは１㎝幅に、玉ねぎはくし型にきります。",
+        "鍋に１の材料を入れ、水をひたひたになるくらい入れます。\r\nコンソメをいれて、かぶが柔らかくなるまで蓋をして弱火で煮込みます。",
+        "かぶに竹串を刺して、すっと通るくらいになったら、塩こしょうで味付けをして出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "154189",
+    "advice": "もうちょっと味にアクセントつけたいなって思ったら、最後に醤油を少し入れてもおいしいですよ＾＾",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "ベーコン",
+        "たまねぎ",
+        "塩"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/154189/100x141c/ade3f435d45deed09069dfdb764f13eb.jpg?u=23840&p=1344138214"
+}

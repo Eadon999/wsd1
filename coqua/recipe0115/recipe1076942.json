@@ -1,0 +1,48 @@
+{
+    "name": "厚揚げと舞茸の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "オリエンタルママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1076942/464x260/c4ea9f7c5a01c5dfb02561dc1a7ffa14.jpg?u=269217&p=1475615526",
+    "datePublished": "2010-03-22",
+    "description": "厚揚げと舞茸を、だし醤油で甘く煮ました。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "大1パック"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "200㏄"
+        },
+        {
+            "name": "砂糖・醤油・酒",
+            "quantity": "大さじ1.ずつ"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げはさっと熱湯をかけ、油抜きし、ペーパーで水分を拭き、8等分に切る",
+        "鍋に、だし、調味料、舞茸を入れ、中火でしんなり煮たら、1を入れて落し蓋をして、弱火で10分ほど煮ます。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1076942",
+    "advice": "厚揚げは、さっと油抜きをした後、きちんとペーパーで水分を拭き、落し蓋をして味を含ませると、舞茸のうまみが移り、美味しく頂けます。火を消し、しばらく放置しておくと、余熱で味がしみます。",
+    "history": "息子が、厚揚げの煮物が好きで、旨みのある舞茸を利用してコトコト煮てみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸 厚揚げ",
+        "まいたけ 煮物"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1076942/100x141c/d8fcfb1fd9845b625d2814735d55eec8.jpg?u=269217&p=1475615526"
+}

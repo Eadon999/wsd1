@@ -1,0 +1,59 @@
+{
+    "name": "【農家のレシピ】レタスのクリーム煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2585252/464x260/aa12d24254ec8ea34345b309106fdc23.jpg?u=2513693&p=1397386678",
+    "datePublished": "2014-04-21",
+    "description": "バターでベーコンとレタスを炒めて、牛乳と米粉とコンソメを入れてさっと煮ただけの簡単クリーム煮。１人１個食べられるかも！？",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス（大きい目に手でちぎる）",
+            "quantity": "１個（２００～３００ｇ）"
+        },
+        {
+            "name": "ベーコン（４センチ幅に切る）",
+            "quantity": "３枚"
+        },
+        {
+            "name": "バター（またはマーガリン）",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "固形コンソメ（細かく砕く）",
+            "quantity": "１個"
+        },
+        {
+            "name": "米粉（上新粉）",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にバターを熱しベーコンを炒める。ベーコンの油が出たらレタスを入れ少ししんなりするまで炒める。",
+        "【Ａ】を加えてとろみがつくまで煮て、塩コショウで味を調え完成～"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2585252",
+    "advice": "ベーコンがなかったらソーセージでもOKです。このレシピのブログ記事はこちらです↓http://ameblo.jp/farmers-keiko/day-20140328.html",
+    "history": "生のレタスも美味しいけど、加熱したレタスは独特の食感になって美味しいです。炒めたり、お鍋の具として使ったり、スープに使ったり。今回はシチュー風にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス クリーム煮",
+        "レタス 農家"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2585252/100x141c/dc4766ed50d8760dfaf52cb0609715c8.jpg?u=2513693&p=1397386678"
+}

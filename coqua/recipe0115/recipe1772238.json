@@ -1,0 +1,59 @@
+{
+    "name": "簡単☆豚肉とごぼうの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "Ritotsu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1772238/464x260/fda9af650d79dc51376696f6f70cdd13.jpg?u=1035999&p=1333957971",
+    "datePublished": "2012-04-11",
+    "description": "ゴボウが豚肉エキスを吸い込んで美味しくて、、、ご飯が進みます。材料切ったら炒めるだけなので簡単にスピードメニューです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "３００ｇ程度"
+        },
+        {
+            "name": "ゴボウ",
+            "quantity": "1本"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３．５"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴボウは、食べやすい大きさに切ったら、酢水につけておく。玉ねぎは食べやすい大きさに切る。",
+        "よく熱したフライパンに、豚肉、たまねぎ、ゴボウ、砂糖、みりんを入れて混ぜながら炒める。",
+        "豚肉の色が変わったら、醤油を入れて炒めて水分がなくなってきたら火を消す。ごま油を少し回しかけて混ぜる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1772238",
+    "advice": "お好みで、２のときにおろし生姜をプラスしてください。辛いのが好きな人は、２のときに豆板醤をプラスしてください。",
+    "history": "豚肉とゴボウを美味しく食べれるように考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう 豚肉"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/1772238/100x141c/3b544822b90811bf4df5ee14c4b7a4a6.jpg?u=1035999&p=1333957971"
+}

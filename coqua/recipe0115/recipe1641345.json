@@ -1,0 +1,58 @@
+{
+    "name": "水菜の胡麻和え海苔っとサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "foo♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1641345/464x260/6cef196d8b1ec60b14ca38494963f1f3.jpg?u=3311160&p=1341982504",
+    "datePublished": "2011-12-01",
+    "description": "水菜がたっぷり食べられます胡麻和えを生で盛りっとサラダ風に…",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "3～4束"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "揉み海苔",
+            "quantity": "半畳"
+        },
+        {
+            "name": "削り節",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "★オリーブ油又はごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "★醤油又はポン酢醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は洗って3～4㎝にカットしてしっかり水切りしておく",
+        "水菜にすり胡麻、揉み海苔、削り節をざっくり混ぜ合わせる",
+        "器に盛り食べる直前に★を回しかけて軽くトスして完成"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1641345",
+    "advice": "分量は適当でもOKお好みで油を変えると違う香りで楽しめます。ごま油を使う場合ラー油を数滴落としても美味しいです",
+    "history": "使いきれない水菜の消化メニュー胡麻和えをサラダ風に食べたくて",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "すり胡麻",
+        "削り節"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/1641345/100x141c/af97e07d368b622fc3079e0270b867e9.jpg?u=3311160&p=1341982504"
+}

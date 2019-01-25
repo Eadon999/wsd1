@@ -1,0 +1,58 @@
+{
+    "name": "オクラとベーコンのガーリックソテー",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1525437/464x260/e914eef71b4d09bc79940ce466e2b8ce.jpg?u=2513693&p=1313618122",
+    "datePublished": "2011-08-21",
+    "description": "オクラとバターの相性は抜群♪ビールのあてにぜひどうぞ♪",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "２片"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗びき黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラはヘタの固い部分を取り除き熱湯で2分茹で縦半分に切っておきます。ベーコンは1センチ幅、ニンニクは薄切りにします",
+        "フライパンにバターとニンニクを入れ火をつけ中火で炒めます。ニンニクの香りが出てきたらベーコンを入れさっと炒めます。",
+        "最後に茹でたオクラを入れ１分程度炒め、塩コショウで味を調えて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1525437",
+    "advice": "オクラの産毛が気になる方は、最初に塩でオクラを擦ってから流水で塩を洗い流して産毛を取ってくださいね。",
+    "history": "オクラとバターの相性がいいので、ベーコンも入れて炒めて見ました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "ベーコン",
+        "ニンニク",
+        "バター"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1525437/100x141c/33edb9f660ae3ac3d1f82d0bd0c48f72.jpg?u=2513693&p=1313618122"
+}

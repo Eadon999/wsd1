@@ -1,0 +1,60 @@
+{
+    "name": "☸とても簡単＊ふんわり卵のトマトスープ☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2201745/464x260/cdbb793146a54187b13a66b24876508c.jpg?u=4672105&p=1417576892",
+    "datePublished": "2013-04-24",
+    "description": "１３．０８．１３．話題入り感謝♪卵がふわふわ～。トマトのほのかな酸味も美味しいスープです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "小１個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "コンソメスープの素",
+            "quantity": "１個"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ml"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはヘタにフォークを刺し、コンロの火で炙って皮をむく。(湯むきでもよい)",
+        "トマトは種ごとざく切り。玉ねぎは薄くスライスする。",
+        "鍋に水、コンソメ、玉ねぎを入れて煮る。",
+        "玉ねぎに火が通ったらトマトを加えて約１分煮る。\n溶き卵を回しかけ、塩こしょうで調味する。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2201745",
+    "advice": "特にないです！",
+    "history": "トマトが余っている時に母がよく作ってくれるスープです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/トマトスープ",
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "玉ねぎ",
+        "卵",
+        "コンソメスープの素"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/2201745/100x141c/7c497eb69ac1f6f481bba3aff5b6eb40.jpg?u=4672105&p=1417576892"
+}

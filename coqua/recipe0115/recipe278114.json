@@ -1,0 +1,48 @@
+{
+    "name": "△かつおぶしとごま油のおにぎり△",
+    "author": {
+        "@type": "Person",
+        "name": "りょうこっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/278114/464x260/114539fcf2942ba8adbce51d787a258d.jpg?u=253971&p=1214213551",
+    "datePublished": "2006-09-01",
+    "description": "簡単まぜるだけ～♪かつおぶしのおにぎりはそんなに好きじゃないけどこれは別♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "かつおぶし",
+            "quantity": "6ｇ（個包装のもの2パック）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1～"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1～"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かつおぶし、ごま油、しょうゆを混ぜる。",
+        "①とご飯を混ぜ合わせておにぎりを作ればできあがり♪",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "278114",
+    "advice": "材料は全て好きな分量で作るといいと思います。ごま油が入ってるので握った後は手がべとべとになっちゃいます(^_^;)ラップで握るのが1番！",
+    "history": "おかかおにぎりはちょっと苦手だったので自分の好みにアレンジ！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かつおぶしとごま油のおにぎり",
+        "おにぎり ごま油"
+    ],
+    "tsukurepo_count": "398",
+    "thumbnail": "https://img.cpcdn.com/recipes/278114/100x141c/a96b6a3502dd21587d913f8c35831909.jpg?u=253971&p=1214213551"
+}

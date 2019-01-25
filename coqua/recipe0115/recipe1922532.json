@@ -1,0 +1,72 @@
+{
+    "name": "ナスと豚の生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "あいちゃんちょき"
+    },
+    "image": "https://img.cpcdn.com/recipes/1922532/464x260/57030f8e4ef1714486f24cd46001f340.jpg?u=2577203&p=1345274474",
+    "datePublished": "2012-08-18",
+    "description": "安くて簡単で旨い！温泉玉子のせて丼でもいいよぉ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉 (薄切り)",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "ナス",
+            "quantity": "三本"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆焼肉のタレ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆生姜すりおろし",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "お肉を食べやすい大きさに切る。\nナスを乱切りにする。",
+        "☆をすべて合わせておく！",
+        "フライパンに油を引いてお肉を炒める。\n\n肉に火が通ったら、茄子をいれる。",
+        "ナスに火が通る前に2で合わせた調味液を入れて汁がなくなるまでいためる。",
+        "器に乗せてネギをかけたら完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1922532",
+    "advice": "味が薄いと感じたら焼肉のタレか醤油で調整してくだい。ナスは少し時間が立ってから食べた方が味がしみて美味しいです。",
+    "history": "生姜焼きとナスはは相性良さそうだったから",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "ナス",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1922532/100x141c/b0abb4ece361a0a751314ea85353c5d7.jpg?u=2577203&p=1345274474"
+}

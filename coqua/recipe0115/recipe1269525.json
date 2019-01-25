@@ -1,0 +1,55 @@
+{
+    "name": "スイチリきゅうり春雨",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1269525/464x260/95155414be8faf2521a2059332825f8d.jpg?u=377757&p=1288168090",
+    "datePublished": "2010-10-27",
+    "description": "切って混ぜるだけの簡単レシピ！あと一品って時にも◎",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "おさかなソーセージ",
+            "quantity": "1本"
+        },
+        {
+            "name": "春雨",
+            "quantity": "30g"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりとおさかなソーセージは斜め薄切りにして千切りに。はるさめは表示通りにもどして水気を切っておく。",
+        "１と残り全ての材料を混ぜて完成！",
+        "春雨なしのバージョンは、\n○スイチリ大１\n○ゴマ油大１/２\n○すりゴマ小２"
+    ],
+    "cookTime": null,
+    "recipe_id": "1269525",
+    "advice": "甘すぎるのが苦手な方は、しょうゆを少し足すといいですよ＾＾",
+    "history": "さっぱりして、すぐに作れるのが食べたかったので！",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スイートチリ 春雨"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1269525/100x141c/98d73bdfdeef2866881cb6525cfc645c.jpg?u=377757&p=1288168090"
+}

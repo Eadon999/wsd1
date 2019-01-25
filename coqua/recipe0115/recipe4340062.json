@@ -1,0 +1,67 @@
+{
+    "name": "少し甘めの肉豆腐！",
+    "author": {
+        "@type": "Person",
+        "name": "nz18Eli"
+    },
+    "image": "https://img.cpcdn.com/recipes/4340062/464x260/07f4fb5c5c2a917ae155c20a1fe5eba2.jpg?u=8366803&p=1487046332",
+    "datePublished": "2017-02-17",
+    "description": "料理酒をたくさん使った少し甘めの肉豆腐です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "150cc"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        }
+    ],
+    "recipeInstructions": [
+        "深めのフライパンに油をしき、牛肉を炒め、牛肉の色が変わったら玉ねぎを加えます。",
+        "1にお酒と水、だしの素、砂糖、醤油を加えて、豆腐も加えて煮込みます。",
+        "火が通ってきたら長ネギを加えて更に煮込みます。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "4340062",
+    "advice": "豆腐は木綿の方がいいと思います",
+    "history": "甘めの肉豆腐が食べたかったので",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "少し甘めの肉豆腐"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4340062/100x141c/9d22945d8d4751412a2cee12adb3658d.jpg?u=8366803&p=1487046332"
+}

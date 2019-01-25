@@ -1,0 +1,85 @@
+{
+    "name": "いんげん☆じゅわっと中華風",
+    "author": {
+        "@type": "Person",
+        "name": "駅前魔女食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/581561/464x260/a92a31591719ed7e69986396c27c9d1c.jpg?u=24807&p=1214220181",
+    "datePublished": "2008-05-30",
+    "description": "庭でとれたての新鮮なインゲンをいただきました。やわらかくて瑞々しくてとってもおいしいインゲンです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さやいんげん",
+            "quantity": "70g"
+        },
+        {
+            "name": "薄切り豚肉",
+            "quantity": "70g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1/4片"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１スライス"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "A)しょうゆ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "A)みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "A)酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "A)出汁",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "A)オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "A)胡麻油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "調味料A)は全部混ぜておきます。",
+        "いんげんは軽く下茹でし、たべやすい長さにきります。",
+        "薄切り豚肉は片栗粉をまぶしておきます。",
+        "フライパンにサラダ油を熱し、ニンニクと生姜の細切りを入れて香りを出します。",
+        "そこに豚肉を広げるように入れてざっと炒め、インゲンを加えて軽く混ぜます。",
+        "調味料A)をじゅわっじゅわっとまわしかけて、全体に味がなじんだら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "581561",
+    "advice": "材料を全部準備しておいてから一気に炒めます。",
+    "history": "今回、出汁は昆布と鰹節の和風出汁です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さやいんげん",
+        "薄切り豚肉",
+        "片栗粉",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/581561/100x141c/88f9f36a6d3bbddca7ce0742bc262e5e.jpg?u=24807&p=1214220181"
+}

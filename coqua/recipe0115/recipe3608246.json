@@ -1,0 +1,59 @@
+{
+    "name": "大根のオイスター煮",
+    "author": {
+        "@type": "Person",
+        "name": "oninopantu"
+    },
+    "image": "https://img.cpcdn.com/recipes/3608246/464x260/fecc3f10383ee576e3ce38b65106b629.jpg?u=8016002&p=1452130186",
+    "datePublished": "2016-01-07",
+    "description": "味染み大根いかがでしょう（*^_^*）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "生姜の薄切り",
+            "quantity": "３枚位"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "酒・砂糖・ｵｲｽﾀｰｿｰｽ",
+            "quantity": "各大２"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき１.5cm幅の半月切り\n人参も皮をむき乱切りにする。\n鶏もも肉は食べやすい大きさにカット",
+        "鍋に大根、鶏もも肉、生姜を入れる\n具材ひたひたの水を入れ、醤油・ｵｲｽﾀｰｿｰｽ・酒・砂糖を加えて強火にかける。 \n",
+        "煮立ったら弱火と中火の間にして煮込む\n途中何度か様子を見てアクをすくい取る。",
+        "３０分位煮たら火を消して冷ます\n食べる前に再び温めて召し上がれ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3608246",
+    "advice": "一度冷ます事で大根にグッと味がしみこみます",
+    "history": "実家から届く大根消費に",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "人参",
+        "醤油",
+        "水"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3608246/100x141c/d864e4ebf1bccf8156523e82ef2ab4e6.jpg?u=8016002&p=1452130186"
+}

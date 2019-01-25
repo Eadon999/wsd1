@@ -1,0 +1,75 @@
+{
+    "name": "いつもあなたと 速攻ひじきご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3603750/464x260/6fd2f790338d62c784a839e5a79253b5.jpg?u=2920899&p=1455749408",
+    "datePublished": "2016-01-04",
+    "description": "簡単に炊き込むだけ♪意外とおつまみにもなっちゃいます♪（あっ！あたしだけ）2016.9.28話題入り感謝です★",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "水",
+            "quantity": "350cc"
+        },
+        {
+            "name": "ひじき(乾燥)",
+            "quantity": "10ｇ～"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "焼き鮭（甘塩）（あれば）",
+            "quantity": "1切"
+        },
+        {
+            "name": "ごま油(仕上げ用)",
+            "quantity": "大匙1～"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "一つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯を研いで20～30分給水しておく。\n☆印の調味液を混ぜておく。",
+        "油揚げを縦半分にし、更に5～10mmの太さに切る。",
+        "給水した米に、調味液とひじき、カットした油揚げ、焼き鮭をほぐして合わせいれ入れ炊く。",
+        "炊き上がったら、ごま油を回しいれ、出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3603750",
+    "advice": "★焼き鮭を入れるときは、塩分があるので、塩を控えて下さい。逆に入れない時は、塩を倍投入して下さい。★ごま油は風味付けの為に、最後に回しいれて下さい。",
+    "history": "おつまみが無い時に、考え付きました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "ひじき",
+        "油揚げ",
+        "焼き鮭"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/3603750/100x141c/78955884cee5ebf58df29c6c19ba682f.jpg?u=2920899&p=1455749408"
+}

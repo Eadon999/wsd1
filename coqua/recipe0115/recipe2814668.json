@@ -1,0 +1,54 @@
+{
+    "name": "ナムル風◇小松菜のお浸し",
+    "author": {
+        "@type": "Person",
+        "name": "よこひぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2814668/464x260/114c317ea19d8e4a9cded7c55266089a.jpg?u=5145467&p=1411865512",
+    "datePublished": "2014-09-28",
+    "description": "調味料3種で簡単に出来ます。スイートチリソースのほのかな辛み、甘味がアクセント。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1/2把"
+        },
+        {
+            "name": "★スイートチリソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★ポン酢しょうゆ",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はシャキシャキ感を残すように茹でる。水にさらして色止めし、３~4㎝の長さに切る。水気はよく絞る。",
+        "★を良く混ぜて小松菜に和える。",
+        "器に盛り付け、ごまを掛けて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2814668",
+    "advice": "★は基本の分量です。味見してからお好みで調整して下さい。",
+    "history": "簡単に出来るナムルを研究中。季節の野菜で色々作りたいと思います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "スイートチリソース",
+        "ポン酢しょうゆ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2814668/100x141c/ddb3c6627e6bdf6c5b8bd1db15dd27d8.jpg?u=5145467&p=1411865512"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "小松菜と油揚げのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ねっちゃんっ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2359462/464x260/462150ebd5087818c4d0f0fb34764eba.jpg?u=1181844&p=1426731012",
+    "datePublished": "2013-09-30",
+    "description": "甘辛がじゅわ～っとしみたお揚げにシャキシャキ小松菜が食欲そそります。ほかほかご飯と一緒に頬張ると旨いんだなー♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1と1/2"
+        },
+        {
+            "name": "七味",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜と油揚げは食べやすくカットする。小松菜は茎と葉を分けておいてね♪",
+        "フライパンに胡麻油をひいて温め小松菜の茎を炒める",
+        "続けて油揚げと砂糖を入れて炒め馴染んだら葉と醤油を加えて炒める",
+        "お好みで仕上げに七味を振って出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2359462",
+    "advice": "時間差で炒めますが強火でチャチャっと短時間でどんどん加えていきます。炒めすぎないのがコツ☆調味料はお好みで増減して下さいね♪",
+    "history": "母の味です。煮浸しじゃないとこが母らしい味なのｶﾅ～と懐かしく美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 油揚げ"
+    ],
+    "tsukurepo_count": "248",
+    "thumbnail": "https://img.cpcdn.com/recipes/2359462/100x141c/63a9e81df44cf2a2ca85a85885cfde22.jpg?u=1181844&p=1426731012"
+}

@@ -1,0 +1,86 @@
+{
+    "name": "箸でつかむと切れちゃう生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ryo1com"
+    },
+    "image": "https://img.cpcdn.com/recipes/1523300/464x260/96a38b69ec47c5f6e41b9d2db0d7ace2.jpg?u=3392482&p=1369812294",
+    "datePublished": "2011-08-15",
+    "description": "玉ねぎﾊﾟﾜｰで、お箸でつかむとキレちゃうぐらい柔らかい生姜焼き！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース肉",
+            "quantity": "10枚"
+        },
+        {
+            "name": "茄子",
+            "quantity": "1本"
+        },
+        {
+            "name": "長芋",
+            "quantity": "5㎝"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "2本"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "◇生姜",
+            "quantity": "4欠片"
+        },
+        {
+            "name": "◇すりおろし玉ねぎ",
+            "quantity": "半玉"
+        },
+        {
+            "name": "◇醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "◇砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇ゴマ油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "◇の材料で豚ロース肉を漬け込み、空気が入らないように、ラップをして1時間漬け込みます。",
+        "キャベツは千切りに。その他野菜はグリルします！味付けは一切なし。",
+        "漬け込んだたれと一緒に豚肉をフライパンで焼き、お皿に盛りつければ完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1523300",
+    "advice": "漬け込む時間は長いですが、調理時間は短いので簡単レシピです。",
+    "history": "めちゃめちゃ柔らかい生姜焼き作りに挑戦してみました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ロース肉",
+        "茄子",
+        "長芋",
+        "ピーマン"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1523300/100x141c/158405f7372f962373ec841f2422d3ed.jpg?u=3392482&p=1369812294"
+}

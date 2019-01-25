@@ -1,0 +1,72 @@
+{
+    "name": "簡単！大根チヂミ",
+    "author": {
+        "@type": "Person",
+        "name": "maki❤︎mama"
+    },
+    "image": "https://img.cpcdn.com/recipes/3689966/464x260/d9a6fe5294d5af49cb5e45341e45ee4b.jpg?u=14245756&p=1455678990",
+    "datePublished": "2016-02-17",
+    "description": "大根を消費したい時に、家族が喜んで食べてくれるメニューです(^o^)",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "8センチくらい"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "かたくり粉",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3ぐらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにする。",
+        "薄力粉、片栗粉、水卵、塩、こしょうを入れて混ぜる。",
+        "フライパンにサラダ油とごま油を入れ、2を全部入れて中火で焼く、焼き目がついてきたらひっくり返す。",
+        "フタをして弱火で10分程蒸し焼きにする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3689966",
+    "advice": "大根は細いほうが火の通りがいいですが多少太くても弱火で少し長めに焼けば大丈夫です。",
+    "history": "おでんや煮物の大根が嫌いな子どもになんとか食べてもらえる料理はないかとチヂミに隠して入れてみたら大好評でした。ニラを入れないことでさめてもクセがなく食べやすいのでオススメですよ(^o^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/粉もの/チヂミ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チジミ 大根",
+        "大根 ちぢみ",
+        "チヂミ 簡単",
+        "大根 小麦粉 チヂミ"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/3689966/100x141c/d47002868db54a4434fb005f5ba0de5d.jpg?u=14245756&p=1455678990"
+}

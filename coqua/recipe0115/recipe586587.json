@@ -1,0 +1,66 @@
+{
+    "name": "きゅうりとカニかまの中華風ごま酢あえ",
+    "author": {
+        "@type": "Person",
+        "name": "キャラメリーナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/586587/464x260/17f7577b843bad333e2d8c3749697188.jpg?u=309628&p=1214220277",
+    "datePublished": "2008-06-08",
+    "description": "手軽にカニかまを使った、さっぱり美味しい中華風の酢の物です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "カニかま",
+            "quantity": "１００ｇくらい"
+        },
+        {
+            "name": "■酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "■塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "■白すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "■しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "■ごま油",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは斜め薄切りからせん切りにする。カニかまは粗くほぐしておく。",
+        "■のごま酢を混ぜ合わせておく。",
+        "食べる直前にあえる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "586587",
+    "advice": "好みでラー油や鷹の爪など少々加えてピリ辛にしても美味しいです。",
+    "history": "夏場によく登場するきゅうりの酢の物を中華風にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/中華風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごま酢",
+        "キュウリ カニカマ",
+        "きゅうりとカニカマの中華風"
+    ],
+    "tsukurepo_count": "1158",
+    "thumbnail": "https://img.cpcdn.com/recipes/586587/100x141c/65c49bb4ba4491a9f60d87c00681dfc7.jpg?u=309628&p=1214220277"
+}

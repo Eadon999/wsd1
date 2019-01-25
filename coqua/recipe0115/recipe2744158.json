@@ -1,0 +1,52 @@
+{
+    "name": "じゃがいものチーズガレット",
+    "author": {
+        "@type": "Person",
+        "name": "Ｄ−Ｔａｂｌｅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2744158/464x260/3d2daaebec97a2627fc1b74f5f34be85.jpg?u=4288834&p=1407640888",
+    "datePublished": "2014-08-10",
+    "description": "【管理栄養士のおつまみレシピ】ビタミンＣとカルシウムが摂れる簡単レシピ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "メークイン",
+            "quantity": "3個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは千切りにし、ボウルに入れます。",
+        "(1)のボウルにピザ用チーズ、片栗粉を入れて混ぜ合わせます。",
+        "フライパンにオリーブ油を中火で熱し、(2)の半量を入れ、丸く形をととのえて両面をカリッと焼きます。",
+        "焼きあがったら器に盛り、塩をふります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2744158",
+    "advice": "じゃがいもは、水にさらさないで使いましょう。",
+    "history": "じゃがいもをたくさんいただいた時に、子どものおやつに作りました。☆ありがとうございます。2014年12月9日話題入りしました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "メークイン おつまみ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/2744158/100x141c/0377a523553e6f5b2095e2255de59b7d.jpg?u=4288834&p=1407640888"
+}

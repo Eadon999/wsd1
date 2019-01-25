@@ -1,0 +1,62 @@
+{
+    "name": "オーブンで焼く ジューシースペアリブ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃめまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/563326/464x260/147f7a24eb7da97748df0ef36173dfdf.jpg?u=645242&p=1214219816",
+    "datePublished": "2008-05-03",
+    "description": "バーベキューに最適！ 家ではオーブンで、誰にでも簡単にできてとってもおいしいです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "スペアリブ",
+            "quantity": "500～600ｇ"
+        },
+        {
+            "name": "りんご",
+            "quantity": "半分"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/4コ"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "りんご・たまねぎ・にんにくはすりおろし、すべての材料を混ぜ スペアリブとビニール袋などに入れ半日～1日漬け込む。",
+        "汁気を取り、180℃に温めたオーブンで15～20分ほど焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "563326",
+    "advice": "漬けて焼くだけ、誰にでもできます！！  豚バラ肉の塊でもいいですよ～",
+    "history": "バーベキューの時は炭火で焼きますが、家ではオーブンを使って簡単に！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/スペアリブ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スペアリブ オーブン"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/563326/100x141c/0142e14280eca8deda8b74e48477a27f.jpg?u=645242&p=1214219816"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "ごはんがすすむ挽肉納豆",
+    "author": {
+        "@type": "Person",
+        "name": "みんりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/235522/464x260/c691d4a63d6c724b17be4aee86458e14.jpg?u=69064&p=1338254877",
+    "datePublished": "2006-01-25",
+    "description": "とってもおいしくて、我が家の常備食です。",
+    "recipeYield": "1回でつくりやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "納豆（たれ付き）",
+            "quantity": "３パック"
+        },
+        {
+            "name": "挽肉",
+            "quantity": "８０グラム"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "Ａ　砂糖",
+            "quantity": "大３杯"
+        },
+        {
+            "name": "Ａ　しょうゆ",
+            "quantity": "大１杯"
+        },
+        {
+            "name": "Ａ　赤味噌",
+            "quantity": "大２杯"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆、長ネギ、玉ねぎ、しょうがは、それぞれみじん切りにしておく。人参は、すりおろす。",
+        "厚手の鍋にサラダ油を入れ、しょうがを炒める。香りが出てきたら、挽肉、玉ねぎ、人参の順で加えながら、よく炒める。",
+        "Ａの調味料と納豆のたれを加えて味付けをしてから、納豆を入れて、混ぜ合わせる。納豆は、焦げやすいので、注意する。",
+        "最後に長ネギを加えて、さっと炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "235522",
+    "advice": "好みにより、味噌の量を加減してください。",
+    "history": "母の味ですが、チビちゃんたちに大好評なので、頻繁につくるようになりました。子供用には、ちょっと薄味で。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "挽肉",
+        "長ネギ",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/235522/100x141c/4bc36df0428df30c356e17798807534e.jpg?u=69064&p=1338254877"
+}

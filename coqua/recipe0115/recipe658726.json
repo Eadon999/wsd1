@@ -1,0 +1,59 @@
+{
+    "name": "水菜と油揚げの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "＊ゆり＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/658726/464x260/23198da7032b4959b9dc13b5062b9533.jpg?u=1001179&p=1233333813",
+    "datePublished": "2008-10-06",
+    "description": "ごま油と炒りごまの香りが香ばしい炒め物です。 お肉抜きなので、ヘルシーです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１/４本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１.５"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げをオーブントースターなどで、キツネ色になるまで焼き、細切りする。",
+        "水菜を５㎝位に切る。 \r\nにんじんを細切りする。",
+        "フライパンを熱し、にんじんを炒め、しんなりしたら水菜を入れ、強火でさっと炒める。",
+        "３に油揚げとごまを入れ混ぜ、しょうゆで調味する。"
+    ],
+    "cookTime": null,
+    "recipe_id": "658726",
+    "advice": "水菜の食感を生かすために強火で調理して下さい。",
+    "history": "菜食生活をするために、肉なしで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "にんじん",
+        "油揚げ",
+        "炒りごま"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/658726/100x141c/2559f43b83d2508592217b3f1c8bce33.jpg?u=1001179&p=1233333813"
+}

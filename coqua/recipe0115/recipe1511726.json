@@ -1,0 +1,54 @@
+{
+    "name": "夏にさっぱり☆レモンパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "cookpading"
+    },
+    "image": "https://img.cpcdn.com/recipes/1511726/464x260/41a60ee6e6dd68d9f4ac8831e07f872f.jpg?u=1405978&p=1312147066",
+    "datePublished": "2011-08-01",
+    "description": "いい材料があればこれだけで充分いけます☆手間なし簡単、夏にぴったり～",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "2人分"
+        },
+        {
+            "name": "レモン",
+            "quantity": "半分"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1~2"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタをたっぷりのお湯で茹でる。",
+        "茹でたてのパスタにオリーブオイルを回しかけ、レモンをしぼり、たっぷりのパルメザンチーズと黒こしょうをかけ、塩少々する。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1511726",
+    "advice": "良い粗挽き黒こしょう&オリーブオイルと、できれば削りたてのパルメザンチーズがあれば格段に味が違います！！素材の良さを最大限に生かして、ぜひお試しください♪",
+    "history": "シンプルですが美味しいです♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/オイル・塩系パスタ/アレンジオイル・塩系パスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レモン パスタ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1511726/100x141c/c400faf917d31589939c958797db7e5a.jpg?u=1405978&p=1312147066"
+}

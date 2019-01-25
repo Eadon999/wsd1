@@ -1,0 +1,84 @@
+{
+    "name": "mイカと小松菜のオイスター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "＊misacoro＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2030979/464x260/173702b4b7e801a139332eaf7ea49a3d.jpg?u=3676488&p=1421982455",
+    "datePublished": "2012-11-16",
+    "description": "ごはんが進む中華レシピ！これを出すと肉好きの彼氏も喜びます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ(冷凍でもOK)",
+            "quantity": "１匹(２００ｇ)"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "１束(２００ｇ)"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "A塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "A片栗粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "A酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "B鶏ガラだしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "Bオイスターソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "Bしょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "B砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "Bあればおろししょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "Bあればおろしにんにく",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "Bの調味料を合わせておく。",
+        "イカは一口大に切り\n、ｷｯﾁﾝﾍﾟｰﾊﾟｰで水気をとってからAの調味料をまぜあわせておく。",
+        "小松菜は４㎝長さに切る。",
+        "フライパンを温め、サラダ油をひき、②のイカを炒める。",
+        "イカに火が通ったら、③の小松菜を炒め合わせ、Bの調味料を入れて小松菜に火が通るまで炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2030979",
+    "advice": "イカの下味をっけることでプリプリジューシーに、仕上がります!しょうが、にんにくは好きなので入れましたが、なくてもオイスターソースの深みでとってもおいしいです。",
+    "history": "イカをごはんが進む濃厚な味に仕上げたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ",
+        "小松菜",
+        "サラダ油",
+        "合わせ調味料"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2030979/100x141c/863f26c4dfd1d01e03094e81e33b2ae1.jpg?u=3676488&p=1421982455"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "トマト＆アボカドのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1004107/464x260/4940d8b737569237428ace669f0247bf.jpg?u=377757&p=1262748850",
+    "datePublished": "2010-01-06",
+    "description": "赤と緑で彩りもよく、美味しい簡単スピードサラダ♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ミニトマト",
+            "quantity": "大きめ５個"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "レモン",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "シエロオリーブオイル",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトとアボカドはお好きな大きさに切って（同じくらいの大きさが好ましい）、残り全ての材料を混ぜ合わせる。",
+        "味見をしながら、塩とブラックペッパーで味を調えて完成！",
+        null,
+        null
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1004107",
+    "advice": "チーズをプラスしてもおいしいですよ！",
+    "history": "アボカドとトマトを使ってシンプルなサラダを作ってみようと思って！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/イタリアンサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマトアボカド"
+    ],
+    "tsukurepo_count": "331",
+    "thumbnail": "https://img.cpcdn.com/recipes/1004107/100x141c/18ac4c4675db39e293bffb94858f9636.jpg?u=377757&p=1262748850"
+}

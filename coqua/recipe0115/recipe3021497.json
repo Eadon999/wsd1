@@ -1,0 +1,67 @@
+{
+    "name": "アサリの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "楽ちん楽ちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3021497/464x260/f63530d59f373c64743ed93559bbf7db.jpg?u=2091321&p=1424168049",
+    "datePublished": "2015-02-17",
+    "description": "簡単でとても美味しいアサリの佃煮　１～２週間保存もＯＫ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "あさりむき身冷凍",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１カケ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "味醂",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "本だし",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "アサリむき身と生姜を用意",
+        "流水でむき身を溶かし、水を切っておきます。",
+        "生姜は皮をむき千切りにします。",
+        "鍋に調味料を全て入れ火にかけます。",
+        "生姜を入れます。",
+        "沸騰したらアサリを入れ強火にします。",
+        "こんな感じに成りますのでここで灰汁をとります。",
+        "暫く煮ると水分が少なく成るのでここで弱火にし、箸で混ぜながら水分をとばします。",
+        "箸で具材をよけた時水分が無くなっていればＯＫです。",
+        "完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3021497",
+    "advice": "最初は強火だけど水分が少なくなったら弱火で焦がさない様に。",
+    "history": "生姜の効いたアサリの佃煮を食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさりの佃煮",
+        "あさりむき身 佃煮"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/3021497/100x141c/3366e3106a1e7ea20bef4a9f4116d2c8.jpg?u=2091321&p=1424168049"
+}

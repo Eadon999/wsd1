@@ -1,0 +1,51 @@
+{
+    "name": "白菜と塩昆布のとろみ煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/979663/464x260/ea98d39a568e9fd4e6a3e48de483fde1.jpg?u=933655&p=1259641919",
+    "datePublished": "2009-12-01",
+    "description": "材料はこれだけ！簡単に出来ちゃうのに、とってもおいしいです♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "20ｇ～"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は手で食べやすい大きさにちぎる か包丁で食べやすい大きさに切る",
+        "フライパンに白菜、塩昆布、酒をいれて蓋をして蒸す",
+        "白菜がしんなりしたら蓋を開けてひと混ぜして、水溶き片栗粉でとろみをつけたら完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "979663",
+    "advice": "白菜の量で塩昆布の量は調節してください お使いの塩昆布によって、塩加減が違いますので、そちらもお好みで調節してくださいまずは少な目から、後で結構味が付くので、後から調節したほうがいいと思います♪",
+    "history": "白菜の消費のために考えました(*´∀`)ﾉﾟ.:｡+",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜　塩昆布　煮"
+    ],
+    "tsukurepo_count": "116",
+    "thumbnail": "https://img.cpcdn.com/recipes/979663/100x141c/df2ee2544909686ef8babfd2ee8ec44e.jpg?u=933655&p=1259641919"
+}

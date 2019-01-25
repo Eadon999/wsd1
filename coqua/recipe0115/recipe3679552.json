@@ -1,0 +1,68 @@
+{
+    "name": "かにかま入りかき玉汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3679552/464x260/fd460989cb8fbf1ca3d4fa3cd5ff4f5d.jpg?u=4819316&p=1455114450",
+    "datePublished": "2016-02-10",
+    "description": "とろーりかき玉汁、寒い日にはこれで暖まります、お試し下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "かにかまぼこ",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "２本"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かにかまぼこは裂いておく、三つ葉は３センチ長さに切る",
+        "鍋に水を沸騰させ、かにかまぼこと●を入れて混ぜる",
+        "水溶き片栗粉を入れて混ぜてとろみを付け、溶いた卵を流し入れる",
+        "お碗によそい、三つ葉を散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3679552",
+    "advice": "卵は１個使うとちょっと多いかなと思って１／２個にしていますが、卵が好きな方とか１個でも良いです",
+    "history": "自分のレシピ「かき玉汁にゅうめん」(ID=2878707)を参考にしています、そうめんをかにかまぼこに替えたようなものです",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物",
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かにかまぼこ",
+        "卵",
+        "三つ葉",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3679552/100x141c/c063506b7e73224c1daec80703ffa96f.jpg?u=4819316&p=1455114450"
+}

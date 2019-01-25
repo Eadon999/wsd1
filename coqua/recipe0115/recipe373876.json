@@ -1,0 +1,57 @@
+{
+    "name": "◇塩昆布と青ねぎとごまのおにぎり◇",
+    "author": {
+        "@type": "Person",
+        "name": "kuikomi"
+    },
+    "image": "https://img.cpcdn.com/recipes/373876/464x260/4c89920d66d0dfe71c04173118e699c9.jpg?u=408538&p=1247020413",
+    "datePublished": "2007-05-15",
+    "description": "好きなものを混ぜ込んでおにぎりにしました。ねぎのシャキシャキとごまのプチプチ、塩昆布の塩気がたまらない♪ ",
+    "recipeYield": "中くらい２個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗１杯強"
+        },
+        {
+            "name": "○塩昆布",
+            "quantity": "１～２つまみ位"
+        },
+        {
+            "name": "○青ねぎ",
+            "quantity": "大さじ１～好みで"
+        },
+        {
+            "name": "○ごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩（好みで）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに○の材料を入れて混ぜたら、熱いご飯を入れて混ぜ混ぜ。\r\n好みで塩を加えて塩加減を調整してください。\r\nあとは握るだけ～☆",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "373876",
+    "advice": "材料はお好みで量を調整してください♪ラップを使うときれいに握れます☆",
+    "history": "朝ごはんどうしようか迷って、冷蔵庫に残っていた青ねぎに、好きなもの入れて握ってみたらおいしい～☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": [
+        "青ネギ 9位"
+    ],
+    "related_keywords": [
+        "塩こんぶ おにぎり",
+        "青ネギ"
+    ],
+    "tsukurepo_count": "230",
+    "thumbnail": "https://img.cpcdn.com/recipes/373876/100x141c/1b14d5a67d3b20d60d22fed877981031.jpg?u=408538&p=1247020413"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "うちの　素うどん。",
+    "author": {
+        "@type": "Person",
+        "name": "Drako"
+    },
+    "image": "https://img.cpcdn.com/recipes/1361319/464x260/71d7ce22eaa0852f6d6825995675ed7d.jpg?u=2856226&p=1394975025",
+    "datePublished": "2011-02-15",
+    "description": "★話題入り感謝★うどんがそんなに好きではない主人も、これはおいしいと汁まで飲み干します。2013/11/30レシピ修正",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "☆水",
+            "quantity": "800cc"
+        },
+        {
+            "name": "☆だしの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆めんつゆ（３倍濃縮）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1/3〜"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "小さじ1強"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に☆を入れて煮立たせ、うどんを入れ、2～3分ゆでたらできあがり♪",
+        "天ぷらにした次の日のお昼に、残りもので天ぷらうどんにすることが多いです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1361319",
+    "advice": "うどんは、加ト吉の冷凍うどんがおすすめです☆こしがあっておいしい～！だしの素やめんつゆの種類によって味が変わってくるので、塩は味を見ながら調節してください。",
+    "history": "毎回つくるたびに味が違うので、レシピ化してみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": [
+        "素うどん 1位"
+    ],
+    "related_keywords": [
+        "素うどん",
+        "素うどん めんつゆ",
+        "素うどん つゆ",
+        "冷凍うどん 素うどん"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1361319/100x141c/9939b02ffc8ff44a83a13ef47dce225e.jpg?u=2856226&p=1394975025"
+}

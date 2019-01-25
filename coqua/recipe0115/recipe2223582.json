@@ -1,0 +1,59 @@
+{
+    "name": "お豆さんのぴり辛にんにく炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2223582/464x260/8b67d846d9e27e517a02d9869b7d5929.jpg?u=2513693&p=1368595807",
+    "datePublished": "2013-05-17",
+    "description": "さやえんどうやスナップエンドウ、インゲンなどを使って作る、にんにくたっぷりぴり辛のビールにあう一品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さやえんどう、スナップエンドウ、インゲンなど",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "にんにく（みじんぎり）",
+            "quantity": "２片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ、みりん",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ３分の１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豆は筋があるものは取り除く。",
+        "フライパンにごま油とにんにくを入れ中火で熱し、にんにくが少し色づくまで炒め①を入れる。",
+        "豆に少し固さが残る程度まで炒め、【A】を入れ汁気がなくなるまで炒め完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2223582",
+    "advice": "",
+    "history": "毎日採れる豆類を、飽きずにたくさん食べられるようなレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/スナップえんどう",
+        "その他/スパイス＆ハーブ/にんにく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにく",
+        "ごま油",
+        "豆板醤",
+        "塩"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2223582/100x141c/e6df9bf55754f4e2599ff3653051bb0b.jpg?u=2513693&p=1368595807"
+}

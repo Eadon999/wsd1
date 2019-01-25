@@ -1,0 +1,52 @@
+{
+    "name": "ほうれん草と揚げ　豆腐の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3517798/464x260/ca7b1d4e2d147b4a9d799d9aa4da0296.jpg?u=822079&p=1447554378",
+    "datePublished": "2015-11-15",
+    "description": "ほうれん草の甘みが美味しい～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "小パック1"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "800ｍｌ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "おおさじ3-4"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は横半分に切り１．５センチ幅のさいの目に切る",
+        "　湯通しした油揚げをお好みのサイズにきる　\n　鍋にだし汁、揚げをいれ沸かす　",
+        "沸騰したらほうれん草　豆腐を入れる\nひと煮たちさせ味噌を溶かしいれ完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3517798",
+    "advice": "ほうれん草の根元が太ければ揚げと一緒にゆでてもお好みでどうぞ♪",
+    "history": "大好きほうれん草で＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐味噌汁",
+        "ほうれん草 味噌汁"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/3517798/100x141c/352242087ce0d8d7dc09c6a1311b3608.jpg?u=822079&p=1447554378"
+}

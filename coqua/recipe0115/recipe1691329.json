@@ -1,0 +1,71 @@
+{
+    "name": "にんじんとかぶのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "SandyMiao"
+    },
+    "image": "https://img.cpcdn.com/recipes/1691329/464x260/938d81aa26834ef3aceb553dc43eab86.jpg?u=3464912&p=1338179926",
+    "datePublished": "2012-02-02",
+    "description": "かぶとにんじんの絶妙な組み合わせ。箸休みにもお弁当のおかずにもぴったりの一品。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん（大）",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "かぶ(S)",
+            "quantity": "３個"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "２本"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "黒砂糖",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶとにんじんを半月状に切る。唐辛子を小口切りにする。",
+        "フライパンにごま油大匙１を足し、熱したら、１のにんじんと唐辛子をいれ、いためる。",
+        "やや火が通ったら、１のかぶを加え、調味料をいれ、味をよく絡めながら、手早く炒める。",
+        "仕上げに白胡麻をふりかけ、器に盛ったら、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1691329",
+    "advice": "",
+    "history": "葉野菜が高騰なこのところに根野菜を多めに食べるようにしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "かぶ",
+        "赤唐辛子",
+        "白ごま"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1691329/100x141c/cd5187029c538b824c4b5dbc127ad2d1.jpg?u=3464912&p=1338179926"
+}

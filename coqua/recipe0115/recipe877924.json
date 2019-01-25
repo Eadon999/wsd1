@@ -1,0 +1,64 @@
+{
+    "name": "納豆とわかめの冷やしうどん",
+    "author": {
+        "@type": "Person",
+        "name": "cooktorako"
+    },
+    "image": "https://img.cpcdn.com/recipes/877924/464x260/01f6c51ffa099a73f742db3a201feb9e.jpg?u=1452025&p=1279204739",
+    "datePublished": "2009-07-30",
+    "description": "納豆、わかめ、梅干し、かつおぶし、白ごま。おうちにあるもので栄養満点♪（写真は手打ちうどんで作りました！）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "納豆",
+            "quantity": "２パック"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "2コ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんは茹でて、冷水でよくもみ、しめる。",
+        "納豆は付属のたれとよくまぜておく。",
+        "青じそは細切りにする。",
+        "１を丼にもり、２の納豆、わかめをのせ、梅干し、白ごま、青じそをトッピングする。",
+        "４に麺つゆをまわしかけて完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "877924",
+    "advice": "",
+    "history": "あまり食欲がなくても栄養バランスのよい食事をしたいと思い考案。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/冷やしうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん",
+        "納豆",
+        "わかめ",
+        "梅干し"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/877924/100x141c/547f529834c61a8b41286038e0759376.jpg?u=1452025&p=1279204739"
+}

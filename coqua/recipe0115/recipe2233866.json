@@ -1,0 +1,60 @@
+{
+    "name": "トマトとみょうがのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "☆Haru☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2233866/464x260/32018452fab45a243ff6580b7250d411.jpg?u=4415435&p=1369381030",
+    "datePublished": "2013-05-25",
+    "description": "★2013/6/27話題入り感謝★夏の野菜を美味しく、さっぱり、たっぷり、食べたくて❤",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "中１個"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "１～２個"
+        },
+        {
+            "name": "◆ポン酢しょう油",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "◆ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◆砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "◆（お好みで）ガーリックパウダー",
+            "quantity": "適宜"
+        },
+        {
+            "name": "（あれば飾りで）パセリ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは食べやすい大きさに切る。",
+        "みょうがは縦に半分に切った後、斜めに薄切りにする。",
+        "◆の調味料類を混ぜ合わせ、そこへ２のみょうがをいれ馴染ませる。",
+        "トマトに３をかけてできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2233866",
+    "advice": "簡単なので特になし＾＾♫（私でも出来る❤）",
+    "history": "暑くなると何となく食べたくなる「みょうが」と大好きな「トマト」の組合せ❤",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みょうが トマト"
+    ],
+    "tsukurepo_count": "235",
+    "thumbnail": "https://img.cpcdn.com/recipes/2233866/100x141c/3313c0aae1cd3846d7229e6959a3360e.jpg?u=4415435&p=1369381030"
+}

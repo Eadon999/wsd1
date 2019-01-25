@@ -1,0 +1,48 @@
+{
+    "name": "キャベツとハムの簡単マヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ミコおばちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4127815/464x260/78b852dad423abea5a78d18fd319aa84.jpg?u=2894472&p=1476751510",
+    "datePublished": "2016-10-18",
+    "description": "キャベツがたくさん食べられるので、お勧めそして、何よりも懐かしの一品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "ハム",
+            "quantity": "72ｇ"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "3ｇ"
+        },
+        {
+            "name": "マヨネ-ズ",
+            "quantity": "小4"
+        }
+    ],
+    "recipeInstructions": [
+        ",キャベツはよく洗い、せん切りにしておきます。\n\nハムは細く切っておきます。",
+        "キャベツは塩を少しふり、塩もみをしておきます。",
+        "ボールに2、ハムを入れ、塩、コショウ、マヨネーズを入れて、混ぜて、完成・",
+        "3を器に盛りつけ、頂きます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4127815",
+    "advice": "自家製のマヨネーズを使った、あっさりのサラダです。",
+    "history": "おいしそうなキャベツを見つけたので、たくさん食べたくて、作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ハム サラダ"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/4127815/100x141c/5ddd5d6482cbfab39a2cee91dc8af255.jpg?u=2894472&p=1476751510"
+}

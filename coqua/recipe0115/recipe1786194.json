@@ -1,0 +1,53 @@
+{
+    "name": "❀簡単♪さつまあげのワサネギマヨがけ❀",
+    "author": {
+        "@type": "Person",
+        "name": "nasubeam"
+    },
+    "image": "https://img.cpcdn.com/recipes/1786194/464x260/76d63b7c924518c99821f50bb3bae6af.jpg?u=2944712&p=1341060563",
+    "datePublished": "2012-04-21",
+    "description": "トースターで焼いて簡単に♪わさびが効いてて美味しいですよ～♡あと1品に、おつまみにちょうどイイ♫",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまあげ",
+            "quantity": "小なら4枚"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆わさび（チューブ）",
+            "quantity": "3～4cm"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆ねぎの小口切",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまあげはアルミホイルに乗せ、トースターでこんがりと焼く。",
+        "少し冷めてから5mm幅ぐらいに細切りにして器に盛り付ける。",
+        "☆を混ぜ合わせて２にかける。\n出来上がり♪",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1786194",
+    "advice": "さつまあげは焼き色がつくまで焼いてください。",
+    "history": "さつまあげを使って簡単に♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ",
+        "さつま揚げ 焼く"
+    ],
+    "tsukurepo_count": "315",
+    "thumbnail": "https://img.cpcdn.com/recipes/1786194/100x141c/10ca8cf71c37cb3f3594eee1dd3cf9ab.jpg?u=2944712&p=1341060563"
+}

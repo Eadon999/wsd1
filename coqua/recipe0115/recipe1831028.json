@@ -1,0 +1,65 @@
+{
+    "name": "超簡単★クリーミーごぼうサラダ　",
+    "author": {
+        "@type": "Person",
+        "name": "JlovesS"
+    },
+    "image": "https://img.cpcdn.com/recipes/1831028/464x260/9df2fcdc071abe4b541813c4892f1ceb.jpg?u=4191242&p=1338709863",
+    "datePublished": "2012-06-03",
+    "description": "超簡単！初心者さんにも～★シャキシャキ食感がたまりません♪11/3/'12 話題入り。れぽして下さった方に感謝！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴボウ（千切り）",
+            "quantity": "１/2本"
+        },
+        {
+            "name": "人参（千切り）",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "レンコン（薄切り）",
+            "quantity": "３ｃｍ分"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大３"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "中１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "根菜類をシリコンスチーマーで３分チンしてざるにあげて冷ます。",
+        "ボールにドレッシングの材料を全て入れて混ぜる。",
+        "冷ました１を２に入れて和える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1831028",
+    "advice": "",
+    "history": "冷蔵庫で余っていたゴボウ、レンコンの救済に。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼうサラダ"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/1831028/100x141c/8d7d6028c6346297ae12eae46ceb2f5f.jpg?u=4191242&p=1338709863"
+}

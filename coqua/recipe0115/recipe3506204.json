@@ -1,0 +1,45 @@
+{
+    "name": "しめじだけのバタポン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "oninopantu"
+    },
+    "image": "https://img.cpcdn.com/recipes/3506204/464x260/32c38cfd372a969a655de9985e442fe8.jpg?u=8016002&p=1447043735",
+    "datePublished": "2015-11-09",
+    "description": "お宅の冷蔵庫に余っている「しめじ」ございませんか？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "味ポン",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは石づきを取ってバラしておく",
+        "中火で熱したフライパンにバターを入れ\nバターが溶けてきたらしめじ投入",
+        "火が通ってきたら味ぽんを入れ\nサッと炒めたら完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3506204",
+    "advice": "我が家はチビ助が食べるので入れませんでしたが最後に黒コショウを入れても美味しいですしめじは半分に割って逆Ｖ字に包丁を入れると無駄なく使えます",
+    "history": "冷蔵庫に取り残されていたしめじ救出大作戦を決行いたしました∠(@O@) ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "バター",
+        "味ポン"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/3506204/100x141c/984b56eb3da83185faed8845cfaa7e3a.jpg?u=8016002&p=1447043735"
+}

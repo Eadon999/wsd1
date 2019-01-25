@@ -1,0 +1,56 @@
+{
+    "name": "シソ味噌",
+    "author": {
+        "@type": "Person",
+        "name": "ヴァルリン"
+    },
+    "image": "https://img.cpcdn.com/recipes/213952/464x260/412363ccd55a548979a48df7d4ca05b9.jpg?u=14435&p=1214212180",
+    "datePublished": "2005-08-30",
+    "description": "畑いっぱいの赤シソ。植えた覚えがないので、いったいどこから来たの？？でも、歓迎します～。ついでにシソ味噌にして胃袋に収まっちゃいました（笑）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "赤シソの葉",
+            "quantity": "１００枚位"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "ザラメ",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "シソの葉は、みじん切りにします。フライパンに油を大さじ１温めて、５分くらい炒めます。",
+        "調味料を全部加えて、少し煮詰めます。\r\n焦がさないように注意。\r\n味は、好みによって加減してください。大体の目安です。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "213952",
+    "advice": "シソの葉はよく洗いましょう。また、やわらかい葉を使います。青シソでもｏｋです。",
+    "history": "毎年作っているけど、とりあえず記録します。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉",
+        "その他/発酵食品・発酵調味料/味噌（みそ）"
+    ],
+    "rankings": [
+        "しそ味噌 7位"
+    ],
+    "related_keywords": [
+        "赤シソの葉",
+        "味噌",
+        "ザラメ",
+        "みりん"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/213952/100x141c/37277f9cfac01b7e189061b846d38b22.jpg?u=14435&p=1214212180"
+}

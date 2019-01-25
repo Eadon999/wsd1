@@ -1,0 +1,59 @@
+{
+    "name": "大根とブロッコリーのポタージュ",
+    "author": {
+        "@type": "Person",
+        "name": "まよっちきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3531370/464x260/830ecdaa8c420ae07845621de0e57b60.jpg?u=749253&p=1448164911",
+    "datePublished": "2015-11-22",
+    "description": "ポタージュにすると野菜の栄養を余すことなく吸収出来ます。色んな野菜をポタージュにして栄養取りましょう。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "5cm〜8cm"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "5房ぐらい"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "創味シャンタンDX",
+            "quantity": "4g"
+        },
+        {
+            "name": "成分無調整豆乳",
+            "quantity": "50cc"
+        },
+        {
+            "name": "クルトン",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は小さな角切りにしておきます。",
+        "お鍋にお水と創味シャンタンDXを溶かし、大根を入れて煮込みます。",
+        "大根が柔らかくなってきたら、ブロッコリーもいれ一緒に煮込みます。",
+        "ミキサーをかけて鍋に戻し、豆乳をいれて再度沸かしたら出来上がり。\n\n器に入れたらクルトン飾りましょう。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3531370",
+    "advice": "特にありません。色んな野菜でお試し下さい。",
+    "history": "野菜の栄養を、子供も食べやすく余すことなく取るためにポタージュにしてみました。味付けは創味シャンタンDXだけなので、簡単なのにめっちゃ美味しいですよ！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ブロッコリー",
+        "水",
+        "創味シャンタンDX"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3531370/100x141c/38030bc7d7e466219e4a75e78b3688b1.jpg?u=749253&p=1448164911"
+}

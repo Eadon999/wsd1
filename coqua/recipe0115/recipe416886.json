@@ -1,0 +1,56 @@
+{
+    "name": "そぼろレタスチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/416886/464x260/9231aa6dbca6e3fa6daf4476b57fc5f0.jpg?u=230354&p=1214216958",
+    "datePublished": "2007-08-13",
+    "description": "しっかり味のついたそぼろにシャキシャキレタスの食感がおいしいチャーハンです♫",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "牛ひき肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "レタス",
+            "quantity": "2枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗大盛り1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは手で適当にちぎる。油をひいたフライパンを熱し、卵をふんわりとスクランブルエッグにして一旦取り出す。",
+        "牛ひき肉を炒め、色が変わったら、醤油と砂糖を加えて汁気がなくなるまで炒める。",
+        "ご飯を加えてほぐしながら炒め、パラパラに炒まったら、卵をもどし、レタスも加えてさっと炒めて出来上がり♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "416886",
+    "advice": "そぼろにしっかり味がついているので、味付けはこれだけで。足りないな～と思う方はお好みで調味してくださいね。",
+    "history": "レタスチャーハンとそぼろご飯で悩んだので（笑）",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そぼろ チャーハン",
+        "レタスチャーハン"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/416886/100x141c/56e69f6ac6d474443fe3449fd07414e2.jpg?u=230354&p=1214216958"
+}

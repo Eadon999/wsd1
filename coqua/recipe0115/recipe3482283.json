@@ -1,0 +1,48 @@
+{
+    "name": "チアシード！ほんのり甘いふわふわ卵",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3482283/464x260/04587e1c697fa729809480825ecd77e0.jpg?u=4376699&p=1445964014",
+    "datePublished": "2015-10-30",
+    "description": "お弁当の片隅に合うチアレシピです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "チアシード",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "卵とチアと砂糖をよく混ぜる\nオリーブオイルを２分程温め卵を一気に流し入れるとふくれるので軽くまとめて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3482283",
+    "advice": "ふわふわ卵　ID:3336618油の温度が低いとふくれないのでちょっと卵を落として見ましょう",
+    "history": "ふわふわ卵を作る時にチアを入れてみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "チアシード",
+        "砂糖",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3482283/100x141c/6dd4968753d905916c7e3de6e8fd55d4.jpg?u=4376699&p=1445964014"
+}

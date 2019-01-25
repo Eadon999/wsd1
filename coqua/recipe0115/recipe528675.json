@@ -1,0 +1,62 @@
+{
+    "name": "◇牛肉と小松菜の簡単うま炒め◇",
+    "author": {
+        "@type": "Person",
+        "name": "モリボーノ"
+    },
+    "image": "https://img.cpcdn.com/recipes/528675/464x260/063279fb25ffac86bb30a66fe4cf3415.jpg?u=618394&p=1214219110",
+    "datePublished": "2008-03-12",
+    "description": "◇話題のレシピありがとう◇簡単に出来ておいしい牛肉を使った炒め物です。小松菜を入れるのでカルシウムも摂れますよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（バラでもこま切れでもOk）",
+            "quantity": "150g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "５株"
+        },
+        {
+            "name": "生しいたけ",
+            "quantity": "4個"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●にんにくすおろし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉は5cmの長さに切ります。小松菜はよく洗い、５cmの長さに、生しいたけは1cm厚の薄切りに切ります。",
+        "フライパンに油を熱し、牛肉を炒めて取り出します。同じフライパンに油をひいて、生しいたけ、小松菜を炒めます。牛肉を戻し入れて、●の調味料を入れてサッと炒め合わせて完成です。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "528675",
+    "advice": "生しいたけの代わりに干ししいたけを使ってもおいしく出来ます。",
+    "history": "適当にある材料で作っているレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "小松菜",
+        "生しいたけ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/528675/100x141c/3e131bde01a023ed35f6c7bb62635b64.jpg?u=618394&p=1214219110"
+}

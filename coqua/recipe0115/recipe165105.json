@@ -1,0 +1,68 @@
+{
+    "name": "チンゲン菜の炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "ただっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/165105/464x260/b7189e37cbb47f8645b4692b6606f45b.jpg?u=52923&p=1215133388",
+    "datePublished": "2004-10-16",
+    "description": "薄味でチンゲン菜の食感も残っている。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２個"
+        },
+        {
+            "name": "うす揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "カップ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は茎と葉を切り分ける。うす揚げに熱湯をかけ、油抜きをし、細かく切る。",
+        "フライパンにサラダ油を入れ、チンゲイ菜の茎を入れて炒める。",
+        "あとで葉を入れサッと炒める。",
+        "鍋にだし汁、砂糖、薄口醤油、酒、塩を入れ煮立てる。炒めたチンゲン菜、うす揚げを入れて軽く煮る。",
+        "出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "165105",
+    "advice": "チンゲン菜の茎を先に炒める。",
+    "history": "居酒屋で教えてもらった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜",
+        "うす揚げ",
+        "だし汁",
+        "砂糖"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/165105/100x141c/438b0770682edb5696840f9c848b7b39.jpg?u=52923&p=1215133388"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "温豆腐の卵あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2445370/464x260/5862dd6ca68628e7ed1abae2cecaa452.jpg?u=4819316&p=1387975847",
+    "datePublished": "2013-12-25",
+    "description": "安価な材料で温まります、冬には有難いメニューです",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１／２丁"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ(みじん切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "●めんつゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は２センチ角に切り、分量外の水を沸騰させた鍋に入れて２～３分加熱する",
+        "豆腐はざるに上げて水気を切る",
+        "鍋に●を入れて煮立たせ、弱火にして水溶き片栗粉を入れて混ぜとろみを付ける",
+        "火を止めて溶いた卵を入れて軽くかき混ぜる",
+        "器に２の豆腐を入れて上から４の卵あんをかけ、ねぎと刻み海苔を散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2445370",
+    "advice": "実際には１、２の行程と、３，４の行程は２つのバーナーで同時進行することでアツアツのあんかけ豆腐になります。",
+    "history": "自分のレシピのなすのレンジ蒸し卵あんかけ（2297760）の応用です。冬はこちらでしょう。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "卵",
+        "ねぎ",
+        "刻み海苔"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2445370/100x141c/451816d69cdc70f3fe753d72694907b9.jpg?u=4819316&p=1387975847"
+}

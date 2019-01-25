@@ -1,0 +1,43 @@
+{
+    "name": "お気に入り★納豆キムチごはん♪",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1158329/464x260/c623f6b0e241a62663c3224f804a9964.jpg?u=268332&p=1276495236",
+    "datePublished": "2010-06-14",
+    "description": "★2015.11.11★話題入り♡納豆とキムチがあればもう満足★私のお昼ご飯（・_・）中粒納豆で満足！",
+    "recipeYield": "１人",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗軽めに１杯"
+        },
+        {
+            "name": "中粒納豆タレ付き",
+            "quantity": "１パック"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごはんにキムチをのせて。",
+        "気が済むまで混ぜ混ぜしたタレ入りの納豆をのっける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1158329",
+    "advice": "極小粒もいいけど、中粒だとちょっと贅沢な感じ☆",
+    "history": "ひとりで食べるお昼ごはんには納豆がかかせない！今日はキムチ入り～★",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "キムチ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1158329/100x141c/ad87890a47fef22e60964c2893566f06.jpg?u=268332&p=1276495236"
+}

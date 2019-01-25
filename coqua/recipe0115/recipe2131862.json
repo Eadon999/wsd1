@@ -1,0 +1,61 @@
+{
+    "name": "白菜の大量消費に☆白菜とツナのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "SACHIFEB"
+    },
+    "image": "https://img.cpcdn.com/recipes/2131862/464x260/70e8c94f1f2664659c3e363936d843da.jpg?u=3108071&p=1412777825",
+    "datePublished": "2013-02-24",
+    "description": "白菜の大量消費に！少ない材料で、簡単スピーディーに作る事ができます。2013.10.16皆様のおかげで話題のレシピ入り♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/4"
+        },
+        {
+            "name": "ツナ缶(小さいサイズ)",
+            "quantity": "80グラム"
+        },
+        {
+            "name": "A醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "A砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は、5㎜幅くらいの千切りにする。",
+        "耐熱容器にツナ(汁ごと)、Aの調味料を入れ混ぜ合わせ、ラップをして1分加熱する。",
+        "ボウルに白菜、塩胡椒、酢を入れ、2のツナを熱いうちに入れて混ぜ合わせる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2131862",
+    "advice": "温めたツナと調味料は、熱いうちに白菜と合わせます。白菜がしんなりとなり、味がよく馴染みます。",
+    "history": "白菜が安く(^-^;丸々一個買ってしまったので大量消費にと考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ",
+        "その他/限られた食材で工夫/缶詰アレンジ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 大量消費",
+        "白菜 大量消費 簡単"
+    ],
+    "tsukurepo_count": "163",
+    "thumbnail": "https://img.cpcdn.com/recipes/2131862/100x141c/81f7abba9df2e9f8ac75f457db4ec871.jpg?u=3108071&p=1412777825"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "生姜風味の鶏ピーマン",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/204013/464x260/15fe2ec3d4fd29cd270b10e0c5b542dc.jpg?u=57297&p=1214212006",
+    "datePublished": "2005-06-22",
+    "description": "生姜やレモンでサッパリ食べられる。これ旨いよ☆《ご飯もビールもいけるでしょ♪☆》 ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏腿肉",
+            "quantity": "１杯"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "５～６個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "２"
+        },
+        {
+            "name": "しょうが汁",
+            "quantity": "１"
+        }
+    ],
+    "recipeInstructions": [
+        "タレ：醤油２、砂糖２、レモン汁１、ケチャップ１、生姜汁１",
+        "鶏肉を軽く塩胡椒、オリーブオイルで炒めます。\r\nピーマンも入れて火が通ったら、タレをジャーッと入れて\r\n絡めます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "204013",
+    "advice": "パパッと作れるしね☆",
+    "history": "ピーマンって意外と冷蔵庫に余ってますね。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏腿肉",
+        "ピーマン",
+        "醤油",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/204013/100x141c/f7ee764daedb5a3f461a655b3ac539ed.jpg?u=57297&p=1214212006"
+}

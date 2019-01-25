@@ -1,0 +1,54 @@
+{
+    "name": "【農家のレシピ】やみつきもやし",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1736473/464x260/10500713b818921d2521a8b3fc8c0caf.jpg?u=2513693&p=1331464297",
+    "datePublished": "2012-03-21",
+    "description": "食べだしたら止まらないやみつきもやし。１人１袋で足らないかもよ～♪",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ニンニク（すりおろし）",
+            "quantity": "１片分"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１～３分の２"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "七味",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは熱湯で１分間、強火で茹でざるにあげてお湯を切り、【A】で和えて完成です。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1736473",
+    "advice": "■もやしは「太もやし」がおススメです。■お酒のあてにするなら、塩は小さじ３分の２は入れたほうがいいですよ。",
+    "history": "やみつきの法則。ごま油＋塩、そしてレモン。これはよく使うのですが、もやしの場合はさらにニンニクと七味をプラスしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "やみつきもやし",
+        "農家のレシピ もやし"
+    ],
+    "tsukurepo_count": "213",
+    "thumbnail": "https://img.cpcdn.com/recipes/1736473/100x141c/c59af4051b09e1a4c6875d290bf410fb.jpg?u=2513693&p=1331464297"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "キャベツとカニカマのレモンマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "おぶうさま"
+    },
+    "image": "https://img.cpcdn.com/recipes/422183/464x260/8adf7c72b0faccd4f670a3ae6ba3fe99.jpg?u=47582&p=1214217070",
+    "datePublished": "2007-08-27",
+    "description": "レモンがさっぱりのサラダ。いろいろな応用がきくので便利です♡冷た～くしてどうぞ。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "４～５枚"
+        },
+        {
+            "name": "カニカマ（サラダ用フレーク）",
+            "quantity": "１パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ポッカレモン１００",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "白胡麻（お好みで）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切りにし、耐熱容器に入れて電子レンジで加熱する。",
+        "《１》にほぐしたカニカマ、ポッカレモン、マヨネーズを加えて混ぜる。",
+        "よく冷やして、お好みで白胡麻を加えてどうぞ。",
+        "2015.8.27、クックパッドニュースで紹介していただきました。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "422183",
+    "advice": "きゅうり、わかめ、コーンなど、お好みでいろいろ加えてアレンジしてくださいね。",
+    "history": "後一品・・・というときに、冷蔵庫にあったもので作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ カニカマ サラダ",
+        "キャベツ カニカマ"
+    ],
+    "tsukurepo_count": "354",
+    "thumbnail": "https://img.cpcdn.com/recipes/422183/100x141c/2a10f45a4ad46a61bd882e5e602e1023.jpg?u=47582&p=1214217070"
+}

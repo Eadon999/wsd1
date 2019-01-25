@@ -1,0 +1,57 @@
+{
+    "name": "簡単料理☆卵とキムチのレンジだけのおかず",
+    "author": {
+        "@type": "Person",
+        "name": "☆☆☆かなこ☆☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2241663/464x260/9e06f027408de39d1c76fb213e96f663.jpg?u=5753012&p=1433324321",
+    "datePublished": "2013-05-31",
+    "description": "つくれぽ50突破！作り方全部に写真あり！食材5つだけ！火を使わず5分で調理！使う食材順に並んでます。",
+    "recipeYield": "１～２人前",
+    "recipeIngredient": [
+        {
+            "name": "卵(M)",
+            "quantity": "1ヶ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "10g"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "80g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "5g"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "器に卵、マヨネーズをいれ、よく混ぜる。",
+        "①ラップをして電子レンジ（600w）で1分温め、全部に火が通ったら、お箸などで全体を混ぜる。",
+        "②の卵の中に、キムチ、ごま油をいれ、全体をよく混ぜる。",
+        "皿に盛り、お好みで刻み海苔をのせる。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2241663",
+    "advice": "簡単にできあがります！",
+    "history": "ガスを使わない料理を考えました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": [
+        "簡単料理 1位"
+    ],
+    "related_keywords": [
+        "キムチ 卵",
+        "電子レンジ おかず",
+        "簡単料理",
+        "キムチ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/2241663/100x141c/1f66ba7aefea9ac2ad4ad43864ab430f.jpg?u=5753012&p=1433324321"
+}

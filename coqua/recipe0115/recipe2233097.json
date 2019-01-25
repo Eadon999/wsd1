@@ -1,0 +1,54 @@
+{
+    "name": "ぶりのマヨ照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2233097/464x260/6b99ed28b651adc7a2c19bbbeadd6d25.jpg?u=4819316&p=1369313925",
+    "datePublished": "2013-05-23",
+    "description": "15/3/3話題入り有難うございます、照り焼きの甘辛にマヨネーズの酸味が微妙に作用してこれはいけますよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに分量外のサラダ油を熱し、ぶりの両面を焼く",
+        "●の照りマヨタレをかけて、弱火にして、裏返しを繰り返しながらぶりに絡める",
+        "お皿に載せて出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2233097",
+    "advice": "照りマヨタレを焦がさないように",
+    "history": "ぶりの照焼にマヨネーズをかけて食べる人がいると聞き美味しそうに思えて、それならタレにマヨネーズ混ぜたらいいんじゃないの、と考えて作りました。いけましたよ。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "しょうゆ",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2233097/100x141c/975afe45317a4be8531cd4c155978b37.jpg?u=4819316&p=1369313925"
+}

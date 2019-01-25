@@ -1,0 +1,64 @@
+{
+    "name": "ささみときゅうりの梅肉和え",
+    "author": {
+        "@type": "Person",
+        "name": "あやあつ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1436704/464x260/e7afc2e5decf02649372f9ab64577440.jpg?u=2984987&p=1305195782",
+    "datePublished": "2011-05-12",
+    "description": "さっぱりした味わいです♡材料が少なく、超簡単！10分で作れます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ささみに酒を振って、ふんわりラップをかけ、レンジで３～４分チンする。粗熱が取れたら、細かく裂いておく。",
+        "きゅうりは千切りにして、塩で揉む。水が出てきたら絞っておく。",
+        "★を合わせて耐熱容器に入れ、レンジで30秒ほどチンする。（沸騰したらOK）",
+        "梅干しの種を除き、細かく包丁で叩いておく。3に加えておく。",
+        "ボウルに材料をすべて入れて、全体がなじむように混ぜ合わせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1436704",
+    "advice": "みりんをレンジでチンしてアルコール分を飛ばして下さい。",
+    "history": "さっぱりした副菜が作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ささみ",
+        "酒",
+        "きゅうり",
+        "みりん"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1436704/100x141c/edb913d8d5147ff0b4d051d240dd745c.jpg?u=2984987&p=1305195782"
+}

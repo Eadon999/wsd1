@@ -1,0 +1,71 @@
+{
+    "name": "新たまねぎと卵のあんかけ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/548165/464x260/2292d470270e4194ce0330c29e33f25f.jpg?u=230354&p=1214219499",
+    "datePublished": "2008-04-10",
+    "description": "フライパン１つで、超簡単・スピーディーに出来ちゃうおかずです。新たまねぎが甘くっておいしい♡",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "新たまねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎水",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "新たまねぎはお好みの太さに切る。",
+        "フライパンに油（分量外）を熱し、溶き卵を入れて大きく混ぜ、半熟で一旦取り出す。",
+        "同じフライパンで（汚れているようであれば、軽く拭いてください。）新たまねぎを炒め、しんなりしたら◎を加える。ひと煮立ちしたら、水溶き片栗粉でとろみをつける。",
+        "②を戻し、ゴマ油をたらして、大きく混ぜたら火を止めて出来上がり♫"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "548165",
+    "advice": "お好みですが、新たまねぎは炒めすぎないほうが食感がおいしいです♫",
+    "history": "どこに何があるかわからない実家で、とりあえず目についたものだけで、簡単にぱっとできるものを作りました（笑）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新たまねぎ",
+        "卵",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "274",
+    "thumbnail": "https://img.cpcdn.com/recipes/548165/100x141c/a8b5a66badc776c6b1a3c49dee1fb1ed.jpg?u=230354&p=1214219499"
+}

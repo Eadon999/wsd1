@@ -1,0 +1,64 @@
+{
+    "name": "中華屋さん直伝本格 鳥の唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "junjiswork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1829156/464x260/96aebde09e310d4dec4ac8ab02d27ee0.jpg?u=4361585&p=1338403031",
+    "datePublished": "2012-05-27",
+    "description": "本格鳥の唐揚げを家庭で簡単に出来ます一晩寝かすとかめんどーな事はしなくても十分旨いんです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "３５０ｇ"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "２５ｃｃ"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "２０ｃｃ"
+        },
+        {
+            "name": "うまみ調味料",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "三温糖（白糖でもＯＫ）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "生姜汁（皮ごとおろす）",
+            "quantity": "１３ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "５ｃｃ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "片栗粉以外の調味料類を入れもみ込む",
+        "片栗粉を入れ混ぜる\nなじましてる間に付け合わせのキャベツなど切って準備しておく",
+        "一回目１７０℃で約５分揚げて２分置く",
+        "２回目２００℃でさっと揚げて出来上がり"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1829156",
+    "advice": "オイスターソースはなくてもいいです二度揚げは焦げやすいので色が変わってきたらさっと出して下さいお好みで塩コショウで召し上がってもおいしいですよ。",
+    "history": "色々あれやこれや入れたり試しましたけどこのやり方が一番旨い！！大好きな嫁も大満足！！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏のから揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "唐揚げ 一晩"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1829156/100x141c/89447724b7c80e9712b30967ca942ae6.jpg?u=4361585&p=1338403031"
+}

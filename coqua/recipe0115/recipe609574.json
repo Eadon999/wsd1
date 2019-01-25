@@ -1,0 +1,44 @@
+{
+    "name": "たこ焼き風こんにゃく♪",
+    "author": {
+        "@type": "Person",
+        "name": "かえかえこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/609574/464x260/c8459280aa256eb7a9d6d17dc19055fc.jpg?u=829271&p=1215822852",
+    "datePublished": "2008-07-12",
+    "description": "ヘルシーな、たこやきみたいな味のおいしいこんにゃくです☆08.10.27話題入り！みなさんありがとう♥",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "１丁"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "おたふくソース、マヨネーズ、かつお節",
+            "quantity": "各適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくはころころとさいころ状に切る。沸かした湯に入れ、臭みを抜く。",
+        "水を切ったこんにゃくをフライパンで熱する。パチパチ音がしてきたら麺つゆをジュッと加え、汁気がなくなったら皿にとる。",
+        "ソース、マヨネーズ、かつお節をかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "609574",
+    "advice": "紅ショウガや青のりもあるといっそうたこ焼き風になりますよ♪",
+    "history": "おいしく楽しくダイエット！",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "223",
+    "thumbnail": "https://img.cpcdn.com/recipes/609574/100x141c/527d3f0228c6c7c1575613cdbbdb257e.jpg?u=829271&p=1215822852"
+}

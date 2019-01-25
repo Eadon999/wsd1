@@ -1,0 +1,49 @@
+{
+    "name": "大葉卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/347841/464x260/dcffe780f884410ab6829b97c7d07fdf.jpg?u=253314&p=1298706716",
+    "datePublished": "2007-03-21",
+    "description": "さっぱり「和」な卵焼きです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ダシ汁（水でも可）",
+            "quantity": "少し"
+        },
+        {
+            "name": "塩",
+            "quantity": "ぱらっと"
+        }
+    ],
+    "recipeInstructions": [
+        "溶いた卵ににダシ汁と塩を入れ、刻んだ大葉も加えて焼く。",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "347841",
+    "advice": "特になし",
+    "history": "生い立ち。。。。。＾＾；　　野菜室に寿命近しの大葉があったもんで。。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "大葉",
+        "ダシ汁"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/347841/100x141c/62f5f182093686d1098d163b5c1effcd.jpg?u=253314&p=1298706716"
+}

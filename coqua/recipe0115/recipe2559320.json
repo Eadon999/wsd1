@@ -1,0 +1,54 @@
+{
+    "name": "菜の花とツナのわかめあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2559320/464x260/752978214e5507212f4b8a6c30291d50.jpg?u=7402421&p=1395796798",
+    "datePublished": "2014-03-26",
+    "description": "♪♪感謝♪♪　2015/4/10　話題入り！ありがとうございます♪さっとゆでて、ぱぱっと和える簡単レシピ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "120g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個（80g）"
+        },
+        {
+            "name": "わかめ（乾燥）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花は、さっと塩ゆでして、冷水にとり、長さ4cmに切る。\nわかめは水で戻して、ツナは汁気を切る。",
+        "菜の花とわかめをぎゅーっとしぼって、ツナと一緒に、みりん醬油であえたら、出来上がり～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2559320",
+    "advice": "菜の花の塩ゆでは、一瞬で。",
+    "history": "菜の花と一緒に、しっかりタンパク質も摂れるものを、と考えて、作りました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "ツナ缶",
+        "わかめ",
+        "醤油"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2559320/100x141c/99163af9e96da9d89d3e2eea59416242.jpg?u=7402421&p=1395796798"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "豚バラ肉のしょうが焼き♪簡単♪",
+    "author": {
+        "@type": "Person",
+        "name": "カジオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2217658/464x260/e219dd1c0a6c9d3580092d879df168cb.jpg?u=4517605&p=1368147791",
+    "datePublished": "2013-05-10",
+    "description": "簡単美味しいしょうが焼き♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "しょうが(すりおろし)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉に塩コショウをして、軽く小麦粉をまぶします。",
+        "サラダ油をひき、豚バラ肉、しょうがを入れ、炒めます。",
+        "豚肉に火が通ったら、玉ねぎ、★の調味料を入れ、炒めます。",
+        "お皿に盛りつけて完成です♪　小口ネギを散らしたり、キャベツの千切りをトッピングして、いただきまーす！",
+        "しょうが焼き弁当にしてみました♪",
+        "2013.6.20 話題のレシピ入り、ありがとうございま～～す。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2217658",
+    "advice": "豚バラ肉に小麦粉を付けると、豚肉の旨みが逃げないらしいです。",
+    "history": "家にある調味料を使って、簡単しょうが焼き♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "玉ねぎ",
+        "しょうが",
+        "酒"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2217658/100x141c/d070d3e33fb254e76b72bcc945f62d6d.jpg?u=4517605&p=1368147791"
+}

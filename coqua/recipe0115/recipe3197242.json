@@ -1,0 +1,57 @@
+{
+    "name": "まいたけ豆腐わかめの味噌汁♪",
+    "author": {
+        "@type": "Person",
+        "name": "みんとこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3197242/464x260/b386634c07f6dc4451e6e177adc21ad7.jpg?u=568287&p=1432557371",
+    "datePublished": "2015-05-25",
+    "description": "話題入り感謝です♪舞茸の美味しい味噌汁作ってみました♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "まいたけ",
+            "quantity": "60〜100g"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "150g"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "3g"
+        },
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1〜2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1〜2"
+        }
+    ],
+    "recipeInstructions": [
+        "まいたけと豆腐を食べやすい大きさに切る。\n鍋に水とだしの素を入れて火にかける。\n沸騰したら豆腐とまいたけを入れる。",
+        "まいたけに火が通ったら、わかめと味噌を入れて火を止める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3197242",
+    "advice": "分量はお好きなように調節してください。",
+    "history": "舞茸の出汁が美味しい味噌汁を作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まいたけ",
+        "豆腐",
+        "乾燥わかめ",
+        "水"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3197242/100x141c/6109a09a9e8de17d8c97bbaab4cb98d1.jpg?u=568287&p=1432557371"
+}

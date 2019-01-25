@@ -1,0 +1,62 @@
+{
+    "name": "ふわふわ！超簡単で旨々チキンナゲット",
+    "author": {
+        "@type": "Person",
+        "name": "たっきーママさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1011861/464x260/d81499d86bf542ee0773b72e6f6bdf65.jpg?u=1814814&p=1347093513",
+    "datePublished": "2010-01-16",
+    "description": "ふわふわで柔らか、子供に大人気！混ぜて揚げるだけで冷めても柔らかい！ ８／１分量改良しました。 ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "小さじ１／４"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉の皮を取って適当な大きさに切り、材料全てをフードプロセッサーで３０秒ほど回す。",
+        "スプーンですくって油で揚げる。",
+        "ソースはお好み焼きソースとケチャップ１対１がオススメ！ケチャップのみやスイートチリソースでも美味しい♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1011861",
+    "advice": "生地が柔らかいので、スプーンを２本使って落とすといいですよ。",
+    "history": "とにかく簡単にシンプルに！色々試しましたがこれがベストでした。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "薄力粉",
+        "マヨネーズ",
+        "卵"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/1011861/100x141c/1974a050ea01e5b5a1d9b64e569264f9.jpg?u=1814814&p=1347093513"
+}

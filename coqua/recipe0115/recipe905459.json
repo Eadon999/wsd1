@@ -1,0 +1,63 @@
+{
+    "name": "ちくわと大葉のふわふわだし巻きたまご",
+    "author": {
+        "@type": "Person",
+        "name": "makoto♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/905459/464x260/f961b037ca0ad23f74fd6d6ccae08149.jpg?u=1414442&p=1252298609",
+    "datePublished": "2009-09-07",
+    "description": "ちくわの食感とふわふわたまご！爽やかな大葉が味を引き締めてくれます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "大葉",
+            "quantity": "３枚"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわはみじん切り、大葉は１センチ角位に切っておく。",
+        "卵に白だし、水、しょうゆ、砂糖を入れ良く混ぜます。その中にちくわと大葉を入れ混ぜます。\r\n",
+        "卵焼き用のフライパンで焼いていきます。\r\n",
+        "焼き上がったら、まきすでキュッと巻いておきます。こうするときれいな形になります！\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "905459",
+    "advice": "分量通りに混ぜればふわふわに出来上がります！",
+    "history": "だし巻きたまご好き家族です！食感が楽しいかなと思いちくわを入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "ちくわ",
+        "大葉",
+        "白だし"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/905459/100x141c/70fa420ab1f632439bba8de0ad870eab.jpg?u=1414442&p=1252298609"
+}

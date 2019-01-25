@@ -1,0 +1,59 @@
+{
+    "name": "にんじんツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "yuzuponpon"
+    },
+    "image": "https://img.cpcdn.com/recipes/344359/464x260/3ff9e2ebc5c70a77443ced7583944dd8.jpg?u=426371&p=1214215034",
+    "datePublished": "2007-03-14",
+    "description": "にんじんって１本なかなか食べれないけどツナとマヨネーズを使うとどんどん食べれちゃいます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙１強"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小匙１/２"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんをカットしてレンジで茹でザルに上げ冷ましておく",
+        "胡瓜をカットしツナは油を抜いておく",
+        "水気が切れた。にんじんと後の材料を混ぜてできあがりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "344359",
+    "advice": "ツナの油を少し流す事で、さっぱりするし酸味が欲しい方は酢を少し加えるといいですよ",
+    "history": "綺麗なにんじんが手に入ったので…",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "胡瓜",
+        "ツナ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/344359/100x141c/4d3b42bd29af5a12ec52d9c3166ac18a.jpg?u=426371&p=1214215034"
+}

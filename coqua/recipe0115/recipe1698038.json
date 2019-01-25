@@ -1,0 +1,57 @@
+{
+    "name": "じゃがいもと白菜のツナ煮",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1698038/464x260/7fdefe760f85ce577f3911ec564ae9d9.jpg?u=602880&p=1338274190",
+    "datePublished": "2012-02-06",
+    "description": "★★★話題入りありがとう★★★カテゴリ掲載ありがとう★★★ツナからいいお出汁が出るので味付けも手間入らず。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2個"
+        },
+        {
+            "name": "白菜",
+            "quantity": "2・3枚"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶(80g)"
+        },
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは大きめの乱切り、白菜はざく切り、ツナ缶は油をきっておきます。",
+        "鍋に水を入れて、じゃがいもを水から煮ていきます。",
+        "じゃがいもが固めに煮えたら白菜とツナ缶、塩、醤油を入れて、白菜がクタクタになるまで煮たら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1698038",
+    "advice": "",
+    "history": "家にあるもので作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも白菜",
+        "白菜 ツナ じゃがいも"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1698038/100x141c/787dd8b81f276902203d76da66adcae7.jpg?u=602880&p=1338274190"
+}

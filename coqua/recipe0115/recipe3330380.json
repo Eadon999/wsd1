@@ -1,0 +1,65 @@
+{
+    "name": "ホタテとタコのスタミナカルパッチョ",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/3330380/464x260/a45ca1f74ad9670772d93dbe1c4d78f6.jpg?u=4609610&p=1438595856",
+    "datePublished": "2015-08-03",
+    "description": "味の決まらない自宅のカルパッチョをガーリックチップで、ガツンとおいしくしました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "タコ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ホタテ大",
+            "quantity": "3こ"
+        },
+        {
+            "name": "ガーリックチップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "岩塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ピンクペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻みパセリ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "タコとホタテは薄切りにする。",
+        "綺麗に並べたら、他の調味料をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3330380",
+    "advice": "塩は岩塩を使う。オイルもいいオイルがいいと思います。冷やして食べましょう。",
+    "history": "深みのあるカルパッチョに。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タコとホタテのカルパッチョ",
+        "たこ カルパッチョ",
+        "ホタテ カルパッチョ",
+        "たこ ほたて"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3330380/100x141c/e7e391861e481044479196f15d0176d3.jpg?u=4609610&p=1438595856"
+}

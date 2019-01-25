@@ -1,0 +1,47 @@
+{
+    "name": "レタスのしらすぽん酢サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4357718/464x260/cc6668e25fcd5ab4da6cf88553fe6870.jpg?u=4819316&p=1487165738",
+    "datePublished": "2017-02-15",
+    "description": "簡単一品でビールに合います、ヘルシーおつまみ是非お試し下さい",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "２～３枚"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "ぽん酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスを手でちぎり、器に盛る ",
+        "レタスの上にしらすを乗せる ",
+        "ぽん酢とごま油をかけて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4357718",
+    "advice": "ごま油が効いて、ビールの進むサラダになります",
+    "history": "居酒屋で宴会をしたときにコースメニューの一品として出ました、美味しかったので自分でも作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタスサラダ しらす"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4357718/100x141c/387246792c5a2d3994462048fe231bfc.jpg?u=4819316&p=1487165738"
+}

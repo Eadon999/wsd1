@@ -1,0 +1,53 @@
+{
+    "name": "ホロホロ（＾◇＾）トリムネチャーシュー",
+    "author": {
+        "@type": "Person",
+        "name": "memeたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/275198/464x260/c12fa5cc9c8471f064ad9dbc6532aea8.jpg?u=279175&p=1214213480",
+    "datePublished": "2006-08-20",
+    "description": "安いトリむね肉がカンタンにやわらかくておいしいチャーシューに変身！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トリむね肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "油を熱したフライパンでトリむね肉を皮面から両面焼き色がつくまで焼く",
+        "鍋に全部の調味料と水１カップを入れて焼いたトリむね肉を弱火で１時間煮込む",
+        "冷めたらカットして容器にタレと一緒に入れて冷蔵庫で一晩漬け込む",
+        "ご飯にのせたり、チャーハンに入れたり色々使えますよ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "275198",
+    "advice": "煮込んですぐ食べられますが、一晩タレに漬け込んだ方が染み込んでやわらかくなります。カットしてから漬け込むのがポイントです！",
+    "history": "トリ肉でもチャーシュー作れないかと試してみたら大成功（*＾◇＾*）ブタ肉より脂が少ないのでヘルシーです！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉 ホロホロ",
+        "ホロホロ　トリムネチャーシュー"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/275198/100x141c/6fe54b57c85e78c63989b2fb99d94f7a.jpg?u=279175&p=1214213480"
+}

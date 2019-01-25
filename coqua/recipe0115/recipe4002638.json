@@ -1,0 +1,66 @@
+{
+    "name": "鶏ささみとキムチの中華和えナムル",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4002638/464x260/3ea69278514993ea98ab6b1c0ad43e26.jpg?u=9664115&p=1469999039",
+    "datePublished": "2016-08-01",
+    "description": "お酒がすすむ簡単おつまみ♪ヘルシーなささみとピリ辛キムチが合います。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "100g"
+        },
+        {
+            "name": "万能ねぎor子ネギ",
+            "quantity": "1/4袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆ポン酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆ごま",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り、茹でる。\n茹でる時お酒を大さじ1入れるとしっとりします。",
+        "ささみは冷めたら手で細かく裂く。\nキムチをザク切りに。\nねぎは小口切り。\nきゅうりは千切りに。",
+        "ボウルに2と☆を入れ、よく混ぜる。\n10分程放置したら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4002638",
+    "advice": "混ぜてから時間をおくと味が染みていい感じに。",
+    "history": "冷蔵庫に余っていたもので一品。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ キムチ",
+        "ささみ きゅうり キムチ",
+        "鶏ささみとキムチの中華和えナムル",
+        "中華ナムル"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/4002638/100x141c/b17dc086053f3070b6c04acfcd6bc470.jpg?u=9664115&p=1469999039"
+}

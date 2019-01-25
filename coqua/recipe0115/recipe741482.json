@@ -1,0 +1,48 @@
+{
+    "name": "簡単☆手羽元にんにく醤油焼き",
+    "author": {
+        "@type": "Person",
+        "name": "そらうた"
+    },
+    "image": "https://img.cpcdn.com/recipes/741482/464x260/c09f3402f05ac36c9e0023bf29aab72b.jpg?u=390080&p=1235271282",
+    "datePublished": "2009-02-28",
+    "description": "漬け込んだらオーブンで焼くだけ！シンプルだけど美味しいです☆",
+    "recipeYield": "手羽8本分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "8本"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●にんにく（すりおろし）",
+            "quantity": "小さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "手羽元は数ヵ所フォークで刺しておく。●を合わせる。",
+        "ビニールに1を入れよく揉む。冷蔵庫で1時間位～漬けておく。",
+        "オーブンシートを敷いた天板に2を並べ余ったタレを小さじ1位ずつスプーンでかける。",
+        "余熱したオーブン180度で25分程焼いて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "741482",
+    "advice": "オーブン温度、焼き時間は参考までに。2で袋が破けないように気をつけて下さい～。",
+    "history": "忙しい時などたまに作っているものです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元 にんにく醤油"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/741482/100x141c/54d9b26a01503d95d7f5aefa6daf5af4.jpg?u=390080&p=1235271282"
+}

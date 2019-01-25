@@ -1,0 +1,55 @@
+{
+    "name": "お弁当に☆簡単☆ちくわ磯部風",
+    "author": {
+        "@type": "Person",
+        "name": "momottama"
+    },
+    "image": "https://img.cpcdn.com/recipes/738097/464x260/8332b278ad9e078fa1015568fa6c840f.jpg?u=1111079&p=1234916707",
+    "datePublished": "2009-02-18",
+    "description": "毎朝のお弁当のおかずに☆玉子焼きの後のフライパンで揚げ焼きするので、汚れものも少ない～。",
+    "recipeYield": "おべんとうの一品分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "小１本"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青のり",
+            "quantity": "ふたつまみほど。適量。"
+        },
+        {
+            "name": "味塩",
+            "quantity": "パラパラっと。"
+        }
+    ],
+    "recipeInstructions": [
+        "小麦粉・青のり・味塩を混ぜたものを水でとく。",
+        "切ったちくわを入れて混ぜ混ぜ。",
+        "油をひいたフライパンで焼き目がつくまで。すぐできますよ。",
+        "卵焼きを作ったあとのフライパンで、ちゃちゃっと仕上げちゃいます。洗い物嫌い！"
+    ],
+    "cookTime": null,
+    "recipe_id": "738097",
+    "advice": "５本入りで１００円くらいの小さめなちくわを使います。安くて美味しくて場所を取るので重宝・・・。",
+    "history": "安く、早く、美味しく！毎朝が勝負！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "小麦粉",
+        "水",
+        "青のり"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/738097/100x141c/cebbabf46337e70f19ffcecc9db004f4.jpg?u=1111079&p=1234916707"
+}

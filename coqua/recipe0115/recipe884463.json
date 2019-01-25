@@ -1,0 +1,56 @@
+{
+    "name": "簡単3分！キャベチーズ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひろちば"
+    },
+    "image": "https://img.cpcdn.com/recipes/884463/464x260/f418411fb909e9c6c9a00f4e1f1ff5ff.jpg?u=1184508&p=1428483279",
+    "datePublished": "2009-08-08",
+    "description": "れぽ感謝♡ウインナー代用でもオイシイ❤ ２０１６．０３．１５　LINEクックパッドニュースにトップ掲載されました✿",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "4枚程度"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "溶けるチーズ",
+            "quantity": "50g程度"
+        },
+        {
+            "name": "塩・粗挽きコショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ（あれば）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは洗ってざく切り、ベーコンは一口大に切ります。",
+        "フライパンに直接ベーコンを入れて炒め、出た脂でキャベツを1分程度炒めます。軽く塩を振ります。",
+        "キャベツがしんなりしたらチーズを投入し、卵を割りいれ崩しながらかき混ぜます。（弱火20秒程度）",
+        "半熟程度で皿に取り、粗挽きコショウとパセリをふって出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "884463",
+    "advice": "ベーコンとチーズの脂分でできます。こってりがいい人は炒める時にサラダ油かバターを使いましょう。火を通しすぎると卵とチーズが固くなるので手早く！",
+    "history": "簡単で手早く栄養をとれるものはないかなと思い作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ チーズ"
+    ],
+    "tsukurepo_count": "343",
+    "thumbnail": "https://img.cpcdn.com/recipes/884463/100x141c/07d42af64d6c21a3e79c08fe2d8eb89e.jpg?u=1184508&p=1428483279"
+}

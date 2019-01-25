@@ -1,0 +1,65 @@
+{
+    "name": "豆腐とアボカドのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oninopantu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2866674/464x260/3ea03ae27f7af6f1f211cbfff02665be.jpg?u=8016002&p=1415065943",
+    "datePublished": "2014-11-04",
+    "description": "美容と健康を考えたサラダです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "５～６個"
+        },
+        {
+            "name": "おろしわさび",
+            "quantity": "小１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大２"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "水切りした豆腐、アボカド・トマトを食べやすい大きさにカットして皿に盛る",
+        "調味料を全て混ぜ合わせ\n１にまわしかければ完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2866674",
+    "advice": "すぐに食べない場合は変色防止の為アボカドにレモン汁を絡めておいて下さいレモン汁を多くして塩分控えめですわさびは風味程度なので辛い物好きな方は２～３倍でお試し下さい",
+    "history": "自分のために美容に良い食材で高血圧の旦那様のために塩分控えめにしましたスライス玉葱を入れようと思っていたのにど忘れしました(^^;)入れたら更に美味しいと思います",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "アボカド",
+        "ミニトマト",
+        "醤油"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2866674/100x141c/fa85d5c9a0ba623306c6f88197c561e8.jpg?u=8016002&p=1415065943"
+}

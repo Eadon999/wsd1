@@ -1,0 +1,82 @@
+{
+    "name": "ネバネバわさマヨ鶏そぼろ丼",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/659831/464x260/f2630cd40b0bc69c432cbd122f91099b.jpg?u=54489&p=1223221684",
+    "datePublished": "2008-10-06",
+    "description": "わさび好き必見！わさびのツーンとした香りがたまらなく美味しい！そしてヘルシー (*^O^*)ﾉ動画アリ♪",
+    "recipeYield": "小丼２杯分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック（４５ｇ）"
+        },
+        {
+            "name": "鶏むね挽き肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "┌マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "│おろしわさび",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "│砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "│塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "└オリーブオイル",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "小丼 ２杯分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "小葱の小口切り",
+            "quantity": "適量"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏挽き肉は熱湯でサッとゆでて火を通し、ざるにあげて水気をきる。",
+        "Ａをよく混ぜ合わせ、１と納豆を加え混ぜる。",
+        "丼にご飯をよそい、２をのせ醤油をたらし、小葱の小口切りと刻み海苔を散らして出来上がり。全体をよく混ぜていただきます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "659831",
+    "advice": "オリーブオイルが隠し味で華やかなコクをプラスします。↓動画レシピhttp://www.youtube.com/watch?v=QZ4yzZQkAuU",
+    "history": "彼が超喜んだヒット作！意外とわさび好きなことに今更気付きましたｗ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": [
+        "ネバネバ丼 7位"
+    ],
+    "related_keywords": [
+        "納豆",
+        "ご飯",
+        "醤油",
+        "小葱の小口切り"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/659831/100x141c/0e250e1158b5efda7a107c48edef9b36.jpg?u=54489&p=1223221684"
+}

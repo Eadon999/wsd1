@@ -1,0 +1,67 @@
+{
+    "name": "なすとベーコンのガリバタポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4187681/464x260/0142d577d41d8578b1f04438701afd78.jpg?u=9664115&p=1479384166",
+    "datePublished": "2016-11-18",
+    "description": "サッと炒めるだけの簡単メニュー。ガーリック＋バター＋ポン酢のチームワーク抜群です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "1本"
+        },
+        {
+            "name": "スライスベーコン",
+            "quantity": "1パック（4〜5枚）"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "きざみニンニク",
+            "quantity": "1片or小さじ1"
+        },
+        {
+            "name": "ハーブソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "1/2片"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "なすのヘタを取り、縦に半分にしてから斜め切りに。\nスライスベーコン・エリンギを短冊切りに。",
+        "フライパンにオリーブオイルときざみニンニクを入れ中火にかける。",
+        "ニンニクの香りが出てきたら1を入れ、ハーブソフトをパラパラと。",
+        "軽くヘタってきたら強火にして、バターとポン酢を絡めて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4187681",
+    "advice": "ポン酢を入れてじゅわっとなったらすぐあげる。焦げないように。",
+    "history": "ちょいと遅めの朝に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "スライスベーコン",
+        "エリンギ",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4187681/100x141c/2a885c9daad9c4062fccb9a7a0eee125.jpg?u=9664115&p=1479384166"
+}

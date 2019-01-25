@@ -1,0 +1,57 @@
+{
+    "name": "レンジで簡単♪【なすのゴマだれかけ❤】",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1938023/464x260/e27bf0b7590ba2e8c3859c1087b5662e.jpg?u=2619264&p=1346413902",
+    "datePublished": "2012-09-10",
+    "description": "ノンオイル、ゴマたっぷりで身体に良さそう♪しかもレンジ加熱で、5分もあれば出来ちゃいます✿",
+    "recipeYield": "2~3人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "2本"
+        },
+        {
+            "name": "●すりゴマ",
+            "quantity": "大3"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "なすのヘタを取り、ラップで包んでレンジで3分加熱。その間に●を合わせてタレを作っておく。",
+        "加熱が終わったなすを竹串等で裂き、皿に盛る。タレをかけて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1938023",
+    "advice": "タレは2回分位の量です♪覚えやすいのでこの量にしましたが、半量で作っても。なすは温かいままでも冷やしてもO.K✿",
+    "history": "火を使いたくなくてレンジで手抜き♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "すりゴマ",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1938023/100x141c/97b57ae13b3b3076f3bce17cb2be60e8.jpg?u=2619264&p=1346413902"
+}

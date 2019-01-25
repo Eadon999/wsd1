@@ -1,0 +1,63 @@
+{
+    "name": "◆簡単副菜♡美味しいレンコンのきんぴら◆",
+    "author": {
+        "@type": "Person",
+        "name": "☆classy☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3062430/464x260/823d8ae9fa249c0305a4132abdfec433.jpg?u=4943272&p=1426074255",
+    "datePublished": "2015-03-11",
+    "description": "短時間で箸休めになる副菜♡レンコンをスライスして炒めるだけです♡スライスしているのですぐ火が通りあっという間に完成♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "レンコン",
+            "quantity": "10cmほど"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "半パック"
+        },
+        {
+            "name": "お酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "ごま油(仕上げ用)",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンを1mm幅にスライスする(スライサー可)",
+        "フライパンにごま油を小さじ1ほど入れてレンコンが透き通るまで炒める",
+        "お酒→お砂糖→お醤油を入れて炒め、鰹節を混ぜる\n\n火を止める直前にごま油をかけて混ぜる",
+        "出来上がり♡"
+    ],
+    "cookTime": null,
+    "recipe_id": "3062430",
+    "advice": "レンコンは薄くスライスしてください♡お好みで盛り付けたらゴマをふっても美味しいです(^^♪",
+    "history": "実家でよく食べていたレンコンのきんぴらを自分流に作ってみました( *´艸｀)♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レンコン",
+        "鰹節",
+        "お酒",
+        "醤油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/3062430/100x141c/62699a5c3f3eb9fa1d6c385ffa43fd83.jpg?u=4943272&p=1426074255"
+}

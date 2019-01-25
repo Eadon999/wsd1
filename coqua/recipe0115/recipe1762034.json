@@ -1,0 +1,43 @@
+{
+    "name": "【農家のレシピ】かりかり☆フライドポテト",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1762034/464x260/fce1b33c5c89a66cf87d981b290a4e50.jpg?u=2513693&p=1333287526",
+    "datePublished": "2012-04-04",
+    "description": "片栗粉をつけて揚げているでカリッと仕上がります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモは皮を剥きくし形切りにし片栗粉をまんべんなくまぶしておきます。",
+        "180度の熱した油でかりっと揚げて完成です。お塩をかけて召し上がれ～♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1762034",
+    "advice": "ジャガイモの皮は剥いてくださいね。皮がついたままだと片栗粉がつきにくくなります。",
+    "history": "カラッと揚がるように片栗粉をつけて揚げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ じゃがいも",
+        "フライドポテト カリカリ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1762034/100x141c/19da02b617947faf3d113899701e35d4.jpg?u=2513693&p=1333287526"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "たくあんとマヨのおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ありかん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2095956/464x260/f54eb947a444c7c22a236b9d0bb9e7b6.jpg?u=3140280&p=1359381392",
+    "datePublished": "2013-01-29",
+    "description": "あったかいごはんに入れて握るだけ～✿意外な組み合わせだけど美味しいから試してみてね～♬",
+    "recipeYield": "1個",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "適量"
+        },
+        {
+            "name": "たくあん",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "海苔",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "たくあんを粗みじん切りにします\n",
+        "ご飯にたくあんとマヨネーズと鰹節を\n入れて混ぜ合わせ握ったら完成です\n\nお好みで海苔を巻いてどうぞ",
+        "シャンプーハットさんの\nたくあん レシピID:1296893\nで作ってみました♥\n旨いよ(^q^)",
+        "2013/6/3\n話題入りしました\nありがとうございます○┓"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2095956",
+    "advice": "具を混ぜ込まず、ごはんの真ん中に入れて握ってもOK",
+    "history": "ご飯のお供のたくあんちゃん･･･息子のお弁当用に作ってみたら好評だったのでレシピupしました✿",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "たくあん",
+        "マヨネーズ",
+        "鰹節"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2095956/100x141c/537695c478fa32cef239c7ba305e14c4.jpg?u=3140280&p=1359381392"
+}

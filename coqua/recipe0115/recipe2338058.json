@@ -1,0 +1,63 @@
+{
+    "name": "甘辛♡我が家の定番きんぴらごぼう",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2338058/464x260/bf11ef7d6e7da89e20d525da26572fa0.jpg?u=603745&p=1447727063",
+    "datePublished": "2013-09-08",
+    "description": "甘めの味付けと七味で甘辛に♡付け合わせにもお弁当にもぴったり!!作り置きして冷凍も◎",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "細ごぼう",
+            "quantity": "2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆七味",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "包丁の背でごぼうの皮をむきます。",
+        "細切りにします。",
+        "水にさらして灰汁抜きをします。",
+        "人参を細切りにします。",
+        "フライパンに油を敷いてゴボウと人参を炒めます。",
+        "しんなりとして、しっかり火が通るまで炒めてます。",
+        "☆の調味料で味付けをします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2338058",
+    "advice": "",
+    "history": "夕飯＋お弁当のおかずに♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お弁当 冷凍作り置き"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2338058/100x141c/d488a673a5211ec44b821cf9bc80d0ef.jpg?u=603745&p=1447727063"
+}

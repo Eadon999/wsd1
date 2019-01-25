@@ -1,0 +1,51 @@
+{
+    "name": "簡単おつまみ♬サイコロはんぺんステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "cocotys"
+    },
+    "image": "https://img.cpcdn.com/recipes/1289543/464x260/37e81b46a2b1fc3818a9fee61a001be9.jpg?u=805515&p=1290252323",
+    "datePublished": "2010-11-20",
+    "description": "簡単おつまみ♪はんぺんステーキをコチジャンマヨで和えるだけなのに箸が止まらない～～～",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "コチジャン",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "ハンペンはサイコロ状に切ります。フライパンに少量の油を入れ、弱火ではんぺんを軽く焦げ目がつくくらい焼ます。",
+        "マヨネーズとコチジャンを混ぜたものをはんぺんにかけ、よく混ぜ、火を止めます。",
+        "お皿に盛りねぎを散らし出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1289543",
+    "advice": "はんぺんは焦げやすいので弱火で焼き目を付けてください。",
+    "history": "はんぺんだけでおつまみになる一品を考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん ステーキ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1289543/100x141c/8500aa8282c9c60a2e016d62fffa8f55.jpg?u=805515&p=1290252323"
+}

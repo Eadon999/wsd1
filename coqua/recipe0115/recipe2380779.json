@@ -1,0 +1,64 @@
+{
+    "name": "茄子味噌",
+    "author": {
+        "@type": "Person",
+        "name": "まる母"
+    },
+    "image": "https://img.cpcdn.com/recipes/2380779/464x260/bb4d4158eb0d5b8afdc2056f3daec85c.jpg?u=4634691&p=1382260350",
+    "datePublished": "2013-10-20",
+    "description": "2014/7/3話題入りしました。ありがとうございます。小鉢にちょこっとあると嬉しい♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "茄子（小ぶり）",
+            "quantity": "２本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆赤だし味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１と1/2"
+        },
+        {
+            "name": "☆白いりごま",
+            "quantity": "大さじ１強"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は、乱切りにして水にさらしておく。\n",
+        "サラダ油（大さじ２）をひいたフライパンで、水をきった茄子を炒める。",
+        "蓋をして、時々ひっくり返しながら、焼いていく。\n\nしんなりしてきたら、一度とりだしておく。",
+        "白炒りごまを煎る。\n\n☆の調味料も一緒にいれ、温める。",
+        "茄子と一緒に味噌を絡め炒めたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2380779",
+    "advice": "茄子は、しんなりいい焦げ目がつくまで、ゆっくり待ちます。",
+    "history": "小鉢にちょこっと、お弁当にちょこっとあると嬉しい副菜です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "サラダ油",
+        "赤だし味噌",
+        "酒"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2380779/100x141c/a6c76566fb38b345b0020cf3964b57bb.jpg?u=4634691&p=1382260350"
+}

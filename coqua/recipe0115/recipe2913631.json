@@ -1,0 +1,54 @@
+{
+    "name": "☸我が家のえのき茸と豆腐の味噌汁☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2913631/464x260/e21d20874130d6a1b00f2b06f1b34e40.jpg?u=4672105&p=1417628434",
+    "datePublished": "2014-12-04",
+    "description": "１５．０１．１８．話題入り感謝♪えのき茸とお豆腐の優しいお味噌汁。すぐ煮えるので簡単にできちゃいます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "１/４袋"
+        },
+        {
+            "name": "豆腐(木綿でも絹でも)",
+            "quantity": "１/４丁"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "４００ｍｌ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "万能ねぎ(小口切り)",
+            "quantity": "お好みで適量"
+        }
+    ],
+    "recipeInstructions": [
+        "えのき茸は石づきを除き、半分にカット。豆腐も適当な大きさに切る。",
+        "鍋にだし汁を煮立て、えのき茸と豆腐を入れ煮る。",
+        "味噌を溶き入れる。\n器に盛り、万能ねぎをお好みで散らす。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2913631",
+    "advice": "特にないです。",
+    "history": "我が家でよく作るお味噌汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき茸",
+        "豆腐",
+        "だし汁",
+        "味噌"
+    ],
+    "tsukurepo_count": "139",
+    "thumbnail": "https://img.cpcdn.com/recipes/2913631/100x141c/47fab23b527dc746db2a5f4633faff78.jpg?u=4672105&p=1417628434"
+}

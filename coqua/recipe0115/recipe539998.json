@@ -1,0 +1,61 @@
+{
+    "name": "ダイエット♪大根とツナの生姜スープ",
+    "author": {
+        "@type": "Person",
+        "name": "かざぴー"
+    },
+    "image": "https://img.cpcdn.com/recipes/539998/464x260/795a6f24e61600e34c5c7b57abe9c850.jpg?u=671779&p=1215455268",
+    "datePublished": "2008-03-28",
+    "description": "大根とノンオイルツナ缶で作る、あっさりダイエットスープです♪ 生姜入りで新陳代謝もアップ！！",
+    "recipeYield": "スープ皿２杯分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "４００～５００ｃｃ"
+        },
+        {
+            "name": "ノンオイルツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "中華スープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "生姜のすりおろし",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "細ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "①大根は薄切りにし、食べやすい大きさに切る。\r\n②鍋に水と大根を入れ、火をつける。\r\n",
+        "③大根が柔らかくなったら、ツナと中華スープの素、生姜を入れる。ひと煮立ちしたら、塩・こしょうで味を調える。 ④皿に盛り、細かく切った細ねぎを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "539998",
+    "advice": "オイル漬けのツナ缶を使う場合は、オイルを捨ててから入れてください。",
+    "history": "野菜の入った、ローカロリーなスープを作りたいと思いました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ツナ スープ",
+        "大根スープ ダイエット",
+        "ダイエット",
+        "ダイエット 大根"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/539998/100x141c/37b76b3d250e02ce6870c844f13bab4d.jpg?u=671779&p=1215455268"
+}

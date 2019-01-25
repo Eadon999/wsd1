@@ -1,0 +1,54 @@
+{
+    "name": "コマ♡ツナ",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/4138424/464x260/1cd4b33aebb3c8c126c03e2f35f58391.jpg?u=6957661&p=1477203303",
+    "datePublished": "2016-10-23",
+    "description": "小松菜とツナのおひたしですちょっとコクのあるさっぱりとした副菜です",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１缶"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "辛子",
+            "quantity": "３〜5cm"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "３gくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "洗った小松菜を塩ひとつまみ入れたたっぷりのお湯で好みの硬さに茹で、水ですすいだ後絞り、２〜３cmにカットする。",
+        "ボールの中で材料を混ぜ合わせる。\nかつお節は最後に合わせる。",
+        "盛り付けて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4138424",
+    "advice": "お好みで辛子増量して下さいませ",
+    "history": "小松菜とツナをさっぱりと食べたかったのであります",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ツナ",
+        "めんつゆ",
+        "辛子"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/4138424/100x141c/1728f2ced1f8087361e2d3589b7eea64.jpg?u=6957661&p=1477203303"
+}

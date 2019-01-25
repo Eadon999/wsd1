@@ -1,0 +1,52 @@
+{
+    "name": "✿厚揚げとごぼうの味噌汁✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/896162/464x260/3087d26bc254ad3250094104661ad7cf.jpg?u=271833&p=1269583692",
+    "datePublished": "2009-08-25",
+    "description": "ごぼうの風味がたっぷり♡コクのあるお味噌汁です。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "2カップ半"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2.5～"
+        },
+        {
+            "name": "小口切りねぎ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは食べやすい大きさに切る。\r\nごぼうは皮を剥いてななめ薄切りにし、水にさらしておく。",
+        "鍋にだし汁を用意し、水気を切ったごぼう、厚揚げの順に入れて煮る。",
+        "ごぼうが煮えたら火を止め、味噌を溶く。再び火をつけ弱火で温め、仕上げにねぎを散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "896162",
+    "advice": "*味噌の量はお好みで加減して下さい。*一味又は七味を振って頂いても美味しいです。",
+    "history": "ごぼう入りのお味噌汁が飲みたくて作りました。厚揚げもあったので、お豆腐代わりに入れてみました。 ",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "その他/限られた食材で工夫/あったか汁物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう 味噌汁"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/896162/100x141c/b01666cbd4309e89f759547e00a5c798.jpg?u=271833&p=1269583692"
+}

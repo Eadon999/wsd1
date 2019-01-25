@@ -1,0 +1,63 @@
+{
+    "name": "お弁当にも♪春キャベツと竹輪の梅ごま和え",
+    "author": {
+        "@type": "Person",
+        "name": "あけちゃんち。"
+    },
+    "image": "https://img.cpcdn.com/recipes/3140639/464x260/1856017e878208c853cc6005b836ddad.jpg?u=8517295&p=1429878052",
+    "datePublished": "2015-04-24",
+    "description": "やわらかな春キャベツとさわやかな梅でちょっとした和え物を。おつまみ、お弁当にもどうぞ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ",
+            "quantity": "葉3枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "2つまみ"
+        },
+        {
+            "name": "竹輪",
+            "quantity": "1本"
+        },
+        {
+            "name": "⚫︎梅干し果肉(甘塩)",
+            "quantity": "20g"
+        },
+        {
+            "name": "⚫︎砂糖(きび砂糖)",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "⚫︎白だし",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "⚫︎水",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "⚫︎白すりごま",
+            "quantity": "大匙2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは葉と芯に分ける。葉は3㎝角の色紙切り、芯は薄切りにして600W2分半。熱いうちにざるに取り塩をまぶす。",
+        "梅干しは水につけて塩出しし果肉を包丁で細かくたたき、砂糖、白だし、水、白すりごまを混ぜる。",
+        "竹輪は薄い輪切りにし、1のキャベツと2の梅ごまを加えよく混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3140639",
+    "advice": "梅干しがすっぱい場合は、砂糖の量を調整して下さい。梅はよく叩いてください",
+    "history": "美味しい春キャベツをつかったお弁当の副菜を考えていて美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ちくわ ごま和え"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3140639/100x141c/9733853c464456cd2fdd998efb9eb49e.jpg?u=8517295&p=1429878052"
+}

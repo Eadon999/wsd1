@@ -1,0 +1,63 @@
+{
+    "name": "特製！！冷やしトマトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あづぴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/92963/464x260/e7ae5b93302f5c23927a301cdb2304a7.jpg?u=26076&p=1370359444",
+    "datePublished": "2003-05-15",
+    "description": "トマトと玉ねぎドレッシングが、とっても合う、美味しいサラダ。すっぱさが、食欲をそそります。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "２個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは輪切りにして、器に並べる。",
+        "玉ねぎはみじん切りにする。辛味の強いものなら、少し水にさらして水気を切っておく。",
+        "玉ねぎとドレッシングの材料を良く混ぜ、トマトにかける。 \r\n",
+        "冷蔵庫で、良く冷やしたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "92963",
+    "advice": "ドレッシングは、このサラダだけではなく、他のものにかけても美味しいよ。",
+    "history": "夏には最適のメニュー。ドレッシングのすっぱさが、食欲を誘います。。人気検索で1位に入りました♪ありがとうございます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "玉ねぎ",
+        "しょうゆ",
+        "お酢"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/92963/100x141c/fcdb9f8736b524f6d56d5b6b0131993c.jpg?u=26076&p=1370359444"
+}

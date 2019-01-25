@@ -1,0 +1,49 @@
+{
+    "name": "オイマヨde大根とカニかまのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/703457/464x260/7cb013669242f9692c49ea801b4d5f90.jpg?u=933655&p=1229942352",
+    "datePublished": "2008-12-22",
+    "description": "大根とカニかまをオイマヨで和えただけで、おいしいサラダになりました～♪簡単にすぐ出来て、彩りが綺麗なサラダです♪",
+    "recipeYield": "4人",
+    "recipeIngredient": [
+        {
+            "name": "カニかま",
+            "quantity": "一袋"
+        },
+        {
+            "name": "大根",
+            "quantity": "半分"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１～"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにする。カニかまを裂く",
+        "調味料を混ぜる。\r\n味は大根の量などありますので、オイ：マヨを１：１で調節してください♪",
+        "３月１１日　話題入りさせていただきました。作っていただいた皆様、\r\nありがとうございました",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "703457",
+    "advice": "",
+    "history": "オイマヨにはまって、試してみたらおいしかった！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オイマヨ大根サラダ"
+    ],
+    "tsukurepo_count": "110",
+    "thumbnail": "https://img.cpcdn.com/recipes/703457/100x141c/f231f840b704f5cb2377a73e011e3c15.jpg?u=933655&p=1229942352"
+}

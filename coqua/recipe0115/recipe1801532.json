@@ -1,0 +1,63 @@
+{
+    "name": "あと1品！人参と卵のきんぴら風",
+    "author": {
+        "@type": "Person",
+        "name": "まゆみ母ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1801532/464x260/5c81b2663ab5d00a31629a17d869b45d.jpg?u=4051798&p=1391830328",
+    "datePublished": "2012-05-04",
+    "description": "2013/11/18話題入り感謝☆あと1品欲しい時に！お弁当に入れてもOK！",
+    "recipeYield": "2〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "人参(中)",
+            "quantity": "1本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ1〜２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２〜３"
+        },
+        {
+            "name": "本だし",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は細い千切りにする。\n油揚げは細切りにする。",
+        "熱したフライパンにごま油を入れ 人参と油揚げを入れ炒める。(中火)",
+        "1分位炒めたら本だしと水を入れ蒸し焼きにする。",
+        "人参がしんなりしたら めんつゆと溶いた卵を入れ 混ぜ合わせ火を止め 出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1801532",
+    "advice": "＊人参を焦げつかさないように火加減に注意して下さい。＊油揚げは油抜きしていません。＊又油揚げはあえて入れなくても大丈夫ですが　入れればコクがでます。",
+    "history": "人参大好きの子どものために",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "油揚げ",
+        "卵",
+        "ごま油"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/1801532/100x141c/e533a0d5cb64231738da5620bb7276f7.jpg?u=4051798&p=1391830328"
+}

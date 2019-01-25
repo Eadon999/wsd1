@@ -1,0 +1,67 @@
+{
+    "name": "＊超簡単♪白菜生姜スープ＊",
+    "author": {
+        "@type": "Person",
+        "name": "naru＊café"
+    },
+    "image": "https://img.cpcdn.com/recipes/755669/464x260/2ee2980c7c534f404f3351b02917330a.jpg?u=1158856&p=1503491456",
+    "datePublished": "2009-03-10",
+    "description": "にんにくを書き忘れてしまいました。 印刷された方、フォルダに入れてくれた方、ごめんなさいこれが正しいレシピです ",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/4"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "３個"
+        },
+        {
+            "name": "あらびきコショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "６カップ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１欠片"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜、ベーコンは、一口大に切る、にんにくはすりおろす。しょうがは千切りに！",
+        "水６カップと材料を全部入れ、白菜がしんなりしてきたら、味見をし、たりなければ、塩コショウで味を調節する。",
+        "できあがり（●＾o＾●）",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "755669",
+    "advice": "うちは、結構しょうがとあらびきコショウを入れ、辛めで、作ります。お子さんがいる家は、コショウを入れすぎると、からいかも。ウインナーや、余った野菜などでもＯＫです！",
+    "history": "母がよく作ってくれた、お袋の味！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "ベーコン",
+        "しょうが",
+        "コンソメ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/755669/100x141c/67e8cab7bcf9ee236fee087c3ff8cc8b.jpg?u=1158856&p=1503491456"
+}

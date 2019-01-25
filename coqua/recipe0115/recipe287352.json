@@ -1,0 +1,68 @@
+{
+    "name": "ニラとカニかまの中華風卵スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/287352/464x260/f47ad0effdb2964c736a545d6c3182b0.jpg?u=274122&p=1214213762",
+    "datePublished": "2006-10-04",
+    "description": "冷蔵庫に中途半端に余っているカニかまとニラで作ってみました。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "適量"
+        },
+        {
+            "name": "カニかま",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "水カップ２を沸かし，鶏ガラスープの素を入れる。",
+        "適当な大きさに切ったニラとカニかまを入れ，しょうゆ・ゴマ油を入れる。",
+        "塩コショウで味をととのえ，溶き卵を回し入れ，半熟で火を消す。",
+        "器に盛りつけ，ゴマをふってできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "287352",
+    "advice": "鶏ガラスープでなくても、中華味（スープの素）でもおいしいです。",
+    "history": "冷蔵庫に残っているカニかま。。いつもは気づくとくわえているけれど料理に使えば１品になるので＾＾；",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "カニかま",
+        "卵",
+        "鶏ガラスープの素"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/287352/100x141c/e00229286c13e0cb7762fbaa92fea473.jpg?u=274122&p=1214213762"
+}

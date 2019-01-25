@@ -1,0 +1,50 @@
+{
+    "name": "水菜とツナのさっぱりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2112493/464x260/0154701a3fafd684b75e61d5e9b7d855.jpg?u=2513693&p=1360410410",
+    "datePublished": "2013-02-12",
+    "description": "レモン果汁をたっぷり入れたさっぱりしたツナサラダです。野菜はレタスなどでも美味しいよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜（３センチに切る）",
+            "quantity": "２分の１袋（１００ｇ）"
+        },
+        {
+            "name": "ツナ缶（小）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ３分の１"
+        },
+        {
+            "name": "粗びき黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜と【A】を合わせて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2112493",
+    "advice": "＊ツナは油も捨てずに使います。",
+    "history": "ツナサラダにはよくマヨネーズを使うのですが、おかずが濃いめの味だったので、さっぱり味に仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 ツナ レタス",
+        "水菜 サラダ"
+    ],
+    "tsukurepo_count": "87",
+    "thumbnail": "https://img.cpcdn.com/recipes/2112493/100x141c/dcef2dbb57f76873d3c12ea1e67d2842.jpg?u=2513693&p=1360410410"
+}

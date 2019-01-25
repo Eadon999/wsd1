@@ -1,0 +1,62 @@
+{
+    "name": "豚こまと玉ねぎの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まる母"
+    },
+    "image": "https://img.cpcdn.com/recipes/2390468/464x260/55d0b1b994289d49d5f063b9d7c6d66a.jpg?u=4634691&p=1383048019",
+    "datePublished": "2013-10-30",
+    "description": "2013/11/20話題入りしました。ありがとうございます。豚小間切れ肉でちゃちゃっと作る生姜焼き♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚小間切れ肉",
+            "quantity": "300ｇくらい"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆生姜(すりおろし)",
+            "quantity": "一片"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを切る。\n\n",
+        "豚小間切れ肉と玉ねぎと☆の調味料をすべて混ぜ合わせる。",
+        "もみ込んで、お肉が色づき、しっとりしてきたら、フライパンで焼く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2390468",
+    "advice": "豚小間切れ肉を使って、お手軽に、ちゃちゃっと作ります。",
+    "history": "忙しい日に作る簡単ごはんです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚小間切れ肉",
+        "たまねぎ",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/2390468/100x141c/132dad3fd145a9c7fa2975b3791065bc.jpg?u=4634691&p=1383048019"
+}

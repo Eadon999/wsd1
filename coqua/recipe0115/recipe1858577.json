@@ -1,0 +1,69 @@
+{
+    "name": "＊キャベツたっぷり　わかめスープ＊",
+    "author": {
+        "@type": "Person",
+        "name": "おにぎりママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1858577/464x260/16ae62a997bacba67942eb31cdbbadda.jpg?u=1306725&p=1340262978",
+    "datePublished": "2012-09-01",
+    "description": "キャベツもわかめもたっぷり入れて✿身体にもお財布にも優しい嬉しいスープです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ネギ",
+            "quantity": "30g"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "5g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "60~180g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "少々（チューブで5~10mm）"
+        },
+        {
+            "name": "●鶏がらスープの素",
+            "quantity": "小さじ3~4"
+        },
+        {
+            "name": "●酒（省略可）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "600ml"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩コショウ、白ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざく切り、ネギは小口切りにする。",
+        "熱した鍋にごま油をひきネギと生姜を香りが出るまで炒める。",
+        "キャベツを加え馴染んだら●をいれ、蓋をして沸々してきたら弱火で２分。",
+        "わかめも加え、蓋をし火を止める。\n５分くらいするとわかめも戻ります。",
+        "塩コショウで味を整え、仕上げにごまを振ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1858577",
+    "advice": "乾燥わかめは種類により塩分が変わるので、塩加減注意してください。",
+    "history": "ぶたさんチームさんからレシピを引き継ぎました。素敵なレシピをありがとう。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ わかめ スープ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1858577/100x141c/7bc9cfe6298c4768149733098101cb07.jpg?u=1306725&p=1340262978"
+}

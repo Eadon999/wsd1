@@ -1,0 +1,63 @@
+{
+    "name": "簡単！ブロッコリーと竹輪のマヨカレー炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4293592/464x260/f89be69219d71ca8217ce0fecbd81d0e.jpg?u=4376699&p=1484580282",
+    "datePublished": "2017-01-18",
+    "description": "マヨカレーが合います♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "人参",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを小さく切って洗う\nシリコンスチーマーでレンジ600w1分半チン",
+        "ちくわを8等分に切る\n人参を千切り\n油少々で炒めて塩胡椒とカレー粉で炒める",
+        "ブロッコリーを加えてマヨネーズを掛けて蓋をして中火で1分蒸し焼き",
+        "卵に塩胡椒少々加えて溶く\n蓋を取って溶き卵を回しかけ蓋をして1分蒸し焼き\n蓋を取ってあおって完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4293592",
+    "advice": "マヨネーズの量はお好みで♪",
+    "history": "ブロッコリーとちくわ・・・何にしようか・・・カレー炒めにしようとしてマヨを加えて卵かけにしてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ちくわ",
+        "人参",
+        "卵"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4293592/100x141c/21389d10d3aaa34cd34d75db6771eea2.jpg?u=4376699&p=1484580282"
+}

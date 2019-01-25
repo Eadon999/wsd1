@@ -1,0 +1,74 @@
+{
+    "name": "ずぼらな私の春雨サラダ～♪",
+    "author": {
+        "@type": "Person",
+        "name": "くみちょん"
+    },
+    "image": "https://img.cpcdn.com/recipes/580787/464x260/bbbdbaf476f34c1de48bf1ae22bd29fd.jpg?u=565499&p=1214220167",
+    "datePublished": "2008-05-29",
+    "description": "春雨サラダ大好き～～♥♥.:*ﾟ･;*: 手抜きしても、すっごく美味しいよぉ～♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "★緑豆春雨",
+            "quantity": "３０㌘"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１と1/2"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "１１０㏄"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "2/3本（千切り）"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚（千切り）"
+        },
+        {
+            "name": "錦糸卵",
+            "quantity": "１枚分"
+        },
+        {
+            "name": "白いりゴマ",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料を鍋に入れ、蓋をして中火にかけ沸騰したら火を止めて、そのまま冷まします。",
+        "冷めたら、きゅうり・ハム・錦糸卵・いりごまを混ぜて出来上がりです。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "580787",
+    "advice": "春雨は、必ず緑豆はるさめを使って下さい。。緑豆はるさめは、弾力があって溶けた感じにはなりませんよ☆",
+    "history": "いつもは春雨を戻してから調理していたんですが、水っぽくなってしまうので、タレを作る特に春雨を一緒に入れてみました^^",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "緑豆春雨",
+        "砂糖",
+        "しょうゆ",
+        "酢"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/580787/100x141c/0584b54e2660cab6ac90fda1212155f5.jpg?u=565499&p=1214220167"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "白菜･ツナ･海苔のマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "LaLaHappy1"
+    },
+    "image": "https://img.cpcdn.com/recipes/2443610/464x260/2e44ddcb07b4fc08bf42ac447f4e51ef.jpg?u=2602427&p=1387806061",
+    "datePublished": "2013-12-23",
+    "description": "白菜がたっぷり食べられるサラダ♪　マヨ＆ごま＆海苔の風味がよく合います。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜（縦半分の細切り）",
+            "quantity": "6枚"
+        },
+        {
+            "name": "Ａ･･･ツナ缶",
+            "quantity": "小1つ"
+        },
+        {
+            "name": "Ａ･･･味海苔（小さくちぎる）",
+            "quantity": "2袋"
+        },
+        {
+            "name": "Ａ･･･マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "Ａ･･･酢・すり胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Ａ･･･ごま油",
+            "quantity": "大さじ3分の2"
+        },
+        {
+            "name": "Ａ･･･砂糖",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜と塩少々を袋に入れて、よくもみ、真空状態にして、10分ほど置きます。",
+        "ボウルにＡを混ぜ合わせます。",
+        "②に、水気をしっかり絞った①を入れて混ぜたら出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2443610",
+    "advice": "水っぽくならないように、白菜の水分をしっかりとしぼってくださいね。",
+    "history": "旬の白菜をたっぷり食べたくて（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2443610/100x141c/e4b17e6bbe0e7f1d6c11962adb9b8570.jpg?u=2602427&p=1387806061"
+}

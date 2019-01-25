@@ -1,0 +1,63 @@
+{
+    "name": "ダイエット！アジアンチキン",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3551285/464x260/e06afaaa32bd8e8ef0474298c2168805.jpg?u=4376699&p=1449072293",
+    "datePublished": "2015-12-03",
+    "description": "ナンプラーと生姜香る蒸しレシピ♪120kcal/人レンジで簡単シリコンスチーマーレシピ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ムネ肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "100g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "100g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "1cm"
+        }
+    ],
+    "recipeInstructions": [
+        "ムネ肉を大きく切る\nブロッコリーを大きく切って洗う\nもやしを洗う\nスチーマーに入れコンソメを掛けレンジ600w3分チン",
+        "残りの調味料を掛けて混ぜ2分チン\n混ぜてお皿に盛る\n残った汁に片栗粉を溶かし20秒チン\nよく混ぜて掛ける"
+    ],
+    "cookTime": null,
+    "recipe_id": "3551285",
+    "advice": "混ぜる時はよ～く混ぜる！！",
+    "history": "シリコンスチーマーだけで下処理から味付けまで挑戦ナンプラーでアジアンテイストにしてみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ムネ肉ダイエット",
+        "シリコンスチーマー ダイエット"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3551285/100x141c/e26f0206a59c4eab6cc171fb677907bc.jpg?u=4376699&p=1449072293"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "しそひじきふりかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/327582/464x260/669506cb5ba4b12feae5dc1bcde66b28.jpg?u=253314&p=1296482451",
+    "datePublished": "2007-02-07",
+    "description": "ふりかけと申しますか、混ぜごはんの素と申しますか・・・。お好みのスッパさで召し上がって下さいな♪",
+    "recipeYield": "130グラム程",
+    "recipeIngredient": [
+        {
+            "name": "ひじき（今回乾燥ひじき使用）",
+            "quantity": "１５g（戻す前）"
+        },
+        {
+            "name": "ダシ汁",
+            "quantity": "１００CC弱"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきを戻し、ダシ汁で煮る。",
+        "☆で味付け、汁気がなくなってきたら、火を止め、ゆかりとゴマを加える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "327582",
+    "advice": "ゆかりの量は、少し多いかな・・くらいが丁度いいかと思います。 『いつものひじき煮の味付けでひじきとゆかりは同量』シッカリ味でコチラも美味しい♪ミチケイさんが教えて下さいました♪ミチケイさんありがとうございます！　　謝謝♪♪ ",
+    "history": "こういう商品ありますよね。。買うより作る方がお得かなと思いまして。。。＾＾；",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき ふりかけ",
+        "しそひじき",
+        "しそひじきふりかけ"
+    ],
+    "tsukurepo_count": "317",
+    "thumbnail": "https://img.cpcdn.com/recipes/327582/100x141c/17a760f670aeebe7010d82f5c560e0fe.jpg?u=253314&p=1296482451"
+}

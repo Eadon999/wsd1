@@ -1,0 +1,93 @@
+{
+    "name": "一番簡単★エビチリ",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/778212/464x260/bf275b505e2132b917448d28984dcb00.jpg?u=1088838&p=1361862782",
+    "datePublished": "2009-04-08",
+    "description": "れぽ300人ありがとう！家にある調味料だけであっという間にエビチリが出来ちゃいます♪お皿に残ったソースまでぺろりですよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "むきエビ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "★豆板醤お好みで",
+            "quantity": "家は小２／３"
+        },
+        {
+            "name": "★ニンニクチューブ",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "★生姜チューブ",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "☆水",
+            "quantity": "１００ｍｌ"
+        },
+        {
+            "name": "☆中華あじ",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大１．５"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "エビと片栗を袋に入れて振ってまぶす。ごま油で両面焼く。★も端で一緒に炒める。",
+        "エビの色が変わったら☆を入れて２分混ぜれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "778212",
+    "advice": "エビを焼く時はあまりさわらないこと。",
+    "history": "うちのエビチリの味を決めたくて何度か調味料の分量を調整して作りました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "むきエビ",
+        "片栗粉",
+        "ごま油",
+        "ネギ"
+    ],
+    "tsukurepo_count": "350",
+    "thumbnail": "https://img.cpcdn.com/recipes/778212/100x141c/9bf3223e4a35c65e3538da7f8baa8b41.jpg?u=1088838&p=1361862782"
+}

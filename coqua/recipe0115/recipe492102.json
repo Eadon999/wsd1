@@ -1,0 +1,66 @@
+{
+    "name": "♫♬桜海老のだし巻き卵♫♬",
+    "author": {
+        "@type": "Person",
+        "name": "ルリナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/492102/464x260/ba0fc76c07b955f16f8286bab28247f1.jpg?u=590558&p=1269250357",
+    "datePublished": "2008-01-21",
+    "description": "カルシウムが摂れて嬉しい一品です✿",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "干しえび（桜海老）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青葱小口切り",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "２～３滴"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を計量カップに割りいれ白身を切るように混ぜ、☆の材料をいれ、更に混ぜる。",
+        "１に干しえび、青葱もいれ、混ぜ合わせる。",
+        "卵焼き器を熱して油を薄く敷き、２の卵液を流し込む。",
+        "手前から巻いていく。",
+        "最後まで巻けたら、巻き終わりを下にしてはがれないように焼く。",
+        "まな板に移して、５等分にしたら、お皿に盛り付けできあがり。",
+        "１００人の方に作っていただきました♪作ってくださった皆様ありがとうございます"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "492102",
+    "advice": "青葱は白葱のみじん切りでも美味しくできあがります。",
+    "history": "カルシウム摂取のために考えました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "干しえび",
+        "白だし",
+        "砂糖"
+    ],
+    "tsukurepo_count": "247",
+    "thumbnail": "https://img.cpcdn.com/recipes/492102/100x141c/e9ce1d8da2e4b9288965a29e704ac636.jpg?u=590558&p=1269250357"
+}

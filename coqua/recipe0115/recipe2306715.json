@@ -1,0 +1,61 @@
+{
+    "name": "いつもの常備菜　ピーマンと人参のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2306715/464x260/d179bfda57ce0f5624d4d618065d36bc.jpg?u=6238111&p=1375854559",
+    "datePublished": "2013-08-07",
+    "description": "鶏ガラスープの素を少量加えるだけで、いつものナムルが段違いにおいしくなります。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "人参（千切り）",
+            "quantity": "１本"
+        },
+        {
+            "name": "ピーマン（千切り）",
+            "quantity": "４個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "鶏がらスープの素(顆粒)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水と人参を入れ茹でる。\n柔らかくなったら、ピーマンを加え、すぐにざるにあけ冷ます。",
+        "冷めたら、合わせ調味料で和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2306715",
+    "advice": "ピーマンは食感を残すように、さっと茹でます。",
+    "history": "ナムルが好きでよく作るのですが、鶏ガラスープを加えたところ、味が引き締まりぐっとおいしくなりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "ピーマン",
+        "合わせ調味料",
+        "ごま油"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2306715/100x141c/409f6a007813dc0c0bd2fd190f64c4b9.jpg?u=6238111&p=1375854559"
+}

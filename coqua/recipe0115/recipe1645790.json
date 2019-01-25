@@ -1,0 +1,82 @@
+{
+    "name": "納豆・アボカド・オクラ・豆腐サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "プロバンス"
+    },
+    "image": "https://img.cpcdn.com/recipes/1645790/464x260/2c1632de12f604727676a4bb4fab0987.jpg?u=1051246&p=1323230460",
+    "datePublished": "2011-12-07",
+    "description": "ヘルシーで体に良い、美味しいサラダ一度でたっぷりの栄養が取れます。意外とボリュームがあるのでお腹いっぱいになれます！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "サニーレタス",
+            "quantity": "1袋"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "納豆",
+            "quantity": "小2パック"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "一丁"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "10本"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "2掴み"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大5"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "大5"
+        },
+        {
+            "name": "●お酢",
+            "quantity": "大3"
+        },
+        {
+            "name": "●ハチミツ",
+            "quantity": "大1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "●すりゴマ",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラを軽く茹でて、食べやすい大きさ（私は1.5ｃｍ程度）にする。\nアボカド・豆腐も適度な大きさに切る。",
+        "納豆は付属のタレを加えて、まぜまぜしておいて置く。",
+        "サニーレタス、アボカド、豆腐、オクラをのせたら納豆をのせる。\n上に鰹節をのせたら、●のドレッシングをかけて出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1645790",
+    "advice": "しょうゆベースのドレッシングが合います！すりゴマはお好みですが、たっぷり入れると美味しいです。",
+    "history": "美味しくて、体に良いものが食べたくて☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サニーレタス",
+        "アボカド",
+        "納豆",
+        "豆腐"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1645790/100x141c/ffa88aec257b1b927e954fd1c8796c48.jpg?u=1051246&p=1323230460"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "旬を楽しむ、さんまの塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1954767/464x260/e2003ab6b126d052bc2e59bb693cb9fa.jpg?u=2142891&p=1347797755",
+    "datePublished": "2012-09-16",
+    "description": "美味しいけど、写真がちょっと、、、。ごめんなさい～～。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "２匹"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ＆ふたつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "包丁でさんまを優しくなでて、うろこを取り、優しく水で洗います。（うろこがあると焼きムラの原因に！）",
+        "ふたつまみの塩をまんべんなくさんまにふりかけます（くさみがとれます）\n１０分置いたら表面の水分をふき取る。",
+        "味付けのための塩をふたつまみ、まんべんなくふります。",
+        "魚焼こグリルをやや強火で５分温めたら、さんまを入れます。",
+        "５分焼いて、ひっくり返して５分。最後に１分間強火で焼いて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1954767",
+    "advice": "頭も内臓も着いたままのほうが、水分が逃げなくて美味しく焼けると思います。",
+    "history": "旬のさんまをおいしくたべましょ～（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "塩"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1954767/100x141c/507fadecbb4e246e142bf7666f6c3321.jpg?u=2142891&p=1347797755"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "簡単うちの筑前煮",
+    "author": {
+        "@type": "Person",
+        "name": "みーみーさんさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1689284/464x260/7d4bd40c93509305e58bb57344cc5731.jpg?u=3545880&p=1337683905",
+    "datePublished": "2012-01-29",
+    "description": "うちの筑前煮は甘辛いので、ご飯が進みますよ！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "★里芋",
+            "quantity": "１０個～"
+        },
+        {
+            "name": "★蓮根（あればゴボウも・・・）",
+            "quantity": "中１個"
+        },
+        {
+            "name": "★人参",
+            "quantity": "３分の１"
+        },
+        {
+            "name": "★しいたけ",
+            "quantity": "３個"
+        },
+        {
+            "name": "★こんにゃく",
+            "quantity": "半分"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●ほんだし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜、こんにゃくは大きめの乱切りにする。",
+        "鍋にごま油で鶏肉を軽く炒めてから、★も入れ１～２分炒めて●をいれ１５分～煮込む。",
+        "あとは余熱で味が染みこむので放置しておきましょう。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1689284",
+    "advice": "必ずごま油で炒めましょう！ちくわを入れても美味しいです。",
+    "history": "里芋と蓮根が大好きなので・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "筑前煮 簡単"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1689284/100x141c/e6cbaac4bae3d2c2de8055c5a8030cef.jpg?u=3545880&p=1337683905"
+}

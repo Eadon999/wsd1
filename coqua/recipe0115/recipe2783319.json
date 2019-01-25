@@ -1,0 +1,52 @@
+{
+    "name": "山芋と卵のチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/2783319/464x260/c862da753401d190b1f57b1074fbf72d.jpg?u=533232&p=1409811106",
+    "datePublished": "2014-09-17",
+    "description": "すりおろした山芋と卵とチーズを焼いただけの簡単メニューです",
+    "recipeYield": "一皿分",
+    "recipeIngredient": [
+        {
+            "name": "山芋",
+            "quantity": "50g"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "チーズ(とろけるタイプ)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ドライパセリなど",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールに山芋をすりおろし、卵と白だしを加えてかき混ぜます",
+        "耐熱容器に１を流しいれ、チーズをのせてオーブントースターで焦げ色がつくまで焼きます",
+        "ドライパセリなどを振ってできあがりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "2783319",
+    "advice": "１：しっかり混ぜると焼いたときふんわりします",
+    "history": "山芋とチーズの組み合わせが好きですが、フライパンなしでできるメニューにしてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋卵",
+        "長芋 すりおろし 焼き"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2783319/100x141c/6063e29a6960cef19a914bfeea25f051.jpg?u=533232&p=1409811106"
+}

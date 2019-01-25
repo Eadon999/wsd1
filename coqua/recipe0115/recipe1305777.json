@@ -1,0 +1,68 @@
+{
+    "name": "イカとチンゲン菜のピリ辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "よーかにゃんこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1305777/464x260/774a094ac4ea5ceb6f804ed266b122cf.jpg?u=2451006&p=1291964074",
+    "datePublished": "2011-04-08",
+    "description": "簡単につくれておいしい！ピリ辛が食欲増進!!",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "２匹"
+        },
+        {
+            "name": "チンゲン菜",
+            "quantity": "２束"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "イカは内臓、骨を除いて、胴は1cmくらいの輪切りに、足は1本ずつに切り分ける。",
+        "チンゲン菜は食べやすい大きさに切っておく。葉の部分は炒めると小さくなるので注意！\nにんにくはみじん切りにする。",
+        "フライパンにごま油を熱し、弱火でにんにくを炒め、香りが出たらイカ・チンゲン菜を加え、中火にしてさっと炒める。",
+        "仕上げにコチュジャン、オイスターソースを加える。塩・こしょうで味を調える。",
+        "器に盛って、白ゴマを散らして完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1305777",
+    "advice": "チンゲン菜は火を通すと縮むので、大きめに切ることがコツです。",
+    "history": "我が家のイカ料理の定番です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ",
+        "チンゲン菜",
+        "にんにく",
+        "ごま油"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1305777/100x141c/c5972090e57aaa778a4e8988c32d3708.jpg?u=2451006&p=1291964074"
+}

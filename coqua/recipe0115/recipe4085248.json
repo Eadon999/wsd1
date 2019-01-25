@@ -1,0 +1,52 @@
+{
+    "name": "簡単！基本のしらたきサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4085248/464x260/19af34f5390919f443bcd8b7c70b89c4.jpg?u=4376699&p=1474600812",
+    "datePublished": "2016-09-23",
+    "description": "春雨サラダ風！春雨より低カロリーに♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しらたき",
+            "quantity": "100g"
+        },
+        {
+            "name": "ミックスベジタブル",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ(キューピーハーフ)",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白滝を水で洗いミックスベジタブルと一緒にレンジ600w2分チン\n水で冷やして絞って調味料を混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4085248",
+    "advice": "お好みでツナを混ぜても美味しいです白滝は切らなくてＯＫ",
+    "history": "春雨の代わりにしらたきで挑戦",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらたき",
+        "ミックスベジタブル",
+        "調味料",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4085248/100x141c/a695e2f7268151223b97cd0d1730d6a7.jpg?u=4376699&p=1474600812"
+}

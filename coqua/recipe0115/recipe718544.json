@@ -1,0 +1,58 @@
+{
+    "name": "たっぷりキャベツのナツメグソテー",
+    "author": {
+        "@type": "Person",
+        "name": "お天気ママちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/718544/464x260/c7b9029296e7aac4847f6bcdc86c4e36.jpg?u=437874&p=1232579522",
+    "datePublished": "2009-01-22",
+    "description": "キャベツの甘味をナツメグで引き出しています。やさしい、味です。",
+    "recipeYield": "2～3人前",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/5（540ｇ）"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "ナツメグ",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "バター",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンを細切りにする。",
+        "キャベツは２～３ミリの千切りにする。",
+        "バター、ナツメグをいれた小鍋で、ベーコンを炒める。（１分）",
+        "キャベツと塩を入れ、しんなりすればOK。\n（中火で３～４分）"
+    ],
+    "cookTime": null,
+    "recipe_id": "718544",
+    "advice": "ナツメグは入れすぎると苦みを感じます。少し香るくらいがキャベツの甘味を感じることができますよ。",
+    "history": "冷蔵庫にキャベツがあったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "その他/スパイス＆ハーブ/ナツメグ"
+    ],
+    "rankings": [
+        "ナツメグ 4位"
+    ],
+    "related_keywords": [
+        "キャベツ",
+        "ベーコン",
+        "ナツメグ",
+        "バター"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/718544/100x141c/470fc6d85e06338097994de483212ad9.jpg?u=437874&p=1232579522"
+}

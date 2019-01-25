@@ -1,0 +1,59 @@
+{
+    "name": "にんにく風味のきんぴらにんじん。",
+    "author": {
+        "@type": "Person",
+        "name": "しあわせな食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/423522/464x260/6a89628d2d9bd61208141947f737b9b8.jpg?u=500885&p=1214217094",
+    "datePublished": "2007-08-30",
+    "description": "にんにくと塩で味付けしたシンプルなきんぴらです。お好みで鷹の爪を加えても♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "にんにく(微塵切りまたは摩り下ろし)",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは細切りにします。",
+        "フライパンにオリーブオイル、にんにく、鷹の爪を入れ、焦がさないように気を付けながら熱していきます。",
+        "良い香りがしてきたら、にんじんを加え炒めます。",
+        "にんじんに火が通ったら、火を止めてごま油と白ごまを加えて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "423522",
+    "advice": "にんにくと鷹の爪を焦がさないようにすれば、美味しく仕上がります。",
+    "history": "美味しそうなにんじんが売っていたので、シンプルに美味しくいただけるレシピを考えてみました(*^＿^*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "オリーブオイル",
+        "ごま油",
+        "白ごま"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/423522/100x141c/bfd8178aa5c8f9c9a9ee8ecebc7a4b1b.jpg?u=500885&p=1214217094"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "☆切干大根の煮物☆",
+    "author": {
+        "@type": "Person",
+        "name": "toratamada"
+    },
+    "image": "https://img.cpcdn.com/recipes/1331877/464x260/a3c1af1339b5192dafdc428dd1cc46a7.jpg?u=2559642&p=1295257267",
+    "datePublished": "2011-01-17",
+    "description": "定番のメニューですが子供たちに伝承するために分量を量ってみましたのでレシピアップしました。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "切干大根",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "5センチ程度"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "500ＣＣ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "切干大根は水洗いして戻し、絞って水を切ったら適当な大きさに切っておく。人参、揚げも細切りにする。",
+        "油を鍋に熱し、切干大根を炒め、人参・揚げもいれ炒め合わせる。",
+        "なじんだところでだし汁を加え、調味料をいれ、煮汁がほとんどなくなるまで煮詰める。煮汁がほとんどなくなったら火を止める。",
+        "こんな風にシリコンカップに入れて冷凍すれば、自作冷凍惣菜としてお弁当に大活躍！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1331877",
+    "advice": "",
+    "history": "自家製の切干大根を毎年作るので一年中定番の煮物は作って食べます。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/切干大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "切干大根",
+        "人参",
+        "油揚げ",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1331877/100x141c/da6f5a63eb21f260f62d3b1744b0ac75.jpg?u=2559642&p=1295257267"
+}

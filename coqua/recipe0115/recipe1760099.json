@@ -1,0 +1,57 @@
+{
+    "name": "【農家のレシピ】ぴらぴらニンジンのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1760099/464x260/3125b20de46abc30c10998b9f25d1219.jpg?u=2513693&p=1333168618",
+    "datePublished": "2012-04-01",
+    "description": "ピーラーで薄くスライスしたニンジンをバターで炒めてコンソメで煮ています。具だくさんのスープです。",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "長ネギ（白い部分）",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "コンソメ（固形）＊細かく刻んでおく",
+            "quantity": "2個"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンジンはピーラーで薄くスライスします。長ネギは小口切りにしておきます。",
+        "鍋にバターを熱しニンジンと長ネギをしんなりするまで炒め【A】を加えて沸騰してから1分煮て塩、コショウで味を調え完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1760099",
+    "advice": "",
+    "history": "朝食に色んなスープを作っています。切り方も色々変えて作っています。今回はピーラーでニンジンを薄くスライスして使いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "長ネギ",
+        "バター",
+        "塩、コショウ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/1760099/100x141c/b80c332a573373febab34f4404bbba0c.jpg?u=2513693&p=1333168618"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "シンプルがおいしい♡アスパラガスの塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "福島県"
+    },
+    "image": "https://img.cpcdn.com/recipes/4519826/464x260/274ba64d9cf7a8b80fd9a567fb0ea83c.jpg?u=14983926&p=1494576978",
+    "datePublished": "2017-05-12",
+    "description": "【祝H30.5.29話題のレシピ】今が旬のアスパラガスをシンプルに！アスパラガスの甘みとジューシーさを贅沢に味わえる一品",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アスパラガス（太さ中～大）",
+            "quantity": "6本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイルを引き、アスパラガスを並べ入れ、中火で全体にうっすら焼き目がつくように、時々フライパンをゆする",
+        "全体に火が通ったら、塩を全体にふりかけ、器に盛って完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4519826",
+    "advice": "アスパラガスは少し太めの方が、甘みと食感を楽しむことが出来ますよ。",
+    "history": "今回のレシピは、福島県喜多方市でアスパラガスの有機栽培に取り組んでいる渡部好啓さん・敏子さんご夫妻に教えていただきました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ",
+        "アスパラ 塩焼き"
+    ],
+    "tsukurepo_count": "227",
+    "thumbnail": "https://img.cpcdn.com/recipes/4519826/100x141c/25c856553106db425778efd9fc881887.jpg?u=14983926&p=1494576978"
+}

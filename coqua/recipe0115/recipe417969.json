@@ -1,0 +1,70 @@
+{
+    "name": "冬瓜の帆立あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ぴりっと"
+    },
+    "image": "https://img.cpcdn.com/recipes/417969/464x260/2445c033341cd7205e49b22786cb6b97.jpg?u=541688&p=1214216977",
+    "datePublished": "2007-08-16",
+    "description": "帆立の缶詰を使った、簡単で帆立風味たっぷりな煮物です。隠し味に生姜汁を入れてさっぱりと♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜",
+            "quantity": "１／８個"
+        },
+        {
+            "name": "帆立缶詰",
+            "quantity": "１缶"
+        },
+        {
+            "name": "枝豆",
+            "quantity": "適量"
+        },
+        {
+            "name": "生姜汁",
+            "quantity": "1片分"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜は種とわたを取り皮を剥いて、５センチ角くらいの大きさに切り分け、下茹でする（竹串がとおるくらい）",
+        "鍋に冬瓜を入れ、だし汁をひたひたに入れ、帆立缶を汁ごと投入。酒、みりん、薄口醤油も加え１０分くらい煮る。",
+        "水溶き片栗粉でとろみを付け、さやから出した枝豆を加え一煮立ちさせる。火を止める直前に、生姜汁を加える。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "417969",
+    "advice": "作って直ぐよりも半日くらい時間が経った方が味が滲みておいしいです。冷やしても美味しい！",
+    "history": "干し貝柱を戻す時間が無かったので、缶詰で作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "枝豆",
+        "生姜汁",
+        "だし汁"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/417969/100x141c/646e9306d5b4d09c1a47138b45d5a313.jpg?u=541688&p=1214216977"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "えのきの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2437363/464x260/cf0995e4ed9d2a926c83546e043e76b1.jpg?u=4819316&p=1387203126",
+    "datePublished": "2013-12-17",
+    "description": "14/9/30話題入り有難うございます、あと一品と言うときに簡単に作れます。是非試してみて下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "えのきだけ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ねぎ（みじん切り）",
+            "quantity": "３センチ"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "和風顆粒だし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきだけは石突きを落とし、根元をばらばらにして、長さを半分にする",
+        "\n鍋に水を入れて加熱し沸騰すると１のえのきだけを入れる",
+        "えのきだけが柔らかくなると、和風顆粒だしを入れ、みそを溶いて入れ、全体に味を馴染ませる\n",
+        "お椀に盛って、みじん切りにしたねぎを散らして出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2437363",
+    "advice": "簡単に出来る味噌汁なので、何も考えることはないはずです",
+    "history": "自分のレシピ(2335648)の簡易版です",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきだけ",
+        "ねぎ",
+        "和風顆粒だし",
+        "水"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2437363/100x141c/b6dafd2ce89bab888b254ee8159650b1.jpg?u=4819316&p=1387203126"
+}

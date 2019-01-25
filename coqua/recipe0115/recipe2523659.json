@@ -1,0 +1,47 @@
+{
+    "name": "しいたけのポン酢和え",
+    "author": {
+        "@type": "Person",
+        "name": "☆Haru☆☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2523659/464x260/558b440be087f5fad1fed785eef1018a.jpg?u=4415435&p=1393566869",
+    "datePublished": "2014-02-28",
+    "description": "★2014/3/24話題入り感謝★少ない材料でさっと炒めるだけで簡単にできるので、あと一品に活躍しそう＾＾♬",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "６枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ポン酢（ポン酢醤油）",
+            "quantity": "大さじ１／２～"
+        },
+        {
+            "name": "万能ねぎ(小口切り)",
+            "quantity": "適宜（なくても）"
+        }
+    ],
+    "recipeInstructions": [
+        "しいたけの石づきをとりスライスする。",
+        "熱したフライパンにゴマ油をしき、しいたけを炒める。\n",
+        "しいたけに火が通ったら、火を消しポン酢をかけ、混ぜて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2523659",
+    "advice": "★私にもできる！簡単なので特にありません。",
+    "history": "バター×ポン酢の組み合わせが好きで、ごま油と組み合わせたら？？と思ったのがきっかけです＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ ポン酢和え"
+    ],
+    "tsukurepo_count": "178",
+    "thumbnail": "https://img.cpcdn.com/recipes/2523659/100x141c/c01b8a7ecaacddf2d845bf3633b6dd95.jpg?u=4415435&p=1393566869"
+}

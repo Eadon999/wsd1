@@ -1,0 +1,48 @@
+{
+    "name": "簡単☆鮭のみりんしょう油焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ブラッキー☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/953604/464x260/2cede4bfde5904fe0acb2c565aaf4bef.jpg?u=1397923&p=1257077069",
+    "datePublished": "2009-11-01",
+    "description": "鮭をみりんしょう油に漬けて焼くだけ！鮭以外の切り身魚でもお楽しみいただけます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭の切り身",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "☆みりん（タカラ本みりん）",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "トレーなどに漬け汁の調味料を混ぜて、鮭を３０分ほど漬け込みます。",
+        "コンロのグリルなどで、中火で片面３～５分程焼きます。\r\n※漬け汁は捨てないで下さい！",
+        "（鮭を焼いている間に）鮭を漬けていた漬け汁を鍋に入れて中火で８分ほどに煮詰めでトロンとさせます。",
+        "鮭が焼けたら、お皿に盛り、煮詰めた漬け汁をかけて　出来上がりです(^o^)"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "953604",
+    "advice": "３０分ほどじっくり漬け汁に漬けた方が、味の馴染みがよいです。",
+    "history": "実家の定番メニューです！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭 みりん"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/953604/100x141c/36502ddb03879b2eb54a8fc76df68192.jpg?u=1397923&p=1257077069"
+}

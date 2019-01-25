@@ -1,0 +1,55 @@
+{
+    "name": "調味料２つで！白菜と鶏肉のあったか煮",
+    "author": {
+        "@type": "Person",
+        "name": "こたひなはる"
+    },
+    "image": "https://img.cpcdn.com/recipes/4298172/464x260/e76ae8c99d3ec840d69dbae429f67c04.jpg?u=2846366&p=1484819879",
+    "datePublished": "2017-01-19",
+    "description": "カンタンにあったかおかず。シンプルなので、白菜の甘みがしみる～",
+    "recipeYield": "4～5人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1／4株"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1～２袋"
+        },
+        {
+            "name": "顆粒だしの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1強"
+        },
+        {
+            "name": "水",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は食べやすい大きさにざく切り。鶏肉は一口大に切る。しめじはほぐす。",
+        "大鍋に白菜、鶏肉、しめじを入れ、水をひたひたよりちょっとだけ多めに入れる。",
+        "だしの素、塩を入れて中火にかけ、白菜がクタッとするまでに煮て、でき上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "4298172",
+    "advice": "だしの素と塩だけ、のシンプル味で。白菜が十分柔らかくなるまで煮るのがおいしい！",
+    "history": "「白菜のクタクタしたのって、おいしいよね～。定番の白菜と豚肉で…」と思ったが、「豚肉がない。寒いからおつかい行きたくない。鶏肉ならある。じゃ、鶏肉でやってみよ」ということで。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あったかおかず"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4298172/100x141c/fe5b9cd48ac55b8074f9d799d208c165.jpg?u=2846366&p=1484819879"
+}

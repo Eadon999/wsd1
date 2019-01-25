@@ -1,0 +1,60 @@
+{
+    "name": "舞茸のバターポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/523943/464x260/e6626f72ae03ae1717bcdee1716d6136.jpg?u=252604&p=1214219021",
+    "datePublished": "2008-03-06",
+    "description": "しゃきしゃきっとした美味しい舞茸の簡単バターソテーです。さっぱり大葉がポイントです。 ",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "1株（100ｇ）"
+        },
+        {
+            "name": "バター",
+            "quantity": "5ｇ"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "大葉",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸をほぐしておきます。大葉は、粗くみじん切りにしておきます。\r\n",
+        "フライパンにバターを溶かし、舞茸を炒めます。\r\n",
+        "ポン酢を加え、塩、胡椒で味をととのえます。最後に大葉を加えて出来上がりです。\r\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "523943",
+    "advice": "舞茸以外のきのこでも、とっても美味しいです。何かと重宝なポン酢ですが、バター炒めにもとってもよくあいます。舞茸は、栄養分が水に溶けやすいので炒めすぎないようにしてください。 お肉を加えれば、メインのおかずになります。",
+    "history": "きのこの苦手な子供に食べさせたくて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": [
+        "ポン酢炒め 9位"
+    ],
+    "related_keywords": [
+        "まいたけ",
+        "まいたけ バター炒め",
+        "まいたけ ポン酢",
+        "まいたけ バター"
+    ],
+    "tsukurepo_count": "542",
+    "thumbnail": "https://img.cpcdn.com/recipes/523943/100x141c/facbd9a5ae54cc59a96cad46f3d137ca.jpg?u=252604&p=1214219021"
+}

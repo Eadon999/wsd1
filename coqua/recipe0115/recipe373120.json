@@ -1,0 +1,55 @@
+{
+    "name": "◆我が家一押し◆ネギだくチキン◆",
+    "author": {
+        "@type": "Person",
+        "name": "ハリハリ戦士"
+    },
+    "image": "https://img.cpcdn.com/recipes/373120/464x260/c17a5aae8f8468a3b39fd1192d436cb7.jpg?u=409625&p=1214215657",
+    "datePublished": "2007-05-14",
+    "description": "主人に初めて満点を付けてもらった作品です。とっても簡単にメイン料理になります(●´艸｀) 我が家の一押しの一品！",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも",
+            "quantity": "１枚"
+        },
+        {
+            "name": "✿白ねぎ",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "✿醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "✿米酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "✿砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "✿ごま油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンかオーブンで鶏ももを焼きます。\r\n（皮はパリパリに焼いてください）",
+        "✿を耐熱容器に入れかき混ぜ、レンジで１分程度温めます。\r\n",
+        "①の鶏ももに②をかけたら出来上がり～"
+    ],
+    "cookTime": null,
+    "recipe_id": "373120",
+    "advice": "簡単なのであっという間にできます。",
+    "history": "味にうるさい主人が初めて満点をつけてくれたメニューなので、レシピアップさせてもらいました(*’v｀丱)☆+゜ ",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/373120/100x141c/790305da2e46ab4c6898c0f1ded96d62.jpg?u=409625&p=1214215657"
+}

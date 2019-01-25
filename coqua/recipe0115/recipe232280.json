@@ -1,0 +1,65 @@
+{
+    "name": "ツナ五目ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/232280/464x260/eaa0c5e3e712deb5f571ae0593043412.jpg?u=54489&p=1214212536",
+    "datePublished": "2005-12-27",
+    "description": "ツナ缶を油ごと使ったコクのある五目野菜たっぷりの炊き込みご飯です。やめられない止まらない一品です（´ー,｀）動画アリ",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "ツナ缶（油漬）",
+            "quantity": "８５ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "干し椎茸（スライス）",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "筍（水煮）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "昆布つゆ（３倍濃縮）",
+            "quantity": "５０ｍｌ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "材料は５ｍｍ幅、２～３ｃｍの長さの細切りにしておく。※干し椎茸はもどしておく。油揚げはしっかり油抜きしておく。",
+        "米を洗い、炊飯器の規定の位置まで水を入れ、昆布つゆと酒と1の具とツナ缶を油ごと入れて炊く。",
+        "出来上がり。",
+        "撮影：05/12/27"
+    ],
+    "cookTime": null,
+    "recipe_id": "232280",
+    "advice": "私は人参、椎茸、筍、油揚げを使いましたが、冷蔵庫にあるお好みの野菜で作ってＯＫです。動画レシピ：https://www.youtube.com/watch?v=HlCNAmBu2sM",
+    "history": "Cookpadの昆布つゆレシピコンテスト。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ五目ご飯"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/232280/100x141c/f575c2b5d5499547b8ef54fe86cb201d.jpg?u=54489&p=1214212536"
+}

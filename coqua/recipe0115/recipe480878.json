@@ -1,0 +1,53 @@
+{
+    "name": "◆あと１品！白菜とツナの和え物◆",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/480878/464x260/580c0c70ef3392684932ac7bfd8a7625.jpg?u=322621&p=1266301154",
+    "datePublished": "2007-12-29",
+    "description": "ﾁﾝ！した白菜とツナ缶で簡単に美味しく♡写真を変更しました",
+    "recipeYield": "小鉢に４つ",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "（大き目の葉で）４～５枚"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１/２~１缶"
+        },
+        {
+            "name": "●すり下ろしにんにく",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●粗引き塩コショウ",
+            "quantity": "３～４振り"
+        },
+        {
+            "name": "●だし醤油（無ければ醤油）",
+            "quantity": "小さじ１～味を見て調整"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は５㍉幅に細く切ってﾚﾝｼﾞでﾁﾝ！して柔らかくしたら水気を絞っておく　そこへ軽くｵｲﾙを切ったﾂﾅ缶と●を加え味を整えたら出来上がり",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "480878",
+    "advice": "生のすり下ろしにんにくは辛いので　瓶やﾁｭｰﾌﾞ入りのものをお勧めします",
+    "history": "ﾏﾖﾈｰｽﾞを使わずにｻﾗﾀﾞ風のものが作りたかったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ 白菜 あえもの",
+        "白菜とツナの和え物",
+        "白菜 和え物"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/480878/100x141c/d4f17e757c1fb80f4719e2efa46968cc.jpg?u=322621&p=1266301154"
+}

@@ -1,0 +1,43 @@
+{
+    "name": "トマト冷やしうどん",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2245106/464x260/043e312c79b7e34636088e5a3ff2e353.jpg?u=2495483&p=1370255947",
+    "datePublished": "2013-06-03",
+    "description": "美味しいトマトに出会ったら♪",
+    "recipeYield": "お試し量",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "４分の１玉"
+        },
+        {
+            "name": "美味しいトマト",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "酢、バジル粉、胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんを茹で氷水で冷やす",
+        "トマトを一口大に切る",
+        "うどんとトマトを混ぜ酢をかけバジルと胡椒をふる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2245106",
+    "advice": "",
+    "history": "うどんを食べていて具ばかり食べうどんが残った。ルリナさんのサラダ(ID:508805)の液が残ってた。つけて食べてみると美味しかったのでアレンジさせて頂きました",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2245106/100x141c/5f5af9d3027555147fa2102a3ba61b64.jpg?u=2495483&p=1370255947"
+}

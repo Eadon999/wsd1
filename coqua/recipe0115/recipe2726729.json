@@ -1,0 +1,68 @@
+{
+    "name": "厚揚げとピーマンのオイスター炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2726729/464x260/8a12fe79bd36ea1f097037e47df8637b.jpg?u=9552524&p=1406453642",
+    "datePublished": "2014-07-27",
+    "description": "こってり厚揚げが美味し～い(^^♪ごはんがめっちゃすすむ簡単！節約レシピです♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ピーマン（乱切り）",
+            "quantity": "2個"
+        },
+        {
+            "name": "♡しょうが（みじん切り）",
+            "quantity": "１片分"
+        },
+        {
+            "name": "♡にんにく（みじん切り）",
+            "quantity": "１片分"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "☆は合わせておきます。",
+        "厚揚げは熱湯をかけて油抜きし一口大に切る。ピーマンは乱切りにする。",
+        "フライパンにごま油と♡を入れ中火にかけ香りが出たら厚揚げを焼きます。焦げ目が付いたらピーマンを加えて炒め合わせます。",
+        "①を加えて味を絡めます。",
+        "器に盛ります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2726729",
+    "advice": "簡単♪油揚げは熱湯を回しかけて油抜きしてね(^^♪",
+    "history": "うちの美味し～い節約レシピです(*^^)v",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "ピーマン",
+        "しょうが",
+        "にんにく"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2726729/100x141c/9cd2be7b8b04cba0b1f6d9ef9048cebd.jpg?u=9552524&p=1406453642"
+}

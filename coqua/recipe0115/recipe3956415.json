@@ -1,0 +1,74 @@
+{
+    "name": "豚バラと小松菜の味噌マヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "モーリー食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/3956415/464x260/21b971161e1aa7c13892376b91dd41ae.jpg?u=7637669&p=1467541869",
+    "datePublished": "2016-07-03",
+    "description": "味噌マヨ味でご飯がすすむ一品！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "2袋(10束程度)"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1株"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "○味噌",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "○オイスターソース",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚バラ肉、小松菜、しめじを食べやすいサイズに切る。豚バラ肉に塩こしょうで下味をつける。○の調味料をよく混ぜ合わせる。",
+        "フライパンにごま油をひき、豚バラ肉を炒める。",
+        "豚バラ肉の色が変わり始めたら、しめじ・小松菜の茎を入れて炒める。",
+        "茎がしんなりしてきたら、葉の部分も入れて炒め、○の調味料を入れて全体をよく絡める。",
+        "よく絡めたら、皿に盛り付けて完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3956415",
+    "advice": "小松菜を炒めすぎないこと。",
+    "history": "小松菜が安かったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉 小松菜 しめじ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3956415/100x141c/d042d3b92fb4eafe78b8755d255d82d2.jpg?u=7637669&p=1467541869"
+}

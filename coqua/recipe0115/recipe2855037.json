@@ -1,0 +1,53 @@
+{
+    "name": "れんこんチップス(黒こしょう)",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2855037/464x260/a51f83b445bf4afaa3b2785b22bb03c0.jpg?u=3099986&p=1414554882",
+    "datePublished": "2014-10-30",
+    "description": "簡単。おいしい。おつまみにもいいです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "1節"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "加賀れんこん。",
+        "塩と黒こしょうは混ぜあせておく。",
+        "れんこんは皮をむいで、2mmくらいの薄切りにしてすぐに酢水に入れておく。",
+        "3の水気をふいて、サラダ油で揚げる。",
+        "キッチンペーパーの上にのせて油をきる。",
+        "塩・黒こしょうを真ぜたものをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2855037",
+    "advice": "塩と黒こしょうを混ぜておいたのは、味付けが均等になるためです。",
+    "history": "金沢旅行で加賀れんこんを買ったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "サラダ油",
+        "塩",
+        "黒こしょう"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2855037/100x141c/11e07daa7ee82f64efb520f5948c4350.jpg?u=3099986&p=1414554882"
+}

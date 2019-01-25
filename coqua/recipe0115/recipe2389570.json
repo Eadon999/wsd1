@@ -1,0 +1,58 @@
+{
+    "name": "たたききゅうりの梅かつお",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2389570/464x260/d750dd1cef20e672aeec9814a7b8dc2c.jpg?u=4819316&p=1382971870",
+    "datePublished": "2013-10-28",
+    "description": "17/4/29、２度目の話題入り有難うございます、居酒屋の付け出しの感覚です、ビールによく合います",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "１／２袋（１．５ｇ）"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは綿棒などで叩いた後、食べやすい大きさに切り、塩をふってしばらく置く",
+        "梅干しは種を除き、包丁で叩いて細かく潰す",
+        "きゅうりは水洗いしてよく水気を切り、ボウルに入れて梅肉と和える",
+        "かつおぶし、炒りごま、ごま油を加えて混ぜる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2389570",
+    "advice": "きゅうりを叩くことで荒い断面になって表面積が増えるので味が染みやすくなります",
+    "history": "チェーン店の居酒屋で安価なメニュー、でもすごく美味しくて再現したくなり作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": [
+        "たたききゅうり 4位"
+    ],
+    "related_keywords": [
+        "たたききゅうり"
+    ],
+    "tsukurepo_count": "164",
+    "thumbnail": "https://img.cpcdn.com/recipes/2389570/100x141c/4ad85b8f3fd71ba80b7ad47c469a87f5.jpg?u=4819316&p=1382971870"
+}

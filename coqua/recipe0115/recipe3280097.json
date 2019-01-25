@@ -1,0 +1,73 @@
+{
+    "name": "こってり♡甘辛焼きうどん♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3280097/464x260/e4bb24942176680f65cd3e6c9b9dbcc2.jpg?u=9552524&p=1436178975",
+    "datePublished": "2015-07-06",
+    "description": "もちもち♡こってり味の焼きうどんはいかがですか(^^)目玉焼きを潰して食べるとめちゃウマです♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "８０g"
+        },
+        {
+            "name": "キャベツの葉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "１/２片分"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "☆トンカツソース",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "目玉焼き",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "☆は合わせておきます。",
+        "キャベツはざく切り、ピーマンは乱切りにする。冷凍うどんはレンジで解凍して温めておきます。",
+        "フライパンに油を熱しニンニクとひき肉を炒めます。肉の色が変ったら②の野菜を加えて炒め合わせます。",
+        "③にうどんと①を加えてソースを絡めながら炒め合わせます。",
+        "器に盛り、塩コショウを振った目玉焼きを乗せます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3280097",
+    "advice": "モチモチの食感が決め手なので冷凍うどんで作ってね(^^)",
+    "history": "冷蔵庫にあったものでお酒のおとも☆に作りました♪　こってり♡濃い味なのでお酒がススミマス(^^)",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/焼きうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "甘辛 焼きうどん"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3280097/100x141c/1c57e7748c3b6eb9f33e28f1c86f4eac.jpg?u=9552524&p=1436178975"
+}

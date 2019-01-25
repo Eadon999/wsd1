@@ -1,0 +1,76 @@
+{
+    "name": "これは簡単！回鍋肉",
+    "author": {
+        "@type": "Person",
+        "name": "mina37_37_"
+    },
+    "image": "https://img.cpcdn.com/recipes/3703673/464x260/135afc5dccbf7f4b4a548a9c37d7f682.jpg?u=14147500&p=1464594177",
+    "datePublished": "2016-02-21",
+    "description": "豚バラ肉とキャベツの相性抜群です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ薄切り肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "4枚〜5枚"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒、しょうゆ、甜麺醤",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "☆砂糖、水、片栗粉",
+            "quantity": "各小さじ1"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆豆板醤",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆にんにくのみじん切り",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ、ピーマンは一口大に切り、長ねぎは斜め薄切りにする。",
+        "☆の材料を混ぜ合わせておく。",
+        "フライパンにサラダ油を熱し、豚肉を色が変わるまで強火で炒める。",
+        "キャベツ、長ねぎ、ピーマンを加えて強火で炒める。",
+        "混ぜ合わせておいた☆を加え、強火で1分ほど炒める。",
+        "盛り付けて完成。",
+        "2016.8.2発売の雑誌掲載です！ありがとうございました*\\(^o^)/*"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3703673",
+    "advice": "強火で一気に炒めます。長時間炒めると野菜から水分が出て仕上がりが水っぽくなるので注意。",
+    "history": "定番の中華が作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホイコーロー 簡単",
+        "豚肉キャベツ ホイコーロー"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/3703673/100x141c/bceb00b218676f9f1bd75bf9f34f91cc.jpg?u=14147500&p=1464594177"
+}

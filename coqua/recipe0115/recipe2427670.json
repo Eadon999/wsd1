@@ -1,0 +1,57 @@
+{
+    "name": "大根とツナのマヨ柚子胡椒",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2427670/464x260/b4bb47341f3bafb390177061b2104cfd.jpg?u=6957661&p=1386301666",
+    "datePublished": "2013-12-06",
+    "description": "ワシワシ沢山食べられる様にクタッとさせた大根をツナとマヨと柚子胡椒で和えたサラダです（＾ω＾）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "500g"
+        },
+        {
+            "name": "大根葉",
+            "quantity": "1／3本分"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1／2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き千切りにし、塩をまぶしてしんなりさせる",
+        "大根葉は柔らかめに茹でて(5分位)、水に晒し絞って細かめに切る",
+        "1の大根を絞る",
+        "ボールに柚子胡椒とマヨネーズとツナを和えて、2と3を入れ混ぜて出来上がりです",
+        "仕上げに胡麻や七味などかけると更に美味しいです"
+    ],
+    "cookTime": null,
+    "recipe_id": "2427670",
+    "advice": "大根葉は柔らかめに茹でるといいです茎は大根と食感が似て、葉はソースに絡んで彩りを良くします",
+    "history": "旬の大根消費活動の一端です（＾ω＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ツナ 柚子胡椒"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/2427670/100x141c/40856c6a13be48b56e95982f4b2d533f.jpg?u=6957661&p=1386301666"
+}

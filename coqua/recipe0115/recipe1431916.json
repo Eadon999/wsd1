@@ -1,0 +1,44 @@
+{
+    "name": "えんどう豆ご飯＆おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1431916/464x260/4a6ca59c96ae3d65d325a4204cede9a9.jpg?u=2495483&p=1304763459",
+    "datePublished": "2011-05-07",
+    "description": "えんどう豆の美味しさがご飯にしみてすごく美味しい♫あまりグリーンピース好きじゃない人もこれはきっと好き。。？",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "えんどう豆（さやから出して）",
+            "quantity": "１～２カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米を洗い普通に水を入れ豆を入れご飯を炊く",
+        "炊けたら塩をお好みでまぜる",
+        "おにぎりにしても美味しいです"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "1431916",
+    "advice": "炊いたご飯に煮た豆を混ぜてもご飯に美味しい味がつかないので必ず生の豆を初めから入れて下さい",
+    "history": "この季節になったら作ってます",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "えんどう豆"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1431916/100x141c/1461dc81ca27cf38b507d7dfe6b37c21.jpg?u=2495483&p=1304763459"
+}

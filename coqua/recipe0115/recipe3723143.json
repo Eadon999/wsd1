@@ -1,0 +1,53 @@
+{
+    "name": "豚とキャベツのレンジ蒸しおろしポン酢",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3723143/464x260/7690a3045d13f39e9f74b3166be831d4.jpg?u=4819316&p=1456839778",
+    "datePublished": "2016-03-01",
+    "description": "レンジを使って簡単に作れます、後片付けも簡単、ぜひお試し下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２～３舞"
+        },
+        {
+            "name": "ポン酢（市販品）",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは食べ易い大きさにざく切り、大葉は5ミリ幅に切る",
+        "大根はすりおろす",
+        "レンジにかけられるお皿にキャベツを敷き、その上に豚肉を広げ、ラップをかけてレンジ５００Wで2分加熱する",
+        "ラップをはずして大葉を散らして出来上がり",
+        "食べるときにポン酢をかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "3723143",
+    "advice": "キャベツは白菜やもやしなど別の野菜に置き換えても良いでしょう",
+    "history": "豚しゃぶサラダの感覚です、豚を湯でしゃぶしゃぶしなくてもレンジを使えば同じことが出来るはず、ということで作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚薄切り肉 レンジ蒸し"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3723143/100x141c/fc4a9abddcee6c230c6aea78c6e35135.jpg?u=4819316&p=1456839778"
+}

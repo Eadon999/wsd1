@@ -1,0 +1,70 @@
+{
+    "name": "しらすと梅とひじきと生姜の炊き込みご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1782813/464x260/764928c9673f3da7f2f9efd8ad70bd53.jpg?u=1228553&p=1334714408",
+    "datePublished": "2012-04-18",
+    "description": "身体に良いものたっぷりの混ぜご飯できました♪",
+    "recipeYield": "4合分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "4合"
+        },
+        {
+            "name": "☆しらす",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "☆梅干し",
+            "quantity": "大3個"
+        },
+        {
+            "name": "☆ひじき",
+            "quantity": "１５ｇ（乾燥で）"
+        },
+        {
+            "name": "☆生姜",
+            "quantity": "大きめ１片"
+        },
+        {
+            "name": "☆顆粒だしの素",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜はみじん切りにし、梅干しは種を除き包丁でたたいておく",
+        "お米を洗ったら炊飯器に☆と目盛りまでの水を入れひと混ぜして普通に炊く",
+        "器に盛ったら炒り胡麻を飾って出来上がり♪"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "1782813",
+    "advice": "ひじきはそのまま使える乾燥タイプを使いましたが、戻しが必要なタイプは戻してから、生の場合はさっと洗って使えばよいと思います。梅干しの味としらすの塩加減により調味料は調節してください。今回は釜揚げしらすを使いました。",
+    "history": "生姜と梅のきいたさっぱり味の炊き込みご飯が食べたくて(*´ｪ`*)",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "梅ひじき 9位"
+    ],
+    "related_keywords": [
+        "しらす 梅 炊き込みご飯",
+        "しらす 炊き込みごはん"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1782813/100x141c/ff8d32dcf208220ce78d0fb65405889a.jpg?u=1228553&p=1334714408"
+}

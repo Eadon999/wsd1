@@ -1,0 +1,58 @@
+{
+    "name": "✿ごぼうと蓮根の佃煮風✿",
+    "author": {
+        "@type": "Person",
+        "name": "noamanma"
+    },
+    "image": "https://img.cpcdn.com/recipes/960796/464x260/ea663eef5e3691facf12ed9151b433bf.jpg?u=900149&p=1257799584",
+    "datePublished": "2009-11-10",
+    "description": "甘辛く煮て子供もパクパク食べたちゃう一品♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "1連"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "●タカラ　料理のための清酒",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "●三温糖",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は皮をむき薄い半月切りにします。ごぼうは斜めに薄く切ります。両方ともあくぬきのため水につけておきます。",
+        "フライパンにゴマ油を熱し水を切った1を入れ軽くいためます。",
+        "●を加え弱火で煮込み煮汁が無くなったら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "960796",
+    "advice": "お好みで唐辛子を加えても♪佃煮を調べてみると“海産物を甘辛く煮染めたもの”とありました。根菜なので佃煮風(＠＾－＾) ",
+    "history": "野菜たっぷりのご飯のおかず♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蓮根",
+        "ごぼう",
+        "タカラ料理のための清酒",
+        "三温糖"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/960796/100x141c/e606ec1ebd6874b337916e15a2735656.jpg?u=900149&p=1257799584"
+}

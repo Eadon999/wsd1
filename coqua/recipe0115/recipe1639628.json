@@ -1,0 +1,68 @@
+{
+    "name": "生姜とひじきの女子力up♪ごはん",
+    "author": {
+        "@type": "Person",
+        "name": "＊さらさ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1639628/464x260/f8ad3ff3c2018136e2ae06edbf75d1e6.jpg?u=1128413&p=1322791667",
+    "datePublished": "2011-11-30",
+    "description": "2012/10/31 話題入り感謝♪生姜やひじき、女子の味方食材を使って栄養満点の炊き込みご飯です♪",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "生姜",
+            "quantity": "親指大"
+        },
+        {
+            "name": "ひじき",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みつ葉など",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "生姜は皮をこそげて千切りに。\nひじきは表示通り水で戻し、しっかり水分を絞る。",
+        "炊飯器に、といだ米・塩・酒・オリーブオイルを入れ、2合メモリの水加減にする。",
+        "2に、生姜とひじきをのせてスイッチオン。",
+        "炊きあがったら、胡麻を混ぜる。\nお茶碗に盛ってお好みでみつ葉など。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "1639628",
+    "advice": "炊き込みご飯モードで炊きました。普通の白米モードでも大丈夫だと思いますが。",
+    "history": "冷え症対策に。　",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生姜",
+        "ひじき",
+        "米",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/1639628/100x141c/17aa9f9df4cbafde1b48065bb3e16d19.jpg?u=1128413&p=1322791667"
+}

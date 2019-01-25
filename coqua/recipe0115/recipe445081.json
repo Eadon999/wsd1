@@ -1,0 +1,50 @@
+{
+    "name": "簡単☆小松菜と油揚げのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "鈴ピヨ"
+    },
+    "image": "https://img.cpcdn.com/recipes/445081/464x260/404b0f6195098b1577924dc29c1abbb2.jpg?u=316327&p=1214217516",
+    "datePublished": "2007-10-17",
+    "description": "✿話題入り感謝です✿具は2種類でシンプルだけどおいしいです。出来上がりまでの時間も短くてgoodです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "約1/2束"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "4人分"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁が沸騰したら、食べやすい大きさに切った油揚げ・小松菜を入れる。",
+        "小松菜がしんなりしてきたら味噌を加え、味を調えて出来上がり★"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "445081",
+    "advice": "・火を止めてから味噌を加えてください。",
+    "history": "母に教わりました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "油揚げ",
+        "味噌",
+        "だし汁"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/445081/100x141c/cf769b943887caf4c19b170a8c171faa.jpg?u=316327&p=1214217516"
+}

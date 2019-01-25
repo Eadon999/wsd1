@@ -1,0 +1,71 @@
+{
+    "name": "塩さば白菜鍋",
+    "author": {
+        "@type": "Person",
+        "name": "ミナト氏"
+    },
+    "image": "https://img.cpcdn.com/recipes/1649013/464x260/80b24f0c50d90d51eeac74b28eedb38c.jpg?u=3741435&p=1323611763",
+    "datePublished": "2011-12-11",
+    "description": "さばの旨みいっぱいの鍋です。ショウガを利かせて生臭さもナシ。お手軽です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "塩さば",
+            "quantity": "２枚"
+        },
+        {
+            "name": "白菜",
+            "quantity": "300g（好きなだけ）"
+        },
+        {
+            "name": "シイタケ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "α）水（できれば昆布だし）",
+            "quantity": "500ml"
+        },
+        {
+            "name": "α）しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "α）酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "α）みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "α）ショウガ",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜をザク切りにし、土鍋に半量を敷く",
+        "そぎ切りにした塩さばをのせる",
+        "残りの白菜、薄切りにしたシイタケ、一口大に切った揚げをのせる",
+        "αを注ぎ、火にかける",
+        "沸騰し、火が通ったら完成\n\n彩りに青菜を散らしました",
+        "シメは雑炊\n\nこの鍋は雑炊がすごくオススメです"
+    ],
+    "cookTime": null,
+    "recipe_id": "1649013",
+    "advice": "ショウガが入るので、全然生臭くありません。味は塩さばの塩加減に応じて調整してください。何より最後の雑炊がおいしい。塩さばが余っていたらぜひ作ってみてください。",
+    "history": "魚介の鍋が作りたい…でもタラとか無いし…冷凍庫をあさったら塩さばが！チャレンジしてみました。結果、成功です♪",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/ちゃんこ鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩サバ鍋",
+        "塩サバ 白菜"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1649013/100x141c/bf3c5d64da781860ae5df8e7c823a08a.jpg?u=3741435&p=1323611763"
+}

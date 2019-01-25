@@ -1,0 +1,67 @@
+{
+    "name": "照り焼き♪チキン",
+    "author": {
+        "@type": "Person",
+        "name": "hyi"
+    },
+    "image": "https://img.cpcdn.com/recipes/246490/464x260/bbe92ff6eb9827f1b999d0f7ccefbad3.jpg?u=203465&p=1236863984",
+    "datePublished": "2006-03-31",
+    "description": "甘辛いしょうゆだれが食欲をそそります～照り焼き♪照り焼き♪(^-^)/ＤＡＩＳＵＫＩ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★しょうが汁（チューブＯＫ）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉の肉の方に縦に、きれめをいれる。ボウルに★印の調味料をあわせ、肉をいれ、もみこみ、15分ほどおく。",
+        "フライパンに中火で油をひき、皮の方からやく。焼き色がついたら、裏返しにして3分ほどやく。水を大さじ2～3ほどいれて、弱火でふたをして、やく。",
+        "5分ほどたったら、◎の調味料をまわしかけ、にからめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "246490",
+    "advice": "焼くときに水をいれて、蒸し焼きにするとふっくら中まで焼けます。",
+    "history": "お惣菜でよくみかけるので、意外に高いし・・・なら作ろう!!と。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/照り焼きチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "しょうゆ",
+        "酒",
+        "しょうが汁"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/246490/100x141c/0d60c4afaac2d4b4eeeed9ce9d36bc7a.jpg?u=203465&p=1236863984"
+}

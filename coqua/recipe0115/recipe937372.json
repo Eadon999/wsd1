@@ -1,0 +1,71 @@
+{
+    "name": "超簡単！「ごぼうときのこのナムル」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/937372/464x260/bdb75f7a696aff7da9674c8412daf91d.jpg?u=535158&p=1255563211",
+    "datePublished": "2009-10-15",
+    "description": "秋のごぼうときのこで、簡単美味しいナムルです。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "牛蒡",
+            "quantity": "1／2本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "4個"
+        },
+        {
+            "name": "水菜",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "糸唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "牛蒡は良く洗い、ささがきにし、水にさらしてアクをぬいておく。",
+        "きのこは4等分くらいに切り、水菜は1～2センチ幅に切る。",
+        "フライパンにごま油を敷き、牛蒡を加えて炒め、きのこを加えてさらに炒める。",
+        "調味料を加えて、汁気が飛んだら火を止め、冷めたら水菜と白ゴマ加えて混ぜ、器に盛り、糸唐辛子をトッピングして出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "937372",
+    "advice": "＊水菜は牛蒡の熱が冷めてから加えると、シャキッとした食感が出て美味しいです。",
+    "history": "秋の牛蒡、きのこを使った、さっぱりナムルです。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛蒡",
+        "しいたけ",
+        "水菜",
+        "ごま油"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/937372/100x141c/e80d2e73f2351ae7bc7a03f9ea5f5712.jpg?u=535158&p=1255563211"
+}

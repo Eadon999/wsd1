@@ -1,0 +1,49 @@
+{
+    "name": "簡単！ピーマンとちくわの炒めもの",
+    "author": {
+        "@type": "Person",
+        "name": "marico08"
+    },
+    "image": "https://img.cpcdn.com/recipes/1111362/464x260/91e8f43782df8d340dd2e893377302a0.jpg?u=1523121&p=1279696867",
+    "datePublished": "2010-04-27",
+    "description": "２０１０．７．２０話題入り❤ あと一品に。お弁当に。ご飯にのせて丼ものに。 シンプルで使い勝手のいいおかずです！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンとちくわは縦に半分にし　細めにスライスする。",
+        "フライパンにゴマ油を入れて熱し①をいれて炒めたら最後に塩・胡椒で好みの味に整えてできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1111362",
+    "advice": "必ず ゴマ油を使うこと。ゴマ油の風味がポイントです！ お好みで最後にゴマをちらしてもおいしいです。",
+    "history": "昔　友人からレシピを教わる時に聞き間違いから生まれたレシピ。 作ってみたらおいしかったのでそれ以来よく作るように。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "ちくわ",
+        "ごま油",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1111362/100x141c/ccf7c039e1870c80cfc367bcd8c13781.jpg?u=1523121&p=1279696867"
+}

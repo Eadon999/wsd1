@@ -1,0 +1,57 @@
+{
+    "name": "レンジで3分！豆もやしのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3094603/464x260/e5f5b921b64a9ed3d332ff9e24fed7f8.jpg?u=4376699&p=1427717723",
+    "datePublished": "2015-03-30",
+    "description": "食べたい時の簡単ナムル♪普通のもやしでもＯＫ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆もやし(もやし)",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "ほんだし(鶏がらスープの素)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "すり胡麻(白)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを水で軽く洗って水に少しさらしてザルに取る",
+        "耐熱ボールでラップをしてレンジ600w3分チンしてザルにあけ水気をしっかり切る",
+        "ボールに調味料ともやしを入れよく混ぜて完成",
+        "普通のもやしでもＯＫ"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3094603",
+    "advice": "レンジでチンしたら冷めないうちに調味料を混ぜてしんなりしたら完成摺り胡麻は多くてもＯＫごま油を減らしてオリーブオイルやエゴマオイルを使えばヘルシー♪鶏ガラスープてもOK調味料を掛けてチンすると味が薄まるので最後に合わせます!!",
+    "history": "ナムルに初挑戦塩水で煮るそうなのでレンジとダシで減塩ごま油も少なめにしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆もやし ナムル レンジ",
+        "豆もやし"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/3094603/100x141c/e50228f35c131b21bc9af003ebad8e0e.jpg?u=4376699&p=1427717723"
+}

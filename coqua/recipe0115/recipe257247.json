@@ -1,0 +1,48 @@
+{
+    "name": "スナップエンドウのガーリック炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ととろの館"
+    },
+    "image": "https://img.cpcdn.com/recipes/257247/464x260/eb7ce620d42a55f8b7020888090ba002.jpg?u=38933&p=1214213079",
+    "datePublished": "2006-05-30",
+    "description": "とってもシンプルな炒め物。お酒のおつまみにいかが？",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "スナップエンドウ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくはみじん切り。\r\nエンドウは内側の太い方の筋だけ取る。",
+        "フライパンに油とにんにくを熱しエンドウを炒め塩で味をつける。\r\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "257247",
+    "advice": "エンドウは下ゆでしないで直接炒めると甘みが増します。３～４分くらいで火が通るので豆の大きさをみて加減して下さい。パリパリ感の残った仕上がりになっているので柔らかいのがお好みの方はもう少し炒め時間を増やして下さい。",
+    "history": "父の育てたスナップエンドウが豊作だったので採りたての甘さを味わおうとシンプルなメニューにしてみました。 ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/スナップえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スナップエンドウ",
+        "スナップエンドウ 炒めもの",
+        "スナップエンドウ にんにく"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/257247/100x141c/51ecade72d117b7df91fff76432c7b7e.jpg?u=38933&p=1214213079"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "じゃが芋の照焼き",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2198857/464x260/bee96e9bcba290b2715dd3b37df19e4b.jpg?u=4819316&p=1380026924",
+    "datePublished": "2013-04-21",
+    "description": "13/10/14話題入りしました、簡単にあと一品という時にどうぞ、じゃが芋の甘みを引き出す美味しさを楽しめます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "１個（１５０ｇ）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は皮をむいて、食べやすい大きさに切る",
+        "じゃが芋をラップで包み、レンジ５００Wで３分加熱する",
+        "加熱したじゃが芋に片栗粉をまぶす",
+        "フライパンにごま油を加熱し、３のじゃが芋を焦げ目が少し見える程度に焼く",
+        "●の調味料を合わせて４に入れて全体に絡め、水分がほとんどなくなれば、皿に移して出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2198857",
+    "advice": "先にレンジ加熱でじゃが芋を中まで加熱しておくことで、さらっと焼いてたれを絡めて、柔らかく食べられます",
+    "history": "じゃが芋をこんな感じで食べてみたいと思って作ってみたら、ど真ん中直球って感じでした",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "片栗粉",
+        "ごま油",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2198857/100x141c/0c6e0ddfaf4a222116b8fc52aaeebe3b.jpg?u=4819316&p=1380026924"
+}

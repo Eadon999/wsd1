@@ -1,0 +1,61 @@
+{
+    "name": "ベーコンの旨みたっぷり白菜スープ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ばぶﾁｬﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1072236/464x260/0eff5c612bfd59fe3d005e99c601129f.jpg?u=1431330&p=1268834420",
+    "datePublished": "2010-03-17",
+    "description": "ベーコンの旨みを白菜が吸収～☆ あっさりだから、どんどん食べれちゃう☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "☆白菜",
+            "quantity": "大２枚"
+        },
+        {
+            "name": "☆しょうが（チューブ）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚位"
+        },
+        {
+            "name": "★水",
+            "quantity": "２４０cc位"
+        },
+        {
+            "name": "★中華あじor鶏がら",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に☆を入れしんなりするまで炒める。\r\n",
+        "ベーコンを加え、全体がなじんだら★を加え煮立たせる。\r\n塩こしょうで味を調え出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1072236",
+    "advice": "炒めると白菜の水分がでます。★の量は白菜の水分の量により調節して下さい。",
+    "history": "白菜の消費に冷蔵庫にあったベーコンと合わせて作ってみた。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜スープ 鶏ガラスープ",
+        "白菜スープ",
+        "白菜 ベーコン 鶏ガラ",
+        "白菜スープ ベーコン"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1072236/100x141c/7abc9ec4eee3bda7ae42972c1214a7e0.jpg?u=1431330&p=1268834420"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "キャベツナのゆず胡椒サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "豆トマ"
+    },
+    "image": "https://img.cpcdn.com/recipes/388994/464x260/b2cd0f3304d225e4788691d589938778.jpg?u=275498&p=1214216389",
+    "datePublished": "2007-06-13",
+    "description": "二人でキャベツ半分はペロリです！！みなさんのお陰で話題入りすることができました♪アリガト★",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ツナ（ノンオイル）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★ゆず胡椒",
+            "quantity": "小２"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "大１～"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは千切りにし、塩をふってもんでおく。",
+        "ツナ缶、水気をきった①、★を合わせる。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "388994",
+    "advice": "キャベツはしっかり塩もみして、水気をきっておくこと。ゆず胡椒はちゃんと溶かしてから、あわせてください。",
+    "history": "ゆず胡椒とレモンでさっぱり食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ツナ",
+        "ゆず胡椒",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/388994/100x141c/b9ce0fe89288ba52645bf770989924de.jpg?u=275498&p=1214216389"
+}

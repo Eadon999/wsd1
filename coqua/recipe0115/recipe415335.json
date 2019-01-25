@@ -1,0 +1,50 @@
+{
+    "name": "ウインナーのケチャップ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ぐうすか"
+    },
+    "image": "https://img.cpcdn.com/recipes/415335/464x260/015fc59580b9ec8a2f678123a3379d0c.jpg?u=426612&p=1214216931",
+    "datePublished": "2007-08-08",
+    "description": "ウインナーとピーマンでケチャップ炒め。チャチャっと作って、お弁当にどうぞ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ウインナー",
+            "quantity": "3本"
+        },
+        {
+            "name": "ビーマン",
+            "quantity": "大1個"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ１・５～２"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは適当に乱切り、ウインナーも適当に斜めに3等分くらい。",
+        "暖めたフライパンにウインナーをいれ、続けてピーマンもいれ、クレイジーソルトをふり炒めて、火が通ったら、ケチャップを入れる。",
+        "全体にケチャップがまわったら、３０秒ほどそのまま炒めて、火を止めて、完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "415335",
+    "advice": "焦がさないようにいためてね♪",
+    "history": "子供たちがケチャップ星人なので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ウインナー",
+        "ビーマン",
+        "ケチャップ",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/415335/100x141c/631f643c5ad89b4ceaf628651fe7e4e9.jpg?u=426612&p=1214216931"
+}

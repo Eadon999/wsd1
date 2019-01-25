@@ -1,0 +1,70 @@
+{
+    "name": "がっつりSPAM丼弁当",
+    "author": {
+        "@type": "Person",
+        "name": "にょにょんこりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2301398/464x260/0863ea363cd129cc6813dfdda451ca4d.jpg?u=440479&p=1375173836",
+    "datePublished": "2013-07-30",
+    "description": "スパムで焼肉弁当！がっつり美味しくて、野菜もむしゃむしゃ食べられます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "お弁当箱に"
+        },
+        {
+            "name": "SPAM",
+            "quantity": "1/3缶"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サニーレタス",
+            "quantity": "1枚"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "お弁当箱にご飯をつめる。レタスは洗って水気を切り、1口サイズにちぎっておく。プチトマトは洗っておく。",
+        "卵に砂糖と牛乳を入れて混ぜ、サラダ油を熱したフライパンでスクランブルエッグを作る。",
+        "SPAMは1ｃｍ角に切り、フライパンで焼き、焼肉のタレをかけて火を止める。",
+        "ごはんに、レタス、2のたまご、SPAMの順に乗せて、プチトマトも乗せる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2301398",
+    "advice": "SPAMに塩分があるので、焼肉のタレは少なめでOK。レタスの水分はよく切ってくださいね。",
+    "history": "晩ごはんにSPAMを焼肉のタレで味付けて出したら大好評で、お弁当に持って行きたいと言われたので。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スパム丼 弁当",
+        "スパム 丼",
+        "がっつり お弁当"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/2301398/100x141c/ffbaadd18de0e461b8429f51af9809a8.jpg?u=440479&p=1375173836"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "簡単副菜！たっぷりキャベツ(梅風味)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3978406/464x260/e464c67072321beba5f166427de119a6.jpg?u=4376699&p=1488804114",
+    "datePublished": "2016-07-17",
+    "description": "たっぷりキャベツ！+梅＝オススメ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "適量"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "少々"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しの種を取り包丁でたたく",
+        "キャベツを千切り\nにして梅干しと混ぜる\n調味料を加えて軽く混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3978406",
+    "advice": "調味料はお好みで調整してください",
+    "history": "たぷりキャベツに梅が合うか挑戦たっぷりキャベツ　ID:1925951",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "オリーブオイル",
+        "減塩醤油",
+        "鰹節"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3978406/100x141c/e69d6edacb7373e9c2f68dbdf078cc65.jpg?u=4376699&p=1488804114"
+}

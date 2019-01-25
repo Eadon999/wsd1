@@ -1,0 +1,52 @@
+{
+    "name": "もやしのカレー粉和え",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/3371687/464x260/3824ca32e1b106a374f6ed47124cf471.jpg?u=7167639&p=1441030776",
+    "datePublished": "2015-09-01",
+    "description": "2017・2・5話題入り♬大感謝です♡あと一品欲しい時、すぐに作れます。ちょっとした、箸休めにも。。。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ1と1/2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味の素(無くても可)",
+            "quantity": "ふた振り"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは沸騰した\nお湯で30秒茹でる。\n\n茹で上がったらザルにあげる。",
+        "キッチンペーパーで水分を拭き取る。\n（熱いのでヤケドに注意してください）",
+        "ボウルに移して熱いうちに鶏がらスープの素、カレー粉、酢味の素を順に加えて良く混ぜ合わせる。",
+        "完成でーす！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3371687",
+    "advice": "茹で上がったもやしは絞らないでキッチンペーパーで軽く押さえ水分を拭き取るとシャキシャキな仕上がりになります。カレー粉、お酢などは、お好みで加減して下さいね。",
+    "history": "主人と行った、お店の「付き出し」を再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モヤシ カレー粉"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/3371687/100x141c/fdc1fa945d8161989f35e5bfcf186e13.jpg?u=7167639&p=1441030776"
+}

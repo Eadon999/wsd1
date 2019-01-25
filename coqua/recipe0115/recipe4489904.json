@@ -1,0 +1,47 @@
+{
+    "name": "お弁当！しらすとちくわの卵炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4489904/464x260/3a06910f4263f1184271aa53bd9ce578.jpg?u=4376699&p=1493038681",
+    "datePublished": "2017-05-15",
+    "description": "しらすが味の素♪ カルシウムたっぷり！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "3本"
+        },
+        {
+            "name": "しらす干し",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを半分に切って8等分\n油少々で炒めてしらすを加えて軽く炒める",
+        "卵に塩胡椒してよく溶く\n具を真ん中にまとめて卵を掛ける\n",
+        "全体を混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4489904",
+    "advice": "しらすがばらけて食べずらいので卵でしらすをカバー！お好みでマヨネーズを少々",
+    "history": "ちょっと余ったしらす干しお弁当用に卵で♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ しらす"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4489904/100x141c/4d4ba2ef6f36ed53149e6bfc5a995dea.jpg?u=4376699&p=1493038681"
+}

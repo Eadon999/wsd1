@@ -1,0 +1,50 @@
+{
+    "name": "◇ハムとチーズとネギの巾着焼き◇",
+    "author": {
+        "@type": "Person",
+        "name": "ぶぶくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/300940/464x260/b5677eda929a6481416eab5c5e023446.jpg?u=311561&p=1214214066",
+    "datePublished": "2006-11-15",
+    "description": "タイトルのまんまです(^^ゞ切って、詰めて、ノンオイルで焼くだけ。とっても簡単です。",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ハム",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "大さじ6程度"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "15cm"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは半分に、ネギはみじん切りに、ハムはチーズと同じ大きさくらいに切り、ボールに混ぜ合わせます。",
+        "油揚げに詰め、口を爪楊枝で止めます。",
+        "油はひかずにフライパンに入れ、弱火でパリッとするまで両面焼けば出来上がりです♪お好みで醤油を垂らして召し上がれ～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "300940",
+    "advice": "油揚げの大きさによって、中身の量を調節して下さい。私はチーズ多めが美味しいと思います。",
+    "history": "5、6年前に料理本を立ち読みしてからウチの定番です。本当の分量は分かりませんが。。。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "油揚げ",
+        "ハム",
+        "ピザ用チーズ",
+        "長ネギ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/300940/100x141c/312b9b2ebda5d0865fa25e8582d76100.jpg?u=311561&p=1214214066"
+}

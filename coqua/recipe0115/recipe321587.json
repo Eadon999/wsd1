@@ -1,0 +1,54 @@
+{
+    "name": "♪梅キャベツ焼きうどん♪",
+    "author": {
+        "@type": "Person",
+        "name": "pekohime"
+    },
+    "image": "https://img.cpcdn.com/recipes/321587/464x260/7815282ab78bce1b767b08558d74ab19.jpg?u=338750&p=1214214535",
+    "datePublished": "2007-01-23",
+    "description": "梅干とキャベツだけが具！なのに驚くほど美味しい！ぱぱっと作れてお夜食にも良いかも♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん玉",
+            "quantity": "１玉"
+        },
+        {
+            "name": "梅干",
+            "quantity": "１個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "かつおダシの粉末",
+            "quantity": "大2/3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干は種を除いて荒くほぐしておく。キャベツは手でざくざくってちぎってください。。油を熱したフライパンにザク切りにしたキャベツと梅干を入れ炒める。",
+        "１にうどんを入れて炒め合わせる。かつおダシの粉末をいれ炒め合わせ味をいきわたらせる。仕上げに醤油を垂らし風味をつける。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "321587",
+    "advice": "梅干の大きさや塩分により、かつおダシの量と醤油の量は加減してください。",
+    "history": "醤油味のうどんに梅干をいれると味がしまって美味しくなるので。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/焼きうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん玉",
+        "梅干",
+        "キャベツ",
+        "醤油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/321587/100x141c/aef47ef6646d42ef75455829078fbe13.jpg?u=338750&p=1214214535"
+}

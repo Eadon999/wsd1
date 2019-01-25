@@ -1,0 +1,50 @@
+{
+    "name": "タレマヨで卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "はちれ"
+    },
+    "image": "https://img.cpcdn.com/recipes/980502/464x260/0f4da42fa2cb303748cba4968f388dd0.jpg?u=869590&p=1259728677",
+    "datePublished": "2009-12-02",
+    "description": "お弁当におかずになる卵焼き。 ならなかったらゴメンナサイね。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "1/2パック"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全部混ぜる。",
+        "油を引いたフライパンで焼く。",
+        "2010/3/18話題入りすることができました✿感謝です✿"
+    ],
+    "cookTime": null,
+    "recipe_id": "980502",
+    "advice": "焼肉のタレはお好みのものでどうぞ。薄味の方は焼肉のタレの量を減らしてください。",
+    "history": "焼肉のタレとマヨネーズが好きなので卵焼きに入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "焼肉のタレ",
+        "マヨネーズ",
+        "かつお節"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/980502/100x141c/78633d984ad1541e2ec9a9b0ea2f46fc.jpg?u=869590&p=1259728677"
+}

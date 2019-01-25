@@ -1,0 +1,65 @@
+{
+    "name": "揚げナスの中華ダレ",
+    "author": {
+        "@type": "Person",
+        "name": "るってぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/398664/464x260/3fbac9d32cb3f8b544533444efc679b2.jpg?u=493920&p=1214216593",
+    "datePublished": "2007-07-03",
+    "description": "とろッとしたナスに中華ダレがじわッと染み込んでおいし～♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "中2本"
+        },
+        {
+            "name": "しょうが(みじん切り)",
+            "quantity": "ひとかけ分"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "小さじ1程度"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ１と１/2"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ１/2"
+        },
+        {
+            "name": "◎ごま油",
+            "quantity": "大さじ１/2"
+        },
+        {
+            "name": "◎こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "◎の調味料を混ぜ合わせ、しょうがのみじん切りといりごまを加える。",
+        "乱切りにしてあくを抜いたナスを油（分量外）で色が変わる程度揚げる。",
+        "揚がったナスを皿に盛り【１】のタレをかける。\r\n\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "398664",
+    "advice": "特にコツはありません。冷めてもおいしくいただけると思います。",
+    "history": "ナスがたくさんあったので。いつも揚げナスはしょうが＆ポン酢でいただくので気分を変えて中華風なタレをかけてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": [
+        "揚げナス 8位"
+    ],
+    "related_keywords": [
+        "揚げなす"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/398664/100x141c/cb7de347bb804f34add104dafcd85151.jpg?u=493920&p=1214216593"
+}

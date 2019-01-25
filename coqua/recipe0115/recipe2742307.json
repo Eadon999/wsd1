@@ -1,0 +1,58 @@
+{
+    "name": "隠し味はケチャップ！居酒屋風豚の生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/2742307/464x260/a6cadd90c8825fffdb6240db2c449678.jpg?u=9664115&p=1407497045",
+    "datePublished": "2014-08-08",
+    "description": "ケチャップのおかげでさらに濃厚に。余計な手間なく3分で簡単においしい生姜焼きができちゃいます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース",
+            "quantity": "4枚"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆おろししょうが",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに少し油をひき、豚ロースを中火で焼く。",
+        "ひっくり返したら事前に混ぜておいた☆を投入。\nここで火力を強に。\nじゅわ〜っと水分を飛ばしながら煮立たせる。",
+        "水分が半分ぐらいになったらたっぷりキャベツの上に盛り付けて完成♪\nお好みでマヨネーズをどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2742307",
+    "advice": "タレを入れたら強火に！",
+    "history": "元バイト先の居酒屋での人気メニューでした！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ロース",
+        "しょうゆ",
+        "みりん",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/2742307/100x141c/48553f4bd8d3a2218f6b2fad1526e5b5.jpg?u=9664115&p=1407497045"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "ごま油をたらして♪レタスの海苔じゃこ和え",
+    "author": {
+        "@type": "Person",
+        "name": "たすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/265046/464x260/394c7e4224df7b778016954f64a5102f.jpg?u=59807&p=1214213269",
+    "datePublished": "2006-07-05",
+    "description": "さっとゆでればレタスだってたっぷり食べられます♪余ったレタス、湿気った海苔、無駄なく使っちゃいましょ～(^_-)-☆",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "レタスやサニーレタス",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１枚"
+        },
+        {
+            "name": "しらす",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスはさっとゆでて冷水にとり水気を切っておきます。塩少々で味付けをし、しらすとちぎった海苔と和えます。最後にごま油をたらしてできあがり♪",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "265046",
+    "advice": "ごま油は最後に。レタスはゆでるとものすごくかさが減りますので、たっぷりゆでても大丈夫♪",
+    "history": "レタスがたくさん余っていたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "海苔",
+        "しらす",
+        "塩",
+        "ごま油"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/265046/100x141c/52eb1323bf18ad0826bc9ab91034693a.jpg?u=59807&p=1214213269"
+}

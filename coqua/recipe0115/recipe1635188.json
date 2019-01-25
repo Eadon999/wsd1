@@ -1,0 +1,54 @@
+{
+    "name": "はくさいとベーコンとチーズのとろとろ鍋",
+    "author": {
+        "@type": "Person",
+        "name": "ピンキーももこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1635188/464x260/c6013f60068f6a3f4113f035d17909c3.jpg?u=1084344&p=1322026147",
+    "datePublished": "2011-11-23",
+    "description": "とろとろチーズがいい感じ　美味しいお鍋出来ました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "お好きなだけ"
+        },
+        {
+            "name": "マギーブイヨン（キューブ）",
+            "quantity": "１～２個"
+        },
+        {
+            "name": "水",
+            "quantity": "５００ｃｃ～"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は洗って５ｃｍ位のざく切りにする。（そぎ切りにしてもよい）ベーコンも食べやすい大きさに切る。",
+        "鍋に白菜　ベーコン　ブイヨンを入れことこと白菜が柔らかくなるまで蓋をして煮る。",
+        "とろとろに白菜が煮えたらチーズを入れチーズがとろけるまで蓋をして煮る。\nはい　出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1635188",
+    "advice": "",
+    "history": "いつもは白菜と豚バラで作るのですが　今日は豚バラが無かったので　ベーコンを代役にして・・・ついでにチーズも入れちゃいました。",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/その他アイデア鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜ベーコンチーズ",
+        "白菜ベーコン鍋",
+        "白菜 ベーコン チーズ 鍋",
+        "チーズ鍋"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1635188/100x141c/8cfe6bfbadc1de1f05aacb37f66d71b2.jpg?u=1084344&p=1322026147"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "カツオの生姜焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "にさっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/1173179/464x260/c92ed022e8cd33d63dc0362f4e210811.jpg?u=1763655&p=1277888442",
+    "datePublished": "2010-06-30",
+    "description": "カツオの生姜焼きに、鰹節とネギを♪　残った刺身や特売のカツオでOK！！　",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "カツオ",
+            "quantity": "1さく"
+        },
+        {
+            "name": "★おろし生姜",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "小1袋"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カツオはキッチンペーパーで水気を拭き取り、1cm幅に切る。　",
+        "★をあわせて①のカツオを１５分～20分漬ける。",
+        "フライパンにサラダ油をひき②を両面焼く。火が通ったらネギと鰹節を入れて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1173179",
+    "advice": "簡単です(*^^)v",
+    "history": "鰹の刺身が残ったときに作ります♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かつお"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カツオ",
+        "おろし生姜",
+        "しょう油",
+        "酒"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1173179/100x141c/b7d4ff0b8f554ef63c9d20ad971899b7.jpg?u=1763655&p=1277888442"
+}

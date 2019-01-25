@@ -1,0 +1,47 @@
+{
+    "name": "茄子とピーマンのさっぱり炒め",
+    "author": {
+        "@type": "Person",
+        "name": "にいさんぽ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3305408/464x260/8b5b7f70270cb9da882fee1c4504934f.jpg?u=12386622&p=1437304315",
+    "datePublished": "2015-07-19",
+    "description": "茄子とピーマンをさっぱり食べよう！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "小3本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ1〜1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子とピーマンは斜めに食べやすい大きさに切る",
+        "フライパンにごま油をひき先に茄子を炒め、ある程度火が通ったらピーマンを加え炒める",
+        "鶏ガラスープの素で味付けしたら完成",
+        "なすのカテゴリに掲載されました。ありがとうございます♪",
+        "2015.9.5話題入り♪ありがとうございます"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3305408",
+    "advice": "ピーマンは多少歯ごたえががあった方が美味しいので、炒めすぎないように",
+    "history": "たくさんもらった茄子をどうやって食べようかな〜。鶏ガラスープの素を使ったら簡単でいいかもと思ったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "ピーマン",
+        "鶏ガラスープの素"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/3305408/100x141c/45e6d9342b50b4a2e46df5c379a1e0a1.jpg?u=12386622&p=1437304315"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "簡単ヘルシー！チーズささみのごま衣焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kichi☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1127843/464x260/b78da4e3b5efea0e54bb5d6af4c186d8.jpg?u=2224981&p=1273990637",
+    "datePublished": "2010-05-16",
+    "description": "ふっくらジューシーなささみとゴマの香ばしさがバツグン！低カロリー＆高タンパク料理。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "４本"
+        },
+        {
+            "name": "白ゴマ・黒ゴマ",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉・水",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り、真ん中に切り込みを入れてチーズを入れる。",
+        "ささみに塩・こしょうして、水で溶いた片栗粉につけてゴマをまぶす。",
+        "油大さじ１を入れて熱したフライパンに、チーズを入れた切り込みを下にして弱火で焼く。",
+        "弱火で片面約５分位ずつ（中まで火が通ればＯＫ）で両面焼いて、出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1127843",
+    "advice": "片栗粉を使うことで、ささみがパサパサしないでしっとり焼き上がります。チーズはピザ用を使いましたが、お好きなチーズでＯＫです。お好みでレモンを添えてください。",
+    "history": "手軽に高タンパク＆セサミンがとれる料理を食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ささみ",
+        "チーズ",
+        "塩こしょう",
+        "油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1127843/100x141c/396dc92adbb185db335098a15646f5f7.jpg?u=2224981&p=1273990637"
+}

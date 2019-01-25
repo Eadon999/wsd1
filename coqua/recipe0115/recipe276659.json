@@ -1,0 +1,74 @@
+{
+    "name": "骨までぱくぱく♪さんまのにんにく煮",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/276659/464x260/a341c7a90e8afe17b74c2f793f245b5d.jpg?u=252604&p=1214213512",
+    "datePublished": "2006-08-27",
+    "description": "圧力鍋で骨までやわらかく煮ました。ご飯がすすむおかずです。",
+    "recipeYield": "4～5人分",
+    "recipeIngredient": [
+        {
+            "name": "秋刀魚",
+            "quantity": "4尾"
+        },
+        {
+            "name": "☆水",
+            "quantity": "1.5カップ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "☆にんにく",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "秋刀魚の頭と内臓をとり、ぶつぶつと４つに切ります。",
+        "にんにくを薄くスライスします。",
+        "圧力鍋に☆の調味料を煮立て、秋刀魚を投入。",
+        "圧力鍋のふたをして、火にかけます。錘がゆれ始めたら、火を弱め、25分煮ます。",
+        "火を消して、そのまま10分おいたら完成です。一味唐辛子を振っていただきます。",
+        null,
+        null,
+        null,
+        "骨までぱくぱく♪さんまの胡麻味噌煮（レシピID：350080）",
+        "骨までぱくぱく♪さんまの甘辛揚げ（レシピID：403609）",
+        "骨までぱくぱく♪さんまの梅の香煮（レシピID :634477）"
+    ],
+    "cookTime": null,
+    "recipe_id": "276659",
+    "advice": "骨まで食べられるように、圧力鍋を使って煮ます。",
+    "history": "美味しい秋刀魚の季節に♪安売りしてたら、必ず作ります。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "秋刀魚",
+        "水",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/276659/100x141c/18f4548e0ddb141cc1acc5695ee264e3.jpg?u=252604&p=1214213512"
+}

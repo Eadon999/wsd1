@@ -1,0 +1,62 @@
+{
+    "name": "海老とにんにくの芽の中華炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2051217/464x260/03a39df1e6723b3ec16aabbdf2f2763a.jpg?u=921598&p=1355136769",
+    "datePublished": "2012-12-10",
+    "description": "海老のプリプリ感にニンニクの芽のシャキシャキした歯応えが楽しめる、スタミナ満点の中華炒めに仕上がりましたぁ＾＾♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "むきえび",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "にんにくの芽（3ｃｍ幅カット）",
+            "quantity": "10本"
+        },
+        {
+            "name": "にんにく（みじん切り）",
+            "quantity": "1片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "中華だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油を熱してニンニクに香りが出たら、むきえびとニンニクの芽を入れて塩・こしょうと中華だしの素で炒める。",
+        "2に、酒を加えてアルコールを飛ばしながら炒め、しょう油を回し入れて仕上げたら出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2051217",
+    "advice": "むきえびは片栗粉で洗っておくと汚れや臭みが取れてプリプリになりますよぉ♪",
+    "history": "スタミナをつけたくて海老とニンニクの芽を使って中華炒めを作りましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにくの芽"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2051217/100x141c/b4af10e57107ddea44aab6a585c701b8.jpg?u=921598&p=1355136769"
+}

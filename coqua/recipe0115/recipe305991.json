@@ -1,0 +1,52 @@
+{
+    "name": "シチリアの簡単料理　溺れたカリフラワー",
+    "author": {
+        "@type": "Person",
+        "name": "ユミーナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/305991/464x260/4de1f91a20b28c08ccba6d0c371feb73.jpg?u=343613&p=1214214191",
+    "datePublished": "2006-11-30",
+    "description": "切って、鍋に入れて、フタをするだけの簡単料理。蒸した野菜って何でこんなに美味しいんでしょう！5月に東京で料理教室開催↓",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "カリフラワー",
+            "quantity": "１個"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "１カップ程度"
+        },
+        {
+            "name": "エキストラバージンオリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "カリフラワーを小房に分け、さっと水で洗って鍋に入れます。",
+        "オリーブオイル、ワイン、塩、コショウを上から投入し、鍋にフタをして弱火にかけます。",
+        "５分ぐらいでひと混ぜし、さらにフタをして５～１０分ぐらい、水気がなくなったら出来上がり。お皿に盛り付け、上から粉チーズを振って熱々をお召し上がりください。",
+        "【教室情報】\nhttp://ameblo.jp/yumitomo-roma/entry-12010710699.html"
+    ],
+    "cookTime": null,
+    "recipe_id": "305991",
+    "advice": "鍋は厚手のものを使ってください。もしも水分がなくなっても火が通っていなかった場合は、ラップをして電子レンジで中まで火を通してください。",
+    "history": "シチリアの友だちから教えてもらいました。マンマのレシピだそうです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "シチリア"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/305991/100x141c/53aaf56e764bf3dba55253fd4a4f3214.jpg?u=343613&p=1214214191"
+}

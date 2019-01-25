@@ -1,0 +1,50 @@
+{
+    "name": "アボカド好きの♡アボカドご飯",
+    "author": {
+        "@type": "Person",
+        "name": "るーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/2000540/464x260/934e88165240ed9b28d97348d1663088.jpg?u=803237&p=1350736932",
+    "datePublished": "2012-10-20",
+    "description": "アボカド好きの方はもうやってる？！アボカドを買うとつい作ってしまうご飯です。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "１杯分"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適宜"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適宜"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドを２センチ角に切る。",
+        "ごはんにアボカド・かつお節・海苔をのせ、醤油をまわしかける。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2000540",
+    "advice": "かつお節と海苔はたっぷりの方が美味しいです。",
+    "history": "いつも買ったアボカドの半分はこのご飯になります。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド ご飯"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/2000540/100x141c/8487d3419d0934e006a1ba625745deae.jpg?u=803237&p=1350736932"
+}

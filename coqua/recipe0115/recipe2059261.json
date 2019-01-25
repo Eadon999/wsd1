@@ -1,0 +1,49 @@
+{
+    "name": "下仁田ネギの味噌焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2059261/464x260/ac1799688fb7b0ebe430faaa54b6a779.jpg?u=2124468&p=1355651320",
+    "datePublished": "2012-12-16",
+    "description": "とろとろの下仁田ネギの甘みと香ばしく焦げた味噌が絡み合います。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "下仁田ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "味噌とみりんを混ぜておく。",
+        "数センチに切った下仁田ネギをラップに包み、レンジで1分ほど加熱する。",
+        "2のネギをアルミフォイルに乗せ、1のあわせ味噌を乗せる。\nオーブントースターで味噌が焦げる程度に焼けば出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2059261",
+    "advice": "",
+    "history": "知人にいただいた下仁田ネギ。甘みをさらに生かしい。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ",
+        "その他/発酵食品・発酵調味料/味噌（みそ）"
+    ],
+    "rankings": [
+        "下仁田ネギ 4位"
+    ],
+    "related_keywords": [
+        "下仁田ネギ 焼く",
+        "下仁田ネギ",
+        "下仁田ネギ 味噌",
+        "下仁田ネギ 味噌焼き"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/2059261/100x141c/c4d094b52bab64bbe692abcb29bd8823.jpg?u=2124468&p=1355651320"
+}

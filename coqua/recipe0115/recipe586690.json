@@ -1,0 +1,52 @@
+{
+    "name": "豆腐の和風グラタン",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/586690/464x260/36744dc6237905038c39b9b2458f4a2d.jpg?u=253314&p=1278483852",
+    "datePublished": "2008-06-07",
+    "description": "和食なのか洋食なのか＾＾；どっちと思いますかぁ！？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "絹豆腐",
+            "quantity": "１丁（３００g）"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "１本"
+        },
+        {
+            "name": "☆とろけるチーズ・鰹節",
+            "quantity": "各　適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を水切りしておく。青ねぎは小口切りに。",
+        "☆以外をボールに入れ、スプン等でガ～と混ぜる。",
+        "耐熱容器に入れ☆を乗せトースターで焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "586690",
+    "advice": "写真はトースターではなくオーブンで焼きました。１８０度１０分程（チーズが溶け　グツグツとなればOK）",
+    "history": "夕飯に簡単なメインが欲しくて（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 グラタン",
+        "和風グラタン"
+    ],
+    "tsukurepo_count": "350",
+    "thumbnail": "https://img.cpcdn.com/recipes/586690/100x141c/be1c82a3b21221620948120a633d78c4.jpg?u=253314&p=1278483852"
+}

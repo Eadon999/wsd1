@@ -1,0 +1,55 @@
+{
+    "name": "★我が家の定番★はんぺんハムチーズサンド",
+    "author": {
+        "@type": "Person",
+        "name": "kojyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/688795/464x260/936b3f92ded7d9af6cae0bc314de85f6.jpg?u=657130&p=1540794389",
+    "datePublished": "2008-11-25",
+    "description": "14.11.12♥100人話題入りしましたぁ。誰にだしても大好評です。お弁当、おつまみにいかがですかぁ(^○^)",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんを半分に切り、貫通しないように真ん中に切り込みをいれハムとチーズをはさむ。",
+        "１のはさんだ切込みにマヨネーズをつける。",
+        "フライパンにマヨネーズをしき、２のはんぺんを両面焼き色がつくまで焼く。塩コショウ少々。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "688795",
+    "advice": "マヨネーズで両面焼き色がつくまで、しっかり焼いてくださいね。とってもおいしくできます。",
+    "history": "はんぺんで簡単につくれるあと１品です＾＾",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": [
+        "ハムチーズサンド 1位"
+    ],
+    "related_keywords": [
+        "はんぺん",
+        "ハムチーズサンド"
+    ],
+    "tsukurepo_count": "215",
+    "thumbnail": "https://img.cpcdn.com/recipes/688795/100x141c/0ad37051b314c7ce828fa8750671fe08.jpg?u=657130&p=1540794389"
+}

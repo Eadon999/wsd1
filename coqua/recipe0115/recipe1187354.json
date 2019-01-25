@@ -1,0 +1,69 @@
+{
+    "name": "プチトマトのマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "kazz72"
+    },
+    "image": "https://img.cpcdn.com/recipes/1187354/464x260/df56e145556ee11278f4a6ace2a85797.jpg?u=2056962&p=1279265304",
+    "datePublished": "2010-07-17",
+    "description": "デザート感覚で食べられる、さっぱりとした 夏向けのマリネです。ノンオイルなので、ヘルシー！",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "プチトマト",
+            "quantity": "４０個くらい"
+        },
+        {
+            "name": "米酢",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "きび糖",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大匙１～１．５"
+        },
+        {
+            "name": "自然塩",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "粒胡椒",
+            "quantity": "１０粒くらい"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "１本"
+        },
+        {
+            "name": "ローリエ",
+            "quantity": "１枚"
+        }
+    ],
+    "recipeInstructions": [
+        "プチトマトのへたの部分に切り込みを入れ、沸騰した湯で３０秒ほど茹でて薄皮をむきます。",
+        "漬け汁を煮立たせ、１のプチトマトを入れ冷蔵庫で充分冷まします。（２時間以上漬け込むと美味しいですよ。）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1187354",
+    "advice": "面倒ですが、プチトマトは是非湯むきをしてください♪",
+    "history": "夏にぴったりな、さっぱりとした作り置きおかずが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "プチトマト",
+        "漬け汁",
+        "米酢",
+        "水"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/1187354/100x141c/48d78cda72039e7063b563ddeca76a89.jpg?u=2056962&p=1279265304"
+}

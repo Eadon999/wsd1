@@ -1,0 +1,67 @@
+{
+    "name": "いつもの常備菜　茄子の和風マリネ",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2263148/464x260/708c0bf933418cd33e4c6789655e8827.jpg?u=6238111&p=1371768379",
+    "datePublished": "2013-06-21",
+    "description": "フライパンで茄子を炒め、調味料を加えます。油を吸ったとろ～り茄子とさっぱり味がよく合います。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "茄子",
+            "quantity": "4本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "上白糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "大葉（千切り）",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子はたてに3等分し、水にさらす。",
+        "フライパンに油を熱し、茄子を並べる。\nふたをし、中火で焦げ目がつくまで両面焼く。",
+        "火を止めたら、合わせ調味料を加える。",
+        "皿に盛り付け、荒熱が取れたら冷蔵庫へ。\nしっかり冷やし、大葉を散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2263148",
+    "advice": "火を止めた後に調味料を加えることで、風味がいきます。",
+    "history": "作り置きできるので、時間のある時に多めに作って冷蔵庫に入れています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サラダ油",
+        "茄子",
+        "合わせ調味料",
+        "醤油"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2263148/100x141c/48b7eb2c9f7caadc1a99e6afb96f9d84.jpg?u=6238111&p=1371768379"
+}

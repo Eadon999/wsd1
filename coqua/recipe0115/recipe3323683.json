@@ -1,0 +1,77 @@
+{
+    "name": "ホルモンの漬けダレ（味噌味）",
+    "author": {
+        "@type": "Person",
+        "name": "うなぎまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/3323683/464x260/8a60d64495e74c78ae7a39923263cb61.jpg?u=5057522&p=1439956416",
+    "datePublished": "2015-08-16",
+    "description": "いいホルモンが手に入ったので、自家製味噌でタレを作りたくて",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "牛ホルモン（シマチョウ）",
+            "quantity": "500g"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "コチジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "にんにくすりおろし",
+            "quantity": "１個"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "1/2かけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "漬けダレの材料を全部混ぜ、ジップロックに入れます",
+        "牛ホルモンを入れ、形が崩れない程度に揉み込みます",
+        "一晩以上おいて、焼いて食べます"
+    ],
+    "cookTime": null,
+    "recipe_id": "3323683",
+    "advice": "臭みが気になる場合は、ホルモンに塩を振って、事前に軽く水気を出した方がいいかもしれません",
+    "history": "和牛のシマチョウが手に入ったので食べたくて",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/ホルモン"
+    ],
+    "rankings": [
+        "ホルモン 10位",
+        "漬けダレ 3位"
+    ],
+    "related_keywords": [
+        "牛ホルモン たれ",
+        "ホルモン 漬けだれ",
+        "ホルモン",
+        "ホルモン 漬け"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3323683/100x141c/22f9973e10e7a8f4e58463952942d554.jpg?u=5057522&p=1439956416"
+}

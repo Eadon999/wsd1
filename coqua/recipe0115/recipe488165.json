@@ -1,0 +1,55 @@
+{
+    "name": "寄せ鍋の出汁",
+    "author": {
+        "@type": "Person",
+        "name": "ピカちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/488165/464x260/4f68fc51463d5a25dd0a633950a53085.jpg?u=205343&p=1214218342",
+    "datePublished": "2008-01-14",
+    "description": "寄せ鍋の素を買わなくても大丈夫。醤油の分量を変更しました。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "昆布",
+            "quantity": "10cm×10cm　1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "5カップ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "１00ｃｃ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "●だしの素",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "土鍋にお水と昆布を入れ出汁を取る。",
+        "出汁が取れたら●を全部入れ煮立たせる。",
+        "好きな具材でお楽しみ下さ～い。\r\n※大根おろしを入れてみぞれ鍋にしてもGoodですよ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "488165",
+    "advice": "醤油の基本分量は100ｃｃですが、最初は半分の量入れてみて自分好みの濃さにして下さい。上の画像の写真は醤油100ｃｃで作ってます。出汁だけ味見するとかなり濃い目です。白菜等、野菜から水分が出るので少し濃い目でも大丈夫かなと思います。",
+    "history": "姉に教えて貰って、とっても美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/寄せ鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "寄せ鍋"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/488165/100x141c/2effef7db35d92324cb4c9c61b27c7e9.jpg?u=205343&p=1214218342"
+}

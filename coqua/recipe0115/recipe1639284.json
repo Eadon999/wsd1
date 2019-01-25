@@ -1,0 +1,83 @@
+{
+    "name": "麻婆ピーマン",
+    "author": {
+        "@type": "Person",
+        "name": "さわのちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1639284/464x260/4a4b68133a4e57a03a1620b2bf63bd2a.jpg?u=3479441&p=1322490698",
+    "datePublished": "2011-11-28",
+    "description": "ピーマンとひき肉だけで満足なメインのおかず。香味野菜がいいアクセントになっています。　麻婆丼にしても美味です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "2袋（中8個）"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "A）ねぎ　みじん切り",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "A）しょうが　みじん切り",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "A）にんにく　みじん切り",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "A）豆板醤",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "B）水",
+            "quantity": "1/3カップ"
+        },
+        {
+            "name": "B）鶏ガラスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "B）酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "B）しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "B）みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "片栗粉小さじ1、水大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを角切りにする。\nフライパンにごま油を入れ、Aを香りが出るまで炒める。",
+        "ひき肉を加え、ぽろぽろになるまで炒める。ピーマンとBを入れ、中火で3分煮る。",
+        "水溶き片栗粉を回し入れ、とろみがついたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1639284",
+    "advice": "辛いのが得意な方は豆板醤を増やしてください。我が家では倍増してます。ピーマンは柔らかくならないよう、歯ごたえを残す程度に煮てください。",
+    "history": "ピーマンが少し残っていたので、メインのおかずにするため、さらに追加して作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麻婆ピーマン"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1639284/100x141c/3db9867fe711338241bf9986ebb6355d.jpg?u=3479441&p=1322490698"
+}

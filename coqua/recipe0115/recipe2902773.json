@@ -1,0 +1,62 @@
+{
+    "name": "簡単！ムネ肉とブロッコリーのクリーム煮",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2902773/464x260/187691e329510449baf49c03d0d173bd.jpg?u=4376699&p=1449574835",
+    "datePublished": "2014-11-29",
+    "description": "ニュース掲載♪ブロッコリー丸ごと♪　200kcal/人",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1本"
+        },
+        {
+            "name": "むね肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "5mm"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "200cc"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーの芯の皮は芯を立てて皮をそぐように縦に切る\n回しながら一周切って丸くする",
+        "芯は6mm程の輪切りに\nつぼみはお好みの大きさに裂いておく",
+        "つぼみと芯を軽く洗いレンジ600w4分チン。\nつぼみだけならビニール袋に入れて30秒でOK♪",
+        "肉は皮を取り水洗いしてぬめりを取り6mm程に薄くそぎ切りにする",
+        "フライパンに材料を全部入れて火をつける\n強火で焦げないように混ぜながら2,3分\n肉に火が通りとろみがついたら完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2902773",
+    "advice": "ブロッコリーの下処理　ID:2905866皮など残った部分はベーコン炒め　ID:2408797他の肉で作るときは中火で肉に火を通してから強火でとろみをつけましょう",
+    "history": "ブロッコリーがメインのレシピに挑戦ニュース掲載http://news.cookpad.com/articles/20658",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー クリーム煮"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2902773/100x141c/0d47eb8fe04ffbcac2df468522428fc4.jpg?u=4376699&p=1449574835"
+}

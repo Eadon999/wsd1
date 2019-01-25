@@ -1,0 +1,52 @@
+{
+    "name": "南瓜とピーマンのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "オレンジリング"
+    },
+    "image": "https://img.cpcdn.com/recipes/4021344/464x260/a067d3ffc0889eeaef1f8867b9002efe.jpg?u=1397778&p=1471156958",
+    "datePublished": "2016-08-14",
+    "description": "夏野菜かぼちゃとピーマンのお味噌汁です♪南瓜の甘みとピーマンの苦味が意外に合います。",
+    "recipeYield": "3~4人分",
+    "recipeIngredient": [
+        {
+            "name": "南瓜",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1~2個"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "600cc"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5~2"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃ、ピーマンを食べやすい大きさに切る。油揚げは油抜きして細切りにする。",
+        "だし汁が沸騰したら、1を入れて煮る。",
+        "かぼちゃがやわらかくなったら、2に味噌を入れて煮溶かしたら出来上がりです。",
+        "2017.0803クックパッドニュースに掲載して頂きました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4021344",
+    "advice": "かぼちゃを煮すぎると崩れてしまうので注意してくださいね。油揚げはあった方が美味しいですが無くてもOKです。",
+    "history": "冷蔵庫に残っていたかぼちゃとピーマンでお味噌汁を作ってみたら意外に美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みそ汁 ピーマン"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/4021344/100x141c/08bc01c165e9be115ea377e07dd64be8.jpg?u=1397778&p=1471156958"
+}

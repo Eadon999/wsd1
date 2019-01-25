@@ -1,0 +1,64 @@
+{
+    "name": "サクッ♪　長芋の豚肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "福島県"
+    },
+    "image": "https://img.cpcdn.com/recipes/4286957/464x260/f45ecedf727967ab45272a6e7bb392e7.jpg?u=14983926&p=1484298227",
+    "datePublished": "2017-01-13",
+    "description": "サクッとした食感の長芋と甘辛ダレが絡んだ豚肉のおいしいコラボ！！",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "約10cm"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は表面を火で炙りヒゲを焼き切り、5cmの拍子切りにする",
+        "長芋を芯にして豚肉を巻き、片栗粉を付けて油で揚げる",
+        "鍋にしょうゆ、酒、みりん、砂糖を入れ火にかけ煮立ててタレを作る",
+        "3のタレに、2を入れ、からめて味を染み込ませて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4286957",
+    "advice": "長芋は皮をむかずにそのまま調理することで、栄養を損なわず摂取できます。表面の皮の色が肌色で、ハリとツヤがある新鮮なものがおいしい長芋です",
+    "history": "あぶロマレシピ集「あぶくまの郷土料理」に掲載されているレシピです",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋 豚肉巻き"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4286957/100x141c/9c98c1c9ce85753fa9c4c54be5117943.jpg?u=14983926&p=1484298227"
+}

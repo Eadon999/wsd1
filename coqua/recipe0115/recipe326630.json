@@ -1,0 +1,67 @@
+{
+    "name": "ぶりの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "chia"
+    },
+    "image": "https://img.cpcdn.com/recipes/326630/464x260/1dd56192e258c62a7d058715634576bd.jpg?u=19011&p=1214214636",
+    "datePublished": "2007-02-05",
+    "description": "とっても簡単☆定番ですが、やっぱり美味しい～！！母の味です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●生姜の絞り汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりを●に１５分位つけて臭みをとる。（途中１・２度返しながら）小松菜・しめじは適当に切り分け、それぞれ下ゆでする。",
+        "フライパンにサラダ油を熱し、水気をふいたぶりを皮目を下にして入れる。キッチンペーパーで余分に出た油をふき取りながら、両面をこんがり焼く。\r\n",
+        "混ぜ合わせた★を回し入れ、タレをすくってぶりにかけながら、汁気がなくなるまで煮詰める。",
+        "器に盛り、小松菜としめじを付け合わせ、たれをかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "326630",
+    "advice": "",
+    "history": "主人がぶりの照り焼きが好きなので作ろうと思い、お義母さんに教えていただきました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "酒",
+        "生姜の絞り汁",
+        "砂糖"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/326630/100x141c/e66dc9079066800b22e5d803c4012d4e.jpg?u=19011&p=1214214636"
+}

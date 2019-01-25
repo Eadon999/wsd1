@@ -1,0 +1,63 @@
+{
+    "name": "☆ちょっこと洋風お味噌汁☆",
+    "author": {
+        "@type": "Person",
+        "name": "＊はと＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2095335/464x260/71b2fec72dc5bf68c3b6e8c9c16192be.jpg?u=1935538&p=1359166419",
+    "datePublished": "2013-01-29",
+    "description": "定番のネギと豆腐のお味噌汁。オリーブオイルと黒こしょう・生姜を入れたら…ちょこっと洋風になりました♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "150g〜200g"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "味噌",
+            "quantity": "50g前後"
+        },
+        {
+            "name": "チューブ生姜",
+            "quantity": "1㎝〜お好みで"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1〜お好みで"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "少々〜お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "小鍋に水とだしを入れる。輪切りにしたネギと豆腐（スプーンですくう）を入れて火にかけコトコト。",
+        "ネギに火が通ったら、生姜と味噌を溶く。",
+        "仕上げにオリーブオイルとこしょう少々…出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2095335",
+    "advice": "豆腐は3コパック１コを使いました。200gの2コパックもいいかも。お味噌等、ご家庭のお好みの濃さで作って下さいね♪オリーブオイルはできればエクストラバージンオイルがオススメです☆",
+    "history": "いつもと変わったお味噌汁^^♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "洋風 味噌汁"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2095335/100x141c/809518a12770eacc4d24cc1545e2ff4a.jpg?u=1935538&p=1359166419"
+}

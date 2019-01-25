@@ -1,0 +1,58 @@
+{
+    "name": "ワインにあう、焼き玉ねぎ",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1482247/464x260/7a7c032a8e8298ac209e04ec6c5d9a0c.jpg?u=2142891&p=1309178982",
+    "datePublished": "2011-06-27",
+    "description": "玉ねぎ1個でも、ワインにあって、存在感のある一皿ができます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1/2片"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/3"
+        },
+        {
+            "name": "爪楊枝",
+            "quantity": "6本"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱を6等分のくし切りにし、爪楊枝を背から刺し、にんにく、赤唐辛子オリーブ油を温めたフライパンに入れる。",
+        "中火で5分ほど焼いて、こんがり焼き色がついたらひっくり返し、まんべんなく塩をふる。",
+        "両面に焼き色がついて、とろっとしてきたら完成（8～10分ほど）"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1482247",
+    "advice": "オレガノ、ローズマリー等の香草を一緒に焼いても美味しいです。",
+    "history": "玉ねぎ1個でも、充分美味しい副菜ができます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ",
+        "その他/おつまみ/ワインに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き玉ねぎ",
+        "ワインにあう 玉ねぎ",
+        "ワインにあう"
+    ],
+    "tsukurepo_count": "171",
+    "thumbnail": "https://img.cpcdn.com/recipes/1482247/100x141c/2bf9350fbe30074aa1c6a26315c47ace.jpg?u=2142891&p=1309178982"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "菜の花と蒲鉾のもずくあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/3044640/464x260/08186bf776dd33e582da1f39e08cbc28.jpg?u=7402421&p=1425280453",
+    "datePublished": "2015-03-02",
+    "description": "春野菜を使った、あっさり簡単レシピ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "110g"
+        },
+        {
+            "name": "かまぼこ",
+            "quantity": "40g"
+        },
+        {
+            "name": "味付もずく",
+            "quantity": "1パック（70g）"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "菜の花は、さっと塩ゆでした後、冷水に取り、食べやすい大きさに切って、ぎゅっとしぼる。",
+        "蒲鉾は、厚みを半分に切ってから、細切りにする。",
+        "材料を全て混ぜたら、出来上がり～♪",
+        "2015/3/18\n「もずく」の人気検索で、トップ10入りしました。\nありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3044640",
+    "advice": "蒲鉾の代わりに、竹輪やさつま揚げでも。",
+    "history": "3月だというのに、まだまだ暖房に頼りっきり。早く春にならないかな～♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花",
+        "かまぼこ",
+        "すりごま",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/3044640/100x141c/f5a91309d379e7a779659b7af0c2f3fa.jpg?u=7402421&p=1425280453"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "大根めし",
+    "author": {
+        "@type": "Person",
+        "name": "ダージリンちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1502838/464x260/bec9a296562a26a57ed39e5eb847d74f.jpg?u=1451027&p=1311268028",
+    "datePublished": "2011-07-22",
+    "description": "大根の甘みがとってもおいしいご飯。とっても簡単にできますよ！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/4本ぐらい"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "2合分のお米を炊く量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は、5ミリほどの厚さに輪切りにし、それぞれを8等分に切る。",
+        "お米2合をとぎ、大根、しょうゆ、みりんを入れ、2合目のメモリまで水を入れ、普通に炊く。",
+        "炊けたら、しゃもじで混ぜ合わせて、お茶碗に盛っていただきます。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "1502838",
+    "advice": "コツなど特にありません。全てを入れて炊くだけです。",
+    "history": "大根を入れてご飯を炊いてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "大根めし 2位"
+    ],
+    "related_keywords": [
+        "大根めし",
+        "だいこんめし"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1502838/100x141c/3b932a5d03af9e6db7fa4c5d4dc86c92.jpg?u=1451027&p=1311268028"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "白菜と厚揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "とんかつだいすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3704151/464x260/3c371f78e9826645bb169ab7293f720e.jpg?u=5804714&p=1456052856",
+    "datePublished": "2016-02-21",
+    "description": "厚揚げと一緒に白菜をトロトロになるまで煮てみました",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜の葉",
+            "quantity": "3枚"
+        },
+        {
+            "name": "厚揚げ豆腐",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "和風だしの素",
+            "quantity": "小匙1/2"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙0.5"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は食べやすい大きさに切る",
+        "厚揚げは10等分にする",
+        "鍋に水とだしの素、白菜を入れ、火にかける",
+        "沸騰したら蓋をして弱火にし、白菜から水分が出て柔くなるまで煮る。",
+        "柔らかくなったら厚揚げと調味料をいれ、更に弱火で白菜がくたくたになるまで煮る"
+    ],
+    "cookTime": null,
+    "recipe_id": "3704151",
+    "advice": "水の量が少なくても、白菜を蓋をして煮ることで、水分と出汁が十分でます。",
+    "history": "冷蔵庫に白菜が残っていたので、厚揚げと一緒に煮てみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": [
+        "白菜厚揚げ 4位"
+    ],
+    "related_keywords": [
+        "白菜 厚揚げ",
+        "白菜 厚揚げ 煮物",
+        "厚揚げ 煮物"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/3704151/100x141c/156a2d53e1a7c4bdc3e2c1a1ed94e97b.jpg?u=5804714&p=1456052856"
+}

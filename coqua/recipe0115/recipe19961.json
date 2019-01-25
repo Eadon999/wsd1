@@ -1,0 +1,61 @@
+{
+    "name": "大根とハムのマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "まもる"
+    },
+    "image": "https://img.cpcdn.com/recipes/19961/464x260/2f98cdaaa04cf04decb7aaf41a340e0f.jpg?u=4996&p=1214208539",
+    "datePublished": "2001-04-30",
+    "description": "大根とハム、いつでも冷蔵庫にあるもので、簡単マリネ。さっぱりしてるのに、まぜかあとを引く・・。わが家の常備菜の一つです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "半本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "５枚"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "①酢",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "①オリーブオイル",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "①塩",
+            "quantity": "適量（目安は小さじ１～２）"
+        },
+        {
+            "name": "①粗挽きこしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根、キュウリは千切りにし、\r\n塩少々（分量外）をまぶして\r\n少し揉んでおく。\r\n（水気が出てくる）\r\nだいたい１５分ぐらいおく。\r\nハムも千切り。",
+        "ドレッシングの材料をバット\r\nに入れ、混ぜておく。",
+        "１の水気をきゅーっと絞って\r\n２のバットに入れてあえる。\r\nすぐでも良いけれど、冷蔵庫\r\nで少しなじませてから\r\nの方がおいしい。\r\n好みで食べる直前に\r\nこしょうを挽く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "19961",
+    "advice": "キュウリは、セロリや、ピーマンでも美味しいです。いろんな野菜でお試し下さい。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ハム",
+        "キュウリ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/19961/100x141c/e3dd072a8cce47fca0e8a29c16193d45.jpg?u=4996&p=1214208539"
+}

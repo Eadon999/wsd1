@@ -1,0 +1,69 @@
+{
+    "name": "さわら（さごし）おろしあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "photok"
+    },
+    "image": "https://img.cpcdn.com/recipes/1740862/464x260/b92ad8037189831bf16dfa26057c216a.jpg?u=4147379&p=1331818135",
+    "datePublished": "2012-03-16",
+    "description": "あっさり＆ほっこりな和食にしたいときにおすすめです！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さごし（さわら）",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "大根10cm"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "最後の仕上げ"
+        },
+        {
+            "name": "☆出汁",
+            "quantity": "200cc"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大3"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆味醂",
+            "quantity": "大2"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "水大1:粉大1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "魚は三枚におろし、半身を２つに切り塩をふりかけておく。",
+        "☆を鍋に入れ火にかけ、沸騰したら水溶き片栗粉でとろみをつける。",
+        "①をペーパーで出てきた水分を取る。\n片栗粉を付けフライパンで揚げ焼きする。",
+        "お皿に②を流しいれ、③をおき、大根おろしをのせもう一度上から②をかけねぎを散らす。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1740862",
+    "advice": "魚のくさみは下処理できまる！しっかり下処理してください☆",
+    "history": "旦那さんが釣ってきた魚を、魚嫌いな旦那さんが美味しく食べれるように大根おろしと一緒に食べれるものを。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さわら あんかけ",
+        "さわら 大根おろし"
+    ],
+    "tsukurepo_count": "131",
+    "thumbnail": "https://img.cpcdn.com/recipes/1740862/100x141c/314c1b4a6b22345ef237768976a184be.jpg?u=4147379&p=1331818135"
+}

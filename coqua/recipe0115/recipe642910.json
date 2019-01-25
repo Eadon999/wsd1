@@ -1,0 +1,56 @@
+{
+    "name": "みょうがの卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "guemi"
+    },
+    "image": "https://img.cpcdn.com/recipes/642910/464x260/acf9afefcf6fe7fe34f68b0c16f9800d.jpg?u=533760&p=1221115325",
+    "datePublished": "2008-09-11",
+    "description": "お弁当のおかずに作る卵焼き。具はあれこれ入れますが、みょうがの卵焼きが、１，２位を争う位好きです♥",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２ヶ"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "２ヶ"
+        },
+        {
+            "name": "牛乳（またはだし汁）",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "みょうがはみじん切りにし、材料を混ぜて焼く。",
+        null,
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "642910",
+    "advice": "お弁当用ということもあり、味はちょっと濃いめかもしれません。",
+    "history": "昔、友人のお兄さん（和食料理人）が作ってくれたのが美味しくて教わりました＼(^o^)／",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/みょうが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "みょうが",
+        "牛乳",
+        "薄口しょうゆ"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/642910/100x141c/eaccd8642b70a381af57c2f4a4e119cb.jpg?u=533760&p=1221115325"
+}

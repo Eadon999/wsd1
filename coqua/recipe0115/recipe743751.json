@@ -1,0 +1,68 @@
+{
+    "name": "豚肉とかぼちゃの和風コチュ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/743751/464x260/6c3de05ee09730c7a8bdf1a9740321e5.jpg?u=625487&p=1235461510",
+    "datePublished": "2009-02-25",
+    "description": "お馴染みの和風味にコチュジャンのアクセント☆短時間で作れるから、忙しい時にも嬉しい炒め物です",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚かたまり肉(もも、ヒレ等)",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "南瓜",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "１０ｃｍ位"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎スンチャン コチュジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎おろし生姜",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は１．５cm角、南瓜も大体それに揃えて切りレンジで固めに加熱、長葱は１cmの輪切りにする。\r\n◎は合わせておく。",
+        "フライパンにサラダ油を熱し、豚肉を入れて強めの中火で炒める。",
+        "豚肉の表面の色が全体に変わったら長葱を加え、葱の香りが立ったら南瓜と◎を加えて最後は強火で調味料を全体に絡ませ消火する。",
+        "器に盛り付ける。 \r\nお好みにより、青みの野菜(分量外)を飾る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "743751",
+    "advice": "手順１の南瓜のレンジ加熱の目安は、５００～６００Ｗで大体２分半～３分程です。お好みにより、調味量は増減して下さい。",
+    "history": "辛味の中にも深い旨みのあるコチュジャンを、和風に仕立ててみようと考えたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚かたまり肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ブロック かぼちゃ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/743751/100x141c/cc74b7b18d0037b8d9bfccfd81ecd903.jpg?u=625487&p=1235461510"
+}

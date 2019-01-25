@@ -1,0 +1,51 @@
+{
+    "name": "きゅうりの梅肉あえ",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1241872/464x260/757804f58873a03c489cfde697ce2b90.jpg?u=1570274&p=1285381795",
+    "datePublished": "2010-09-25",
+    "description": "火を使わず簡単料理。",
+    "recipeYield": "2-3人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは乱切りにして、軽く塩をふり水気を切る。",
+        "梅干しは種を取ってみじん切りにする。",
+        "②としょうゆ、かつおぶしを混ぜて、①を加えてもう一度混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1241872",
+    "advice": "特になにもないです。",
+    "history": "一品足りない時に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ 梅肉和え"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1241872/100x141c/4a4cae7ae765677ea2cee181b7b4f5dc.jpg?u=1570274&p=1285381795"
+}

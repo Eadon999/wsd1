@@ -1,0 +1,65 @@
+{
+    "name": "韓国料理ー豚キムチの焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "白成珍"
+    },
+    "image": "https://img.cpcdn.com/recipes/1812336/464x260/7ef00610d86fe9b9d328093142e7481f.jpg?u=4318489&p=1338138609",
+    "datePublished": "2012-05-13",
+    "description": "相性抜群の豚肉とキムチの焼きそばです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "中華めん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "豚肉のこま切れ",
+            "quantity": "１５０g"
+        },
+        {
+            "name": "白菜のキムチ",
+            "quantity": "１５０g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "キムチの汁",
+            "quantity": "３～４大"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにサラダ油を少し回して豚肉を炒めます。肉が色が変わり始まったらこしょうを少々。",
+        "肉が完全に焼けたら薄く切った玉ねぎと白菜のキムチを入れてじっくり炒めます。",
+        "中華めん（ゆで）、または焼きそばめんを入れてキムチの汁でめんを解します。めんが全般に柔らかくなったら皿に盛ります。",
+        "万能ねぎは刻んで少々散らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1812336",
+    "advice": "キムチを炒める時はじっくり中火～弱火で炒めます。そうしたらキムチにごくが出てすっぱさや辛さも和らげるんです。",
+    "history": "味付けする必要もなく簡単なので是非作ってみてください。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/アレンジ焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "韓国風焼きそば",
+        "豚キムチ焼きそば"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1812336/100x141c/153c2993d0d3ed31ea99d78dc5db2ea5.jpg?u=4318489&p=1338138609"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "(∵)屋：鰯の生姜煮",
+    "author": {
+        "@type": "Person",
+        "name": "BTREE"
+    },
+    "image": "https://img.cpcdn.com/recipes/338828/464x260/6a60f47aafba3df6053045308b8bdee2.jpg?u=229160&p=1214214899",
+    "datePublished": "2007-03-03",
+    "description": "鰯の下処理をしたら、お鍋で煮るだけ♪簡単で骨まで食べれます☆彡最近は、内臓をとった鰯もスーパーで売ってるのでそれを利用したら、もっと簡単ですね。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鰯",
+            "quantity": "約１０匹"
+        },
+        {
+            "name": "生姜",
+            "quantity": "ピンポン玉くらいの大きさ１つ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "４０ｃｃ"
+        },
+        {
+            "name": "お水",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "お酒",
+            "quantity": "４０ｃｃ"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "小さじ２くらい"
+        },
+        {
+            "name": "した処理用お酒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "いわしの頭とはらわたを取り除く。\r\n新聞紙を厚めにひいて、その上でやると、そのまま捨てれて簡単です。",
+        "１に酒をふりかけ、臭みをとる。",
+        "鍋に千切りにした生姜、醤油、お水、お酒、はちみつを入れて沸騰させる。",
+        "３に鰯を並べていれ、アルミホイルで落し蓋をして、弱火で１５分。完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "338828",
+    "advice": "・下処理済みの鰯を買うと、手間がはぶけて簡単です。",
+    "history": "実家で作る、いかなごの味付けを思い出しながら、あまり好きではなかったいわしを煮てみようと思いました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし"
+    ],
+    "rankings": [
+        "いわしの生姜煮 4位"
+    ],
+    "related_keywords": [
+        "いわしの下処理"
+    ],
+    "tsukurepo_count": "154",
+    "thumbnail": "https://img.cpcdn.com/recipes/338828/100x141c/fc03ce8e2f6b6778739e2e50250c782c.jpg?u=229160&p=1214214899"
+}

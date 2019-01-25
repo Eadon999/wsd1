@@ -1,0 +1,67 @@
+{
+    "name": "ヘルシー！簡単！豆腐と青梗菜の炒め物。",
+    "author": {
+        "@type": "Person",
+        "name": "Morizzo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1682311/464x260/5afdeca700f2cc56ee2021ede3d5c107.jpg?u=3433563&p=1327239188",
+    "datePublished": "2012-01-22",
+    "description": "安くて美味しい青梗菜とお豆腐の炒め物。 大好きな二つの食材のコラボを考えてみました。 ヘルシーでボリュームたっぷり。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜（チンゲンサイ）",
+            "quantity": "２株"
+        },
+        {
+            "name": "生しいたけ",
+            "quantity": "大２（小４）"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "鶏がらスープ（顆粒）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "220cc"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸とチンゲンサイを適当な大きさに切る",
+        "ごま油をフライパンに入れ暖める。\n十分温まったところで１を投入。\n強火で塩コショウをふりかけ全体に軽く火を通す。",
+        "鶏がらスープ、片栗粉を300ccの水で事前に溶いておく。",
+        "②のフライパンに豆腐を加え豆腐が温まったら③を投入手早くかき混ぜ全体になじみトロミが出たところで火を止めれば完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1682311",
+    "advice": "",
+    "history": "安くて美味しい青梗菜とお豆腐の炒め物。だいたい、どちらも冷蔵庫にあるので、いつでもできる健康メニュー。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "青梗菜",
+        "生しいたけ",
+        "豆腐",
+        "鶏がらスープ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1682311/100x141c/1e4af27d915e1637828d0d06471d5147.jpg?u=3433563&p=1327239188"
+}

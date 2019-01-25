@@ -1,0 +1,75 @@
+{
+    "name": "とろとろたまごのニラ玉スープ",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/2518118/464x260/1da180058ca4fdef2b3c0a54be9fccf0.jpg?u=535158&p=1393220134",
+    "datePublished": "2014-02-24",
+    "description": "贅沢に1人1個のたまごを使い、とろとろたまご仕立てしたニラ玉スープです。ニラもたっぷり加えてどうぞ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1/4束"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "水",
+            "quantity": "１・1/2カップ"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "鶏がらスープ(顆粒)",
+            "quantity": "小匙2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小匙2"
+        },
+        {
+            "name": "花山椒",
+            "quantity": "小匙2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ホワイトペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉+水",
+            "quantity": "大匙1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "にらは３ｃｍ長さに切る。",
+        "鍋に水を入れ、にらを加えさっと煮たら、スープ調味料の材料を全て加え味を調える。。",
+        "いったん火を止め、片栗粉+水を加え再び火にかける。",
+        "沸騰直前に溶き卵を回し入れ、すぐに火を止め、器に盛れば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2518118",
+    "advice": "＊沸騰直前に溶き卵を加え、すぐに火を止め余熱で温めると、とろとろたまごになります。",
+    "history": "健康の為、1日１汁、実践中！簡単・美味しいスープレシピ考案。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "薄口醤油",
+        "鶏がらスープ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2518118/100x141c/ed818c2bd810b64590da89948318c197.jpg?u=535158&p=1393220134"
+}

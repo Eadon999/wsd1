@@ -1,0 +1,52 @@
+{
+    "name": "いんげんとじゃがいものカレー炒め",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/269315/464x260/5e009644437e1e418660e54628ebbf02.jpg?u=252604&p=1214213352",
+    "datePublished": "2006-07-25",
+    "description": "しゃきしゃきのじゃがいもと今が旬のいんげんのカレー味のおかずです。お弁当のおかずやおつまみにも♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "1袋"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "クレージーソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大1"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんの両端をぽきっと折り、筋があれば取り除きます。",
+        "さっと下茹でして、斜めに薄切りにします。",
+        "じゃがいもは、太めの千切りにし、水にさらしておきます。その後、しっかり水切りします。",
+        "フライパンに油をひき、じゃがいもを透き通るくらいまで、中火で炒めます。火が通ったら、いんげんを加えてさっと炒め、カレー粉、クレージーソルトで味をととのえ、完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "269315",
+    "advice": "しゃきしゃきに炒めるのがポイントです。",
+    "history": "いんげんをたくさんいただいたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレー味のおかず"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/269315/100x141c/369fb9ff525a2797bbc5b394ab0b9c6b.jpg?u=252604&p=1214213352"
+}

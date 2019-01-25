@@ -1,0 +1,52 @@
+{
+    "name": "大根おろしの和風ステーキソース",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/996395/464x260/3ff5e9232edfb2a451f4efb5d22b5a7e.jpg?u=1298841&p=1343530907",
+    "datePublished": "2009-12-23",
+    "description": " 【話題入り】大根の酵素とお酢の力で、ステーキがさっぱり食べられます♪ 食後に胃がもたれません＾＾ ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1センチ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根とにんにくをすりおろし、しょうゆと酢を加えてよく混ぜる。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "996395",
+    "advice": "にんにくは入れすぎるとからいので、小指の先くらいのほんのちょっとで十分です。大根は葉に近い方の甘い部分を使います。大根の大きさで水分量が違うので、味見をして少ししょっぱいくらいの味にしょうゆの量を調節してください。",
+    "history": "母直伝の我が家のステーキソース。このさっぱりソースのおかげでステーキを食べても、もたれ知らず♪",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": [
+        "ステーキソース 4位",
+        "大根おろし 10位"
+    ],
+    "related_keywords": [
+        "ステーキソース 大根おろし",
+        "ステーキソース 和風",
+        "ステーキソース",
+        "大根おろし ソース"
+    ],
+    "tsukurepo_count": "81",
+    "thumbnail": "https://img.cpcdn.com/recipes/996395/100x141c/3f10e541cdd826d3ded1eedf1743dd2b.jpg?u=1298841&p=1343530907"
+}

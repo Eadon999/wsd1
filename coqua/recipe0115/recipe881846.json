@@ -1,0 +1,61 @@
+{
+    "name": "かぼちゃのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ぞうさん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/881846/464x260/a12a7f6d9bfbfa33133ec1ddf37e4c99.jpg?u=1423655&p=1249424930",
+    "datePublished": "2009-08-07",
+    "description": "切って炒めて出来上がり〜♪  ☆ *話題入りありがとうございました＊☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1／4個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは細切りにし、フライパンにゴマ油をひいてかぼちゃを炒める。",
+        "かぼちゃに油がまわったら酒、しょうゆ、砂糖を入れて混ぜ、汁けをとばし、ごま、お好みで七味をかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "881846",
+    "advice": "",
+    "history": "かぼちゃが沢山あったので作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "酒",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/881846/100x141c/0c0ba62ea1c7f482752565d910e7027e.jpg?u=1423655&p=1249424930"
+}

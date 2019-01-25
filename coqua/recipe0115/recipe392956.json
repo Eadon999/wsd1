@@ -1,0 +1,58 @@
+{
+    "name": "オクラとツナの☆マヨポンサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/392956/464x260/348b35e8022a898996e2dbfd0eef6bdc.jpg?u=239563&p=1247707682",
+    "datePublished": "2007-06-21",
+    "description": "オクラとツナが意気投合！マヨネーズとポン酢、おかかであえて美味しくいただく簡単和風サラダです♪",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "１パック（１０本くらい）"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★ツナ",
+            "quantity": "１缶（８０ｇ）"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ　２"
+        },
+        {
+            "name": "★ポン酢醤油",
+            "quantity": "小さじ　２"
+        },
+        {
+            "name": "★鰹節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは塩をふり板ずりして、熱湯でさっと茹でる。冷めたら半分に斜めに切る。",
+        "ツナ缶の油を切り★の材料を全て混ぜ合わせたものに①のオクラをあえたら出来上がり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "392956",
+    "advice": "とくにありません（＾＾）",
+    "history": "旬のオクラとツナ缶があったので、簡単なサラダにしてみました♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "塩",
+        "ツナ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/392956/100x141c/20696bb8aefbe51626ecc00e2ff60e6d.jpg?u=239563&p=1247707682"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "簡単！豚バラぶなしめじ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4181965/464x260/df9ace3d7953b5b47ca6090e41cd47eb.jpg?u=4376699&p=1479138378",
+    "datePublished": "2016-11-15",
+    "description": "豚バラ大根風！ぶなしめじたっぷり♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "ぶなしめじ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじのいしづきを落としばらす\nピーマンの種を取って千切り\n人参を千切り\n肉を小さく切る\n",
+        "油少々で肉を炒め\nピーマンニンジンを加えて塩胡椒して炒める",
+        "ぶなしめじを加えて軽く炒めてタレを加える",
+        "蓋をして中火で1分蒸し焼きで完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4181965",
+    "advice": "ピーマンの苦さが苦手な方はしめじを入れる前にしっかり炒めましょう",
+    "history": "豚バラ大根を作ろうとしてしめじに変更してみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉 ブナシメジ",
+        "ぶなしめじ ピーマン"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4181965/100x141c/ab781a6926a4a4b67c5d647f2a9e9b20.jpg?u=4376699&p=1479138378"
+}

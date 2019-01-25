@@ -1,0 +1,60 @@
+{
+    "name": "和風！厚揚げときゃべつのみそ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3386611/464x260/948701c806960a71a1a308fe4cbba291.jpg?u=10053239&p=1441459873",
+    "datePublished": "2015-09-05",
+    "description": "優しいみそ味の炒め物です。どちらの食材もみそが良く合います。もう１品にいかがでしょうか♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ豆腐",
+            "quantity": "１/2枚"
+        },
+        {
+            "name": "きゃべつ",
+            "quantity": "３枚（１５０g）"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "わけぎ（小口切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "合わせみそ",
+            "quantity": "大匙１と１/２"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げときゃべつを１口サイズに切る。",
+        "フライパンにオイルを熱し、中火で１を炒める。",
+        "きゃべつがしんなりしたら、調味料を全て入れ全体に馴染ませる。",
+        "わけぎをかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3386611",
+    "advice": "厚揚げは普通サイズの物です。わけぎはあれば使いますが、わざわざ買わなくてもOKです。とっても好きなら話は別ですが。",
+    "history": "有り合わせでもう１品作ろう。しかも簡単な物。味噌汁に入れた厚揚げが半分残っていたので、きゃべつと炒めました。そしてみそ味です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 味噌炒め 豆腐"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/3386611/100x141c/857c14b6d88d6fbd0dc981ea4105285b.jpg?u=10053239&p=1441459873"
+}

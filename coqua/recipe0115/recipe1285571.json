@@ -1,0 +1,67 @@
+{
+    "name": "豚こんにゃく",
+    "author": {
+        "@type": "Person",
+        "name": "norriku"
+    },
+    "image": "https://img.cpcdn.com/recipes/1285571/464x260/93559a17f03c1da8142299c74bbc5b24.jpg?u=2546611&p=1289869736",
+    "datePublished": "2010-11-16",
+    "description": "お給料前のお助け料理です(＾＾；豚肉はバラでもこま切れでも何でも大丈夫です♪11/3/24話題入り♪有難うございます。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "100グラムぐらい"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1枚"
+        },
+        {
+            "name": "★だし醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "輪切り唐辛子（お好みで）",
+            "quantity": "適量"
+        },
+        {
+            "name": "きざみねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを適当な大きさに切り、バターで焼き色がつくまで炒めます。",
+        "こんにゃくをいったん取り出し、豚肉を炒めます。",
+        "豚肉の色が変わったら★の調味料を加えて炒め、こんにゃくを戻します。（お好みで唐辛子を加えてください）",
+        "刻みねぎを散らして出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1285571",
+    "advice": "バターは多めのほうが美味しいと思います。",
+    "history": "こんにゃくが冷蔵庫の隅で眠っていたので(-_-)zzz",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "こんにゃく",
+        "だし醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1285571/100x141c/2981df937f1db9d60378b979fe87121e.jpg?u=2546611&p=1289869736"
+}

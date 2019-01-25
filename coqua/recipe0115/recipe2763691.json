@@ -1,0 +1,42 @@
+{
+    "name": "簡単！かぼちゃの塩こうじ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2763691/464x260/c30e2e78ba5ffe981188b5c77d579560.jpg?u=7089749&p=1498092659",
+    "datePublished": "2014-08-21",
+    "description": "お弁当にもおすすめ☆かぼちゃを液体塩こうじ＋水で煮るだけの簡単メニュー。かぼちゃの味がシンプルにしっかり感じられます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍かぼちゃ",
+            "quantity": "500g"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "大さじ１と小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "475g"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキの「液体塩こうじ」を使用します！",
+        "冷凍カボチャを液体塩こうじ、水で２０倍に希釈して煮込むだけです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2763691",
+    "advice": "",
+    "history": "ハナマルキ「液体塩こうじ」を使ったかんたんメニューです。発酵調味料である液体塩こうじを使用することで酵素の力が働き、素材の旨味が増します。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ 塩こうじ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2763691/100x141c/21f255be2d8ba0bc4c152a666aa2acf8.jpg?u=7089749&p=1498092659"
+}

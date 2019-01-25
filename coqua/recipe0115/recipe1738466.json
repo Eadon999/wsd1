@@ -1,0 +1,59 @@
+{
+    "name": "玉こんにゃくの煮物♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1738466/464x260/796e2d6b31b0aa5d102a582d9b969813.jpg?u=603745&p=1447768368",
+    "datePublished": "2012-03-13",
+    "description": "醤油で煮た玉こんにゃくです♪しっかり味をしみ込ませて美味しい!!寒い季節にはほかほか温まりますー♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "玉こんにゃく",
+            "quantity": "1袋（20個程度目安）"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "30cc"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "20cc"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "たまこんにゃくを割り箸に刺します。",
+        "鍋に水とたまこんにゃくを入れます。",
+        "火に掛けて1度沸騰させます。",
+        "一度火を弱めて☆の調味料を加えます。",
+        "2分ほど沸騰した状態で煮ます。",
+        "その後弱火で10分ほど煮詰め、火を止めて味をしみ込ませます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1738466",
+    "advice": "",
+    "history": "安売りの玉こんにゃくを、出店で食べたものに似せて作りました☆",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉こんにゃく 煮物",
+        "玉こんにゃく"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1738466/100x141c/2caf0303e19dd28e215f6e32d6f872c5.jpg?u=603745&p=1447768368"
+}

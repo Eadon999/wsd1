@@ -1,0 +1,58 @@
+{
+    "name": "お弁当★簡単！甘辛ごぼう＆ツナのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "朝まと"
+    },
+    "image": "https://img.cpcdn.com/recipes/1239439/464x260/b9334b4086cf522bedb89279a7f137ee.jpg?u=1115273&p=1285128909",
+    "datePublished": "2010-09-29",
+    "description": "ツナ缶の油ごと炒めると、出汁不要で旨味たっぷり！",
+    "recipeYield": "３人分位",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "２分の１本（１３０ｇ）"
+        },
+        {
+            "name": "ツナ缶（油漬け）",
+            "quantity": "１缶（８０ｇ 固形量５６ｇ）"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★炒りごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーラーで牛蒡を笹がき。masakohママさんの「id 1052938」を御参考に☆彡",
+        "熱したフライパンにツナ缶を油ごと入れ、牛蒡を炒める。",
+        "油が全体に回ったら、★印で味付け。お好みで七味をふって完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1239439",
+    "advice": "ピ―ラー使用の「薄い笹がき」は直ぐに火が通るので、あっという間に完成します☆彡",
+    "history": "masakohママさんの「id 1052938 ごぼうの笹がき」がとっても気にいったので、きんぴらに。「切り方を変えると、歯ごたえが楽しい」ことに気がつきました（＾ｕ＾）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "ツナ缶",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1239439/100x141c/8dab34739c42a72ea2124abce6745e87.jpg?u=1115273&p=1285128909"
+}

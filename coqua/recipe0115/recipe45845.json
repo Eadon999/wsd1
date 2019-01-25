@@ -1,0 +1,45 @@
+{
+    "name": "しらたきと鶏ひき肉の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "おいこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/45845/464x260/cfabff0c9ba40aa2e0e539491df1ccc4.jpg?u=13280&p=1214209022",
+    "datePublished": "2002-03-17",
+    "description": "しらたきととりひき肉でとても美味しい一品ができます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しらたき",
+            "quantity": "1袋"
+        },
+        {
+            "name": "鶏ひき肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "ショウガ",
+            "quantity": "１カケ"
+        }
+    ],
+    "recipeInstructions": [
+        "しらたきは、２分ほど下茹でし、食べやすい大きさに切っておく。ショウガ一かけはみじん切りに。\r\n",
+        "鍋に薄く油をいれて、ショウガを炒める。香りが出てきたら鶏ひき肉をいれて肉がバラバラに成るように炒める。\r\n",
+        "しらたきをいれてさらに炒めて、醤油（大３）・みりん（大１）・酒（少々）をいれて\r\n煮汁がなくなるまで炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "45845",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらたき",
+        "鶏ひき肉",
+        "ショウガ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/45845/100x141c/7d044d189445c460485a40dde215c3cf.jpg?u=13280&p=1214209022"
+}

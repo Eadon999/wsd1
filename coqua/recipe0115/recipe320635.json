@@ -1,0 +1,63 @@
+{
+    "name": "カブとツナの温サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Lacuisine006"
+    },
+    "image": "https://img.cpcdn.com/recipes/320635/464x260/8d3ad1f06a3101b9eb52e414f7ef44c9.jpg?u=348772&p=1214214516",
+    "datePublished": "2007-01-20",
+    "description": "優しい味のとっても美味しい温サラダ。作るのも簡単。",
+    "recipeYield": "２、３人分",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "２個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "１/2缶"
+        },
+        {
+            "name": "パセリ（みじん切り）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マスタード（あれば粒入りのもの）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "カブをそれぞれクシ形切りに８等分して、蒸し器（または電子レンジで）柔らかくなるまで調理します。",
+        "ボールに、ツナを入れてほぐし、パセリのみじん切り、オリーブオイル、マヨネーズ、マスタードと入れてよく混ぜます。",
+        "２のボールに調理したカブを入れて混ぜ合わせて、塩、コショウをお好みで加えて出来上がり。\nBon appetit!!\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "320635",
+    "advice": "蒸すとカブの味がしっかり残るので、ボイルするよりも蒸すのをオススメします。",
+    "history": "カブを温かく食べたいと思って。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/あったかいサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 温サラダ",
+        "温サラダ",
+        "カブとツナの温サラダ",
+        "かぶ ホットサラダ"
+    ],
+    "tsukurepo_count": "250",
+    "thumbnail": "https://img.cpcdn.com/recipes/320635/100x141c/885aca3183a7d88116f6eea4bd782925.jpg?u=348772&p=1214214516"
+}

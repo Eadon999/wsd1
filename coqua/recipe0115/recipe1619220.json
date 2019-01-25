@@ -1,0 +1,73 @@
+{
+    "name": "【農家のレシピ】セロリのピクルス",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1619220/464x260/49e2a8d55d556e2801a01bc16c052080.jpg?u=2513693&p=1320489810",
+    "datePublished": "2011-11-12",
+    "description": "ポリポリとサラダ感覚で食べられるセロリのピクルスです♪　　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "3本（茎の部分の重さ２００ｇ）"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "酢",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "にんにく（薄切り）",
+            "quantity": "１片"
+        },
+        {
+            "name": "粗びき黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ローリエ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリの茎の部分の固いすじを取り除き10センチの長さで幅7ミリ程度に切り、塩をまぶして軽くもみ10分置き水気を絞ります。",
+        "【A】を鍋に入れ一度沸騰させ火を止め【B】を入れ冷ましておきます\n\n",
+        "煮沸消毒したビンに①と②を入れ冷蔵庫で１日間漬けこんだら完成です。　",
+        "コリコリしてて美味しいよ♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1619220",
+    "advice": "",
+    "history": "いつものピクルス液でセロリも漬けています",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ ピクルス",
+        "セロリ"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1619220/100x141c/40a71357866e30cff9c9cc0e93052cbe.jpg?u=2513693&p=1320489810"
+}

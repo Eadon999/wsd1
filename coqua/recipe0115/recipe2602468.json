@@ -1,0 +1,50 @@
+{
+    "name": "簡単！塩こうじのたまご焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2602468/464x260/d7396ecca4dad0242847131ff8af9b9f.jpg?u=7089749&p=1398409364",
+    "datePublished": "2014-04-25",
+    "description": "たまご焼きに液体塩こうじを使用すると、ふっくら、柔らか。色もきれいに仕上がります！お弁当にもおすすめです！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキ「液体塩こうじ」を使用します。",
+        "ボウルに材料を入れ、混ぜる。",
+        "玉子焼き器（またはフライパン）にサラダ油を熱し、玉子焼きをつくる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2602468",
+    "advice": "",
+    "history": "ハナマルキ「液体塩こうじ」を使ったかんたんメニューです。発酵調味料である液体塩こうじを使用することで酵素の力が働き、旨味が増します。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩麹 卵焼き",
+        "塩こうじ",
+        "卵焼き 塩こうじ",
+        "液体塩こうじ 卵焼き"
+    ],
+    "tsukurepo_count": "109",
+    "thumbnail": "https://img.cpcdn.com/recipes/2602468/100x141c/a9ccf815e6c42431209827b0465e9e41.jpg?u=7089749&p=1398409364"
+}

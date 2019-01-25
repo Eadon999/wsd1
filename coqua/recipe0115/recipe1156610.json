@@ -1,0 +1,66 @@
+{
+    "name": "さっぱり！鶏肉とナスの南蛮酢",
+    "author": {
+        "@type": "Person",
+        "name": "chocoada"
+    },
+    "image": "https://img.cpcdn.com/recipes/1156610/464x260/aa1d46c3fbe84d486f47eb44e16bad43.jpg?u=2293093&p=1276335914",
+    "datePublished": "2010-06-12",
+    "description": "お酢が入ってさっぱりしたタレに鶏肉とナスがよく合います！ ビールにもごはんにも合いますよ～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "大１枚"
+        },
+        {
+            "name": "ナス",
+            "quantity": "３本"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油、お酢",
+            "quantity": "大３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "水",
+            "quantity": "大４"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "１本"
+        },
+        {
+            "name": "ネギみじん切り",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを一口大に切り素揚げする。\r\n鶏肉も一口大に切り片栗粉を適量まぶして揚げる。",
+        "タレの調味料をすべて合わせて鍋で火にかけます。\r\nフツフツと１回煮たったら火を止めます。 \r\n",
+        "素揚げしたナスと鶏肉にタレをからめれば出来上がり♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1156610",
+    "advice": "このタレを覚えるといろいろな食材でアレンジできます。鶏肉の代わりに豚肉とナスでもおいしいですし、鯵などの魚でもとってもおいしいです。鯵の場合は玉ねぎとにんじんを一緒にからめるといいですね♪",
+    "history": "から揚げにあきた時にさっぱり食べられるように作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "ナス",
+        "片栗粉",
+        "タレ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1156610/100x141c/b56703855d80b13eb738e89258fb06ef.jpg?u=2293093&p=1276335914"
+}

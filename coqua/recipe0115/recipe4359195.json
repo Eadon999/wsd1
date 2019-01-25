@@ -1,0 +1,53 @@
+{
+    "name": "春菊とコーンのバター醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/4359195/464x260/841bed24515b80b796b4b9497fa7fbd1.jpg?u=822079&p=1487234170",
+    "datePublished": "2017-02-16",
+    "description": "くせのある春菊をバターとコーンで食べやすく＾＾",
+    "recipeYield": "小鉢4人分",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "1袋"
+        },
+        {
+            "name": "コーン(冷凍)",
+            "quantity": "1／4袋"
+        },
+        {
+            "name": "バター",
+            "quantity": "おおさじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "ひと回し"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊は3センチ幅くらいの食べやすいサイズに切る",
+        "フライパンにバターをいれ弱火にかける　溶けてきたら1とコーンを入れ塩コショウを軽くふり炒める",
+        "しんなりしたら醤油を回しいれて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4359195",
+    "advice": "特になし＾＾コーン醤油はお好み量で",
+    "history": "春菊を食べさせたくて＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 コーン",
+        "春菊 バター炒め",
+        "春菊 バター醤油炒め"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4359195/100x141c/6f111e102628a5e2699b0efa3e286563.jpg?u=822079&p=1487234170"
+}

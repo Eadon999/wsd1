@@ -1,0 +1,55 @@
+{
+    "name": "たっぷり海苔と焦がし味噌チャーハン♪",
+    "author": {
+        "@type": "Person",
+        "name": "CoffeeCoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/860789/464x260/91d61a40c6dae97d15eb622576f0f961.jpg?u=276503&p=1292441954",
+    "datePublished": "2009-07-09",
+    "description": "海苔をた～～っぷりいれました♪少し焦がした味噌風味が美味しいです＾＾",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１杯分"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "めんつゆ（納豆のタレでも♪）",
+            "quantity": "大１～"
+        },
+        {
+            "name": "味付け海苔（今回はにこにこのり　極使用）",
+            "quantity": "お弁当用のパック２個分くらい～"
+        },
+        {
+            "name": "ネギなど",
+            "quantity": "1/2本～"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギは斜めきり。油を熱し（ごま油お勧め）ネギをいためつつ味噌を焦がしつつ炒める。",
+        "いい焦げ具合になってきたらご飯投入。全体に味噌がなじんだら麺つゆで味付け。今回は納豆タレ２個くらいつかったよ♪",
+        "塩コショウをし、海苔をちぎりながらいれ全体がしんなりしたら火を消す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "860789",
+    "advice": "海苔は最初多い！と思っても火を通すとあっとゆうまに量が減ります。野菜はネギ、人参キャベツしいたけきのこ系、玉葱なんでも～～ちくわとか揚げもあいます＾＾",
+    "history": "海苔大好き♪和風とゆうことで味噌で＾３＾",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌チャーハン"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/860789/100x141c/4ed1cf643a7c316ede34838295d0e679.jpg?u=276503&p=1292441954"
+}

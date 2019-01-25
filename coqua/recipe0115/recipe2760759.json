@@ -1,0 +1,65 @@
+{
+    "name": "簡単☆人参と豆苗の胡麻和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2760759/464x260/c54cb763f4c6ad38af855c5b88fb790a.jpg?u=1228553&p=1408440101",
+    "datePublished": "2014-08-19",
+    "description": "栄養たっぷりのごま和えです～(o´ω｀o)",
+    "recipeYield": "２・３人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "豆苗",
+            "quantity": "1パック"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ２（お好み）"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆すり胡麻",
+            "quantity": "大さじ１ ～（お好み）"
+        },
+        {
+            "name": "☆顆粒だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆水",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "☆を良く混ぜ合わせておく",
+        "人参はピーラーで縦にスライスし、豆苗は根と切り離したらさっと水洗いし水けを良く切っておく",
+        "たっぷりのお湯を沸騰させたら1の人参と豆苗を同時に入れ30秒程度さっと茹で",
+        "流水で粗熱を取ったら水けを良く切り～",
+        "きゅっと絞って1に入れ良く和え、食べる直前まで冷蔵庫で冷やす",
+        "器に盛って出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2760759",
+    "advice": "少し食べやすくするためだけなので、ゆで時間は本当にさっとで良いですヽ(･∀･)ﾉ 人参の大きさ等により調味料は調節してください♪作ってすぐよりも少し冷蔵庫でなじませた方が美味しいです(*´ｪ`*)",
+    "history": "人参と豆苗で何かできないかな~と(＇v＇)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "豆苗",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2760759/100x141c/3acbb18e95842cc0153bcd5d6f57933c.jpg?u=1228553&p=1408440101"
+}

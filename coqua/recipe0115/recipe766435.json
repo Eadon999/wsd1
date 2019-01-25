@@ -1,0 +1,75 @@
+{
+    "name": "しっかり味の！ぶりの照り照り焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "naru＊café"
+    },
+    "image": "https://img.cpcdn.com/recipes/766435/464x260/68dde5117cbd4711dbabff5b7d9e0668.jpg?u=1158856&p=1263480191",
+    "datePublished": "2009-03-22",
+    "description": "しっかり味で、ふっくらしたぶり照りです(*^^)vお酒を入れ、蒸し焼きにするのがポイント！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大１．５"
+        },
+        {
+            "name": "☆生姜汁",
+            "quantity": "小１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "★味りん",
+            "quantity": "大２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を用意する。",
+        "☆印の調味料を入れ、１０分～１５分漬ける。\r\n（両面）",
+        "クッキングペーパーで軽く拭き取る。",
+        "サラダ油を入れ、両面を軽く焼き色が付く程度焼く。",
+        "酒をいれ、弱火で２分ほど、蒸し焼きにする。",
+        "★印の調味料を入れ、タレをかけながら、焼いていく。",
+        "タレの泡立ちが、トロトロになってきたら火を止める。",
+        "出来上がり。\r\nさあ召し上がれ\r\n（*^_^*）"
+    ],
+    "cookTime": null,
+    "recipe_id": "766435",
+    "advice": "酒で蒸し焼きにすると、ふっくらし上がりますよ。 こまめにタレをかけながら焼いてください。 ",
+    "history": "しっかり味のぶり照りが食べたくて！！！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "酒",
+        "醤油",
+        "生姜汁"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/766435/100x141c/c1ce7d41392ccd09205a68ecbc2bca7f.jpg?u=1158856&p=1263480191"
+}

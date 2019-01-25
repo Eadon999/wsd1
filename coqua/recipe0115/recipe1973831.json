@@ -1,0 +1,47 @@
+{
+    "name": "さっぱり美味しい！塩レモンチキン♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1973831/464x260/516447faa651346a5a83548d3efbd003.jpg?u=603745&p=1447762947",
+    "datePublished": "2012-09-27",
+    "description": "塩コショウとレモン汁だけでパパっと1品。簡単につくれて美味しいおかずです☆ご飯にはもちろん、お弁当にもぴったり♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "小さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を一口サイズに切ります。",
+        "ボウルに鶏肉とレモン汁を入れて手で良くもみます。",
+        "フライパンを温めて②を炒めます。",
+        "ある程度火が通ってきたら塩コショウを振ります。",
+        "しっかり火が通り、焼き色がついたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1973831",
+    "advice": "塩コショウは荒挽きのもの、または塩と黒こしょうに分けると見栄えもよくなります☆",
+    "history": "塩コショウだけじゃ物足りないので、レモンを加えてさっぱり仕上げてみました!!",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "レモン汁",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1973831/100x141c/e1c89cca8a305cb4b2e107856eb6988b.jpg?u=603745&p=1447762947"
+}

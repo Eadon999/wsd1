@@ -1,0 +1,51 @@
+{
+    "name": "里芋とイカの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ぷくっとぷくまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/1620118/464x260/a6a8fde76872b140d7c370be5a2007bb.jpg?u=2717390&p=1320657692",
+    "datePublished": "2011-11-08",
+    "description": "イカの味が染みた里芋♡とっても美味しいよ～。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "１袋"
+        },
+        {
+            "name": "イカ",
+            "quantity": "２はい"
+        },
+        {
+            "name": "★水",
+            "quantity": "3カップ"
+        },
+        {
+            "name": "★料理酒・みりん・砂糖・しょうゆ",
+            "quantity": "各大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋を適当な大きさに切って下ゆでします。\n\nID:1581864",
+        "イカは胴体は輪切り、足は２～３本ずつに分けます。",
+        "深めのお鍋に下ゆでした里芋と★を入れ、落としぶたをして中火で煮込みます。\n",
+        "10分ほど煮て里芋が柔らかくなったら、イカを入れ、再び落としぶたをして、火を強めて煮詰めます。",
+        "煮汁が減って里芋といかに味（色）が染みたらできあがり♪",
+        "＜姉妹品＞\n里芋煮\n\nID:1338542",
+        "＜姉妹品＞\n里芋のそぼろあんかけ\n\nID:1581453 \n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1620118",
+    "advice": "イカは煮込みすぎると固くなるので、里芋より後に入れて下さい。",
+    "history": "イカが固くならないように、でも味が染みるように考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋といかの煮物"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1620118/100x141c/55b6210f9556bb2431cf01c1d62ddbec.jpg?u=2717390&p=1320657692"
+}

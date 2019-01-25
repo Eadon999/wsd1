@@ -1,0 +1,58 @@
+{
+    "name": "麺つゆであったか♡簡単♬にゅうめん～",
+    "author": {
+        "@type": "Person",
+        "name": "わのなの"
+    },
+    "image": "https://img.cpcdn.com/recipes/1101422/464x260/86cf41968f857222d9300afe42f3aa27.jpg?u=1569939&p=1271429951",
+    "datePublished": "2010-04-17",
+    "description": "残ったそうめんでもOK！麺つゆ使って簡単に出来ます☆我が家では汁物としてご飯に添えたりもします♬１人ランチにも✿",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "１００g"
+        },
+        {
+            "name": "麺つゆ（３倍濃縮）",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "半本"
+        },
+        {
+            "name": "生姜汁",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんは茹で水洗いし水気をよくきっておく。\r\n※通常より３０秒程短めがお薦め☆ 半分に折って茹でると食べやすいです。",
+        "ちくわは輪切り、ねぎは小口切りにする。\r\n\r\n生姜はおろしておく。",
+        "鍋に麺つゆと水を入れて火にかける。\r\n\r\nフツフツしてきたらねぎ＆ちくわを入れる。",
+        "１分程したらそうめん、お好みで生姜汁を入れて３０秒煮たら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1101422",
+    "advice": "お好みでお好きな具をプラスしてもOKです。私はそうめんを茹でた鍋で",
+    "history": "家にある物でささっと☆",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/にゅうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にゅうめん めんつゆ",
+        "にゅうめん 簡単 めんつゆ",
+        "麺つゆ 汁物"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1101422/100x141c/3f421031a0258c45f727e9eee58705f7.jpg?u=1569939&p=1271429951"
+}

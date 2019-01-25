@@ -1,0 +1,55 @@
+{
+    "name": "☆マッシュルームのサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2636375/464x260/7227090679dbe39a330396dc2ba5737f.jpg?u=8803837&p=1400590320",
+    "datePublished": "2014-05-20",
+    "description": "さっと作れるシンプルな前菜",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "マッシュルーム",
+            "quantity": "１０個程度"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆すりおろしにんにく",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "マッシュルームをキッチンタオルなどで拭いて２～３ｍｍにスライスする。",
+        "ボウルに☆を混ぜ、スライスしたマッシュルームを入れて、\n\n塩胡椒で味を調えたら仕上げにパルメザンチーズをふる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2636375",
+    "advice": "シンプルなサラダだから、おいしいオリーブオイルと塩を使うと更に美味しくなるよ。分量は適当で。味をみながら調整してみてね。",
+    "history": "母から教わって以来、新鮮なマッシュルームが手に入ると必ず作るお気に入りレシピです。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/きのこ/マッシュルーム"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マッシュルーム サラダ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2636375/100x141c/e200b18ce9155b2f4308515abe67c64f.jpg?u=8803837&p=1400590320"
+}

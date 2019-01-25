@@ -1,0 +1,81 @@
+{
+    "name": "給食のナムル♪",
+    "author": {
+        "@type": "Person",
+        "name": "まいまいママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/341156/464x260/729a4477e1c6ab5178560bbb17d18aff.jpg?u=207714&p=1343562621",
+    "datePublished": "2007-03-09",
+    "description": "学校の給食だよりにのっていたレシピをつくりやすい分量にしました。野菜がいっぱい食べられます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ほうれんそう",
+            "quantity": "１束"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "★ねぎ",
+            "quantity": "１０ｃｍ"
+        },
+        {
+            "name": "★にんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★七味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしはさっとゆでる。　ほうれん草はゆでて食べやすい長さに切る。にんじんは千切りにしてゆでる。",
+        "ねぎはみじん切り　にんにくはすりおろす\n\n★を鍋に入れ煮立て冷ましておく。",
+        "ゆでた野菜とナムル液を混ぜ合わせる。",
+        "ごまをふってできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "341156",
+    "advice": "野菜の水切りをしっかりして下さい。　にんにくの臭いが気にならない方は　★を煮立てないで混ぜるだけでOKです。 ",
+    "history": "学校の給食だよりに給食のレシピがのってるんですが　その中でもこのナムルは簡単でおいしかったので載せてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "給食のナムル",
+        "給食 ナムル ほうれん草"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/341156/100x141c/05f98669efab1289f28e1f225f4b742f.jpg?u=207714&p=1343562621"
+}

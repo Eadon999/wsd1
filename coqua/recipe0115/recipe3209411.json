@@ -1,0 +1,64 @@
+{
+    "name": "大人気♪我が家の人参しりしり☆",
+    "author": {
+        "@type": "Person",
+        "name": "Sunny＊mom"
+    },
+    "image": "https://img.cpcdn.com/recipes/3209411/464x260/42ff20fef0441ef41d26dde0405d7758.jpg?u=2095379&p=1433079352",
+    "datePublished": "2015-05-31",
+    "description": "人参がとっても甘～い＾＾これなら、人参１本もペロリです♪人参苦手な旦那ちゃんもこれは大好きです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は皮を向いて千切りする。スライサーを使うと楽チンです♪",
+        "卵に醤油、だしの素、酒を入れて溶きほぐしておく。",
+        "フライパンをごま油をひいて、人参を投入。弱火でじっくりとしんなりするまで炒めます。",
+        "３）に２）の溶き卵を入れて、パラパラになるまで炒める。",
+        "最後に塩を全体にパラパラっとかけて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3209411",
+    "advice": "義母に作ってもらった人参しりしりの美味しさに感動～♪義母に教えてもらったレシピを我が家流に少し改良しました＾＾",
+    "history": "人参をじっくり炒めることで、甘みが引き出され、人参臭さも消えるように思います＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "卵",
+        "ごま油",
+        "醤油"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3209411/100x141c/30ff3de243c109380e2de5f739204156.jpg?u=2095379&p=1433079352"
+}

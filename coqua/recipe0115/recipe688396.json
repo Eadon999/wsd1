@@ -1,0 +1,63 @@
+{
+    "name": "簡単！タコ飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/688396/464x260/56b26979e03e84d3c5d20cab02ba92f8.jpg?u=921598&p=1401730858",
+    "datePublished": "2008-11-25",
+    "description": "とっても簡単！始めに煮てから炊くのがポイント☆タコの甘みも出て磯の香りが漂う炊き込みご飯に仕上がり美味しいですよぉ＾＾♪",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "蒸しだこ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "●水",
+            "quantity": "350ｃｃ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●かつおだしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "米",
+            "quantity": "2合"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に●の調味料を入れて煮立たせる。",
+        "1に、食べやすい大きさに切ったタコを入れて5分ほど煮込み、粗熱を取っておく。",
+        "研いだお米と、2を炊飯器に入れてセットし、炊き上がったら出来上がりです。"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "688396",
+    "advice": "先にタコを煮ることで臭みもなく、ご飯も均一に炊き上がります！ 3で、煮汁はお好みで加減して下さいねぇ♪",
+    "history": "蒸しだこを使ってタコ飯を作ってみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ飯"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/688396/100x141c/ca7a1281dc250784f2efb5e3494ce319.jpg?u=921598&p=1401730858"
+}

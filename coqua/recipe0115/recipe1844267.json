@@ -1,0 +1,50 @@
+{
+    "name": "【農家のレシピ】NEWオニオンスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1844267/464x260/757d50ecfa112e03d060f9ec86f5ee13.jpg?u=2513693&p=1339212427",
+    "datePublished": "2012-06-21",
+    "description": "新玉ねぎをすりおろして作る簡単・即席オニオンスープ。あめ色になるまで玉ねぎを炒めたオニオンスープの味なんですよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ（玉ねぎでも可）",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "コンソメ（固形）＊細かく刻んでおく",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにバターを熱し、その中にすりおろした玉ねぎを入れ中火で５分ねっとりするまで炒めます。",
+        "次に【A】を入れ煮立ったら完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1844267",
+    "advice": "普通の玉ねぎでも作れますが、新玉ねぎの方が甘くて美味しいですよ。",
+    "history": "いろんな野菜をすりおろして作る「みぞれスープ」を作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎスープ すりおろし"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1844267/100x141c/62fa137664569fcceaee9c2baad8e8f5.jpg?u=2513693&p=1339212427"
+}

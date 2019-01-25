@@ -1,0 +1,38 @@
+{
+    "name": "レンジで３分！塩昆布もやし（もや塩昆布）",
+    "author": {
+        "@type": "Person",
+        "name": "杏ans゛"
+    },
+    "image": "https://img.cpcdn.com/recipes/2855239/464x260/e8324cff4bce41e1819fb78b32aa59a7.jpg?u=4828193&p=1414372366",
+    "datePublished": "2014-10-27",
+    "description": "はい、チンして混ぜるだけです^_^;しかしこれが、中々旨いのです♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "モヤシ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "がさっと3～4つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "モヤシは袋の口を切り、電子レンジで袋ごと3分ほど加熱。器にあけ塩昆布と良く混ぜれば、できあがり♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2855239",
+    "advice": "好みでそばつゆ、七味唐辛子を適宜加えてもグー♪",
+    "history": "料理とはいえないシリーズ^_^;超簡単^_^; ですが、熱々でも冷やしてもシャキシャキ美味しい♪サラダ代わりにも酒の肴にもなる一品です♪もやし兄弟シリーズ３番目！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モヤシ",
+        "塩昆布"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2855239/100x141c/fbcf25440db9ff2f0d2c4fb1805a0e7c.jpg?u=4828193&p=1414372366"
+}

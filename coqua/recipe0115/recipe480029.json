@@ -1,0 +1,71 @@
+{
+    "name": "鶏のマヨ照り丼",
+    "author": {
+        "@type": "Person",
+        "name": "みうぴょん"
+    },
+    "image": "https://img.cpcdn.com/recipes/480029/464x260/dcbb22a5858cc3fdf3913184958e1316.jpg?u=616370&p=1214218190",
+    "datePublished": "2007-12-27",
+    "description": "照り焼き味がご飯に合う♪簡単なので忙しい時でもすぐ食べられます＾＾",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "キャベツorレタス",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "マヨネーズ・一味（お好みで）",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "どんぶり1杯分"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は適当な大きさに切り、塩コショウをしてフライパンで皮から焼く。皮が焼けたら裏返し酒を入れて蓋をし、弱火で蒸し焼きにする。",
+        "キャベツは千切りにしておく。鶏肉に火が通ったら●の材料を入れ、よくからめる。丼にご飯、キャベツ、肉の順にのせ、お好みでマヨネーズ、一味をかける。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "480029",
+    "advice": "豚肉でも美味しいです。",
+    "history": "年末で忙しい時に簡単に作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏マヨ 丼"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/480029/100x141c/0b88a91dfa8718517b178bcf85850fd1.jpg?u=616370&p=1214218190"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "白菜とにらのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "yakopan♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1020766/464x260/7127d7b211fa6c9be7d558f1f9eb727c.jpg?u=316626&p=1264640283",
+    "datePublished": "2010-01-28",
+    "description": "超かんたん！白菜のおいしい季節のちょこっと一品です。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "4～5枚"
+        },
+        {
+            "name": "にら",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "にんにくすりおろし",
+            "quantity": "1/2片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "白炒りゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜とにらはざく切りにして、さっと茹でる。",
+        "ボウルに調味料の材料を混ぜ、1）を入れてあえる。",
+        "器に盛り、ゴマをふりかけて完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1020766",
+    "advice": "",
+    "history": "寒い季節には甘みたっぷりのおいしい白菜。鍋に使ったあとの、ちょこっと残りを無駄なくおいしいレシピに大変身。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ニラ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1020766/100x141c/a3114c5e56f1e0d23ef77a8e28a4c13a.jpg?u=316626&p=1264640283"
+}

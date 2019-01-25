@@ -1,0 +1,53 @@
+{
+    "name": "小松菜とさつま揚げの炒め物♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2725644/464x260/fcd739344ea6090f4d51a55ae74b5e1e.jpg?u=9552524&p=1406346874",
+    "datePublished": "2014-07-26",
+    "description": "簡単♪あと一品欲しいな～って時にすぐできる炒め物です(^^♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束（２００g）"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "２枚（１３０g）"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はサッと塩茹でし４㎝長さに切って水気をしっかり絞ります。さつま揚げは１㎝幅に切ります。",
+        "フライパンにごま油を熱しさつま揚げをサッと炒め小松菜を加えて炒め合わせます。",
+        "塩コショウを振り鍋肌からしょう油を加えて炒め合わせます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2725644",
+    "advice": "小松菜は茹ですぎないでね(^^♪シャキシャキ感が残るようにサッと炒め合わせます☆",
+    "history": "あと一品！って時によく作ります(^^♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 さつま揚げ 炒め",
+        "小松菜 さつま揚げ"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2725644/100x141c/01a4767fa4da9f472483449fd938e6e6.jpg?u=9552524&p=1406346874"
+}

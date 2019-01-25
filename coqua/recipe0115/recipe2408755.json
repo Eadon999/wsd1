@@ -1,0 +1,64 @@
+{
+    "name": "オッサンの韓国風大根田楽",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2408755/464x260/8223c6ac8d3c0209f3ce1cd525fc0c60.jpg?u=3323767&p=1384658838",
+    "datePublished": "2013-11-17",
+    "description": "コチュジャン入り味噌を添えた大根の田楽です。コチュジャンを使ったので、勝手に韓国風と呼んでます☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "８センチくらい"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "◎味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎コチュジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎ゴマ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "◎ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥いて1～2cmの輪切りにし、だしの素を入れた水に入れ、20～25分茹でます。",
+        "◎を全て入れて混ぜます。",
+        "１の大根に２の味噌をかけたら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2408755",
+    "advice": "大根を茹で時間は、串がスーっと通るくらいが目安です。（水分が半分くらいになってます）茹でる水の量は、大根に被るくらいです。オレは、味噌：コチュジャン＝２：１にしていますが、お好みで分量を調整して下さい。",
+    "history": "田楽の味噌を韓国風にしたら、どんな感じになるかと思って、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "その他/発酵食品・発酵調味料/味噌（みそ）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 田楽"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2408755/100x141c/daec33d6522d66e064f42b2f514babea.jpg?u=3323767&p=1384658838"
+}

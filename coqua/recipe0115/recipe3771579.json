@@ -1,0 +1,57 @@
+{
+    "name": "鶏ささみでバジルレモン唐揚げ 激ウマ！",
+    "author": {
+        "@type": "Person",
+        "name": "じゅねち"
+    },
+    "image": "https://img.cpcdn.com/recipes/3771579/464x260/e2138740b1ae90e4fd14076b6533f57a.jpg?u=7820170&p=1458982060",
+    "datePublished": "2016-03-26",
+    "description": "漬け込み時間無しの混ぜて揚げるだけ！バジルとレモンのコラボ唐揚げです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "330g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊S&B味付塩こしょう",
+            "quantity": "小さじ1強"
+        },
+        {
+            "name": "＊乾燥バジル",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊ポッカレモン(レモンを絞ってもO.K)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ささみのスジを取り、2センチぐらいの幅に切ってボールに入れる。",
+        "＊の調味料を入れ、全体に味が絡まる様によく混ぜ合わせる。",
+        "ボールに片栗粉を入れ全体に粉が付くように混ぜ、180度の油で揚げていく。",
+        "3〜4分揚げ、写真ぐらいの揚げ色がついたら完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3771579",
+    "advice": "バジルとレモンの量はお好みで調整して下さい！片栗粉は少し多いぐらいが、カリカリに揚がりますよ♪",
+    "history": "冷凍食品で食べた時に美味しいと思い、自分なりに作ってみました^ ^",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみバジル",
+        "ささみ 漬け込み"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3771579/100x141c/c0948944903caa2c5948eca0f8ab107d.jpg?u=7820170&p=1458982060"
+}

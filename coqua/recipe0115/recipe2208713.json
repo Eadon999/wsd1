@@ -1,0 +1,50 @@
+{
+    "name": "お弁当にも❤豆苗とチーズの卵焼き❤",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/2208713/464x260/31d41783c63987cef9a3b46e9191ec28.jpg?u=2619264&p=1367360171",
+    "datePublished": "2013-05-01",
+    "description": "色がきれい&チーズの旨み♪簡単なのでお弁当にもいいよ✿",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "豆苗",
+            "quantity": "30g程"
+        },
+        {
+            "name": "プロセスチーズ",
+            "quantity": "20g"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵をほぐして塩としょうゆを混ぜ、ざく切りの豆苗とサイコロ状に切ったチーズを入れ、ざっと混ぜる。",
+        "卵焼き器に薄く油をひき、①を3~4回に分けて流し入れ、巻きながら焼きあげる(弱~中火でゆっくりと)"
+    ],
+    "cookTime": null,
+    "recipe_id": "2208713",
+    "advice": "醤油をちょっと入れると味が締まって香ばしいような気が…する♪",
+    "history": "ノーマルタイプの卵焼きに飽きた時に♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とうみょう 玉子焼き"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2208713/100x141c/a30562333bf438dcd50309ff848a0807.jpg?u=2619264&p=1367360171"
+}

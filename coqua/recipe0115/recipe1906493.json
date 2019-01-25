@@ -1,0 +1,51 @@
+{
+    "name": "旨塩ツナポテト☆おつまみにも♪",
+    "author": {
+        "@type": "Person",
+        "name": "姫太郎ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1906493/464x260/5c82e1a516ae9061c5afe633ba833615.jpg?u=4407852&p=1344352206",
+    "datePublished": "2012-08-08",
+    "description": "ツナの旨味がポテトに絡んで美味ー(^-^) ビールのお供にもバッチリ☆ 超簡単なのに、デリな味です♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "2個"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は乱切りにして茹で、茹で終えたら湯を捨て、少し空炒りして水分をとばす。",
+        "ツナ、ごま油を加えて、軽く炒める。じゃが芋の外側が少し崩れてきたら、醤油を入れ塩こしょうで味を整える。\n",
+        "飾りにねぎやアサツキを散らして完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1906493",
+    "advice": "じゃが芋が粉ふき状態になると、味がからんでおいしい。ツナも軽く炒めると脂くささがとびます。",
+    "history": "パパのビールのお供にもなって、子供のおかずにもなる簡単メニュー",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ じゃがいも"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/1906493/100x141c/e7189b0f8ef006dd790218941b51df41.jpg?u=4407852&p=1344352206"
+}

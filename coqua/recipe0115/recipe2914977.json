@@ -1,0 +1,66 @@
+{
+    "name": "水煮大豆で簡単に♪ふっくら昆布豆",
+    "author": {
+        "@type": "Person",
+        "name": "ポテチ犬"
+    },
+    "image": "https://img.cpcdn.com/recipes/2914977/464x260/73893335d50166238747cfad80858583.jpg?u=7027453&p=1417749321",
+    "datePublished": "2014-12-05",
+    "description": "お鍋に入れたら放っておくだけｗ。保存がきいて便利な煮豆です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水煮大豆",
+            "quantity": "100g"
+        },
+        {
+            "name": "昆布",
+            "quantity": "20センチ分"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "水",
+            "quantity": "1/3カップ"
+        },
+        {
+            "name": "■みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は皮を剥き、サイの目に切る。昆布はキッチンバサミで1センチ角に切る。",
+        "鍋に水と(1)の昆布と人参と水煮大豆を入れ火にかける。沸騰したら弱火にし、■を加えて落とし蓋をして5～6分煮る。",
+        "最後に醤油を回し入れ、3分煮て出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2914977",
+    "advice": "醤油は最後に入れてください！",
+    "history": "水煮大豆が冷蔵庫で眠っていたので・・・急遽作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/豆類/大豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "昆布豆",
+        "水煮大豆 煮豆",
+        "大豆の水煮 保存",
+        "煮豆 保存"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2914977/100x141c/94b962c45fb5a650c650d364289bc2c7.jpg?u=7027453&p=1417749321"
+}

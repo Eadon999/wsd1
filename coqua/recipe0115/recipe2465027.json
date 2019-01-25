@@ -1,0 +1,61 @@
+{
+    "name": "クリーミー♪人参と林檎のマスタードサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2465027/464x260/cedb0eeb3ff9980ac96756d663b14663.jpg?u=3243126&p=1535242792",
+    "datePublished": "2014-01-17",
+    "description": "クリーミーでほんのり甘めのマスタードドレッシングで和えたサラダですっ。朝食にいかがでしょうか♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参(せん切り)",
+            "quantity": "1本(100ｇ～)"
+        },
+        {
+            "name": "林檎(スライス)",
+            "quantity": "1/4本(80ｇ～)"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "●牛乳",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "●粒マスタード",
+            "quantity": "小さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "●の調味料を混ぜておきます。",
+        "せん切りにした人参と、スライスして細切りにしたリンゴに塩をふってもんでおきます。",
+        "水分が出てきたら、しっかり絞って①を和えれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2465027",
+    "advice": "塩もみした人参とリンゴから水分が出てきたら、しっかりと絞って水気を切って下さい。",
+    "history": "たくさん頂いた人参とりんごの消費に♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "りんご サラダ",
+        "にんじん　リンゴ　サラダ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/2465027/100x141c/3a2956e4e994034bd24a3a5de5539945.jpg?u=3243126&p=1535242792"
+}

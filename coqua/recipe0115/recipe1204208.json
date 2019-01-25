@@ -1,0 +1,51 @@
+{
+    "name": "簡単★ササミの照り焼き　弁当",
+    "author": {
+        "@type": "Person",
+        "name": "maa1012"
+    },
+    "image": "https://img.cpcdn.com/recipes/1204208/464x260/439d5295346f092d9c652f450a97154b.jpg?u=1993018&p=1281016388",
+    "datePublished": "2010-08-05",
+    "description": "フライパンで作るササミの照り焼きです、甘辛味でご飯に合います♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ササミ",
+            "quantity": "４本"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○日本酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミの筋をとり、半分に切る。フライパンにサラダ油小さじ２を熱して、弱めの中火で２分焼く。",
+        "裏返してホイルをかぶせて火を弱めて３分焼く。",
+        "○調味料を入れて、汁気がなくなるまで煮からめる。（弱めの中火）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1204208",
+    "advice": "照りをつける時、こがさないように気を付けます。",
+    "history": "母がよく作ってくれたお弁当のおかずです",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 照り焼き 簡単"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1204208/100x141c/447ef0f6ad3f967506f77b3cb5ea5527.jpg?u=1993018&p=1281016388"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ぷるん♪お豆腐の照り焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/3372331/464x260/993c322b0a83c11f3bb1476fe82c3c59.jpg?u=7113147&p=1440926064",
+    "datePublished": "2015-08-30",
+    "description": "肉団子の照り焼きソースで☆とろっ、ぷるんなのにしっかり味でオカズになりますよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "味醂",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙2"
+        }
+    ],
+    "recipeInstructions": [
+        "お豆腐を一口大にカットして、クッキングシートなどで水切りをします。",
+        "片栗粉を水切りをした豆腐にまぶします。",
+        "胡麻油などお好きなオイルで焼き、火が通ったら、照り焼きソースの材料を加えて混ぜながら、味を染み込ませます。",
+        "お皿に盛りつけたら完成です☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3372331",
+    "advice": "目を離すと焦げてしまいますので、手を休めないでください☆",
+    "history": "主人の好きな味で、ヘルシーなオカズを食べさせたくて考えました(^-^)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "片栗粉",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/3372331/100x141c/96fd19feb501915772a6a7dcc5d583f5.jpg?u=7113147&p=1440926064"
+}

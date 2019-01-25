@@ -1,0 +1,51 @@
+{
+    "name": "給食で大人気☆ほうれん草のマヨネーズ和え",
+    "author": {
+        "@type": "Person",
+        "name": "みかん茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/1099325/464x260/da5f37a5395d62c8527007826c8684b8.jpg?u=1161290&p=1346594802",
+    "datePublished": "2010-04-14",
+    "description": "とっても簡単だけどなぜか美味しい！秘密は“ごま油”です♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束（200ｇ）"
+        },
+        {
+            "name": "かまぼこ",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1,5（18ｇ）"
+        },
+        {
+            "name": "めんつゆ（ストレート）",
+            "quantity": "小さじ1/2（3ｇ）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/2（2ｇ）"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を熱湯に根元から入れて手早く茹でる。茹であがったら冷水に取ってからよくしぼり、３cmに切る。",
+        "かまぼこは食べやすく短冊に切る。",
+        "１と２をマヨネーズ・めんつゆ・ごま油で和えて、出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1099325",
+    "advice": "薄味だけど、ごま油の風味で美味しく食べられます。減塩食にもオススメ☆",
+    "history": "学校給食のリクエストメニューでいつもランクインしてました。ふと思い出して再現してみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草のマヨネーズ和え"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/1099325/100x141c/3c67b46c6635c45343470d8e983ba79d.jpg?u=1161290&p=1346594802"
+}

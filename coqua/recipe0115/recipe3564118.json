@@ -1,0 +1,50 @@
+{
+    "name": "豚肉とハヤトウリのマヨ味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Cafe77"
+    },
+    "image": "https://img.cpcdn.com/recipes/3564118/464x260/b9bc0f1d913d521fbdde500f927c028b.jpg?u=13360571&p=1449666514",
+    "datePublished": "2015-12-09",
+    "description": "マヨと味噌のコクが、淡白な素材とよく合います。ハヤトウリ以外にも、冬瓜や胡瓜など、普通の瓜でも美味しいです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉(こま切れ)",
+            "quantity": "100g位"
+        },
+        {
+            "name": "ハヤトウリ",
+            "quantity": "100g位"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1半位"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ハヤトウリの皮を剥き、食べやすい大きさに切る。",
+        "フライパンの上でマヨネーズを熱する。",
+        "マヨネーズが溶けて油状になったら、ハヤトウリを入れて中火で炒める。",
+        "豚肉を入れて更に炒める。",
+        "豚肉に火が通ったら、味噌を加えて軽く和え、火を止めて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3564118",
+    "advice": "味噌を入れた後は、あまり長く加熱しないように。",
+    "history": "淡白なハヤトウリをこってり味で食べようと思って。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はやとうり 豚肉",
+        "はやとうり"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3564118/100x141c/1a703862f53ec5664507694debbca79b.jpg?u=13360571&p=1449666514"
+}

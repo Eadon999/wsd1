@@ -1,0 +1,52 @@
+{
+    "name": "クレソンのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2917887/464x260/42b39d3419ec1494a9c45755996d2d48.jpg?u=3099986&p=1417960845",
+    "datePublished": "2014-12-07",
+    "description": "かんたん。おいしい。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "クレソン",
+            "quantity": "1束"
+        },
+        {
+            "name": "⚫️だし汁",
+            "quantity": "60cc"
+        },
+        {
+            "name": "⚫️濃口しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "⚫️みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "⚫️の調味料は合わせておく。",
+        "クレソン。1束。170円。(税込183円)",
+        "鍋に湯を沸かし、クレソンを茹でる。",
+        "3を水に入れて冷ます。",
+        "手で水気を切り、3センチくらいに切る。",
+        "⚫️の調味料にひたす。",
+        "皿に盛る。",
+        "2016.5.4クックパットの人気検索でトップ１０に入りました。\n8位でした。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2917887",
+    "advice": "水気を適度に切る。",
+    "history": "新鮮なクレソンを買ったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/クレソン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "クレソン おひたし"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2917887/100x141c/4f2b10c749f7305c4b97caf65e8f0b70.jpg?u=3099986&p=1417960845"
+}

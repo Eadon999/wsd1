@@ -1,0 +1,54 @@
+{
+    "name": "めんつゆだけで★高野豆腐とツナの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "manamon"
+    },
+    "image": "https://img.cpcdn.com/recipes/847073/464x260/af4ef00238e959691a42b4419e236c68.jpg?u=1144126&p=1263357066",
+    "datePublished": "2009-06-24",
+    "description": "めんつゆとツナの汁気が合わさって美味しい煮物になりました♪片栗粉のとろみでツルツル食べられちゃいます＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "高野豆腐",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★めんつゆ",
+            "quantity": "50ml（3倍濃縮）"
+        },
+        {
+            "name": "★水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "高野豆腐は80度くらいの熱湯に2～3分浸して戻す。\n流水で洗いながら水気を絞り（火傷に注意！）食べやすい大きさに切る",
+        "鍋に★を入れ沸騰したら、高野豆腐とツナを汁ごと入れ蓋をし、弱火で15分ほど煮る",
+        "最後に水溶き片栗粉を回し入れ、とろみがついたら出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "847073",
+    "advice": "写真は彩りのためにほうれん草も加えました＾＾インゲンや絹さや、にんじん等を一緒に煮ても美味しいです。",
+    "history": "大好きな高野豆腐の煮物を簡単に♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "高野豆腐",
+        "ツナ缶",
+        "めんつゆ",
+        "水"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/847073/100x141c/d31445b93884d2955cfacaa6a1662315.jpg?u=1144126&p=1263357066"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "シメジとちくわのマヨ醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "メーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/284642/464x260/8a3cd8ae1eaf85c38c7f18a012e4d6ab.jpg?u=264499&p=1214213708",
+    "datePublished": "2006-09-25",
+    "description": "超簡単で、お弁当のおかずや、ボリュームが足りないときに夕飯に。。※かまぼこでのレシピを載せていたのですが、ちくわで作った写真をとれたので変更してしまいました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "シメジ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "シメジは食べやすい大きさに分けておく。ちくわは細切りにする。",
+        "フライパンにマヨネーズを入れて、マヨネーズの油分でシメジちくわを炒める。",
+        "火が通ったら、醤油をまわしかけこしょうをかけて、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "284642",
+    "advice": "特にありません。お醤油の量はお好みで。",
+    "history": "ふと、こんなレシピもあったなあ・・って思い出したので、アップしてみました。マヨと醤油の相性がばっちり、癖になります。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "シメジ",
+        "ちくわ",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/284642/100x141c/b471bf7b7e5147a71f9407be28072003.jpg?u=264499&p=1214213708"
+}

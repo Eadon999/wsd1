@@ -1,0 +1,52 @@
+{
+    "name": "⭐シーザードレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "Amalka"
+    },
+    "image": "https://img.cpcdn.com/recipes/3982117/464x260/0862e88bc623976464088063d15635d6.jpg?u=5539655&p=1469462690",
+    "datePublished": "2016-07-27",
+    "description": "いつものサラダにシーザードレッシング♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "マヨネ-ズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "にんにくすりおろし",
+            "quantity": "1/2個分"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "すべての材料を入れて混ぜます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3982117",
+    "advice": "写真は2倍の量で作ってます。",
+    "history": "よく外食すると注文するシーザーサラダですが、自宅でも気軽に食べれるよう考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにくすりおろし",
+        "粉チーズ",
+        "レモン汁",
+        "白ワイン"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3982117/100x141c/659ef3267e01553b8c7b7d9c15e40e6e.jpg?u=5539655&p=1469462690"
+}

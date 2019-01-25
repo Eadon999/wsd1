@@ -1,0 +1,50 @@
+{
+    "name": "枝豆とくずし豆腐のおろしポン酢あえ",
+    "author": {
+        "@type": "Person",
+        "name": "nao-mi"
+    },
+    "image": "https://img.cpcdn.com/recipes/580096/464x260/a75cb0556535bdddfc6578faae83f687.jpg?u=542585&p=1215133434",
+    "datePublished": "2008-05-30",
+    "description": "くずした豆腐にぷりぷり枝豆と大根おろしがよく合います。ポン酢でさっぱりと♪★2008/06/28　話題入りをさせていただきました❤ 皆さま、どうもありがとうございました。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "枝豆",
+            "quantity": "（さや付きで）200g程度"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "大根",
+            "quantity": "約10cm"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "枝豆を茹でてさやから豆を取り出す。豆腐は水切りしておく。\r\n大根はすりおろす。",
+        "豆腐をくずしながら、枝豆と汁気をきった大根おろしを加え和える。",
+        "ポン酢をかけて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "580096",
+    "advice": "冷凍枝豆やむき枝豆を使われるとより簡単です。私は枝豆大好きなので、いっぱい入れるのが好きですが、枝豆の量や大根おろしはお好みで加減してくださいね♪",
+    "history": "夏はやっぱりさっぱりしたものが食べたくて、お豆腐をヘルシーで美味しくいただきたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "枝豆",
+        "木綿豆腐",
+        "大根",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/580096/100x141c/3587bb2d59cf8187c07c668cc4e305c1.jpg?u=542585&p=1215133434"
+}

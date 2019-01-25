@@ -1,0 +1,64 @@
+{
+    "name": "大根のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "アキコフスキー"
+    },
+    "image": "https://img.cpcdn.com/recipes/437790/464x260/c26230dcfe8b04d36636eb4d12346bb1.jpg?u=543840&p=1214420087",
+    "datePublished": "2007-10-02",
+    "description": "ころころのお大根が、美味しいスープを吸っています。うちの子供が食べられる大根レシピ。 ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "大きいもの６ｃｍ分"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２房"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "固形ブイヨン",
+            "quantity": "２個"
+        },
+        {
+            "name": "水",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根、人参、しめじは\r\n１ｃｍのさいの目に、ベーコンは\r\n１ｃｍ幅に切る。",
+        "鍋に①と固形ブイヨン、水を入れ強火にかけ、沸騰したら弱火にし、アクをすくいながら約１５分コトコト煮込む。",
+        "大根と人参が柔らかくなったら火を止めて、蓋をしたまま２０分ほど冷まして味をなじませる。塩･こしょうで味を調え、パセリを振る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "437790",
+    "advice": "油で炒めない事と、水から煮る事で、優しい味に仕上がります。",
+    "history": "和風の大根料理全般が家族に不評だったので、コンソメで試してみたら好評",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 コンソメスープ",
+        "大根 スープ コンソメ"
+    ],
+    "tsukurepo_count": "154",
+    "thumbnail": "https://img.cpcdn.com/recipes/437790/100x141c/1cfc3b3ab858af5cd6c03ab799ab0acd.jpg?u=543840&p=1214420087"
+}

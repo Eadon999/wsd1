@@ -1,0 +1,43 @@
+{
+    "name": "簡単！キャベツのしょうがあえ",
+    "author": {
+        "@type": "Person",
+        "name": "MrsYummy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1311445/464x260/f22502df43bb25a31f499d018b04326d.jpg?u=2633450&p=1292659570",
+    "datePublished": "2010-12-18",
+    "description": "２０１１/７/２６、レシピの記載に変更あり。しょうがの味がたまりません。２０１１/７/２７話題入り②　感謝です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３００グラム"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "大きめの１かけ"
+        },
+        {
+            "name": "しお",
+            "quantity": "小さじ１/２～小さじ１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切り、しょうがを細かいみじん切りにします。",
+        "１としおをあわせ、よくまぜ、冷蔵庫で１５分ぐらい置いて、出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1311445",
+    "advice": "しょうがの量は好みで調節してくださいね。お漬物でないので最後にぱぱっと作ってください。",
+    "history": "母が作っていたのをまねしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツしょうが"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1311445/100x141c/324b97c3653fbf0a9770d46b57744470.jpg?u=2633450&p=1292659570"
+}

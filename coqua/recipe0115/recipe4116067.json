@@ -1,0 +1,60 @@
+{
+    "name": "* お鍋でほくほく♪ さつまいもご飯♡",
+    "author": {
+        "@type": "Person",
+        "name": "♡Alice♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/4116067/464x260/9989fd5f266723f2adbc3fe85d6dbe9c.jpg?u=2286688&p=1476152389",
+    "datePublished": "2016-10-24",
+    "description": "厚手のお鍋で、ホクホクのさつまいもご飯を作ってみました♪",
+    "recipeYield": "4人",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "250ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "350cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "米をといで鍋に入れ、たっぷりの水に30分浸す。\nさつまいもは、1.5cmの角切りにカットしボウルに入れ、水に10分浸す。",
+        "米の水気を切り鍋に入れ、水・酒・みりん・塩を入れ混ぜる。\nその上に、水気を切ったさつまいもをのせる。",
+        "蓋をして中火にかける。沸騰したら弱火にして13分炊き、火を止めて15分蒸らす。",
+        "しゃもじで混ぜて器に盛り、黒ゴマをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4116067",
+    "advice": "",
+    "history": "さつまいもご飯を、厚手のお鍋で炊くと美味しく炊けそうなので、作ってみました♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいもご飯 鍋"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4116067/100x141c/426b562185fdb770223d4f5597a59d68.jpg?u=2286688&p=1476152389"
+}

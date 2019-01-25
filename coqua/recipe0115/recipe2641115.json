@@ -1,0 +1,54 @@
+{
+    "name": "明太子と豆腐の簡単グラタン",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2641115/464x260/09538e5fd9a284952ad6edc3cae9ddb7.jpg?u=822079&p=1400901242",
+    "datePublished": "2014-05-24",
+    "description": "まぜまぜしてのっけてチンするだけです＾＾",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "明太子",
+            "quantity": "1腹"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "おおさじ3"
+        },
+        {
+            "name": "牛乳(豆乳)",
+            "quantity": "おおさじ1"
+        },
+        {
+            "name": "チーズ(とろけるタイプ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1丁~2丁"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は水切りしておく。とうふを4等分ほぐし耐熱容器に盛る。",
+        "明太子　マヨネーズ　牛乳を混ぜ合わせる。1の豆腐にかけチーズをのせレンジかトースターでチン。",
+        "しあげにパセリなど、葱でも美味しいです＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "2641115",
+    "advice": "とうふは崩したほうが味がしみこみおいしいです＾＾",
+    "history": "いつものおつまみ♪こどもも大好き☆たらこでもおｋ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太子",
+        "マヨネーズ",
+        "牛乳",
+        "チーズ"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2641115/100x141c/89b425b19ae4fa617713a75072cade15.jpg?u=822079&p=1400901242"
+}

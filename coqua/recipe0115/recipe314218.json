@@ -1,0 +1,67 @@
+{
+    "name": "鶏　大根　白菜　　・・・ダンダン鍋！",
+    "author": {
+        "@type": "Person",
+        "name": "kingkin"
+    },
+    "image": "https://img.cpcdn.com/recipes/314218/464x260/28e4e06bdb22184a58e89a4b26c5ae6b.jpg?u=257629&p=1214214373",
+    "datePublished": "2006-12-27",
+    "description": "圧力鍋で超～～～簡単！！調味料は塩と酒のみです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "１０本"
+        },
+        {
+            "name": "大根",
+            "quantity": "１０センチ"
+        },
+        {
+            "name": "白菜",
+            "quantity": "１/８個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小匙１～２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "水",
+            "quantity": "５００cc"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "手羽元を熱湯に入れ３分ほど茹で　灰汁が出るのでお湯を捨てザルにあげる。",
+        "圧力鍋に水５００ccをいれ　厚めのイチョウ切りにした大根をまず入れる。",
+        "その上に手羽元をいれ　適当な大きさに切った白菜をいれ\r\n塩を振り　酒をかける。",
+        "加熱１分で自然放置！！出来上がり～～～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "314218",
+    "advice": "手羽元を最初に茹でると綺麗なスープになるので　面倒でも茹でてください。",
+    "history": "大掃除とかで忙しく時間が無かったので　短時間で出来るメニューを作りました。　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜大根鍋",
+        "大根 鶏肉 白菜 鍋",
+        "大根 鶏肉 鍋",
+        "白菜 鶏肉 鍋"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/314218/100x141c/adbbbb8460cd2e1e17248b02eb579569.jpg?u=257629&p=1214214373"
+}

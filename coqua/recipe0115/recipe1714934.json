@@ -1,0 +1,57 @@
+{
+    "name": "鶏そぼろ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1714934/464x260/5b43043060405d419152bcf823c8ce05.jpg?u=2513693&p=1329831667",
+    "datePublished": "2012-02-23",
+    "description": "冷凍も出来る鶏そぼろ。常備しておくと便利ですよ。ご飯の上に乗せると美味しいのでどんぶりに最適です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏ミンチ肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "しょうがの絞り汁",
+            "quantity": "１かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に材料全てを入れて中火にかけます。菜箸を４，５本使ってよくかき混ぜながら水気がなくなってぽろぽろになるまで煮て完成です",
+        "玉子そぼろを追加して２色丼。レシピはこちら↓\nレシピID:1714939 "
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1714934",
+    "advice": "必ず材料全てを鍋に入れてから火にかけてくださいね。そうするとポロポロの鶏そぼろが出来ますよ。",
+    "history": "冷凍保存できる鶏そぼろ。味付けは濃い目にしてご飯に乗せて食べると美味しい味付けにしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ミンチ肉",
+        "醤油",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/1714934/100x141c/76290bcffc48452476b3c9936f38d7f2.jpg?u=2513693&p=1329831667"
+}

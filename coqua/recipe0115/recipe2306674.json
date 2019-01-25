@@ -1,0 +1,54 @@
+{
+    "name": "シンプルなオクラ",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2306674/464x260/03176fba2d898ed291729603d4f5d389.jpg?u=6957661&p=1380867682",
+    "datePublished": "2013-08-05",
+    "description": "2014/8/30話題入り有難うございますネバネバオクラに元気を貰いましょう♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "10本"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大きい物は半分に切る(素焼きの場合)。\n茹でる場合は茹でてから切る。",
+        "フライパンにオクラを並べ弱火にかけ裏返しながらしんなりと焼く。\n(茹でる場合は沸騰させた鍋に塩一つまみ入れ２分位)",
+        "熱いうちに☆を合わせたボールに入れ軽く混ぜる。\n器に盛って鰹節をかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2306674",
+    "advice": "素焼きでも茹でてもどちらでも美味しいです。",
+    "history": "オクラをシンプルに味わう為に♬2016/5/4 調味料見直しましたm(_ _)m",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "醤油",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/2306674/100x141c/68bb64074a066f11e2f835b26daad422.jpg?u=6957661&p=1380867682"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "簡単定番☆きんぴらごぼう☆",
+    "author": {
+        "@type": "Person",
+        "name": "kimisunsun"
+    },
+    "image": "https://img.cpcdn.com/recipes/4310101/464x260/d1422b41e43642c83c716a444c496e9b.jpg?u=15835514&p=1485337617",
+    "datePublished": "2017-01-25",
+    "description": "我が家の定番家庭料理のきんぴらごぼう。子供もパクパク食べてくれます。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "人参の2倍位の量"
+        },
+        {
+            "name": "人参",
+            "quantity": "約8㎝"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "一味か七味とうがらし",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうを千切りにし、アク抜きをする。人参もごぼうと同じサイズで千切りにする。ごぼうと人参は4㎝くらいが食べやすいかなと。",
+        "中火で人参から炒め、油がまわれば、ごぼうも入れ、油がまわる程度で調味料入れる。",
+        "調味料を入れたら水分が8割くらい飛べばOK。最後にゴマ油を入れ、ゴマとお好みで一味か七味のとうがらしをどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4310101",
+    "advice": "我が家のきんぴらごぼうは千切り派です。ごぼうの食感が大事なので、炒めすぎ注意です！",
+    "history": "食卓に並ぶ頻度が高い、定番のきんぴらごぼう。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "人参",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4310101/100x141c/1f24152c29b5c8e549aec87aab3e3a3c.jpg?u=15835514&p=1485337617"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "きのこ玉子炒め",
+    "author": {
+        "@type": "Person",
+        "name": "やまうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/750914/464x260/7f61922ff478d8d1c9f198e777f9adfb.jpg?u=256204&p=1236390048",
+    "datePublished": "2009-03-10",
+    "description": "ふわふわ玉子ときのこをお味噌で炒めてみました。お酢のおかげか？意外にさっぱり。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "１袋（２本）"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "○味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "あれば少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは適当にほぐし、エリンギも食べやすいように切っておく。 \r\n卵は溶いておく。 \r\n○の調味料をあわせておく。",
+        "フライパンにごま油を熱し、卵を半熟に炒めいったん取り出す。",
+        "そのままのフライパンに油を少量足し、きのこを炒める。 \r\n",
+        "しんなりしてきたら、卵と○の調味料を入れ、軽く混ぜ合わせて出来上り。\r\nお好みで青ねぎを振りかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "750914",
+    "advice": "きのこはお好きなものをお使いください。我が家の味噌は出汁入りです。お好みで豆板醤やコチュジャン等入れてもいいと思います。",
+    "history": "きのこが大好きなので、メインになるように卵と炒めてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "エリンギ",
+        "卵",
+        "味噌"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/750914/100x141c/ae57b2d333bb4cbf8bed818794e4a2b0.jpg?u=256204&p=1236390048"
+}

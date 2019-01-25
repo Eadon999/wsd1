@@ -1,0 +1,74 @@
+{
+    "name": "初めてでも簡単♪基本の麻婆豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3215682/464x260/88c5cce08cfa7055938d444abd1c9d39.jpg?u=4376699&p=1433347031",
+    "datePublished": "2015-06-04",
+    "description": "甜麺醤を使った本格麻婆豆腐でも簡単♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(150g)",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "生姜(チューブ)",
+            "quantity": "5mm"
+        },
+        {
+            "name": "ねぎ(みじん切り)",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "テンメンジャン",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油、酒、砂糖",
+            "quantity": "各小さじ1"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        }
+    ],
+    "recipeInstructions": [
+        "■豆腐の水切り\n豆腐をサイの目に切って耐熱ボールにキッチンペーパーを敷いて乗せレンジ600w1分半チンして放置",
+        "油少々で肉にんにくしょうがを2分程炒め\n豆腐とタレとみじん切りのネギを加え2分程煮て水溶き片栗粉でとろみをつける"
+    ],
+    "cookTime": null,
+    "recipe_id": "3215682",
+    "advice": "豆板醤の量はお好みで♪タレにニンニク(チューブ5mm)はお好みで！最後にみじん切りのねぎを飾りに！",
+    "history": "市販のたれに負けない麻婆豆腐に挑戦",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/麻婆豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麻婆豆腐 基本"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/3215682/100x141c/a3b7e1cd667955aefba09c648bc7b42a.jpg?u=4376699&p=1433347031"
+}

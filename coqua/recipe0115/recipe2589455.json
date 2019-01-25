@@ -1,0 +1,43 @@
+{
+    "name": "簡単☆塩麹でカブの浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ひくぼう"
+    },
+    "image": "https://img.cpcdn.com/recipes/2589455/464x260/c87369820bf0408d8f398b0a3afd11c7.jpg?u=1225774&p=1397640884",
+    "datePublished": "2014-04-17",
+    "description": "献立のあと一品に☆簡単でおいしい季節の即席漬けです＾＾",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "３個"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "こぶ茶",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "カブを縦半分に切り薄切りにする。茎の部分もみじん切りにして少し入れると食感up！",
+        "ポリ袋に1と塩麹とこぶ茶を入れて軽くもむ。冷蔵庫で３０分ほどおいたらできあがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2589455",
+    "advice": "私はカブはなるべく薄切りにした方が好みです♡もちろん皮付きのままでＯＫです！",
+    "history": "我が家ではいつもはヌカ漬け専門のカブ。すぐに食べたいと思い作ってみました♪塩麹はRTPさんの「RTPの塩麹」レシピID : 1316187です☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 漬物 塩麹",
+        "かぶ 塩麹"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2589455/100x141c/7cbf1145cfb4b96ec0f35b7bce9cc60c.jpg?u=1225774&p=1397640884"
+}

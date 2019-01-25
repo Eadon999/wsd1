@@ -1,0 +1,55 @@
+{
+    "name": "イカの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきんこさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/202442/464x260/7edcfe6193780e6de13bb7103b790eeb.jpg?u=62560&p=1214211975",
+    "datePublished": "2005-06-13",
+    "description": "いつも甘辛い味付けばかりなのでちょっと変わってて新鮮です。生姜は急いでるときはチューブでも全然ＯＫです。おつまみにＧＯＯＤです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "小２ハイ"
+        },
+        {
+            "name": "Ａおろし生姜",
+            "quantity": "１かけ分"
+        },
+        {
+            "name": "Ａしょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "Ａみりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "Ａ酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "イカをさばいて胴のみを輪切りにする。皮はそのままで。\r\nＡを合わせておく。",
+        "フライパンでイカを炒めてふっくらしたらＡをまわしかける。",
+        "お皿に盛ってネギを散らしてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "202442",
+    "advice": "ご家庭の豚の生姜焼きの味付けでやっていただいてもいいと思います。私も豚の生姜焼きのときのタレと同じレシピでやりました。写真は胴のみでやったときのですが足も一緒にいれても美味しいですよ。",
+    "history": "スーパーの試食コーナーでホットプレートで焼いて市販の生姜焼きのタレをかけてあったのを食べて美味しい～と思ってやってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/202442/100x141c/fa121c3909ed28b64d12b559d1a8134e.jpg?u=62560&p=1214211975"
+}

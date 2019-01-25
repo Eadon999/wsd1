@@ -1,0 +1,48 @@
+{
+    "name": "トマトをすり胡麻とレモンで♪",
+    "author": {
+        "@type": "Person",
+        "name": "kana叶"
+    },
+    "image": "https://img.cpcdn.com/recipes/2705689/464x260/4b4da9e2a52330ef883b768820e33338.jpg?u=5490659&p=1404985837",
+    "datePublished": "2014-07-10",
+    "description": "100人の方に作って頂きました<(_ _)>あと1品ほしいときにいかがでしょうか？",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "すり胡麻（白or黒）",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを、お好みの大きさにカットし、お皿に盛り付け塩を少々ふりかけて下さい。",
+        "１にレモンを絞りいれ、ゴマを、ふりかけ青味の野菜があれば、飾りに盛り付けて出来上がりです。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2705689",
+    "advice": "胡麻は、黒すり胡麻がおすすめですが、その時の気分で、どちらでも。トマトは春が、おいしいという情報を耳にしました。",
+    "history": "トマトが半分残ってしまい、レモンも残っていたので作りましたが、レシピにしていいのか考えてしまうくらい簡単です。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "すり胡麻",
+        "塩"
+    ],
+    "tsukurepo_count": "285",
+    "thumbnail": "https://img.cpcdn.com/recipes/2705689/100x141c/d13790e2bac9db09b2fcdf62df1cf577.jpg?u=5490659&p=1404985837"
+}

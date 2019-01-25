@@ -1,0 +1,70 @@
+{
+    "name": "海老とほうれん草のマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ＪＫ☆クック"
+    },
+    "image": "https://img.cpcdn.com/recipes/4437926/464x260/86175d77acd2e0f33fcd504c8b9db1aa.jpg?u=10781559&p=1490619361",
+    "datePublished": "2017-03-27",
+    "description": "簡単にできて、子供も好きな味！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ(ボイル)",
+            "quantity": "140グラム"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "3株"
+        },
+        {
+            "name": "人参",
+            "quantity": "3センチ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "500円玉くらい"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は下ゆでし3センチ幅に切る。\n人参は半月切り、長ネギは斜めに薄切り、しめじはほぐしておく。",
+        "フライパンにマヨネーズをいれ、エビ、人参、長ネギ、しめじ、厚揚げ(食べやすい大きさにきる)といれ炒める",
+        "塩こしょうで味を整えて、最後に鍋肌に醤油をひとかけして出来上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "4437926",
+    "advice": "マヨネーズは多めで、口当たりが優しくなる気がします",
+    "history": "献立に困ってたら、料理好きの子供がヒントくれましたぁ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えび ほうれん草",
+        "えび ほうれん草 マヨネーズ",
+        "エビ ほうれん草",
+        "えび ほうれん草 しめじ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4437926/100x141c/7988352df40a19338b3c81b83b82e0d0.jpg?u=10781559&p=1490619361"
+}

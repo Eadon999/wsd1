@@ -1,0 +1,58 @@
+{
+    "name": "茄子だけの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まるんくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3356111/464x260/bb463af88043e5ed5178294abc430316.jpg?u=12173221&p=1440160821",
+    "datePublished": "2015-08-20",
+    "description": "カテゴリ掲載&話題入り感謝★あと一品ほしいときに、茄子だけで簡単に出来ちゃう節約レシピです(^^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "2本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "Aを合わせておきます。",
+        "なすを切り、フライパンにサラダ油大さじ1を熱して焼きます。なすが油を吸ってしまったら、サラダ油大さじ1を追加します。",
+        "なすがこんがり焼けたらAを回しかけて照り焼きにして出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3356111",
+    "advice": "タレを入れたら火加減は少し弱めて下さいね。焦げてしまう可能性がありますので。",
+    "history": "あと一品、しっかりした味のつけ合わせが欲しかったので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "サラダ油",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3356111/100x141c/817fcd03d49aea1f0d8028b13699735f.jpg?u=12173221&p=1440160821"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "納豆とニラのチヂミ",
+    "author": {
+        "@type": "Person",
+        "name": "ままぷりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/291149/464x260/bebeffded29d9ce59ffc17b3da58037c.jpg?u=271916&p=1214213851",
+    "datePublished": "2006-10-16",
+    "description": "簡単すぎて、ご紹介する程ではないのですが、みんなに好評なので。。。",
+    "recipeYield": "６枚分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "５、６本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ山盛り１杯"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "韓国唐辛子",
+            "quantity": "適宜"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆すりゴマ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "☆韓国唐辛子",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "☆の材料をすべて混ぜ、タレを作っておく。",
+        "ボウルに納豆とパックに入っているだし醤油、１ｃｍに切ったニラ、卵、小麦粉、韓国唐辛子を入れて混ぜ合わせる。",
+        "フライパンにごま油を多めに入れて熱し、１をスプーンですくい落として焼く。（６ｃｍ位の大きさ）",
+        "お皿に盛り、すりゴマ、韓国唐辛子（お好みで）ちらして、タレをつけていただく。"
+    ],
+    "cookTime": null,
+    "recipe_id": "291149",
+    "advice": "混ぜて焼くだけ。",
+    "history": "納豆を買いすぎてしまい、賞味期限に追われて。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ニラ",
+        "卵",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/291149/100x141c/66f1ce52ef36fada301e903e2557356a.jpg?u=271916&p=1214213851"
+}

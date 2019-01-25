@@ -1,0 +1,51 @@
+{
+    "name": "イタリアン★パセリソース",
+    "author": {
+        "@type": "Person",
+        "name": "パリジエンヌ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2513640/464x260/72bb3cd98c4070ec5cc93a637c826a62.jpg?u=2727548&p=1392914615",
+    "datePublished": "2014-02-21",
+    "description": "イタリア人直伝のパセリソースです。お魚、チキン、バゲットなどととっても合います。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "パセリ(みじん切り)",
+            "quantity": "1カップ分"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "2かけ"
+        },
+        {
+            "name": "レモンの絞り汁",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "パセリ、にんにくはみじん切りにします",
+        "全ての材料を合わせてよく混ぜれば出来上がり\n2時間ほどするとなじみます",
+        "サーモンのソテー★パセリソース添え\nレシピID :2513597"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2513640",
+    "advice": "白身魚、チキン、バゲットなどによく合います。にんにくは強めです。苦手な方は減量してください。",
+    "history": "イタリア人の知り合いに教えてもらったソースを私好みにアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パセリソース"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2513640/100x141c/d4635da13acbe3dcb7d26cc77a50e463.jpg?u=2727548&p=1392914615"
+}

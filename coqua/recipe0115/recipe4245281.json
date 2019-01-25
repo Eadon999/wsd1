@@ -1,0 +1,42 @@
+{
+    "name": "ゆかりリゾット",
+    "author": {
+        "@type": "Person",
+        "name": "nosso"
+    },
+    "image": "https://img.cpcdn.com/recipes/4245281/464x260/2429cefc20f22ca3286d031c4e2688e6.jpg?u=747019&p=1482147657",
+    "datePublished": "2016-12-19",
+    "description": "なんにもない日も、しっかり食べよう。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗1杯分（150g）"
+        },
+        {
+            "name": "豆乳",
+            "quantity": "1カップ（200ml）"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに、ごはん・豆乳・ゆかりを入れて火にかける。",
+        "弱火〜中火で、もったりするまでよく混ぜる。完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "4245281",
+    "advice": "①強火だと、豆乳が固まっちゃいます。（写真のように…orz）②エノキやチーズを入れると、もっと美味しいです。③生米からも作ってみたけど、なぜだか、ご飯からの方が美味しかったです。",
+    "history": "本気で何もない日に。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なんにもない"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/4245281/100x141c/dbf526e5d6fff0c9d9f7ffa13570be37.jpg?u=747019&p=1482147657"
+}

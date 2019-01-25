@@ -1,0 +1,62 @@
+{
+    "name": "とまらない☆長芋とアスパラのにんにく炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ゆずとふき"
+    },
+    "image": "https://img.cpcdn.com/recipes/1483599/464x260/06a4fa93de2fe522eab1e284879618e1.jpg?u=3244525&p=1309326718",
+    "datePublished": "2011-06-29",
+    "description": "長いものシャキシャキ感と、アスパラのシャキシャキ感がベストマッチ。しっかり味のニンニク風味でビールもご飯も進みます",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "1/4カット"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "すりおろし少々"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもを半月切り、アスパラをななめにざく切りします",
+        "にんにくすりおろしをバターで炒めて、ベーコンを入れます。",
+        "野菜を入れて、火が通ったら、塩・胡椒・しょうゆをさっとふりかけます"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1483599",
+    "advice": "仕上げに白すりごまをかけてもおいしいですよ。",
+    "history": "栄養がたっぷりで、夏でも元気に食べられる料理を考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "アスパラ",
+        "にんにく",
+        "ベーコン"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/1483599/100x141c/b56b922c94f172fe38b8541c065de662.jpg?u=3244525&p=1309326718"
+}

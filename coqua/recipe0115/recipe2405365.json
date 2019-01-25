@@ -1,0 +1,61 @@
+{
+    "name": "アボカドとオクラとツナのマヨポン和え",
+    "author": {
+        "@type": "Person",
+        "name": "どんぴんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2405365/464x260/ad639f2c9fb30067c15e372cde2204ae.jpg?u=4090904&p=1384564502",
+    "datePublished": "2013-11-16",
+    "description": "大好きなアボカドを朝から手軽に食べたい♪朝ご飯のお供や夕飯にも＾＾",
+    "recipeYield": "3～４人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "５本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "炒りゴマ（白）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカド1cm各に切る\nオクラ小口切り\nにする",
+        "刻み海苔以外全て混ぜる",
+        "刻み海苔をかけて完成",
+        "ご飯にのせても美味しいよ＾＾"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2405365",
+    "advice": "アボカドは熟したもので♡",
+    "history": "ご飯のお供をアボカドで考えて見ました＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド オクラ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2405365/100x141c/19756dadeb55fb2ce9e4fb62490930b5.jpg?u=4090904&p=1384564502"
+}

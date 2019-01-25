@@ -1,0 +1,57 @@
+{
+    "name": "酢でサッパリ☆カボチャの甘辛ゴマ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ゆんやともも"
+    },
+    "image": "https://img.cpcdn.com/recipes/3115147/464x260/b21f786d9c9d70470aea537a096e122d.jpg?u=7510994&p=1428838212",
+    "datePublished": "2015-04-12",
+    "description": "レンジで柔らかくしたカボチャに調味料を混ぜるだけ！お酢のおかげでサッパリなのでご飯に合います。お弁当にもピッタリです。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "カボチャ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●すりゴマ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●ゴマ油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャを一口大に切り、ラップをかけてレンジ600wで5分加熱する。",
+        "合わせた●をカボチャが熱いうちに混ぜたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3115147",
+    "advice": "混ぜる時にカボチャが崩れないようスプーンを使うと良いです。薄く切ると味が染みすぎるので一口大に切って下さいね。",
+    "history": "カボチャをサッパリと食べたくて作ってみたら美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カボチャ",
+        "砂糖",
+        "醤油",
+        "酢"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/3115147/100x141c/d1776926acdf5f8ef3af3ef8388fec14.jpg?u=7510994&p=1428838212"
+}

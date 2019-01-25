@@ -1,0 +1,54 @@
+{
+    "name": "まとめてチン♪白菜とツナの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "すいーとぴぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/691158/464x260/68dcc0e398fd883b172888dba34b97f9.jpg?u=859768&p=1227955252",
+    "datePublished": "2008-12-26",
+    "description": "レンジで加熱するだけの簡単な副菜。 白菜の水分で煮るので旨みも凝縮！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "ツナ缶（ノンオイルがおすすめ）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "和風だし（顆粒）",
+            "quantity": "４ｇ～６ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱ボウルに、小さめのザク切りにした白菜を入れる。その上にツナを適当にのせ、残りの調味料をすべて適当にかける。",
+        "ラップをしてレンジ６００Ｗで５分加熱。いったん取り出して軽く混ぜる。今度はラップをせずに２分加熱。\r\nできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "691158",
+    "advice": "手順２でラップをはずす時、熱いのでやけどに ご注意ください。 ",
+    "history": "なんとなくレンジでやってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ツナ レンジ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/691158/100x141c/240944ee55af81dfa56f8c3e19ca861c.jpg?u=859768&p=1227955252"
+}

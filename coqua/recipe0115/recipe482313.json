@@ -1,0 +1,43 @@
+{
+    "name": "材料３つで超簡単☆うまっ！ハムのおつまみ",
+    "author": {
+        "@type": "Person",
+        "name": "chi-chi"
+    },
+    "image": "https://img.cpcdn.com/recipes/482313/464x260/2d8dd2c05b42082a095a18ac7186bcb8.jpg?u=249252&p=1214218234",
+    "datePublished": "2008-01-03",
+    "description": "ハム　ねぎ　ごま油　この３つで美味しい一品が出来ますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "食べたいだけ"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "お好みの量で♪"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムは好きな大きさでいいですが、写真では５mm幅に切り、２ｃｍ角程度に切ってあります。ネギを５cm程切り、しらがねぎにします。中心部分は小口切りにして下さい。",
+        "ボールにハムとネギを入れ、ごま油を少々加え混ぜます。ゴマ油と馴染んでネギがしっとりしたら出来上がり♪",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "482313",
+    "advice": "",
+    "history": "ハム売り場での試食品が美味しかったのでマネて作ってみました。食べてみて、思わずウマッ！って思いますよ♪(^ー^* )",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハムおつまみ"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/482313/100x141c/44ee40b4c1ac1a8da0ef0c2f81fa5369.jpg?u=249252&p=1214218234"
+}

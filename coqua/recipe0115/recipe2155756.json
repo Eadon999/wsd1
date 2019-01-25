@@ -1,0 +1,47 @@
+{
+    "name": "大人の贅沢！生サーモンの塩麹漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ma2003co"
+    },
+    "image": "https://img.cpcdn.com/recipes/2155756/464x260/b80903c6ef3cd52d4cb2d34e4607f25e.jpg?u=864424&p=1363410538",
+    "datePublished": "2013-03-16",
+    "description": "生サーモンを塩麹と白だしに漬けるだけで酒のあてに早変わり。サーモンのモチモチ感、塩麹の旨みが最高の1品です。",
+    "recipeYield": "1～2人",
+    "recipeIngredient": [
+        {
+            "name": "サーモン(刺身用)",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "かいわれ大根（飾り）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "サーモンを1cm角に切り、塩麹、白だしに一晩漬ける。\n",
+        "1を皿に盛り、かいわれ大根をのせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2155756",
+    "advice": "メーカーやご家庭により塩麹の塩分が違います。薄いと感じた場合は、塩を加えて調節下さい。",
+    "history": "北海道の「鮭のルイベ」が好きで、それをヒントに作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サーモン 塩麹漬け"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2155756/100x141c/c144289b6770dc5cbc5465f7b1472445.jpg?u=864424&p=1363410538"
+}

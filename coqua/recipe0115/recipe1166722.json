@@ -1,0 +1,81 @@
+{
+    "name": "七夕★簡単！海老のピリ辛そうめん★",
+    "author": {
+        "@type": "Person",
+        "name": "朝まと"
+    },
+    "image": "https://img.cpcdn.com/recipes/1166722/464x260/24e7a8338d57ce6ac79d61f76a4847c9.jpg?u=1115273&p=1280047623",
+    "datePublished": "2010-07-02",
+    "description": "「めんつゆ＋コチュジャン」の旨々コリアンだれが美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "４束"
+        },
+        {
+            "name": "水",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "めんつゆ（３倍濃縮）",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "にんにくおろし",
+            "quantity": "少々"
+        },
+        {
+            "name": "蒸し海老",
+            "quantity": "６尾"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "かいわれ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "パプリカ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たれの材料を混ぜ合わせて冷やしておく。",
+        "そうめんをゆで、トッピングをのせる。パプリカは星型で抜いて。冷たく冷やした「たれ」をかけて召し上がれ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1166722",
+    "advice": "こちらのそうめんは「つけだれ」ではなく「かけだれ」です。酸っぱくないタレですが、酢を少量入れることで味が引き締まります。トッピングはお好みのもので。",
+    "history": "コチュジャンを頂いたので。七夕には「そうめん」を食べるものらしいです（＾ｕ＾）",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん",
+        "水",
+        "めんつゆ",
+        "胡麻油"
+    ],
+    "tsukurepo_count": "189",
+    "thumbnail": "https://img.cpcdn.com/recipes/1166722/100x141c/fbd3df52e13ad8027b0bd0ecdf9b4102.jpg?u=1115273&p=1280047623"
+}

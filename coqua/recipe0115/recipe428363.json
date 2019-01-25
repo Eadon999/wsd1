@@ -1,0 +1,46 @@
+{
+    "name": "ジャーマンかぼちゃ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/428363/464x260/0b005c8a2278422baabcba51c9eaa7f3.jpg?u=255591&p=1214217185",
+    "datePublished": "2007-09-11",
+    "description": "ジャーマンポテトのかぼちゃ版です。醤油だけの味付けですがとっても美味しい♪",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "にんにく（すりおろし）",
+            "quantity": "～１/２かけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２～"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは一口大に切ってラップをしてからレンジで柔らかくなるまで加熱する。\r\nベーコンは１～２ｃｍ幅に切る。",
+        "フライパンに極少量の油（テフロン加工の場合は油無しで）を熱してにんにく、ベーコン、かぼちゃの順に炒め醤油で調味して出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "428363",
+    "advice": "にんにくは入れすぎるとかぼちゃの風味が負けてしまうので少量でOKです。醤油はベーコンの塩加減によって調整してください。玉ねぎを入れても美味しいです。ベーコンの代わりにハムやウィンナーを使う場合にはオリーブオイルやバターで炒めると美味しいです。",
+    "history": "ジャーマンポテトが好きなのでじゃがいもの代わりにかぼちゃで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャーマンかぼちゃ"
+    ],
+    "tsukurepo_count": "179",
+    "thumbnail": "https://img.cpcdn.com/recipes/428363/100x141c/1b02eec71d603cc1fa9f9bcc2d4632ac.jpg?u=255591&p=1214217185"
+}

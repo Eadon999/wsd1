@@ -1,0 +1,40 @@
+{
+    "name": "お弁当のすき間に☆ピーマン1個☆丸焼き",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/4476084/464x260/c3d2e573c7a18cb53a50b4405aedd88e.jpg?u=10112198&p=1492635111",
+    "datePublished": "2017-04-20",
+    "description": "七味唐辛子を内側に塗ってグリルで焼くだけ。お弁当のすき間にポン♪飲兵衛さんには酒の肴にして喜ばれています。",
+    "recipeYield": "ピーマン1個",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "七味唐辛子(一味唐辛子OK)",
+            "quantity": "適量(ふたふり位)"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンの種を取る。私はハサミで。\n(大雑把でOK)ピーマンが所々破れても焼けばしんなりしてわからない♪",
+        "ピーマンの内側に七味唐辛子をふり入れ\n指で全体に広げる。",
+        "グリルの強火で5分焼く。\n冷めたらお弁当のすき間につめる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4476084",
+    "advice": "グリルで焼く作業は見えないのでうっかり忘れがち。タイマーセットがオススメ！ウチはIHグリルで、5分のセットです。",
+    "history": "酒の肴に焼いていましたが、お弁当にも便利です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン　丸焼き",
+        "ピーマン1個"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/4476084/100x141c/75dee622ca4e278ace254d55d0965d7d.jpg?u=10112198&p=1492635111"
+}

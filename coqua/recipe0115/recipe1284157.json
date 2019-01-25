@@ -1,0 +1,59 @@
+{
+    "name": "レンコンだけでおいしいおかず。",
+    "author": {
+        "@type": "Person",
+        "name": "okamekame"
+    },
+    "image": "https://img.cpcdn.com/recipes/1284157/464x260/b69ba766af93db570bf04104308fd65f.jpg?u=264218&p=1289734547",
+    "datePublished": "2010-11-14",
+    "description": "材料も作り方も超簡単。おかずにもお弁当にも！子供にもウケる味～。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "レンコン",
+            "quantity": "200gくらい"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンは少し厚めにスライスし、酢水につけ、水気を切る。片栗粉を適量まぶす。",
+        "フライパンに少し多めの油をひいて、表面がかりっとするまで炒め揚げにする。\nいったん取り出す。",
+        "取り出した後のフライパンの油をとってきれいにし、★をいれる。\n火にかけてぐつぐつしたらレンコンを戻し入れる。",
+        "最後にゴマをまぶして出来上がりー！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1284157",
+    "advice": "コツ?簡単すぎてございません！お好みで豆板醤や七味で辛味を足しても。",
+    "history": "簡単でおかずになる。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": [
+        "美味しいおかず 4位"
+    ],
+    "related_keywords": [
+        "美味しい おかず",
+        "お弁当 おかず 簡単 子供"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1284157/100x141c/e8251bd7fa963ec1297d97e71f06d4cd.jpg?u=264218&p=1289734547"
+}

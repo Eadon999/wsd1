@@ -1,0 +1,55 @@
+{
+    "name": "簡単★白菜とりんごのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "maa1012"
+    },
+    "image": "https://img.cpcdn.com/recipes/1294251/464x260/5f516b29e1b97e500260c82156d5cfb8.jpg?u=1993018&p=1290691260",
+    "datePublished": "2010-11-25",
+    "description": "白菜とりんごで甘くて優しい味のサラダです、カレーによく合います♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１枚"
+        },
+        {
+            "name": "りんご",
+            "quantity": "１／４コ"
+        },
+        {
+            "name": "○はちみつ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "○オリーブ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "りんごは皮付きのままスライスする、白菜は食べやすく切る。ボールに入れて塩を２つまみ入れてよく混ぜ、５分程度おく。",
+        "○をよく混ぜておく、水を切った１に○を合わせて和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1294251",
+    "advice": "りんごの甘味がクセになります。",
+    "history": "カレーライスの付け合わせに甘味のあるサラダを作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 りんご サラダ",
+        "白菜 りんご"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1294251/100x141c/fb2b2642421f091224ce459df20a5014.jpg?u=1993018&p=1290691260"
+}

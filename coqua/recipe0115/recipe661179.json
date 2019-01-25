@@ -1,0 +1,70 @@
+{
+    "name": "☆サクサクほくほく～！おからコロッケ☆",
+    "author": {
+        "@type": "Person",
+        "name": "れなぼうず"
+    },
+    "image": "https://img.cpcdn.com/recipes/661179/464x260/45bd2815835a9f15854bd11d92a5bba5.jpg?u=208881&p=1223421773",
+    "datePublished": "2008-10-08",
+    "description": "中はほくほく衣はサクサクのおからコロッケです☆天ぷら粉で代用するので卵も要りません～！ヘルシーで美味しい☆",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "150グラム"
+        },
+        {
+            "name": "挽肉",
+            "quantity": "50グラム"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大1 1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "50cc"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "おからは耐熱容器に入れ、ラップをせずに2分間電子レンジで加熱する。",
+        "玉ねぎはみじん切りにして、挽肉と一緒に耐熱容器に入れて1分半電子レンジで加熱し、塩をふっておく。",
+        "1と2、鶏がらスープの素、牛乳をよく混ぜる。",
+        "3を成形する。",
+        "水で溶いた天ぷら粉、パン粉をまぶしてからりとキツネ色に揚げる。",
+        "お皿に盛り付けたら完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "661179",
+    "advice": "予め味が付いているのでそのままでもGOODですが、お好みでソースやケチャップなどでお召し上がりください☆",
+    "history": "子供におからを美味しく食べさせたかったので☆",
+    "categories": [
+        "今日のご飯・おかず/コロッケ・メンチカツ/おからコロッケ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "天ぷら粉コロッケ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/661179/100x141c/3f0ac207de47b6bc699a97af17af0c4e.jpg?u=208881&p=1223421773"
+}

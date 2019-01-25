@@ -1,0 +1,39 @@
+{
+    "name": "こんにゃくだけ",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/318007/464x260/35de2e41d1fdab25bc3e96b7bfece545.jpg?u=253314&p=1298706807",
+    "datePublished": "2007-01-11",
+    "description": "集まれ！ダイエッター！（笑）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "好みの量"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを適当な薄さと大きさに切る。",
+        "袋に入れ焼肉のタレをジャッとかけて１時間程置いておく。",
+        "焼く！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "318007",
+    "advice": "長い時間おいておく程染みて美味しいです。丸１日放置でもOk。焼いてからタレを更にかけても良し♪　お好みでネギやゴマをﾄｯﾋﾟﾝｸﾞして下さいね",
+    "history": "●●だけ会員希望＆ダイエッターメニューです。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃくだけ"
+    ],
+    "tsukurepo_count": "246",
+    "thumbnail": "https://img.cpcdn.com/recipes/318007/100x141c/6e62aea06a6f5660023fe65d767aa1e5.jpg?u=253314&p=1298706807"
+}

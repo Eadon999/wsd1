@@ -1,0 +1,53 @@
+{
+    "name": "かぶの千枚漬",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/686383/464x260/da5c86b4c24e1ecb1575c24f9003cea6.jpg?u=746099&p=1227233891",
+    "datePublished": "2008-11-21",
+    "description": "2011.11.6.話題入り☆作ったその日の食卓にも出せる、おいしい漬物です。おせち料理にもどうぞ♬",
+    "recipeYield": "２～３食分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "５００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小１～２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大４"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大４"
+        },
+        {
+            "name": "昆布",
+            "quantity": "２ｃｍ"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶの皮をむき、スライサーで薄切りにして塩をまぶし、重石をして水が上がるまで置く。",
+        "水か上がったら、よく絞り、細切りにした昆布を入れた酢とみりんの調味液に漬け込む。",
+        "時々上下を返す。",
+        "こかぶを丸ごと使ってもいいですね。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "686383",
+    "advice": "1では卓上漬物器を使い、冷蔵庫で水を上げると簡単です。酢とみりんは同量と覚えておけば、かぶの大きさで加減できます。ゆずやたかの爪をいれてもおいしいです。",
+    "history": "実家のある京都の老舗漬物店の千枚漬。その味に似せて、長い時間漬け込まずに出来るように考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "千枚漬け おせち",
+        "かぶ 千枚漬け"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/686383/100x141c/3d3ba384316b832066cbcc7f53d25e97.jpg?u=746099&p=1227233891"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "長芋の焦がししょうゆソテー",
+    "author": {
+        "@type": "Person",
+        "name": "LaLaHappy1"
+    },
+    "image": "https://img.cpcdn.com/recipes/1377775/464x260/e646f5dfefaa9fdc892b2af9f2a9831a.jpg?u=2602427&p=1299157807",
+    "datePublished": "2011-03-03",
+    "description": "こんがり焼いた長芋は、ホクホク♪　焦がししょうゆ＆ネギ＆バターの風味が、格別です！",
+    "recipeYield": "４人前",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "１２センチ"
+        },
+        {
+            "name": "A・・・オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "にんにく（包丁でつぶす）",
+            "quantity": "１片"
+        },
+        {
+            "name": "B・・・しょうゆ・みりん",
+            "quantity": "大さじ２ずつ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "青ネギ（小口切り）",
+            "quantity": "３～４本"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は皮をむき、１cm幅の輪切りにします",
+        "フライパンにAを中火で熱し、長芋の両面をこんがり焼きます。",
+        "バターを入れて、両面にバターをからめたら、Bを加えて、中火のまま煮からめます。焦げる寸前で火を消し、ネギを加えて混ぜます",
+        "☆しょーこ☆さんが、ノリかけバージョンで作ってくださいました♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1377775",
+    "advice": "長芋を薄くすると、味が濃くなるので、1cm幅くらいにしてくださいね。最初はオリーブオイルで焼いて、最後に風味付けでバターを加えるので、脂っこくないです♪　ネギたっぷりでどうぞ（＾0＾）",
+    "history": "長いもを焼いて食べたい♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋",
+        "にんにく",
+        "バター",
+        "青ネギ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1377775/100x141c/602ffa033ea04a3ac8f01149fd27f656.jpg?u=2602427&p=1299157807"
+}

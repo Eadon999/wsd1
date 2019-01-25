@@ -1,0 +1,59 @@
+{
+    "name": "とうもろこしのココット",
+    "author": {
+        "@type": "Person",
+        "name": "ロシアン"
+    },
+    "image": "https://img.cpcdn.com/recipes/705808/464x260/a243d4c61ab09cf6f592baaaefa0280a.jpg?u=283109&p=1302317327",
+    "datePublished": "2008-12-28",
+    "description": "バター醤油味のコーンを入れたココットです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "コーン缶（ホール）",
+            "quantity": "小１缶（１３０ｇ）"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "コーンは水気を切っておく。\r\nベーコンは１ｃｍ幅に切る。",
+        "フライパンにバターを熱し、ベーコンを炒める。\r\nコーンを加え、さっと炒めたら、しょうゆで味付けする。",
+        "２をココット皿に入れ、こしょうをふり、卵を割り入れる。",
+        "レンジ（５００Ｗ）で１～２分ほど温めて、できあがり♪ \r\n※温め時間は様子を見て調整してください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "705808",
+    "advice": "レンジによって温め時間が変わりますので、様子を見て調整してください。 ",
+    "history": "大好きなバター醤油味のコーンをココットに。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コーン缶",
+        "ベーコン",
+        "卵",
+        "バター"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/705808/100x141c/836a57fb10994fa86bc252a6ed99e659.jpg?u=283109&p=1302317327"
+}

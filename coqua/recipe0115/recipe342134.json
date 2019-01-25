@@ -1,0 +1,67 @@
+{
+    "name": "ポークとエリンギの☆オイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/342134/464x260/8b5635fff9312df9cb9c23b724f88b6b.jpg?u=42283&p=1214214975",
+    "datePublished": "2007-03-10",
+    "description": "豚肉とエリンギをバターで炒めてオイスターソースで味付け♪ご飯の食べ過ぎ注意です<(_ _*)> ",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉薄切り",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大１"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "多め"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "本みりん",
+            "quantity": "大２分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２分の１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大１強"
+        }
+    ],
+    "recipeInstructions": [
+        "バターで食べ易く切った豚薄切り肉を炒める。胡椒を振る。",
+        "エリンギも食べ易く切って加えて、酒入れ、本みりん入れ、醤油とオイスターソースで味付けする。",
+        "出来上がりです(〃'▽'〃)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "342134",
+    "advice": "簡単でご飯が進むおかずです(o^-')o",
+    "history": "出かける前に作っておいても、美味しくいただけるおかずが欲しくて作りましたヽ(*^^*)ノ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉薄切り",
+        "エリンギ",
+        "バター",
+        "胡椒"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/342134/100x141c/582253c54f1b46d526baa3873a4747b8.jpg?u=42283&p=1214214975"
+}

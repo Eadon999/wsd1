@@ -1,0 +1,52 @@
+{
+    "name": "味噌じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3422589/464x260/8f711d92a479e28a664bf9e280ec7ec2.jpg?u=10112198&p=1443083170",
+    "datePublished": "2015-09-29",
+    "description": "甘辛のじゃがいもで、御飯がすすみます。お弁当にも入れています。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "3個"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは1個を８等分し、水にさらす。",
+        "水気をふく。",
+        "フライパンに、油を\n1センチ位入れ、\n揚げ焼きする。\n油は容器に戻し、フライパンは空にする。",
+        "フライパンに調味料を入れ、弱火で揚げたじゃがいもと絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3422589",
+    "advice": "自家製の3年味噌で作ったので、色が濃いめです。白味噌で作ると、上品な甘目の味噌じゃがになります。",
+    "history": "北海道の実家で食べていた味噌じゃがです。どこの家でも食べていた様で、お友達のお弁当にも入っていました。お祭りの屋台では、串刺しの味噌じゃががありました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌じゃが"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3422589/100x141c/d315c76d3a03b90171076493e19ea995.jpg?u=10112198&p=1443083170"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "にんじんとハムの洋風きんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "NoraDoraママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3290333/464x260/7ea76ad0ba6c616928a63e40a59938a1.jpg?u=6052732&p=1436613827",
+    "datePublished": "2015-07-11",
+    "description": "ご飯にもパンにも合うおかずです。お弁当に入れるのもオススメです。2015・9/14話題入りありがとうございます♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "大１本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは皮をむき、斜め薄切りにしてから千切りにする。\nハムも千切りにする。",
+        "フライパンを熱しオリーブオイルを入れてにんじんを炒める。\n全体に油がまわったらハムも入れる。",
+        "にんじんがしんなりしてきたら塩こしょうで味を整えて､仕上げにレモン汁を少々ふる。",
+        "お皿に盛り、ブラックペッパーをかけて召し上がれ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3290333",
+    "advice": "にんじんとハムの千切りの幅をそろえると仕上がりがきれいです。",
+    "history": "ハムが少しだけ残ったので考えたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パンに合う おかず",
+        "人参 ハム",
+        "パンに合う おかず お弁当",
+        "ハム きんぴら"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/3290333/100x141c/7c6ebef83f44fcbf099cbfeec8977da0.jpg?u=6052732&p=1436613827"
+}

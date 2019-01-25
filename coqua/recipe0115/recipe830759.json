@@ -1,0 +1,81 @@
+{
+    "name": "一番簡単★チンジャオロース",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/830759/464x260/55439462c8a40aec25354657e7f98a4b.jpg?u=1088838&p=1360650720",
+    "datePublished": "2009-06-11",
+    "description": "レポ500人達成ありがとう！とっても簡単で、すっごく美味しい自慢のチンジャオロースです！ぜひお試し下さい♪",
+    "recipeYield": "２～３人分位",
+    "recipeIngredient": [
+        {
+            "name": "★豚こま",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★たけのこ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★ピーマン",
+            "quantity": "３こ"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小１／５"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大３"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "★をしっかり炒めたら、☆を入れて20秒混ぜれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "830759",
+    "advice": "☆を入れる前にしっかり肉の色が変わるまで炒めておくこと。",
+    "history": "チンジャオロースを安い豚こま肉で手早く作りたいと思って、考えました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉",
+        "その他/中華料理/チンジャオロース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま",
+        "たけのこ",
+        "ピーマン",
+        "ごま油"
+    ],
+    "tsukurepo_count": "660",
+    "thumbnail": "https://img.cpcdn.com/recipes/830759/100x141c/6472af77469bc56af98df4470ef6582d.jpg?u=1088838&p=1360650720"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "絶賛！れんこんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "めぐたん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2197747/464x260/262f33dda4a768164eddb2cd83d910ce.jpg?u=1043480&p=1366452452",
+    "datePublished": "2013-04-22",
+    "description": "さくさく、ゴマとマヨのコクがたまりません！お箸が止まらなくなることまちがいなし！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "１５㎝ほど"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/2本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "ゴマ（すりごまでも練りゴマでも）",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖、味噌、醤油",
+            "quantity": "各少１"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンは薄く半月切りかイチョウ切りに。人参は千切りにして、どちらも水からゆでる。よく水気をきっておく。",
+        "合わせておいた調味料に１を入れてよくからむように混ぜる。完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2197747",
+    "advice": "ゴマは好きなだけ、入れて下さいね。お気に入りは練りゴマです(^^)",
+    "history": "大好きれんこんと、ゴマをあわせてあと1品作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "人参",
+        "合わせ調味料",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2197747/100x141c/ebdd4fdd1c6426f94124078904a1a476.jpg?u=1043480&p=1366452452"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "水菜＆ベーコン＆卵のサラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "ワンピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/519962/464x260/102c2468f41cf13a88993c94f0f68161.jpg?u=292448&p=1214218934",
+    "datePublished": "2008-02-29",
+    "description": "我が家の定番サラダです☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "６枚くらい"
+        },
+        {
+            "name": "ゆで卵（半熟卵でも）",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を食べやすい大きさに切ってお皿に盛る。",
+        "ベーコンはアルミホイルにのせ、オーブントースターで３，４分焼いたら、水菜の上へ。\r\nさらにゆで卵ものせる。",
+        "ドレッシング作り。\r\n☆を全部合わせてサラダにかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "519962",
+    "advice": "ベーコンはフライパンで焼くと洗い物が増えるのでオーブントースターで焼いちゃいます。ドレッシングは大さじ１ずつで、覚えやすい分量です。",
+    "history": "水菜のシャキシャキ感が好きなので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "ベーコン",
+        "ゆで卵",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/519962/100x141c/269e747f18fe2e545984ad90d9d3351b.jpg?u=292448&p=1214218934"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "レンジで簡単！ほうれん草のカニカマサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4337110/464x260/2d65b0a369502c53236fe81d5d64b34b.jpg?u=4376699&p=1486394515",
+    "datePublished": "2017-02-11",
+    "description": "簡単ホットサラダ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "2本"
+        },
+        {
+            "name": "カニ風味かまぼこ",
+            "quantity": "少々"
+        },
+        {
+            "name": "人参",
+            "quantity": "少々"
+        },
+        {
+            "name": "ぶなしめじ",
+            "quantity": "少々"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1/2ま"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は根を切り短く切って水洗い\n人参は千切り\nかまぼこしめじはばらす",
+        "耐熱皿に入れてコンソメを掛けてラップして1分半チンして混ぜる",
+        "マヨと黒コショウを加えて混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4337110",
+    "advice": "野菜はお好みで！温かいままでも美味しいですが冷蔵庫で冷やしても美味しいです♪",
+    "history": "かにかまを買ったので残っていたほうれん草と合わせてほっとサラダにしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 カニカマ",
+        "ほうれん草 カニカマ サラダ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4337110/100x141c/62aa35cc0e7699e6000d90e9b018ff07.jpg?u=4376699&p=1486394515"
+}

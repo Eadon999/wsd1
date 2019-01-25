@@ -1,0 +1,52 @@
+{
+    "name": "✿クリームチーズ♡ポテトサラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/717865/464x260/c9499af743c516b102a7e585f9dd56ff.jpg?u=271833&p=1331290927",
+    "datePublished": "2009-01-21",
+    "description": "マヨネーズの代わりにクリームチーズを使ったまろやかでやさしい味のポテトサラダです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中3個"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "60ｇ程度"
+        },
+        {
+            "name": "ミックスベジタブル",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆牛乳",
+            "quantity": "大さじ3～"
+        }
+    ],
+    "recipeInstructions": [
+        "ミックスベジタブルは器に入れ、ラップをしてレンジで1分加熱しておく。",
+        "じゃがいもは皮を剥いて小さめに切り、深めの器に少量の水と共に入れてラップをしてレンジで5分加熱し柔らかくする。",
+        "2にクリームチーズを加え、大きめのスプーンなどを使ってじゃがいもを潰しながらよく混ぜる。",
+        "3にミックスベジタブルと☆を加えてよく混ぜ合わせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "717865",
+    "advice": "*レンジの加熱時間は500Wの場合です。 *牛乳の分量は固さをみてお好みで加減して下さい。 ",
+    "history": "マヨネーズを使わないポテトサラダが作りたいと思い考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ポテトサラダ クリームチーズ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/717865/100x141c/5f6d965b50b16b765ce3038e1e1d6b93.jpg?u=271833&p=1331290927"
+}

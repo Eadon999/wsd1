@@ -1,0 +1,84 @@
+{
+    "name": "夢中で食べちゃう！韓国風☆甘辛豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "itaya＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2782686/464x260/5c902854075d7a3a104cbf1e1697ebca.jpg?u=9696570&p=1409794679",
+    "datePublished": "2014-09-04",
+    "description": "コチュジャンとごま油の風味で食欲増進！くせになる甘辛味が、ごはんによーく合います♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中1個"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "適量"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ごま、温泉卵など",
+            "quantity": "おこのみで"
+        }
+    ],
+    "recipeInstructions": [
+        "タレの材料をすべて器に入れて混ぜ合わせておく。",
+        "玉ねぎを縦半分に切り、厚めにスライスする。\n豚肉は食べやすい大きさに切る。",
+        "フライパンを熱し、少量の油で玉ねぎを炒める。全体に油がなじんだら、豚肉を加えてさらに炒める。",
+        "豚肉に火が通ったら、①のタレを加えて強火で煮絡める。",
+        "器に盛ったごはんの上に④を乗せ、おこのみで白ごま・温泉卵などをトッピングする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2782686",
+    "advice": "コチュジャンの量はおこのみで調節してください☆（レシピの分量は甘口です）",
+    "history": "大好きな甘辛味とピリ辛味を同時に味わいたくて☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ肉",
+        "玉ねぎ",
+        "ごはん",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2782686/100x141c/efa88c073af858474d2958ac814a0fe0.jpg?u=9696570&p=1409794679"
+}

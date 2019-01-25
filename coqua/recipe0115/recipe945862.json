@@ -1,0 +1,65 @@
+{
+    "name": "キャベツとウインナーのミルクスープ",
+    "author": {
+        "@type": "Person",
+        "name": "＊ことり＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/945862/464x260/2b0bedc11d23f251953001212b82d869.jpg?u=1505794&p=1256350954",
+    "datePublished": "2009-10-24",
+    "description": "ミルクも具もたっぷり入っているので食べごたえのあるスープです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "２カップ半"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "２個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "１袋"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗引きブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とコンソメを入れて火にかける。",
+        "キャベツを適当な大きさにざく切りにして、ウインナーに切れ目を入れる。",
+        "沸騰したら、キャベツとウインナーを入れて１０分煮込む。",
+        "煮込んだら、牛乳を入れて吹きこぼれないように３分程度火を通す。",
+        "塩コショウで味を調えて、仕上げにブラックペッパーを振って出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "945862",
+    "advice": "",
+    "history": "スープだけで満足できるものが作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/クリームスープ",
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水",
+        "牛乳",
+        "コンソメ",
+        "キャベツ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/945862/100x141c/c34bf5566f95a8baed03a491204c9d6f.jpg?u=1505794&p=1256350954"
+}

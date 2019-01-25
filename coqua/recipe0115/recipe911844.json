@@ -1,0 +1,58 @@
+{
+    "name": "まぐろステーキの大葉のせ☆",
+    "author": {
+        "@type": "Person",
+        "name": "ばぶﾁｬﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/911844/464x260/0016795bc4a42ee283fd4ecfa848dccf.jpg?u=1431330&p=1252934098",
+    "datePublished": "2009-09-14",
+    "description": "スジのあるマグロはぜひ焼いて☆スジは一体どこへ？？美味しいステーキに大変身☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ‥（２ｃｍ位の大きさに切る）",
+            "quantity": "１/２さく"
+        },
+        {
+            "name": "☆醤油 /みりん",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "☆お酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆ゴマ油　　/ おろしわさび",
+            "quantity": "各小さじ１/２"
+        },
+        {
+            "name": "大葉　‥（千切り）",
+            "quantity": "３枚"
+        },
+        {
+            "name": "油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "☆まぜて、まぐろを\r\n５分漬ける。",
+        "フライパンに \r\n油→漬けたまぐろ\r\n（漬けタレはいれない）を入れ両面を焼く。",
+        "最後に漬けタレ入れ\r\nて全体に絡めれば\r\n出来上がり☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "911844",
+    "advice": "",
+    "history": "まぐろの筋が気になり わさび醤油に漬けて 焼いたら大正解☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": [
+        "マグロステーキ 9位"
+    ],
+    "related_keywords": [
+        "マグロステーキ",
+        "マグロ　すじ"
+    ],
+    "tsukurepo_count": "147",
+    "thumbnail": "https://img.cpcdn.com/recipes/911844/100x141c/876168a2a6580d3515d486ab431fc336.jpg?u=1431330&p=1252934098"
+}

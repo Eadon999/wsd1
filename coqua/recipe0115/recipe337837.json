@@ -1,0 +1,51 @@
+{
+    "name": "醤油だけ！白菜の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "sayuriaya"
+    },
+    "image": "https://img.cpcdn.com/recipes/337837/464x260/a6ebdca2c6e9ec63012e96df1a19e7bc.jpg?u=353166&p=1214214876",
+    "datePublished": "2007-03-01",
+    "description": "ピックアップ＆つくれぽ４００人オーバー☆醤油だけなのに、ビックリする美味しさ☆白菜のうまみを味わえる煮物です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "鶏肉（豚肉でもＯＫ）",
+            "quantity": "１～２枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３（お好みで）"
+        },
+        {
+            "name": "だし汁（水+本だしでもＯＫ）",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は鍋に入れるようなカンジで。　　　 \r\n\r\n鶏肉or豚肉も一口サイズに！",
+        "お肉を適度に炒めて（煮込むので炒めなくてもＯＫ）白菜を入れだし汁を入れ、醤油を少し入れて好みの味加減にし、蓋をして煮込む",
+        "白菜が好みの固さになったら出来上がり～♪",
+        "\nこれからもよろしくお願いします☆＾＾☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "337837",
+    "advice": "コツは特にありませ～ん♪めちゃ簡単！！そして美味しい☆",
+    "history": "小さい頃から食べてたおふくろの味です！母も幼い頃から食べてた味だそうなので代々続く味です♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "鶏肉",
+        "醤油",
+        "だし汁"
+    ],
+    "tsukurepo_count": "514",
+    "thumbnail": "https://img.cpcdn.com/recipes/337837/100x141c/6eb8c3313eb235b7dd335797aa6abff9.jpg?u=353166&p=1214214876"
+}

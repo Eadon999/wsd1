@@ -1,0 +1,86 @@
+{
+    "name": "絶品！あんかけチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "ちよえちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1490849/464x260/741c34dc48e5f06980931cb971ee2255.jpg?u=1245019&p=1310049392",
+    "datePublished": "2012-03-07",
+    "description": "【話題入り❤】おなじみのお手軽料理のチャーハン。あんかけにすると見栄えもよく、パラパラでなくてもおいしいんです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かにかま（ハムや豚バラでも）",
+            "quantity": "１０本ぐらい(お好みで）"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "２、３本"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "４人分"
+        },
+        {
+            "name": "しお、こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１ぐらい"
+        },
+        {
+            "name": "水",
+            "quantity": "３カップ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ３弱"
+        },
+        {
+            "name": "水",
+            "quantity": "１／２カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にあんの材料を入れて煮立て、水溶き片栗粉を入れる。",
+        "チャーハンの材料を切って準備。\n卵はいり卵に",
+        "チャーハンを作って、おわんで丸い形にしてまわりにあんをかける♪",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1490849",
+    "advice": "チャーハンは薄味でかまいません。あんの味がいいんです❤",
+    "history": "あんにしっかり味をつけて。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/あんかけチャーハン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あんかけ炒飯",
+        "絶品あんかけチャーハン",
+        "あんかけチャーハン あん"
+    ],
+    "tsukurepo_count": "142",
+    "thumbnail": "https://img.cpcdn.com/recipes/1490849/100x141c/08ca5e372c4c4b8df3052df49a6f48bc.jpg?u=1245019&p=1310049392"
+}

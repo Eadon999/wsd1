@@ -1,0 +1,61 @@
+{
+    "name": "簡単！イカと長ねぎの生姜焼き！",
+    "author": {
+        "@type": "Person",
+        "name": "ALOHAキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2592118/464x260/598ee2bbc09f82e17da58bdd75436ecf.jpg?u=9551969&p=1397801442",
+    "datePublished": "2014-04-18",
+    "description": "材料を切ってタレを作って、焼いて絡めるだけの超手抜きレシピです。笑",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "大2杯"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "すりおろし生姜",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "イカは食べやすいお好みの幅で切ってください。",
+        "長ねぎは0.5cmぐらいの幅で斜め切りにする。",
+        "タレをつくる。",
+        "フライパンにごま油を小さじ2ほど熱し、長ねぎを炒める。",
+        "半分ほど火が通ったらイカを入れ、イカの色が変わってきたらタレを入れて30秒程炒めて味を絡めたら、出来上がり〜！！",
+        "H26.8.14\nクックパッドニュースで取り上げて頂きました！\nありがとうございます♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "2592118",
+    "advice": "とにかく時短！切って・焼いて・絡める！これだけです(笑)冷凍のイカでも美味しくできますよ！",
+    "history": "時間がない時、サッとできるものを…",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ",
+        "長ねぎ",
+        "ごま油",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2592118/100x141c/9324f29202f2e7f68be612c78609d0bc.jpg?u=9551969&p=1397801442"
+}

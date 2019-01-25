@@ -1,0 +1,45 @@
+{
+    "name": "簡単★サイコロステーキdeオイマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "さとみんみん"
+    },
+    "image": "https://img.cpcdn.com/recipes/375442/464x260/3a8dc9e7b85fee78076c9cbf2cc2f04c.jpg?u=247938&p=1214216106",
+    "datePublished": "2007-05-18",
+    "description": "材料はたったの３つ★なのにとっても美味しい！子供達に大人気でした♪オイマヨシリーズ第。。。。。。。。。。何弾になったんだｗｗ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "サイコロステーキ",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１，５"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１，５"
+        }
+    ],
+    "recipeInstructions": [
+        "テフロン加工のフライパンを熱し、油を引かずにサイコロステーキを焼いていく。",
+        "８割がた焼けてきたら、フライパンの油をキッチンペーパー等でふき取る。（かなり油が出てくるのでちゃんとふき取る）",
+        "マヨネーズとオイスターソースを入れ、絡ませながら焼いていく。"
+    ],
+    "cookTime": null,
+    "recipe_id": "375442",
+    "advice": "サイコロステーキは焼くとかなり油が出ます。ソレをふき取ってから、オイスターソースとマヨネーズを入れましょう♪",
+    "history": "サイコロステーキが安かった♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/ビーフステーキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サイコロステーキ 子ども",
+        "サイコロステーキ",
+        "サイコロステーキ 子供"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/375442/100x141c/d3cb85f080d531568ce84f8d1ea9251c.jpg?u=247938&p=1214216106"
+}

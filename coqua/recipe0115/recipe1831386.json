@@ -1,0 +1,66 @@
+{
+    "name": "ヘルシー♪わかめトマトの中華風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "管理栄養士かな"
+    },
+    "image": "https://img.cpcdn.com/recipes/1831386/464x260/50f1161e400d2c02f2d0eab95965ab50.jpg?u=4386207&p=1338252281",
+    "datePublished": "2012-05-29",
+    "description": "わかめとトマト、きゅうりのあっさりヘルシーな中華風サラダです",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ(もどしたもの）",
+            "quantity": "200"
+        },
+        {
+            "name": "トマト",
+            "quantity": "中2ヶ(180g)"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本(80g)"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめはしっかり戻して水気をしっかりきる。トマトは洗ってヘタを取り、一口大に切る。きゅうりも洗って一口大の乱切りにする。",
+        "ボウルに調味料を合わせ①を入れざっくり混ぜ、塩コショウで味を整える。",
+        "器に盛り付け白ごまを振る。\n一人分\nカロリー68kcal\n塩分0.9g  です"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1831386",
+    "advice": "調味料(酢、醤油、ごま油）は先に合わせ具を入れざっくり合わせ、塩コショウは味をみて調整しましょう。",
+    "history": "海草をなるべくたっぷり、風味よく食べたいので少量のごま油を活用して作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ",
+        "トマト",
+        "きゅうり",
+        "酢"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1831386/100x141c/c9f6f80bccb3ec9bb90c906ef48fdd3f.jpg?u=4386207&p=1338252281"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "【試してみて♪】簡単まぐろのづけ",
+    "author": {
+        "@type": "Person",
+        "name": "pampukin"
+    },
+    "image": "https://img.cpcdn.com/recipes/1362126/464x260/468b05319f955792be59eec069bd9f85.jpg?u=317652&p=1298366599",
+    "datePublished": "2011-02-22",
+    "description": "しょうゆとみりんが1:1　簡単なのに安いマグロもおいしく食べられます♪丼にしても良いですね。✿2011.6.15話題入り",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "まぐろ",
+            "quantity": "１柵"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "本みりん",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "白髪ネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "まぐろを食べやすい大きさに切る。\n",
+        "鍋にしょうゆとみりんを入れて、沸騰させアルコールをとばし、冷ます。",
+        "バットなどにマグロと冷めた②を入れ、冷蔵庫で30分～１時間位漬ける。（全体がつかっていない場合は途中で１回ひっくり返す）",
+        "お好みでしらがネギ、白ゴマなどをのせて。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1362126",
+    "advice": "しょうゆとみりんは沸騰させたら、必ず冷ましてください。みりんは本みりんを使用。みりん風調味料でも作れますが、本みりんの方が美味しいです。",
+    "history": "安いマグロをおいしく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": [
+        "マグロの漬け 7位"
+    ],
+    "related_keywords": [
+        "まぐろ 漬け",
+        "マグロの漬け"
+    ],
+    "tsukurepo_count": "115",
+    "thumbnail": "https://img.cpcdn.com/recipes/1362126/100x141c/3d525ca9a480f000712e73bcbe1c62dc.jpg?u=317652&p=1298366599"
+}

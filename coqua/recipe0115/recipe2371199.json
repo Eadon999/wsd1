@@ -1,0 +1,87 @@
+{
+    "name": "おうちで簡単！あんかけラーメン♡",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2371199/464x260/30bf86197cf5501f6b8ab6c83a42c99f.jpg?u=603745&p=1447766527",
+    "datePublished": "2013-10-11",
+    "description": "たっぷり野菜＆とろ～りあんかけ♡ボリュームたっぷりのラーメンです。寒い季節には温まりますよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "200g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "きゃべつ",
+            "quantity": "１/４カット"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "☆水",
+            "quantity": "800cc"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつ、玉ねぎ、人参をお好みの大きさで切ります。",
+        "①ともやし、豚肉を炒めます。",
+        "炒めてる間に☆の調味料をボウルで混ぜ合わせます。",
+        "野菜に③を加えてとろみがつくまで煮詰めます。",
+        "麺を茹でます。",
+        "丼に水切りした麺を入れます。",
+        "麺の上にあんをたっぷりとかけます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2371199",
+    "advice": "お野菜はお好みのもので大丈夫です！きのこ類を加えたり、豚肉の代わりがハム等でも○",
+    "history": "寒くなってきたので温まるようにあんかけにして作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": [
+        "あんかけラーメン 2位"
+    ],
+    "related_keywords": [
+        "あんかけラーメン",
+        "あんかけラーメン 簡単",
+        "ラーメン"
+    ],
+    "tsukurepo_count": "248",
+    "thumbnail": "https://img.cpcdn.com/recipes/2371199/100x141c/205c4e574f9a8d53fcc82904fa5038ea.jpg?u=603745&p=1447766527"
+}

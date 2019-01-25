@@ -1,0 +1,70 @@
+{
+    "name": "フライパンで鶏モモと大根の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "miyucyann"
+    },
+    "image": "https://img.cpcdn.com/recipes/2989455/464x260/9e270b2f6156abdb1295b43fad85a2eb.jpg?u=3513041&p=1422777482",
+    "datePublished": "2015-02-01",
+    "description": "子供がとっても気に入ってくれました。ご飯が進むし、お酒のアテや、お弁当にもいけますよ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "４分の１本"
+        },
+        {
+            "name": "つきこんにゃく",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "半分"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "５本"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "●を合わしておきます。",
+        "鶏ももは一口大に大根人参は１センチ幅のいちょう切りにします。",
+        "大根こんにゃくを下茹でしてる間に鶏モモをフライパンで油は引かず蒸し焼きにします。",
+        "鶏モモに焼き色がついたら大根と人参を入れます。",
+        "４に、●と半分に切ったインゲン、こんにゃくを加えて汁気がなくなるまで煮詰めたら出来上がりです。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2989455",
+    "advice": "●を入れたら蓋は取ってよく絡めてください。煮詰まりかけたら焦げないように気をつけてくださいね♪",
+    "history": "鶏モモと大根を使ってご飯が進むオカズを作りたかったから。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉と大根の甘辛煮",
+        "大根 とりもも 甘辛煮"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2989455/100x141c/0dd096956ad9c671c844ccb5b15b581b.jpg?u=3513041&p=1422777482"
+}

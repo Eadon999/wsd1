@@ -1,0 +1,63 @@
+{
+    "name": "超簡単！きのことキャベツのマヨネーズ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "月のうさぎちゃま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1708932/464x260/facbaa91205c6bb5906aff2f9abb42ef.jpg?u=3081608&p=1329428971",
+    "datePublished": "2012-09-21",
+    "description": "とにかく簡単です！冷蔵庫にあるキノコとキャベツを炒めるだけ！ヘルシーでお腹は満腹になる、お財布にも時間にも優しい一品です",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブナピー",
+            "quantity": "1袋"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "6枚位"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ブナピーは石づきを取り、小房に分ける。エリンギは半分の長さに切り、食べやすい大きさにカットする。",
+        "キャベツとベーコンは食べやすい大きさに切る。",
+        "フライパンを熱し、マヨネーズの半分の量を入れ、①と②を入れ炒める。炒まったら残りのマヨも入れる。",
+        "塩・胡椒で味を調え、最後に醤油で香りづけをする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1708932",
+    "advice": "醤油はあってもなくてもOKです。あまり強火で炒めると、キャベツが焦げてしまうので目を離さないで（笑）",
+    "history": "お手軽の一品を作りたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブナピー",
+        "エリンギ",
+        "キャベツ",
+        "ベーコン"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1708932/100x141c/a112b221898240b9ba5bb634fc5fa6a4.jpg?u=3081608&p=1329428971"
+}

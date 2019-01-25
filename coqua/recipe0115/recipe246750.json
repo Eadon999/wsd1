@@ -1,0 +1,44 @@
+{
+    "name": "シソかぼちゃ",
+    "author": {
+        "@type": "Person",
+        "name": "かのんママ（'-'*）"
+    },
+    "image": "https://img.cpcdn.com/recipes/246750/464x260/d84c1ec63c77107733b315c053ccc0a9.jpg?u=68236&p=1214212833",
+    "datePublished": "2006-04-02",
+    "description": "偶然の産物・・・。意外に美味しい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "マヨネーズ・塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはよく洗い皮をところどころ剥いて電子レンジでチン。ほくほくにする。",
+        "大葉の細切りをのせ、マヨネーズ・塩・こしょうを適量ふって出来上がり。少しオーブントースターで焼いても。",
+        "私の友人Ｋ子ちゃん作。携帯でつくれぽありがとうね♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "246750",
+    "advice": "なし。",
+    "history": "大葉が野菜室で寂しく残されていた。急遽かぼちゃのお供をすることになった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "大葉"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/246750/100x141c/9639c6cf4854c4bc846d89eadf5d14c4.jpg?u=68236&p=1214212833"
+}

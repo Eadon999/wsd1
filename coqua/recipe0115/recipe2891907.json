@@ -1,0 +1,58 @@
+{
+    "name": "おふくろの味☆ほうれん草の胡麻和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "☆さくらんぼ母☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2891907/464x260/b9aac0c53b99bdec7453d692d870b64b.jpg?u=2337596&p=1416400613",
+    "datePublished": "2014-11-19",
+    "description": "甘めの胡麻和えにすると子供はもちろん青物苦手の主人も良く食べてくれます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "★すり胡麻(白)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★胡麻ペースト(練りゴマ)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は好みの硬さにゆで、冷水に晒し色止めをする。\nしっかりと水切りをし４cm長さに切る",
+        "ボールに★印を全て入れ、良く混ぜる",
+        "食べる直前に、①を②に入れ良く和える"
+    ],
+    "cookTime": null,
+    "recipe_id": "2891907",
+    "advice": "※食べる直前に和えて下さい。早めに合えると水っぽくなってしまいます※小松菜・春菊・人参等なんでもOKですよ♪※胡麻ペースト(練りゴマ)は無くてもOKですが、あるとコクが増します",
+    "history": "祖母の代からの定番です",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "すり胡麻",
+        "胡麻ペースト",
+        "砂糖"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2891907/100x141c/ba7f72fa4c79510bcecbbea3f69f910f.jpg?u=2337596&p=1416400613"
+}

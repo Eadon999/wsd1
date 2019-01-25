@@ -1,0 +1,68 @@
+{
+    "name": "【主夫的】なすとピーマンの甘辛いため",
+    "author": {
+        "@type": "Person",
+        "name": "バックアップ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1451761/464x260/11f914f575392cb38b1bf24960678e22.jpg?u=323754&p=1306420711",
+    "datePublished": "2011-05-26",
+    "description": "主役にはなれませんか？",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "３本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "４個"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは乱切りに、ピーマンは細切りにする。\n（なすは水にさらす）",
+        "フライパンにごま油を熱して、なすとピーマンを炒める。",
+        "なすがしんなりしとして火が通ったら、砂糖・しょうゆ・みりんを加えて味がしみるまで炒める。",
+        "最後に一味唐辛子（七味でも可）を加えれば完成です。",
+        "すりごまをかけてお召し上がり下さい。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1451761",
+    "advice": "",
+    "history": "ご飯の進む副菜が欲しくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ピーマン",
+        "すりごま",
+        "ごま油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1451761/100x141c/80251ba3859a925aacbbf32d746aaa7a.jpg?u=323754&p=1306420711"
+}

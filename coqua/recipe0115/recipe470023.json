@@ -1,0 +1,55 @@
+{
+    "name": "簡単雑炊",
+    "author": {
+        "@type": "Person",
+        "name": "Hiro74"
+    },
+    "image": "https://img.cpcdn.com/recipes/470023/464x260/9f73d43ca71ba0ce86027801ab6764cd.jpg?u=38113&p=1214217994",
+    "datePublished": "2007-12-04",
+    "description": "簡単で、体が温まります。息子が風邪を引くと、必ず食べたがります。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯（レンジで温める）",
+            "quantity": "軽く一杯"
+        },
+        {
+            "name": "お湯",
+            "quantity": "ひたひたになるくらい"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "1パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1位"
+        },
+        {
+            "name": "卵（といておく）",
+            "quantity": "1個"
+        },
+        {
+            "name": "ねぎ、三つ葉、ほうれん草、ゆず、油揚げ、ごまなどお好みのもの",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "一人用の土鍋にご飯を入れ、お湯を注ぎ、火にかける。",
+        "沸騰してきたら、鰹節を入れ、醤油も入れる。味を見て、濃い目が好きな方は、足してください。",
+        "1～2分位煮たら、沸騰しているところに、卵をまわし入れ、お好みの硬さに仕上げる。ねぎを散らして出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "470023",
+    "advice": "簡単です。体が温まります。元気なときには味がちょっと薄いかもしれません。お好みで和風だしを足してください。",
+    "history": "小さい頃、風邪を引き、最初はおかゆなのですが、調子が良くなってくると、具をどんどん足して…母が良く作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "雑炊 簡単"
+    ],
+    "tsukurepo_count": "136",
+    "thumbnail": "https://img.cpcdn.com/recipes/470023/100x141c/67674fa3d4a2b4ed45ab36763be3c9cf.jpg?u=38113&p=1214217994"
+}

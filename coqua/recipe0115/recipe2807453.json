@@ -1,0 +1,52 @@
+{
+    "name": "ピーマンのごま和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2807453/464x260/7594d89b249ad5df4ebea522503957b3.jpg?u=9552524&p=1411342508",
+    "datePublished": "2014-09-23",
+    "description": "甘辛の胡麻たっぷりで和えました♪ご飯にもお酒にも合いますよ(^^)v",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン（大）",
+            "quantity": "４個"
+        },
+        {
+            "name": "☆すりゴマ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "☆は合わせておきます。",
+        "ピーマンはタネを取って一口大の乱切りにします。",
+        "フライパンに②を入れ中火で３～４分、しんなりして少し焦げ目がつくまでカラ焼きします。",
+        "①に③を加えてよく和えます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2807453",
+    "advice": "ピーマンはしんなりするまで中火で焼いてね(^^♪",
+    "history": "ピーマンをたくさん頂いたので☆旦那くんの芋焼酎のおともに作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "すりゴマ",
+        "砂糖",
+        "しょう油"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2807453/100x141c/aa1c54dfc4d2383b92b30712968d91fc.jpg?u=9552524&p=1411342508"
+}

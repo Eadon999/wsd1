@@ -1,0 +1,55 @@
+{
+    "name": "ポテトのレモン&コンソメサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "‘rioka’"
+    },
+    "image": "https://img.cpcdn.com/recipes/350005/464x260/3dea96cd781c2328b1e0a2906b077c26.jpg?u=304856&p=1226026084",
+    "datePublished": "2007-03-26",
+    "description": "肉料理のお供に☆さっぱりしてるけど、コンソメ&レモンのパンチが効いてます♪お陰さまで１００人つくれぽ達成しました☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2～3個"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "☆ポッカレモン100",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮を剥いて適当な大きさに切り、水で洗う。",
+        "鍋に1を並べ、じゃがいもがひたひたにかぶるくらいの水を入れて中火で沸騰させ、顆粒コンソメを入れて水気がなくなるまでふかす。",
+        "ボールに水気の無くなったじゃがいもを入れ、みじん切りにしたパセリと☆を入れてスプーンで崩さないように混ぜ合わせてお皿に盛り付け☆"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "350005",
+    "advice": "鍋は小さめがいいと思います。",
+    "history": "ポテトサラダが食べたくて、コンソメで煮たら簡単で美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも サラダ ▲マヨネーズ"
+    ],
+    "tsukurepo_count": "140",
+    "thumbnail": "https://img.cpcdn.com/recipes/350005/100x141c/115568f9ee05d3e3ba0c42e5b0526134.jpg?u=304856&p=1226026084"
+}

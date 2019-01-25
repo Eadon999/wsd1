@@ -1,0 +1,56 @@
+{
+    "name": "簡単！丸ごとかぶの洋風炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3532296/464x260/02349fd077747dc9c5508a89f2b903c4.jpg?u=4376699&p=1448196991",
+    "datePublished": "2015-11-24",
+    "description": "コンソメで簡単炒め！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "1本"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/8"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶの葉を1cm程に切る\n茎は3cm程に切る\nかぶは皮を剥いて薄くいちょう切りにする\n肉を小さく切る",
+        "かぶと茎をレンジ600w２分チン\nオリーブオイル小さじ2で肉を先に炒める",
+        "かぶと葉とコンソメ塩胡椒を加えて軽く炒め\n水を加え蓋をして2分蒸し焼きにして完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3532296",
+    "advice": "肉は無くてもＯＫ",
+    "history": "大きなかぶだったんでかぶメインの炒め物にしてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ洋風",
+        "豚薄切り肉 洋風"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3532296/100x141c/4240fea403604be3330107bf5a135f01.jpg?u=4376699&p=1448196991"
+}

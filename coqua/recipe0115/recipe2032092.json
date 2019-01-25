@@ -1,0 +1,71 @@
+{
+    "name": "白菜とワカメのあっさり生姜スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ふるびあ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2032092/464x260/644daaff5aed52bfeb275d3c8a88f3df.jpg?u=4322899&p=1485176810",
+    "datePublished": "2012-11-17",
+    "description": "話題入り感謝♪生姜が香る、白菜とワカメのあっさりスープ♪生姜パワーで身体もぽっかぽかになりますよ～☆",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "２枚(ミニ白菜なら４枚)"
+        },
+        {
+            "name": "ワカメ",
+            "quantity": "２５g"
+        },
+        {
+            "name": "わけぎ",
+            "quantity": "３本"
+        },
+        {
+            "name": "水",
+            "quantity": "８００㏄"
+        },
+        {
+            "name": "中華だし",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "チューブ生姜",
+            "quantity": "４㎝"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は１㎝幅に切る。\n\nワカメは食べやすい大きさに切る。\n\nわけぎは小口切りに切る。",
+        "鍋に水を入れ、沸いたら白菜を入れる。\n\n白菜に少し火が通ってきたら、中華だしと醤油を入れる。",
+        "白菜が透明になってきたらワカメとわけぎ、生姜を溶き入れる。\n\n塩胡椒で味を整え、最後にゴマを振り入れ完成♪",
+        "オススメ！\nお豆腐を入れるとボリュームもＵＰ♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2032092",
+    "advice": "生姜の量はお好みで調節してくださいね♪",
+    "history": "ついついごま油を入れがちな中華スープですが…生姜を入れることで、ごま油無しの物足りなさを解消できないかな？と思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "ワカメ",
+        "わけぎ",
+        "水"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2032092/100x141c/fcc9bcfcd56be90f3c40a14198070635.jpg?u=4322899&p=1485176810"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "なめこと大根とわかめの酸辣湯",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2336768/464x260/e6e4f8b3a735966dc3211a6b0055623a.jpg?u=4328809&p=1378509399",
+    "datePublished": "2013-09-07",
+    "description": "酸辣湯好きの方に♪色んな具材でお試し中！",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "なめこ",
+            "quantity": "１パック（１００g）"
+        },
+        {
+            "name": "大根",
+            "quantity": "４cm位"
+        },
+        {
+            "name": "カットわかめ",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "鶏がらスープの素(粉末)",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ　１１/２～２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ　１～２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々より多め（お好みで）"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "カットわかめは水でもどしておく。なめこはさっと流水で洗っておく。大根は千切りにする。",
+        "鍋に水と鶏ガラスープの素を入れ火にかける。",
+        "沸騰したら、大根→なめこ→わかめを加えてひと煮し、醤油、塩、こしょうで調味する。",
+        "水溶き片栗粉でとろみをつけ、溶き卵を回し入れる。",
+        "卵がふわっと上がってきたら軽く混ぜ、酢を加えて完成です。",
+        "器に入れてお好みでラー油を少したらしてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2336768",
+    "advice": "こしょうは多めが美味しいです。酢、醤油はお好みに合わせて量を調節してください。",
+    "history": "酸辣湯が好きです。冷蔵庫にあるもので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめこ",
+        "大根",
+        "カットわかめ",
+        "卵"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2336768/100x141c/0e185c14b9ffdab639e7cd31b2e9cb55.jpg?u=4328809&p=1378509399"
+}

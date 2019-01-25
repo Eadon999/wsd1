@@ -1,0 +1,49 @@
+{
+    "name": "♡ふりかけがないときの即席おかかおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "よんこちゃんさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2357185/464x260/a7ccf92736c2b067bcf5214663e63954.jpg?u=7508820&p=1380242295",
+    "datePublished": "2013-09-27",
+    "description": "話題入り（●＾o＾●）ふりかけをきらしたときに便利！とっても簡単、ほんわか優しいおにぎりです！",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "おにぎり2個分"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "カップ1/2くらい準備"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "海苔",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯に醤油をパパッとふりかけ、その上に鰹節をふりかけまぜるだけ！\n（味は鰹節の量で調節してね。）",
+        "おにぎりをにぎり、海苔を巻いたらできあがり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2357185",
+    "advice": "味の調整は鰹節ですると体にいいです。（醤油は塩分高いのと、入れすぎてベトついてしまう場合があるので）☆☆",
+    "history": "ふりかけをきらしたときに、作りました☆☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "鰹節",
+        "醤油",
+        "海苔"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2357185/100x141c/a3df6edc73bcca32c3230310fe14a102.jpg?u=7508820&p=1380242295"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "ささ身のカレーピカタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2607695/464x260/77a9ae223fc30140d5526a1e174dffda.jpg?u=9552524&p=1398749311",
+    "datePublished": "2014-04-29",
+    "description": "柔らか～いささ身のピカタです♡カレー風味がご飯にもお酒にも(^^♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ささ身",
+            "quantity": "４本"
+        },
+        {
+            "name": "玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★カレー粉",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★粗挽き黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "★おろしにんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささ身は筋を取って開いて半分に切ります。",
+        "①に★をまぶし１５分以上置きます。片栗粉をまぶします。",
+        "②を溶き卵にくぐらせてサラダ油を熱したフライパンで中火で両面焼きます。玉子が固まったら再度玉子をくぐらせて焼きます。",
+        "野菜とともに器に盛りケチャップを添えます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2607695",
+    "advice": "ささ身は薄く開いた方は火が通りやすく玉子がふんわり焼けます(^^♪",
+    "history": "子供が小さい頃大好きだったメニューです♡",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": [
+        "ささみピカタ 10位"
+    ],
+    "related_keywords": [
+        "ささみ ピカタ",
+        "ささみ ピカタ カレー",
+        "カレーピカタ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/2607695/100x141c/365825a87729b9f0f3800d3a453cf9b6.jpg?u=9552524&p=1398749311"
+}

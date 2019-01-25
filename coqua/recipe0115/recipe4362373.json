@@ -1,0 +1,62 @@
+{
+    "name": "簡単♪鶏もものごまマヨガーリックソテー",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4362373/464x260/154c8ef8700de81044abc2a799e6034a.jpg?u=9664115&p=1487367660",
+    "datePublished": "2017-02-20",
+    "description": "焼いて和えるだけの簡単レシピ♪サラダに使うごまマヨを敢えての鶏モモソテーに。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏モモ肉",
+            "quantity": "150g程度"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "キューピー マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ゴマドレッシング",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "きざみニンニク",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏モモ肉を食べやすい大きさに切る。",
+        "塩胡椒を振り下味をつける。\n",
+        "小麦粉を全体にまぶす。",
+        "フライパンにオリーブオイルをひきニンニクを炒める。",
+        "香りが出てきたら鶏モモ肉を入れ火が通るまで両面焼く。",
+        "火が通ったらマヨネーズとゴマドレッシングを加えて全体的に和えたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4362373",
+    "advice": "ふわっと仕上げたい時はフタをして火を通してください。",
+    "history": "晩酌用に。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ガーリックソテー 鶏もも"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4362373/100x141c/efab76fe69dca8188506e2b9dabe79d6.jpg?u=9664115&p=1487367660"
+}

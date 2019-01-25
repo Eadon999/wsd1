@@ -1,0 +1,64 @@
+{
+    "name": "ピリ辛こんにゃく！！！お弁当に！！！",
+    "author": {
+        "@type": "Person",
+        "name": "petitto"
+    },
+    "image": "https://img.cpcdn.com/recipes/1284733/464x260/8aee65a35ae334cee8a9f3f4e362dc3d.jpg?u=2655955&p=1289914403",
+    "datePublished": "2010-11-15",
+    "description": "子供のころ母が作ってくれた懐かしい味を思い出しながらお弁当用に再現してみました。ピリッとした辛みがビールにも合うかも。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "一枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★お醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★お酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくを短冊切にして、ごま油と鷹の爪で炒める。\n",
+        "★を合わせておく。",
+        "炒めて水分が飛んだこんにゃくに、★を加える。",
+        "かつおぶしを加え、汁気がなくなるまで炒める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1284733",
+    "advice": "2011/02/24：レシピ見直しました。",
+    "history": "子供のころ母が作ってくれた懐かしい味を思い出しながらお弁当用に再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃくお弁当"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1284733/100x141c/fd186c127e78cb03cd4ced2a159085be.jpg?u=2655955&p=1289914403"
+}

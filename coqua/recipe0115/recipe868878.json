@@ -1,0 +1,55 @@
+{
+    "name": "エノキのホイル焼き☆バタポンで",
+    "author": {
+        "@type": "Person",
+        "name": "居酒屋英二"
+    },
+    "image": "https://img.cpcdn.com/recipes/868878/464x260/3fe23f417d05464b055016262990b90d.jpg?u=582219&p=1247920770",
+    "datePublished": "2009-07-18",
+    "description": "ホイルを開いた時に立ち上る香りが食欲をそそります！",
+    "recipeYield": "二人前",
+    "recipeIngredient": [
+        {
+            "name": "エノキ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "味ポン",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "エノキは適当なかたまりにほぐす。一人分づつに分けてホイルにのせ酒と塩胡椒を振り、ベーコンとバターを乗せて包む",
+        "オーブントースターで10分ほど焼く。味ポンをかけていただく\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "868878",
+    "advice": "",
+    "history": "少量でもバターの香りが楽しめるようにホイル焼きにしてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき ホイル焼き",
+        "えのきのホイル焼き ポン酢"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/868878/100x141c/59b3f77e43f89e4d73096fc23ff264ea.jpg?u=582219&p=1247920770"
+}

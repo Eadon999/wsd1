@@ -1,0 +1,60 @@
+{
+    "name": "卵とチーズのパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "abcdeli"
+    },
+    "image": "https://img.cpcdn.com/recipes/2215600/464x260/b7ad3c259c3240c002c639333203a939.jpg?u=4250342&p=1368059169",
+    "datePublished": "2013-05-09",
+    "description": "パスタにソースを絡めるだけ。簡単なのに、濃厚でめちゃくちゃおいしい！！ハマること間違いなしです♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ(スパゲッティ、タリアッテレなど)",
+            "quantity": "1人分(約100g)"
+        },
+        {
+            "name": "●卵黄",
+            "quantity": "1コ"
+        },
+        {
+            "name": "●バター(小さめに切る）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●牛乳",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●粉チーズ(パルメザン)",
+            "quantity": "大さじ2と1/2"
+        },
+        {
+            "name": "●塩",
+            "quantity": "2つまみ"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタをゆで始める。ボールに●を入れ、混ぜておく。",
+        "パスタが茹で上がったら湯を切り、1のボールに入れてバターが溶けるまで手早く混ぜ合わせる。",
+        "お皿に盛りつけ、コショウをふれば、できあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2215600",
+    "advice": "コツは特にありません。本当に簡単です♪",
+    "history": "行正り香さんの「旅で出会ったイタリアン」のレシピを参考に、身近な材料でより作りやすいようにアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/チーズ系パスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵とチーズのパスタ",
+        "チーズパスタ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/2215600/100x141c/ed748e8ab8e03e47911b6da0478b83b4.jpg?u=4250342&p=1368059169"
+}

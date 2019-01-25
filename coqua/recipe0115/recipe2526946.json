@@ -1,0 +1,82 @@
+{
+    "name": "☆ふわふわ鶏団子とカブの煮物☆",
+    "author": {
+        "@type": "Person",
+        "name": "浅田好未"
+    },
+    "image": "https://img.cpcdn.com/recipes/2526946/464x260/9ff36ae7b3624f796c04f41912f7e41c.jpg?u=8803837&p=1393765476",
+    "datePublished": "2014-03-02",
+    "description": "水切りなしの豆腐で、ふわふわ～な鶏団子。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "一丁(300g)"
+        },
+        {
+            "name": "長葱微塵切り",
+            "quantity": "１０㎝分"
+        },
+        {
+            "name": "かぶ",
+            "quantity": "２個"
+        },
+        {
+            "name": "絹さや",
+            "quantity": "４枚"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆すりおろし生姜",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★鶏ガラスープ",
+            "quantity": "１.５カップ"
+        },
+        {
+            "name": "★塩胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは皮を剥いて食べやすい大きさに切り、\n\n絹さやは筋を取っておく。",
+        "豆腐は水切りせずボウルに入れ、挽肉・ねぎ・☆を加えてよく混ぜ合わせ、\n\nだんご状にまとめる。",
+        "フライパンに★のスープを煮立て、\n\nかぶと肉団子を入れて蓋をし、１０分程蒸し煮にしたら絹さやを加え更に２～３分。",
+        "塩胡椒で味を調えて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2526946",
+    "advice": "たねはしっかり混ぜてね。",
+    "history": "ふわふわ～な鶏団子が食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/鶏挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ 鶏団子",
+        "かぶ 鶏団子 煮物",
+        "かぶ 鶏ひき肉 煮物"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/2526946/100x141c/08dbbe9d20b6cf1e49a0c5521aad170a.jpg?u=8803837&p=1393765476"
+}

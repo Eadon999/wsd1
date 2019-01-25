@@ -1,0 +1,44 @@
+{
+    "name": "簡単！☆我が家の定番ごぼうの唐揚げ☆",
+    "author": {
+        "@type": "Person",
+        "name": "☆笑くぼ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2778322/464x260/085d8747bbacbf22aed366ebc8a55ec4.jpg?u=10265366&p=1409495772",
+    "datePublished": "2014-09-01",
+    "description": "おつまみに、パーティーに、ついつい手が出る美味しさ☆141117カテゴリ掲載感謝♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "2本"
+        },
+        {
+            "name": "唐揚げ粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "繊維を切るように、斜めに切る。",
+        "水につけ、アク抜きをする。",
+        "ザルにあげて水分を切る。唐揚げ粉をまぶす。",
+        "揚げて出来上がり。お好みで塩コショウをふってください。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2778322",
+    "advice": "薄く切ると早く揚がるので、揚げすぎないことかな。",
+    "history": "子供向けの野菜料理を作りたくて、考えました。でもおじいちゃんにもヒットしました(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう 唐揚げ 簡単"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2778322/100x141c/27b71132cdbd162257b4b01c3c67eaeb.jpg?u=10265366&p=1409495772"
+}

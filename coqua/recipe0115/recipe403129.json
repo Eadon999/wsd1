@@ -1,0 +1,62 @@
+{
+    "name": "しらすの卵焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "あさえもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/403129/464x260/ac1a284e1362e568e4a46ba4d6832c66.jpg?u=205426&p=1214216691",
+    "datePublished": "2007-07-12",
+    "description": "しらすと小ネギをたっぷり入れた卵焼きです♪みんなが大好きな味☆お弁当にぴったりです！",
+    "recipeYield": "卵３個分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに☆を合わせ、卵も加え、菜ばしで切るように混ぜる。",
+        "フライパンに薄くサラダ油を塗って熱し、1/４量を流して巻き、それを３～４回繰り返す。火加減は中火で。",
+        "冷めたら切り分けます♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "403129",
+    "advice": "しらすの塩気によって、塩を微妙に加減してください＾＾色が多少濁りますが、しょう油を数滴混ぜても美味しいです。朝食にも、お弁当にもぴったりのおかずです♪",
+    "history": "いろんな卵焼きを作りますが、これは家族みんながお気に入りです。簡単に出来て美味しいので、便利です♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "しらす",
+        "刻みねぎ",
+        "だし汁"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/403129/100x141c/d3db4e35a04c75b002a8553d1654084a.jpg?u=205426&p=1214216691"
+}

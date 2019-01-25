@@ -1,0 +1,65 @@
+{
+    "name": "竹輪ときゅうりの爽やかサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1397250/464x260/1c80773555e3dfe85867cdf4d6e84e61.jpg?u=1228553&p=1313648776",
+    "datePublished": "2011-03-29",
+    "description": "和の和え物にしか見えないこの一品は、食べると実は洋風でさっぱりレモンの香りのするサラダです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "２本"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "２本"
+        },
+        {
+            "name": "紫蘇",
+            "quantity": "５・６枚"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "竹輪は輪切り、紫蘇は千切り、きゅうりはスライスしたら塩もみして水でさっと洗い流し絞る\n\n",
+        "☆で和えたら胡麻で飾って出来上がり♪\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1397250",
+    "advice": "きゅうりの塩もみはまず、スライスした胡瓜に塩をふりかけ混ぜたら少し置きます。２・３分して胡瓜が少ししんなりしたらキュッキュッと手軽くもんで水洗いします。",
+    "history": "電気・ガスを使わないレシピ。 手に入りやすい材料で一味違うサラダにしてみました。 いつもの材料でちょっといつもと違う味。。 そういうのもどんどん考えたいですね～！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "竹輪",
+        "胡瓜",
+        "紫蘇",
+        "レモン汁"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/1397250/100x141c/ca597448fc74bcafe6bf8bc6e7b039bd.jpg?u=1228553&p=1313648776"
+}

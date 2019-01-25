@@ -1,0 +1,54 @@
+{
+    "name": "ネギ＆納豆＆チーズ入り・薄揚げ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1358428/464x260/2c1866879a8971118e1adb5b4360e615.jpg?u=2124468&p=1298296885",
+    "datePublished": "2011-03-06",
+    "description": "こんがり焦げた薄揚げの中からネギとチーズがとろけ出ます。香ばしさがたまりません。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "薄揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "20cm"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "50g"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "納豆",
+            "quantity": "40g"
+        }
+    ],
+    "recipeInstructions": [
+        "薄揚げは半分に切って袋状にしておく。",
+        "ネギは小口切りにして、電子レンジで30秒ほど加熱しておく。ネギの刺激がお好きな方は過熱を省略してもＯＫ！",
+        "よく練った納豆とチーズ、２のネギを合わせてかき混ぜる。",
+        "1の薄揚げに３を詰める。",
+        "楊枝で口を留めてオーブントースターで3分ほど（少し焦げてくる程度）焼いて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1358428",
+    "advice": "",
+    "history": "薄揚げを焼いて食べたくなった。中に何か入れてみよう。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆 揚げ焼き"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/1358428/100x141c/9821c69ae78fcd114dd0401ac1908ef1.jpg?u=2124468&p=1298296885"
+}

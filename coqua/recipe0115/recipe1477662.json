@@ -1,0 +1,55 @@
+{
+    "name": "辛ウマ♪鶏むね肉のマヨ豆板醤炒め",
+    "author": {
+        "@type": "Person",
+        "name": "nachari"
+    },
+    "image": "https://img.cpcdn.com/recipes/1477662/464x260/fda31ac72a45129dfd2d204177b245dd.jpg?u=2938981&p=1308728597",
+    "datePublished": "2011-06-22",
+    "description": "マヨネーズと豆板醤で味付けするだけと超簡単♪コクがあってほど良く辛くて、ごはんがすすむ一品です！",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚(約250g)"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏むね肉は食べやすい大きさにそぎ切りにし、酒をふっておく。",
+        "フライパンを熱し、鶏肉を両面こんがりと焼く。テフロン加工なら油なしでOK。",
+        "鶏肉が焼けたらマヨネーズ、豆板醤を入れてよく混ぜる。",
+        "器に盛り、ねぎのみじん切りをたっぷりかけたら完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1477662",
+    "advice": "コクのあるソースなので、脂の少ない鶏むね肉を使うとさっぱり美味しいです＾＾",
+    "history": "マヨネーズも豆板醤も大好きな私の定番メニューです♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "酒",
+        "マヨネーズ",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/1477662/100x141c/bdf37027749150925cd66e4298022784.jpg?u=2938981&p=1308728597"
+}

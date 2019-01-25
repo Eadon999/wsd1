@@ -1,0 +1,49 @@
+{
+    "name": "カリカリお揚げのネギタルソース",
+    "author": {
+        "@type": "Person",
+        "name": "いかりんGOO"
+    },
+    "image": "https://img.cpcdn.com/recipes/1343605/464x260/bc818b2db0e4d355e61de0627f74841e.jpg?u=1225605&p=1296355555",
+    "datePublished": "2011-01-30",
+    "description": "ネギタルソース、かなりイケます♪ノンオイルでとてもヘルシー。ムニエルや牡蠣フライでもお試しください。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "青じそドレッシング",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "1コ"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "■ネギタルソース\nゆで卵はみじん切りにし、青じそドレッシングとよくまぜる。小口切りにした万能ネギも加える。",
+        "油揚げはオーブントースターでカリッと焼く。\n\n食べやすいサイズに切り、ネギタルソースをのせてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1343605",
+    "advice": "特になし。簡単でっす。",
+    "history": "ヘルシーなタルタルソースができないかな～と思って。市販のタルタルソースに比べ、カロリー１／３以下です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "油揚げ",
+        "青じそドレッシング",
+        "ゆで卵",
+        "万能ネギ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/1343605/100x141c/6642a49f832b7436153191a4595268cf.jpg?u=1225605&p=1296355555"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "玉こんにゃく",
+    "author": {
+        "@type": "Person",
+        "name": "サチん"
+    },
+    "image": "https://img.cpcdn.com/recipes/306806/464x260/395065a072c25093ddc0cd1071b3bb16.jpg?u=66486&p=1214214214",
+    "datePublished": "2006-12-03",
+    "description": "山形っ子のソウルフード？手軽にヘルシーおやつorおかずです☆",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "1袋（12個前後）"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1～2"
+        },
+        {
+            "name": "酒",
+            "quantity": "少量"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "芥子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とこんにゃくを入れ、沸騰するまで茹でます",
+        "沸騰したらお湯を捨て、鍋に調味料を入れます",
+        "中火で調味料がよく絡まるように炒めます",
+        "焦がさないように炒め続け、汁気がなくなったら火を止めます",
+        "お好みで芥子をつけてお召し上がりください"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "306806",
+    "advice": "少し冷ますと味がより染みます☆調味料の量はお好みで調節しましょう♪",
+    "history": "玉こんにゃくがあったのでなんとなぁーく作ってみました",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山形 玉こんにゃく",
+        "玉こんにゃく"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/306806/100x141c/7c82be1aff488d757211e343eb1f64b3.jpg?u=66486&p=1214214214"
+}

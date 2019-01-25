@@ -1,0 +1,71 @@
+{
+    "name": "簡単＊ツナと新玉ねぎの炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "＊Ａｎｎａ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2644416/464x260/ff3db53bd4ea72c8b6962791b1f27d02.jpg?u=2200256&p=1401105682",
+    "datePublished": "2014-05-27",
+    "description": "ツナと新玉ねぎから旨味が出てシンプルな味付けだけどとっても美味しいです♡",
+    "recipeYield": "3合分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "3合"
+        },
+        {
+            "name": "ツナ缶(油漬け)",
+            "quantity": "1缶(70g)"
+        },
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "＊本だし",
+            "quantity": "小1"
+        },
+        {
+            "name": "＊薄口醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "小2/3"
+        },
+        {
+            "name": "白煎りゴマ",
+            "quantity": "大1"
+        },
+        {
+            "name": "大葉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お米を研ぎ、水気を切っておく。",
+        "新玉ねぎはスライスする。",
+        "お釜に新玉ねぎとツナ、＊を入れ3合のラインまでお水を入れる。",
+        "一混ぜしたら炊き込みコースで炊飯し、炊けたら白ゴマを混ぜ、お椀によそったら刻んだ大葉と白ゴマを乗せ、完成です。"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "2644416",
+    "advice": "ツナは油を切らず、そのまま入れて下さい。",
+    "history": "炊き込みご飯がふいに食べたくなって旬の新玉ねぎを使って作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お米",
+        "ツナ缶",
+        "新玉ねぎ",
+        "酒"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2644416/100x141c/615872139dc1bb4a413072fc163d804a.jpg?u=2200256&p=1401105682"
+}

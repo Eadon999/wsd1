@@ -1,0 +1,53 @@
+{
+    "name": "おいしい味噌汁（豆腐・みょうが）",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/3297970/464x260/b1292626a09cc09f11c4374585c626b2.jpg?u=798237&p=1436963547",
+    "datePublished": "2015-07-15",
+    "description": "素材の美味しさを活かす作り方です。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "とうふ",
+            "quantity": "1丁"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "1本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "3カップ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はさいの目に、茗荷は輪切りにする。",
+        "だし汁を煮立て、豆腐を入れ、ひと煮立ちしたら、みそを溶き入れる。",
+        "茗荷をいれ、火を止める。",
+        "お椀に入れる。",
+        "お好みで三つ葉を散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3297970",
+    "advice": "◆味噌を入れたら、煮立たせない。◆豆腐の味噌汁の場合は、煮すぎず、茗荷は火を止める直前か止めてから入れ、新鮮な食感を残す。",
+    "history": "新鮮なミョウガの旨みを活かしたくて、入れる順番やタイミングにこだわってみました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/みょうが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とうふ",
+        "みょうが",
+        "だし汁",
+        "味噌"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3297970/100x141c/e39ff4b925ddac1dfd9acf48fef2a809.jpg?u=798237&p=1436963547"
+}

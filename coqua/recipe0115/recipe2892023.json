@@ -1,0 +1,57 @@
+{
+    "name": "エリンギと三つ葉のお吸い物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2892023/464x260/7268509abbcd09a497223a8ffdce1412.jpg?u=4819316&p=1416404829",
+    "datePublished": "2014-11-19",
+    "description": "17/7/29話題入り有難う、松茸のお吸い物というわけにはいかなくて、エリンギですが食感は似ているし、いけますよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "４本"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "●顆粒和風だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは薄切り、三つ葉は３センチ長さに切る",
+        "鍋に●を沸かし、エリンギを入れて一煮立ちさせる",
+        "お椀によそって、三つ葉を散らす"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2892023",
+    "advice": "これはコツもポイントも特にないでしょう",
+    "history": "エリンギは食感が松茸に似ていて高級感を感じることありますよね、松茸もどきのお吸い物にしてみました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物",
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "みつば お吸い物",
+        "エリンギ お吸い物"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2892023/100x141c/8a7a7d9ee1a71c22e8d9dbfdb47fd45d.jpg?u=4819316&p=1416404829"
+}

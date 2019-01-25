@@ -1,0 +1,65 @@
+{
+    "name": "かぶのとろっとコク煮",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/341861/464x260/e375b4cb5d5abb702b6369c92f11579a.jpg?u=322985&p=1214214971",
+    "datePublished": "2007-03-09",
+    "description": "蜂蜜としょうがでコクが出ました♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "大２"
+        },
+        {
+            "name": "かぶの葉",
+            "quantity": "１個分"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "しょうが（みじん切り）",
+            "quantity": "一片"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "＊蜂蜜",
+            "quantity": "大１"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "＊しょうゆ",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは皮を剥いて一口大に切ります。鍋にサラダ油を入れて、しょうが、ひき肉を炒め、かぶを加えて炒めます。だし汁を入れて沸騰したらアクを取り、＊調味料で５分煮ます。かぶの葉をくわえて蓋をして蒸します。",
+        "混ぜてなじんだら水溶き片栗粉でとろみをつけて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "341861",
+    "advice": "炒めることでコクが出ます。蜂蜜もポイントです。",
+    "history": "冷蔵庫にあるかぶであったかい料理をしたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "かぶの葉",
+        "豚ひき肉",
+        "しょうが"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/341861/100x141c/58a63b674bfcd217c74b0a7db3ad82dc.jpg?u=322985&p=1214214971"
+}

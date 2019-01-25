@@ -1,0 +1,62 @@
+{
+    "name": "チンゲン菜のお浸し",
+    "author": {
+        "@type": "Person",
+        "name": "くろぶち"
+    },
+    "image": "https://img.cpcdn.com/recipes/255590/464x260/b709db4840795375be30d01dce81be12.jpg?u=215121&p=1214213047",
+    "datePublished": "2006-05-22",
+    "description": "にんにくで食欲ＵＰ！！9/4話題のレシピ入りしました。ありがとうございます♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "２株"
+        },
+        {
+            "name": "えのき",
+            "quantity": "１袋"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく（チューブのもの）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜・えのきは食べやすい大きさに切り、塩・サラダ油を入れた湯でゆでます。",
+        "１とＡを混ぜ合わせてできあがりです。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "255590",
+    "advice": "にんにくはすりおろしでももちろんＯＫです。チンゲンサイを茹でる際、塩と油を入れるとカロチンの吸収率がアップしますよ！",
+    "history": "にんにくの香りで食欲がアップ！したらいいなと思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜",
+        "えのき",
+        "塩",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/255590/100x141c/a58f9a6b52ead6b19d7f95860b333f91.jpg?u=215121&p=1214213047"
+}

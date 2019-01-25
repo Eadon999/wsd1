@@ -1,0 +1,59 @@
+{
+    "name": "✿ほうれん草の海苔じゃこ和え（ナムル）✿",
+    "author": {
+        "@type": "Person",
+        "name": "yamita"
+    },
+    "image": "https://img.cpcdn.com/recipes/1332857/464x260/36c91e768e71ff4136409497600a0cc1.jpg?u=612172&p=1295583316",
+    "datePublished": "2011-01-21",
+    "description": "栄養たっぷりの和え物です✿ごま油と海苔で風味アップ♬子供もモリモリ食べてくれるよ～✿11.2.23話題入感謝✿",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "1枚"
+        },
+        {
+            "name": "じゃこ（しらす）",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "麺つゆ（3倍濃縮）",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて、冷水ですすぎ、水切りし、3～4ｃｍの長さに切る。",
+        "焼き海苔はちぎる。",
+        "ボールに①②じゃこ、麺つゆ、ごま油を全て入れて和える。",
+        "器に盛り、白ごまをぱらり、出来上がり～♬"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1332857",
+    "advice": "",
+    "history": "ほうれん草が沢山あったので美味しく食べたくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 じゃこ",
+        "じゃこ",
+        "ほうれん草の海苔じゃこ和え",
+        "ほうれん草 のり ナムル"
+    ],
+    "tsukurepo_count": "377",
+    "thumbnail": "https://img.cpcdn.com/recipes/1332857/100x141c/9b97f201d704998dbe90692d25e2a01f.jpg?u=612172&p=1295583316"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "冬瓜と鶏手羽の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "motchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/901382/464x260/070d17e79475993233e5cbe5b0d9b4e3.jpg?u=452329&p=1251853229",
+    "datePublished": "2009-09-06",
+    "description": "鶏肉も冬瓜も柔らかく、優しいお味です☆☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽",
+            "quantity": "５～６本"
+        },
+        {
+            "name": "冬瓜",
+            "quantity": "１／３個くらい"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１と１／２カップ"
+        },
+        {
+            "name": "砂糖・酒・みりん・醤油",
+            "quantity": "各大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜は種とワタを取り、皮をむいて食べやすい大きさにカット。→下茹でしておく。 \r\n鶏手羽は、さっと茹でて脂抜き。",
+        "鍋に煮汁の調味料を合わせておきます。 \r\nお醤油は「りんごたまり醤油」を使ってみました。",
+        "煮汁で鶏手羽と冬瓜を煮る。→煮立ったら中火にして、落としブタを。",
+        "全体に火が通り、味が染み込んだら出来上がりです。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "901382",
+    "advice": "大根でも美味しいと思います。",
+    "history": "冬瓜を美味しく頂きましょう☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏手羽",
+        "冬瓜",
+        "煮汁",
+        "だし汁"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/901382/100x141c/8e34beaca272fefbc53a356814b517b8.jpg?u=452329&p=1251853229"
+}

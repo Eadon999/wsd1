@@ -1,0 +1,47 @@
+{
+    "name": "レンジで簡単！あさりの酒蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ふわふわふわふわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1790662/464x260/60de74bbeb02c6b301b23783f622482e.jpg?u=4180936&p=1335250467",
+    "datePublished": "2012-04-24",
+    "description": "この季節の定番！レンジでパパッと作っちゃいましょう！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "あさりは、塩水につけて砂抜きしておきます。\nねぎは小口切りにしておきます。",
+        "耐熱容器にあさりと酒を入れ、ふんわりとラップをかけて電子レンジで1分程度加熱します。",
+        "２にねぎを散らして、できあがりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1790662",
+    "advice": "2で、電子レンジに入れる時間は、適宜調整してください。あさりの口が開いたらすぐに止めましょう。お好みで、にんにくやバターを加えても美味しいです。",
+    "history": "簡単なので、酒の肴によく作る定番レシピです♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさりの酒蒸し レンジ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/1790662/100x141c/c7268417522abd238b1fec8744e68502.jpg?u=4180936&p=1335250467"
+}

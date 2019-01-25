@@ -1,0 +1,56 @@
+{
+    "name": "レンジで簡単！ひじきのツナ和え",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4107666/464x260/6eaf2f2ef009dbb664b1f27079dc8d2e.jpg?u=4376699&p=1475682381",
+    "datePublished": "2016-10-09",
+    "description": "ご飯のおとも♪お弁当にも♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき(乾燥)",
+            "quantity": "5g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきを水で戻す\n※30分程度でＯＫ\n調味料を加えてレンジ600w1分半\nツナを混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4107666",
+    "advice": "ひじきはたっぷりの水で戻して絞るレンチンはラップ不要",
+    "history": "ひじきにツナを試しで混ぜてみましたこれ美味しい！です",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "ツナ缶",
+        "減塩醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4107666/100x141c/285719bc5f3b1f158af145b1dde05cd6.jpg?u=4376699&p=1475682381"
+}

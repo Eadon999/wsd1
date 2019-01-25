@@ -1,0 +1,55 @@
+{
+    "name": "簡単♪ナスのチリポン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "やまうさ"
+    },
+    "image": "https://img.cpcdn.com/recipes/420885/464x260/eee28632ada5b06dc519b4695f5a72ae.jpg?u=256204&p=1214420038",
+    "datePublished": "2007-08-27",
+    "description": "ナスをスイートチリとポン酢で炒めました。アジアンチックでご飯もビールもすすんじゃいますよ♪",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "３～４本"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "にんにく（チューブも可）",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは食べやすい大きさに切って水にさらしておく。にんにくはみじん切りにしておく。",
+        "フライパンにごま油とにんにくをいれ、香りが出るまで炒めたら水を切ったナスを炒める。",
+        "ナスに火が通ったら、スイートチリソースとポン酢を入れ味を絡めて出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "420885",
+    "advice": "特になし。スイートチリソースとポン酢の割合はお好みで加減してください。お弁当に臭いが気になる方はにんにくを省いても良いと思います。",
+    "history": "暑かったので、ちょっとスパイシーなナスを食べたくって。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "スイートチリソース",
+        "ポン酢",
+        "にんにく"
+    ],
+    "tsukurepo_count": "81",
+    "thumbnail": "https://img.cpcdn.com/recipes/420885/100x141c/9626ff85f6279dc350be7cdc147edb7b.jpg?u=256204&p=1214420038"
+}

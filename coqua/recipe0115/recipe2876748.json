@@ -1,0 +1,55 @@
+{
+    "name": "フライパンで「ぶりの照り焼き」",
+    "author": {
+        "@type": "Person",
+        "name": "☆まめまめ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2876748/464x260/1e66998822bf4f9b551be53eeae6d0ca.jpg?u=1069677&p=1415579110",
+    "datePublished": "2014-11-10",
+    "description": "脂の乗ったぶりはお肉の味わい。簡単にフライパンで焼いて仕上げます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶりの切り身",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "＠しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "＠みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "＠酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりは8等分に切り軽く塩を振り約8分置く。出て来た水分はキッチンペーパーでふき取る。",
+        "フライパンを熱しサラダ油を。そこに1のぶりを入れ両面焼き色が付くか付かないかで＠をまわし入れる。",
+        "いい感じになったら皿に取り分け、残ったタレを少し煮詰め②の取り分けたぶりにかける。",
+        "こんな感じ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2876748",
+    "advice": "フライパンなどで焼く時は脂の少ない背身が向きます。",
+    "history": "グリルで焼いても美味しいけれどタレを刷毛で塗るなどの作業がちょっと煩わしい。笑。そんなときはフライパンで焼いても。笑。そんな思いで出来たレシピです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶりの切り身",
+        "しょうゆ",
+        "みりん",
+        "酒"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2876748/100x141c/95d32cfdc91f3a011a9fb96dc705dddc.jpg?u=1069677&p=1415579110"
+}

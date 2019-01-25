@@ -1,0 +1,43 @@
+{
+    "name": "いか・マヨちゃん★",
+    "author": {
+        "@type": "Person",
+        "name": "聖まま３"
+    },
+    "image": "https://img.cpcdn.com/recipes/275347/464x260/8907a8d056e8175babf2a2e8a18dfe6b.jpg?u=267521&p=1214213483",
+    "datePublished": "2006-08-21",
+    "description": "簡単ですぐ出来ちゃう＾＾　我が家の定番料理です★",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "いか",
+            "quantity": "２ハイ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "醤油",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯を沸かします。\r\nその間に　いかを１ｃｍ位の　輪切りにし　ざるに入れ　熱湯　を　回しかけます。",
+        "よく水切りした　いかを耐熱皿に入れ　マヨと醤油を　かけます。　（写真はピーマンものせています。）",
+        "あとは　トースターで\r\nマヨに　焦げ目が　付いたら出来上がりです。お好みで　一味をどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "275347",
+    "advice": "簡単なので・・・コツは無いですね＾＾：",
+    "history": "ハンバーグ屋さんの　いかが　子供の好物で自宅で作ってみました＾＾ｖ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカマヨ"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/275347/100x141c/a2b9ce8a63b86fd6891b6224999bc24c.jpg?u=267521&p=1214213483"
+}

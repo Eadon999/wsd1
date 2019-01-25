@@ -1,0 +1,57 @@
+{
+    "name": "★あっさり★梅そうめん",
+    "author": {
+        "@type": "Person",
+        "name": "しろこ0315"
+    },
+    "image": "https://img.cpcdn.com/recipes/661867/464x260/ba8f12b976cf069ee659f553b42b2c21.jpg?u=883818&p=1223526166",
+    "datePublished": "2008-10-09",
+    "description": "いつものそうめんに飽きたら梅味にしてみては？あっさり味で食欲のない時にもいいかも。温かい、にゅうめんにしてもおいしいよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "１わ"
+        },
+        {
+            "name": "梅",
+            "quantity": "１個"
+        },
+        {
+            "name": "大葉（細切りにしておく）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "１００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "小鍋にめんつゆと、タネを除いて二つにわった梅を入れ、５分ほど静かに煮立たせます。",
+        "梅を取り出し、細かくたたいておいて。 \r\nできたつゆは冷蔵庫で冷ましておきます。",
+        "そうめんをゆで、水洗いして器に盛ります。",
+        "かつお節、梅をのせて、大葉、ゴマをちらします。つゆを注いで、完成～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "661867",
+    "advice": "めんつゆをほんのり梅味にするのがポイント。お好みで、つゆ、そうめんを温めてもおいしいです♪",
+    "history": "梅好きなもので…(^^)",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん 温かい 梅",
+        "素麺 温かい"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/661867/100x141c/afb39faaa9acdb3e260bc95a8de3d025.jpg?u=883818&p=1223526166"
+}

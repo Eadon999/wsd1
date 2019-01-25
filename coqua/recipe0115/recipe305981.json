@@ -1,0 +1,45 @@
+{
+    "name": "△塩昆布とマヨネーズのおにぎり△",
+    "author": {
+        "@type": "Person",
+        "name": "りょうこっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/305981/464x260/78fa6748e5ef8775bbf4fcad32dbfe30.jpg?u=253971&p=1214214191",
+    "datePublished": "2006-11-30",
+    "description": "簡単混ぜておにぎりつくるだけ♪マヨネーズがこんぶとなじんで美味しい♪",
+    "recipeYield": "2個",
+    "recipeIngredient": [
+        {
+            "name": "塩昆布",
+            "quantity": "2つまみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "塩昆布とマヨネーズを混ぜます。",
+        "①を具におにぎりを作ってできあがり♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "305981",
+    "advice": "ちょっと味が濃い目のおにぎりになります。海苔もお好みでまいて下さい。",
+    "history": "塩昆布大好きです。マヨラーです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩昆布",
+        "マヨネーズ",
+        "ご飯"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/305981/100x141c/36a40290368a7a20592bb91ffe5e5025.jpg?u=253971&p=1214214191"
+}

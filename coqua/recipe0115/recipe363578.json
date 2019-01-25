@@ -1,0 +1,54 @@
+{
+    "name": "簡単♥なすとしょうがのしょうゆ炒め♥",
+    "author": {
+        "@type": "Person",
+        "name": "RIEちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/363578/464x260/ddbd309df11ed67c6c707d3cec0a228a.jpg?u=360825&p=1215455253",
+    "datePublished": "2007-04-22",
+    "description": "しょうがの良い香りと辛味がなすによくなじんでGOOD★*",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "２本"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "なすはヘタを取って厚さ２ｃｍの輪切りにします。\r\nしょうがはせん切りにします。",
+        "フライパンにサラダ油を適量入れて高温に熱し、①のなすを手早く入れて全体に混ぜながら、なすが薄く色づくまで炒めます。",
+        "なすを端によけ、①のしょうがを入れて香りよく炒め、★を加えて弱火にし、全体を混ぜながら味をからめます。\r\nなすが味を含んだら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "363578",
+    "advice": "なすは湯通しをしてから炒めると、余分な油を吸いすぎることなく火が通ります。好みで冷蔵庫で冷やしてもＯＫです♪(*´∀｀*) ",
+    "history": "お母さんがよく作ってくれたものを再現してみました♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "しょうが",
+        "酒",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/363578/100x141c/e1e2f9f73cb337eb3f0692b016d93dab.jpg?u=360825&p=1215455253"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "マイタケと小松菜の胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "yumipurin"
+    },
+    "image": "https://img.cpcdn.com/recipes/1690516/464x260/e9422a28845968a56d7594e022103019.jpg?u=328783&p=1327944969",
+    "datePublished": "2012-01-31",
+    "description": "あっさりした胡麻和えです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "マイタケ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "白すり胡麻",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "マイタケを食べやすい大きさに小分けして、分量外のお酒を少し入れたお湯でさっと茹でザルに取る。",
+        "小松菜を洗い３ｃｍ位に切り、塩少々入れた熱湯でさっと茹で、冷水に取った後ザルにあげておく。",
+        "合わせ調味料を作り、マイタケと小松菜を加えて混ぜる。",
+        "つくれぽを送って頂いたjayeさん、コメント途中になってすみません^^;"
+    ],
+    "cookTime": null,
+    "recipe_id": "1690516",
+    "advice": "１，マイタケは茹ですぎず、ホントにサッとで良いです。２，小松菜の水分は軽く押さえる程度、マイタケもザルに取っただけで良いです。",
+    "history": "マイタケがたくさん余ってしまい、天ぷら以外のものをと考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マイタケ",
+        "小松菜",
+        "合わせ調味料",
+        "白すり胡麻"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/1690516/100x141c/fdbaa18e0d66bfaf7ed49dd2c923f6bd.jpg?u=328783&p=1327944969"
+}

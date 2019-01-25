@@ -1,0 +1,53 @@
+{
+    "name": "朝食に～じゃがいもとわかめの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "Match"
+    },
+    "image": "https://img.cpcdn.com/recipes/1635290/464x260/33b64af21d3c103fd1e51aa1f0bffb8c.jpg?u=55867&p=1322033169",
+    "datePublished": "2011-11-23",
+    "description": "シンプルな素材じゃがいもとわかめを組み合わせて、一味違うお味噌汁に♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "中2個"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "だし入り味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "3カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "ジャガイモは、縦横半分に切って、3ｍｍ厚さに切って、水につけておく。",
+        "分量の水で、じゃがいもが柔らかくなるまでゆでる。",
+        "②の鍋に乾燥わかめを入れる。",
+        "味噌をお玉に載せて、溶く。",
+        "punikさんのID：1208839のように、ミョウガと油揚げプラスで！",
+        "油揚げプラスで！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1635290",
+    "advice": "朝食で時間がないので、ジャガイモは、火が通りやすいように薄くスライスする。",
+    "history": "主人がジャガイモ大好きなので！",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャガイモ",
+        "乾燥わかめ",
+        "だし入り味噌",
+        "水"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/1635290/100x141c/b3e9825a6c4bcc5ea753e5b94ba00cbb.jpg?u=55867&p=1322033169"
+}

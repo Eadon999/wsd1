@@ -1,0 +1,49 @@
+{
+    "name": "☆ゴママヨで食べる美味しい～わかめ☆",
+    "author": {
+        "@type": "Person",
+        "name": "くまのまるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/251088/464x260/174470f98e1597feb2f0e679c710ba12.jpg?u=231655&p=1214212959",
+    "datePublished": "2006-04-27",
+    "description": "レシピと言えませんが・・ゴマ・マヨネーズ・醤油を合わせたものにわかめを絡めて食べます。美味しいですよ♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "わかめ",
+            "quantity": "70～80ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１ぐらい"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "大さじ１ぐらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2ぐらい"
+        }
+    ],
+    "recipeInstructions": [
+        "ごまを粗めにすります。そこに醤油、マヨネーズを加え混ぜます。",
+        "１の中にわかめを加え、混ぜ合わせて完成です。今回は小さいすり鉢でゴマをすったので、そのまま食卓へ出しました。洗い物、楽～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "251088",
+    "advice": "コツもポイントもありません。分量はお好みで調節して下さい。",
+    "history": "母にわかめをたくさんもらったので、わかめの消費に・・・",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ",
+        "マヨネーズ",
+        "白いりごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/251088/100x141c/86596b6a7897ea9e2e9b456663dbefba.jpg?u=231655&p=1214212959"
+}

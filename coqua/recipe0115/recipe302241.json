@@ -1,0 +1,54 @@
+{
+    "name": "セロリの葉のおかか炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "nabeko44kazu"
+    },
+    "image": "https://img.cpcdn.com/recipes/302241/464x260/ba1a8f60cb3eecde905184ba3186f056.jpg?u=220679&p=1214214090",
+    "datePublished": "2006-11-18",
+    "description": "セロリの葉っぱどうしてますか？スープやカレーに入れるほか、家では佃煮風にして食べきっちゃうんです。",
+    "recipeYield": "小鉢1皿分",
+    "recipeIngredient": [
+        {
+            "name": "セロリの葉",
+            "quantity": "2～３本分"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "１袋３ｇ"
+        },
+        {
+            "name": "めんつゆ（濃縮タイプ）",
+            "quantity": "大さじ1～1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリの葉はお湯で２分ほど茹で、粗みじん切りにする。",
+        "フライパンにごま油を熱し、セロリの葉を炒め、めんつゆ、砂糖で味付けする。",
+        "水分がなくなったら、かつおぶしをいれて、混ぜ合わせてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "302241",
+    "advice": "特にありません。家族でセロリ嫌いがいると、嫌がられます。",
+    "history": "葉っぱばかり残るので、我が家ではいつもこうして食べます。フキの葉ほどアクが無いのですぐできちゃいます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリの葉",
+        "かつおぶし",
+        "めんつゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/302241/100x141c/9c04501100ae92bdce73d1bb3bfa6257.jpg?u=220679&p=1214214090"
+}

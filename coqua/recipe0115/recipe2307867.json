@@ -1,0 +1,59 @@
+{
+    "name": "ササミと小松菜で！ナムル〜★",
+    "author": {
+        "@type": "Person",
+        "name": "ことり食堂さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2307867/464x260/3a5e44b07f5b80983504193f25d619a5.jpg?u=3024361&p=1381280669",
+    "datePublished": "2013-08-06",
+    "description": "お酒のつまみにどーぞ★",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ササミ",
+            "quantity": "300g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2/1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ササミはお酒を軽くふって、レンジに5分ほどかける。小松菜は5センチ位の大きさに切り、塩茹でする。",
+        "ボールに、ゴマ油、塩、醤油、酒、すりごまを入れて混ぜ、ササミと小松菜をいれて良く混ぜ合わせる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2307867",
+    "advice": "冷蔵庫で冷たくひやして食べて下さいね！",
+    "history": "ほうれん草は今、高いのでお手頃な小松菜を使ってみました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 小松菜",
+        "小松菜 ささみ ナムル"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2307867/100x141c/afc4214f0cdef055ba27b4e770b29fe2.jpg?u=3024361&p=1381280669"
+}

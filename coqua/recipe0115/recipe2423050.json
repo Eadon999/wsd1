@@ -1,0 +1,40 @@
+{
+    "name": "里芋のフライ",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2423050/464x260/98a2f7b044567d08c817ab2a181de2be.jpg?u=2696078&p=1385888172",
+    "datePublished": "2013-12-01",
+    "description": "サクッ、モチっ、意外といける。ビールのツマミにぴったり。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "2個"
+        },
+        {
+            "name": "ハーブソルト",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋は泥を洗い流す。皮を剥き、拍子切りをし、しばらく水につけておく。",
+        "里芋の水気をペーパーで取り、フライパンに多めの油を入れて、揚げ焼きにする。",
+        "全体が色付いてきたら、取り出し、熱いうちにハーブソルトを振る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2423050",
+    "advice": "写真のものは乾燥パセリも振っています。おこのみでどうぞ。",
+    "history": "里芋の消費レシピ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋 フライ",
+        "餅 フライ"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2423050/100x141c/40d86832156c460e201b234317fbb5f6.jpg?u=2696078&p=1385888172"
+}

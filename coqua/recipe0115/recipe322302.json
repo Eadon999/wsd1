@@ -1,0 +1,58 @@
+{
+    "name": "3分でできる☆甘辛うまいちくわのきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "ちさぷー"
+    },
+    "image": "https://img.cpcdn.com/recipes/322302/464x260/9d5d4433b6202ba791072c05f3b7bb16.jpg?u=299930&p=1259722769",
+    "datePublished": "2007-01-25",
+    "description": "油を使わないヘルシーきんぴら。甘辛でご飯が進むお味。お弁当にもどうぞ。後一品欲しいときの超スピードおかずです。",
+    "recipeYield": "2.3人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "大2本（小なら4本）"
+        },
+        {
+            "name": "○しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは斜めにスライスする。あんまり薄くしない方がもちぷりっとした食感になっておいしいです。",
+        "フライパンに○の調味料を入れて煮立てて砂糖を溶かし、ちくわを入れる。",
+        "フライパンをふって煮絡め、汁気がなくなったら皿に盛り、ごまをふってできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "322302",
+    "advice": "おでん用の大きな食べ応えのあるちくわで作ってみました。",
+    "history": "ちくわの賞味期限が切れそうだったので、すぐできてご飯のお供になるものを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "しょう油",
+        "みりん",
+        "酒"
+    ],
+    "tsukurepo_count": "261",
+    "thumbnail": "https://img.cpcdn.com/recipes/322302/100x141c/eb48cd27eead68a6392dc52934c73017.jpg?u=299930&p=1259722769"
+}

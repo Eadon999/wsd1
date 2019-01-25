@@ -1,0 +1,71 @@
+{
+    "name": "☆さつま芋とニンジンの甘うまきんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "はる38"
+    },
+    "image": "https://img.cpcdn.com/recipes/441378/464x260/1b6060ac578b83e3f863196fff85329d.jpg?u=524915&p=1214217453",
+    "datePublished": "2007-10-11",
+    "description": "さつま芋をきんぴらにしてみました。バターで仕上げます。甘うまで、お弁当にも！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋",
+            "quantity": "小１本"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "１本"
+        },
+        {
+            "name": "バター",
+            "quantity": "５ｇ程度"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま芋、ニンジンを良く洗い、皮は剥かずに少し太めの千切りにする。",
+        "フライパンを熱し、ごま油で中火でじっくり炒める。",
+        "ニンジン、さつま芋がしんなりして来たら、酒、醤油、みりん、砂糖を入れ、少し火を弱め、煮汁がなくなるまでじっくり炒める。",
+        "煮汁が無くなったら、バターを入れ、バターをからめる。\r\n最後に黒ゴマを振ってできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "441378",
+    "advice": "普通にきんぴらを作る手順です。お芋は、じっくり炒めて下さい。",
+    "history": "きんぴらを作りたかったけど、ゴボウがなかったため、大好きなさつま芋で・・・。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま芋",
+        "ニンジン",
+        "バター",
+        "酒"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/441378/100x141c/3ee55e496fa66b9d431418a28ee76a82.jpg?u=524915&p=1214217453"
+}

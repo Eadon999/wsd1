@@ -1,0 +1,60 @@
+{
+    "name": "ダシダであったか素麺",
+    "author": {
+        "@type": "Person",
+        "name": "MrsYummy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1481886/464x260/56ff1a8752bd04c3bddac49ff1f63adb.jpg?u=2633450&p=1309159790",
+    "datePublished": "2011-06-27",
+    "description": "手早く出来ます。おひとりランチにどうぞ！2011/11/19話題入りしました⑦感謝☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "1把"
+        },
+        {
+            "name": "みず",
+            "quantity": "５００ｍｌ"
+        },
+        {
+            "name": "ダシダ",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "おこのみで"
+        },
+        {
+            "name": "たまご",
+            "quantity": "おこのみで"
+        },
+        {
+            "name": "すりおろしたしょうが",
+            "quantity": "おこのみで"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋でお湯を沸かし沸いたらダシダと素麺を入れます。",
+        "素麺が柔らかくなったら火を止め塩で味を調節します。お好みの具材を入れて召し上がってください。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1481886",
+    "advice": "素麺もお好みの硬さでどうぞ。",
+    "history": "韓国鍋の最後に素麺で食べたら美味しかったので簡単にダシダでやってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/にゅうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん あったか",
+        "ダシタ そうめん"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/1481886/100x141c/d6a7f6c862a664f08641237c937c235c.jpg?u=2633450&p=1309159790"
+}

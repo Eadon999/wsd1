@@ -1,0 +1,43 @@
+{
+    "name": "超簡単おつまみ！カリカリ厚揚げの納豆のせ",
+    "author": {
+        "@type": "Person",
+        "name": "うっひー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1035648/464x260/80db4b5ff5ba9d532127aba4395ad198.jpg?u=53239&p=1265815553",
+    "datePublished": "2010-02-11",
+    "description": "レシピとはいえないほど簡単です。。。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１枚（食べたいだけ）"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "青シソ",
+            "quantity": "３枚くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げをひとくち大に切り、トースターで両面カリッとするまで焼く（２分+２分位）",
+        "納豆にタレと辛子を良く混ぜて、1に乗せ、千切り青シソをトッピングしたら出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1035648",
+    "advice": "厚揚げはカリカリになるまで焼くと美味しいです！フライパンで焼いてもいいかも。",
+    "history": "あと1品足りないときにぱっと作ったらすごく美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ カリカリ",
+        "厚揚げ 納豆"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/1035648/100x141c/9387e5f0443cfa430a419a22f4d6a644.jpg?u=53239&p=1265815553"
+}

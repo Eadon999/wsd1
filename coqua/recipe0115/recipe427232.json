@@ -1,0 +1,52 @@
+{
+    "name": "キュウリの味噌漬け　１・２・３だぁー！",
+    "author": {
+        "@type": "Person",
+        "name": "QPはにー"
+    },
+    "image": "https://img.cpcdn.com/recipes/427232/464x260/768d8d3fedd408d33d23145b81eb2824.jpg?u=277566&p=1215133404",
+    "datePublished": "2007-09-10",
+    "description": "簡単！キュウリの味噌漬けです。分量は１・２・３♪　だぁー！イノキです。",
+    "recipeYield": "キュウリ２本分",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "さとう",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ山盛り３"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリは水で洗って、塩を振ってすり込む。",
+        "ビニル袋に、味噌、さとう、日本酒を入れてよく混ぜる。",
+        "キュウリを、ビニル袋に入れて、味噌で覆うようにして、口をきっちり結わえて冷蔵庫にいれておく。一日以上（三日くらい）置いて出来上がり。",
+        "袋から取り出して、食べやすい大きさに切る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "427232",
+    "advice": "塩はキュウリ１本につき小さじ1くらい使いました。甘めの分量なので、さとうはお好みで加減してください。つけて丸一日OKです(＾ｰ＾)v ",
+    "history": "漬け物は苦手なので、漬け物っぽくない感じで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうりの味噌漬け"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/427232/100x141c/55ccc7e971111b489c71b2f6ce4f1faa.jpg?u=277566&p=1215133404"
+}

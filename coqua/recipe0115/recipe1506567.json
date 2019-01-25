@@ -1,0 +1,59 @@
+{
+    "name": "ツナマヨガーリックおくら",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1506567/464x260/e95ed31f5b418aa9c797891f06bf8018.jpg?u=377757&p=1311639358",
+    "datePublished": "2011-07-26",
+    "description": "おくらの緑とトマトの赤で彩りもいい！サラダ感覚でパクパク食べられます＾＾",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "１０本"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "６個"
+        },
+        {
+            "name": "○ツナ缶",
+            "quantity": "１個"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○にんにく（チューブ）",
+            "quantity": "２ｃｍ"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは、板ずりをして約２分茹でる。\nツナはオイルを切っておく。",
+        "茹でたオクラは、ザルにあげて冷水で冷まし１ｃｍ幅に切る。\nミニトマトは半分に切る。",
+        "○の材料を混ぜ合わせておく。",
+        "２を３に入れて混ぜ合わせて完成！\nお好みでゴマをふりかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1506567",
+    "advice": "パンにサンドしても美味しいです～！冷蔵庫で冷たくして食べるのがオススメ☆",
+    "history": "おくらをサラダ感覚で食べたくて考えたレシピ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら",
+        "ミニトマト",
+        "ツナ缶",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1506567/100x141c/57ca17dd32507f8eb4a826cdc9cdeb3f.jpg?u=377757&p=1311639358"
+}

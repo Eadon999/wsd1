@@ -1,0 +1,47 @@
+{
+    "name": "カレーリメイク☆うどんグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "モーリー食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/2390398/464x260/688d6f8ae15ffbe24e0a476d69d301a3.jpg?u=7637669&p=1383042822",
+    "datePublished": "2013-10-29",
+    "description": "残り物のカレーでリメイク！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "カレー(残り物)",
+            "quantity": "1人分"
+        },
+        {
+            "name": "うどん(ゆで)",
+            "quantity": "1玉"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "50g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんを水でほぐした後、3cm幅程度に切る。\n耐熱皿にオリーブオイルをひき、うどんを入れる。",
+        "うどんの上に、カレー、チーズをのせる。",
+        "オーブントースターで、焼き色がつくまで焼いたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2390398",
+    "advice": "うどんは食べやすい長さに切る。",
+    "history": "カレーが残ると、カレーうどんやカレー焼きそばをよく作りますが、今回はグラタンにしてみました！シチューリメイクも♪レシピ:ID:2427068",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん グラタン"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2390398/100x141c/6daee86409a7cb6e1f5f0912bc99e5b0.jpg?u=7637669&p=1383042822"
+}

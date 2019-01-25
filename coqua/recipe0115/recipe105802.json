@@ -1,0 +1,86 @@
+{
+    "name": "大好評の冷やし中華！",
+    "author": {
+        "@type": "Person",
+        "name": "saijun"
+    },
+    "image": "https://img.cpcdn.com/recipes/105802/464x260/e6e833e931bc91d077e9fa4567127f6a.jpg?u=675&p=1214210177",
+    "datePublished": "2003-08-31",
+    "description": "我が家では昔からこの冷やし中華を作っています。お店で食べるより美味しいと、スゴク評判のいい冷やし中華を載せました！タレが本当に美味しいです。ぜひ作ってみてください。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "2玉"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "焼豚",
+            "quantity": "2枚"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "50ｃｃ"
+        },
+        {
+            "name": "★酢",
+            "quantity": "60ｃｃ"
+        },
+        {
+            "name": "★水",
+            "quantity": "70ｃｃ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "★塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "★味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "★ゴマ油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "中華麺を2～3分ゆでる。\r\n茹で上げ水で洗っておく。\r\n野菜と焼豚はすべて千切りにしておく。もやしは茹でる。卵は一つまみの塩を入れ薄焼きにして千切りにする。",
+        "タレを作る。鍋に★印の材料を全部入れ、砂糖が溶けたら火を消す。",
+        "皿に中華麺を盛りその上に野菜、卵、焼豚を盛り付けタレをかけて出来上がり。\r\nお好みでからしを添える。",
+        "2007.9.17に100人つくれぽ達成しました♪皆様ありがとうございました！これからもよろしくお願いします(^^)"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "105802",
+    "advice": "具は好みで付け足してください。",
+    "history": "小さいころから食べている冷やし中華です。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/冷やし中華"
+    ],
+    "rankings": [
+        "冷やし中華 1位"
+    ],
+    "related_keywords": [
+        "冷やし中華"
+    ],
+    "tsukurepo_count": "1767",
+    "thumbnail": "https://img.cpcdn.com/recipes/105802/100x141c/ef4da994be712f071a5df270a10af65c.jpg?u=675&p=1214210177"
+}

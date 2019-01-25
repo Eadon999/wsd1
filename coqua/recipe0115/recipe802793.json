@@ -1,0 +1,57 @@
+{
+    "name": "我が家の定番「梅と水菜の和風パスタ」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/802793/464x260/83a71a096a388da82cf28dd610c1faa2.jpg?u=535158&p=1241761547",
+    "datePublished": "2009-05-09",
+    "description": "梅と水菜のさっぱり和風仕立てのパスタです。水菜のシャキシャキ感に梅の酸味。子供から大人まで美味しく食べられます♪",
+    "recipeYield": "2人",
+    "recipeIngredient": [
+        {
+            "name": "ロングパスタ",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "梅",
+            "quantity": "大2～3個"
+        },
+        {
+            "name": "水菜",
+            "quantity": "1/4束"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ハーブ塩（クレイジーソルト可）",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタはたっぷりの湯に塩を入れて茹でる。",
+        "水菜は2センチ幅にカットし、梅は種を取り除き、ほぐす。（たたかないこと）",
+        "ボウルにオリーブオイル、ハーブ塩、胡麻を加えて混ぜる。",
+        "茹で上がり寸前に、③のボウルに②の梅と水菜を加えて、さっくり混ぜる。",
+        "茹で上がったパスタは湯切りし、④のボウルに加え混ぜ、器に盛り出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "802793",
+    "advice": "*水菜は茹でないこと。パスタの余熱で、適度なしんなり具合が、良い歯ごたえを残すポイントです。*梅は、たたかず、ほぐす程度で.",
+    "history": "美味しい梅を頂き、冷蔵庫にあった水菜と共に和風仕立にしました。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/梅風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 パスタ 梅"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/802793/100x141c/6ee2840a9500a93831aee4adfdd80a22.jpg?u=535158&p=1241761547"
+}

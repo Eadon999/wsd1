@@ -1,0 +1,43 @@
+{
+    "name": "サバの塩麹漬け",
+    "author": {
+        "@type": "Person",
+        "name": "NoraDoraママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2205368/464x260/02be881763fc011cd50c23ae4bc1b34a.jpg?u=6052732&p=1367064089",
+    "datePublished": "2013-04-27",
+    "description": "大好きな鯖を塩麹に漬けたら美味しい塩鯖ができました。ふっくらやわらかくできます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖 三枚おろし",
+            "quantity": "二枚"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖の三枚おろしを用意します。\n一枚を食べやすく三等分から四等分になるように切って塩麹を両面にまんべんなくつける。",
+        "６時間以上冷蔵庫で漬けこむ。朝漬けて夕飯に使うとちょうどよい。\n",
+        "フライパンにクッキングシートを敷き、弱火でフタをして焼く。両面こんがり焼いたら出来上がり。\n油はいらないのでヘルシー",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2205368",
+    "advice": "焦げやすいのでクッキングシートを敷き弱火で焼いてください。",
+    "history": "市販の塩鯖はちょっとしょっぱい！自分で塩麹に漬けたらふっくらやわらかく美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば 塩麹漬け",
+        "魚の塩麹漬け",
+        "塩鯖 塩麹",
+        "さば 塩麹 フライパン"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2205368/100x141c/f33ce20a12f8a8384a3089e8a2b6121e.jpg?u=6052732&p=1367064089"
+}

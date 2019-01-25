@@ -1,0 +1,60 @@
+{
+    "name": "キャベツとちくわとわかめのマヨわさ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2492341/464x260/a80a04c4f677aefb451ec88a19a43f9e.jpg?u=4819316&p=1391692395",
+    "datePublished": "2014-02-06",
+    "description": "17/5/17話題入り有難う、あともう一品というときに、簡単にできて、ご飯にもビールにも合います、試してみて下さい",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "わかめ（乾燥）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●わさび",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは食べやすい大きさに切り、ラップに包んでレンジ５００Ｗで１分３０秒加熱する",
+        "ちくわは５ミリ幅の輪切りにする",
+        "わかめは水で戻しておく",
+        "ボウルに●を混ぜる",
+        "ボウルにキャベツ、ちくわ、絞ったわかめを加えて混ぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2492341",
+    "advice": "わさびの量はお好みで加減して下さい、炒りごまをふったり、刻み海苔を振るのも良いでしょう",
+    "history": "自分のレシピ「もやしとちくわのわさび風味サラダ」（2009104）を参考にしています",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ちくわ",
+        "わかめ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2492341/100x141c/3570e9a744efbda887f27fae520a8f5a.jpg?u=4819316&p=1391692395"
+}

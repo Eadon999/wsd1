@@ -1,0 +1,51 @@
+{
+    "name": "小松菜としらすのおつまみ塩昆布和え",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4177712/464x260/1f88adc005aabcd3ed21158012f4d970.jpg?u=9664115&p=1478955344",
+    "datePublished": "2016-11-12",
+    "description": "茹でて和えるだけの簡単レシピ♪しらすと塩昆布の旨味タッグが小松菜を引き立てます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "5束"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を塩茹でする。\n2リットルの水に大さじ1程塩を入れ、お湯が沸いたら小松菜を30秒茹でる。",
+        "小松菜を冷ましてからしっかり水を切ってざく切りにし、しらす・塩昆布・ごま油・ポン酢を和える。\nもう出来た。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4177712",
+    "advice": "茹でたらしっかりしぼる。",
+    "history": "小松菜がおいしく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 おつまみ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/4177712/100x141c/469148b98d8005f4517338367c8d39bd.jpg?u=9664115&p=1478955344"
+}

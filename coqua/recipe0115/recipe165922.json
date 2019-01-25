@@ -1,0 +1,55 @@
+{
+    "name": "ピーマンと糸こんにゃくの甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Match"
+    },
+    "image": "https://img.cpcdn.com/recipes/165922/464x260/cb21d260ce7a84c26cc37d7bd8009be7.jpg?u=55867&p=1381907359",
+    "datePublished": "2004-10-21",
+    "description": "材料は、ミスマッチでシンプルなのに、意外なおいしさ。2010/8/18話題入り，有難うございました。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "８～１０個"
+        },
+        {
+            "name": "糸こんにゃく",
+            "quantity": "一袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは、種を取り、細く切っておく。\r\n糸こんにゃくは、塩でもんで、水洗いし、適当な長さに切る。\r\n\r\n\r\n",
+        "ピーマンを、熱したフライパンでさっと炒め、次に、糸こんにゃくを入れて、さらに炒める。",
+        "②に砂糖、醤油、みりん、酒をいれて炒め、汁気がなくなるまで煮詰める。",
+        "板こんにゃくで、皆さんと同じように、トウガラシを入れました。美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "165922",
+    "advice": "味付けのお酒は、多い目がいいかも・・・",
+    "history": "近くの八百屋さんで教えてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "糸こんにゃく",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/165922/100x141c/3e9b2652719e90925424f83fd013cfcd.jpg?u=55867&p=1381907359"
+}

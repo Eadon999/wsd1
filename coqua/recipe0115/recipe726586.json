@@ -1,0 +1,64 @@
+{
+    "name": "和と中華　白みそスープ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆしゅな"
+    },
+    "image": "https://img.cpcdn.com/recipes/726586/464x260/11ea6a59d603f0961fb175b59fefde0c.jpg?u=666864&p=1233580834",
+    "datePublished": "2009-02-02",
+    "description": "みそ汁って、家庭の味ですが、たまにはこんな変わったお味も。季節の根菜やお麩を中華のスープとしみじみ味噌風味で。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏ガラスープ（顆粒）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "湯",
+            "quantity": "カップ４"
+        },
+        {
+            "name": "人参",
+            "quantity": "短冊切り５センチ分"
+        },
+        {
+            "name": "麩（乾）",
+            "quantity": "２０グラム"
+        },
+        {
+            "name": "葱みじん切り",
+            "quantity": "お好み"
+        },
+        {
+            "name": "うすあげ２センチ角",
+            "quantity": "０．５枚"
+        },
+        {
+            "name": "白みそ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ホワイトペッパー（白こしょう）",
+            "quantity": "ひいて少々"
+        }
+    ],
+    "recipeInstructions": [
+        "湯に鶏ガラスープを溶き、人参・揚げを煮る。火がとおったら、葱と麩、こしょうを入れる",
+        "再び煮立ったら、白みそを溶かし入れ完成。",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "726586",
+    "advice": "お好みで季節の野菜を楽しめます。さつまいも、ごぼう、豆腐、きのこ類、ほうれん草等。。。",
+    "history": "だし昆布切らしてて、みそ汁作れないからスープにしようか、でも朝食は納豆とサンマの干物・・・。スープでも、和食にするっ。。。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "変わった 味噌汁"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/726586/100x141c/e109496a482d269aca15f67ee07b4c1e.jpg?u=666864&p=1233580834"
+}

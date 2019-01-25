@@ -1,0 +1,57 @@
+{
+    "name": "たけのこ昆布",
+    "author": {
+        "@type": "Person",
+        "name": "Match"
+    },
+    "image": "https://img.cpcdn.com/recipes/249495/464x260/feec6cea4b1b5bcb273567132ed9a8e5.jpg?u=55867&p=1494205162",
+    "datePublished": "2006-04-18",
+    "description": "旬のたけのこを余った昆布と炊きました。春の佃煮です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "たけのこ",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "昆布",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "赤唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "たけのこを薄切りにする。昆布は、適当な大きさに切る。",
+        "たけのこ、昆布をホーロー鍋に入れ、調味料と、水をひたひた位に入れて、弱火で煮含める。",
+        "仕上げに、みりん少々入れて、照りを出す。",
+        "盛り付け！",
+        "赤唐辛子を入れて、ピリッと美味しい。しいたけも！"
+    ],
+    "cookTime": null,
+    "recipe_id": "249495",
+    "advice": "味は、お好みで、分量の調味料を加減してください。昆布は、だしをとったあとの昆布でも、ＯＫです。",
+    "history": "老舗のおいしい佃煮を頂いたので、自分で試して見ました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "昆布の佃煮 たけのこ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/249495/100x141c/3e59081b7d0927daf01e55ee24862e98.jpg?u=55867&p=1494205162"
+}

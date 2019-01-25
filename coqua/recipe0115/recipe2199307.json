@@ -1,0 +1,75 @@
+{
+    "name": "パプリカのキーマカレー",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2199307/464x260/2bdbbf89a22c5d7ff35d84f2b6ac6b44.jpg?u=3280486&p=1366591540",
+    "datePublished": "2013-04-22",
+    "description": "自宅で作るキーマカレー♪市販のルーを使うのでとっても簡単☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パプリカ（1cm角切り）",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "タマネギ（1cm角切り）",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ニンニク・ショウガ（みじん切り）",
+            "quantity": "各1片"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "温かいごはん",
+            "quantity": "2人分"
+        },
+        {
+            "name": "バター",
+            "quantity": "15g"
+        },
+        {
+            "name": "カレールー（市販・刻む）",
+            "quantity": "40g"
+        },
+        {
+            "name": "酒",
+            "quantity": "50ml"
+        },
+        {
+            "name": "水",
+            "quantity": "100ml"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油を入れて、ニンニクとショウガを中火で炒める。香りがたったらひき肉を入れて強火。",
+        "赤身がなくなったらタマネギを加える。1分程炒めたらパプリカを加える。",
+        "更に1分程炒めたら酒を流し入れ、アルコール分が飛んだらルーを加える。",
+        "水を少しずつ加えて炒め合わせる。しっかりと炒めわせたら、バターを加えてひと炒め。ごはんと一緒にお皿に盛ったら完成。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2199307",
+    "advice": "酒を加えると肉の臭みが取れて、旨みが増しますよ★",
+    "history": "自宅で美味しいキーマカレーを食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/挽肉を使ったカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パプリカ",
+        "タマネギ",
+        "豚ひき肉",
+        "温かいごはん"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/2199307/100x141c/cfca04d49a2786c04a8dea8d3d8bbe5f.jpg?u=3280486&p=1366591540"
+}

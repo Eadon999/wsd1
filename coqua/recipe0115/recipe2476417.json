@@ -1,0 +1,58 @@
+{
+    "name": "簡単☆苦くない！人参ときゅうりのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "asayu_shi"
+    },
+    "image": "https://img.cpcdn.com/recipes/2476417/464x260/eed1e0caab4b66e09c45dfd656fa88da.jpg?u=4824981&p=1453474853",
+    "datePublished": "2014-01-26",
+    "description": "人気検索トップ10入り・話題入りありがとうございます♡にんじんが苦手でもパクパク食べることができます！！！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２~"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ１~"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんときゅうりを細切りにする。",
+        "塩もみをして、しばらくおく。そうすると水分が出てくるので、キッチンペーパーでふきとる。",
+        "酢・オリーブオイル・砂糖を入れて混ぜ、なじませたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2476417",
+    "advice": "",
+    "history": "にんじんが家に大量にあるけど、火を使うのが面倒くさくて、適当に合わせてみたらおいしかったです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "きゅうり",
+        "酢",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2476417/100x141c/c519bec079a5b2a26c31e8141a0523cf.jpg?u=4824981&p=1453474853"
+}

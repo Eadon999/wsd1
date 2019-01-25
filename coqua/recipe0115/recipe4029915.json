@@ -1,0 +1,50 @@
+{
+    "name": "あと一品プラス！わかめのナムル",
+    "author": {
+        "@type": "Person",
+        "name": "✳︎izumi✳︎"
+    },
+    "image": "https://img.cpcdn.com/recipes/4029915/464x260/057e0c8fdfeb554c97c93b99efb477db.jpg?u=15120412&p=1471738082",
+    "datePublished": "2016-08-21",
+    "description": "【カテゴリ&プレミアム献立掲載♪話題入り感謝♡】火を使わず、手軽にあと一品！食物繊維やミネラル豊富なのも◎",
+    "recipeYield": "小鉢で２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "７g(乾燥した状態で)"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★鶏がらスープの素(顆粒)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "ごま",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめを１０分以上水に浸し、戻しておく。\n★の調味料をボウルに入れ、混ぜ合わせる。",
+        "わかめをザルにあげ、水気をぎゅっと絞り、調味料のボウルに入れ混ぜる。ごまを入れて、よく混ぜたら出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4029915",
+    "advice": "※わかめの水気をよく絞ること。※すりおろしにんにくを入れても美味しいです！※塩ラーメンのトッピングにしても♪",
+    "history": "味噌汁以外にわかめをあまり食べないけど、海藻はもう少し食べたほうがいいかなあと思った時に、作りました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ ナムル"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/4029915/100x141c/b2556e3026d0ef678172957a4338723e.jpg?u=15120412&p=1471738082"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "葱。なめこ。炒め",
+    "author": {
+        "@type": "Person",
+        "name": "UMAe"
+    },
+    "image": "https://img.cpcdn.com/recipes/2048389/464x260/296e9549b00b550809b1d8bca691dbc9.jpg?u=4752234&p=1354586528",
+    "datePublished": "2012-12-05",
+    "description": "ヘルシーに、あと１品。",
+    "recipeYield": "２人分～",
+    "recipeIngredient": [
+        {
+            "name": "泥ねぎ",
+            "quantity": "４０ｃｍ"
+        },
+        {
+            "name": "でっかいなめこ",
+            "quantity": "１ｐ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "昆布ポン酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "七味とうがらし",
+            "quantity": "好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "なめこは石づきをカットします。泥葱はよく洗って３～４ｃｍ幅にカットします。",
+        "フライパンにごま油をひき、葱を炒めます。軽く焦げ目がつくくらいを目安にして下さい。",
+        "２になめこを加えます。さらに炒め、調味料を入れます。汁気がなくなるまで炒めれば完成です。",
+        "2013/3/9\n皆さんのおかげさまで話題入りさせて頂きました。\n心から感謝します。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2048389",
+    "advice": "普通ねぎでもいいですし、なめこもでかくなくていいですヨ。食べる時、七味をお好みで☆",
+    "history": "おかずにも。おつまみにも。日常の１品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/なめこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "泥ねぎ",
+        "ごま油",
+        "昆布ポン酢",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2048389/100x141c/79dde02f3d16f753fd93e3acf5a0863a.jpg?u=4752234&p=1354586528"
+}

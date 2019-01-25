@@ -1,0 +1,66 @@
+{
+    "name": "シーチキン大根",
+    "author": {
+        "@type": "Person",
+        "name": "えむむ"
+    },
+    "image": "https://img.cpcdn.com/recipes/262477/464x260/a8390046e6739140f19797fde40220b2.jpg?u=30553&p=1214213212",
+    "datePublished": "2006-06-24",
+    "description": "ぶり大根の簡単楽チン庶民版。生臭くないです。ゴミも、ぶりあらの匂う生ゴミでなく、空き缶２個。シーチキン缶のだしで充分。",
+    "recipeYield": "６人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "中　半分"
+        },
+        {
+            "name": "シーチキン缶（油漬け）",
+            "quantity": "８０ｇ　２個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "大根ひたひた"
+        },
+        {
+            "name": "炒め油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ４ぐらい"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "味整えよう塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を乱切りにして強火で炒めます。水をひたひた入れて、酒、砂糖いれて大根がちょっと柔らかくなるまで煮ます。",
+        "シーチキン油ごと、醤油（半分）いれて、弱火でことこと。",
+        "残りの醤油と塩で味を調えて（缶詰によって塩分がちがいます）。好みまで煮詰めて。"
+    ],
+    "cookTime": null,
+    "recipe_id": "262477",
+    "advice": "大根を炒めるときに炒め跡が残るようにすると、よりおいしそうに見えます。",
+    "history": "煮魚大好きな家族と、煮魚の生臭さがちょっとにがてな家族がおります。これなら家族全員だいじょうぶ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "シーチキン缶",
+        "酒",
+        "炒め油"
+    ],
+    "tsukurepo_count": "103",
+    "thumbnail": "https://img.cpcdn.com/recipes/262477/100x141c/22bbbdaa066441e6aa14b3b6f40a01f1.jpg?u=30553&p=1214213212"
+}

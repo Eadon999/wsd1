@@ -1,0 +1,62 @@
+{
+    "name": "かなりアジアンな春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/270764/464x260/40a5ae7871817ba192308c651444b88d.jpg?u=57297&p=1214213393",
+    "datePublished": "2006-07-31",
+    "description": "これはかなり旨かった！オイスターソース効いてます( *´艸`)",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨",
+            "quantity": "３０ｇくらい"
+        },
+        {
+            "name": "トマト",
+            "quantity": "大1個"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "小さじ２(好きなだけ）"
+        }
+    ],
+    "recipeInstructions": [
+        "タレ：オイスターソース1.5、醤油小さじ２、砂糖小さじ２、ごま油１、酢小さじ２、おろし生姜",
+        "春雨、サラダほうれん草、ざく切りトマト\r\nタレで合わせます。\r\nよ～く冷やしてね。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "270764",
+    "advice": "完熟トマト、よ～く冷やしてね",
+    "history": "この間オイスターソースを使ったら、かなり美味しかったので再び！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/アジアンサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨",
+        "トマト",
+        "オイスターソース",
+        "砂糖"
+    ],
+    "tsukurepo_count": "138",
+    "thumbnail": "https://img.cpcdn.com/recipes/270764/100x141c/914823b1deaef0d6f3ac9b7c0c2e7148.jpg?u=57297&p=1214213393"
+}

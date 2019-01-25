@@ -1,0 +1,59 @@
+{
+    "name": "ズッキーニのトマトマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/852212/464x260/dbebf6ca611273b1072f7e5b63798e42.jpg?u=1423987&p=1246343435",
+    "datePublished": "2009-06-30",
+    "description": "ズッキーニのラタトゥユ風。冷やしてどうぞ♪",
+    "recipeYield": "2・3人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "小2本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "大1個"
+        },
+        {
+            "name": "にんにくのみじん切り",
+            "quantity": "1かけ分"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白ワインビネガー",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニは5mm幅の輪切りにする。 \r\nトマトは皮をむいて荒く刻む。（汁は捨てない）",
+        "フライパンにオリーブオイルを半分（大さじ1）熱し、にんにくを入れ香りが立つまで炒める。",
+        "2にズッキーニを入れて炒め、しんなりしてきたらトマトを汁ごと加え軽く煮詰める。\r\n",
+        "火を止めて白ワインビネガーと残りのオリーブオイルを加える。 \r\n塩・コショウで味をととのえて冷蔵庫に冷やす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "852212",
+    "advice": "白ワインビネガーがなければお酢でもＯＫ！",
+    "history": "夏野菜のズッキーニを相性の良いトマトとマリネに。 ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "トマト",
+        "にんにくのみじん切り",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/852212/100x141c/01964fd06efe030686e4ab3c8b995a77.jpg?u=1423987&p=1246343435"
+}

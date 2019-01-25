@@ -1,0 +1,74 @@
+{
+    "name": "いか焼き☆☆",
+    "author": {
+        "@type": "Person",
+        "name": "み〜ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1459003/464x260/4aed95f3e4ed9e612c66b99dcc01db8d.jpg?u=1310717&p=1307011593",
+    "datePublished": "2011-06-02",
+    "description": "いかとネギと卵だけ！！シンプルがおいしい！！簡単です♬おつまみにも！！",
+    "recipeYield": "1枚分",
+    "recipeIngredient": [
+        {
+            "name": "いかげそ",
+            "quantity": "100g"
+        },
+        {
+            "name": "ネギ（みじん切り）",
+            "quantity": "1本分"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "50g"
+        },
+        {
+            "name": "水",
+            "quantity": "90g"
+        },
+        {
+            "name": "カツオだし",
+            "quantity": "小１弱"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "お好みソース",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "生地をよく混ぜ、\nいかとねぎをいれ混ぜる。",
+        "フライパンを中火にかけサラダ油を入れ生地を入れる。",
+        "生地に焼き色が付いたら卵を割って少し崩したらひっくり返す。",
+        "ひっくり返したら焼き色が付くまで生地を押しつけながら焼き、返しながら薄めに両面焼く。",
+        "焼けたらお好みソース、マヨネーズ、青のりをかけ完成！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1459003",
+    "advice": "生地を押しつけながらじゅじゅじゅじゅ焼くと美味しく仕上がります♬",
+    "history": "いかげそとねぎがたくさんあったので作りました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ",
+        "今日のご飯・おかず/粉もの/お好み焼き/アレンジお好み焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ焼き"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1459003/100x141c/e95292870c7ac56609e0f4c39c10ef33.jpg?u=1310717&p=1307011593"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "☆スペアリブ☆",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/207511/464x260/abb7f6b677924c3e6fd319c8264fa262.jpg?u=57297&p=1214212065",
+    "datePublished": "2005-07-15",
+    "description": "お祭りから帰ってきたら、いいとこ食べられてたぁ～",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "スペアリブ",
+            "quantity": "６～７本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "３"
+        },
+        {
+            "name": "酒",
+            "quantity": "１"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "少々"
+        },
+        {
+            "name": "おろし生姜",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "タレ：醤油３、ケチャップ２、砂糖３、酒１、おろしニンニク、おろし生姜、黒胡椒\r\n",
+        "スペアリブに軽く塩胡椒して、タレに浸けたまま\r\nラップして５分チン",
+        "あとは、200℃のオーブンで30分ほど焼きます。\r\n途中ひっくり返してね。\r\nオーブンによって、癖があるので加減して下さい。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "207511",
+    "advice": "タレが決めて☆",
+    "history": "アメリカに住んでた時、日本人の奥さんからケチャップ醤油ダレを教えていただきました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/スペアリブ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スペアリブ",
+        "醤油",
+        "ケチャップ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "106",
+    "thumbnail": "https://img.cpcdn.com/recipes/207511/100x141c/b6365e8a77448e0fc654fdff67c7714d.jpg?u=57297&p=1214212065"
+}

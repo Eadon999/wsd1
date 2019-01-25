@@ -1,0 +1,45 @@
+{
+    "name": "超簡単！大根の浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ふわふわふわふわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2406250/464x260/c2338c6285b00c82dfe376ad7b7fb1e4.jpg?u=4180936&p=1384439913",
+    "datePublished": "2013-11-14",
+    "description": "だしの素でほんのり旨みをプラスした、超簡単な浅漬けです。あと一品って時にもおつまみにも。2015.1.30話題入り感謝！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "5cm"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2/3"
+        },
+        {
+            "name": "だしの素(顆粒)",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の皮をむいて薄いくし切りにし、塩を振りかけて軽く揉み、しばらく置きます。",
+        "大根がしんなりしてきたら、だしの素を加えて混ぜ合わせます。",
+        "ラップをしてお皿などを重石として乗せ、1時間ほど漬け込んでできあがりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2406250",
+    "advice": "調味料の量は、お好みで調整してください。",
+    "history": "先日お店で食べて美味しかった味を、簡単アレンジで再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 浅漬け",
+        "大根 漬物 感謝"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2406250/100x141c/fe27e61061b9ca37980138a7dab454e2.jpg?u=4180936&p=1384439913"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "ちくわとアスパラの梅マヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "miwa3030happy"
+    },
+    "image": "https://img.cpcdn.com/recipes/772394/464x260/f48f08a27e06b830645604cdf4f69d69.jpg?u=29597&p=1238389346",
+    "datePublished": "2009-03-30",
+    "description": "ちくわとアスパラを梅マヨで和えた簡単サラダです。お弁当におすすめ♬☆2013年9月つくれぽ10人になりました☆",
+    "recipeYield": "1～2人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "2本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラは食べやすい大きさに斜め切りし、熱湯で1分くらい茹でる。\r\n\r\n冷水にとり、水気をよくきっておく。",
+        "ちくわを斜め薄切りにする。",
+        "梅干しは種を取り、包丁で叩く。\r\n\r\nマヨネーズと一緒に和え、アスパラとちくわ、白ゴマを追加し、混ぜる。",
+        "仕上げにかつおぶしも和えて、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "772394",
+    "advice": "アスパラ以外にも、インゲンでも美味しいです。",
+    "history": "ちくわとマヨネーズのサラダに梅をプラス。アスパラとの相性もばっちりです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "アスパラ",
+        "マヨネーズ",
+        "梅干し"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/772394/100x141c/b643b1bf41e0225a621ace107c6c71c0.jpg?u=29597&p=1238389346"
+}

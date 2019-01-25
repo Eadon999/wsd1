@@ -1,0 +1,59 @@
+{
+    "name": "ウマスギ！！紅茶鶏",
+    "author": {
+        "@type": "Person",
+        "name": "なおざくら"
+    },
+    "image": "https://img.cpcdn.com/recipes/258025/464x260/f3cb0391c8a677f43dc44eb36da715f9.jpg?u=50249&p=1214213094",
+    "datePublished": "2006-06-03",
+    "description": "我が家周辺に大好評。つくれぽも沢山で嬉しい。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "好きな紅茶のﾃｨｰﾊﾟｯｸ",
+            "quantity": "1個"
+        },
+        {
+            "name": "米酢（リンゴ酢でも美味しい）",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3～4"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "蜂蜜",
+            "quantity": "大さじ1～2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水をわかし紅茶を煮出します。",
+        "１の中に鶏胸肉をいれ、30～40分煮込みます。",
+        "ﾋﾞﾆｰﾙやﾀｯﾊﾟｰ等に調味料を混ぜ、２のアラ熱を取り漬け込みます。",
+        "冷蔵庫で1～2時間漬け込んだら出来上がり！切って頂きます☆ ※漬け込み時間は好みですが…(*′ｴ`)v"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "258025",
+    "advice": "漬け込みタレは鶏肉が全部かぶらないのでたまに引っくり返してくださいね☆ビニールなどで空気を抜き、真空状態でつけるとよく漬かります。漬け込み時間は好み。",
+    "history": "紅茶豚を鶏胸肉で作ってみました！母の味付けをちょっと改良しました☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉",
+        "その他/おもてなし料理/大皿・メイン料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "紅茶鶏",
+        "紅茶 鶏肉",
+        "紅茶とり"
+    ],
+    "tsukurepo_count": "465",
+    "thumbnail": "https://img.cpcdn.com/recipes/258025/100x141c/9ae46c21b2aeb724d5a80ad1ed22a6fc.jpg?u=50249&p=1214213094"
+}

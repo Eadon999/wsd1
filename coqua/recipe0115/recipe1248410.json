@@ -1,0 +1,62 @@
+{
+    "name": "超簡単！「お豆腐の青のりフライ」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/1248410/464x260/1543e74da24bf59bee99be5e7d1651b6.jpg?u=535158&p=1286006379",
+    "datePublished": "2010-10-02",
+    "description": "お豆腐に青のりを混ぜたパン粉をまぶして揚げました。さっくりと、塩味の効いたフライは、アツアツをお召し上がれ。",
+    "recipeYield": "豆腐１丁分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "青のり",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お豆腐は水切りし、サイコロ状にカットして塩胡椒を振る。",
+        "パン粉、青のり、粉チーズを混ぜる。",
+        "①の豆腐に、小麦粉をまぶし、卵液にくぐらせたら、②のパン粉をまぶし、油で揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1248410",
+    "advice": "パン粉は目の細かいパン粉を使用しましょう。極細パン粉がなければ、FPなどで撹拌して細かくするとよいでしょう。",
+    "history": "お豆腐をフライにしてみました。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "パン粉",
+        "青のり",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1248410/100x141c/cbf827021d5168c22e4177c0b6f1b75a.jpg?u=535158&p=1286006379"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "豆腐の卵とじ丼",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2124527/464x260/3722a5ca962fc698192eaa23f929d95a.jpg?u=4819316&p=1397965182",
+    "datePublished": "2013-02-18",
+    "description": "親子丼感覚で、鶏肉がありません。鶏肉嫌いの人にオススメ、もちろん鶏肉好きの人でも試してみて下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(絹でも木綿でも)",
+            "quantity": "１／２丁"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "５センチ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "焼き海苔または味付け海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "●水",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "●和風顆粒だし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は食べやすい大きさに切り、たまねぎは薄切り、ねぎは斜め薄切りにする",
+        "鍋に●を入れて煮立たせ、たまねぎとねぎを入れて２～３分煮る",
+        "豆腐を加えて煮て、豆腐に火が通れば、卵を溶いて回し入れる",
+        "丼にごはんをよそい、３を乗せて、海苔をちぎってふりかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2124527",
+    "advice": "丼にせずに、おかずの１品としてもいけます",
+    "history": "あまり肉は食べたくないのだけれど、親子丼の味を楽しみたいと思った時に作りました、というか豆腐余っていたので・・",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "たまねぎ",
+        "ねぎ",
+        "卵"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2124527/100x141c/a03c1ae275508f13b9e0e389bbfe5d9f.jpg?u=4819316&p=1397965182"
+}

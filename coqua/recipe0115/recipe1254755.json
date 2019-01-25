@@ -1,0 +1,62 @@
+{
+    "name": "糸こんのヘルシーごま風味",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1254755/464x260/ba7fd86b7d8d7569ab5ad7da1a8494e3.jpg?u=2495483&p=1286627834",
+    "datePublished": "2010-10-10",
+    "description": "ご飯のお供に。ご飯がすすみます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "糸こんにゃく",
+            "quantity": "１００g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "だしの素（顆粒）",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１と２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "糸こんにゃくを下ゆでして水気を切り、適当な長さに切る、",
+        "フライパンにごま油を温め、糸こんを入れ、からからになったら（だしの素以下）の調味料を入れ煮詰めてからめる。 \r\n",
+        "白ゴマを指でつぶして、ふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1254755",
+    "advice": "",
+    "history": "糸こんにゃくが家にあったので。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "糸こんにゃく",
+        "ごま油",
+        "白ゴマ",
+        "だしの素"
+    ],
+    "tsukurepo_count": "166",
+    "thumbnail": "https://img.cpcdn.com/recipes/1254755/100x141c/61f88f89df5b0b30a5b5f2798d0f7cc9.jpg?u=2495483&p=1286627834"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "簡単カボチャサラダ!",
+    "author": {
+        "@type": "Person",
+        "name": "まぶたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/601359/464x260/c32d28da9d54692a1409a46ff49775c9.jpg?u=889136&p=1524757530",
+    "datePublished": "2008-06-30",
+    "description": "シンプルだけど美味しいよ!煮物もいいけどサラダもグゥ～♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ(あればブラックペッパー)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャは適当な大きさに切ってレンジ600wで４分半チン!します。\r\n(柔らかくなるまで)\r\n暖かいうちにマッシュします。",
+        "マヨネーズとマスタードで和えて塩とこしょうで味をととのえて出来上がり!",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "601359",
+    "advice": "マスタードとマヨネーズの量は一応書いてますがお好みでどうぞ!",
+    "history": "デパ地下のデリのサラダでこんなのありました。で、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "マスタード",
+        "マヨネーズ",
+        "塩"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/601359/100x141c/4a0e8ffd19febed944adcd0169cd1f88.jpg?u=889136&p=1524757530"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "小松菜とツナの卵炒め",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2831965/464x260/620c2a2705094d2e13c1d1966ce3eb1d.jpg?u=3900353&p=1412869956",
+    "datePublished": "2014-10-10",
+    "description": "ツナ缶をオイルごと使った小松菜の卵炒め。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "240g"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "A砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "A塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "A醤油",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "ツナ缶オイル漬け",
+            "quantity": "1缶80g"
+        },
+        {
+            "name": "B酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Bがらスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "B胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "B醤油",
+            "quantity": "大さじ1弱"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は4〜5cmに切り、茎と葉に分けておく。卵はAを加えて溶く。",
+        "表面加工してあるフライパンにツナ缶のオイルをひき、卵液を流し込む。固まり始めたら大きく混ぜ、半熟で取り出す。",
+        "同じフライパンにツナを加えて炒める。小松菜を茎から加えて炒める。Bで味付けし、卵を戻してさっくりと混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2831965",
+    "advice": "お弁当の時は、卵にしっかり火を入れる。",
+    "history": "簡単に作るおかず、お弁当にも。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 ツナ 卵",
+        "小松菜とツナの卵炒め",
+        "小松菜 ツナ 炒め"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2831965/100x141c/7e7c31df216dfde01b29c092ea854b35.jpg?u=3900353&p=1412869956"
+}

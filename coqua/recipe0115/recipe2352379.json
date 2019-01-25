@@ -1,0 +1,63 @@
+{
+    "name": "オッサンの冬瓜コンソメ卵スープ",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2352379/464x260/77cf69675411313651ff0742ddbf8470.jpg?u=3323767&p=1379820861",
+    "datePublished": "2013-09-22",
+    "description": "冬瓜は、一つ買うと大きくて使いきれないので、スープで消費しましょう☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "◎冬瓜",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "◎水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "◎コンソメ（顆粒）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "◎塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "乾燥パセリ（あれば）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜は食べやすい大きさに切り、◎の材料を全て入れて煮ます。沸騰後約10分くらい煮込みます。",
+        "冬瓜が柔らかくなったら火を止め、溶き卵を流し入れて混ぜます。",
+        "器に２を入れ、パセリを振ったら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2352379",
+    "advice": "卵は、火を止めてから入れ、柔らかいようならまた火を付けて、お好みの固さまで火を通して下さい。パセリは、飾りです。",
+    "history": "ウチに冬瓜が余ってたので、和風コンソメスープにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜",
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "水",
+        "コンソメ",
+        "醤油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2352379/100x141c/e2699b2b2851fadbdca2b367e0df3288.jpg?u=3323767&p=1379820861"
+}

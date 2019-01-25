@@ -1,0 +1,67 @@
+{
+    "name": "簡単！定番！ひじきの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "cookpapapa"
+    },
+    "image": "https://img.cpcdn.com/recipes/1582289/464x260/ecf96466db69e019ac64e870becf2396.jpg?u=2319938&p=1317101087",
+    "datePublished": "2011-09-27",
+    "description": "冷蔵庫に入れておけば長持ちしますし、もう一品に重宝します(*'-')b ",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥ひじき",
+            "quantity": "45g"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "3カップ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは水で20～30分戻して、軽く洗い水を切ります。",
+        "油揚げは湯抜きをして食べやすい大きさにきります。にんじんは細切りにします。",
+        "鍋にごま油を熱して、そこに1と２を入れて、全体に油が通るように炒めます。",
+        "調味料を入れて全体になじませた後、だし汁を加えて、中火で時々混ぜながら煮込みます。水分が殆どなくなったら出来上り！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1582289",
+    "advice": "油揚げを入れると味が全然違います！調味料をだし汁より先に入れると味がしみやすいそうです(*ﾟ▽ﾟ)ﾉ",
+    "history": "子供も好きなので、良く作ってます(*ﾟ▽ﾟ)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥ひじき",
+        "にんじん",
+        "油揚げ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1582289/100x141c/12c8f6f2bf81a293d66d42acb0e31a64.jpg?u=2319938&p=1317101087"
+}

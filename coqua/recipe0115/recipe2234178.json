@@ -1,0 +1,65 @@
+{
+    "name": "☆簡単節約☆こんにゃくのピリ辛きんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "さららんのMAMA"
+    },
+    "image": "https://img.cpcdn.com/recipes/2234178/464x260/5ca725fe127f2396fc2d2a7a16ff290d.jpg?u=5977154&p=1369398845",
+    "datePublished": "2013-05-24",
+    "description": "簡単に美味しぃ☆おつまみに、お弁当にもってこいの一品です☆",
+    "recipeYield": "１〜２人分",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "※唐辛子",
+            "quantity": "１本"
+        },
+        {
+            "name": "※しょうゆ",
+            "quantity": "50ml位"
+        },
+        {
+            "name": "※みりん",
+            "quantity": "50ml位"
+        },
+        {
+            "name": "※砂糖",
+            "quantity": "大さじ2〜3位"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくをスプーンでちぎる！",
+        "唐辛子を洗って水に少しつけ置いてから小口切りにする。",
+        "こんにゃくを熱湯に漬けて、水を切る。",
+        "鍋(フライパン)にこんにゃくを入れ、少し色が変わる位まで炒める。",
+        "※ の調味料を入れ、汁気が無くなったらごま油を回し入れる。",
+        "白ごまをお好みで入れて混ぜて、お皿に盛る☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2234178",
+    "advice": "こんにゃくは１度熱湯を通して下さい☆お好みで唐辛子の量を増やしたり、七味唐辛子を入れても美味しいです☆",
+    "history": "簡単節約料理☆おつまみに、お弁当にもあいます☆",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく",
+        "唐辛子",
+        "しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2234178/100x141c/621882758e356061ee7d9c4fb18d5534.jpg?u=5977154&p=1369398845"
+}

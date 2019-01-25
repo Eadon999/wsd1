@@ -1,0 +1,74 @@
+{
+    "name": "コク旨★豚バラと春キャベツの塩ダレ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ペィヤング"
+    },
+    "image": "https://img.cpcdn.com/recipes/1823834/464x260/78dfabe8d943e7b9cd9573f0cfae202d.jpg?u=2771481&p=1337686330",
+    "datePublished": "2012-05-22",
+    "description": "甘みのある春キャベツを素材の味を活かしたまま調理しました★普通のキャベツでも十分美味しいですよ♪　",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "50g"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "5g"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "0.5g"
+        },
+        {
+            "name": "味醂",
+            "quantity": "10g"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "1g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "3g"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "2g"
+        },
+        {
+            "name": "春キャベツ",
+            "quantity": "60g"
+        },
+        {
+            "name": "豚バラ肉(豚コマでも可)",
+            "quantity": "180g"
+        },
+        {
+            "name": "塩ダレ",
+            "quantity": "60g"
+        }
+    ],
+    "recipeInstructions": [
+        "塩ダレの材料を鍋に投入します。",
+        "一度火にかけずにそのまま攪拌します。",
+        "弱火で混ぜながら加熱します。",
+        "とろみが出てきたらバットなどで粗熱を取ります。この状態で冷蔵保管すれば日持ちします。",
+        "豚バラ肉を炒め、火が通ったところでキャベツとタレを入れます。全体的にタレがまわったらすぐに火を止めて盛り付けます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1823834",
+    "advice": "春キャベツの場合は炒め過ぎないことがポイントです。他のお野菜でも美味しいですよ☆",
+    "history": "このレシピの塩ダレは野菜炒め系には何でも使える調味料なので我が家では重宝しています★冷凍保管しているお肉でも美味しくたべられますよ♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ キャベツ 塩だれ",
+        "塩だれキャベツ炒め"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1823834/100x141c/0aa5ffbedbd3f057f6604d6773acf3c6.jpg?u=2771481&p=1337686330"
+}

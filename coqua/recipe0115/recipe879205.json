@@ -1,0 +1,64 @@
+{
+    "name": "蛸とキュウリとトマトのマリネ",
+    "author": {
+        "@type": "Person",
+        "name": "hatakoma"
+    },
+    "image": "https://img.cpcdn.com/recipes/879205/464x260/40fdbfcd7ceb4208144b1ea604bfc639.jpg?u=1461887&p=1379377776",
+    "datePublished": "2009-08-01",
+    "description": "主人にも好評！！ビールのつまみに週一で食べたいとリクエストされました☆クレイジーソルトとバジルの香りが蛸によく合います。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "蒸しタコ",
+            "quantity": "２足"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "乾燥バジル",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりおろしニンニク",
+            "quantity": "小さじ１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "タコは５㎜厚さくらいの斜めそぎ切り、キュウリは乱切り、トマトは種を除いて乱切りにする。",
+        "１と調味料を全部合わせて和える。",
+        "冷蔵庫で冷やしておく。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "879205",
+    "advice": "切って和えるだけの簡単レシピです。冷蔵庫でしばらくおいた方が野菜やタコに味がなじみます。冷たく冷やして暑い季節にはもってこいの一品に♪",
+    "history": "蛸が安かったのと、カレーに合うサッパリとしたものが欲しかったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タコとキュウリのマリネ"
+    ],
+    "tsukurepo_count": "182",
+    "thumbnail": "https://img.cpcdn.com/recipes/879205/100x141c/55556cb394b3f6553b711d646b46fdff.jpg?u=1461887&p=1379377776"
+}

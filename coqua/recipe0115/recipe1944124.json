@@ -1,0 +1,61 @@
+{
+    "name": "ロミロミサーモン",
+    "author": {
+        "@type": "Person",
+        "name": "爽健美家★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1944124/464x260/d323732838607c986141c62829cd42d1.jpg?u=2457114&p=1410231750",
+    "datePublished": "2012-09-08",
+    "description": "ハワイの伝統料理ロミロミサーモン。サーモンと野菜を混ぜ合わせるだけで見た目にも華やか！おもてなしの前菜におすすめです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "サーモン(刺身用)",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉ねぎ(みじん切り)",
+            "quantity": "1/2個（50g)"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1/2個（50g)"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本（50g)"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "サーモンは５ｍｍ角に切る。トマト・きゅうりは５ｍｍのさいの目切りにする。",
+        "ボールに１と玉ねぎを入れ、オリーブオイル・しょう油・塩を加える。",
+        "全体がとろりとするまでよく混ぜ合わせる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1944124",
+    "advice": "混ぜ合わせた後、冷蔵庫で一時間ほど冷やすと味が馴染みます。",
+    "history": "しょう油を追加してアレンジしました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン",
+        "その他/ハワイ料理/ロミロミサーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ロミロミサーモン",
+        "ロミロミ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1944124/100x141c/baa45eb427d638241650fe6b51dd39ad.jpg?u=2457114&p=1410231750"
+}

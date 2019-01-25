@@ -1,0 +1,55 @@
+{
+    "name": "鮭のムニエル　オーロラソースで旨っ!",
+    "author": {
+        "@type": "Person",
+        "name": "momoもも"
+    },
+    "image": "https://img.cpcdn.com/recipes/755208/464x260/db7d03945f91f2ff696dc2029c8c2683.jpg?u=823267&p=1236646885",
+    "datePublished": "2009-03-10",
+    "description": "小洒落たソースもイイけれど、ウチは、いつもオーロラソース。 簡単すぎるけど、相性抜群！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター（マーガリンでも可）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆マヨネーズ：ケチャップ",
+            "quantity": "１：１　（各大さじ１）"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭に、両面塩こしょうし、小麦粉を薄くまぶす。",
+        "熱したフライパンにバターをいれ、鮭を皮面から焼く。 \r\n（中火で両面をこんがりと♪）",
+        "☆の調味料を混ぜて、オーロラソースを作る。",
+        "鮭にオーロラソースをかけて、完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "755208",
+    "advice": "鮭を焼く時、蓋をしない方が、表面カリっとして私は好きです。オーロラソースは混ぜすぎない方が、見栄えがイイかも。",
+    "history": "ウチのお母さんは、鮭のムニエルには、いつもオーロラソースでした。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭",
+        "塩こしょう",
+        "小麦粉",
+        "バター"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/755208/100x141c/807077404ceadfb39c2cfb239b3e6368.jpg?u=823267&p=1236646885"
+}

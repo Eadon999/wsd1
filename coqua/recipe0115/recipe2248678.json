@@ -1,0 +1,64 @@
+{
+    "name": "むかごと生姜のごはん",
+    "author": {
+        "@type": "Person",
+        "name": "5姉妹総元締め"
+    },
+    "image": "https://img.cpcdn.com/recipes/2248678/464x260/0237b0df86351f91681deb62d53a4dc9.jpg?u=528472&p=1387495233",
+    "datePublished": "2013-12-20",
+    "description": "旬の炊き込みごはんです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "むかご",
+            "quantity": "200グラム"
+        },
+        {
+            "name": "塩",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "生姜",
+            "quantity": "親指大"
+        },
+        {
+            "name": "昆布だし",
+            "quantity": "小匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "むかごを洗う。",
+        "米を研ぎ，2合目のところまで水を入れて、1時間ほどおく。",
+        "調味料を入れて、水を3合目まで入れて、まぜる。むかごを載せて炊く。",
+        "炊き上がったらすぐに生姜をみじん切りしたのを混ぜ込んで10分ほど蒸らしてから食べる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2248678",
+    "advice": "調味料は炊く直前に入れる。炊飯用の水は冷たい方が美味しく炊ける。",
+    "history": "子どもの頃よく食べていたむかご飯。野菜の直売所で売っているのを見かけたので、炊いてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/むかご"
+    ],
+    "rankings": [
+        "むかご 10位",
+        "むかごご飯 5位"
+    ],
+    "related_keywords": [
+        "むかごご飯",
+        "むかご しょうが"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2248678/100x141c/bef8bbec005c974f35b7b824a9360b60.jpg?u=528472&p=1387495233"
+}

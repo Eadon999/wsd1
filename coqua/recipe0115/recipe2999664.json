@@ -1,0 +1,64 @@
+{
+    "name": "キャベツとツナの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2999664/464x260/6618280bb2c84a454f0b004c601f9c7c.jpg?u=4819316&p=1423140299",
+    "datePublished": "2015-02-05",
+    "description": "15/6/20話題入り有難うございます、キャベツとツナの煮物にしょうがでパンチを効かせてみました、お試し下さい",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ツナ（缶詰め）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは一口大に切り、しょうがはせん切りにする",
+        "鍋にツナを汁ごとあけ、キャベツ、しょうがと●を入れて加熱する",
+        "キャベツがしんなりとしたら火を止めて器に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2999664",
+    "advice": "キャベツがふにゃふにゃになると美味しくないので、柔らかくなり始めたらすぐに火を止めるぐらいが良いでしょう",
+    "history": "レシピ発想のきっかけとなったのは、メンバーさんのレシピで「キャベツとさつま揚げの炒めもの」(ID=2586971）です、その応用としてさつま揚げをツナに変えて、しょうがを効かせてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ツナ 煮物",
+        "キャベツ 煮物"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2999664/100x141c/846fb3bc9b16097c64dd7e75a167defe.jpg?u=4819316&p=1423140299"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "すぐできる！エリンギのポン酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ダージリンちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1036438/464x260/7eea11571fae61bb0b513fd030bfebcb.jpg?u=1451027&p=1265854766",
+    "datePublished": "2010-02-11",
+    "description": "ほんとにすぐにできて、なんとも言えない、いい味なんです！エリンギの食感も最高です。ぜひお試しを。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "３個"
+        },
+        {
+            "name": "オイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ポン酢（市販の味ポンなど）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゆず七味唐辛子（なければ七味で）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギを食べやすい大きさに切る。\n（半分の長さで３ミリほどの薄さに）",
+        "フライパンを熱しオイルを敷き、エリンギをちょっと焦げ目がつくぐらいまでよ〜く炒める。",
+        "ポン酢を入れ、フライパンを振って全体になじませ、ゆず七味をふりかければできあがり！\n",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1036438",
+    "advice": "よ〜く炒めることがポイントです。味がしみやすくなります。",
+    "history": "思いつきで作ってみましたが、今や定番です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "オイル",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1036438/100x141c/785b10672248fac3b1954e8b1403c063.jpg?u=1451027&p=1265854766"
+}

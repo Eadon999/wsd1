@@ -1,0 +1,66 @@
+{
+    "name": "茄子とエノキのピリ辛マヨチーズ焼き♡",
+    "author": {
+        "@type": "Person",
+        "name": "shinyui"
+    },
+    "image": "https://img.cpcdn.com/recipes/642154/464x260/add8d8af8da9ca3c6f1e2c2f5f659b7c.jpg?u=473880&p=1221024691",
+    "datePublished": "2008-09-12",
+    "description": "マヨネーズのコクが美味しい♪豆板醤でピリ辛で、おつまみにも♪",
+    "recipeYield": "１人～２人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "１本"
+        },
+        {
+            "name": "エノキ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★豆板醤",
+            "quantity": "小匙１/２"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ごま油（炒める用油）",
+            "quantity": "小匙１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は乱切りにして、水にさらし、しばらくおいておく。 \r\n",
+        "エノキは根元を切り落とし、２等分にする。",
+        "フライパンにごま油を熱し茄子の水気を切って炒める。",
+        "しばらく炒めたら、エノキと★の調味料も入れて炒め、火を止めてマヨネーズとあえる。",
+        "④を耐熱皿に移し、スライスチーズをちぎってのせ、オーブントースターで焦げ目が出切るまで焼いて完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "642154",
+    "advice": "チーズは、とろけるタイプならなんでも大丈夫です。",
+    "history": "マヨネーズを使いたかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす えのき チーズ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/642154/100x141c/bee9331991eb5753ea2ab58b57176757.jpg?u=473880&p=1221024691"
+}

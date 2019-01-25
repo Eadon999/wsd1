@@ -1,0 +1,71 @@
+{
+    "name": "お惣菜屋さんの♡ポテトサラダ♡",
+    "author": {
+        "@type": "Person",
+        "name": "ぱんだカフェcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1090425/464x260/356e3648f3a935456aa721bbb84b955b.jpg?u=1003914&p=1353848438",
+    "datePublished": "2010-04-10",
+    "description": "お惣菜屋さんで売ってるポテサラをイメージして甘酢を効かせました♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "３個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩、こしょう、味の素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはみじん切りにして水にさらす、 \r\nきゅうりは輪切りにして塩もみして10分置く、\r\nハムは適当な大きさに切る",
+        "玉ねぎ、きゅうりの水気を絞る",
+        "じゃがいもはラップをしてレンジで7分加熱し、皮を取り粗くつぶす",
+        "人参は角切りにしてラップをしてレンジで２分半加熱する",
+        "ボウルにじゃがいも、玉ねぎ、きゅうり、人参、ハムを入れ合わせた○で味を付ける",
+        "マヨネーズも加え和え、塩・こしょう・味の素で味を調える",
+        "冷蔵庫でよく冷やして。。\n\n\n\nできあがり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1090425",
+    "advice": "",
+    "history": "ＴＶ「アメトーク」でポテトサラダ芸人をやっているのを見て無性に作りたくなって♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お惣菜屋さんのポテトサラダ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1090425/100x141c/847dd04d5e1fef5336fd2b4c297cc0c7.jpg?u=1003914&p=1353848438"
+}

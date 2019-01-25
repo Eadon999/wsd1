@@ -1,0 +1,58 @@
+{
+    "name": "さんまと大根の生姜煮",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/268972/464x260/f2631172dd361979602014092f93a30b.jpg?u=57297&p=1214213346",
+    "datePublished": "2006-07-23",
+    "description": "久しぶりの煮魚。大根も一緒に入れたら味が浸みて超旨かった☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "2尾"
+        },
+        {
+            "name": "大根",
+            "quantity": "適量(好きなだけ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "生姜",
+            "quantity": "スライス10枚くらい"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙２"
+        }
+    ],
+    "recipeInstructions": [
+        "さんまぶつ切りにして、お腹のお掃除します。\r\n（綺麗にお水で洗います）\r\n\r\n大根は拍子切り、ラップしてチン。\r\n火を通しておきます。",
+        "中華なべにさんまを並べ、(フライパンでもいいよ)\r\n醤油２、酒１、砂糖２、生姜スライスを入れます。\r\n水を少し足してもかまいません。",
+        "蓋をして中火で6～7分。\r\nフライ返しでひっくり返して\r\n大根も入れて、さらに6～7分。\r\n水分が残ってたら蓋を開けて、水分飛ばします。\r\n火を止めてしばらくほっときます。\r\n味が浸みるよ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "268972",
+    "advice": "大根は薄めに切ってチンしておくと火の通りがいいです",
+    "history": "たまには煮魚もいいかなと。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "大根",
+        "醤油",
+        "生姜"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/268972/100x141c/5cb3d565256901f417861b336e9c6441.jpg?u=57297&p=1214213346"
+}

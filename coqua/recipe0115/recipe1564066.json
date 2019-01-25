@@ -1,0 +1,63 @@
+{
+    "name": "✽オクラのカレー炒め✽",
+    "author": {
+        "@type": "Person",
+        "name": "ｘｘｘめろｘｘｘ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1564066/464x260/e932d30e93a8233eb22aac3f619dbb77.jpg?u=2401193&p=1326072076",
+    "datePublished": "2011-09-07",
+    "description": "大好きなカレー味とネバネバ♪あっという間になくなっちゃう❤",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "約１０本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★カレー粉",
+            "quantity": "小さじ１／４"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "お湯",
+            "quantity": "カップ１／４"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは塩をまぶしこすって、うぶ毛を取る。\nその後、水洗いして水気を取る。",
+        "オクラのヘタをとり、ガクの部分も取り除く。",
+        "サラダ油を熱し、オクラを炒める。\n油が回ったら、★を順に加えて味をからめる。",
+        "最後にお湯を入れ、水分が無くなるまで絶えず炒めてオクラに火を通す。\n\nできあがり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1564066",
+    "advice": "",
+    "history": "育てたオクラをカレー味で❤",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら",
+        "塩",
+        "サラダ油",
+        "カレー粉"
+    ],
+    "tsukurepo_count": "184",
+    "thumbnail": "https://img.cpcdn.com/recipes/1564066/100x141c/11faebe973b8a4d9d9f8702451fa7275.jpg?u=2401193&p=1326072076"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "蛤のお吸い物",
+    "author": {
+        "@type": "Person",
+        "name": "verita_n"
+    },
+    "image": "https://img.cpcdn.com/recipes/1202076/464x260/357bcd08b6823b687ed79d9eecf38605.jpg?u=1521034&p=1281057137",
+    "datePublished": "2010-08-03",
+    "description": "はまぐりは砂抜きからやりましょう♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "蛤",
+            "quantity": "4〜6個"
+        },
+        {
+            "name": "昆布（５センチ角）",
+            "quantity": "1枚"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "6本くらい"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "蛤は水道水で軽く洗っておく。\n昆布は表面をぬれ布巾で拭いておく。\n三つ葉は３本くらいをまとめて縛っておく。",
+        "<<砂抜き>>\n水に塩を溶かし、蛤を入れる。新聞紙で蓋をし、２〜４時間置く。\n\n＊ザルとボールを使うと良いです",
+        "鍋に水、昆布、洗った蛤、酒を入れ、強火にかける。\n沸騰する直前に昆布を取り除く。",
+        "蛤が開いたらアクを取り、醤油で味を整える。",
+        "器に盛り、三つ葉を飾れば出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1202076",
+    "advice": "",
+    "history": "愛息のお食い初め用",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はまぐり 砂抜き"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1202076/100x141c/ac5a5504ef4015e73ad2ecf36deed4a9.jpg?u=1521034&p=1281057137"
+}

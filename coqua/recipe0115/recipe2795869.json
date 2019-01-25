@@ -1,0 +1,62 @@
+{
+    "name": "ささみとコーンの炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "おとめちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2795869/464x260/859bcd9e3308907bdc55bcda49426032.jpg?u=1371298&p=1410600438",
+    "datePublished": "2014-09-13",
+    "description": "どんなおかずにも合う優しい味の炊き込みご飯♥️",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "3合"
+        },
+        {
+            "name": "コーン(湯でたトウモロコシでも缶詰でも)",
+            "quantity": "200〜250g"
+        },
+        {
+            "name": "ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "✳︎しょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "✳︎みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "✳︎酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は研いで30分浸水させる。",
+        "ささみは子供の一口大くらいに切って、✳︎の調味料に30分漬け込む。",
+        "1に塩を入れ、よく混ぜる。",
+        "3に2の調味料ごとと、コーンを入れ、炊飯器のスイッチをオン。",
+        "出来上がったらよく混ぜ、小葱やごま 、刻みのりを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2795869",
+    "advice": "お米はしっかり浸水してください。浸水せず、塩を入れると、味が馴染みません。",
+    "history": "冷蔵庫に中途半端に余っている材料を使い切りたくて。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 炊き込みご飯",
+        "ささみ ごはん"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2795869/100x141c/44f37cb301e8aa1e4ae1d6727467874b.jpg?u=1371298&p=1410600438"
+}

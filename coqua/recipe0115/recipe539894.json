@@ -1,0 +1,57 @@
+{
+    "name": "にら味噌",
+    "author": {
+        "@type": "Person",
+        "name": "miel"
+    },
+    "image": "https://img.cpcdn.com/recipes/539894/464x260/c09ebc4de36744a2f07cd7a995e59b38.jpg?u=257296&p=1214219329",
+    "datePublished": "2008-03-28",
+    "description": "ご飯のお供にどうぞ代謝アップの健康レシピです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にら",
+            "quantity": "一袋"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１～１.5"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★（あれば）すり胡麻",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "にらをみじんぎりにし、小鍋でごま油で炒める",
+        "にらがしんなりしたら、★を入れて混ぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "539894",
+    "advice": "★の調味料を入れる際、先にすり鉢などで混ぜておくと、慌てなくてすみます。赤味噌、白味噌、どちらでもおいしいです。私は赤味噌の場合は味噌の量を控えめにして作っています。にらは根に近い部分がおいしいので、捨てずによく炒めて下さい。",
+    "history": "冷蔵庫に残ったにらを使いたかったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にら",
+        "ごま油",
+        "味噌",
+        "みりん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/539894/100x141c/0d493855df2e3fdd1bcd7d8eff797797.jpg?u=257296&p=1214219329"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "しょうがたっぷり♪あさりのしぐれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "はやみちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/510955/464x260/758954a0c647f575cc400c11ca9c971a.jpg?u=618977&p=1214218768",
+    "datePublished": "2008-02-18",
+    "description": "定番のしぐれ煮ですが、深川飯におから煮にと使いまわしのきく一品です。もちろん、ご飯に混ぜ込んででおにぎりにしても美味です",
+    "recipeYield": "２，３回分",
+    "recipeIngredient": [
+        {
+            "name": "あさり（むき身）",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "４０ｇ"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "あさりのむき身は塩水で洗い、さらに水ですすいで水気をよく切る。",
+        "しょうがは皮をむいて千切りにする。",
+        "鍋に①のあさり・②のしょうが・●の調味料を入れ、汁気がなくなるまで煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "510955",
+    "advice": "しょうがの量は好みで加減してください。",
+    "history": "あさりのむき身が手に入ったので、使いまわしのきくしぐれ煮にしました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり しぐれ煮"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/510955/100x141c/ad5663f037c317b6a16031d3c95dceec.jpg?u=618977&p=1214218768"
+}

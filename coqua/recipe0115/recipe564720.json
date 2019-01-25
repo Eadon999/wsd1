@@ -1,0 +1,60 @@
+{
+    "name": "あっさり甘め☆つゆだく豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "cafe-cafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/564720/464x260/7c42cc07e4dec0e9e4adad1685c26616.jpg?u=672442&p=1295678346",
+    "datePublished": "2008-05-06",
+    "description": "炒めずお鍋ひとつで煮るだけ！甘めの薄味だからあっさりしてます食欲が無いときも頂けるつゆだく豚丼です",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "●薄口醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●粉末だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●水",
+            "quantity": "200cc"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを食べやすい大きさに切ります\n豚肉は大きいものは一口大に切り、塩コショウを少々ふりかけます",
+        "鍋に●を全部入れて煮立て、玉ねぎを煮ます\n",
+        "玉ねぎがしんなりしたら、豚肉をなるべく重ならないように広げて入れ、あくはすくいます\n",
+        "豚肉に火が通ったら出来上がり！\n紅しょうがや青味があれば飾ってネ"
+    ],
+    "cookTime": null,
+    "recipe_id": "564720",
+    "advice": "かなりつゆが多すぎる感じですが、たっぷりかけると美味しいです♪味は少し甘め、醤油の量で調節して下さいね",
+    "history": "時間が無いとき、食欲の無いときのメニューです覚え書きとして",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚丼 薄味"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/564720/100x141c/e2e25c7d36f7a7350b598186ac824a1c.jpg?u=672442&p=1295678346"
+}

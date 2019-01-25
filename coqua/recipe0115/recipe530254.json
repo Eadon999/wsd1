@@ -1,0 +1,62 @@
+{
+    "name": "◆厚揚げのサイコロステーキ◆",
+    "author": {
+        "@type": "Person",
+        "name": "にゃぁくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/530254/464x260/26163af878c2a4cc7ca0bd63572a70a4.jpg?u=322621&p=1214219151",
+    "datePublished": "2008-03-15",
+    "description": "甘みそだれでごちそうに♡",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "●みそ",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●すりゴマ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは熱湯で油抜きしたらひとくち大のｻｲｺﾛに切っておく　●を合わせておく",
+        "油を引かずに中火で厚揚げをこんがりと焼く",
+        "少し火を弱め　●を加えてﾌﾗｲﾊﾟﾝを揺すりながら絡めたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "530254",
+    "advice": "各面　美味しそうな焦げ目を付けて下さいﾈ",
+    "history": "ｻｲｺﾛｽﾃｰｷのﾀﾚを参考にして　安上がりな厚揚げで作ってみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "みそ",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "92",
+    "thumbnail": "https://img.cpcdn.com/recipes/530254/100x141c/fb0ec1cf15106c3cb7c2a05ffc2d9d36.jpg?u=322621&p=1214219151"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "✿小松菜とコーンの胡麻和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/755772/464x260/48dd886142f59417b16ab367049d70c1.jpg?u=271833&p=1236685214",
+    "datePublished": "2009-03-10",
+    "description": "シャキシャキした食感のヘルシーな和え物です。彩りが良いのでお弁当のおかずにもおすすめです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜（又はほうれん草）",
+            "quantity": "1束"
+        },
+        {
+            "name": "☆コーン",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆白すり胡麻",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆めんつゆ",
+            "quantity": "大さじ2～"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に湯を沸かして小松菜を茹で、茹で上がったら湯を切って冷水で冷します。※レンジ加熱でもOK \r\n",
+        "1の水気をよく切り３cm幅に切ります。",
+        "ボウルに2と☆を入れ、よく混ぜ合わせたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "755772",
+    "advice": "*小松菜の代わりにほうれん草で作っても美味しいと思います。 *めんつゆの分量は、味をみてお好みで加減して下さい。 ",
+    "history": "いつもはほうれん草で作る胡麻和えを、小松菜で作ってみました。小松菜にも胡麻はよく合って美味しいです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 コーン 和え物"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/755772/100x141c/7441f89b37910e466bdd7f9f21170fe6.jpg?u=271833&p=1236685214"
+}

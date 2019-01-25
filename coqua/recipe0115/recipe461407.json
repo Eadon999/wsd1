@@ -1,0 +1,70 @@
+{
+    "name": "ブロッコリーの和え物　",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/461407/464x260/67783968d0684fb0ba6cdba770fd97de.jpg?u=405605&p=1259148177",
+    "datePublished": "2007-11-20",
+    "description": "胡麻の香りがきいてます。お酢入りなのでさっぱり食べられます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "◆すり胡麻",
+            "quantity": "大２"
+        },
+        {
+            "name": "◆マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "◆米酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "◆味噌",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "◆砂糖",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "◆醤油",
+            "quantity": "香り付け程度"
+        },
+        {
+            "name": "からし",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ハム（ちくわ）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーはお好みに茹でる。\r\nレンジでも可です。",
+        "◆調味料を全部ボールに入れて混ぜておく。 \r\nからし入りもピリッとおいしいです。",
+        "しっかり水切りしたブロコリーと２のあわせ調味料を和えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "461407",
+    "advice": "ハムの代わりにちくわでも良いです。ブロッコリーだけでもオッケーです。",
+    "history": "お酢が好きで良く作ります。ブロッコリーに合う味噌マヨで和えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "すり胡麻",
+        "マヨネーズ",
+        "米酢"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/461407/100x141c/d92bd0f73d091d2ec2e5e898dcf223f6.jpg?u=405605&p=1259148177"
+}

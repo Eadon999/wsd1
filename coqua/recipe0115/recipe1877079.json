@@ -1,0 +1,61 @@
+{
+    "name": "＊カレーうどん　とろとろ温卵のせ＊",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/1877079/464x260/75e159d7d4b82e5cba601aa9e806a6d9.jpg?u=3707330&p=1341912125",
+    "datePublished": "2012-09-02",
+    "description": "味付けはめんつゆとカレー粉(固形)のみ♬お手軽なのでランチにも☆",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "2本"
+        },
+        {
+            "name": "温泉卵　レシピID :1641530",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "250ｃｃ"
+        },
+        {
+            "name": "カレー粉（固形）",
+            "quantity": "1個"
+        },
+        {
+            "name": "めんつゆ(ストレート)",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ1（同量の水で溶く）"
+        }
+    ],
+    "recipeInstructions": [
+        "温泉卵をつくります\nﾚｼﾋﾟID :1641530 ",
+        "ウインナーは斜め切りにします",
+        "水､刻んだカレー粉､めんつゆを鍋に入れてウインナーも加え２～3分煮ます。\nその後水溶き片栗粉でとろみをつけます",
+        "うどんを加え1～2分味をしみ込ませたら器に盛り温泉卵をのせます"
+    ],
+    "cookTime": null,
+    "recipe_id": "1877079",
+    "advice": "とろみは水溶き片栗粉の量でお好みのかたさにしてくださいね☆冷凍うどんの場合は1～2分レンジでチンしてから入れるとほぐれやすいです",
+    "history": "カレー粉がたくさんあったので消費したくて（*^_^*）",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/カレーうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレーうどん 固形",
+        "カレーうどん 卵"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1877079/100x141c/31c340b1f1ff4383a047d7310a2f5e8c.jpg?u=3707330&p=1341912125"
+}

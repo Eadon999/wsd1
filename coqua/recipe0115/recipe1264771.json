@@ -1,0 +1,79 @@
+{
+    "name": "簡単！アボガドビビンバ丼",
+    "author": {
+        "@type": "Person",
+        "name": "ミッシェル山田"
+    },
+    "image": "https://img.cpcdn.com/recipes/1264771/464x260/3ba221bcf9ac6192e8f613a9454821aa.jpg?u=942043&p=1287658706",
+    "datePublished": "2010-10-21",
+    "description": "ナムルを用意する必要なし！ほとんど家に常備している食材で作れますよ(^0^)米印の食材はお好みで入れて下さい！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "挽き肉（何でも）",
+            "quantity": "50g"
+        },
+        {
+            "name": "アボガド",
+            "quantity": "1/2～１個"
+        },
+        {
+            "name": "◎ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎すりおろしにんにく",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗大盛り一杯"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "（※）コチュジャン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "（※）キムチ",
+            "quantity": "適量"
+        },
+        {
+            "name": "（※）卵",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "◎を混ぜてフライパンで熱する。",
+        "煮立ったら挽き肉を加え、肉に火を通す。卵を入れる場合はここで卵を加えておく。",
+        "どんぶりに入れた白米の上にフライパンの中身を乗せる。ザク切りしたアボガドと（キムチ、コチュジャン）海苔を乗せて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1264771",
+    "advice": "２でひと煮立ちさせたあと、少し汁気がなくなるまで煮たほうが肉に味がついておいしいです！",
+    "history": "アボガドをビビンバに入れてみたら意外や意外、おいしい！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ビビンバ アボカド"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1264771/100x141c/1d3df544477409384470174a143076a9.jpg?u=942043&p=1287658706"
+}

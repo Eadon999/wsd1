@@ -1,0 +1,41 @@
+{
+    "name": "【農家のレシピ】大根のジャコ梅干し和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1770159/464x260/fd954204d326dd4d4c341eeaa33ae46b.jpg?u=2513693&p=1333806589",
+    "datePublished": "2012-04-09",
+    "description": "サラダ感覚で食べられる大根の和え物です。ジャコとかつおぶしの塩分と梅干の酸味で頂きます。味付けしなくてもコレで十分です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "チリメンジャコ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "梅干（＊種を取って包丁で細かくたたいておく）",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き細切りにしチリメンジャコを混ぜて３分置き、もう一度混ぜてから梅干を入れて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1770159",
+    "advice": "■大根とチリメンジャコを最初に混ぜて、ジャコの塩分と旨みを大根に染み込ませるのがコツです。■梅干は酸っぱい梅干のほうが美味しく仕上がります。■私は何もかけずに食べますが、お好みでポン酢をかけて食べてもいいですよ。",
+    "history": "飲食店で大根の千切りにジャコを混ぜたサラダがあり美味しかったのでアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 梅干し"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1770159/100x141c/b904cc14b1b24145251ab2c9cd054bab.jpg?u=2513693&p=1333806589"
+}

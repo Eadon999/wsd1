@@ -1,0 +1,46 @@
+{
+    "name": "もやしだけサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ムー君"
+    },
+    "image": "https://img.cpcdn.com/recipes/339849/464x260/8460470c786243705c7819061e355931.jpg?u=384614&p=1214214923",
+    "datePublished": "2007-03-05",
+    "description": "からし醤油がもやしに合います（＾～＾）ヘルシーだからダイエット中にオススメ！！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "２００g"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★ねりからし",
+            "quantity": "チューブで１㎝くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを茹でる。",
+        "①に★印の調味料を和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "339849",
+    "advice": "からしは、かたまりにならないようによく混ぜましょう。からしの量はお好みで調節してください。",
+    "history": "もやしがあったので作りました。おいしいですよ！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやしだけサラダ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/339849/100x141c/30718b4b3039ab1cfacac23bae21b205.jpg?u=384614&p=1214214923"
+}

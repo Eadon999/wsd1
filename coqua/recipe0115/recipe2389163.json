@@ -1,0 +1,61 @@
+{
+    "name": "朝ご飯・ランチに♪１０分速攻！ツナカレー",
+    "author": {
+        "@type": "Person",
+        "name": "どんぴんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2389163/464x260/aa06d292f1deb4949b951642384982ce.jpg?u=4090904&p=1382961727",
+    "datePublished": "2013-10-29",
+    "description": "Yahoo!掲載感謝です☺煮込まないので10分で完成♪簡単アレンジカレーです♪",
+    "recipeYield": "２皿分",
+    "recipeIngredient": [
+        {
+            "name": "コーン(冷凍)",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "玉ねぎ(みじん切り)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "６個"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "カレールウ",
+            "quantity": "２皿分"
+        }
+    ],
+    "recipeInstructions": [
+        "バターでみじん切りにした玉ねぎを炒める",
+        "コーン・プチトマトも入れてさらに炒める",
+        "水を入れて５分程煮る",
+        "油をきったツナ・カレールウを入れて１分程煮込む",
+        "器に盛り付けて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2389163",
+    "advice": "特にありません。トマトはカットしたものでも良いです。",
+    "history": "カレーが大好きな娘のために考えたレシピです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "10分 朝ごはん"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2389163/100x141c/7f0882a7bb5bbfacc64467154c67f791.jpg?u=4090904&p=1382961727"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "ごぼうとにんじんのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/512532/464x260/e3eb9fd31dc71a7c6599453895dc4601.jpg?u=212659&p=1215133416",
+    "datePublished": "2008-02-20",
+    "description": "ゴマの香りのほんのり甘い根菜サラダ",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "１本（約２００g）"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "■すし酢",
+            "quantity": "大さじ１ 1/2"
+        },
+        {
+            "name": "■マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "■味噌",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "■白すりごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "白炒りごま",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうとにんじんは斜め薄切りにしてから細切りにする。",
+        "鍋にごぼうとひたひたの水を入れて火にかけ沸騰してから１分ほど茹で、にんじんを加える。更に１分ほどゆでてざるにあげ湯をきる。",
+        "■の調味料を混ぜ合わせる。粗熱が取れた２にあえる。器に盛り炒りごまを指でひねりかける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "512532",
+    "advice": "細めのごぼうがお好みなら、ささがきにしてください。",
+    "history": "寿司酢を使うと新たに甘みを加える必要もなく、酢独特のツンとした匂いもないので簡単に美味しいサラダができました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう サラダ",
+        "ごぼう にんじん",
+        "ごぼう にんじん サラダ"
+    ],
+    "tsukurepo_count": "1096",
+    "thumbnail": "https://img.cpcdn.com/recipes/512532/100x141c/f52c962b4ca72f97dbd93bdde95e1461.jpg?u=212659&p=1215133416"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "キスの和風ピカタ",
+    "author": {
+        "@type": "Person",
+        "name": "すぎっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/307435/464x260/a5c15b3a76c255f6bd79a22058474485.jpg?u=61937&p=1214214229",
+    "datePublished": "2006-12-05",
+    "description": "天ぷらにしよう！とキスを買ってきましたが、時間がなかったのでピカタに変身（笑）胡麻と青のりで和風に仕上げました。",
+    "recipeYield": "キス５尾分",
+    "recipeIngredient": [
+        {
+            "name": "キス",
+            "quantity": "５尾"
+        },
+        {
+            "name": "しお・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "しろごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "青のり",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "キス（天ぷら用）にしお・胡椒をふり、しばらくおいたら小麦粉を軽くまぶします。",
+        "卵をわりほぐし、しろごま・青のり・しょうゆを加えてよく混ぜます。",
+        "フライパンにサラダ油を熱し、中火にします。\r\nキスのしっぽをもって、卵液にくぐらせます。\r\n身の方から焼きます。",
+        "両面に軽く焦げ目がついたら、残りの卵液を流します。一つ一つを分けるようにひっくり返し、両面を焼いたらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "307435",
+    "advice": "卵液にしょうゆを入れすぎないよう、注意してくださいね！",
+    "history": "ささみのピカタのお魚バージョン。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/きす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キス",
+        "卵",
+        "しろごま",
+        "青のり"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/307435/100x141c/49f79e57523b7b581cd08ff317a2daca.jpg?u=61937&p=1214214229"
+}

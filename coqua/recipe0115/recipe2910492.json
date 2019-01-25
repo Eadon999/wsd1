@@ -1,0 +1,58 @@
+{
+    "name": "ほうれん草の揚げ胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2910492/464x260/6680f97776ecfc3dd6ee71d87a0d9477.jpg?u=1570274&p=1417438834",
+    "datePublished": "2014-12-01",
+    "description": "あと一品という時の副菜にいいですよ。多めに作ってお弁当にもOK~。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小ｓ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小ｓ１.1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小ｓ2"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大s1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて冷水にとり適当長さに切る。\n油揚げは、油抜きし、軽く焼く。幅２-3ミリに切る。",
+        "白ごまは、すっておく。できれば軽くフライパンで煎っておくとなお風味がよくなります。",
+        "調味料をボールに入れ、よく絞ったほうれん草、油揚げ、白ごまを混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2910492",
+    "advice": "ほうれん草はしっかり絞ってください。水っぽくなります。お弁当に入れると傷みやすくなります。お好みで鰹節をかけてたり、ちくわを入れてもおいしいです。",
+    "history": "な~んとなく・・・。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "油揚げ",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2910492/100x141c/e21f3ace36805dd8255f03d3b83810f7.jpg?u=1570274&p=1417438834"
+}

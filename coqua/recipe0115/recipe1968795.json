@@ -1,0 +1,63 @@
+{
+    "name": "えのきの簡単スープ。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1968795/464x260/32f7a279d49446c197ce51709631af4a.jpg?u=4036&p=1348457653",
+    "datePublished": "2012-09-24",
+    "description": "あっという間にできるのに美味しい！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "50g"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き黒胡椒",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは石づきを落とし、３センチ程度の長さに切る。",
+        "鍋に、水400cc・コンソメを入れて火にかける。お玉などでかき混ぜ、コンソメが溶けたらえのきを入れる。",
+        "2.が一煮立ちしたら火を止めて、醤油・バターを入れて混ぜる。",
+        "器に注ぎ、ねぎを散らし、黒胡椒を振ればできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1968795",
+    "advice": "他のきのこも加えても美味しいと思います。",
+    "history": "鍋料理で食べきれなかったえのき茸を、美味しくいただきたかったので考えてみました。きのことバターはよく合うので、この組み合わせに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき茸",
+        "固形コンソメ",
+        "水",
+        "醤油"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1968795/100x141c/cfedc90e01ca538a6dca8c9bc39aa80d.jpg?u=4036&p=1348457653"
+}

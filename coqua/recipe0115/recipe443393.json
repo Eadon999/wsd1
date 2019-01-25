@@ -1,0 +1,69 @@
+{
+    "name": "◆◇シンプルあったか卵うどん◆◇",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/443393/464x260/a5f0a1373c2e9705e4ff6e8c3fe14aa8.jpg?u=322945&p=1214217486",
+    "datePublished": "2007-10-17",
+    "description": "何もないときや、具合の悪いときによく作る、我が家のあったか定番うどんです♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でうどん",
+            "quantity": "一袋"
+        },
+        {
+            "name": "お湯",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "★和風だし",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "★薄口しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★味の素、塩",
+            "quantity": "各小さじ1/３"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉と水",
+            "quantity": "小さじ１の片栗を小さじ２の水で溶く。"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんはザルにあけ軽く水で洗ってほぐしておく。\r\n沸騰した湯の中に★の材料を入れ、うどんをいれ１～２分煮込む。\r\n",
+        "卵を割り、ときほぐす。１に水で溶いた片栗を入れ、とろみがついてきたら、高いところから卵を少しずついれる。軽く混ぜてねぎを乗せて出来上がり。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "443393",
+    "advice": "やや関西風？な味つけです、薄いと感じる方は塩や醤油を足してください。",
+    "history": "小さい頃によく食べた、卵のとろとろなうどんです。大人になってからも大好きなうどんの一つです、子供も大好きです♪",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん 卵",
+        "シンプル 卵うどん",
+        "玉子うどん"
+    ],
+    "tsukurepo_count": "348",
+    "thumbnail": "https://img.cpcdn.com/recipes/443393/100x141c/b0feff6cc43b0b79c39dfbda31f83c00.jpg?u=322945&p=1214217486"
+}

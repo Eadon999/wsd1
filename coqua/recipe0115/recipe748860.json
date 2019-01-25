@@ -1,0 +1,55 @@
+{
+    "name": "安い！えのきと塩コブ☆おつまみ天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "どりどりどりーむ"
+    },
+    "image": "https://img.cpcdn.com/recipes/748860/464x260/475f692dc1ccf0990b4cee81ed8c69ca.jpg?u=926417&p=1235996853",
+    "datePublished": "2009-03-02",
+    "description": "ビールにぴったり！簡単＆激安＆サクサクです♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "1袋"
+        },
+        {
+            "name": "塩コンブ(ふじっ子など)",
+            "quantity": "大２～大４(お好みで)"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大２"
+        },
+        {
+            "name": "・天ぷら粉",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "・水",
+            "quantity": "80ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきを３cm長さに切り、ボウルにえのきと塩コンブを入れ混ぜ、片栗粉をまぶし混ぜる。",
+        "天ぷら粉に冷水を入れさっと混ぜて衣にする。 \r\n\r\n衣の量は調節して下さい。",
+        "180度の油で良い色になるまで揚げる。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "748860",
+    "advice": "片栗粉をまぶしてから揚げるとサクサクになります♪",
+    "history": "母に教わりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "塩コンブ",
+        "片栗粉",
+        "揚げ衣"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/748860/100x141c/9e61aef98284f698d391ccf5ba0cb35e.jpg?u=926417&p=1235996853"
+}

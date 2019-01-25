@@ -1,0 +1,66 @@
+{
+    "name": "きんきの煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "バナナざくろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/424413/464x260/82363a7f14684ffe0788ab16fd4529df.jpg?u=262101&p=1214217112",
+    "datePublished": "2007-09-03",
+    "description": "少し濃い目、甘目の味のきんきの煮付けです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きんき",
+            "quantity": "１匹"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１片"
+        },
+        {
+            "name": "木の芽",
+            "quantity": "あれば２枚"
+        },
+        {
+            "name": "◎水",
+            "quantity": "２００㏄"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "１００㏄"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "◎本みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "きんきはウロコを丁寧にとる。お腹をだす。大きければ半分に切る。\r\n生姜は皮をむきスライスする。",
+        "フライパンや鍋に◎と生姜を入れて沸騰させる。そこにきんきを入れる。",
+        "落し蓋をして弱火～中火で約２０分煮る。時々蓋をとり、スプーン等で煮汁をきんきにかける。あれば木の芽を飾って出来上がり！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "424413",
+    "advice": "煮てる間に何度も煮汁をきんきにかけて全体に味が馴染むようにして下さい。金目鯛とかでもＯＫです。",
+    "history": "濃い目、甘目の煮魚が食べたかったから。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": [
+        "きんき 4位"
+    ],
+    "related_keywords": [
+        "きんきの煮付け",
+        "きんき"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/424413/100x141c/faa4541b242316cc89d39b401dc33a33.jpg?u=262101&p=1214217112"
+}

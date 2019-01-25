@@ -1,0 +1,54 @@
+{
+    "name": "★かにカマときゅうりのコブマヨ★",
+    "author": {
+        "@type": "Person",
+        "name": "こばたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/360123/464x260/4ee6d1e5e360babc4d0dc8bce203e587.jpg?u=394865&p=1214215369",
+    "datePublished": "2007-04-15",
+    "description": "さっとできる1品です。塩昆布がいい仕事してます＾＾８/６話題入りさせていただきました♪皆様、ありがとうございました！（＾＾）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かにカマ",
+            "quantity": "5本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "かにカマは細く裂いて、きゅうりは薄くスライスする。あとはボウルで材料を混ぜるだけ！",
+        "",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "360123",
+    "advice": "特にありません。",
+    "history": "簡単に塩昆布を使った１品が作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かにカマ",
+        "きゅうり",
+        "マヨネーズ",
+        "塩昆布"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/360123/100x141c/fbbe487db395ca97befdc1582c43f053.jpg?u=394865&p=1214215369"
+}

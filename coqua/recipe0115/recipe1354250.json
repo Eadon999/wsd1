@@ -1,0 +1,51 @@
+{
+    "name": "味がしみておいし〜！玉こんにゃく！",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1354250/464x260/18f0ada8edd9b525ab967df430e0dc13.jpg?u=841338&p=1297174971",
+    "datePublished": "2011-04-05",
+    "description": "かつおぶし風味の甘辛味です♬あつあつをどうぞ！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "玉こんにゃく",
+            "quantity": "１〜２袋"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "１／２パック"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とこんにゃくを入れ、沸騰するまで茹でます。沸騰したらお湯を捨てて、鍋に●の調味料を入れ煮ます。",
+        "味がなじんできたら、かつおぶしを入れ絡めて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1354250",
+    "advice": "一度茹でて灰汁抜きします。",
+    "history": "甥っ子が好きなので♥",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉こんにゃく 味しみ",
+        "玉こんにゃく しみしみ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1354250/100x141c/d2f3b7fa2b94bb656ee2d6e5c6195a5b.jpg?u=841338&p=1297174971"
+}

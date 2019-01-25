@@ -1,0 +1,63 @@
+{
+    "name": "蟹缶で簡単においしく☆かにご飯",
+    "author": {
+        "@type": "Person",
+        "name": "humming_m"
+    },
+    "image": "https://img.cpcdn.com/recipes/1180453/464x260/3ec8016795ca0a735ece391efae896fc.jpg?u=2137103&p=1278597155",
+    "datePublished": "2010-07-08",
+    "description": "蟹缶を使って、簡単においしいかにご飯が出来ます♪",
+    "recipeYield": "3~4人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "蟹缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "出汁昆布",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "米をといでザルに上げて30分以上おきます。",
+        "米に醤油、酒、みりん、塩、蟹缶の汁、水で3合分の水加減にして、出汁昆布と蟹缶を入れ炊きます。",
+        "炊き上がったら10分くらい蒸らし、昆布を取り出し、全体を混ぜ、器によそってお好みで万能ネギを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1180453",
+    "advice": "蟹缶に塩気があるので、調味料は控えめにしましょう。",
+    "history": "いただき物のかに缶をおいしく食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かにご飯"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1180453/100x141c/bbdc518b8beeec958b3ee635c271446b.jpg?u=2137103&p=1278597155"
+}

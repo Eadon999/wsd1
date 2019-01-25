@@ -1,0 +1,55 @@
+{
+    "name": "【農家のレシピ】白菜としめじのごま味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2112497/464x260/372c44d4194beaf54121894883855147.jpg?u=2513693&p=1360410651",
+    "datePublished": "2013-02-12",
+    "description": "白菜を胡麻油で炒めるだけで、風味豊かな味噌汁になります。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２分の１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は１センチ幅に切り、しめじは石づきを取りほぐす。油揚げは熱湯をまわしかけ油抜きし、１センチ幅に切る",
+        "鍋にごま油を熱し白菜がしんなりするまで中火で炒め、温めただし汁を入れる。",
+        "煮立ったらしめじと油揚げを入れ、白菜がしんなりしたら味噌を溶かしいれ完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2112497",
+    "advice": "",
+    "history": "いつもの味噌汁を具をごま油でいためるだけで少し違った味になるので色んな具で試しています。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 汁"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/2112497/100x141c/7b21deb8089c64dc0b1e98a5b3688457.jpg?u=2513693&p=1360410651"
+}

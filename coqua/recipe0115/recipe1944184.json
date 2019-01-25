@@ -1,0 +1,105 @@
+{
+    "name": "麻婆白菜",
+    "author": {
+        "@type": "Person",
+        "name": "jun120121"
+    },
+    "image": "https://img.cpcdn.com/recipes/1944184/464x260/d5c8db945f86a1a94385218c4613dfe9.jpg?u=3907799&p=1346859685",
+    "datePublished": "2012-09-06",
+    "description": "［話題入りしました　ありがとうございます！］ちょっと甘めです　豆板醤もう少し増やしてもいいかも",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "2枚 （約200g）"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "にんにくみじん切り",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "しょうがみじん切り",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ねぎみじん切り",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ5 （75ml）"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "みそ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "五香粉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を芯と葉に分けて適当に切ります",
+        "芯、葉の順に炒めます",
+        "しんなりしたらざるに上げて水気を切ります",
+        "にんにくしょうが、豆板醤、ひき肉をよく炒め、ねぎ、合わせ調味料を加えて混ぜながら煮立てます",
+        "とろみが付いたら白菜を戻し入れ、混ぜ合わせて完成です"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1944184",
+    "advice": "白菜を炒めすぎないように　しゃきしゃきした食感を少し残すのがポイントです",
+    "history": "近所のスーパーで白菜が安く売っていたので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麻婆白菜"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1944184/100x141c/003f3f6c9862285fef5f8a807f7c1584.jpg?u=3907799&p=1346859685"
+}

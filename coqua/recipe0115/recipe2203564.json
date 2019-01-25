@@ -1,0 +1,60 @@
+{
+    "name": "ステーキソース",
+    "author": {
+        "@type": "Person",
+        "name": "とんかつだいすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/2203564/464x260/a380dcbf9b7dd87eee2a8dce98d4b75f.jpg?u=5804714&p=1366898958",
+    "datePublished": "2013-04-25",
+    "description": "牛肉だけでなく、鶏肉や豚肉のソテーにかけてもＯＫです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "リンゴ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙1/2"
+        },
+        {
+            "name": "鶏がらスープの素(顆粒)",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢",
+            "quantity": "小匙1"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎとリンゴは皮をむきすりおろす。",
+        "鶏がらスープは、ごく少量のお湯で溶く。",
+        "全ての材料を混ぜ合わせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2203564",
+    "advice": "できれば新玉ねぎの方がおいしい気がしますが、普通のたまねぎでも全然いけます。",
+    "history": "ステーキにかけるソースを自分で作れないかと、ステーキソースのビンに書いてある材料を参考に作ってみました。我ながらかなり行けてると思います。ビーフだけでなく、鶏肉や豚肉でも絶品です。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ステーキソース にんにくなし",
+        "ステーキソース 玉葱 りんご"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2203564/100x141c/86c6fa7d3ed19a4f18ddf88e2ba8880d.jpg?u=5804714&p=1366898958"
+}

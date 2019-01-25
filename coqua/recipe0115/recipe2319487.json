@@ -1,0 +1,55 @@
+{
+    "name": "簡単！マヨ・ポン春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "burokko"
+    },
+    "image": "https://img.cpcdn.com/recipes/2319487/464x260/7df642876652b0869c3db05a11b845fd.jpg?u=7537072&p=1411863353",
+    "datePublished": "2013-08-20",
+    "description": "子供も大人もさらっと食べやすいサラダです。2014.4.9話題入りしました！作ってくださった皆さんありがとうございます。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ロースハム（焼豚でも）",
+            "quantity": "3枚"
+        },
+        {
+            "name": "緑豆春雨（乾燥）",
+            "quantity": "25g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "緑豆春雨をボウルに入った熱湯に5分つけて戻す。\nざるにあげて5センチ程度にざく切りする。",
+        "きゅうりとハムを千切りにする。",
+        "マヨネーズとポン酢を混ぜて春雨・きゅうり・ハムを加えあえる。",
+        "（お知らせ）\n2014.9写真リニューアルしました♪\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2319487",
+    "advice": "味付けは甘酢やレモンを加えるなど好みで調節してください。ハムの代わりにカニかまぼこ、錦糸卵でも美味しいですよ。",
+    "history": "子供の頃母が夏によく作っていました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ロースハム",
+        "緑豆春雨",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2319487/100x141c/c08d4d8f7c4d9773b103d54d59828b86.jpg?u=7537072&p=1411863353"
+}

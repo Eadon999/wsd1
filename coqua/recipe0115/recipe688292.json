@@ -1,0 +1,65 @@
+{
+    "name": "★我が家の定番★卵とハムのマカロニサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kojyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/688292/464x260/9b0d9f4e88bb41f992b0207d6fd52a1c.jpg?u=657130&p=1273472400",
+    "datePublished": "2008-11-24",
+    "description": "★レポ2００人突破しました★マカロニにはなんでも合わせて食べれるので、あと一品にはちょうどいいです。",
+    "recipeYield": "4",
+    "recipeIngredient": [
+        {
+            "name": "ゆで卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "マカロニ",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "ハム",
+            "quantity": "２枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "半分"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "●醤油（あればだし醤油）",
+            "quantity": "こさじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニを茹でて、ゆで卵、ハムときゅうり、●の材料をいれ混ぜる。",
+        "味をみて、マヨネーズで調整してできあがり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "688292",
+    "advice": "最後にだし醤油をかくし味でいれたらかなりおいしかったです。",
+    "history": "マカロニツナサラダの卵バージョンを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マカロニサラダ",
+        "ハム",
+        "マカロニ ハム",
+        "定番"
+    ],
+    "tsukurepo_count": "315",
+    "thumbnail": "https://img.cpcdn.com/recipes/688292/100x141c/eaeed54a79fb29d11c358ae850dbefdd.jpg?u=657130&p=1273472400"
+}

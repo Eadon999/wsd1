@@ -1,0 +1,59 @@
+{
+    "name": "チーズちくわの肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1191857/464x260/c56b16397d4a7f955e88baa7399b02d0.jpg?u=377757&p=1279724339",
+    "datePublished": "2010-07-22",
+    "description": "こいうのお弁当に入ってたら、喜ばれるはず♪",
+    "recipeYield": "２人～３人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "４本"
+        },
+        {
+            "name": "ベビーチーズ",
+            "quantity": "２個"
+        },
+        {
+            "name": "豚薄切り肉",
+            "quantity": "４枚"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "チーズを横に４等分にしてちくわに詰める。それに豚肉をくるくるっと巻いて２等分に切る。\n○は合わせておく。",
+        "熱したフライパンに油をひいて１を焼く。肉の色が変わったら、合わせておいた○を入れてイイ照りが出てきたら完成！",
+        "お弁当のメインおかずに♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1191857",
+    "advice": "焦げないように注意してくださいね。更に半分に切って、爪楊枝やピックで刺してもかわいい♪",
+    "history": "お弁当用のおかずとして考えたレシピ！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "ベビーチーズ",
+        "豚薄切り肉",
+        "砂糖"
+    ],
+    "tsukurepo_count": "123",
+    "thumbnail": "https://img.cpcdn.com/recipes/1191857/100x141c/394cd012b16b182b5f5fb9a1e22953aa.jpg?u=377757&p=1279724339"
+}

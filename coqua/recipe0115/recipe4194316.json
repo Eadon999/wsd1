@@ -1,0 +1,60 @@
+{
+    "name": "春菊の☆天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "ジャスミン・ティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/4194316/464x260/35be8da97db94379842923b787bbe5f8.jpg?u=9064567&p=1479702520",
+    "datePublished": "2016-11-23",
+    "description": "カリカリとした歯ざわりで、春菊の香りが口に広がります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊（葉の部分）",
+            "quantity": "2袋分"
+        },
+        {
+            "name": "◎小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●小麦粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●ベーキングパウダー",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●水",
+            "quantity": "125cc"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊に◎小麦粉をまぶします。",
+        "●に春菊を入れて、よく混ぜます。",
+        "油で揚げます。裏表カリッと揚げます。",
+        "できあがりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4194316",
+    "advice": "春菊は洗ったあと水気があるので、ペーパーで水気をふき取って、小麦粉にまぶしてから、●に入れます。茎は硬いので、葉の部分だけ使います。裏表カリッと揚げると良いです。",
+    "history": "野菜の特売日で安かったので、たくさん買ってきて、好きな春菊を天ぷらにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 天ぷら",
+        "春菊 天ぷら 片栗粉",
+        "天ぷら",
+        "春菊"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4194316/100x141c/3b88926eefb1630d939702e46e9e289c.jpg?u=9064567&p=1479702520"
+}

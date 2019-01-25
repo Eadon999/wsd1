@@ -1,0 +1,60 @@
+{
+    "name": "ほうれん草と豚バラ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "kae＊kuru"
+    },
+    "image": "https://img.cpcdn.com/recipes/797499/464x260/a18821eae10237a9fcad1ecaa9e363db.jpg?u=1083348&p=1241164379",
+    "datePublished": "2009-05-01",
+    "description": "ｼﾝﾌﾟﾙな料理やけど美味しいです(*´∀｀*)ﾟ*",
+    "recipeYield": "2",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "豚ﾊﾞﾗ(薄切り)",
+            "quantity": "4,5枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大2/3"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を5cmくらいの幅で切る。豚ﾊﾞﾗも一口大くらいの大きさに切る。",
+        "ﾌﾗｲﾊﾟﾝに油を引いてほうれん草の茎の部分と豚バラを炒める。",
+        "肉の色が大体変わったらほうれん草の葉の部分もﾌﾗｲﾊﾟﾝに入れて炒める。",
+        "火が通ったら塩こしょうをふる。そして混ぜ合わせた☆をﾌﾗｲﾊﾟﾝに入れて絡める。",
+        "4に溶き卵を入れて混ぜて火が通ったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "797499",
+    "advice": "",
+    "history": "簡単すぎですね♪+ﾟ笑",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "卵",
+        "塩こしょう",
+        "醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/797499/100x141c/121e45cfc03e1f27c983185af1f186cd.jpg?u=1083348&p=1241164379"
+}

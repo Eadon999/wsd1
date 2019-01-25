@@ -1,0 +1,55 @@
+{
+    "name": "大根のオイスターご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "青空の月さま"
+    },
+    "image": "https://img.cpcdn.com/recipes/493086/464x260/aaeb39eb0c6502a4e86d9c28635db9c4.jpg?u=203255&p=1214218437",
+    "datePublished": "2008-01-23",
+    "description": "ごま油で大根を炒めてから炊飯器へ♪オイスターソースで美味しい大根ご飯が出来ちゃった♪2008/11/29話題入りよぉ",
+    "recipeYield": "３合分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２５０g位"
+        },
+        {
+            "name": "李錦記オイスターソース",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の皮を剥いて、１センチ角に切って、ごま油で軽く炒める。",
+        "炊飯器にお米３合といで入れ、水を３合弱に合わせる。\n（調味料入るので、ちょっとだけ水を減らしました）",
+        "２に、オイスターソースと、醤油を入れ、軽くかき混ぜてから、１の大根をのせてスイッチオン♪",
+        "万能ネギ散らしても♥"
+    ],
+    "cookTime": null,
+    "recipe_id": "493086",
+    "advice": "大根はごま油で炒めてから入れてね♡",
+    "history": "大根ご飯が食べたくて、考えました＾＾＊",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "醤油",
+        "米",
+        "ごま油"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/493086/100x141c/b98f203cdbb0675a156c74bf952c4003.jpg?u=203255&p=1214218437"
+}

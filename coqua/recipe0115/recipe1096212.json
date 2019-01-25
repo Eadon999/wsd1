@@ -1,0 +1,62 @@
+{
+    "name": "はちみつでこってりブリの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "alohafork"
+    },
+    "image": "https://img.cpcdn.com/recipes/1096212/464x260/c9c8db68d6c2528a90eea14b7bf5fa81.jpg?u=2122688&p=1270982837",
+    "datePublished": "2010-04-11",
+    "description": "はちみつで作ると体にもいいし、コクもでてこってりおいしいブリの照り焼きができます♪",
+    "recipeYield": "３切れ分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "小麦粉(片栗粉でもOK)",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリに小麦粉をまぶしておく。\r\n合わせだれを混ぜておく。\r\n",
+        "フライパンに油をひいて中火にかけます。\r\n油が温まったらブリを焼きます。",
+        "両面をきつね色になるまで焼いたら、次は蓋をして３分程度中まで火を通します。",
+        "油をキッチンペーパーで全て拭きとり、合わせだれを入れ、とろみがつくまで熱します。",
+        "スプーンでたれをブリにかけながらじっくり照りを出します。",
+        "照り照りになったら出来上がりです♪",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1096212",
+    "advice": "小麦粉をまぶす事、油をふき取る事はちょっとした事だけど大事なポイントです♪",
+    "history": "体にいいはちみつでの料理を心がけているのでブリの照り焼きもはちみつで作りました♪こってりてりてりでおいしく仕上がります☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "小麦粉",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1096212/100x141c/f7adf692b69bd3d4ae91c6e86155742a.jpg?u=2122688&p=1270982837"
+}

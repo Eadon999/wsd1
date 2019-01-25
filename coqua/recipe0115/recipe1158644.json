@@ -1,0 +1,50 @@
+{
+    "name": "梅と長いもスライス",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1158644/464x260/441346188a750238c66f5a82e0d3ed35.jpg?u=1570274&p=1276513930",
+    "datePublished": "2010-06-14",
+    "description": "長いもの食感を楽しんでください。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "適量"
+        },
+        {
+            "name": "梅",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "★ポン酢",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ほんだし",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮をむいて短冊に切る。梅はタネをとりみじん切り。",
+        "長いもの上に梅とお好みでかつお節をのせる。★のポン酢とほんだしを合わせてからかけてお召し上がりください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1158644",
+    "advice": "火を使わないので、夏にはぴったりです。",
+    "history": "友達のお宅でいただきました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋スライス"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1158644/100x141c/1037a2a8947efcdf3f1f27cadf95a212.jpg?u=1570274&p=1276513930"
+}

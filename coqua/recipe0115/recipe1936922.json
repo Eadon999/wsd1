@@ -1,0 +1,60 @@
+{
+    "name": "アボカドとカニカマのクリーミーサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1936922/464x260/2d31a8bc453f82a13cdc858e15384663.jpg?u=2513693&p=1346321733",
+    "datePublished": "2012-08-31",
+    "description": "濃厚なアボカドに負けない濃厚なドレッシングのサラダ。かにかま入りなのでおかず感覚で食べられます♪ビールにも合いますよ♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "カニ風味かまぼこ",
+            "quantity": "6本"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "レモン（果汁）",
+            "quantity": "4分の1個（大さじ2分の１）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは２センチ角、カニカマは1センチ幅、レタスは食べやすい大きさにちぎり【A】をかけて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1936922",
+    "advice": "",
+    "history": "濃厚なアボカドに合うソースを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "カニ風味かまぼこ",
+        "レタス",
+        "レモン"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/1936922/100x141c/f8bf8d266133fee6bd6a9cb40d6e89b7.jpg?u=2513693&p=1346321733"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "やさしい味♪新玉ねぎと豆腐でヘルシー副菜",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3178122/464x260/29ab4bcfceac46cc804c2b89fb1b604e.jpg?u=10053239&p=1431737054",
+    "datePublished": "2015-05-16",
+    "description": "何か後もう１品！という時に！味付けも薄く仕上げていて他の料理の邪魔にならず直ぐ出来るヘルシーな副菜です。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "中１個（１８０ｇ位）"
+        },
+        {
+            "name": "豆腐（絹・綿どちらでも）",
+            "quantity": "１/２丁"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "麺つゆ(２倍濃縮)",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ、豆腐は食べ易く切る。しめじは石突を取りばらばらにする。",
+        "全ての調味料と１を中火で煮る。たまにとうふが崩れないように混ぜる。",
+        "煮汁がほとんど無くなれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3178122",
+    "advice": "強火で煮ると豆腐に「す」が入りまずくなるので注意します。味付けは好みで調整して下さい。",
+    "history": "もう１品作りたいと思った時に出来たレシピです。いただき物の新玉ねぎが沢山あるので冷蔵庫内にあるものと合わせて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "豆腐",
+        "しめじ",
+        "調味料"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3178122/100x141c/ab0a1726ca6ce86aaf04272bf6b8bd38.jpg?u=10053239&p=1431737054"
+}

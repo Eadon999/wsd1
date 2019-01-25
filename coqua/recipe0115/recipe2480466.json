@@ -1,0 +1,57 @@
+{
+    "name": "もちもち旨い♫じゃがいもおからボール",
+    "author": {
+        "@type": "Person",
+        "name": "りゅるりゅる"
+    },
+    "image": "https://img.cpcdn.com/recipes/2480466/464x260/32d3a7abcb5dcca5b5f24ea2d7312531.jpg?u=7245946&p=1390952042",
+    "datePublished": "2014-01-29",
+    "description": "子供が大好き。パパも大好き、すぐなくなっちゃう、コロコロボール。",
+    "recipeYield": "四人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "350g"
+        },
+        {
+            "name": "おから",
+            "quantity": "180g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "60g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "40g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "50g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもを茹でてつぶす。",
+        "おから、片栗粉、マヨネーズ、牛乳、塩コショウを入れてよく混ぜ、お団子にする。",
+        "170度の油でカラリと揚げる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2480466",
+    "advice": "",
+    "history": "ヘルシーなおからを、家族に美味しく食べてもらいたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おからボール",
+        "旨い もっちもちおから",
+        "おから ジャガイモ ボール"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2480466/100x141c/410202189247c170b5444f932c0146a1.jpg?u=7245946&p=1390952042"
+}

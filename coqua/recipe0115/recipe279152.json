@@ -1,0 +1,47 @@
+{
+    "name": "大葉にんにく醤油で☆厚揚げチーズ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/279152/464x260/4305da0032f9e3f8cf4460224eeb666c.jpg?u=255591&p=1214213573",
+    "datePublished": "2006-09-05",
+    "description": "大葉にんにく醤油で栄養満点、ヘルシーなおつまみです♪",
+    "recipeYield": "3･4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "小ねぎ（小口切り）",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "大葉にんにく醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "小ねぎとにんにく醤油を混ぜておく。",
+        "厚揚げを1センチ厚の食べやすい大きさにきり、フライパンで両面こんがりと焼く。焼けたらいったん火を止め醤油に漬けた小ねぎをのせる。",
+        "とろけるチーズをのせ再び中火で蓋をする。1分ほどしてチーズがとろけたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "279152",
+    "advice": "ねぎ、チーズはたっぷりが美味しいです☆",
+    "history": "焼き厚揚げのしょうが醤油のせはよく作るけれど子供向けにしょうがをやめチーズをのせたら大人にもうれしいおつまみが出来ました♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大葉にんにく醤油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/279152/100x141c/9a92dc69e3c4df6e0637ee8bc3801be0.jpg?u=255591&p=1214213573"
+}

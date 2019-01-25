@@ -1,0 +1,57 @@
+{
+    "name": "☸我が家の簡単♪大根サラダ☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/3136977/464x260/9429415c0b42a94d0bb01607f2977ea0.jpg?u=4672105&p=1429714703",
+    "datePublished": "2015-04-23",
+    "description": "15.11.29.話題入り感謝♪大根をカットして後は材料を混ぜるだけ！ちょっと大人な我が家の大根サラダです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１/２缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２弱"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "わさび(チューブ)",
+            "quantity": "１．５ｃｍ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて千切りにし、塩もみして水気を絞る。",
+        "ボウルにマヨネーズ、しょうゆ、わさびを入れて混ぜる。\n大根、ツナ缶を加えて和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3136977",
+    "advice": "調味料はお好みで加減して下さい。ツナ缶は缶汁ごと使いますが、気になる方は汁を切って使用して下さい。",
+    "history": "母がよく作ってくれる我が家の定番大根サラダです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ツナ缶",
+        "マヨネーズ",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/3136977/100x141c/0701544908d87ff9f8202af5b8795323.jpg?u=4672105&p=1429714703"
+}

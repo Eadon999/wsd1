@@ -1,0 +1,50 @@
+{
+    "name": "【農家のレシピ】ナスフライ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1522895/464x260/d80245b0cbccc9568153e14297c4dbd6.jpg?u=2513693&p=1313319655",
+    "datePublished": "2011-08-16",
+    "description": "ナスの一番シンプルなフライです。卵を使わずてんぷら粉とパン粉を使っているので楽ですよ。やはりシンプルが一番です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "２本"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスはヘタの周りにぐるっと切れ目を入れて、余分なヘタの額を落とし、縦半分に切って切り口によく混ぜ合わせた【A】を塗ります",
+        "次にパン粉をつけます。つるっとした皮の部分はパン粉をつけても油で揚げたらはがれるので何もつけないでOKです。",
+        "１８０度の油でカラット揚げて完成です。ウスターソースをかけてどうぞ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1522895",
+    "advice": "",
+    "history": "ナスのフライが大好きで色んな具を挟んだりして作っていますが、やはりシンプルが一番♪このナスだけのフライが大好きです♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "パン粉",
+        "天ぷら粉",
+        "水"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1522895/100x141c/3a0d9919a6ed6faac1c438809fbb5fac.jpg?u=2513693&p=1313319655"
+}

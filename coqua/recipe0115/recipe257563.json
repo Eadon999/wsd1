@@ -1,0 +1,46 @@
+{
+    "name": "●プリっと揚げカマボコ●",
+    "author": {
+        "@type": "Person",
+        "name": "ちょこ太郎"
+    },
+    "image": "https://img.cpcdn.com/recipes/257563/464x260/a8680b6c09918db612a69850f18d63a4.jpg?u=237724&p=1214213085",
+    "datePublished": "2006-06-01",
+    "description": "これカマボコかい？？って程の歯ごたえを楽しんでみて下さい！お酒のおつまみにもいいですよ（＾＾）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カマボコ",
+            "quantity": "1本"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "カマボコを薄くスライスする。",
+        "中華鍋に底から2㎝位の油を入れ中火で熱し、カマボコを入れ炒め揚げる。",
+        "両面に色がついてきたら取出し、油をきる。\r\n※お好みで七味唐辛子やショウガ醤油をかけると美味しい♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "257563",
+    "advice": "歯ごたえよく仕上げるには、多めの油で揚げるとグ～☆",
+    "history": "カマボコを揚げてみたら美味しかったので・・・。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かまぼこ",
+        "その他/おもてなし料理/おもてなしもう一品/ひとくちおつまみ"
+    ],
+    "rankings": [
+        "揚げかまぼこ 1位"
+    ],
+    "related_keywords": [
+        "揚げかまぼこ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/257563/100x141c/84d5f14198feeebc5f1bc3fd99581c33.jpg?u=237724&p=1214213085"
+}

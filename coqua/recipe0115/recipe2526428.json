@@ -1,0 +1,57 @@
+{
+    "name": "冷凍うどんde肉うどん",
+    "author": {
+        "@type": "Person",
+        "name": "serisely"
+    },
+    "image": "https://img.cpcdn.com/recipes/2526428/464x260/31edd6d1c9a2faa6173ce880fb15f547.jpg?u=8039307&p=1393744794",
+    "datePublished": "2014-03-02",
+    "description": "しゃぶしゃぶ用スライス肉を使った簡単うどんです！お出汁をとるとさらに旨味UP",
+    "recipeYield": "1人前",
+    "recipeIngredient": [
+        {
+            "name": "しゃぶしゃぶ用豚肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "500ml"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "冷凍うどん",
+            "quantity": "１玉"
+        }
+    ],
+    "recipeInstructions": [
+        "熱した鍋にごま油を入れ豚肉を炒める。火が通ったら長ネギを加え軽く炒める。",
+        "①にだし汁と麺つゆを加えクツクツと沸騰させたらアクを取る。",
+        "②に冷凍うどんを加え、うどんがほぐれるまで煮立たせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2526428",
+    "advice": "豚肉は香り付けに、ごま油で炒めるのがポイントです。だし汁は「かつお厚削り」で取りました。だしの素でも美味しく出来ます。",
+    "history": "冷凍うどんがあったので、ランチに作りました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷凍うどん",
+        "肉うどん 豚ロース",
+        "冷凍うどん 肉うどん"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2526428/100x141c/b098da01e90cbeb363430e0bffda08f8.jpg?u=8039307&p=1393744794"
+}

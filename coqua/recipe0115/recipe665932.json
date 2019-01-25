@@ -1,0 +1,58 @@
+{
+    "name": "カリッ！モチッ！甘い！玉ねぎのチヂミ",
+    "author": {
+        "@type": "Person",
+        "name": "ポヨ太"
+    },
+    "image": "https://img.cpcdn.com/recipes/665932/464x260/d0d06f807bb15352365754169f7ca405.jpg?u=990636&p=1224181177",
+    "datePublished": "2008-10-17",
+    "description": "300れぽ感謝♫クックパッドニュース掲載！一度食べたらやみ付きのチヂミです^^",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "☆水",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆小麦粉",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆ほんだし",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを薄くスライスして耐熱皿にのせ、ラップをしてレンジで柔らかくなるまで加熱する。\n",
+        "☆を合わせたら１を加えて混ぜる。",
+        "ごま油（分量外）で両面をカリッとなるまで焼いたら完成。\nお好みのタレでどうぞ♫"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "665932",
+    "advice": "①生地を薄く伸ばしてヘラ等で押さえつけながら焼く②ひっくり返して油が残っていない時は、油を足して焼く",
+    "history": "玉ねぎが余っていたので",
+    "categories": [
+        "今日のご飯・おかず/粉もの/チヂミ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チヂミ",
+        "玉ねぎ",
+        "ちぢみ",
+        "玉ねぎ チヂミ"
+    ],
+    "tsukurepo_count": "340",
+    "thumbnail": "https://img.cpcdn.com/recipes/665932/100x141c/edcb7e35d6c6a1112c6aa281f4d5d87e.jpg?u=990636&p=1224181177"
+}

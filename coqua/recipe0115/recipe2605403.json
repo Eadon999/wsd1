@@ -1,0 +1,57 @@
+{
+    "name": "✿水菜のさっぱりごま和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "＊ひぃ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2605403/464x260/776812788122b2dc0d3b802273f71d36.jpg?u=7556013&p=1398640809",
+    "datePublished": "2014-04-29",
+    "description": "レモン汁が隠し味♥さっぱりとしたごま和えです(≧ω≦)水菜の食感も最高♬とっても簡単に作れますよ✿",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "●すりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を茹でて、3cmの長さに切り、水気を絞る。\nちくわは食べやすい大きさに切る。",
+        "ボウルに●を入れて混ぜ、1を入れて和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2605403",
+    "advice": "水菜の水気はしっかり絞って下さいね。",
+    "history": "水菜にはまっていて、水菜を使った料理を作りたくて作りました♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "ちくわ",
+        "すりごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2605403/100x141c/c95edc69a3e6b70fea1a776a31120479.jpg?u=7556013&p=1398640809"
+}

@@ -1,0 +1,51 @@
+{
+    "name": "ぱぱっと簡単！水菜のしゃきっと炒め",
+    "author": {
+        "@type": "Person",
+        "name": "まきころ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1650033/464x260/3b098890e2721058fc9acf404ef7c9e1.jpg?u=1621641&p=1323740805",
+    "datePublished": "2011-12-13",
+    "description": "水菜をさっと炒めるだけで、ゴマの風味でしゃきしゃきおいしく食べれます！あと一品ほしいときにも！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "大きめ一束"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を洗い、４センチくらいの長さに切ります。",
+        "フライパンにごま油をしき、先に茎を後から葉を入れてさっといためます。",
+        "炒めすぎるとしなっとしてしまうので、葉の色が鮮やかになったくらいで火を止めます。",
+        "塩を振って混ぜて味付けします。ゴマの風味を生かしたいので薄めの味付けで大丈夫！",
+        "ゴマをふってできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1650033",
+    "advice": "炒めすぎずにしゃきっと仕上げるのがポイントです。",
+    "history": "新鮮な水菜をサラダ以外でおいしく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "ごま油",
+        "塩"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1650033/100x141c/2a718810273d96fc22c6487b903a5dd8.jpg?u=1621641&p=1323740805"
+}

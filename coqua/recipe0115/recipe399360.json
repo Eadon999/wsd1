@@ -1,0 +1,52 @@
+{
+    "name": "いんげんコーン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/399360/464x260/14c0e9eee07c133a17c8bba510292b26.jpg?u=322985&p=1214216610",
+    "datePublished": "2007-07-04",
+    "description": "いんげんを、なんとコーンの汁で煮たから甘みが出て美味しいっ☆コーンの汁って甘くて美味しいから捨てるのは、もったいないですよ！！",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "１袋"
+        },
+        {
+            "name": "コーン缶（汁も）",
+            "quantity": "１缶（１９０グラム）"
+        },
+        {
+            "name": "バター",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんは４センチ位の長さに切る。フライパンにサラダ油を入れてインゲンを軽く炒める。コーンの汁を入れて蓋をし、３分蒸す。蓋を取って汁気がなくなるまで煮たら、バター・コーン・塩コショウを振って炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "399360",
+    "advice": "コショウ多めでピリッと美味しいです☆",
+    "history": "いんげんとコーン炒めを作ろうと思っていて、コーンの汁を味見したら甘くて美味しい！！捨てるのはもったいないのでコーン汁で煮てみました＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "コーン缶",
+        "バター",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/399360/100x141c/deaf8a9699cdec8e9bdc16367659bf87.jpg?u=322985&p=1214216610"
+}

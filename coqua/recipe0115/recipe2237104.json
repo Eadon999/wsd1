@@ -1,0 +1,70 @@
+{
+    "name": "焼肉のたれでマグロのユッケ",
+    "author": {
+        "@type": "Person",
+        "name": "あいわい。さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2237104/464x260/3f15af3476fa6a0c512507ec8bfcf71b.jpg?u=5084550&p=1369630377",
+    "datePublished": "2013-05-27",
+    "description": "焼肉のたれで作るユッケ！とっても簡単なのに、めっちゃ美味しい♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ(刺身用)",
+            "quantity": "150g"
+        },
+        {
+            "name": "大葉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "りんご",
+            "quantity": "20g"
+        },
+        {
+            "name": "卵の黄身",
+            "quantity": "2個分"
+        },
+        {
+            "name": "A焼肉のたれ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "A醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "Aごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "A炒りごま",
+            "quantity": "2つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールにAの材料を入れ混ぜ合わせる。\n",
+        "お刺身はサイコロ状に切り、（１）に加えよく混ぜ合わせておく。\n",
+        "リンゴは皮をつけたまま、細切りにする。\n",
+        "（２）を器に盛り卵をおとし、リンゴと大葉を添えて完成です。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2237104",
+    "advice": "",
+    "history": "ユッケが食べたいと家族からリクエストがあったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": [
+        "マグロユッケ 7位",
+        "ユッケタレ 6位"
+    ],
+    "related_keywords": [
+        "マグロユッケ たれ",
+        "ユッケのタレ",
+        "マグロユッケ 焼肉のたれ",
+        "マグロ ユッケ 焼き肉のたれ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2237104/100x141c/b44e5eb01f39d6a0610a899ad0399e41.jpg?u=5084550&p=1369630377"
+}

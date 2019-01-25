@@ -1,0 +1,64 @@
+{
+    "name": "切り昆布と油揚げの炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "serisely"
+    },
+    "image": "https://img.cpcdn.com/recipes/2382212/464x260/929585e4416cec2fb677856461a56e46.jpg?u=8039307&p=1397698191",
+    "datePublished": "2014-04-17",
+    "description": "作り置きにピッタリ！冷めてもおいしい糸切り昆布の旨味と食感が絶妙です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "切り昆布",
+            "quantity": "120g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "１本"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "1/4カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは油抜きをし5mm程に切る。にんじんはせん切りにし、しいたけは薄切りにする。",
+        "油をひいた鍋に人参、しいたけ、油揚げを入れしんなりするまで炒める。調味料を加え5分ほど煮詰める。",
+        "最後に切り昆布を加え煮汁がなくなるまで煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2382212",
+    "advice": "切り昆布は煮詰めすぎると、変色してしまうので注意して下さい。",
+    "history": "数年前に帰省した際、叔母が作ってくれたのがきっかけで、母がよく作ってくれていたのを思い出し自分でも作るようになりました。今では主人のお気に入りの一品です。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "糸切り昆布",
+        "切り昆布 油揚げ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2382212/100x141c/021d0cffab3bc9cbcfcda19ff4209dcc.jpg?u=8039307&p=1397698191"
+}

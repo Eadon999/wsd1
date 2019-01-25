@@ -1,0 +1,61 @@
+{
+    "name": "ダイエットにも！お豆腐そぼろ",
+    "author": {
+        "@type": "Person",
+        "name": "ナナ☆ハッチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1292153/464x260/420e82c468bcddaed5136752358bdb4a.jpg?u=2658720&p=1290502949",
+    "datePublished": "2010-11-23",
+    "description": "ごはんにかければそぼろ丼！お豆腐だからモリモリ食べても？大丈夫d(ゝ∀･)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大1"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "1かけ分"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は3～4分レンジにかけ、重しなどして水切りし、味付けの材料をあらかじめ合わせておきます。",
+        "フライパンに油をひき、豆腐を手で崩し入れます。",
+        "ポロポロのそぼろ状になるまで中火でよく炒めます。",
+        "味付けを投入し、さらに炒め味が全体にいきわたれば出来上がり！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1292153",
+    "advice": "豆腐は水気がなくなるまでよく炒めてください。冷凍もできますよ☆",
+    "history": "ヘルシーなそぼろご飯が食べたくて",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐そぼろ",
+        "豆腐 ダイエット"
+    ],
+    "tsukurepo_count": "149",
+    "thumbnail": "https://img.cpcdn.com/recipes/1292153/100x141c/e9737e551ba48aaeb3e3010b67e07705.jpg?u=2658720&p=1290502949"
+}

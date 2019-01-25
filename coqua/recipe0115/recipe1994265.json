@@ -1,0 +1,62 @@
+{
+    "name": "【農家のレシピ】小松菜と薄揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1994265/464x260/cb98b3a38b2684ca825fbb6e996664bd.jpg?u=2513693&p=1350278410",
+    "datePublished": "2012-10-17",
+    "description": "最後にかつおぶしを入れるから、薄味だけどだしがしっかりきいて素材の味を楽しめます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋（２００ｇ）"
+        },
+        {
+            "name": "薄揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "３ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "１つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は茎の部分は４センチ、葉の部分は２センチ幅に切る。薄揚げは熱湯をかけ油抜きをし、縦半分に切り、１センチ幅に切る",
+        "鍋に【A】を煮立たせ、小松菜の茎の部分を入れ中火で２分煮て、次に、葉の部分と薄揚げを入れ３分煮る。",
+        "最後にかつおぶしを入れて完成。\n冷めてからどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1994265",
+    "advice": "暖かいうちはかなり薄味ですが、冷めると味が濃くなります。",
+    "history": "カルシウムたっぷりのかつおぶしも一緒に食べるようにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "薄揚げ",
+        "かつおぶし",
+        "水"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1994265/100x141c/22d8ec4c878841dd5a3de974fff6af56.jpg?u=2513693&p=1350278410"
+}

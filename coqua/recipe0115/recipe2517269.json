@@ -1,0 +1,63 @@
+{
+    "name": "牡蠣の佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "memuchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/2517269/464x260/bef13db8a042e860feb47573ee1c5481.jpg?u=1266641&p=1393153457",
+    "datePublished": "2014-02-23",
+    "description": "たくさん頂いた牡蠣を、ピリッと辛さのある佃煮にしました。お弁当のおかずにもピッタリです！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣",
+            "quantity": "500g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "牡蠣は塩水でふり洗いをし、ザルにあげて水気をきる。 ",
+        "生姜は千切りにする。 ",
+        "テフロン加工のフライパンに、牡蠣を入れ中火で牡蠣がぷくっとして汁気がでるまで焼く。",
+        "3に、しょうが、砂糖、しょうゆ、酒、みりんを入れて汁気がなくなるまで木べらで牡蠣に傷をつけないように炒め煮する。 ",
+        "好みで一味唐辛子をふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2517269",
+    "advice": "牡蠣から汁がたくさん出るので、テフロン加工のフライパンで火加減に注意しながら炒め煮にします。",
+    "history": "牡蠣をたくさん送ってもらったので、お弁当のおかず用にしてみるかな…と。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牡蠣の佃煮",
+        "カキ 佃煮",
+        "牡蠣 弁当"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2517269/100x141c/b2df468c8e6d1d953767899e3f9bfb44.jpg?u=1266641&p=1393153457"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "うち流☆めんつゆで簡単♪卯の花（おから）",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/2261693/464x260/5f732dc9874d50d05aeacedcac5c6ce9.jpg?u=1690437&p=1371804397",
+    "datePublished": "2013-06-22",
+    "description": "めんつゆで意外と簡単におからができますよ～♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "おから(生)",
+            "quantity": "250g"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "1束"
+        },
+        {
+            "name": "干ししいたけ",
+            "quantity": "2個"
+        },
+        {
+            "name": "人参",
+            "quantity": "20g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "干ししいたけはあらかじめ戻しておく。具材を切っておく。",
+        "ネギは小口切り。",
+        "フライパンを熱しごま油を入れ干ししいたけ、人参、油揚げを炒める。",
+        "おからを入れ更に炒める。",
+        "しっかり炒める。",
+        "水、砂糖、めんつゆを入れ良く混ぜる。",
+        "ネギを加えひたすら炒める。",
+        "好みのしっとり感になったら火を消す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2261693",
+    "advice": "＜6＞で水っぽくなりますが煮詰めるとしっとりしたおからになります。めんつゆは「創味のつゆ」使用。",
+    "history": "かなりうす味ですが癖になる美味しさ。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "ねぎ",
+        "干ししいたけ",
+        "人参"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2261693/100x141c/2a7a9d254483ebcc4b7f273738ccb5a5.jpg?u=1690437&p=1371804397"
+}

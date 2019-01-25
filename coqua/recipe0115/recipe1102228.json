@@ -1,0 +1,54 @@
+{
+    "name": "劇的♡たらこうどん",
+    "author": {
+        "@type": "Person",
+        "name": "美しきロクサーヌ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1102228/464x260/db01e5737d79a56bd9af4c0db55ca57a.jpg?u=2049727&p=1281959246",
+    "datePublished": "2010-04-17",
+    "description": "超簡単！おひとり様にもぴったり♪すっごく美味しいから一度どうぞ♡ 2度目の話題入りありがとうございます♬ ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでうどん",
+            "quantity": "１袋"
+        },
+        {
+            "name": "☆たらこ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆めんつゆ",
+            "quantity": "大さじ1/2～2（好みで調節）"
+        },
+        {
+            "name": "☆バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "海苔又は塩こんぶ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "めんをゆでる。茹でている間に☆をボウルに混ぜておく。",
+        "茹であがったうどんを【2】に入れる。うどんについた茹で汁も切らずに一緒に入れて下さい。",
+        "混ぜる。",
+        "器に盛ったら海苔又は塩こんぶをかけてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1102228",
+    "advice": "味の濃さは好みがありますので、めんつゆの量は加減して下さい。",
+    "history": "たらこパスタを参考にしました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たらこ うどん",
+        "たらこ",
+        "たらこ うどん 塩昆布"
+    ],
+    "tsukurepo_count": "299",
+    "thumbnail": "https://img.cpcdn.com/recipes/1102228/100x141c/e66c94d7a18f241620f239a10d943a86.jpg?u=2049727&p=1281959246"
+}

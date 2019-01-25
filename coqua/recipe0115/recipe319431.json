@@ -1,0 +1,59 @@
+{
+    "name": "納豆　on the オムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "ひとひとの素"
+    },
+    "image": "https://img.cpcdn.com/recipes/319431/464x260/867cd5fb75f4991e688ac82aea9fde03.jpg?u=69369&p=1214214479",
+    "datePublished": "2007-01-17",
+    "description": "納豆食べてお肌つるつるになりましょう♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１Ｐ"
+        },
+        {
+            "name": "＊卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "＊牛乳",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊お好みで　おから",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "◎納豆をかき混ぜておきます。",
+        "＊をよく混ぜ合わせてオムレツをつくります。　（写真は半熟とろとろのオムレツにして開いてみました。）オムレツが出来上がったら、皿に移して、納豆を乗せて、付属のたれをかける。",
+        "お好みで、マヨネーズをかけるとさらにおいしいです♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "319431",
+    "advice": "冷蔵庫に納豆のたれが余ってませんか？あったらたれを追加してかけるとオススメです☆オムレツは個人的には半熟トロトロがいい感じ♡",
+    "history": "家族全員納豆大好き♡納豆をおいしく飽きずに食べれるようにアレンジ♪納豆効果でお肌つるつるになりましょう♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "卵",
+        "牛乳",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/319431/100x141c/8de0fb05ed4317614ed8b0a9ea48402c.jpg?u=69369&p=1214214479"
+}

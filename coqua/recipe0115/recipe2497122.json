@@ -1,0 +1,60 @@
+{
+    "name": "簡単♪ ツナとしめじの和風パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "しょうたろう。。。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2497122/464x260/62a055edd78f53f65ca9ff3888b45ee8.jpg?u=8058115&p=1392002644",
+    "datePublished": "2014-02-10",
+    "description": "おすすめ度★★★★★　麺つゆとガーリックの組み合わせが食欲をそそります。ささっと作れておいしい♪",
+    "recipeYield": "2皿",
+    "recipeIngredient": [
+        {
+            "name": "ツナ缶",
+            "quantity": "１～２個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1株"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "一欠"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "２束"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルでにんにくのみじん切りを炒め香が出たらしめじを入れて炒めます。",
+        "しめじに火が通ったらツナと麺つゆを入れてさっと炒めます。",
+        "パスタをゆでて２にからめれば出来上がり。",
+        "盛り付けてブラックペッパーを散らします。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2497122",
+    "advice": "麺つゆの量は味を見ながら加減してください。お醤油+ほんだしなんかでもOK！今回はツナ缶の油は一緒に入れちゃってます。気になる場合は控えめにしてください。",
+    "history": "ツナ缶としめじがあったのでお昼に作りました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ しめじ パスタ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2497122/100x141c/5c3100e1c9e05f715ee211abdb841a63.jpg?u=8058115&p=1392002644"
+}

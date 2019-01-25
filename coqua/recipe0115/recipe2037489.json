@@ -1,0 +1,61 @@
+{
+    "name": "節約！ツナと大根の葉の炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ちはるねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2037489/464x260/d94749263df9e63b6dd23b9b671dbdc1.jpg?u=4162606&p=1353626572",
+    "datePublished": "2012-11-23",
+    "description": "味付け以外の材料は大根の葉っぱとツナだけ！簡単、節約炊き込みご飯です！",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "大根の葉っぱ",
+            "quantity": "5センチくらい"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "半分"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "お米はいつも通りにといでおき、ザルなどにあげて水気をきっておく。大根の葉っぱは粗めに刻む。",
+        "お釜に米を入れ、★の調味料と大根の葉っぱと軽くオイルを切ったツナをいれる。",
+        "2合のところまでお水を入れて軽く混ぜて、いつも通りに炊飯器で炊いたら完成～"
+    ],
+    "cookTime": null,
+    "recipe_id": "2037489",
+    "advice": "今回は半分しかツナがなかったのですが1缶いれても良いと思います。その場合は塩を調整して下さい。お好みで最後に白ゴマを散らしてもOK♪",
+    "history": "大根の葉っぱ、ツナが微妙にあったので作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だいこんの葉 炊き込みご飯",
+        "大根の葉 炊き込みご飯",
+        "大根の葉 ツナ 炊き込みご飯"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2037489/100x141c/e9c58cad7171e46caf6b381beb5dc79b.jpg?u=4162606&p=1353626572"
+}

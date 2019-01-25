@@ -1,0 +1,50 @@
+{
+    "name": "おじゃがの梅マヨ ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/326282/464x260/ff6d99cd6e6f166850afd0bab2f7cb8e.jpg?u=57297&p=1214214629",
+    "datePublished": "2007-02-04",
+    "description": "簡単で美味しい！",
+    "recipeYield": "2人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "4個"
+        },
+        {
+            "name": "梅干",
+            "quantity": "大1個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙２"
+        }
+    ],
+    "recipeInstructions": [
+        "おじゃが（4個）は皮ごと小さくカットし、少しの水を注し、ラップして7～８分チン\r\n皮を剥きます(簡単に剥けるよ）",
+        "梅干大1個叩いてマヨ１、砂糖小匙２と混ぜます。サックリ和えて出来上がり～♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "326282",
+    "advice": "砂糖を入れると味がマイルドに。美味しいよ～♪",
+    "history": "大量に頂いた梅干、ちょっと塩辛い料理に混ぜて使ってます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "梅干",
+        "マヨネーズ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/326282/100x141c/0f0b0b803a5fa1bf2176310b140ef872.jpg?u=57297&p=1214214629"
+}

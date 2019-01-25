@@ -1,0 +1,64 @@
+{
+    "name": "鶏むね肉とアスパラのみそ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/3796205/464x260/8fbd2cbba082294b2109c93ed90026c7.jpg?u=798237&p=1460198161",
+    "datePublished": "2016-04-09",
+    "description": "鶏むね肉が柔らか～い。味噌風味でごはんがすすみます！お弁当や忙しい日の作りおきにも。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "グリーンアスパラガス",
+            "quantity": "6本"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●さとう",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大のそぎ切りにし、片栗粉をまぶす。アスパラは斜め切りにする。",
+        "フライパンに油を熱し、鶏肉を両面炒める。",
+        "アスパラも加え、火が通ったら●の材料を加え、全体に混ぜ炒める。",
+        "できあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3796205",
+    "advice": "◆アスパラのかわりにいんげんなどでも。",
+    "history": "お弁当のおかずに。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "グリーンアスパラガス",
+        "片栗粉",
+        "酒"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/3796205/100x141c/7d2a0e566b68df76c5c2b792ef0d753a.jpg?u=798237&p=1460198161"
+}

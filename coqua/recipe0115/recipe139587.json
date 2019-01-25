@@ -1,0 +1,41 @@
+{
+    "name": "おにぎり坊や♪こどもの日バージョン",
+    "author": {
+        "@type": "Person",
+        "name": "kamkam"
+    },
+    "image": "https://img.cpcdn.com/recipes/139587/464x260/4dd26447dccb783d685be940321d05c8.jpg?u=19402&p=1214210832",
+    "datePublished": "2009-04-30",
+    "description": "今日の息子のお昼ご飯は、こどもの日にちなんで兜です。ただ海苔で折っただけの手抜きランチですが・・(恥)",
+    "recipeYield": "1個",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "一口サイズ分"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1/4枚"
+        }
+    ],
+    "recipeInstructions": [
+        "丸い小さなおにぎりを作り、海苔を小さめの正方形に切る。",
+        "切った海苔で兜を折る。",
+        "海苔で目や口を作り、おにぎりに貼る。折った兜を被せる。",
+        "ワックスペーパーで。"
+    ],
+    "cookTime": null,
+    "recipe_id": "139587",
+    "advice": "｢鯉のぼり｣レシピID:139153、｢鯉のぼり♪ふりかけご飯で｣レシピID：139483に引き続き、こどもの日レシピです。 ",
+    "history": "兜ってどうやって折るんだっけ？？というところから、記憶を頼りに折ってみました。分量の明記がなくて一旦下書きになっていたのですが、子供の日が近いって事で。まだ分量がアバウトなのですが・・・。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "海苔"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/139587/100x141c/7a75ee4e418bc938c918c0355c0c531a.jpg?u=19402&p=1214210832"
+}

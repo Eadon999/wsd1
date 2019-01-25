@@ -1,0 +1,65 @@
+{
+    "name": "タコとマッシュルームのアヒージョ",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/2553260/464x260/c81c2d8d3a99f6c1e81b1eb1ceb9cde6.jpg?u=535158&p=1395390599",
+    "datePublished": "2014-03-21",
+    "description": "スペイン料理のアヒージョ定番のマッシュルームとタコをMIXして作りました。マッシュルームの香りとタコの旨みが美味です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ",
+            "quantity": "100g"
+        },
+        {
+            "name": "マッシュルーム",
+            "quantity": "5個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1欠片"
+        },
+        {
+            "name": "鷹の爪(輪切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ(みじん切り)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "たこは食べやすい大きさ、マッシュルームは2等分か4等分に切る。",
+        "鍋にオリーブオイルとにんにく、鷹の爪を入れて弱火にかける。",
+        "マッシュルーム、たこを加えて煮、塩でを調える。",
+        "器に盛り、パセリをちらし、ピンチョスをさしたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2553260",
+    "advice": "＊焦げないようにじっくり弱火にかける。＊いろんな具材でアヒージョを作って下さい。",
+    "history": "最近マイブームのスペイン料理です。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": [
+        "タコのアヒージョ 7位"
+    ],
+    "related_keywords": [
+        "アヒージョ タコとマッシュルーム",
+        "たこ アヒージョ",
+        "タコとマッシュルーム",
+        "アヒージョ マッシュルーム"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2553260/100x141c/78c1b71573953d92742aacba1081b022.jpg?u=535158&p=1395390599"
+}

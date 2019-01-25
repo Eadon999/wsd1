@@ -1,0 +1,58 @@
+{
+    "name": "セロリと柿のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "TOCKY"
+    },
+    "image": "https://img.cpcdn.com/recipes/113963/464x260/6cb7fefaeb658f415d3aba70fee13f23.jpg?u=15850&p=1214210343",
+    "datePublished": "2003-10-27",
+    "description": "甘みのある柿がセロリ独特の香りをやわらげてくれます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "柿",
+            "quantity": "１個"
+        },
+        {
+            "name": "マスタードシード",
+            "quantity": "茶さじ１杯"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリの茎は薄切り、葉は２ｃｍぐらいに切る。柿は皮を剥いて短冊切りに。",
+        "１．にマスタードシード、マヨネーズ、胡椒、しょうゆをかけて混ぜる。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "113963",
+    "advice": "マスタードシードがなければ、粒マスタードをマヨネーズに混ぜても。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "柿",
+        "マスタードシード",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/113963/100x141c/fbeccde0fa2d12ae9645859f9fe97ef4.jpg?u=15850&p=1214210343"
+}

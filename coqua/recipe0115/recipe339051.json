@@ -1,0 +1,55 @@
+{
+    "name": "塩豚とキャベツのパスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/339051/464x260/b38415ad6992e7891c57dfa8867a22b5.jpg?u=405605&p=1215133397",
+    "datePublished": "2007-03-04",
+    "description": "茹で塩豚を使ってパスタに！豚が甘くておいしい♡",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "塩豚",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "1本"
+        },
+        {
+            "name": "ニンニクみじん切り",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油少し、ニンニクみじん切り、唐辛子を入れて、火をかける。香りが出たら、塩豚を加える。",
+        "キャベツのぶつ切りを加えて炒め、コショウをたっぷり振る。",
+        "茹で上がったパスタをフライパンに。手早く、混ぜ合わせる。塩豚から塩分が出るので味見をしてから、お好みで塩又はお醤油を足す。お皿に盛り、オリーブ油を少したらしてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "339051",
+    "advice": "茹で塩豚を使いましたが、生の塩豚でも構いません。茹でたものよりは塩気が多いので気をつけて！仕上げのお醤油がすっきりして合うと思います。",
+    "history": "ご飯がない！茹でたばかりの塩豚でパスタを！",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/オイル・塩系パスタ/アレンジオイル・塩系パスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩豚 パスタ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/339051/100x141c/89cfda7307c0125e44b5fb911d33234f.jpg?u=405605&p=1215133397"
+}

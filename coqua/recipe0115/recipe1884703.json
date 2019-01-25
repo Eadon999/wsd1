@@ -1,0 +1,58 @@
+{
+    "name": "アボカドとまぐろのポキ。",
+    "author": {
+        "@type": "Person",
+        "name": "しあわせな食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/1884703/464x260/44b39be30ad2e0c2e473154450b95eab.jpg?u=500885&p=1343392526",
+    "datePublished": "2012-07-27",
+    "description": "懐かしいハワイの味を日本でも楽しめるように作ってみました♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ(刺身用)",
+            "quantity": "200g"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "○万能ねぎ(小口切り)",
+            "quantity": "4本分"
+        }
+    ],
+    "recipeInstructions": [
+        "まぐろとアボカドは一口大に切ります。",
+        "ボウルにまぐろ、アボカド、○の調味料を加えてよく混ぜ合わせます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1884703",
+    "advice": "醤油や塩の量はアボカドの大きさや醤油の塩分にあわせて調整してください。",
+    "history": "ハワイのポキの味を思い出しながら作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ",
+        "その他/ハワイ料理/ポキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まぐろ",
+        "アボカド",
+        "ごま油",
+        "醤油"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1884703/100x141c/cf26a6151a0bf76a2049d11f74d128e8.jpg?u=500885&p=1343392526"
+}

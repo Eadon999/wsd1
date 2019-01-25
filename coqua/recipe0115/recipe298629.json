@@ -1,0 +1,58 @@
+{
+    "name": "ごま油で納豆！",
+    "author": {
+        "@type": "Person",
+        "name": "ａｋｉａｋｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/298629/464x260/5f3c02328005df850fe7a2794773fd00.jpg?u=233504&p=1214214000",
+    "datePublished": "2006-11-08",
+    "description": "納豆の新しい食べ方、是非おためしください。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々（でもちょっと多め）"
+        },
+        {
+            "name": "ねぎ（小口切り）",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆だけをよく混ぜる。",
+        "その他の材料を入れてさらに混ぜてできあがり！",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "298629",
+    "advice": "はじめに納豆だけ、ねばりが出るまでよく混ぜてください。",
+    "history": "はなまるマーケットでウェンツさんが納豆をごま油と塩で食べていたのがおいしそうだったので、他にも薬味を加えて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆",
+        "ごま油",
+        "塩",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "237",
+    "thumbnail": "https://img.cpcdn.com/recipes/298629/100x141c/26444d805dff3e3f1b02ed462aafa666.jpg?u=233504&p=1214214000"
+}

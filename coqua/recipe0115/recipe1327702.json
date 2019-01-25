@@ -1,0 +1,60 @@
+{
+    "name": "簡単！！美味しい！！カレイの唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "花ぶどう"
+    },
+    "image": "https://img.cpcdn.com/recipes/1327702/464x260/ea3c4ac6a4ee1d0e7099ef1d859290e2.jpg?u=814222&p=1294851408",
+    "datePublished": "2011-01-13",
+    "description": "中はふ〜んわり(^^♪外はカリッカリ！！簡単にできる魚の唐揚げです。骨までバリバリ食べられま〜す(*^_^*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カレイ(切り身でもOK)",
+            "quantity": "1匹"
+        },
+        {
+            "name": "●濃口醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "●おろし生姜(チューブ)",
+            "quantity": "１ｃｍ"
+        },
+        {
+            "name": "●味塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カレイに切れ目をいれて●の材料に漬けこむ。5~１０分ほどでいいですよ。",
+        "漬け終わったら汁気をふき取り片栗粉をつけ。",
+        "160℃～170℃に油を熱しあげれば完成です。簡単でしょ(^^♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1327702",
+    "advice": "もっと簡単にするなら市販の唐揚げ用の粉をまぶしてあげるだけでも美味しいけど少しひと手間かけてみましょうね(*^^)v",
+    "history": "煮物もいいけどたまには違う食べ方でもね(*^^)v",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かれい"
+    ],
+    "rankings": [
+        "カレイのから揚げ 5位"
+    ],
+    "related_keywords": [
+        "カレイ 唐揚げ",
+        "カレイ 唐揚げ 骨",
+        "カレイのから揚げ",
+        "カレイ 唐揚げ 簡単"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/1327702/100x141c/f1cf79ad001f3fbf7a5cc793bf3e0de1.jpg?u=814222&p=1294851408"
+}

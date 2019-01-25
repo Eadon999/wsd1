@@ -1,0 +1,51 @@
+{
+    "name": "簡単♡小松菜とたまごのサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3034131/464x260/b11dcd3dffc70102f9804f943c43b702.jpg?u=1228553&p=1534910320",
+    "datePublished": "2015-02-24",
+    "description": "ゆでた小松菜とたまごを和えるだけ(*´ｪ`*)葉物が苦手なお子様にも食べやすいかも♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "小2束（350g程度）"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を作っておく。\n小松菜はさっと茹でたら水で粗熱を取り根元を切り落とし3～４センチ程度に切る。",
+        "☆を合わせたボウルに小松菜をぎゅーっと絞って入れ一度和えたらゆで卵を手でちぎって加えさっと混ぜれば出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3034131",
+    "advice": "小松菜の水けを良く絞ってから和えてください♪卵は手で大きめに割りさく感じにするとボリュームも出て美味しいです(o´ω｀o)ﾃｷﾄｳﾃﾞｵｰｹｰ♡小松菜の量により醤油の量も調節してください♪",
+    "history": "小松菜をサラダで食べたいと思ってヽ(･∀･)ﾉ ",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 卵 サラダ",
+        "ゆで小松菜"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3034131/100x141c/ce247f0fa1d0970e98a5ecb1095db38d.jpg?u=1228553&p=1534910320"
+}

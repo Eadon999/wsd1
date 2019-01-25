@@ -1,0 +1,54 @@
+{
+    "name": "濃厚黄味醤油☆イカそうめん☆",
+    "author": {
+        "@type": "Person",
+        "name": "リカミント"
+    },
+    "image": "https://img.cpcdn.com/recipes/268816/464x260/ef678d5ff2cde7bfab65c01d29ee14a2.jpg?u=65469&p=1214213343",
+    "datePublished": "2006-07-22",
+    "description": "リカミント家のいかそうめんの食べ方をご紹介＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "刺身用いかそうめん",
+            "quantity": "１パック"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "わさび",
+            "quantity": "適宜"
+        },
+        {
+            "name": "飾り用　大葉",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "黄味と醤油をさっと混ぜて～黄味醤油を作っておきます。",
+        "器に、大葉とイカそうめんを盛り付け、わさびを添えます。",
+        "食卓で黄味醤油をかけて出来上がり～♪",
+        "ユッケのように全体を混ぜて～食べるのだ！！＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "268816",
+    "advice": "醤油は好みで加減してくださいね～",
+    "history": "実家の母がイカのお刺身のときに、こうやって出してました＾＾",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": [
+        "いかそうめん 2位"
+    ],
+    "related_keywords": [
+        "いかそうめん"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/268816/100x141c/6dbb29d4aada1564a4cda2d68c5addcd.jpg?u=65469&p=1214213343"
+}

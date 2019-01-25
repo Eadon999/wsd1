@@ -1,0 +1,48 @@
+{
+    "name": "チンゲン菜とトマトの簡単サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2307274/464x260/e0b0a9b7e8d119765c2a52ff73717c9a.jpg?u=3280486&p=1375747581",
+    "datePublished": "2013-08-06",
+    "description": "サッとできるチンゲン菜とトマトのヘルシーなサラダです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "1株"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ゴマ油・醤油",
+            "quantity": "各小さじ1/2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜は1cmの角切りにし、塩を振っておく。",
+        "角切りにしたトマトにゴマ油・醤油・胡椒を入れて混ぜ合わせる。",
+        "お皿に①を盛り、②を回しかけたら完成。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2307274",
+    "advice": "お好みで「ゴマ油」を「オリーブ油」に変えても美味しいですよ☆",
+    "history": "ヘルシーで簡単なサラダを食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 サラダ トマト",
+        "チンゲン菜 サラダ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2307274/100x141c/60ea8132e375e69d2b9c09941f15602a.jpg?u=3280486&p=1375747581"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "簡単混ぜうどん！♡マヨカレーうどん",
+    "author": {
+        "@type": "Person",
+        "name": "ぱーうぃー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3459535/464x260/7ec831ea853f5768de1a001c8f1ca84a.jpg?u=4871292&p=1444879515",
+    "datePublished": "2015-10-15",
+    "description": "マヨとカレー粉ででクリーミー&スパイシー★混ぜるだけ‼️一人ご飯にぴったり(^o^)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "1玉"
+        },
+        {
+            "name": "ベーコンハーフサイズ(あれば)",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小1"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "小2〜"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小1弱"
+        }
+    ],
+    "recipeInstructions": [
+        "冷凍うどんを茹でる。茹で上がる直前に切ったベーコンも一緒に入れさっと火を通す。",
+        "調味料をよく混ぜておく。",
+        "茹でてお湯を切っためん、ベーコンと②を混ぜる。たっぷりネギをのせて出来上がり！",
+        "ベーコンなし★ネギたっぷり(*^^*)"
+    ],
+    "cookTime": null,
+    "recipe_id": "3459535",
+    "advice": "ベーコンはなくてもOK!ネギはたっぷりで！麺つゆはヤマサ昆布つゆを使いました。味が足りなければ麺つゆをプラスしてみてください。",
+    "history": "簡単に、一人の時、面倒くさい時作ります(^o^)究極ズボラご飯★",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレー粉混ぜライス"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/3459535/100x141c/db6a874f5711347d9687c3292957d8b3.jpg?u=4871292&p=1444879515"
+}

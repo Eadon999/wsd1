@@ -1,0 +1,57 @@
+{
+    "name": "里芋の煮っころがし♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3552528/464x260/dc209064ec2922e7d4171c43223ea985.jpg?u=9552524&p=1449132476",
+    "datePublished": "2015-12-03",
+    "description": "ほっこり♡美味しい里芋の煮物はいかがですか(*‘ω‘ *)　",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "５００g"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋は皮をむいて大きいものは一口大に切る。",
+        "塩でもみ洗いし、水気を切ります。",
+        "鍋に☆と②を入れ強火にかけます。",
+        "沸騰したら落とし蓋をして弱～中火で里芋が柔らかくなるまで約２０分煮ます。\n途中鍋をゆすって煮汁を絡めます。",
+        "器に盛ります。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3552528",
+    "advice": "煮汁に漬けたまま冷ますと味がよく染みます(^^)",
+    "history": "里芋をたくさん頂いたのでお正月のお雑煮用に茹でて冷凍しました(^^)　少し残して大好きな煮っころがし♬お酒のおともに(≧▽≦)♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋の煮っころがし"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/3552528/100x141c/3e9686c05facf675eea1fa668ed8b65a.jpg?u=9552524&p=1449132476"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "☆舞茸＆豚挽肉の簡単炒め☆",
+    "author": {
+        "@type": "Person",
+        "name": "wakamog"
+    },
+    "image": "https://img.cpcdn.com/recipes/665845/464x260/e80759349939347b2f841a990bac549c.jpg?u=591529&p=1224142394",
+    "datePublished": "2008-10-17",
+    "description": "舞茸＆豚挽肉を「合わせ調味料で炒めるだけ」の超簡単レシピです（*^^*）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "1p（100g）"
+        },
+        {
+            "name": "豚挽肉",
+            "quantity": "140g位"
+        },
+        {
+            "name": "塩・胡椒（豚挽肉下味）",
+            "quantity": "少々"
+        },
+        {
+            "name": "鷹の爪（輪切り）",
+            "quantity": "お好み"
+        },
+        {
+            "name": "ごま油（炒め用）",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大1・1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "【下準備】舞茸は洗って食べ易いサイズに手でちぎります。挽肉は下味を付けておきます。",
+        "鍋にごま油を熱し鷹の爪を香り立たせて挽肉を炒めます。色が変わったら☆《合わせ調味料》を入れ混ぜ合わせます。",
+        "最後に舞茸を入れて炒めたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "665845",
+    "advice": "豚挽肉⇒合わせ調味料⇒舞茸の順に炒めるだけの簡単レシピです^^",
+    "history": "舞茸が安かったので、簡単に出来る炒め物を考えました^^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "豚挽肉",
+        "塩胡椒",
+        "鷹の爪"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/665845/100x141c/9c76798706b4e1fa5546f5c987cda0ba.jpg?u=591529&p=1224142394"
+}

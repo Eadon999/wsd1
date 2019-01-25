@@ -1,0 +1,63 @@
+{
+    "name": "ふわとろ卵の親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "ミナいちご"
+    },
+    "image": "https://img.cpcdn.com/recipes/1707737/464x260/6395fffb7936dc8981bacad64ef8b505.jpg?u=3707330&p=1329391939",
+    "datePublished": "2012-02-22",
+    "description": "ちょっとしたコツで、半熟のとろとろ卵に♡話題入り感謝です（*^_^*）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "200グラムぐらい"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "4個"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆だしの素",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは薄切りにします",
+        "鶏肉は食べやすい大きさに切ります",
+        "水200ccに☆の調味料を全部入れ玉ねぎと鶏肉を加え、中火で5分程煮ます",
+        "鶏肉に火が通ったらといておいた卵を半分だけまわし入れます",
+        "フタをします",
+        "卵に7割ぐらい(少し固まってくる位)火を通します",
+        "残りの卵を回し入れたら火を止めご飯の上にかけます"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1707737",
+    "advice": "卵を一気に入れず2回に分けて入れると、火が通った部分（ふわ）と、生っぽい部分（とろ）ができて、あまり失敗ぜす半熟に仕上がると思います(^_-)-☆お好みでのりと一味をかけて…",
+    "history": "お家で美味しい親子丼が食べたくって♬",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ふわとろ卵の親子丼"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/1707737/100x141c/9ecfc44ebbe057d9dedf28e495ab0d7d.jpg?u=3707330&p=1329391939"
+}

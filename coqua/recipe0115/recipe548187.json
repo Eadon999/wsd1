@@ -1,0 +1,53 @@
+{
+    "name": "ホタルイカと菜の花のおろし和え",
+    "author": {
+        "@type": "Person",
+        "name": "たべたいち"
+    },
+    "image": "https://img.cpcdn.com/recipes/548187/464x260/8395bcd021b125ef588cccc07ff8b01c.jpg?u=484355&p=1214219500",
+    "datePublished": "2008-04-10",
+    "description": "春の和え物～♪ポン酢でさっぱり。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ホタルイカ（ボイル）",
+            "quantity": "１パック"
+        },
+        {
+            "name": "菜の花",
+            "quantity": "１/２束くらい"
+        },
+        {
+            "name": "大根",
+            "quantity": "５センチくらい"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "おこのみ"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "おこのみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ホタルイカを洗い、目・口を取り除く。菜の花は塩茹でし食べやすいサイズにカットする。大根をおろし、水気を切る。",
+        "①とポン酢をボウルで和えてできあがり。器に盛って七味唐辛子をおこのみで。",
+        "菜の花の代わりにせりでも！ \nれぽではブロッコリースプラウト・水菜・ほうれん草・小松菜・ルッコラで作って頂きました♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "548187",
+    "advice": "ホタルイカと菜の花の水気はしっかり切ってください。大根おろしは軽く切れば大丈夫かな～",
+    "history": "ホタルイカをポン酢でさっぱり食べたくなった！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": [
+        "ホタルイカ 8位"
+    ],
+    "related_keywords": [
+        "ホタルイカ"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/548187/100x141c/8e2cf6bb9862aa467fe0e7540e6ab369.jpg?u=484355&p=1214219500"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "おかかまみれな梅ゴマおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "leafmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/2641113/464x260/b9d44051fa347ab4da0d7d087c96f665.jpg?u=9376272&p=1400902236",
+    "datePublished": "2014-05-25",
+    "description": "さっぱり梅とプチプチゴマ　ふわっと鰹香るおにぎりです",
+    "recipeYield": "2個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗軽く2杯"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "叩いた梅（ペースト）",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "削り節（出来れば細かい物）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯に叩いた梅とゴマを混ぜる",
+        "おにぎりにして、削り節をまぶす",
+        "※参考　カリカリ梅で作っても美味しかったです"
+    ],
+    "cookTime": null,
+    "recipe_id": "2641113",
+    "advice": "おにぎりが温かいうちに、削り節をまぶして下さい",
+    "history": "梅おにぎりもおかかも一緒に周りにまぶした方が削り節の風味が増した気がします",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "白ごま",
+        "削り節"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2641113/100x141c/3d8b398f22212a8505a4a4d42c863a27.jpg?u=9376272&p=1400902236"
+}

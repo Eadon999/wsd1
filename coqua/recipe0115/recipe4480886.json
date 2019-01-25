@@ -1,0 +1,46 @@
+{
+    "name": "フライパンで簡単焼き鳥",
+    "author": {
+        "@type": "Person",
+        "name": "りなパパ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/4480886/464x260/c16508bf746e9b15dac643d68a4197e0.jpg?u=5623072&p=1492601028",
+    "datePublished": "2017-04-19",
+    "description": "フライパンで簡単に焼き鳥（塩）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鳥もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "片面に薄く"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "半分"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉。",
+        "冷めたフライパンに油はせずに、皮を下にして表面に塩を振ります。",
+        "火力を中火から強火の間にしてネギは先に返します。",
+        "ネギは焦げ目がついたら先に上げます。\n鶏皮が香ばしく色がついたら返します。",
+        "お皿に盛ってレモン、七味を添えて。\nビールが良く合います。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4480886",
+    "advice": "フライパンは冷めた状態で鶏モモの皮側を下にしてこんがり色がつくまで放置してください。",
+    "history": "炭火で焼く時間がなく串に打つのも面倒な時にやる一品です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き鳥 フライパン 塩 簡単",
+        "焼き鳥 フライパン 塩"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4480886/100x141c/10880afd6394e7b9735833e0b8e1eba0.jpg?u=5623072&p=1492601028"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "味むすび",
+    "author": {
+        "@type": "Person",
+        "name": "Mepignol"
+    },
+    "image": "https://img.cpcdn.com/recipes/311046/464x260/79b46a6cedd58cb4ae8070191b49e222.jpg?u=66220&p=1214214313",
+    "datePublished": "2006-12-17",
+    "description": "レシピというほどのものではないのですがｗ夜食や小腹が空いた時に。ほんだしが効いているので、お塩はナシ。ごま油がほんのり香るおむすびです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "お茶碗１杯強"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "白炒りごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごはんに白ごま・刻んだネギ・ほんだしをよく混ぜ合わせる。",
+        "最後にごま油を加えて混ぜ合わせ、おむすびにすれば出来上がり。",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "311046",
+    "advice": "愛情を込めてにぎること＾＾",
+    "history": "いつものおにぎりをちょっと変えたいなぁと思って。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/小ねぎ・葉ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "万能ネギ",
+        "白炒りごま",
+        "ほんだし"
+    ],
+    "tsukurepo_count": "264",
+    "thumbnail": "https://img.cpcdn.com/recipes/311046/100x141c/75825c9658cc741a42f39b29a28cf510.jpg?u=66220&p=1214214313"
+}

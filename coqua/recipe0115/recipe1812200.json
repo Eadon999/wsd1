@@ -1,0 +1,63 @@
+{
+    "name": "豚肉と長ネギの醤油風味パスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1812200/464x260/c54c5c045d914907eaef81598a77ad88.jpg?u=603745&p=1447741874",
+    "datePublished": "2012-05-13",
+    "description": "豚肉と長ネギで和風のパスタを♪少しだけ余ったりするお肉の処理にも便利！簡単だから1人のランチにもぴったり♪",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "豚肉(細切れ)",
+            "quantity": "100g"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆パスタの茹で汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタはパッケージに従って茹でておきます。",
+        "長ネギをお好みの大きさに刻みます。",
+        "フライパンで豚肉と葱を炒めます。\n（豚肉の油だけでいいので特に油はいりません）",
+        "☆の調味料とパスタの茹で汁（お玉1杯くらい）を加えてひと煮立ちさせたらパスタを加えて絡めます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1812200",
+    "advice": "お好みで刻み海苔をかけてみてくださいね！",
+    "history": "残った豚肉と冷蔵庫にあったネギを使ってランチに1品♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "豚肉",
+        "長ネギ",
+        "醤油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1812200/100x141c/c4eb3ad7901fd5fb07125c231424ab09.jpg?u=603745&p=1447741874"
+}

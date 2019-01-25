@@ -1,0 +1,57 @@
+{
+    "name": "ラディッシュの葉のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/3035752/464x260/8a07af44eb295ea9065c039989130428.jpg?u=535158&p=1424846877",
+    "datePublished": "2015-05-05",
+    "description": "ラディッシュの即席漬けを作った時に、残った葉で作りました。ラディッシュの葉のナムルです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ラディッシュの葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙１/２"
+        },
+        {
+            "name": "すりおろしにんにく",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "白炒りごま",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ラディッシュの葉は良く洗い、ざく切りにする。",
+        "フライパンにごま油を敷き、すりおろしにんにくを加え、香りが出たら葉を炒め、調味料を加える。",
+        "白炒りごまを加える。",
+        "ラディッシュは、即席漬けにしました。\nＩＤ：3035730"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3035752",
+    "advice": "調味料はお好みで。",
+    "history": "ラディッシュの即席漬けを作った時に、残った葉で作りました。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/ラディッシュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ラディッシュ 葉",
+        "ラディッシュ 葉 ごま"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3035752/100x141c/39f768af1549ff82314c049ae6f355da.jpg?u=535158&p=1424846877"
+}

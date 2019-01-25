@@ -1,0 +1,61 @@
+{
+    "name": "☆簡単うまっ！！ガーリックライス",
+    "author": {
+        "@type": "Person",
+        "name": "さにパン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2154900/464x260/b9c0169374bd9e5d40fb47f21d7407b0.jpg?u=5174465&p=1363336616",
+    "datePublished": "2013-03-15",
+    "description": "ガーリックのかおりがたまらん！！！おいしいよ♪",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "４杯分くらい"
+        },
+        {
+            "name": "パセリみじん切り",
+            "quantity": "１本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "にんにくチューブ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩コショー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "しょうゆと酒を合わせておいてね．フライパンに油をしいてにんにくを入れて火にかけます．",
+        "あたたかいごはんをいれてー炒めます．塩コショーします．",
+        "炒めたら，パセリをいれてー混ぜ炒めます．早く早くね♪",
+        "混ぜたら，しょうゆと酒を合わせたものを鍋肌からまわしいれて炒めます．早く早く！！はいできあがり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2154900",
+    "advice": "炒め始めたら，手早く炒めてあげてね．",
+    "history": "シチューのときなどごはんはこれ！！！子供が大好きです！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにくチューブ ガーリックライス",
+        "ガーリックライス チューブ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2154900/100x141c/6d674b31060e1365fa51f8f19c0499da.jpg?u=5174465&p=1363336616"
+}

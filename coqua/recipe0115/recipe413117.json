@@ -1,0 +1,53 @@
+{
+    "name": "手作り♪寿司酢",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/413117/464x260/3ea629c838097c8bf56a393d5ace2606.jpg?u=252604&p=1214216887",
+    "datePublished": "2008-01-30",
+    "description": "お寿司作りにかかせない寿司酢。電子レンジで手軽に作ります。",
+    "recipeYield": "寿司めし3合分",
+    "recipeIngredient": [
+        {
+            "name": "酢",
+            "quantity": "大6"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大5"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1"
+        },
+        {
+            "name": "昆布",
+            "quantity": "3cm角"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱容器に、材料をすべて入れます。",
+        "電子レンジで1分～1分30秒ほど加熱してよく混ぜます。",
+        "昆布を取り出し、かために炊いたご飯にかけて、仰ぎながら切るように混ぜます。",
+        null,
+        "◇◆おもてなし♪いなり寿司◆◇\n\nレシピID:276630",
+        "レシピID :497845 \n巻き寿司♪アボカド＆スパム"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "413117",
+    "advice": "電子レンジで手軽に作ります。",
+    "history": "いろいろなお寿司に大活躍の寿司酢です。子供にも大人にも美味しく食べられる味です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/寿司/寿司飯の作り方"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "すし酢",
+        "すし酢 作り方 レンジ",
+        "すし酢 作り方",
+        "すし酢 作り方 昆布"
+    ],
+    "tsukurepo_count": "364",
+    "thumbnail": "https://img.cpcdn.com/recipes/413117/100x141c/196814d05580e8e11c9ec6beaa5f2918.jpg?u=252604&p=1214216887"
+}

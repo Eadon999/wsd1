@@ -1,0 +1,52 @@
+{
+    "name": "オッサンの雑魚とろろ昆布サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2854248/464x260/cca7fc293048612e12a5c50d3f5c195e.jpg?u=3323767&p=1414300242",
+    "datePublished": "2014-10-26",
+    "description": "磯の香りの簡単サラダです。混ぜるだけで料理と言えるのか…。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ちりめん雑魚",
+            "quantity": "１掴み"
+        },
+        {
+            "name": "とろろ昆布",
+            "quantity": "２掴み"
+        },
+        {
+            "name": "レタス",
+            "quantity": "４枚"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "レタス、きゅうりは食べやすい大きさに切って、材料を全て混ぜ合わせたら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2854248",
+    "advice": "味が足りなければ、塩を少し入れて下さい。プチトマトは、飾りです。",
+    "history": "和風サラダを作ろうと思い、家にある食材で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちりめん雑魚",
+        "とろろ昆布",
+        "レタス",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2854248/100x141c/63a6bf8b71180d09fc95f9a622d65912.jpg?u=3323767&p=1414300242"
+}

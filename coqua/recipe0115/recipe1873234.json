@@ -1,0 +1,58 @@
+{
+    "name": "ねぎとツナのぶっ掛け素麺～レモン風味",
+    "author": {
+        "@type": "Person",
+        "name": "foo♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1873234/464x260/74c3947902aaed2764e5c6e83eaa280d.jpg?u=3311160&p=1341378099",
+    "datePublished": "2012-07-04",
+    "description": "ボールの中で混ぜ混ぜするだけ麺つゆ+レモンでサッパリと♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "素麺",
+            "quantity": "1.5～2束"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "★麺つゆ(2倍濃縮)",
+            "quantity": "100ccくらい"
+        },
+        {
+            "name": "★レモン果汁",
+            "quantity": "大さじ1くらい"
+        },
+        {
+            "name": "粒胡椒（粗挽き胡椒）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "青ねぎは小口に切り、ツナ缶のスープor油は軽く切り、ボールに入れ合わせておく",
+        "素麺を固めに茹でて冷水で〆てしっかりと水切りし、１のボールに移す\n",
+        "２の中に★を入れて混ぜ合わせ、味を調整して器に盛る\n粒胡椒を挽きかける"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1873234",
+    "advice": "とにかく素麺の水分は押し付けてキッチリと切って下さいネギは「緑黄色野菜」と思ってたっぷりと(^^)★の量はお好みで調整して下さい",
+    "history": "ポン酢を切らした時の酸味をレモンに代えたら、めちゃ旨でした♪",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "素麺",
+        "青ネギ",
+        "ツナ缶",
+        "麺つゆ"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1873234/100x141c/1636b72fc5a18b79ddaaa4598c6fa6f2.jpg?u=3311160&p=1341378099"
+}

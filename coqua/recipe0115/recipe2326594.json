@@ -1,0 +1,54 @@
+{
+    "name": "梅おかか冷や奴",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2326594/464x260/5f1ed91db0bab87012dd92481cb33e04.jpg?u=4819316&p=1377614459",
+    "datePublished": "2013-08-27",
+    "description": "14/5/29話題入り有難うございます、暑い夏を乗り切るメニュー、酸味が効いたさっぱり冷や奴です",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１／２丁"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "適量"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "５センチ"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しは種を取り除き包丁で細かくつぶす、ねぎはみじん切りにする",
+        "豆腐は４つに切りお皿に乗せてかつおぶし、梅干し、ねぎを乗せる",
+        "めんつゆをかけていただく"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2326594",
+    "advice": "難しいところは何もありません、梅干しはできるだけ細かくしたほうが食べやすいでしょう",
+    "history": "冷や奴をさっぱりと食べたいと思って自分のレシピの梅オニオンスライス（2124464）を思い出し、応用して作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "梅干し",
+        "かつおぶし",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/2326594/100x141c/b1c4230b845d2aec084e128ee7d86f0d.jpg?u=4819316&p=1377614459"
+}

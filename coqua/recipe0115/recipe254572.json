@@ -1,0 +1,63 @@
+{
+    "name": "中華風冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "春夏ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/254572/464x260/0d5da95cb7c1ae3c3e12109fd14ce869.jpg?u=207828&p=1214213022",
+    "datePublished": "2006-05-16",
+    "description": "おつまみにもお勧めのちょいぴりっ！の冷奴です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ぽん酢醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりとハムは3cm位の細切りにしておく。",
+        "ボールにぽん酢醤油・豆板醤・ごま油・砂糖・白ごまをいれ、よく混ぜ合わせ、そこに１を入れて混ぜる。",
+        "豆腐を８等分してお皿に盛り、２をかけて出来あがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "254572",
+    "advice": "豆板醤の量はお好みで調整してください。",
+    "history": "冷奴にちょっとだけ手を加えて、おつまみになるものを考えました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中華 冷奴"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/254572/100x141c/3944b24bb5be1d6e0d89ba998aefc608.jpg?u=207828&p=1214213022"
+}

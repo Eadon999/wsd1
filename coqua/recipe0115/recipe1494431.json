@@ -1,0 +1,62 @@
+{
+    "name": "もやしと海苔の和え物",
+    "author": {
+        "@type": "Person",
+        "name": "スモップ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1494431/464x260/460efb682327b6eb2df25f701b4d482d.jpg?u=2768009&p=1379140837",
+    "datePublished": "2011-07-20",
+    "description": "簡単で美味しい一品♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１／２枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大１と１／２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは塩を入れた熱湯で３０秒程ゆで、ザルにあげる。",
+        "☆を混ぜ合わせ、もやしを入れて味を付ける。",
+        "食べる直前に小さく切った海苔を加えてあえたらできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1494431",
+    "advice": "父は歯が悪いので、もうちょっとゆでています。",
+    "history": "安いもやしを美味しく食べる方法です",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "海苔",
+        "塩",
+        "だし汁"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1494431/100x141c/122dc4204d014558027c4a0b847611b6.jpg?u=2768009&p=1379140837"
+}

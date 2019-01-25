@@ -1,0 +1,52 @@
+{
+    "name": "夏にぴったり☆トマトと大葉の冷製サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ふう吉"
+    },
+    "image": "https://img.cpcdn.com/recipes/849431/464x260/6b0bae9f5d861481f596cfbb7df86026.jpg?u=1422521&p=1248702630",
+    "datePublished": "2009-06-27",
+    "description": "調味料は醤油と酢とごま油だけ☆ 切って和えるだけの簡単レシピ☆２００９．８．５話題入り☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大１個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "３枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは冷蔵庫でよく冷やしておく。トマト、大葉をお好みの大きさに切る。",
+        "醤油、酢、ごま油を混ぜ、ドレッシングを作る。ごま油はお好みで量を調節してください。",
+        "トマトと大葉に２のドレッシングを和える。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "849431",
+    "advice": "ドレッシングを和えてからも、食べる直前まで冷やしておいたほうが美味しいです。 プチトマトなど様々なトマトで美味しく作れます☆ ２００９．７．２７ トップの写真変更しました☆",
+    "history": "母に教えてもらったレシピ☆夏バテ気味の時に、食が進む一品です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷製トマトサラダ"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/849431/100x141c/90afb1a18e982834ef97e40f4839c3d9.jpg?u=1422521&p=1248702630"
+}

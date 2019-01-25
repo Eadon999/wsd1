@@ -1,0 +1,57 @@
+{
+    "name": "味噌がミソ☆きんぴられんこん",
+    "author": {
+        "@type": "Person",
+        "name": "アイスママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/543987/464x260/a0504a0d7b5b7b950753144eae89c16a.jpg?u=730151&p=1236241094",
+    "datePublished": "2008-04-03",
+    "description": "いつものきんぴらに味噌を入れることでとってもコクが出ます（＾＾）でも味噌が入ってるとは誰も気づかない♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "中１節"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんをいちょう切りにし、酢水につける。\r\n厚さはお好みで。",
+        "れんこんの水を切りフライパンにごま油を入れて炒める。れんこんが透き通ってきたら調味料を入れ炒める。汁気がなくなったらできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "543987",
+    "advice": "調味料を入れたら味噌を溶かす感じで混ぜてください。我が家は、大人用は一味を最後に振ります。",
+    "history": "母が作ったきんぴらはコクがあって、どうやって作ったのか聞いたところ、味噌を隠し味に入れているとのことでした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "しょうゆ",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/543987/100x141c/c8619e58f48f7627cb0c9613dbcd63f1.jpg?u=730151&p=1236241094"
+}

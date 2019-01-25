@@ -1,0 +1,56 @@
+{
+    "name": "枝豆豆腐　ミキサーと寒天で簡単！！",
+    "author": {
+        "@type": "Person",
+        "name": "みのmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/1187969/464x260/083f6d75fb33d4ee132a49f51c9dcae2.jpg?u=1370117&p=1279325116",
+    "datePublished": "2010-07-17",
+    "description": "とっても簡単に短時間でできちゃいます！",
+    "recipeYield": "カップ４つほど",
+    "recipeIngredient": [
+        {
+            "name": "枝豆（茹でた豆の量、さやからだしたもの）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "粉寒天",
+            "quantity": "小匙1/4"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に枝豆、分量外の水、塩をいれてゆでる",
+        "茹でた枝豆は何個か飾り用においておき、水７０ｃｃ（分量中の）とミキサーにかける",
+        "鍋に水、粉寒天をいれ、まぜながら沸騰したら1分ほど弱火にかける",
+        "２と３をまぜあわせ、カップなどにいれ、冷しかためる",
+        "枝豆をちらし、麺つゆで頂く"
+    ],
+    "cookTime": null,
+    "recipe_id": "1187969",
+    "advice": "枝豆は冷凍のものでもＯＫ！時間があれば、出汁を作ってとろりあんがけもおいしいです！",
+    "history": "子供たちの大好きな枝豆を暑い日に美味しく頂きたくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "枝豆",
+        "水",
+        "粉寒天",
+        "麺つゆ"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1187969/100x141c/e277ec16eadec147502214c856139bf6.jpg?u=1370117&p=1279325116"
+}

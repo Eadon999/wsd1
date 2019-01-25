@@ -1,0 +1,62 @@
+{
+    "name": "★旨ッ！簡単豪華♪照り焼きチキンステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "nani cafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/2002928/464x260/60d33bef7efd3b13831dec1273b8d557.jpg?u=3636052&p=1366028048",
+    "datePublished": "2012-10-25",
+    "description": "浸けて焼くだけ！絶品ウマウマ！子供も大人も大好きな照り焼きチキンの完成です(^.^)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "･鶏もも肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "＊水",
+            "quantity": "100㏄"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "大さじ１と１／２"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "・付け合わせ野菜",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を開いてフォークで適当に穴を開ける。",
+        "＊を鶏肉に浸し少しおく。",
+        "煮汁から鶏肉を取りだし皮の方から少し焦げ目がつく位まで焼く。",
+        "両面が焼けたら煮汁を全部投入し汁気がなくなるまで煮詰める。",
+        "食べやすくカットしたら完成♪"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2002928",
+    "advice": "漬け込むので鶏肉を焼く時に焦げない様に注意です！煮詰めたら火は充分通りますので軽く焼く位で◎",
+    "history": "チキンステーキが食べたくなったので♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/照り焼きチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "照り焼きチキンステーキ",
+        "チキンステーキ 照り焼き"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/2002928/100x141c/8af4b3b59e8dc9abdcf7a18b5acd29c5.jpg?u=3636052&p=1366028048"
+}

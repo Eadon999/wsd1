@@ -1,0 +1,62 @@
+{
+    "name": "ジュ～シ～鶏のねぎ塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1085184/464x260/6d6b740f158f113ce8a746caf898e91a.jpg?u=1109634&p=1270000013",
+    "datePublished": "2010-03-31",
+    "description": "金のタレ（胡麻油・鶏ガラ・塩・味の素）で美味しいねぎ塩焼きが食べられます！おつまみにぴったりで、どんどん食べれちゃう！",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味の素",
+            "quantity": "小さじ1/4～1/2"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "小さじ1/4～1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4～1/2"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "☆具材を切る\r\n鶏もも肉は1枚を縦3等分、横3等分に切る。ねぎは5cmのぶつ切り。",
+        "☆金のタレを作る。\r\nすべて混ぜ合わせる。",
+        "☆焼く \r\n鶏の皮目から焼き色がつくまで焼き、ひっくり返して、葱を加え、金のタレを回しかけて焼く。 \r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1085184",
+    "advice": "☆鶏もも肉は脂がたっぷり出るので、油はひかずに皮目から焼く。☆ねぎを加えると水分が出るため、鶏の焼き色がついてから、葱を入れて強火で焼きつける。",
+    "history": "美味しいねぎ塩焼きが食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "ねぎ",
+        "胡麻油",
+        "味の素"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/1085184/100x141c/cf1ef640117eac6ee7e5916ea8fcc362.jpg?u=1109634&p=1270000013"
+}

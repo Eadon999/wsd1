@@ -1,0 +1,62 @@
+{
+    "name": "にらともやしの酢みそ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ななぐくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/635875/464x260/c46c87c0594c4660cf95e16365071fd1.jpg?u=691563&p=1220139400",
+    "datePublished": "2008-08-31",
+    "description": "にらともやしを茹でて酢みそで和えました♪",
+    "recipeYield": "4～5人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "にら",
+            "quantity": "１束"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "☆みそ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗う。（気になる方はひげ根をとる） \r\nにらは３ｃｍ程度にカットしてざるで洗う。 \r\nちくわは細い輪切りにする。",
+        "熱湯で野菜を茹で、ざるにとり、少し流水を通してから水気を切り、手でしぼっておく。",
+        "☆の調味料をよく混ぜ合わせ、野菜類とちくわを合えたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "635875",
+    "advice": "調味料はお好みで加減してくださいね！野菜の水分が残っていると、水っぽくなってしまうのでご注意ください＾＾",
+    "history": "にらともやしを炒めて食べることが多いので、他の食べ方を考えてみました＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "にら",
+        "ちくわ",
+        "酢"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/635875/100x141c/f731b5676c1618604b9f6b2fe1bacf1a.jpg?u=691563&p=1220139400"
+}

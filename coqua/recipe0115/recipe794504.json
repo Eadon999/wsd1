@@ -1,0 +1,68 @@
+{
+    "name": "ジャージャー麺",
+    "author": {
+        "@type": "Person",
+        "name": "maeとも"
+    },
+    "image": "https://img.cpcdn.com/recipes/794504/464x260/e68c4690c3ca037f2458a0dbe33e2fef.jpg?u=1297041&p=1246713646",
+    "datePublished": "2009-04-27",
+    "description": "09’4/27から更新し、味噌を調味料に加えました。コクが出ていっそう美味しくなりました。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "中華そば（蒸し）",
+            "quantity": "１袋"
+        },
+        {
+            "name": "合挽きミンチ",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "■塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "■しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "■ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "■味噌",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで軽く合挽きミンチを炒め、塩こしょう・しょうゆ・砂糖・味噌を加える。 \r\n",
+        "よく炒めたら、白ごまをふり、香りづけにごま油をまわしかける。 \r\nいったん器に取り出す。",
+        "次に中華そばをほぐすようにフライパンで炒める。 \r\n水を少量加えて、蒸し状態にするとバラつきやすい 。\r\n",
+        "器に中華そば・ミンチ肉をのせてできあがり。",
+        "23.8.21　話題入りしました！ありがとうございます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "794504",
+    "advice": "見栄えをよくするためには、きゅうりの千切りと白髪ねぎを添えると、GOOD☆",
+    "history": "最初、「ジャージャー麺」ではなく「ジャージャン麺」と思っていました･･･（笑）",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ジャージャー麺"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "中華そば",
+        "合挽きミンチ",
+        "調味料",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/794504/100x141c/7df72e620f04bcd6af4ce774bb361e66.jpg?u=1297041&p=1246713646"
+}

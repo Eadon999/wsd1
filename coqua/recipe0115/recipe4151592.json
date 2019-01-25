@@ -1,0 +1,60 @@
+{
+    "name": "サバ味噌缶とネギのチーズ丼",
+    "author": {
+        "@type": "Person",
+        "name": "ボーミンガウン"
+    },
+    "image": "https://img.cpcdn.com/recipes/4151592/464x260/9b13ea507a90c868cbefd705fc4f49f8.jpg?u=9751317&p=1479006758",
+    "datePublished": "2016-10-30",
+    "description": "クリーミーなチーズが意外とサバに合います。寒い季節に美味しくてあったまります。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "さサバ味噌缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1/2〜1/3本"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "1人分"
+        },
+        {
+            "name": "溶けるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "20ml〜30ml"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギは細めの斜め切りにします。",
+        "鍋にサバ味噌缶をあけ、刻んだネギを投入。サバのかたまりは半分に割ったほうが食べやすいでしょう。",
+        "水を足し、ネギがヒタヒタになるよう平らにします。サバは浸からなくてもOK。",
+        "沸騰してネギに火が通ってきたら、溶けるチーズをふりかけます。チーズが溶けて、煮詰まる前に火を止めます。",
+        "あたたかいご飯にのせて、お好みですりごまをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4151592",
+    "advice": "ネギの切り方はお好みでよいと思います。",
+    "history": "家にあるものの寄せ集めですが、美味しく出来ました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば味噌煮缶 丼",
+        "サバ缶 丼",
+        "サバ缶 ねぎ",
+        "さば味噌煮缶 ねぎ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4151592/100x141c/f3d6e840ce15609c50d8be3082ffef31.jpg?u=9751317&p=1479006758"
+}

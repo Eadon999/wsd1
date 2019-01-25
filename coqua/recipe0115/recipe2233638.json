@@ -1,0 +1,54 @@
+{
+    "name": "すっごく美味☆トマトの肉厚ステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆあなママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2233638/464x260/c13d57d059b73c024aaaa72a39143db5.jpg?u=1226128&p=1392696846",
+    "datePublished": "2013-05-24",
+    "description": "あつあつトマトがとろけて本当美味し( ´艸｀)トマト好きにはたまりません！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大1個"
+        },
+        {
+            "name": "にんにく(みじん切り)",
+            "quantity": "少し"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトは厚切りにして、塩をまぶす。両面に片栗粉をつける。",
+        "フライパンにオリーブオイルを入れて、にんにくとトマトを入れて焼く。片面焼けたらひっくり返して裏もしっかり焼く。",
+        "お皿にとり、クレイジーソルトをかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2233638",
+    "advice": "しっかり片栗粉をまぶして、フライパンに入れたらしばらく放置で。片栗粉がはがれず綺麗に焼けます。",
+    "history": "テレビでやってた、トマト農家さんおすすめの食べ方。さらにクレソルかけてアレンジ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "にんにく",
+        "オリーブオイル",
+        "塩"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2233638/100x141c/0d37a48f22a57e48ff916d980eb83f7b.jpg?u=1226128&p=1392696846"
+}

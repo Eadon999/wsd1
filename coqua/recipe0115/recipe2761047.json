@@ -1,0 +1,69 @@
+{
+    "name": "タコときゅうりのねぎ塩サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あけちゃんち。"
+    },
+    "image": "https://img.cpcdn.com/recipes/2761047/464x260/dd6f5ac1186587b0d0e56238b2e78f70.jpg?u=8517295&p=1408455864",
+    "datePublished": "2014-08-19",
+    "description": "ネギ塩だれでタコときゅうりの旨さ倍増‼︎お疲れ気味の方、食欲のない方にオススメです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "タコ(茹で、蒸し)",
+            "quantity": "あし1本"
+        },
+        {
+            "name": "a)きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "a)塩",
+            "quantity": "小匙1/4"
+        },
+        {
+            "name": "ねぎ(きざみ)",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "塩",
+            "quantity": "小匙1/3"
+        },
+        {
+            "name": "お酢又はレモン汁",
+            "quantity": "小匙2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "タコは一口位の大きさに切る。きゅうりは乱切りにし、塩でもんでしばらく置いておく。",
+        "ネギ塩だれを作り、1を和える。冷蔵庫でつめたく冷やす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2761047",
+    "advice": "ネギ塩だれで和えたらしばらくなじませる為に冷蔵庫に入れて置いてください。少し時間を置いた方が美味しいです。",
+    "history": "夏の疲れをとる為にタウリン豊富なタコを使いました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タコ",
+        "ねぎ塩ダレ",
+        "ねぎ",
+        "塩"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2761047/100x141c/a11605933146408471c8133f6a43f364.jpg?u=8517295&p=1408455864"
+}

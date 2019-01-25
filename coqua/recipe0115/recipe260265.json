@@ -1,0 +1,61 @@
+{
+    "name": "ツナとソーセージのピザ春巻き",
+    "author": {
+        "@type": "Person",
+        "name": "勇気凛りん岸田夕子"
+    },
+    "image": "https://img.cpcdn.com/recipes/260265/464x260/e30faccd791a996502678fb2a1f3d8fb.jpg?u=212659&p=1214419421",
+    "datePublished": "2006-06-13",
+    "description": "揚げたて熱々が美味しい！手づかみでバリバリ食べちゃってください。",
+    "recipeYield": "１０本分",
+    "recipeIngredient": [
+        {
+            "name": "春巻きの皮",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "■ピザ用チーズ",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "■粗引きソーセージ",
+            "quantity": "５本"
+        },
+        {
+            "name": "■冷凍コーン",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "■ツナ缶詰",
+            "quantity": "１７０g入り１缶"
+        },
+        {
+            "name": "ピザソース",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "糊用水溶き小麦粉",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ツナは缶詰の中の水分または油分をしっかり切っておく。ソーセージは適当な大きさに切る。■の材料を全て混ぜ合わせる。",
+        "春巻きの皮の周りに同量の水でといた小麦粉を塗り、１の1/10を乗せて具がはみ出さないように包む。",
+        "キツネ色になるまで油で揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "260265",
+    "advice": "",
+    "history": "以前アップしていたものはチーズが油の中に流れ出やすかったのでツナを加えてみたところ、味もよくなりましたので更新しました。",
+    "categories": [
+        "パン/ピザ・野菜・おかず系パン/ピザ",
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理",
+        "その他/おもてなし料理/子どものパーティ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春巻きの皮 ウインナー コーン"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/260265/100x141c/f048648e8124187e0df30ead5a85f51d.jpg?u=212659&p=1214419421"
+}

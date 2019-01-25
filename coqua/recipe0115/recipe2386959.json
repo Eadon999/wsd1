@@ -1,0 +1,64 @@
+{
+    "name": "ほうれん草と卵の雑炊♡",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2386959/464x260/33310a14661c5ca81ef7f505c8801e67.jpg?u=603745&p=1447760963",
+    "datePublished": "2013-10-26",
+    "description": "寒い季節や、風邪の時にほっこり♡簡単に出来るのでランチにもどうぞ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "2人分"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1株"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "☆鶏ガラスープの元",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は良く洗い、細かく刻みます。",
+        "卵を溶いておきます。",
+        "鍋に水を入れてほうれん草を加えます。",
+        "ご飯と☆の調味料を加えてとろっとするまで煮詰めます。",
+        "溶き卵を流して、卵が固まったら出来あがりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2386959",
+    "advice": "",
+    "history": "風邪を引いた息子とのランチに作りました♡",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "雑炊 ほうれん草",
+        "雑炊",
+        "ほうれん草 卵 雑炊",
+        "ランチ 風邪"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/2386959/100x141c/84db00b4054842ea63c02213ad457ec8.jpg?u=603745&p=1447760963"
+}

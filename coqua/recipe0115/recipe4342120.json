@@ -1,0 +1,74 @@
+{
+    "name": "簡単！豚バラ小松菜",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4342120/464x260/69944d7974afc86c77a5e43892bfa88e.jpg?u=4376699&p=1486642030",
+    "datePublished": "2017-02-11",
+    "description": "小松菜たっぷり♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ",
+            "quantity": "50g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1/2"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "肉に塩胡椒片栗粉をまぶしておく",
+        "小松菜の根を切り5cmほどに切る\n長ネギも5cmほどに切り千切り",
+        "肉を炒めて色が変わったら取り出す",
+        "小松菜葱を1分ほど炒める",
+        "肉とタレを加えて炒めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4342120",
+    "advice": "肉は炒めすぎないようにいったん取り出します",
+    "history": "小松菜を買ったので豚バラ大根風に和風に仕上げました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ小松菜",
+        "小松菜 豚肉 マヨネーズ"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4342120/100x141c/4af264d8f7691cc9294b5f19e7cf7fe2.jpg?u=4376699&p=1486642030"
+}

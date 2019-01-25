@@ -1,0 +1,61 @@
+{
+    "name": "さばの煮付け　定番和食",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/247706/464x260/b54f4124dd5814bdf8dcfb7766c2dd5b.jpg?u=212914&p=1214212849",
+    "datePublished": "2006-04-07",
+    "description": "ＥＰＡやＤＨＡが豊富なお魚をいっぱい食べましょう｡.:*･ﾟ(*ゝ∀・)｡.:ﾟ.+:｡白いごはんがすすみます!!!",
+    "recipeYield": "4切れ分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大匙3"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大匙4"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "１カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに●の調味料を入れて火にかける。",
+        "煮立ったら、さばを重ならないように皮を上にして並ベ、スライスしたしょうがも入れて、落し蓋をしてゆっくりと煮る。\r\n \r\n",
+        "時々スプーンで煮汁をかけて、煮汁が少なくなったら出来上がり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "247706",
+    "advice": "皮目に切り目を入れると味がよくしみるし、早く火も通る。",
+    "history": "さばが安かったので～。定番和食が食べたくなりました☆彡",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば煮付け",
+        "鯖の煮付け",
+        "和食 煮付け"
+    ],
+    "tsukurepo_count": "400",
+    "thumbnail": "https://img.cpcdn.com/recipes/247706/100x141c/3b5e41e5fee01973c23335c51e15c21f.jpg?u=212914&p=1214212849"
+}

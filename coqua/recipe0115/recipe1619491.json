@@ -1,0 +1,59 @@
+{
+    "name": "もやしのナムル♪",
+    "author": {
+        "@type": "Person",
+        "name": "meg115"
+    },
+    "image": "https://img.cpcdn.com/recipes/1619491/464x260/b1c3e9de2a96bd103a6c58ddbc99fa43.jpg?u=3414125&p=1413464271",
+    "datePublished": "2011-11-06",
+    "description": "❖話題入り感謝❖　ごまがたっぷりのもやしのナムル♪ 茹でて和えるだけの簡単レシピです♪♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "◇すりゴマ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◇すりおろしにんにく",
+            "quantity": "小さじ1/2～"
+        },
+        {
+            "name": "◇塩",
+            "quantity": "小さじ1/3～1/2"
+        },
+        {
+            "name": "◇醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは、塩と酒少々（分量外）を入れた湯で茹でて、ざるにあげて水けを切る。",
+        "ボウルに◇印の調味料を入れて混ぜておく。",
+        "もやしを②のボウルに入れて混ぜる。最後にごま油を加えて出来上がりです。お好みでねぎをのせてどうぞ。",
+        "美味しそうに作ってくれたみなさんに感謝します❤ありがとうございます＾＾　6/18"
+    ],
+    "cookTime": null,
+    "recipe_id": "1619491",
+    "advice": "もやしを茹でる時に塩と酒を加えると青臭さが和らぎます。③では、もやしに味がからんでからごま油を加えます。",
+    "history": "一年中価格が安定していて、栄養もあるもやしは、いろいろ工夫して食べたい野菜です…。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "すりゴマ",
+        "すりおろしにんにく",
+        "塩"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1619491/100x141c/1ccadd66bef75fb41f90ebff29c19895.jpg?u=3414125&p=1413464271"
+}

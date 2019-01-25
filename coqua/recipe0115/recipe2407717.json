@@ -1,0 +1,69 @@
+{
+    "name": "ほうれん草と油揚げの生姜焼き♡",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2407717/464x260/1f0fe068e803bd586803dfe2b0901feb.jpg?u=603745&p=1447764271",
+    "datePublished": "2013-11-16",
+    "description": "お肉がなくても美味しい♡メインとしても付け合わせにしても◎お弁当のおかずにも使えますよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "しめじ等お好みの野菜",
+            "quantity": "お好みで♡"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆生姜(チューブ)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は洗って適当な大きさに切ります。",
+        "シメジなども下準備をします。",
+        "油揚げは油抜きをして一口サイズに切ります。",
+        "ゴマ油を敷いたフライパンに切った野菜を入れて火に掛けます。",
+        "しんなりするまで炒めます。",
+        "☆の調味料で味付けをします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2407717",
+    "advice": "",
+    "history": "冷蔵庫にあるものでランチに作りました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "油揚げ",
+        "ゴマ油",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2407717/100x141c/95e3e8eb9f1d63782bebd57324444433.jpg?u=603745&p=1447764271"
+}

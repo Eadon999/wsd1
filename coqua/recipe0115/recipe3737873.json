@@ -1,0 +1,54 @@
+{
+    "name": "大満足♪卵焼きにミートボールin♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/3737873/464x260/43ab57eb759b2bc5018ba430b7196509.jpg?u=7113147&p=1457490637",
+    "datePublished": "2016-03-09",
+    "description": "ミートボールと卵焼きで1口大満足です(*^_^*)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ミートボール",
+            "quantity": "3個"
+        },
+        {
+            "name": "青物",
+            "quantity": "少し"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を割り調味料を加えて良く混ぜます。\n",
+        "卵焼き機を温め卵液を流し少し半熟になったら、ミートボールを置きます。彩りにインゲンやほうれん草なども一緒だと良いです♡",
+        "包みこんで卵が焼けたら完成ですo(^▽^)o"
+    ],
+    "cookTime": null,
+    "recipe_id": "3737873",
+    "advice": "包むの少し難しいですが、なるべく早く頑張って折ります(^ω^;);););)",
+    "history": "マンネリなミートボールをアレンジしたくて(*^_^*)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "ミートボール",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/3737873/100x141c/e7584d85111a033db9d16b33b45811ba.jpg?u=7113147&p=1457490637"
+}

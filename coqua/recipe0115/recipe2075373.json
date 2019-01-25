@@ -1,0 +1,69 @@
+{
+    "name": "醤油麹で作る、簡単鶏ごぼう鍋。",
+    "author": {
+        "@type": "Person",
+        "name": "しあわせな食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/2075373/464x260/673f8e03a55e40ff6f0bb88349b248f3.jpg?u=500885&p=1357458031",
+    "datePublished": "2013-01-06",
+    "description": "とっても簡単に出来て、美味しい、鶏ごぼう鍋です。お正月の残ったお餅を入れるのもおススメです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "700cc"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "2片"
+        },
+        {
+            "name": "鶏胸肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "醤油麹",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "牛蒡",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1/3パック"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "2本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は適当な大きさに切り、醤油麹を揉み込んで20分程度置いておきます。",
+        "牛蒡と人参は細切りにし、舞茸とエリンギ、油揚げは食べやすい大きさに切ります。",
+        "鍋にだし汁を入れて沸かし、鶏胸肉、野菜、きのこ類、油揚げを入れてすべてに火が通るまで弱火～中火で加熱し、出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2075373",
+    "advice": "醤油麹はそれぞれ塩分が違いますので、必要であれば塩を加えたり、醤油麹の量を減らして調整してみてください。",
+    "history": "醤油麹と材料の旨味だけで美味しい鍋を作ろうと思い、考えました。",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/その他アイデア鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お正月鍋",
+        "鶏ごぼう鍋",
+        "醤油麹 鍋"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2075373/100x141c/2d90665c2cbf2907bcf9ad9b1a69b5ed.jpg?u=500885&p=1357458031"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "油揚げともやしのごま和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1085527/464x260/a4a8945bd5a7056d6be9c6b2f7923187.jpg?u=921598&p=1332022515",
+    "datePublished": "2010-03-31",
+    "description": "トースターで焼いた油揚げの香ばしさがアクセント☆カリカリ食感にシャキシャキもやしの相性が抜群の簡単なごま和えです＾＾♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1パック"
+        },
+        {
+            "name": "●白すりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに●の材料を混ぜ合わせておく。",
+        "油揚げは熱湯で油抜きをして水気を切り、トースターで両面に焦げ目を付けて7～8ｍｍ幅に切る。",
+        "もやしは熱湯でサっと潜らせるか、電子レンジで加熱して水気を切っておく。",
+        "1のボウルに、2の油揚げと3のもやしを入れてよく絡めたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1085527",
+    "advice": "もやしはお好みの硬さに仕上げて下さいねぇ♪",
+    "history": "冷蔵庫の残りもので作りましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし 油揚げ"
+    ],
+    "tsukurepo_count": "360",
+    "thumbnail": "https://img.cpcdn.com/recipes/1085527/100x141c/e1296208f910cb1583ce90cbe9f6ff87.jpg?u=921598&p=1332022515"
+}

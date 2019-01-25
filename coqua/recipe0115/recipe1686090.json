@@ -1,0 +1,57 @@
+{
+    "name": "中華大根サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ミナト氏"
+    },
+    "image": "https://img.cpcdn.com/recipes/1686090/464x260/24fa5ec1a08d837f954ffc2417440158.jpg?u=3741435&p=1327556242",
+    "datePublished": "2012-01-26",
+    "description": "ごまの香り高い中華サラダ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "5cmくらい（好きなだけ）"
+        },
+        {
+            "name": "ニンジン",
+            "quantity": "小1/2本"
+        },
+        {
+            "name": "α）しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "α）酢",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "α）ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根・ニンジンは千切りにし、塩を振ってぎゅぎゅっともむ\n\nしばらく置いて水分を出す",
+        "１を思いっきり絞って水けを切る",
+        "αで和えて完成\n\n彩りに大根の葉を散らしました"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1686090",
+    "advice": "塩もみして水けを出すことで、野菜がしんなり食べやすくなります。大根の葉の代わりにゴマを振ると、より香り高くなります。",
+    "history": "久々の大根シリーズ。中華のメインに合わせて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ニンジン",
+        "塩"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1686090/100x141c/c3d29230f85314de1429f45ee62264a7.jpg?u=3741435&p=1327556242"
+}

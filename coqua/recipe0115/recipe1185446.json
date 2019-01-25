@@ -1,0 +1,63 @@
+{
+    "name": "ご飯が進むよ！ピーマンとツナの佃煮風",
+    "author": {
+        "@type": "Person",
+        "name": "ma2003co"
+    },
+    "image": "https://img.cpcdn.com/recipes/1185446/464x260/04cd281106fab49b4428b44df835cac6.jpg?u=864424&p=1279078677",
+    "datePublished": "2010-07-14",
+    "description": "ピーマンとツナの佃煮風です。濃いめの甘辛味にご飯もススム～！人参も入れて彩りもキレイ♪お弁当にもいかが？",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1袋（5～6個）"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "★だしの素（カツオ）",
+            "quantity": "少々"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマン、人参を千切りにする。",
+        "フライパンにツナ（オイルも一緒に）を入れ、人参、ピーマンを入れて炒める。",
+        "火が通り始めたら、★の調味料を入れ、しんなりするまで炒め、皿に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1185446",
+    "advice": "ツナのオイルでフライパンに油を馴染ませてから、人参、ピーマンの順に材料を入れてください。だしの素をカツオ節に変えてもOKです。",
+    "history": "ピーマンが大好きでピーマンがいっぱい食べれるレシピを考案したくて。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "人参",
+        "ツナ缶",
+        "だしの素"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1185446/100x141c/7eae46e633029179295c70d38d60d15b.jpg?u=864424&p=1279078677"
+}

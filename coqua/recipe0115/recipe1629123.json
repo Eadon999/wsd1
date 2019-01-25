@@ -1,0 +1,59 @@
+{
+    "name": "じゃがいもとさつま揚げの甘辛煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1629123/464x260/1ed1079f347818d93964f95f0393c399.jpg?u=2619264&p=1321411531",
+    "datePublished": "2011-11-24",
+    "description": "レンジで下ごしらえ♪ですぐ出来ます❤ご飯に合う～✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "大1個"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "1~2枚"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大1強"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大3"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "●顆粒だし",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "●輪切り唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむき、1㎝角のスティック状に切る。さつま揚げも同様に切る",
+        "じゃがいもを皿に並べラップをして1分加熱",
+        "フライパンに油(ごま油だと香りがいい)を熱し、じゃがいもを炒めてほぼ火が通ったらさつま揚げ、●を入れてからめる"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1629123",
+    "advice": "小さい子供がいるなら唐辛子抜きで♪③ですりおろしたショウガを加えてもgood!冷めてもおいしいのでお弁当にいいよ♪",
+    "history": "お弁当の隙間に♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも さつま揚げ"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1629123/100x141c/2fed1e254463be9f477575da07827915.jpg?u=2619264&p=1321411531"
+}

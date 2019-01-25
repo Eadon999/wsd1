@@ -1,0 +1,58 @@
+{
+    "name": "簡単10分★みんな大好き我が家の豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "らぴさん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2196046/464x260/f3395afefb89fa5e7e82efc9bcb59936.jpg?u=2069719&p=1366374315",
+    "datePublished": "2013-04-19",
+    "description": "玉ねぎを多めに入れて甘みを出すのがポイントの豚丼♪お肉少なめでも大満足の一品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉(こま、バラなどの薄切り)",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★すりおろし生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★すりおろしにんにく",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油を引いて、少し厚めの薄切りにした玉ねぎを炒める。\n全体に油がまわったら、蓋をして蒸し焼きする。",
+        "玉ねぎがしんなりしたら豚肉を入れ更に炒める。\nお肉の色が変わったら●を入れ煮絡めて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2196046",
+    "advice": "あま～い玉ねぎが美味しさのポイントです！多すぎ？と思っても、蒸し焼きで嵩が減ります。",
+    "history": "甘めの味付けが大好きな我が家。調味料を増やさず甘みを出すために玉ねぎを多めにしてみたところ、とても美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚すき丼"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2196046/100x141c/c2910ddf094df362781204da76894b91.jpg?u=2069719&p=1366374315"
+}

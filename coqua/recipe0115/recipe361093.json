@@ -1,0 +1,58 @@
+{
+    "name": "もやしとウィンナーのオイマヨ炒飯",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/361093/464x260/494a3b05b869713caae8edd23bf24ce2.jpg?u=230354&p=1214215391",
+    "datePublished": "2007-04-17",
+    "description": "卵がなくてもふっくらパラパラの炒飯ができますよぉ♥冷蔵庫に残ってる材料2つでぱぱっと☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "4本"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗に大盛り2杯"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1～2（お好みで）"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ウィンナーは食べやすい大きさに輪切り。",
+        "フライパンを熱し、マヨネーズでウィンナーともやしを炒め、塩・コショウをふる。",
+        "ご飯を加え、マヨネーズが絡んでパラパラに炒まったらオイスターソースを入れて絡めながら炒め、塩・コショウで味をととのえて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "361093",
+    "advice": "マヨネーズで炒めるので、ふっくらパラパラに仕上がります♪",
+    "history": "マヨネーズで炒めてからピラフにしたらおいしかったので、炒飯でもやってみた。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ウィンナー",
+        "ご飯",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/361093/100x141c/c4e74e1e94c087a5215fe74434ac4e39.jpg?u=230354&p=1214215391"
+}

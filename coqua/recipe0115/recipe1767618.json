@@ -1,0 +1,55 @@
+{
+    "name": "アジの簡単さっぱりソテー",
+    "author": {
+        "@type": "Person",
+        "name": "あーもこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1767618/464x260/4c4274a8f16d0e7a28b7cf5ad6f7a4e1.jpg?u=2453127&p=1338737065",
+    "datePublished": "2012-04-05",
+    "description": "簡単に出来るアジのソテーです。さめても美味しいので持ち寄りにもぴったり！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アジ",
+            "quantity": "１匹"
+        },
+        {
+            "name": "大根・生姜",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "アジを３枚におろします。表面に塩コショウをふります。",
+        "小麦粉をまぶします。",
+        "サラダ油でこんがり焼き色が付くまでソテーします。",
+        "薬味に大根・生姜をおろして添えれば完成！ポン酢や醤油でめしあがれ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1767618",
+    "advice": "少し大目の油でかりっと焼くこと！",
+    "history": "世界初アルコール0.00％ビールテイスト飲料「キリンフリー」に合うつまみとして、簡単美味しい魚料理を作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アジ",
+        "小麦粉",
+        "塩コショウ",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1767618/100x141c/27ed8391a7679e231f65b2e6f1940983.jpg?u=2453127&p=1338737065"
+}

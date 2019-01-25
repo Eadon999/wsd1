@@ -1,0 +1,53 @@
+{
+    "name": "エビとアスパラのわさびあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/3187896/464x260/bf7ad741044833249d332f24bc2098a2.jpg?u=7402421&p=1432165554",
+    "datePublished": "2015-05-21",
+    "description": "♪♪感謝♪♪　～2018/6/17　話題入り！ありがとうございます♪ぷりぷり海老をシンプルに味わう♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "むきえび",
+            "quantity": "200g"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "80g"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "調味料を合わせる。\nえびは、料理酒少々（分量外）を加えた熱湯でゆでて、ざるに上げ、調味料に浸してそのまま冷ます。",
+        "アスパラは、斜め切りにして、さっと塩ゆでする。（塩は分量外）\n水で冷やして、えびと合わせたら、出来上がり～♪\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "3187896",
+    "advice": "私は、そのまま使えるタイプの冷凍えびを使いましたが、大きめの生えびで作る場合は、背ワタを取ってから調理して下さい。",
+    "history": "えびとアスパラの組合せは、サラダに使ったりもしますが、和風な味付けも、落ち着きますね♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "むきえび",
+        "アスパラ",
+        "うすくち醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3187896/100x141c/e06aa6cbb5f7e694c951d793f30bf415.jpg?u=7402421&p=1432165554"
+}

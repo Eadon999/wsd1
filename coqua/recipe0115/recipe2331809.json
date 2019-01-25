@@ -1,0 +1,61 @@
+{
+    "name": "べたつかない♬コールスロー",
+    "author": {
+        "@type": "Person",
+        "name": "Missねこやま"
+    },
+    "image": "https://img.cpcdn.com/recipes/2331809/464x260/b78202e680a911619bebfdec8d75689c.jpg?u=5129390&p=1379632763",
+    "datePublished": "2013-10-13",
+    "description": "話題入り感謝❣ベタベタしない、酸っぱすぎないコールスロー。作る順番が少し違います。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ(千切り)",
+            "quantity": "300g"
+        },
+        {
+            "name": "にんじん(千切り)",
+            "quantity": "50g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩",
+            "quantity": "少量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ、にんじんをボウルに入れ砂糖をまぶし酢を回しかけ全体に行き渡るように軽くもむ。30~45分置いておく。",
+        "水気を絞りマヨネーズ、塩、ブラックペッパーをして混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2331809",
+    "advice": "キチンとキャベツが酢を吸っていますので絞っても大丈夫です。きちんと水気をきるのがコツです。",
+    "history": "甘すぎず、酸っぱすぎず、ベトベトしてないコールスローを出す近所のBBQレストラン。メニュー全品お店で手作りという事なので店員さんに尋ねると手順だけ教えてくれました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "にんじん",
+        "砂糖",
+        "酢"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2331809/100x141c/2de9665194caef2c12a2c7d80117a990.jpg?u=5129390&p=1379632763"
+}

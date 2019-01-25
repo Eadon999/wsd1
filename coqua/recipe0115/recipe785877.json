@@ -1,0 +1,66 @@
+{
+    "name": "圧力鍋でeco料理★大根こんにゃく煮物",
+    "author": {
+        "@type": "Person",
+        "name": "フシッチェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/785877/464x260/8ba695600480e3763c44b4dbd31ad2c6.jpg?u=881219&p=1287482596",
+    "datePublished": "2009-04-17",
+    "description": "超簡単＆時短レシピ✿素材の旨みを引き出した優しい味です。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1/2枚強"
+        },
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "★水",
+            "quantity": "1/2cup"
+        },
+        {
+            "name": "★酒",
+            "quantity": "1/2cup"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を2cmにcutして皮をむき（※1）面をとる（※2）。こんにゃくは手で千切る。人参は食べやすい大きさにcutする。",
+        "圧力鍋に1の具と★の調味料を全て入れ、蓋をして高圧で中火で火にかける。ピンがカタカタしてきたら弱火で1分。",
+        "1分経ったら火を止め、圧が下がりきったらピンを外し更に圧を抜く。",
+        "お皿に盛ってお好みでしょうがやワケギをのせて出来上がり！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "785877",
+    "advice": "※1･･･大根の皮も立派な一品に。（こんにゃく大根の皮炒め／レシピID：782442、大根の皮キンピラ／レシピID：768353）※2･･･サラダのトッピングにGOOD！2010.10.19写真＆内容一部修正しました。",
+    "history": "短時間で美味しい煮物が食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく 圧力鍋",
+        "大根 こんにゃく 煮物 圧力鍋",
+        "こんにゃく 煮物 圧力鍋"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/785877/100x141c/9cbf0251c6f1dbe121bac60909879610.jpg?u=881219&p=1287482596"
+}

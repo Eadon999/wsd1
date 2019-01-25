@@ -1,0 +1,55 @@
+{
+    "name": "キャベツとウインナーのレモンペッパー和え",
+    "author": {
+        "@type": "Person",
+        "name": "ひよこっ子さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1762359/464x260/2680f8736d719caaeef3379a6c69ca15.jpg?u=1699636&p=1333327120",
+    "datePublished": "2012-04-02",
+    "description": "お酒のおつまみに、簡単な1品を。ピリリ＆サッパリなおつまみは、お酒も進みます♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "小1/4玉"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "3本"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "粗挽きブラックペッパー",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは一口大の大きさにカットし、ウインナーは2～3等分にカットして、レンジでチンする。（600W3分）",
+        "【1】にオリーブオイル、レモン汁、ブラックペッパーを入れて、混ぜて出来上がり。",
+        "H24/4/9に話題入りしました。つくれぽしてくださった皆様、ありがとうございました♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1762359",
+    "advice": "レモン汁はお酢に変えてもOKです。",
+    "history": "レンジで簡単に、あともう1品欲しいというときに作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ウインナー",
+        "レモン汁",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/1762359/100x141c/010562dcd462774fb62dcf4b67b6fc0f.jpg?u=1699636&p=1333327120"
+}

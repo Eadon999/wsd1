@@ -1,0 +1,57 @@
+{
+    "name": "簡単！アボカドとトマトのバルサミコサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "はなてぃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/883344/464x260/e59b0bc4aac6709dba27b65c61a36a56.jpg?u=772065&p=1249546057",
+    "datePublished": "2009-08-06",
+    "description": "切って和えるだけの簡単サラダ。彩りも良くテーブルが華やかになりますよ♪",
+    "recipeYield": "2",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "（ミニトマトなら・・・）",
+            "quantity": "（５個位）"
+        },
+        {
+            "name": "○バルサミコ酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ1/２"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは1.5㎝角くらいに切る。トマトも同じ位の大きさに切る。○を合わせる。",
+        "すべての材料を和える。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "883344",
+    "advice": "アボカドは少し柔らかめのものが美味しくできます。柔らか過ぎて包丁で切るのが難しい場合は、小さめのスプーンですくうようにしてみてください。写真のアボカドは若干固かったです…。",
+    "history": "冷蔵庫で眠っていたアボカドでテキトーに作ってみたら、とても美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/バルサミコ酢を使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "トマト",
+        "バルサミコ酢",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/883344/100x141c/8334abb3836d9e51e05c1c7062ba5241.jpg?u=772065&p=1249546057"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "簡単！ブロッコリーと舞茸かぼちゃ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3521451/464x260/9056e397b6863cf63b860dfe4d979771.jpg?u=4376699&p=1447688162",
+    "datePublished": "2015-11-17",
+    "description": "オイルフリー！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1株"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "1株"
+        },
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を適当に切りレンジ600w3分チン\nフライパンで野菜を調味料で軽く炒め\n蓋をして2分蒸して完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3521451",
+    "advice": "野菜の大きさはお好みで",
+    "history": "ブロッコリー舞茸炒めにかぼちゃを足してみましたID:2396392",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸 ブロッコリー"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3521451/100x141c/76e8ab3a11303d158a7994973422a931.jpg?u=4376699&p=1447688162"
+}

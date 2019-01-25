@@ -1,0 +1,58 @@
+{
+    "name": "ほうれん草の明太しらすあえ",
+    "author": {
+        "@type": "Person",
+        "name": "キャラメリーナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/381044/464x260/ae604f74d63113fbfb5499b69504f3aa.jpg?u=309628&p=1251686323",
+    "datePublished": "2008-01-16",
+    "description": "ほうれん草を明太子としらすで香りよくあえました。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "■明太子",
+            "quantity": "大１/２腹（小なら１腹）"
+        },
+        {
+            "name": "■ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "■しょうゆ",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "■しらす",
+            "quantity": "大さじ２くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "明太子は皮から出してほぐし、■の調味料と合わせておく。",
+        "たっぷりのお湯でほうれん草をゆで、水にとってアクをとり、よく水気を絞って５ｃｍくらいに切る。",
+        "ほうれん草を１であえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "381044",
+    "advice": "えのきやしめじを一緒にあえても美味しいです。",
+    "history": "実家の家庭菜園で採れた新鮮なほうれん草をたくさんもらうので、いろいろな食べ方を試しています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "明太子",
+        "ごま油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/381044/100x141c/35de942b2a84ba52608aaa052c9ae880.jpg?u=309628&p=1251686323"
+}

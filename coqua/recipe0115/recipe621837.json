@@ -1,0 +1,63 @@
+{
+    "name": "☆きゅうりとわかめとタコの酢の物☆",
+    "author": {
+        "@type": "Person",
+        "name": "CＡＮＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/621837/464x260/471173badef52ebebfcc4e4b81ee8eb7.jpg?u=799626&p=1358670789",
+    "datePublished": "2008-08-05",
+    "description": "人気検索で1位になりました！きゅうりと酢ダコと乾燥わかめを使って簡単に美味しくできました☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "酢ダコ",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "一つかみ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥わかめを水で戻す。",
+        "きゅうりをスライサーでスライスし、塩もみする。",
+        "酢ダコを一口サイズにそぎ切りにする。",
+        "醤油、酢、砂糖を合わせおき、戻したわかめ、塩もみしたきゅうり、そぎ切りにした酢ダコの全てを混ぜ合わせ完成"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "621837",
+    "advice": "酸っぱすぎる場合は、砂糖を増やしてみてください☆酢ダコなしでも美味しいです☆ ",
+    "history": "ハート型のかわいいきゅうりを使って酢の物を作りました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "その他/発酵食品・発酵調味料/酢"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "酢だこ きゅうり",
+        "酢だこ 酢の物",
+        "酢だこ ワカメ"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/621837/100x141c/f54657101da611d81ea3a9bdb24e7904.jpg?u=799626&p=1358670789"
+}

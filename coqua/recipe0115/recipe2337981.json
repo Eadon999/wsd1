@@ -1,0 +1,55 @@
+{
+    "name": "エリンギの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2337981/464x260/0813ad647ca3e003064c17d881daa8ab.jpg?u=4819316&p=1378610253",
+    "datePublished": "2013-09-08",
+    "description": "14/3/25話題入りしました、松茸風の食感で、美味しいおみそ汁を楽しめます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "和風顆粒だし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に湯を沸かし薄く切ったエリンギを入れて加熱する",
+        "乾燥わかめと和風顆粒だし、味噌を入れて混ぜる",
+        "お椀によそい、細かく刻んだねぎを散らして出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2337981",
+    "advice": "難しいことは何もありません",
+    "history": "エリンギを使った炊き込みご飯を作って、何か汁物でも欲しいと思ったときに、エリンギがあったのでそれで味噌汁を作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ 味噌汁"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/2337981/100x141c/3153a76c1833be3130b178b3cc8472cf.jpg?u=4819316&p=1378610253"
+}

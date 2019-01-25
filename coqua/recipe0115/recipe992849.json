@@ -1,0 +1,51 @@
+{
+    "name": "春菊と長芋のさっぱり梅和え",
+    "author": {
+        "@type": "Person",
+        "name": "ree_happy"
+    },
+    "image": "https://img.cpcdn.com/recipes/992849/464x260/d9772f33d0ad1d1bf2c703d3ceeb0511.jpg?u=680898&p=1261061803",
+    "datePublished": "2009-12-18",
+    "description": "香りの強い春菊。長芋とあわせるとマイルドに…。 梅のさっぱりも合わさってお箸が止まらない～♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "1束（150g）"
+        },
+        {
+            "name": "長芋",
+            "quantity": "200g"
+        },
+        {
+            "name": "白だし（又はめんつゆ）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ねり梅",
+            "quantity": "適宜"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊は熱湯でさっと茹でて冷水にとり、3cm幅に切る。\r\n長芋は細めの千切りにする。",
+        "ボールに①の材料と白だしを入れてよく混ぜる。",
+        "②を器に盛り、ねり梅と白ゴマを飾ってできあがり！\r\nよく混ぜて召し上がれ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "992849",
+    "advice": "長芋の細さは春菊と同じくらいになるようにすると、混ざりやすくなり食べやすくなります。 白だしを使うことで長芋の白さが残るので、めんつゆを使うより色鮮やかな一皿になります。",
+    "history": "ありあわせの食材をあわせてみたら、とても相性が良かった♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 長芋"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/992849/100x141c/ebce31dbb599771297c75838f0492b17.jpg?u=680898&p=1261061803"
+}

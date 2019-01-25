@@ -1,0 +1,62 @@
+{
+    "name": "＊さわらの大葉焼き＊",
+    "author": {
+        "@type": "Person",
+        "name": "cafecafemi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1372731/464x260/c7aed605037a2a22b528acf9f68e247c.jpg?u=2950318&p=1298704338",
+    "datePublished": "2011-02-26",
+    "description": "青じその風味とサワラの淡白な味がピッタリ！タレにつけてから焼くので、ほんのり甘いサワラとポン酢の酸味が美味しいです！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "サワラ",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚"
+        },
+        {
+            "name": "レモン",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サワラは●の調味料につけておく。",
+        "１をグリルで焼く。",
+        "焼きあがったら、千切りにした大葉をのせて、ポン酢、レモンを盛りつけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1372731",
+    "advice": "レモン、大根おろし等お好みでさっぱりと頂いてください！",
+    "history": "塩焼きに飽きた時、さっぱりと簡単に食べる方法はないかな~と思って大好きな青じそを使ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サワラ",
+        "醤油",
+        "みりん",
+        "酒"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1372731/100x141c/780f6733e874a43c45e0f16eba43e037.jpg?u=2950318&p=1298704338"
+}

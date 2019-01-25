@@ -1,0 +1,54 @@
+{
+    "name": "あと一品！✿ほうれん草の胡麻たま和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "かずえ亭２号"
+    },
+    "image": "https://img.cpcdn.com/recipes/1740306/464x260/07a3f73a92a8c332a1227a4d2f0ae8f9.jpg?u=3665840&p=1331733982",
+    "datePublished": "2012-03-14",
+    "description": "✿2012.7.14話題入り感謝✿ほうれん草の胡麻和えに、たまごを入れると・・・あら美味しい☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束（少な目の束）"
+        },
+        {
+            "name": "タマゴ",
+            "quantity": "1個"
+        },
+        {
+            "name": "★すりごま",
+            "quantity": "大１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は１分ゆでで、水分をぎゅーっと絞り、ざく切り。\n炒り卵を作っておく。（味付けなし）",
+        "ほうれん草と炒り卵をボウルに入れ、★の加えて和える。",
+        "完成～♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "1740306",
+    "advice": "✿ほうれん草はゆですぎないように・・・✿",
+    "history": "ほうれん草の胡麻和えに何か入れたいな～と思い。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "タマゴ",
+        "すりごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1740306/100x141c/81d1cd6cf03c3fdbe130c95a9a2d74d5.jpg?u=3665840&p=1331733982"
+}

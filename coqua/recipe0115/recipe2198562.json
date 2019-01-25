@@ -1,0 +1,54 @@
+{
+    "name": "簡単！チンゲン菜のしらす和え",
+    "author": {
+        "@type": "Person",
+        "name": "Hanna61"
+    },
+    "image": "https://img.cpcdn.com/recipes/2198562/464x260/ca74d06e8675eb10ca1eec8c4163b7ab.jpg?u=3227489&p=1366526753",
+    "datePublished": "2013-04-21",
+    "description": "炒めないけどごはんのお供にぴったりの一皿です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜",
+            "quantity": "1株"
+        },
+        {
+            "name": "しらす",
+            "quantity": "35g"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "昆布茶(粉末)",
+            "quantity": "2g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "チンゲン菜を一口大にカットし電子レンジで茹でる。",
+        "1cm幅にカットした油揚げとしらすに熱湯をかける。",
+        "①②と昆布茶をボールに入れ、昆布茶とごま油で和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2198562",
+    "advice": "",
+    "history": "いつも炒めるチンゲン菜を炒めずにいただきたいと思い考案したレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/青梗菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜",
+        "しらす",
+        "油揚げ",
+        "昆布茶"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2198562/100x141c/c5903757d9c9ea017ab32edaff9a931e.jpg?u=3227489&p=1366526753"
+}

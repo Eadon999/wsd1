@@ -1,0 +1,57 @@
+{
+    "name": "さっぱり♬きゅうりとわかめの生姜酢和え",
+    "author": {
+        "@type": "Person",
+        "name": "MilkLove"
+    },
+    "image": "https://img.cpcdn.com/recipes/529672/464x260/77224b935924dcad8b71cdfa1f133ff9.jpg?u=594550&p=1214219127",
+    "datePublished": "2008-03-14",
+    "description": "きゅうりだけでも♪わかめだけでも♪しょうがのおかげでさっぱり！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "お好みで（大１前後）"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小１～２"
+        },
+        {
+            "name": "●しょうがチューブ",
+            "quantity": "小1/2～"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりをスライスし（又は薄切り）、塩少々（分量外）をふっておく。わかめを水で戻す。●をボウルに合わせておく。",
+        "きゅうりとわかめの水分をよく絞る。●が入っているボウルに、入れて、よく混ぜて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "529672",
+    "advice": "調味料はお好みで加減してください。（私は少し甘めで生姜多めが好きなので、砂糖小２、生姜チューブ小１くらい入れます。）生の生姜の場合は分量より少し少なめでいいと思います。",
+    "history": "きゅうりが余ったので、わかめと合わせてさっぱり食べたくて♡生姜が好きなので、生姜を使った酢の物にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "乾燥わかめ",
+        "酢",
+        "砂糖"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/529672/100x141c/dc3cf3a307efce40259c870cb9df51e2.jpg?u=594550&p=1214219127"
+}

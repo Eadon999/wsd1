@@ -1,0 +1,62 @@
+{
+    "name": "簡単にんじん卵",
+    "author": {
+        "@type": "Person",
+        "name": "ショコラバニラ"
+    },
+    "image": "https://img.cpcdn.com/recipes/914439/464x260/0b1dbe1207d0ce72fe819c4801bade68.jpg?u=678684&p=1253197748",
+    "datePublished": "2009-09-18",
+    "description": "にんじんと卵、あと一品っていう時に短時間で作れます♪計量は大さじスプーンのみで洗い物少な～い(笑)ちょっと濃い口です。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１こ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "あれば、ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは千切りにしておきます。",
+        "フライパンに砂糖、酒、しょう油、水を大さじ１ずつ入れて火をつけ、フツフツしてきたら千切りにしたにんじんを加えます。",
+        "調味料の水分が飛び無くなってきたら、溶き卵を入れて卵がポロポロになればお皿に盛ってゴマをふりかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "914439",
+    "advice": "",
+    "history": "にんじんの歯ごたえを丁度良く残した一品。ビールにもご飯にも合います♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "卵",
+        "しょう油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/914439/100x141c/7aeb19624223d28a0250def9c3c68e43.jpg?u=678684&p=1253197748"
+}

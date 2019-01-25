@@ -1,0 +1,53 @@
+{
+    "name": "簡単セロリサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ロバート馬場裕之"
+    },
+    "image": "https://img.cpcdn.com/recipes/3046316/464x260/785e5f82f3ca20994a30cea77421f4e5.jpg?u=11539160&p=1425360156",
+    "datePublished": "2015-03-03",
+    "description": "切って混ぜるだけで簡単に出来ます♪",
+    "recipeYield": "３〜４人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "３本"
+        },
+        {
+            "name": "◎バルサミコ酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎塩",
+            "quantity": "小さじ１/2"
+        },
+        {
+            "name": "◎黒胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリをスライサーで薄切りにします。",
+        "◎の調味料を入れて混ぜるだけです。少し冷蔵庫に入れておくと味が馴染みます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3046316",
+    "advice": "バルサミコの酸味が苦手な方は火にかけて酸味を飛ばすと良いですよ☆バルサミコ酢が無い場合はレモン汁やお酢で出来ます。",
+    "history": "バルサミコ酢を使って簡単に作れるレシピをと思い作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/イタリアンサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "バルサミコ酢",
+        "オリーブオイル",
+        "塩"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3046316/100x141c/b867ef1a44bf9314722ab22e223694a4.jpg?u=11539160&p=1425360156"
+}

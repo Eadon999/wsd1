@@ -1,0 +1,57 @@
+{
+    "name": "簡単絶品！山菜の炊き込みごはん",
+    "author": {
+        "@type": "Person",
+        "name": "sachi825"
+    },
+    "image": "https://img.cpcdn.com/recipes/4379355/464x260/6c3a3df12c488b194a907a682bf94852.jpg?u=2236465&p=1488018412",
+    "datePublished": "2017-02-25",
+    "description": "山菜ミックスと白だしを使ってお手軽に！簡単だけど絶品！色もキレイに炊き上がります♪おにぎりにしても◎",
+    "recipeYield": "３合分",
+    "recipeIngredient": [
+        {
+            "name": "山菜ミックス",
+            "quantity": "1袋（90g）"
+        },
+        {
+            "name": "お米",
+            "quantity": "3合"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "75ml"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は研いで30分水に浸水させた後、ざるに上げて水切りしておく",
+        "今回は、↑この山菜ミックスを使いました！ざるに入れて水を切り、さっと洗っておく",
+        "炊飯器に1・2・☆を順に入れ、水を炊き込みご飯の目盛りまで注ぎ、炊き込みご飯の機能（なければ普通に）で炊く",
+        "炊き上がったらご飯を切るように混ぜ、（時間があればちょっと蒸らしておき）茶碗によそって、出来上がり！",
+        "2017/03/16「炊き込みごはん」のカテゴリに掲載されました♪",
+        "ブログを更新してます！\n《LINE OFFICIAL BLOG》\nhttp://lineblog.me/sachi/ "
+    ],
+    "cookTime": null,
+    "recipe_id": "4379355",
+    "advice": "山菜ミックスは、スーパーやコンビニで売ってます！",
+    "history": "山菜の炊き込みご飯が食べたくて！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山菜ミックス 炊き込みご飯",
+        "山菜ミックス 炊き込みご飯 白だし",
+        "山菜 炊き込みご飯 白だし",
+        "山菜ご飯 白だし"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4379355/100x141c/ebe5cad5bf1c16eb9ee540a4dac58fe6.jpg?u=2236465&p=1488018412"
+}

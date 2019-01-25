@@ -1,0 +1,52 @@
+{
+    "name": "ブロッコリーとカニかまの☆ゴマヨネー酢",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/281027/464x260/fe454dde6d641b9604106bdf7cc7d0c0.jpg?u=42283&p=1214213625",
+    "datePublished": "2006-09-12",
+    "description": "お弁当などに助かる☆速攻サラダです♪ゴマヨネー酢が合います(o^-')o",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "カニかま",
+            "quantity": "４本"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "○白すり胡麻",
+            "quantity": "小１"
+        },
+        {
+            "name": "○ポン酢",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを塩茹でして、小さめに切る。カニかまをほぐす。（今回はハムも入れています）",
+        "○の材料を混ぜておいて和える。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "281027",
+    "advice": "ブロッコリーを茹で過ぎないように、、お気をつけ下さいネ♪",
+    "history": "お弁当に入れるサラダは、朝の忙しい時間に作るので簡単にしたかったので考えました(*'-'*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー カニカマ"
+    ],
+    "tsukurepo_count": "217",
+    "thumbnail": "https://img.cpcdn.com/recipes/281027/100x141c/f86d8824230020242d3529ccb4ed0426.jpg?u=42283&p=1214213625"
+}

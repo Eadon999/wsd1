@@ -1,0 +1,60 @@
+{
+    "name": "玉子入りマカロニサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2625191/464x260/e8a2ab0a8388bdc18ffb0f7d66dbb044.jpg?u=9552524&p=1399942709",
+    "datePublished": "2014-05-13",
+    "description": "ゆで卵が入った♡まろやかマカロニサラダです(^^♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "マカロニ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "８０g"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "小１本"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４～５"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニは塩（分量外）を加えた熱湯で表示通りに茹でザルに上げて水分をしっかり切ります。",
+        "キュウリは薄切りにして塩もみしてシッカリ絞る。ハムは短冊切りにする。ゆで卵はみじん切りにする。",
+        "ボールに②を入れ塩コショウ、マヨネーズを加えて和えます。",
+        "③にマカロニを加えてまんべんなく和えます。",
+        "器に盛ります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2625191",
+    "advice": "マカロニは水気をしっかり切ってね(^^♪マヨネーズの量は好みで調節してね♡",
+    "history": "うちの旦那くんの大好物です(^^♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マカロニ",
+        "ゆで卵",
+        "ハム",
+        "キュウリ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2625191/100x141c/130f74be78f9988a1c476c72aa706fd5.jpg?u=9552524&p=1399942709"
+}

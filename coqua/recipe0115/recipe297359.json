@@ -1,0 +1,45 @@
+{
+    "name": "茶漬けにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "まり。"
+    },
+    "image": "https://img.cpcdn.com/recipes/297359/464x260/1f7beec934b29b0e859c85460cd7f73a.jpg?u=59349&p=1214213975",
+    "datePublished": "2006-11-10",
+    "description": "うちで頻発するおにぎり。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１膳"
+        },
+        {
+            "name": "お茶漬けの素",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯とお茶漬けの素をまぜてにぎる。",
+        "海苔を巻いて～…。",
+        "できたっ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "297359",
+    "advice": "すぐ食べるときはお茶漬け少な目。しばらくたって食べるときは多めに入れてください。塩加減はお好みで調節してください。写真は海苔まいてないですが、海苔は巻いて食べましょう～(･∀･)",
+    "history": "お茶漬け好きの彼のために作りはじめたのがきっかけです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "お茶漬けの素",
+        "塩"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/297359/100x141c/f4e027c72ee96c6e49064c813b57fd39.jpg?u=59349&p=1214213975"
+}

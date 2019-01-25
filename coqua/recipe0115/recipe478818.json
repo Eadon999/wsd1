@@ -1,0 +1,54 @@
+{
+    "name": "ハム♥たまご",
+    "author": {
+        "@type": "Person",
+        "name": "YUZUMAMAN"
+    },
+    "image": "https://img.cpcdn.com/recipes/478818/464x260/a6c629eb4457baca8a5f73a10a783335.jpg?u=400575&p=1218884134",
+    "datePublished": "2007-12-24",
+    "description": "ちょっとしたオードブルやお弁当の彩りにぴったり♥　　　　とっても簡単です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "８枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎塩・コショウ",
+            "quantity": "各適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは薄切りにし塩もみして水気をしっかりきっておく。卵を茹で、細かく刻んでおく。",
+        "ボウルに①と◎を入れ混ぜ合わせる。",
+        "②をハムでくるっと巻いたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "478818",
+    "advice": "簡単すぎて特にありません＾＾",
+    "history": "子供の頃、母がよく作ってくれたものです♪小さい頃はこれが本当に大好きで兄と取り合いになっていたほど（笑）今では息子が独り占めするほどの勢いです＾＾",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム",
+        "卵",
+        "きゅうり",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/478818/100x141c/1b7f29f0c8add85e85453707dbd2a905.jpg?u=400575&p=1218884134"
+}

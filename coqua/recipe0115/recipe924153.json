@@ -1,0 +1,56 @@
+{
+    "name": "電子レンジで野菜炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ベリーA"
+    },
+    "image": "https://img.cpcdn.com/recipes/924153/464x260/912224e28258dff1fed0b007a0070d27.jpg?u=975343&p=1254307406",
+    "datePublished": "2009-09-30",
+    "description": "話題入りありがと♡　お皿に水が出ない、野菜炒めです。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "5ｃｍくらい"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "2個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "中華あじ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は食べやすく切ってざるに入れます。ボールもセットしてラップをして900ｗで2分くらい",
+        "ざるを傾けて、1分くらい水を切ります",
+        "ざるに入った状態で中華味とごま油で味をつけます。",
+        "もう1度、ざるを傾けて出てくる水を切ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "924153",
+    "advice": "野菜をレンジにかけるとき、やり過ぎないように注意してください。歯ごたえが残る程度で止めます。ちょっと硬いかな～っという時は【2】の時にラップをしておくと余熱でちょうど良くなります。",
+    "history": "私が野菜炒めをフライパンで作ると、お皿に水が...。それがすっごくイヤ。なので考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "電子レンジ 野菜炒め"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/924153/100x141c/19ed6667afce464d94d060c2d6bc9b40.jpg?u=975343&p=1254307406"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "かきたま汁にゅうめん",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2878707/464x260/8d6de3e544c966445345c830d377ffec.jpg?u=4819316&p=1415679171",
+    "datePublished": "2014-11-11",
+    "description": "15/2/21話題入り有難うございます、夏に残ったそうめんありませんか、こんな風にして温まりますよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "２本"
+        },
+        {
+            "name": "水",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "●顆粒和風だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに水を沸騰させ●を入れて混ぜる",
+        "鍋に分量外の水を沸騰させ、そうめんを茹でる",
+        "フライパンに水溶き片栗粉を加えてとろみを付け、溶いた卵を流し入れる",
+        "をうめんを湯を切って器に盛り、その上に３の汁をかけ、その上に３センチ長さに切った三つ葉を乗せる"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2878707",
+    "advice": "そうめんにかきたま汁をかけたらなるべく早く食べましょう、麺が汁を吸ったら団子のようになります",
+    "history": "夏に使い切れなかったそうめんが余っていたので、何か使い道はないかと、かきたま汁との組合せを考えました",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/にゅうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かきたま汁",
+        "にゅうめん"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2878707/100x141c/502cbf0e5483b2c1b83c6e882cba133a.jpg?u=4819316&p=1415679171"
+}

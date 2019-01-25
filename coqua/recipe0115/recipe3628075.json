@@ -1,0 +1,61 @@
+{
+    "name": "大葉香るもりもり白菜サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/3628075/464x260/50288ec2fb5536c6338ae29f8b087165.jpg?u=4609610&p=1453017471",
+    "datePublished": "2016-01-17",
+    "description": "白菜の大量消費。マヨネーズ不使用サラダです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜（大）",
+            "quantity": "1/6"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１０枚程度"
+        },
+        {
+            "name": "中華顆粒だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は細切りにして塩もみし、水分をしっかり絞る。",
+        "大葉は千切りに。",
+        "材料全部をしっかり混ぜるだけ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3628075",
+    "advice": "白菜の水分をしっかり絞ります。中華顆粒だしは創味シャンタンデラックスを使用しました。味の濃さはお好みで調整してください。飽きたら刻んで混ぜご飯にもいいですよ。",
+    "history": "マヨネーズ不使用でモリモリ食べれる白菜大量消費レシピを考えました。お勧めです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 大葉 サラダ",
+        "白菜 大葉",
+        "白菜 中華 サラダ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/3628075/100x141c/b753659bd8a5780622c2cc0024dd426f.jpg?u=4609610&p=1453017471"
+}

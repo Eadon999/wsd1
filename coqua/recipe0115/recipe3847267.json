@@ -1,0 +1,64 @@
+{
+    "name": "ツナとブロッコリーのケチャップ焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3847267/464x260/d9327838e1635ac7e03259a1ee52d4ff.jpg?u=13556534&p=1462691324",
+    "datePublished": "2016-05-08",
+    "description": "焼きそば麺をケチャップで味付け。ナポリタン風。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "焼きそば麺",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ゆでたブロッコリー",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "７０g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんにく(すりおろし)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブ油、ニンニクを入れオイルを絞ったツナ缶、ある程度細かく切ったブロッコリーを加え炒める",
+        "焼きそば麺を加えて炒め、塩胡椒、ケチャップを入れ、からめる。火を止め醤油少々加えてサッと混ぜて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3847267",
+    "advice": "醤油少々を加えることで醤油の香りとケチャップにコクがでます",
+    "history": "焼きそば麺をケチャップ味にすることでナポリタン風に味わえます。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/アレンジ焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きそば麺 ナポリタン",
+        "ケチャップ焼きそば",
+        "ブロッコリー焼きそば"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3847267/100x141c/8fd94f57dd64cb2d7197ab9304b783da.jpg?u=13556534&p=1462691324"
+}

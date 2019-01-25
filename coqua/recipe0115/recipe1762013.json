@@ -1,0 +1,48 @@
+{
+    "name": "サツマイモ＆クリームチーズ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1762013/464x260/24e91ad6bc271cff276e4fb8adfe979c.jpg?u=2513693&p=1333286511",
+    "datePublished": "2012-04-04",
+    "description": "クリームリーズとサツマイモとレーズン。この組み合わせは最高です♪お酒のおつまみにぜひどうぞ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "サツマイモ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "レーズン",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "サツマイモは皮を剥いて１センチ角のさいの目切りにし、水から竹串がすっと刺さるまで茹でお湯を切りボールに入れます。",
+        "①が温かい内にレーズンを入れ、クリームチーズは手で小さくちぎって入れサツマイモが潰れない程度にかき混ぜます。",
+        "最後に塩を入れざっと混ぜて冷ませば完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1762013",
+    "advice": "茹でたサツマイモのお湯を切り、熱いうちにクリームチーズとレーズンを入れてくださいね。余熱でクリームチーズが柔らかくなり全体にからみつき、レーズンも柔らかくなります。",
+    "history": "飲食店で食べた味を再現しました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも クリームチーズ おつまみ",
+        "さつまいも クリームチーズ"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1762013/100x141c/505f50b5f0b6087aa8bfecc3f3465dc2.jpg?u=2513693&p=1333286511"
+}

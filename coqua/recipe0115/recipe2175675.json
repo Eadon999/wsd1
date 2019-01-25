@@ -1,0 +1,53 @@
+{
+    "name": "お弁当にレンジだけ☆じゃこピーマン",
+    "author": {
+        "@type": "Person",
+        "name": "aki-choco."
+    },
+    "image": "https://img.cpcdn.com/recipes/2175675/464x260/c42f560e35cf5c0bfff04b3ec89490a9.jpg?u=331770&p=1364875927",
+    "datePublished": "2013-04-02",
+    "description": "お弁当に♪レンジだけで簡単☆ごま油入りも美味しいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "1コ"
+        },
+        {
+            "name": "じゃこ",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "(お好みで)ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りにする。",
+        "耐熱皿にピーマンを入れて、電子レンジ600wで40秒。",
+        "じゃこ、塩昆布、麺つゆ、お好みでごま油を入れて和えて完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2175675",
+    "advice": "ピーマンは横に細切りにすると苦味が抑えられます。",
+    "history": "楽にお弁当のおかずを作ろうと思って( *^艸^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン じゃこ レンジ",
+        "じゃこピーマン"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2175675/100x141c/ae6f97235db241e16d64774384bcb04a.jpg?u=331770&p=1364875927"
+}

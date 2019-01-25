@@ -1,0 +1,62 @@
+{
+    "name": "大根と人参のなます♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3465761/464x260/7ac3d82a07797b0eca8c885b91e26fd0.jpg?u=9552524&p=1445166209",
+    "datePublished": "2015-10-18",
+    "description": "低カロリーが嬉しい常備菜♡オツマミや箸休めにいかがですか(*‘ω‘ *)",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "（１/４本）３００g"
+        },
+        {
+            "name": "人参",
+            "quantity": "（１/３本）５０g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ１/４"
+        },
+        {
+            "name": "炒り胡麻",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "☆はボールに合わせておきます。",
+        "大根と人参は皮をむいて細い千切りにします。塩を振って塩もみし、しんなりしたら水気をしっかり絞ります。",
+        "①に②と炒り胡麻を加えて和えます。冷蔵庫に入れて味を馴染ませます。",
+        "器に盛ります。\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3465761",
+    "advice": "塩もみした大根と人参は水気をしっかり絞ってから和えてね(^^)２～３日冷蔵庫で日持ちします♪",
+    "history": "うちの常備菜です(^^)低カロリーなのでダイエット中の旦那くんのオツマミに！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なます 大根 にんじん",
+        "なます",
+        "大根 なます"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3465761/100x141c/4c469f59a1bfe15405df62f044bacad1.jpg?u=9552524&p=1445166209"
+}

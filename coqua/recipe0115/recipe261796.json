@@ -1,0 +1,80 @@
+{
+    "name": "さわらの甘酢あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ｼﾞｭﾝｼﾞｭﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/261796/464x260/91c554c0117e839d4fcfc5efd75b3fd3.jpg?u=220927&p=1214213198",
+    "datePublished": "2006-06-21",
+    "description": "つくれぽ100件達成ありがとうございます！！お野菜たっぷりで栄養満点★",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "さわら",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鰆は水分をふき取り、塩・こしょうを振る。\r\n全体に薄く小麦粉をまぶす。\r\nフライパンで両面こんがり焼く。",
+        "野菜は全て細切り。\r\nだし汁で野菜を煮る。\r\n調味料を入れ、最後に水溶き片栗粉でとろみをつける。",
+        "鰆にたっぷりあんをかけて完成～♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "261796",
+    "advice": "甘酢あんの砂糖･酢はお好みで調節してください。野菜は煮すぎない程度、歯ごたえがあるぐらいが美味しいです。（お好みですが）",
+    "history": "冷蔵庫にあるもので作りました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さわら 甘酢あんかけ",
+        "さわら"
+    ],
+    "tsukurepo_count": "296",
+    "thumbnail": "https://img.cpcdn.com/recipes/261796/100x141c/9309c1814a3022e6f510995bae17a094.jpg?u=220927&p=1214213198"
+}

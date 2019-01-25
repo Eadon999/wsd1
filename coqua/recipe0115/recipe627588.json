@@ -1,0 +1,75 @@
+{
+    "name": "キャベツと豚のゴマつくね焼",
+    "author": {
+        "@type": "Person",
+        "name": "Ｎｏｒａａ"
+    },
+    "image": "https://img.cpcdn.com/recipes/627588/464x260/134e62140aef72c1236c419a6bfe5554.jpg?u=646175&p=1225339018",
+    "datePublished": "2008-08-15",
+    "description": "キャベツのしゃきしゃき感と、ゴマのプチプチ感がなかなかイイです！中華味のつくねです。",
+    "recipeYield": "７～８ヶ分",
+    "recipeIngredient": [
+        {
+            "name": "豚ミンチ",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/６ヶ"
+        },
+        {
+            "name": "◎片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎ゴマ油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "◎中華だし（粉末）",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "◎にんにく（チューブ）",
+            "quantity": "３センチ程度"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "豚ミンチに◎を入れ粘りが出るまで良く混ぜ合わせる。",
+        "キャベツのみじん切りを入れ軽く混ぜ、７～８等分にし好きな形に丸める。",
+        "表面にゴマをまぶしカリッと焼く。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "627588",
+    "advice": "キャベツは細かく切るより、適度に大きい方が食感がいいです。",
+    "history": "餃子を作ろうと思ってたんだけど皮が売り切れで、急遽つくねにしたら、これがなかなか美味しくて！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ミンチ",
+        "キャベツ",
+        "片栗粉",
+        "醤油"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/627588/100x141c/d73b0f354f7db693681a36116b11c192.jpg?u=646175&p=1225339018"
+}

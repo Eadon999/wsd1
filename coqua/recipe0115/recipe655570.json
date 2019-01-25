@@ -1,0 +1,83 @@
+{
+    "name": "トロトロの茄子丼",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/655570/464x260/86141bc4d76ed363ee8d0a1163d74b90.jpg?u=255591&p=1222661750",
+    "datePublished": "2008-09-29",
+    "description": "サイコロ状に切った茄子なのでさっと炒めるだけでトロトロになります。",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "大１本or小２本"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "１２０g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "鶏がらスープのもと",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０cc"
+        },
+        {
+            "name": "しょうが（すりおろし）",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "２膳"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は５～７mm角のサイコロ状に、豚肉は細かく切る。",
+        "フライパンに油（分量外）を大さじ１熱して豚肉を炒める。\r\n軽く炒めたところでナスを加えさらに炒める。",
+        "◎の調味料を上から順に加え、フツフツしてきたら大さじ２の水（分量外）で溶いた片栗粉を回し入れよく混ぜ合わせる。",
+        "ごはんにかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "655570",
+    "advice": "豚肉は挽肉でもOKです。 茄子は大きめのサイコロ状に切った場合や乱切りにした場合にはトロトロにするのに時間がかかるので水の分量を～１cupまで増やしてください。",
+    "history": "茄子を使ったガッツリ丼を考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "豚肉",
+        "酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "97",
+    "thumbnail": "https://img.cpcdn.com/recipes/655570/100x141c/ff11c857673814402286c2816b0d3ef0.jpg?u=255591&p=1222661750"
+}

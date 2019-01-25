@@ -1,0 +1,55 @@
+{
+    "name": "ちょい足し♪卵サラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ひより日和お昼寝好き"
+    },
+    "image": "https://img.cpcdn.com/recipes/3407498/464x260/e0766d1624addddde5d5d94676334e28.jpg?u=7113147&p=1480835851",
+    "datePublished": "2015-09-16",
+    "description": "家のタマゴサラダはケチャップが少～し入ってます(^-^)/ちょい足しで美味しくなりますよ(*^ー^)ノ♪",
+    "recipeYield": "卵１つ分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１つ"
+        },
+        {
+            "name": "バター",
+            "quantity": "少し"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙２～"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵をお好みの茹でかげんでゆで卵を作ります。",
+        "ゆで卵をを刻みみじん切りにしたら、分量の調味料全て入れよく混ぜる。",
+        "塩コショウで味を整えたら出来上がりです( ☆∀☆)",
+        "お好みでサラダに添えたり、サンドイッチの具にしたり、おにぎらずにしたりといろいろできます♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3407498",
+    "advice": "ケチャップを入れることくらい♪",
+    "history": "サンドイッチの具としてよく作ってました(^-^)/",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "バター",
+        "マヨネーズ",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/3407498/100x141c/294325ff840fd60fe14828e957dbcc1e.jpg?u=7113147&p=1480835851"
+}

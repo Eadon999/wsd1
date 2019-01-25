@@ -1,0 +1,64 @@
+{
+    "name": "＊さつま揚げと白菜のとろみカレー煮＊",
+    "author": {
+        "@type": "Person",
+        "name": "ひぃこ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1683702/464x260/1e6913c9e3904d369bef8e58d1edad15.jpg?u=2323626&p=1327456287",
+    "datePublished": "2012-01-25",
+    "description": "とろ〜りご飯に合う炒め煮♪10分あれば食卓へ出せます。さつま揚げの代わりに竹輪でも！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "100g"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "50g"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆顆粒だし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆カレー粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜とさつま揚げは、食べやすい幅に切っておく。調味料も合わせておく。",
+        "サラダ油少量を敷き、温めたフライパンで白菜をしんなりするまで炒める(強火)",
+        "次にさつま揚げを入れてさっと混ぜたら、弱火にして調味料を入れる。",
+        "煮立ったら、水溶き片栗粉を加えひと混ぜ。すぐに火を止め、余熱でとろみを付けます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1683702",
+    "advice": "【水溶き片栗粉】片栗粉：水を１：１の分量で合わせたものを、大さじ１杯分用意してください。",
+    "history": "鍋にしか使わない白菜を、ご飯に合う１品に仕上げたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ白菜"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1683702/100x141c/504fcd3b54b30f66c5276b150550c64c.jpg?u=2323626&p=1327456287"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "おかか醤油こんにゃく◆作り置き",
+    "author": {
+        "@type": "Person",
+        "name": "なむい"
+    },
+    "image": "https://img.cpcdn.com/recipes/4259057/464x260/08c9e34fee0e1ff8795837dad91b3be6.jpg?u=4230111&p=1482841387",
+    "datePublished": "2017-01-05",
+    "description": "こんにゃくだけで簡単おかず。ダイエットや糖質制限のほか、お弁当や作り置きにも最適。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚（３００ｇ前後）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "★すりおろししょうが",
+            "quantity": "少々"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "一つかみ"
+        },
+        {
+            "name": "お好みで、七味",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくに格子状の切り込みを入れ、ひと口大にちぎる",
+        "３分ほど茹でてあく抜き",
+        "フライパンに油を入れ、水気を切ったこんにゃくを入れて炒める",
+        "チリチリと音がして来たら★を入れ、水分を飛ばすようにしっかりと絡める",
+        "お皿に盛り、たっぷりのかつおぶしをかけて完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "4259057",
+    "advice": "お砂糖なしでシンプルに。お好みで甘味料を入れても。",
+    "history": "ダイエット用の常備菜として。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "糖質制限 作り置き",
+        "作り置き ダイエット",
+        "糖質制限 おかず",
+        "糖尿病 作り置き"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/4259057/100x141c/3c8ff6b9c4c2c06bf614bbc475a185fc.jpg?u=4230111&p=1482841387"
+}

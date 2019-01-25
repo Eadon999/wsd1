@@ -1,0 +1,64 @@
+{
+    "name": "簡単おいしい☆赤魚の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "しきママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2302693/464x260/142523a4543f484b1dbb85b42ecdfaaf.jpg?u=1074680&p=1375275384",
+    "datePublished": "2013-07-31",
+    "description": "赤魚の煮付けもおいしいけど、簡単にできる照り焼きもオススメ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "赤魚",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "赤魚に塩をふり、片栗粉をまぶす。",
+        "調味料●を合わせておく。",
+        "熱したフライパンにサラダ油を加え、赤魚を焼く。",
+        "赤魚に火が通ったら、２を加えて、軽く煮詰める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2302693",
+    "advice": "コツとかないくらい、簡単にできます。",
+    "history": "母が作ってくれたのがおいしくて、教わりました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "赤魚 照り焼き"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/2302693/100x141c/a579f3f2cd2fe281d3f9a2adc44a83d3.jpg?u=1074680&p=1375275384"
+}

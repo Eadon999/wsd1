@@ -1,0 +1,52 @@
+{
+    "name": "簡単♪キムチとチーズのオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "りょうこっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/303079/464x260/d1ac3ed54732907b3b32a63a9d0814f2.jpg?u=253971&p=1214214116",
+    "datePublished": "2006-11-21",
+    "description": "キムチとチーズってやっぱりあいますね～♪簡単でとっても美味しいです♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "適量"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を溶いてフライパンに流し込み軽く混ぜてチーズをのせる。",
+        "チーズの上にキムチをのせ半分に折ってオムレツを作って出来上がり♪",
+        "中はとろとろで美味しい♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "303079",
+    "advice": "トッピングにお好みで海苔やマヨネーズをかけて下さい。マヨネーズはオムレツの中に入れてもＯＫですよ♫ ",
+    "history": "リビーママさんの納豆オムレツの作り方を見てこうすればチーズがとろとろになるんだ！と驚き☆参考にさせていただきました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチ オムレツ",
+        "キムチ チーズ オムレツ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/303079/100x141c/ac93ec272e80301a4e7401a4a694e3e8.jpg?u=253971&p=1214214116"
+}

@@ -1,0 +1,67 @@
+{
+    "name": "お弁当に☆鶏ののり巻き照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ton♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1023211/464x260/86252cd29b2335e1b4c66d4ea9e317e2.jpg?u=910640&p=1264686394",
+    "datePublished": "2010-01-28",
+    "description": "照り焼きの甘辛タレが絡んで美味しい❤海苔の風味が広がります！",
+    "recipeYield": "約１０個分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "下味　●酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "下味　●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２・１/３"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "味付けのり",
+            "quantity": "１袋(５枚)"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉は、１㎝厚さくらいに切り下味をつける。",
+        "★の調味料を合わせておく。味付け海苔は半分に切っておく。→鶏肉を巻ければいいので味付けのりの大きさによって切って下さい。",
+        "フライパンに油を熱して、１の鶏肉を両面焼き、火が通ったら合わせておいた★を回しかけてよく絡めます。",
+        "味付けのりを巻いて出来上がり(^^♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1023211",
+    "advice": "タレは好みのゆるさに煮詰めて下さい。",
+    "history": "鶏の照り焼き、お弁当に入れるのに見た目がさみしかったので海苔を巻いてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "醤油",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1023211/100x141c/993fb0e4087bac5185ba95883bc87247.jpg?u=910640&p=1264686394"
+}

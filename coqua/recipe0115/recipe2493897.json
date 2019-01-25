@@ -1,0 +1,59 @@
+{
+    "name": "アボガドと新玉葱の♫ゴマたっぷりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2493897/464x260/98b1743218dcd358bead2c824b447bbb.jpg?u=3243126&p=1535145845",
+    "datePublished": "2014-02-14",
+    "description": "白ごま入りの醤油ドレッシングで和えたサラダです♫アボガドと新タマネギがむしゃむしゃ食べられますよっ(・ｖ・)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボガド",
+            "quantity": "1個(170ｇ～)"
+        },
+        {
+            "name": "新タマネギ",
+            "quantity": "１/２個(80ｇ～)"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大匙１杯"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大匙１杯"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小匙１/2杯"
+        },
+        {
+            "name": "★白ごま",
+            "quantity": "大匙１/2杯位"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を混ぜておきます。",
+        "アボガドは種と皮を取って一口サイズに切ります。\n新タマネギはスライスします。",
+        "②を器に入れて①を和えれば出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2493897",
+    "advice": "アボガドの皮と種を取った重さは約100ｇです。",
+    "history": "アボガドと新タマネギが安かったのでっ((笑))",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボガド",
+        "新タマネギ",
+        "しょう油",
+        "みりん"
+    ],
+    "tsukurepo_count": "103",
+    "thumbnail": "https://img.cpcdn.com/recipes/2493897/100x141c/1498b08301520fadc10ba35125967606.jpg?u=3243126&p=1535145845"
+}

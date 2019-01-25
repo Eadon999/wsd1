@@ -1,0 +1,58 @@
+{
+    "name": "梅じゃこ大葉チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1774498/464x260/3d8f66a8f5f742b99414655167bc3651.jpg?u=602880&p=1334123745",
+    "datePublished": "2012-04-11",
+    "description": "★★★話題入りありがとう★★★人気検索ありがとう★★★梅と大葉でさっぱりチャーハン。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "1合分"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1〜2個"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "大葉",
+            "quantity": "5枚〜"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しは種を除き包丁で叩いて梅肉に、大葉は細切りにしておきます。",
+        "フライパンにごま油を熱し、じゃことごはんをパラパラに炒めます。",
+        "梅肉を加えて混ぜ、最後に大葉を加えて混ぜ白ごまをかけたら完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1774498",
+    "advice": "梅干しで味の調整をしてください。",
+    "history": "真誠「皮むきタイプいりゴマ」のモニターレシピとして考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "梅干し",
+        "ちりめんじゃこ",
+        "大葉"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1774498/100x141c/655774cbe14f3680d9195fa4b67e6b25.jpg?u=602880&p=1334123745"
+}

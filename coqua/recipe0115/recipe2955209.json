@@ -1,0 +1,61 @@
+{
+    "name": "ごぼう・金時人参・大根のみそ汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2955209/464x260/d2ee0bddc64bb5cf9860135eac01605b.jpg?u=3099986&p=1420708611",
+    "datePublished": "2015-01-08",
+    "description": "かんたん。おいしい。根菜の風味が美味しいみそ汁です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "5センチ"
+        },
+        {
+            "name": "金時人参",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "大根",
+            "quantity": "2センチ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "400cc"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ2〜"
+        },
+        {
+            "name": "青ねぎ(きざむ)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "具材をきざむ。\nごぼうは水にさらす。",
+        "だし汁でにる。",
+        "みそを入れて煮る。",
+        "器に入れて、青ねぎをのせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2955209",
+    "advice": "にんじんは普通のにんじんでもどうぞ。",
+    "history": "正月食材残りを使ったみそ汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "金時人参 9位"
+    ],
+    "related_keywords": [
+        "金時人参",
+        "金時人参 味噌汁",
+        "金時人参 大根",
+        "ごぼう 大根味噌汁"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2955209/100x141c/fcef81e632a780522f8cdb20e2cd1da8.jpg?u=3099986&p=1420708611"
+}

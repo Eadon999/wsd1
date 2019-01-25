@@ -1,0 +1,58 @@
+{
+    "name": "納豆おろしパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "mietomo"
+    },
+    "image": "https://img.cpcdn.com/recipes/849652/464x260/00bf2fbf25589e7488088a32bc930218.jpg?u=545989&p=1246078988",
+    "datePublished": "2009-06-27",
+    "description": "簡単なので、1人のランチによく作ります。卵黄とからめて食べると、トロッ＆ネバ～でおいしいですよ＼(^o^)／",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "1人分"
+        },
+        {
+            "name": "大根",
+            "quantity": "３～４㎝"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１～２パック"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "お好みで調節"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "１ケ分"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタを茹でる",
+        "大根おろしを作り、その中に納豆と付属のたれを入れてまぜまぜする\r\n味を見て醤油をプラス",
+        "パスタの上に納豆おろしをのせて、卵黄、刻みネギをトッピングして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "849652",
+    "advice": "大根おろしの汁も捨てずにそのまま使ってください。パスタにかけるので醤油で味を調節するときは、少し濃い目がいいかも。醤油の代わりにポン酢でもさっぱり頂けると思います。",
+    "history": "納豆＋大根おろしを作ってご飯にかけたらおいしかった。ご飯に合うなら、パスタでもおいしいんじゃないかなと思って。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/納豆入りスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "大根",
+        "納豆",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/849652/100x141c/d3b43c46ad870903dd2d31fe74ddba06.jpg?u=545989&p=1246078988"
+}

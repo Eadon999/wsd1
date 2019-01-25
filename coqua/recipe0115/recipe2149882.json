@@ -1,0 +1,76 @@
+{
+    "name": "鶏むね肉で作る炊き込みご飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2149882/464x260/7ae3cf9393123735366af699aa9e794c.jpg?u=603745&p=1447760884",
+    "datePublished": "2013-03-11",
+    "description": "むね肉でも美味しく出来る！シンプルでもおかわりしたくなる美味しさ♪簡単に出来るので試してみてね♪",
+    "recipeYield": "３合",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "３カップ"
+        },
+        {
+            "name": "☆水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "20cc"
+        },
+        {
+            "name": "☆粉末だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "突きこんにゃく",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "【お米】\nザル等で研いで水切りしておきます。\n",
+        "鶏肉は皮を取り、小さめに刻んでおきます。",
+        "人参と油揚げもお好みの大きさに刻みます。",
+        "お鍋に水と人参を入れて火に掛けます。",
+        "沸騰したら火を弱め、残りの材料を加えます。",
+        "☆の調味料で味付けをしたら少し放置して荒熱を取ります。",
+        "お釜にお米と⑥を入れて炊飯器で炊きあげます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2149882",
+    "advice": "刻み海苔や、三つ葉などをトッピングしても美味しいですよ♪",
+    "history": "安いむね肉でも美味しく出来るように調理しました♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉炊き込みご飯",
+        "炊き込みご飯 鶏むね肉 こんにゃく"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2149882/100x141c/9bdaaae07151589eacf0c95d0e422eb5.jpg?u=603745&p=1447760884"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "鶏胸肉のマヨマスタード焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kokoyaai"
+    },
+    "image": "https://img.cpcdn.com/recipes/2340837/464x260/66822536846581b9ec17d26a15d62e01.jpg?u=2769818&p=1378874361",
+    "datePublished": "2013-09-11",
+    "description": "鶏肉で作るマヨマスタード焼き。しっかり味なのでお弁当にも☆お子様にはマスタード抜きで。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉（もも肉でも可）",
+            "quantity": "450ｇ"
+        },
+        {
+            "name": "醤油（下味用）",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒（下味用）",
+            "quantity": "大１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "大１"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大２"
+        },
+        {
+            "name": "リーフレタス（盛り付け用）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏胸肉を一口大にそぎ切りにする。",
+        "下味用の醤油、酒をかけ、もみ込み、しばらく置く。（お弁当用に作る場合は前日にここまでしておく。）",
+        "ビニール袋に２を入れ、小麦粉をつける。",
+        "こんがり色が付き、火が通るまで焼く。（焦げやすいので火加減は注意）",
+        "マヨネーズとマスタードを入れ、からめる。",
+        "お皿にリーフレタスを乗せ、５を盛り付けたら完成。",
+        "お弁当にもオススメです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2340837",
+    "advice": "",
+    "history": "時間のない朝、味付けが簡単に決まり、すぐできるよう、調味料は覚えやすい同量にしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉 マスタード焼き"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2340837/100x141c/8e40c83838bfe8fcb47e3e879f737114.jpg?u=2769818&p=1378874361"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "ブロッコリー＆ゆで卵のサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "uka310"
+    },
+    "image": "https://img.cpcdn.com/recipes/1334969/464x260/a017cf0615d7eb09abb2998323945f3c.jpg?u=1670853&p=1295526397",
+    "datePublished": "2011-01-20",
+    "description": "以前、Deli で購入していたブロッコリー＆ゆで卵のサラダが食べたくなって・・・私なりに再現してみました♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１／２株"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ１・１／２"
+        },
+        {
+            "name": "★ヨーグルト",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★粒マスタード",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★おろしニンニク",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "１）ブロッコリーはお好みの固さに塩ゆでして、よく水気を切っておく。",
+        "２）ゆで卵もお好みの固さに茹でておき\n大きめに切っておきます。",
+        "３）ボウルに★の材料を混ぜておき、そこへブロッコリーとゆで卵をざっくり混ぜて完成です♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1334969",
+    "advice": "",
+    "history": "微妙に残っていたブロッコリーをお弁当に入れたくって。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "卵",
+        "マヨネーズ",
+        "ヨーグルト"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1334969/100x141c/b3888b6cc2ab3f15911ee6fb959d1fef.jpg?u=1670853&p=1295526397"
+}

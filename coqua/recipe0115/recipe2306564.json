@@ -1,0 +1,64 @@
+{
+    "name": "大量消費！きゅうりのピリ辛肉味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "こみゅーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/2306564/464x260/e9b20edcbf40b5ed5c20fbda92121dc1.jpg?u=7426049&p=1438417636",
+    "datePublished": "2013-08-05",
+    "description": "きゅうりの大量消費レシピです。主婦の友社「クックパッド 野菜が大量消費できちゃうレシピ」に掲載中！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "5本"
+        },
+        {
+            "name": "豚ミンチか合挽き肉",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "唐辛子(輪切り)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりを4/1サイズに切りスティック状にします。\n塩味が濃い方がお好きな方は軽く塩もみをしてください。",
+        "フライパンを熱し、肉、砂糖、醤油、味噌、みりんを加え炒めます。",
+        "2にきゅうりを加え軽く炒めます。\n",
+        "唐辛子の輪切りを散らして完成。\n冷蔵庫で冷やしてもおいしいです。",
+        "コマ切れでもおいしいです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2306564",
+    "advice": "きゅうりのカリカリ感が残る程度に炒めるのがポイントです。",
+    "history": "きゅうりと味噌の相性がいいので、きっと肉みそとの相性もいいのではないかと思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "味噌",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "180",
+    "thumbnail": "https://img.cpcdn.com/recipes/2306564/100x141c/79c51ad3b520eab95cd1df5a34e6ae01.jpg?u=7426049&p=1438417636"
+}

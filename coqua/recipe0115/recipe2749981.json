@@ -1,0 +1,59 @@
+{
+    "name": "大根と小松菜の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "namy7mori"
+    },
+    "image": "https://img.cpcdn.com/recipes/2749981/464x260/f7fdbd727e3f2d5c3dd363af8860cc57.jpg?u=2064933&p=1408019736",
+    "datePublished": "2014-08-14",
+    "description": "お疲れ時、ホッとできる煮物です。",
+    "recipeYield": "2-3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "300g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "2株"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "☆だしの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆薄口しょうゆ",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は縦半分に切って、3cmくらいの厚さに切ります。よく洗えば、皮はむかなくても良いと思います。",
+        "小松菜は根元を切り落として、5-6cmくらいの長さに切ります。",
+        "こんな感じです。",
+        "鍋に大根と水、☆の調味料を入れて、沸騰するまで中火で煮ます。",
+        "沸騰したら、ふたをして、コトコトと弱火で煮ます(30-40分くらい)。",
+        "大根が煮えたら、小松菜の茎を入れ1分後に葉を入れて２分くらい煮ます。。完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2749981",
+    "advice": "大根は、煮えるのに少し時間が掛かります。翌日は、味がしみ込んで、更に美味しくいただけます。",
+    "history": "油を使わずにある材料で煮物を作りたかった中で生まれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 大根",
+        "大根 小松菜 煮物"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2749981/100x141c/3a5f3c2897cabc96b515ba7129edce29.jpg?u=2064933&p=1408019736"
+}

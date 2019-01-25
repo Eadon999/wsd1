@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】万能☆クリーミーごまだれ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1462175/464x260/a6af3addb363f92d767cf0b8f9a547b8.jpg?u=2513693&p=1307312862",
+    "datePublished": "2011-06-06",
+    "description": "練り胡麻を使わないで作ったごまだれです。冷しゃぶや、生の野菜や豆腐などにかけて使える万能だれです。",
+    "recipeYield": "約９０ｃｃ",
+    "recipeIngredient": [
+        {
+            "name": "ヨーグルト",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "合わせ味噌",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ3分の１"
+        },
+        {
+            "name": "ニンニク（すりおろしておきます）",
+            "quantity": "2分の１片分"
+        }
+    ],
+    "recipeInstructions": [
+        "材料をすべて混ぜて出来上がりです。\n色んな料理に使えますよ→→→",
+        "簡単☆冷しゃぶ　　レシピID :1462178 ",
+        "豆腐と水菜のサラダ\nレシピID :1462188 "
+    ],
+    "cookTime": null,
+    "recipe_id": "1462175",
+    "advice": "",
+    "history": "練りゴマがない時に考えて作ったものですが、練り胡麻を使ったごまだれよりもクリーミーでで美味しく出来ました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ヨーグルト",
+        "合わせ味噌",
+        "マヨネーズ",
+        "ゴマ油"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1462175/100x141c/6e93925a45ea26d876407e3a86d1c531.jpg?u=2513693&p=1307312862"
+}

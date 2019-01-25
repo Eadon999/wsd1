@@ -1,0 +1,45 @@
+{
+    "name": "速攻おつまみ≪≪ゆで卵≪≪のり塩Var.",
+    "author": {
+        "@type": "Person",
+        "name": "Snow＊Love"
+    },
+    "image": "https://img.cpcdn.com/recipes/2387725/464x260/ee9c3fc1ae6103e7dfe38c11871528a4.jpg?u=2729928&p=1386035365",
+    "datePublished": "2013-10-27",
+    "description": "ゆで卵で作る簡単おつまみ＊お弁当にもどうぞ。",
+    "recipeYield": "卵１個分",
+    "recipeIngredient": [
+        {
+            "name": "ゆで卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を縦半分に切る→青のりと塩をトッピング→お好みでマヨネーズをかけて(無しでもok!)出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2387725",
+    "advice": "＊ゆで卵さえ作っておけばパパッと作れます。",
+    "history": "学生の頃、お弁当のおかずにしていました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆで卵 おつまみ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/2387725/100x141c/e0be0a5a40aa66f74c97e2ce334f3176.jpg?u=2729928&p=1386035365"
+}

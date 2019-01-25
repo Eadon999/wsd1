@@ -1,0 +1,67 @@
+{
+    "name": "パプリカサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ハリーかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2209702/464x260/a6a71dd4376dab7d62c0e214d1deeab9.jpg?u=459148&p=1367445535",
+    "datePublished": "2013-05-02",
+    "description": "色も歯ざわりも、楽しくなるサラダです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "赤パプリカ",
+            "quantity": "1個"
+        },
+        {
+            "name": "黄パプリカ",
+            "quantity": "1個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中1個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大1〜2（お好みで増減）"
+        },
+        {
+            "name": "ツナ缶詰",
+            "quantity": "小さめ1缶"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "酢",
+            "quantity": "大2〜3（お好みで増減）"
+        },
+        {
+            "name": "クルトン（ハトムギ）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "全ての野菜を1センチ角に切り揃える。",
+        "ボールに野菜と調味料、油（汁気）を軽くきったツナを入れ、混ぜ合わす。",
+        "皿に盛り付け、アクセントになるクルトンを振りかける。\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2209702",
+    "advice": "我が家はクルトン代りに、ハトムギをかけてます。アラレでも、ポテトチップスでも美味しいです。春は新玉ねぎでつくると、また、うまし！",
+    "history": "カラフルなサラダが食べたくて♩",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/パプリカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パプリカ サラダ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2209702/100x141c/953768b4a9ae788272ef9cc1b7fa7f57.jpg?u=459148&p=1367445535"
+}

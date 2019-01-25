@@ -1,0 +1,64 @@
+{
+    "name": "ぶりのバルサミコ照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "makkocafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1015275/464x260/900b7f5f05c5d9bd1379b99630d9105e.jpg?u=1713385&p=1459404647",
+    "datePublished": "2010-01-19",
+    "description": "バルサミコのこっくりしたソースで。いつもと違ったこんな食べ方もいいですよ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "☆バルサミコ酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりは塩コショウし水分をペーパーでふき取る。調味料☆は良く混ぜておく。",
+        "フライパンにオリーブ油とスライスしたにんにくを熱し、香りが出たらぶりを入れこんがりと焼く。\r\n",
+        "余分な油をペーパータオルで取り、調味料を入れる。適度にとろみが付き、照りが出れば火をとめる。",
+        "今回付け合せは春キャベツとスナップえんどうのソテー。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1015275",
+    "advice": "２．でぶりを焼く際、にんにくが色付いたら先に取り出し、トッピングに。調味料はすぐに煮詰まります。焦がさないようにして下さい。",
+    "history": "ぶりのいつもと違った食べ方をと考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり バルサミコ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1015275/100x141c/b56c2e13729e121d699987eb40af02ba.jpg?u=1713385&p=1459404647"
+}

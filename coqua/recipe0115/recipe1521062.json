@@ -1,0 +1,54 @@
+{
+    "name": "時短！レンジなすdeめんつゆカレー味",
+    "author": {
+        "@type": "Person",
+        "name": "白雲堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/1521062/464x260/c08090e0c4633f67871e2a07a9d480a3.jpg?u=2969322&p=1545011903",
+    "datePublished": "2011-08-11",
+    "description": "簡単！旨し！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "１個（約１２０ｇ）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１強"
+        },
+        {
+            "name": "●ヤマキめんつゆ（２倍濃縮）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●カレー粉",
+            "quantity": "小さじ１/３～"
+        }
+    ],
+    "recipeInstructions": [
+        "なすはヘタを切り落とし、ピーラーで皮を縞目にむく。",
+        "１をラップをして電子レンジ（６００W）で２分加熱し、１．５cm厚さの斜め切りにする。",
+        "フライパンに油を熱し、２を入れ両面こんがり焼く。合わせた●を入れて調味し、盛り付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1521062",
+    "advice": "１００円ショップで購入したドーム状の蓋をラップがわりに使用しています。",
+    "history": "野菜のおかずがほしい時、冷蔵庫にあった「なす」。1人前がアッという間に出来ます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "サラダ油",
+        "ヤマキめんつゆ",
+        "水"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1521062/100x141c/25fbf7fee2ea2ca14588b0c22a52c76e.jpg?u=2969322&p=1545011903"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "黒糖deかぼちゃの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "みじゅ１２"
+    },
+    "image": "https://img.cpcdn.com/recipes/398170/464x260/b9dd2d08cd4e6571d460be066986567e.jpg?u=522803&p=1214216581",
+    "datePublished": "2007-07-02",
+    "description": "黒糖とお醤油だけで煮るシンプルな煮物です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "１/４コ"
+        },
+        {
+            "name": "黒糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃを一口大に切る。\r\n（硬いので気を付けて！）",
+        "お鍋に並べてひたひたのお水を注ぎ、砂糖と醤油を加えてふたをちょっとずらして煮ること1０～２０分。",
+        "かぼちゃがやわらかくなったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "398170",
+    "advice": "落し蓋をして煮ても早く出来ていいのですが、崩れてしまうことがあるので加減してくださいね～。",
+    "history": "祖母から教えてもらいました。５０年以上作っているそうです＾＾；",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "黒糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/398170/100x141c/40140145a3b16a955e9682fa00f4f8e3.jpg?u=522803&p=1214216581"
+}

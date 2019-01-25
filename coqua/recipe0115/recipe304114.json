@@ -1,0 +1,68 @@
+{
+    "name": "◎小松菜と椎茸のオイマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "いたたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/304114/464x260/6199a924ec020aa5a3fc7cb2a54b172f.jpg?u=65304&p=1214214142",
+    "datePublished": "2006-11-24",
+    "description": "小松菜と椎茸で簡単炒め物です。ニンニクも入ってるのでご飯の進む一品です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "２個"
+        },
+        {
+            "name": "○オイスターソース",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "○マヨネーズ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "小匙1/2"
+        },
+        {
+            "name": "○にんにくのすりおろし",
+            "quantity": "小匙1/4"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜の茎の部分を４、５cmの長さに切って葉は半分に切る。椎茸はスライスする。",
+        "フライパンにごま油をひいて小松菜の茎を３分程中火で炒める。",
+        "②に椎茸を加えて更に１分炒める。",
+        "③に塩コショウをし小松菜の葉も入れてしんなりするまで炒める。",
+        "④に○印の調味料を入れて少し炒めて全体に混ざったら出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "304114",
+    "advice": "",
+    "history": "クックパッドでオイマヨ炒めをたびたび見つけて自分も作ってみたくなって考えて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "椎茸",
+        "オイスターソース",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/304114/100x141c/0c68054b60ef006c26ebe675719e243e.jpg?u=65304&p=1214214142"
+}

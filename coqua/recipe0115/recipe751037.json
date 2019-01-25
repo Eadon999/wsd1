@@ -1,0 +1,62 @@
+{
+    "name": "れんこん☆くるみ味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "mitsukin73"
+    },
+    "image": "https://img.cpcdn.com/recipes/751037/464x260/2276f0bfcdd5bec42eae838a122b6636.jpg?u=843294&p=1267159858",
+    "datePublished": "2009-03-05",
+    "description": "甘辛のくるみ味噌でごはんやお酒がどんどん進みます♡ ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大4"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大3"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小2"
+        },
+        {
+            "name": "くるみ",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "酢（アク抜き用）",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは皮をむき、５ミリくらいの厚さの半月切りにして、酢水にさらしアク抜きをする。（10分くらい）",
+        "★の材料を混ぜておく。\r\nくるみは荒く刻んでおく。",
+        "多めの油を熱したフライパンに水気を切ったれんこんを入れ、両面に焼き目がつくまで炒める。",
+        "3に★の材料を混ぜたものとくるみを入れ、れんこんに絡めながら炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "751037",
+    "advice": "味噌を入れる時、火が強過ぎると味噌が跳ねて危ないので、様子を見ながら加減して下さい。 ",
+    "history": "旦那の実家から使い切れないくらいの大量の味噌を戴いたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": [
+        "くるみ味噌 7位"
+    ],
+    "related_keywords": [
+        "くるみ味噌"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/751037/100x141c/38b552307f4e2497bd32b355b81d9020.jpg?u=843294&p=1267159858"
+}

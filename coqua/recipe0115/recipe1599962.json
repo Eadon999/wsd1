@@ -1,0 +1,42 @@
+{
+    "name": "吉高ちゃん流☆茶碗蒸し！",
+    "author": {
+        "@type": "Person",
+        "name": "つぐぐ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1599962/464x260/7bc170defc473ecf1cb8667ac2ae4a24.jpg?u=2660511&p=1320383007",
+    "datePublished": "2011-10-16",
+    "description": "カップ麺のスープで簡単！レンジで3分でふるふるおいしい！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "カップラーメンの残り汁(冷めたもの)",
+            "quantity": "150cc"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "器に卵を入れ、フォークなどでよく溶きほぐす",
+        "スープを加えよく混ぜる",
+        "ラップをかけ、600wのレンジで2～3分加熱して完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1599962",
+    "advice": "加熱時間は機種によっても違うと思うので2分以降は様子を見ながらやってみて下さい！",
+    "history": "吉高由里子さんがTVで作ってた茶碗蒸し！美味しそうだったけど、分量とか言ってなかったので計量して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/茶碗蒸し"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ラーメン 残り汁 茶碗蒸し",
+        "残り汁 茶碗蒸し レンジ",
+        "カップ麺 茶碗蒸し",
+        "カップ麺 残り汁"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1599962/100x141c/5833830a3aa0fcc39d5127a9fb8e79c4.jpg?u=2660511&p=1320383007"
+}

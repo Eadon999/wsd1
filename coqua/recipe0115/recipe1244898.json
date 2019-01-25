@@ -1,0 +1,52 @@
+{
+    "name": "✿さつま揚げの磯辺焼き✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1244898/464x260/f30517b52aca4271d4ef3fc093fd54e6.jpg?u=271833&p=1285673514",
+    "datePublished": "2010-09-28",
+    "description": "甘辛く味付けしたさつま揚げを海苔で巻きました。お弁当のおかずやおつまみにもピッタリな簡単な一品です♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "海苔",
+            "quantity": "1/3枚"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま揚げは食べやすい大きさに切り、フライパンで（油なしで）両面を焼く。",
+        "火を弱めて☆を加え、さつま揚げの両面に調味料を絡ませながら焼く。",
+        "粗熱が取れたら適当な大きさに切った海苔で巻く。",
+        "お弁当に入れるとこんな感じです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1244898",
+    "advice": "特にありません。",
+    "history": "お弁当のおかずにぴったりな簡単な一品を考えました。さつま揚げはお弁当箱に詰めやすく、冷めても美味しいのでよく使っています。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ",
+        "その他/お弁当/色別おかず/黒・茶系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ",
+        "醤油",
+        "みりん",
+        "海苔"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/1244898/100x141c/9376993d0bf037ad40f4bafdf4a1f84d.jpg?u=271833&p=1285673514"
+}

@@ -1,0 +1,66 @@
+{
+    "name": "簡単！！美味しい♪ちくわのカレー揚げ★",
+    "author": {
+        "@type": "Person",
+        "name": "トモゾー"
+    },
+    "image": "https://img.cpcdn.com/recipes/285851/464x260/a2ac2408fc622bb5102618b964ca5308.jpg?u=245467&p=1214213730",
+    "datePublished": "2006-09-29",
+    "description": "１０分もかからないかも！！安い！早い！うまい！食べだしたらスナック菓子のようにとまりませんよ♪（11/10材料に小麦粉が抜けていました！すみません・・・）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "５本（1袋）"
+        },
+        {
+            "name": "★カレー粉",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "★あらびきこしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "★小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは7ミリ 位の輪切りにする。",
+        "★を混ぜ合わせ、①のちくわを入れ混ぜ合わせる。",
+        "フライパンに多目にサラダ油を入れ、揚げ焼きする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "285851",
+    "advice": "スナック菓子みたいな懐かしい味です。油っこい場合はクッキングシートで油を少しきってください。カリッと揚げたほうがおいしいです★",
+    "history": "たくさんあるカレー粉を使いたかった。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "カレー粉",
+        "サラダ油",
+        "塩"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/285851/100x141c/fa2159faf73bd05cc84bde0222cca502.jpg?u=245467&p=1214213730"
+}

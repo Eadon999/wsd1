@@ -1,0 +1,69 @@
+{
+    "name": "豚挽肉ともやし・白菜の煮込みうどん味噌味",
+    "author": {
+        "@type": "Person",
+        "name": "王様のおさんどん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3024025/464x260/b94525596fa37d1e298cc6d92fb33298.jpg?u=10053239&p=1424265633",
+    "datePublished": "2015-02-18",
+    "description": "味噌と肉・もやしの相性は○印。温まるうどんを煮込みました。素朴だけどこれだけでお腹一杯になりますヨ♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "＊豚挽き肉",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "＊もやし",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "＊白菜",
+            "quantity": "８０ｇ中１枚位"
+        },
+        {
+            "name": "＊長ねぎ",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "＊茹でうどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "＊水",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "合わせ味噌",
+            "quantity": "大匙１～"
+        },
+        {
+            "name": "めんつゆ濃縮２倍",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "かつおだしの素",
+            "quantity": "小袋１（５ｇ）"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜と長ねぎを食べ易く切る。",
+        "＊を鍋か土鍋に入れうどんが柔らかくなるまで煮たら、調味料を入れ味噌が溶けるまで煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3024025",
+    "advice": "煮込み過ぎて汁が少なくなったら少し水を足します。味が濃くなってしまいます。計量はすり切りです。味噌は大匙１から入れ、調整して下さい。食材はなんでも好みの物で作ってみて下さい。",
+    "history": "随分昔から当たり前のように作って食べてます。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/煮込みうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌味 うどん",
+        "煮込みうどん",
+        "白菜 うどん",
+        "豚ひき肉うどん"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/3024025/100x141c/23e88b31d21e8bc76eb0a9d09dd39276.jpg?u=10053239&p=1424265633"
+}

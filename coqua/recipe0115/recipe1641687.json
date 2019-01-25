@@ -1,0 +1,52 @@
+{
+    "name": "ブロッコリーのチーズ焼き。",
+    "author": {
+        "@type": "Person",
+        "name": "なっち船長"
+    },
+    "image": "https://img.cpcdn.com/recipes/1641687/464x260/a0db91d026aec7a172f91ccccb109860.jpg?u=3492561&p=1323474013",
+    "datePublished": "2011-12-02",
+    "description": "朝食に♬トーストを焼きながら、となりで同時に作っちゃう♧フライパンで焼くよりも手間いらず。我が家の定番です。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "適量"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "１本"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "味塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "下ゆでしたブロッコリーを耐熱皿に適量乗せます。",
+        "ウインナーを１本、斜め切りにして散らします。",
+        "味塩こしょうを少々とピザ用チーズを好きなだヶ乗せます。",
+        "後はトースターで焼くだけ!!５分ほどで完成だょ♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "1641687",
+    "advice": "ブロッコリーは下ゆでしたものを使ってくださぃね。トーストを焼きながら隣で作れちゃいます♬",
+    "history": "ブロッコリーをより美味しく。でも簡単に ( *´艸`)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "その他/限られた食材で工夫/ガスを使わず簡単料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ウインナー",
+        "ピザ用チーズ",
+        "味塩こしょう"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/1641687/100x141c/8097308eb8fe83e2fe8259cb5b0c4a2e.jpg?u=3492561&p=1323474013"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "インゲンのおつまみ天ぷら♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3290907/464x260/55d5aaa369fe0aa017661904432a6a17.jpg?u=9552524&p=1436692157",
+    "datePublished": "2015-07-12",
+    "description": "生姜醤油で♡インゲンがいくらでも食べられちゃいます(^^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "インゲン",
+            "quantity": "１２～１４本"
+        },
+        {
+            "name": "☆小麦粉",
+            "quantity": "大さじ３．５"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆青のり粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "♡醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "♡おろしショウガ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "☆は合わせておきます。",
+        "インゲンは両端を切り落とし小麦粉少々（分量外）をまぶす。",
+        "①に②をくぐらせ、中温の油でカラっと揚げます。",
+        "器に盛り♡を合わせた生姜醤油を添えます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3290907",
+    "advice": "生姜醤油が一押しですがマヨネーズやお塩でも美味しいです(^^)",
+    "history": "頂き物のインゲンがてんこ盛りになるこの時期♪うちの定番おつまみです(^^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん 天ぷら"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3290907/100x141c/cf94d90c7e93154ae3bdd2aab3e48cc9.jpg?u=9552524&p=1436692157"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "ポン酢マヨ♪とまらないとめられないうどん",
+    "author": {
+        "@type": "Person",
+        "name": "CoffeeCoco"
+    },
+    "image": "https://img.cpcdn.com/recipes/1093449/464x260/b3fe3ef85de0db2eeb2885a745e3a870.jpg?u=276503&p=1289557546",
+    "datePublished": "2010-04-08",
+    "description": "おかず、ご飯にもあうポン酢マヨ。うどんで試したらこれまたとっても美味しかったです＾＾",
+    "recipeYield": "１人",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ウインナー（鶏肉でも豚肉でも♪）",
+            "quantity": "１～２本"
+        },
+        {
+            "name": "うどん",
+            "quantity": "１玉"
+        },
+        {
+            "name": "★ポン酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "少々（小１くらい）"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはざくきり、ウインナーはスライス。フライパンをねっしウインナーを炒め、キャベツもさっといためる。",
+        "うどんをいれ少々の水か酒をいれほぐしいためる。★で調味して絡める。",
+        "器にもって黒胡椒をお好みでたっぷりふってください。",
+        "1月17日レシピマヨネーズの量大１～２から大１に変更。いれすぎでべちゃべちゃとゆうレポがいくつかあったので。すみません。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1093449",
+    "advice": "具はなんでも。味付けはお好みで加減してください。まよら～さんはマヨを加減しながらUPで＾＾♪",
+    "history": "ポン酢とマヨネーズはなんにでもあう！",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/焼きうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん ポン酢"
+    ],
+    "tsukurepo_count": "467",
+    "thumbnail": "https://img.cpcdn.com/recipes/1093449/100x141c/107c7efb8c0e53d7a670cf37cd1b93a4.jpg?u=276503&p=1289557546"
+}

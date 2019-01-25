@@ -1,0 +1,66 @@
+{
+    "name": "アボカド☆ツナの和風マヨしょうゆパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "haraya"
+    },
+    "image": "https://img.cpcdn.com/recipes/2387446/464x260/0096b4406953a29e7c0066b754bc9b71.jpg?u=4277749&p=1391718496",
+    "datePublished": "2013-10-26",
+    "description": "うちの定番です。加熱なしで混ぜるだけでソースが完成します。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "300g"
+        },
+        {
+            "name": "★アボカド（細かくしておく）",
+            "quantity": "１個"
+        },
+        {
+            "name": "★ツナ（汁を切っておく）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★めんつゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "100cc"
+        },
+        {
+            "name": "きざみのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに，★を入れて混ぜる。",
+        "標準時間にゆでたパスタをお湯切りして１に加えて混ぜる。",
+        "きざみのりをかけて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2387446",
+    "advice": "わさびとよく合います。大人の味のパスタ。",
+    "history": "すぐに食べたいときの時短レシピ。美味しくて食べ過ぎちゃいます。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド ツナ パスタ",
+        "アボカド ツナ パスタ めんつゆ",
+        "和風ツナマヨパスタ",
+        "ツナマヨ醤油パスタ"
+    ],
+    "tsukurepo_count": "98",
+    "thumbnail": "https://img.cpcdn.com/recipes/2387446/100x141c/675e3ded2fbeeb2cd303d8c8b3b556e6.jpg?u=4277749&p=1391718496"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "ニラとたまねぎのゴマ油風味のおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "あわよ"
+    },
+    "image": "https://img.cpcdn.com/recipes/261703/464x260/d6900278659c0bece8eea5c63808908b.jpg?u=246351&p=1214213197",
+    "datePublished": "2006-06-20",
+    "description": "ごま油がニラとよく合う♪冷たく冷やして食べると美味しいですよヽ(´∀｀*)ﾉ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "1束"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2玉"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "唐辛子",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを3センチくらいに切る。\r\nたまねぎはニラと同じような幅に切る。",
+        "1を軽く湯がいて、ざるにあけ、冷ましておく。\r\n私は一緒の鍋で先にたまねぎと投入して時間差でニラを入れています。",
+        "調味料類と和えて、お好みで唐辛子を振ってできあがり～。",
+        "冷蔵庫で冷たく冷やして食べると美味しいです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "261703",
+    "advice": "調味料はお好みで増減してください。白醤油が無い場合は、普通の醤油でもOKですが、白醤油のほうが美味しいですヽ(´∀｀*)ﾉ",
+    "history": "お兄の元彼女から教えてもらったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "たまねぎ",
+        "ごま油",
+        "白醤油"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/261703/100x141c/c3ea5e0962901ecccf95c6a5ec9a9f82.jpg?u=246351&p=1214213197"
+}

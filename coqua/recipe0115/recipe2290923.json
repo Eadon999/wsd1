@@ -1,0 +1,49 @@
+{
+    "name": "☆超簡単☆　トマトのオリーブオイルサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "☆沙良☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2290923/464x260/be79ff3c5776d4271829e43e53e315b4.jpg?u=3394821&p=1374238506",
+    "datePublished": "2013-07-19",
+    "description": "☆2014.06.18話題入り☆トマトが美味しく食べれるよ♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小１"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを８等分のくし切りにして、お皿に盛り付ける。",
+        "オリーブオイルを回しかけ、クレイジーソルトとパルメザンチーズをかけたら出来上がり。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2290923",
+    "advice": "",
+    "history": "トマトがいっぱいあったので、作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "オリーブオイル",
+        "クレイジーソルト",
+        "パルメザンチーズ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2290923/100x141c/45f833ffbdf0134664f8a9c85a53172e.jpg?u=3394821&p=1374238506"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "豚ひき肉ときゃべつのチャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "正和☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2285866/464x260/559e50b42269be640aafb3ed4f84d88b.jpg?u=2558943&p=1373778507",
+    "datePublished": "2013-07-14",
+    "description": "豚ひき肉ときゃべつだけで、スタミナたっぷりつけちゃうチャーハン！新しい食感を楽しめ！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗4杯分"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "180ｇ"
+        },
+        {
+            "name": "きゃべつ",
+            "quantity": "3/1個"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゃべつを切り、水にさらす。",
+        "フライパンにごま油を熱する。",
+        "豚ひき肉を先に炒め、全体に色が変わったらきゃべつを入れる。",
+        "ごはんを入れ、手早く混ぜる。",
+        "3と4が全体に混ざったら塩こしょうを入れる。",
+        "最後にしょうゆを少々入れる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2285866",
+    "advice": "豚ひき肉ときゃべつを混ぜ合わせるとき、水分をなくなるまでざっくりと炒めるように！！",
+    "history": "3DSのニンテンドービデオで配信された『おいしい3D』で出てた『豚ひき肉ときゃべつのリゾット』のチャーハン版を作ってみようかと思って。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "豚ひき肉",
+        "きゃべつ",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2285866/100x141c/6a37eda908a60a1af1a43e6dc5e204ec.jpg?u=2558943&p=1373778507"
+}

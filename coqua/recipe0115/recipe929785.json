@@ -1,0 +1,51 @@
+{
+    "name": "レタスとカニカマのナムル風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "海老マヨネーズ"
+    },
+    "image": "https://img.cpcdn.com/recipes/929785/464x260/1e3b6c10c5c7a3adccb3f376ce73a567.jpg?u=1384559&p=1254827585",
+    "datePublished": "2009-10-06",
+    "description": " 簡単かつヘルシーなナムル風サラダです♪ 2012/5/4話題入り感謝☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "1/2玉くらい"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1くらい"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1弱"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "テキトーに"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスを洗って、ちぎるのよ。",
+        "レタスに塩をかけて、しばらく放置プレイ。\nレタスがクタッとしたら、レタスを揉んで水分をしぼって、ごま油と和える。",
+        "味見をして塩分が足りないようだったら、塩を足してね。\n",
+        "最後にカニカマを混ぜて出来上がり～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "929785",
+    "advice": "さらに冷やすと美味しいのよ。１０月１３日、塩の量を訂正しました（汗大さじ1じゃ多すぎる。。。",
+    "history": "最近、ナムルにハマってるから。。で、カニカマが余ってたから入れてみました♪",
+    "categories": [
+        "今日のご飯・おかず/サラダ/韓国風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "塩",
+        "ゴマ油",
+        "カニカマ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/929785/100x141c/f28507fb4acb85003bab55b12de5458c.jpg?u=1384559&p=1254827585"
+}

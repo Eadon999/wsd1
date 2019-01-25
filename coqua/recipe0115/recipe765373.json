@@ -1,0 +1,59 @@
+{
+    "name": "とろろ昆布とえのきの薄味煮",
+    "author": {
+        "@type": "Person",
+        "name": "うめとろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/765373/464x260/5373122e1e208fa7501b0df185cece7c.jpg?u=333341&p=1340713743",
+    "datePublished": "2009-03-22",
+    "description": "エノキのシャキシャキ感と、とろろ昆布のトロ～リ感が合います。とろろ昆布がダシ代わりをしてくれます　　d(ﾟ-^*) ",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "400ｇ"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "○水",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "とろろ昆布",
+            "quantity": "５ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは石づきを切りほぐしておく。",
+        "鍋にえのきと○の調味料を入れ、えのきがしんなりするまで煮たら、とろろ昆布を加えてよく混ぜ合わせる。",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "765373",
+    "advice": "塩はお好みで加減してください。 薄味の方が美味しいですよ(*´▽｀)o",
+    "history": "引き出しで眠っていたとろろ昆布を使おうと考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "酒",
+        "みりん",
+        "とろろ昆布"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/765373/100x141c/165c7198179104b711b459163d0bc566.jpg?u=333341&p=1340713743"
+}

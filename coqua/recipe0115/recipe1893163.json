@@ -1,0 +1,50 @@
+{
+    "name": "冷やして美味しい！大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "raradesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1893163/464x260/094e62632277856b50aa8705d1c6d038.jpg?u=4419445&p=1343098268",
+    "datePublished": "2012-07-24",
+    "description": "大根をあっさり味で煮たら、冷蔵庫で冷た～くして、煮物も夏向きに",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "半分"
+        },
+        {
+            "name": "☆粉末だし",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を厚さ2ｃｍくらいに切りいちょう切りにする",
+        "鍋に大根がつかるくらいの水を入れ大根を１５分ゆでる。",
+        "2の中に☆をいれさらに５分にる。",
+        "さめたら煮汁ごと冷蔵庫で冷やし、ひえたらできあがり。",
+        "2012/09/18 \nつくれぽ１０人\n話題入りしました☆\nありがとうございます"
+    ],
+    "cookTime": null,
+    "recipe_id": "1893163",
+    "advice": "一晩おくと、味がしみこんで美味しく食べられます。うす味なので濃いほうがいい人は少し多めに調味料を入れてください",
+    "history": "大根消費で",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 冷製 煮物",
+        "大根 煮物 あっさり"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1893163/100x141c/ce8da4f28ef4b57b1f50169d05f23c47.jpg?u=4419445&p=1343098268"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "炒めねぎのかきたま汁",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/334109/464x260/4217b500688d68954270f9333d2a7f37.jpg?u=304393&p=1266750201",
+    "datePublished": "2007-02-21",
+    "description": "炒めたねぎを入れて溶き卵を入れた簡単味噌汁です♪ 薬味で終わりがちの味噌汁のねぎを主役に。 ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "３カップ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "ねぎは５㌢くらいのｻﾞｸ切りにして、少量の油を熱したフライパンでこんがり焼いてく。",
+        "出し汁を沸かし、ねぎを入れしんなりするまで煮る。\r\n",
+        "煮えたら味噌を溶かし、溶き卵に片栗粉を入れて菜箸でまんべんなく広がるように入れていく。"
+    ],
+    "cookTime": null,
+    "recipe_id": "334109",
+    "advice": "ねぎはあまりにも煮るとくたくたで美味しくなくなります。かきたま汁の場合片栗粉でとろみをつけるとやりやすいです。",
+    "history": "ねぎの味噌汁って甘くなって美味しい。よく作る味噌汁です♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ねぎ",
+        "卵",
+        "片栗粉",
+        "だし汁"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/334109/100x141c/c4cdb33cf1c4e1021bede97375b44556.jpg?u=304393&p=1266750201"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "鶏ささみのスイートチリマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1154145/464x260/6454db1327954b73d69bc6b4b56750ea.jpg?u=377757&p=1276094184",
+    "datePublished": "2010-06-09",
+    "description": "簡単でお弁当にぴったりの１品☆ピリッとおつまみにも◎",
+    "recipeYield": "２人～３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋を取り除き一口大に切る。\n塩コショウで下味をつけ、片栗粉をまぶす。\nピーマン、ちくわは細切りにする。",
+        "熱したフライパンにサラダ油を入れ、ささみを焼く。全体に焼き色が付いたらピーマンとちくわも入れて炒める。",
+        "ちくわにも焼き色が付いたら、火を弱めてスイートチリマヨソースとマヨネーズを入れ軽く炒めて完成！",
+        "http://ameblo.jp/uzukaji/entry-10557889699.html"
+    ],
+    "cookTime": null,
+    "recipe_id": "1154145",
+    "advice": "３では焦げないように素早く！",
+    "history": "生春巻き用に買ったスイートチリソースを使ってお弁当のおかずレシピを考えてみました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ささみ",
+        "ピーマン",
+        "ちくわ",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1154145/100x141c/c2ec74e2c3862ef52d03001bbc97906b.jpg?u=377757&p=1276094184"
+}

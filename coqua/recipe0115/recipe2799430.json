@@ -1,0 +1,43 @@
+{
+    "name": "小松菜ベーコン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2799430/464x260/40c808e02fda726cf184338867b8a41c.jpg?u=2495483&p=1410844531",
+    "datePublished": "2014-09-16",
+    "description": "手軽に１品",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１株"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１枚"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を食べやすい大きさに切る。ベーコンは細く切る。生姜は千切りにする",
+        "フライパンに全部を入れて炒める。小松菜の茎の部分を先に葉の部分は後で入れる",
+        "塩、胡椒する"
+    ],
+    "cookTime": null,
+    "recipe_id": "2799430",
+    "advice": "",
+    "history": "小松菜とベーコンが有ったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 ベーコン"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/2799430/100x141c/a1f7923ad929db2b2354ee2c215aa57f.jpg?u=2495483&p=1410844531"
+}

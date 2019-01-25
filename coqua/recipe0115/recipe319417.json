@@ -1,0 +1,58 @@
+{
+    "name": "トマトとわかめの中華風酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/319417/464x260/ba01d977efe0eb395ef1db023f23c513.jpg?u=304393&p=1225883829",
+    "datePublished": "2007-01-16",
+    "description": "いつもの酢の物にごま油を垂らすだけで中華風",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々（いれなくても可）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "数滴"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはザク切りに。 \r\nわかめは水で戻しておく。",
+        "☆の材料を合わせ、①と合え食べる直前まで冷蔵庫で冷やす。",
+        "食べる時ごま油を垂らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "319417",
+    "advice": "ごま油は最後にかけて下さい。酢・砂糖などは好みで調節してください。",
+    "history": "安かったけど甘くなかったトマト。 でも酢の物にするとなぜか甘くなって食べやすくなります。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "乾燥わかめ",
+        "酢",
+        "砂糖"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/319417/100x141c/6fa4b9159fa8bdda7521c94040caccc8.jpg?u=304393&p=1225883829"
+}

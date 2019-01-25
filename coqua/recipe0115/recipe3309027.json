@@ -1,0 +1,73 @@
+{
+    "name": "大根ときゅうりのタイ風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "switchlove"
+    },
+    "image": "https://img.cpcdn.com/recipes/3309027/464x260/41ce4ad743838d96ccc4ed62941d8eeb.jpg?u=9097996&p=1437478066",
+    "datePublished": "2015-07-21",
+    "description": "タイ風ドレでさっぱりとカロリー控えめ食材と組み合わせました。カテゴリ承認ありがとうございます。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "はるさめ",
+            "quantity": "30g"
+        },
+        {
+            "name": "大根",
+            "quantity": "５㎝"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "かにかま",
+            "quantity": "6本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁(ポッカレモンでも)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1   1/2"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1片"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1片"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりと大根は千切りにして塩でもみ、水気をしっかりとっておく。\n",
+        "春雨は表示通りに茹でて、水にとり水気を切っておく。\nかにかまは、ほぐしておく。",
+        "生姜と、にんにくは おろしておく。",
+        "ドレッシングの材料のレモン汁、醤油、砂糖、おろし生姜、おろしにんにくを合わせて冷やしておきます。",
+        "ボールの中に、大根、きゅうり、かにかま、春雨を入れてドレッシングであえて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3309027",
+    "advice": "野菜を切ったり、ドレッシングも合わせるだけなので特にないです。",
+    "history": "半端素材の大根の消費に、塩もみしてカサを減らすことで、たくさんたべれるかなぁと思って。 ",
+    "categories": [
+        "今日のご飯・おかず/サラダ/アジアンサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 タイ料理"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3309027/100x141c/183d60640a1c54c2e95bc59239022371.jpg?u=9097996&p=1437478066"
+}

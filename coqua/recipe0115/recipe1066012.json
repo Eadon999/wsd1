@@ -1,0 +1,78 @@
+{
+    "name": "簡単定番！肉うどん",
+    "author": {
+        "@type": "Person",
+        "name": "きぃたんぬ〜ぼ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1066012/464x260/cf9e40a541c4ad4b1ed9b71c5d33a920.jpg?u=2026191&p=1285411611",
+    "datePublished": "2010-03-12",
+    "description": "簡単でちょっと贅沢。ツルツルうどん。",
+    "recipeYield": "2",
+    "recipeIngredient": [
+        {
+            "name": "冷凍うどん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "牛肉薄切り",
+            "quantity": "200g"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "★料理酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "どんぶり二杯分※お好みに調整"
+        },
+        {
+            "name": "★料理酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁を煮立て、つゆ用の欄の★をいれ、つゆをつくります。沸騰したら、冷凍うどんをいれ、茹でていきます。",
+        "うどんが茹であがる間に、牛肉をさっと炒めて、肉用の味つけ欄の★を上から順番に入れて味付けします。",
+        "どんぶりにうどんとつゆをいれ、上に味付けした牛肉と、刻みネギを盛り付けしたら、出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1066012",
+    "advice": "冷凍うどんが意外にうまい。つゆは塩、お肉は砂糖を気持ち多めに味付けするのがコツ。そばでもうまくいきます。",
+    "history": "九州出身の我が家のうどんは、九州の味。小腹がすいたら、食べる一品。少し塩がきいたつゆとお肉の甘さにはまります。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冷凍うどん",
+        "牛肉薄切り",
+        "万能ネギ",
+        "料理酒"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/1066012/100x141c/9e94b47d282d023e5fa2da1d1ba9231f.jpg?u=2026191&p=1285411611"
+}

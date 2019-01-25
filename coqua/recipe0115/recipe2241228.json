@@ -1,0 +1,54 @@
+{
+    "name": "簡単おいしい☆ツナとレタスのサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "jjcream"
+    },
+    "image": "https://img.cpcdn.com/recipes/2241228/464x260/8b9491f71ca7380090422b443a337bf7.jpg?u=1156502&p=1369921280",
+    "datePublished": "2013-05-30",
+    "description": "ライトタイプのツナ缶を利用し、缶汁も無駄なく活用☆旨みを閉じ込めたサラダです。おつまみにもお勧めです☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ツナ缶(ライトタイプ)",
+            "quantity": "1缶"
+        },
+        {
+            "name": "レタス",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは食べやすい大きさに切り、よく洗って水気を切っておきます。\n",
+        "ボウルにレタスを入れ、ツナ缶の缶汁で和えます。\nツナにレモン汁をかけておきます。\n",
+        "ボウルにツナを入れ、ガーリックパウダー・塩で味を調えます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2241228",
+    "advice": "お好みで黒こしょうをふると、味がしまります。ツナにかけるレモン汁はお好みで調整してくださいね。",
+    "history": "ツナサラダを食べたくなり、ちょっとアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ツナ缶",
+        "レタス",
+        "ガーリックパウダー",
+        "レモン果汁"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2241228/100x141c/07771dc614ca58b56ad4bbb14260b5d3.jpg?u=1156502&p=1369921280"
+}

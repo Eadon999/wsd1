@@ -1,0 +1,50 @@
+{
+    "name": "大葉キムチの豚肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2777828/464x260/0ed988ff1dadb790fe1b3b8e92e785c8.jpg?u=1298841&p=1409980814",
+    "datePublished": "2014-09-30",
+    "description": "豚キムチの旨味に大葉が爽やかに香る、おかずにもおつまみにもなる一品。冷めても美味しいのでお弁当にもおすすめです☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "１０枚（２００ｇ）"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２０枚"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を広げて大葉を縦に2枚並べ、その上にキムチを縦に細長くのせて、下からほどけないようきっちり巻いていく。",
+        "ゴマ油を引いたフライパンに巻き終わりを下にして並べてコショウを振り、中火で転がしながら全面を焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2777828",
+    "advice": "巻き終わりの部分がしっかりとくっついてから、転がして他の面も焼いてくださいね。",
+    "history": "お箸でつまめてご飯がすすむ、お弁当にもお酒のおつまみに合いそうなおかずを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチ 豚肉巻き"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2777828/100x141c/cf07ac4c71dc6954aeb94156e0d2e4ae.jpg?u=1298841&p=1409980814"
+}

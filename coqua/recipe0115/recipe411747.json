@@ -1,0 +1,55 @@
+{
+    "name": "温泉卵とネギとゴマ油のおそうめん",
+    "author": {
+        "@type": "Person",
+        "name": "アキコフスキー"
+    },
+    "image": "https://img.cpcdn.com/recipes/411747/464x260/fa701a8787175afbfc80804d07d7a837.jpg?u=543840&p=1275139713",
+    "datePublished": "2007-07-31",
+    "description": "喜んでもらえる率が高いおそうめん。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "きざみ海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "きざみねぎ",
+            "quantity": "かなり多めに"
+        },
+        {
+            "name": "ｈana華奈mamaさんの温泉卵（ID：407533）他、半熟卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "めんつゆ（３倍）",
+            "quantity": "（希釈せずそのまま）大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんを茹でて冷水にさらす。具材を順に盛り付ける。",
+        "めんつゆとごま油を回しかけ、よくかきまぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "411747",
+    "advice": "そうめんや味付けには技術不要のため、「温泉卵つくり」を頑張ってください",
+    "history": "hana華奈mamaさんの温泉卵で、なんとなくの組み合わせ。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そうめん",
+        "温泉卵"
+    ],
+    "tsukurepo_count": "531",
+    "thumbnail": "https://img.cpcdn.com/recipes/411747/100x141c/9d18ef5e619634b86b71cb62fb292713.jpg?u=543840&p=1275139713"
+}

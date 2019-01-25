@@ -1,0 +1,64 @@
+{
+    "name": "☆こんにゃくのきんぴら☆",
+    "author": {
+        "@type": "Person",
+        "name": "mikitcchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/772725/464x260/47b8eed652a6bca6af22f08804869b2d.jpg?u=1013206&p=1238475736",
+    "datePublished": "2009-03-30",
+    "description": "何にでも使えるキンピラの味付けこんにゃくバージョンはとてもヘルシー♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1本"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "お好み"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１半～大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごま油を引いたフライパンを中火にかけ人参・こんにゃくを\r\n５分ほど炒める",
+        "味付けしてゴマをまぶしてできあがり!\r\n\r\n簡単でしょ～♪\r\nぶなシメジ等入れても美味しいよ♬\r\n",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "772725",
+    "advice": "",
+    "history": "何にでもあうキンピラの味付け",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味付けこんにゃく"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/772725/100x141c/423504ddbb1f003e65f14c4a962c9270.jpg?u=1013206&p=1238475736"
+}

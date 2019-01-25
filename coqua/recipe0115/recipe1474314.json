@@ -1,0 +1,60 @@
+{
+    "name": "アスパラとベーコンの玉子炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1474314/464x260/c855c1f27cccfe04e73fcdacd294a69f.jpg?u=921598&p=1366601667",
+    "datePublished": "2011-06-19",
+    "description": "電子レンジ活用で簡単調理！アスパラの歯ごたえとベーコンの旨みに甘い炒り卵がマッチ☆彩りも鮮やかな一品に仕上がりましたぁ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "6本"
+        },
+        {
+            "name": "ブロックベーコン",
+            "quantity": "160ｇ"
+        },
+        {
+            "name": "●卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンは1ｃｍ幅の細切りにして電子レンジで約50秒間加熱しておく。",
+        "アスパラは斜めに切って電子レンジで約1分30秒間加熱しておく。",
+        "フライパンにオリーブオイルを熱し、●の溶き卵を入れて大きめの炒り卵を作る。",
+        "3に、1のベーコンと2のアスパラを加えて、コンソメと塩・こしょうで味付けしたら出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1474314",
+    "advice": "3で、ゆっくり菜箸でかき混ぜると大きめの炒り卵が出来ますよぉ♪",
+    "history": "北海道のお土産でアスパラがあったので作ってみましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベーコンエッグ レンジ"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/1474314/100x141c/b22afdaa09a9e6ecdd90cbc0e7492f68.jpg?u=921598&p=1366601667"
+}

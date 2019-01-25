@@ -1,0 +1,63 @@
+{
+    "name": "定番のぶり大根を簡単に♪",
+    "author": {
+        "@type": "Person",
+        "name": "るくるんるん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1817263/464x260/cc29cc5115a98db8b364a0245aee3224.jpg?u=2737802&p=1337239756",
+    "datePublished": "2012-05-17",
+    "description": "2012/10/27話題入り感謝です♪切り身を使って定番の味が簡単に出来ちゃいます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "３切れ"
+        },
+        {
+            "name": "大根",
+            "quantity": "２０cmくらい"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "水",
+            "quantity": "２カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき、２センチくらいの輪切りにしやや柔らかくなるまで茹でる。",
+        "ぶりは１切れを３〜４つに切り、まな板に並べ塩少々（分量外）をふり少し置き臭みを取る。",
+        "ぶりの上で大根の湯を切る。（半量かけて裏返す）",
+        "鍋に１の大根と調味料と薄切りにしたしょうがを入れ煮立ったら３のぶりも入れ弱火で大根が柔らかくなるまで煮る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1817263",
+    "advice": "",
+    "history": "美味しそうな天然ぶりの切り身を見つけたので。骨がないから食べ易いかな？と思い作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり",
+        "大根",
+        "しょうが",
+        "酒"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1817263/100x141c/40b894cf984eb32f52ad5e18a59c7c33.jpg?u=2737802&p=1337239756"
+}

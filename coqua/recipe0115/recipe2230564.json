@@ -1,0 +1,64 @@
+{
+    "name": "アボガド×キュウリ×トマトの和風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "JILL☆MAMA"
+    },
+    "image": "https://img.cpcdn.com/recipes/2230564/464x260/0d4921be88fce891565a02e18756c1c6.jpg?u=6159961&p=1369127809",
+    "datePublished": "2013-05-21",
+    "description": "簡単和えるだけのぱぱっとサラダ。鰹節とゴマが決め手です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アボガド",
+            "quantity": "半分"
+        },
+        {
+            "name": "トマト",
+            "quantity": "小２個"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1本"
+        },
+        {
+            "name": "すりごま(白)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "キュウリを乱切りにして、塩をまぶし10分ほど置く。その間に、トマト、アボガドも乱切りにする。",
+        "キュウリの水気を切り、トマトとアボガドと混ぜ、煎りゴマで和える。",
+        "残りの材料を加えて混ぜてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2230564",
+    "advice": "鰹節を入れることでうまみがアップします！！",
+    "history": "いそがしい朝の1品によく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド トマト きゅうり ごま油",
+        "アボカド きゅうり サラダ"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/2230564/100x141c/8811f9d9c91d691ed514e0169152cfa6.jpg?u=6159961&p=1369127809"
+}

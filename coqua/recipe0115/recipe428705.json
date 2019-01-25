@@ -1,0 +1,57 @@
+{
+    "name": "ほうれん草とモッッアレッラのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/428705/464x260/55157e219f85ac72a18d5d7da31f78c1.jpg?u=535158&p=1214217192",
+    "datePublished": "2007-09-11",
+    "description": "オリーブオイルと塩コショウ、粉チーズをまぶしただけの簡単で美味しいサラダは、本格イタリアンの味。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "モッツァレッラ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "くるみ",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は食べやすい大きさに切りさっと茹でる。",
+        "オリーブオイル、塩コショウ、胡桃を混ぜ合わせる。",
+        "ほうれん草とモッツアレッラチーズを合わせ、ドレッシングをかけて、さっくり混ぜる。",
+        "クラフトのパルメザンチーズをまぶし出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "428705",
+    "advice": "*ドレッシングにアンチョビを加えても美味しいです。*胡桃が無くても、他のナッツ類を代用しても美味しいです。",
+    "history": "簡単ですが、一番美味しいサラダの食べ方。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/サラダ/イタリアンサラダ",
+        "その他/おもてなし料理/お客様いろいろ！/イタリアンでおもてなし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "モッツアレラ ほうれん草 サラダ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/428705/100x141c/f6fb19d156f33367de7a6cb13f274c78.jpg?u=535158&p=1214217192"
+}

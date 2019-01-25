@@ -1,0 +1,54 @@
+{
+    "name": "ベーコンと芽キャベツの簡単あったかスープ",
+    "author": {
+        "@type": "Organization",
+        "name": "サガミハム"
+    },
+    "image": "https://img.cpcdn.com/recipes/1640477/464x260/a90b240af8f1fb8edc6a1b859d56b986.jpg?u=3073992&p=1322627901",
+    "datePublished": "2011-11-30",
+    "description": "寒い冬にぴったりのあたたかいスープです。ベーコンがスープの味をひきたてます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ベーコンスライス",
+            "quantity": "４枚"
+        },
+        {
+            "name": "芽キャベツ",
+            "quantity": "８個"
+        },
+        {
+            "name": "ジャガイモ",
+            "quantity": "中１個"
+        },
+        {
+            "name": "顆粒スープ",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンは、３センチ幅に切っておく。",
+        "芽キャベツは根元を切り半分に切っておく。じゃがいもは皮をむいて６個に切り分ける。 \n",
+        "鍋にカップ２（４００ｍｌ）の水で乾燥スープを溶かす。そこに［1］～［3］の材料も入れて、中火で１０分程煮る。",
+        "塩・こしょうで味を調える。\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1640477",
+    "advice": "ベーコンには旨みがたっぷりなので、シンプルな味付けでも、美味しいです。",
+    "history": "これから寒くなる冬にはあったかスープが欲しくなりますね。スープにコクが出るベーコンと冬が旬の芽キャベツを使ってみました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "芽キャベツ スープ",
+        "芽キャベツ ベーコン スープ",
+        "芽キャベツ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1640477/100x141c/cf88d7fe64803b6c4600cca08d7fcc90.jpg?u=3073992&p=1322627901"
+}

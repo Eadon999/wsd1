@@ -1,0 +1,41 @@
+{
+    "name": "お弁当や箸休めに簡単♪水菜のなめ茸和え",
+    "author": {
+        "@type": "Person",
+        "name": "FUKIKO．"
+    },
+    "image": "https://img.cpcdn.com/recipes/2520792/464x260/61c39be2823a4bd37ab7ed1193b4e89a.jpg?u=4866521&p=1393388051",
+    "datePublished": "2014-02-26",
+    "description": "調理時間は10分以内。水菜はさっと湯通しするだけ！箸休めやお弁当にぜひ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/4束"
+        },
+        {
+            "name": "なめ茸",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "なめたけは手作りです^^レシピID : 2113402\n市販のものでももちろんOKです",
+        "水菜は３cm程度の長さに切る",
+        "沸騰したお湯の中に入れ、すぐに冷水に取り水気を絞る",
+        "なめたけと和えれば完成。お好みで柚子こしょうやしょうがを添えても美味です♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2520792",
+    "advice": "水菜は茹で過ぎないこと。さっとお湯にくぐらせる程度でOKです。",
+    "history": "なめたけを作り置きしているので、なめたけを使ったレシピをいろいろ作ります。お弁当用に少しだけ作れるのも助かります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 弁当"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2520792/100x141c/d7b6f9d553962f35f30b0c6a1f71d522.jpg?u=4866521&p=1393388051"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "かぶの柚子風味甘酢漬け",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2948961/464x260/8ad4d688ac506d790b1e19aa096d160d.jpg?u=4819316&p=1420270722",
+    "datePublished": "2015-01-03",
+    "description": "15/11/28話題入り有難うございます、かぶを甘酸っぱく、柚子の香りを効かせていただきます、お酒によく合いますよ",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "1個"
+        },
+        {
+            "name": "柚子",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ４"
+        }
+    ],
+    "recipeInstructions": [
+        "かぶは皮をむいてスライスし、塩を振っておく",
+        "柚子は白い部分を除くように皮をむいて千切りにする",
+        "ボウルに柚子の実を絞り、酢と砂糖を合わせて甘酢を作る",
+        "かぶの水けを絞って３と一緒にして和え、ビニール袋に入れて冷蔵庫で一晩漬ける"
+    ],
+    "cookTime": "PT120M",
+    "recipe_id": "2948961",
+    "advice": "かぶに塩を振って、出てくる水気をしっかり絞ることで、甘酢が染みて美味しく食べられます",
+    "history": "昔、お正月に母親がよく作ってくれました。こんな感じかなとレシピを推察しながら作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ ゆず",
+        "かぶ 甘酢"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2948961/100x141c/af6c5c99e00d781a83854b086626fc26.jpg?u=4819316&p=1420270722"
+}

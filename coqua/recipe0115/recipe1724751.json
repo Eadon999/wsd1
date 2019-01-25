@@ -1,0 +1,50 @@
+{
+    "name": "ホクホクじゃがいもマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "あぁるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1724751/464x260/76fc5199cb723149a024d95b49704d3a.jpg?u=803201&p=1330585549",
+    "datePublished": "2012-03-01",
+    "description": "マヨネーズのコク、青海苔の風味よくパクパク食べちゃいます♫",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大1～2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮を剥き食べやすい大きさに切ってレンジで柔らかくなるまで加熱する。",
+        "熱したフライパンにマヨネーズを入れ1を炒める。",
+        "青のり、塩を合わせて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1724751",
+    "advice": "塩加減はお好みで。",
+    "history": "マヨネーズが好きなのでよく作ります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "マヨネーズ",
+        "塩",
+        "青のり"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/1724751/100x141c/7e0e5646731b894a6ef5b8864bd6f0cd.jpg?u=803201&p=1330585549"
+}

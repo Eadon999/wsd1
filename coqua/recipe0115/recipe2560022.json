@@ -1,0 +1,56 @@
+{
+    "name": "ほうれん草と白菜の明太子あえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2560022/464x260/55fdbc4ff5322b8145a9a03f911416b5.jpg?u=7402421&p=1395827812",
+    "datePublished": "2014-03-27",
+    "description": "♪♪感謝♪♪　～2018/6/14　話題入り！ありがとうございます♪ノンオイルで低カロリーな一品♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "130g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "160g"
+        },
+        {
+            "name": "明太子（またはタラコ）",
+            "quantity": "50g"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は、熱湯で2分ほどゆでてから、1ｃｍ幅に切り、冷ましておく。",
+        "ほうれん草は、さっと塩ゆでして、冷水にとった後、長さ4cmに切る。",
+        "明太子の皮を外し、調味料と合わせて、ぎゅーっとしぼった白菜とほうれん草をあえたら、出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2560022",
+    "advice": "醤油は、香り付けです。明太子の味によって、量を調節して下さい。",
+    "history": "簡単に出来る、酒の肴を、と考えて作りました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 明太子和え",
+        "辛子明太子 白菜"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/2560022/100x141c/c52803693b69b4d09cff0cbeff49a2d8.jpg?u=7402421&p=1395827812"
+}

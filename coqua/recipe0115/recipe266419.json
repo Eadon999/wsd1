@@ -1,0 +1,51 @@
+{
+    "name": "豆腐で美味しいね。～豆腐編～",
+    "author": {
+        "@type": "Person",
+        "name": "メーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/266419/464x260/206f3f52a17c6d769a282798517a0966.jpg?u=264499&p=1214213293",
+    "datePublished": "2006-07-11",
+    "description": "チーズと海苔をはさんで焼くだけの簡単料理！！ぜひぜひ。 。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適宜"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "適宜"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "醤油、みりん",
+            "quantity": "各大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐の水気をきっておく。\r\n５ミリくらいの厚さに切って、小麦粉をまぶす。",
+        "海苔、チーズを豆腐の大きさに合わせてはさむ。",
+        "フライパンに油を熱して、焼く。両面焼けたら調味料を加え出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "266419",
+    "advice": "豆腐がフライパンにくっつきやすいのでひっくり返すとき注意してください。",
+    "history": "お友達のお弁当に入っていたお豆腐が美味しそうで教えてもらって、たれはアレンジしました。チビ助も喜ぶあまだれです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とろけるチーズ 簡単料理"
+    ],
+    "tsukurepo_count": "230",
+    "thumbnail": "https://img.cpcdn.com/recipes/266419/100x141c/9597e6c03753b5144fdadddf6e0f5ba9.jpg?u=264499&p=1214213293"
+}

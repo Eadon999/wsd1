@@ -1,0 +1,65 @@
+{
+    "name": "にんじんの味噌バターきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/352864/464x260/d90db0eaaca335cf100e9a645906ec84.jpg?u=230354&p=1214215211",
+    "datePublished": "2007-03-31",
+    "description": "たまにはいつもとちょっとちがったきんぴらも♪味噌バターでご飯がめっちゃ進みます♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "大1本"
+        },
+        {
+            "name": "◎味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは千切りにする。◎を合わせておく。",
+        "サラダ油をひいたフライパンでにんじんを炒める。",
+        "しんなりしたら、◎を加えて、さらに炒める。",
+        "よくからまったら、仕上げにバターを入れて混ぜ、溶けて全体にからまったら出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "352864",
+    "advice": "にんじんはポリポリとちょっと食感が残るくらいがおいしいです♪ちょっと甘めです。みりん、砂糖はお好みで加減してくださいね。",
+    "history": "和食にも洋食にも合う、簡単な1品を作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": [
+        "味噌バター 5位"
+    ],
+    "related_keywords": [
+        "にんじん",
+        "にんじんの味噌バターきんぴら",
+        "にんじん きんぴら",
+        "人参 味噌バター"
+    ],
+    "tsukurepo_count": "2203",
+    "thumbnail": "https://img.cpcdn.com/recipes/352864/100x141c/e6781fce9c2cf919089cf55ed83f9054.jpg?u=230354&p=1214215211"
+}

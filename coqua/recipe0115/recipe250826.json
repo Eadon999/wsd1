@@ -1,0 +1,64 @@
+{
+    "name": "定食屋さんの　　　生姜焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "りなまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/250826/464x260/429a925263ae40a04f620b2ddba926b2.jpg?u=232175&p=1214212953",
+    "datePublished": "2006-04-25",
+    "description": "うま～いこってり定食屋さんで食べるあの生姜焼き定食の味♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/2玉"
+        },
+        {
+            "name": "生姜",
+            "quantity": "２片"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ３・５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにすりおろした生姜とにんにくをいれて、調味料すべていれる。豚肉と玉葱も入れ混ぜて、１０分ほどおく。",
+        "フライパンに油をひい\r\nて熱する。\r\nまず具だけを入れて炒める。肉の色が変わったら、残り汁も入れて炒める。\r\n",
+        "玉葱がしんなり、汁がとろりと絡んできたら出来上がり♪",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "250826",
+    "advice": "時間がないときは１０分おかず、ぱっと炒めてしまいます。",
+    "history": "手早く美味しい定食屋の味を再現しました☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "定食屋さんの生姜焼き"
+    ],
+    "tsukurepo_count": "105",
+    "thumbnail": "https://img.cpcdn.com/recipes/250826/100x141c/ae9e17cee9f20dbc1eacc0d41891f1a7.jpg?u=232175&p=1214212953"
+}

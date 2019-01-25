@@ -1,0 +1,56 @@
+{
+    "name": "なすピーマン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2064052/464x260/0a20c384924fe75c0e04643d537b1e27.jpg?u=4819316&p=1370080138",
+    "datePublished": "2012-12-22",
+    "description": "13/8/5話題入りしました、簡単にできてビールに合います、もちろんご飯にも合います",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "１本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは縦半分に切り、５ミリの幅に切る、ピーマンは縦半分に切って種を取り除き５ミリの幅に切る",
+        "フライパンに分量外のサラダ油を熱し、なすとピーマンを炒め塩・こしょうを振る",
+        "しんなりしてきたら、フライパンの周囲からしょうゆを回し入れ軽く混ぜてできあがり",
+        "お皿に盛って、ごまをふりかけお召し上がり下さい"
+    ],
+    "cookTime": null,
+    "recipe_id": "2064052",
+    "advice": "しょうゆをフライパン周囲から回し入れることで香ばしさを増します",
+    "history": "昔よく通った居酒屋にあったメニュー、好きでした。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ピーマン",
+        "しょうゆ",
+        "炒りゴマ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2064052/100x141c/da4b6ac197b1f8d3d9deb48c6a8e46e8.jpg?u=4819316&p=1370080138"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "アスパラベーコン巻きの和風ペペロンソテー",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4451701/464x260/ed8c68ec4020256c2634b27fe0105def.jpg?u=9664115&p=1491226335",
+    "datePublished": "2017-04-03",
+    "description": "居酒屋の定番アスパラベーコンをポン酢でさっぱり和風のペペロンチーノ風に。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "2本"
+        },
+        {
+            "name": "スライスベーコン",
+            "quantity": "6枚"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "きざみにんにく",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "鷹の爪・塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラの根元をポキっと折る。",
+        "のこりを3等分に切る。",
+        "スライスベーコンを巻き巻き。\nつまようじに刺す。",
+        "フライパンにオリーブオイル・きざみにんにく・鷹の爪・塩を入れて、3が軽く焦げ目がつくまで中火で焼く。",
+        "弱火にしてフタをして火を中まで通す。2分ぐらいでしょうか。",
+        "最後にポン酢を加えて和えたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4451701",
+    "advice": "アスパラを下ゆでする場合はフタをして火を通す必要はありません。",
+    "history": "ただのアスパラベーコン巻きよりももっとおいしく。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラベーコン巻き"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4451701/100x141c/1952d278fa75d076555795e71abe809c.jpg?u=9664115&p=1491226335"
+}

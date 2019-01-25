@@ -1,0 +1,59 @@
+{
+    "name": "新キャベツとたくあんのゆかり和え",
+    "author": {
+        "@type": "Person",
+        "name": "miyuki12"
+    },
+    "image": "https://img.cpcdn.com/recipes/803562/464x260/45cb29dfd6804e89a3e09d9c89403b41.jpg?u=487719&p=1291766648",
+    "datePublished": "2009-05-09",
+    "description": "ゆかりが入ってあっさり美味♡箸休めにどうぞ♡",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ（新キャベツが最適）",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "たくあん",
+            "quantity": "４ｃｍくらい(５０ｇくらい）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ(お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "新キャベツは千切りにして耐熱容器に入れ、レンジ５００Ｗで２分加熱し、水気をしっかり切り、粗熱をとっておく。",
+        "たくあんも千切りにする。",
+        "全てを和えればできあがり。",
+        "キャベツの代わりに白菜等の野菜でも美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "803562",
+    "advice": "新キャベツはお好みのかたさでどうぞ。我が家のレンジでは２分加熱で少ししんなりするくらいでした。もちろん新キャベツでなくてもＯＫ。その場合は加熱は少し長めに。たくあんの量はあくまで目安です。たくあんの塩分によって調節して下さい。",
+    "history": "あり合わせで作ったところ美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "たくあん",
+        "マヨネーズ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/803562/100x141c/e4dc707a49efaabbd76562bbfb85c2ca.jpg?u=487719&p=1291766648"
+}

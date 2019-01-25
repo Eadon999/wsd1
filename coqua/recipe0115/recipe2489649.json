@@ -1,0 +1,75 @@
+{
+    "name": "ターツァイ挽肉炒め",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2489649/464x260/cf297315e2f9b93941dcad872e723871.jpg?u=3900353&p=1391525268",
+    "datePublished": "2014-02-05",
+    "description": "オイスターソース味の炒め物。",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "ターツァイ",
+            "quantity": "1株250g"
+        },
+        {
+            "name": "豚挽肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "生姜",
+            "quantity": "薄切り1枚"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1+1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "紹興酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1+1/2"
+        },
+        {
+            "name": "がらスープ",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ターツァイは茎と葉に分ける。生姜は微塵切り。",
+        "フライパンにごま油大さじ1をひき、生姜を炒める。香りが立ってきたら挽肉を加えて炒める。",
+        "砂糖、紹興酒、醤油大さじ1を順に加えて炒める。ターツァイの茎、オイスターソース、がらスープを加える。",
+        "ターツァイの葉、醤油大さじ1/2、ごま油大さじ1/2を加えて炒める。最後に大さじ1の水で溶いた片栗粉でとろみをつける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2489649",
+    "advice": "水溶き片栗粉を加えたら焦らずにキチンと加熱する。とろみをつければ挽肉が絡みつき食べやすくなる。",
+    "history": "ターツァイを頂いたので作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/豚挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ターサイ",
+        "ターサイ ひき肉",
+        "ターサイ スープ",
+        "ターサイ　豚ひき肉"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/2489649/100x141c/b0bc1c5a48eca7d41caae50a0e51d0ee.jpg?u=3900353&p=1391525268"
+}

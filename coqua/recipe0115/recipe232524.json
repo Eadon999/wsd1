@@ -1,0 +1,57 @@
+{
+    "name": "ほくほく☆蓮根ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "せつぶんひじき"
+    },
+    "image": "https://img.cpcdn.com/recipes/232524/464x260/68d155e3209b1c913b9306f37dbc1dd0.jpg?u=57172&p=1410917781",
+    "datePublished": "2005-12-30",
+    "description": "2015年10月Yahoo!JAPAN紹介。蓮根ほくほく！おかずの邪魔をしないやさしい味の炊き込みご飯です。",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "蓮根",
+            "quantity": "１５０ｇ程度"
+        },
+        {
+            "name": "水",
+            "quantity": "４７０ｃｃ"
+        },
+        {
+            "name": "☆和風だしのもと",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆薄口醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根の皮をむいて６ｍｍ厚さのイチョウ切りにして水にさらす。\n米はといでざるにあげ水を切った後、分量の水に３０分ほど浸す。",
+        "☆を加えてひと混ぜし、水をきった蓮根を上に乗せて炊く。\n蓋して中火→沸いたら弱火１０分→火を消して１０分蒸らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "232524",
+    "advice": "沸騰してお湯が吹きこぼれないよう注意。",
+    "history": "たくさんいただいた蓮根を消費しようと考えました。食べるときにお塩をぱらっとふっても◎。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "蓮根",
+        "薄口醤油"
+    ],
+    "tsukurepo_count": "188",
+    "thumbnail": "https://img.cpcdn.com/recipes/232524/100x141c/42f6a60b79b079ee568c30ca2a49cb16.jpg?u=57172&p=1410917781"
+}

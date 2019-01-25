@@ -1,0 +1,55 @@
+{
+    "name": "柚子胡椒香る　ちくきゅうマヨネーズ和え。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/670879/464x260/761f7d72ae098a8acf1b9d401070e019.jpg?u=970306&p=1313359359",
+    "datePublished": "2008-10-25",
+    "description": "2010/8/16話題入りしました。皆さんに感謝。ピリッと美味しい和え物です。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "大１本"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "中１本"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●柚子胡椒",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "ほんのちょっと"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわときゅうりは、それぞれ長さ３～４センチの細切りにする。",
+        "ボールに●の材料を入れてよく混ぜ合わせ、①を加えて和える。",
+        "彩にパプリカパウダーをふりかけて。ごまをふりかけても美味しいです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "670879",
+    "advice": "特にないです。マヨネーズ・柚子胡椒の量はお好みにより調節してください。",
+    "history": "マヨネーズと柚子胡椒の組み合わせが大好きな主人。 きゅうり、ちくわと一緒に和えて、簡単な副菜を作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "きゅうり",
+        "マヨネーズ",
+        "柚子胡椒"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/670879/100x141c/cd4b24b2454aea2b706dd9be0dbad423.jpg?u=970306&p=1313359359"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "定番。明太子スパゲティ。",
+    "author": {
+        "@type": "Person",
+        "name": "リハビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/567995/464x260/1e0c0c7d371b873c5e07e1e1a778f5b2.jpg?u=842330&p=1214219896",
+    "datePublished": "2008-05-11",
+    "description": "定番の和風パスタ。バターを使わずに作りました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "明太子",
+            "quantity": "２腹"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "昆布茶（あれば）",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "生クリームもしくは牛乳",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯を沸かし、沸いたら塩を入れ（１㍑に対して小さじ１）パスタを茹でる。",
+        "大葉を細切りにしておく。ボールに明太子・マヨネーズ・オリーブ油・生クリーム、昆布茶を入れよく混ぜておく。",
+        "茹で上がったパスタをボールに入れ、ソースとよく絡める。\r\n皿に盛り、大葉を添えて出来上がり。\r\nお好みでレモン汁や海苔を添えても美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "567995",
+    "advice": "明太子の皮部分は取り除いておく。",
+    "history": "冷蔵庫に本日賞味期限の明太子を発見。もうこれしかないでしょう（笑）",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太子",
+        "パスタ",
+        "大葉",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/567995/100x141c/285de1d2611d3e56585ec304ca99a0f1.jpg?u=842330&p=1214219896"
+}

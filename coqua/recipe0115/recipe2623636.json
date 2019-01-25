@@ -1,0 +1,56 @@
+{
+    "name": "トマトと大根千切りのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2623636/464x260/fc7a934d566392b68bf1616d8004feef.jpg?u=3280486&p=1399852197",
+    "datePublished": "2014-05-12",
+    "description": "簡単！野菜をたくさん摂れるサラダです☆特製ドレッシングが野菜と良く合いますよ♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト（輪切り）",
+            "quantity": "1個"
+        },
+        {
+            "name": "ダイコン（千切り）",
+            "quantity": "100g"
+        },
+        {
+            "name": "ニンニク・生姜（みじん切り）",
+            "quantity": "各1片"
+        },
+        {
+            "name": "醤油・ごま油",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "白煎りゴマ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お皿にトマト⇒大根を盛り付けます。",
+        "混ぜ合わせた〈ドレッシング〉をかけたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2623636",
+    "advice": "大根は千切りにしたら水で洗って、良く水気を切ると、シャキッとした食感を楽しめますよ★",
+    "history": "冷蔵庫に余っていたトマトと大根を美味しく食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根トマトサラダ",
+        "大根千切り",
+        "大根 トマト"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2623636/100x141c/abd30a449aa227c4e246adea6bb8012c.jpg?u=3280486&p=1399852197"
+}

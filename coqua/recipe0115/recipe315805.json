@@ -1,0 +1,58 @@
+{
+    "name": "韓国風ブリステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "nao-cafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/315805/464x260/f629df8ff8591b27c0467db31a532335.jpg?u=295331&p=1214214406",
+    "datePublished": "2007-01-05",
+    "description": "こんがりソテーしたブリにテンメンジャンベースの甘辛ソースで。一緒にほうれん草と人参のナムルともやしのソテーを添えて韓国プレートに。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ブリの切り身",
+            "quantity": "２匹"
+        },
+        {
+            "name": "テンメンジャン",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリに軽く塩こしょうし、ごま油を熱したフライパンで両面がこんがりと色づくまで焼いていく。",
+        "小鍋に酒、みりんを入れ煮きり、そこにテンメンジャン、醤油、豆板醤を加えて少し温めてソースを作る。",
+        "焼けたブリに２のソースをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "315805",
+    "advice": "副菜のナムルは茹でたほうれん草と人参をごま油大さじ１と醤油大さじ１／２、塩少々、おろしニンニク少々、胡麻で和えたもの。もやしはごま油で炒めて塩、胡椒で味を付けたものです。",
+    "history": "旬のブリをこんがり焼いて韓国風にアレンジしてみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブリの切り身",
+        "テンメンジャン",
+        "酒",
+        "醤油"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/315805/100x141c/237611f1c4cbf55b9c00b51902fb32dd.jpg?u=295331&p=1214214406"
+}

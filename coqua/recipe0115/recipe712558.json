@@ -1,0 +1,53 @@
+{
+    "name": "れんこんボール◎娘に伝える母の味",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/712558/464x260/b26d228c7e0262d05f636ec5d9e283be.jpg?u=746099&p=1231753872",
+    "datePublished": "2009-01-12",
+    "description": "2012.12.5.話題入りしました♬ふんわり・もっちり鶏ミンチ入りのれんこんボールです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "とりミンチ",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "小１／４弱"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小１／２"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小１／８"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は皮をむき、すりおろす。",
+        "材料を全てボールにいれ、よく混ぜて、小判型に丸める。",
+        "低めの温度の油で、ゆっくり揚げる。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "712558",
+    "advice": "このままでも、からし醤油やポン酢をつけてもおいしいです。蓮根の絞り汁はそのまま使います。混ぜてから揚げるまで時間があるときは、芽ひじきを小１／２ほど加え（蓮根の水分で戻ります）たりします。これもおいしいです。",
+    "history": "時々送られてくる沢山の量の蓮根を、飽きずにおいしく食べるために作ってきました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ミンチれんこんボール",
+        "レンコンボール 片栗粉"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/712558/100x141c/fc65f846f90e938dbb0b6a4de9d318b4.jpg?u=746099&p=1231753872"
+}

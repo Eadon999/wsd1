@@ -1,0 +1,59 @@
+{
+    "name": "あっさり☆にゅうめん",
+    "author": {
+        "@type": "Person",
+        "name": "せつぶんひじき"
+    },
+    "image": "https://img.cpcdn.com/recipes/172619/464x260/fafd182b33dc88cde2c412143c69f7b6.jpg?u=57172&p=1411095785",
+    "datePublished": "2004-12-04",
+    "description": "胃が疲れたときや二日酔いの朝に。秋に持ち越してしまったおそうめんの消費にも。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "そうめん",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "２枚"
+        },
+        {
+            "name": "だし（※）",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "☆薄口醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "三つ葉ｏｒ万能葱",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "そうめんは固めに茹でてざるにあげ、水で洗う。（茹で時間２分のものなら１分半ほど）",
+        "だしを鍋に入れて火にかけ、煮立ったら☆で調味。椎茸の薄切りを加える。",
+        "そうめんの水気をしっかりきって加え、ひと煮立ちしたら出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "172619",
+    "advice": "お汁たっぷり＆麺少しの二日酔い仕様（二日酔いのときは固形物より温かくて美味しいお汁が嬉しいからです）。（※）水４カップ＋和風だし小さじ２でも。椎茸→卵でも◎。ふわふわに仕上げて。",
+    "history": "二日酔いのある日、家にあるもので作りました。味つけはあっさり上品、美味しいだしが胃にしみます。",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/にゅうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にゅうめん"
+    ],
+    "tsukurepo_count": "123",
+    "thumbnail": "https://img.cpcdn.com/recipes/172619/100x141c/64bd9ac98e492969f858b5b8f83582c8.jpg?u=57172&p=1411095785"
+}

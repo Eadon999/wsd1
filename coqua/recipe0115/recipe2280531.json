@@ -1,0 +1,51 @@
+{
+    "name": "お弁当に★ピーマンのめんつゆバター炒め★",
+    "author": {
+        "@type": "Person",
+        "name": "HANA★0823"
+    },
+    "image": "https://img.cpcdn.com/recipes/2280531/464x260/febd2a7204d5409d11fe2fe9cc7cecc5.jpg?u=1240215&p=1373282441",
+    "datePublished": "2013-07-08",
+    "description": "簡単に出来てしっかり味なのでお弁当にぴったりです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "３個"
+        },
+        {
+            "name": "めんつゆ(濃縮タイプ)",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "バター",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを細切りに。",
+        "少量の油でピーマンを炒める。",
+        "めんつゆを入れ炒め、次にバターを入れ絡める。最後にかつお節を入れ混ぜ出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2280531",
+    "advice": "ピーマンは食感が大事なので強火で手早く炒める。",
+    "history": "めんつゆとバターの組み合わせが好きなのでピーマンで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "めんつゆ",
+        "バター",
+        "かつお節"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2280531/100x141c/170a0ae4cc8f6c2abe5f9a404bc36b2e.jpg?u=1240215&p=1373282441"
+}

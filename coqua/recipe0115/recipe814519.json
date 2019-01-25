@@ -1,0 +1,80 @@
+{
+    "name": "ラム肉とミックスビーンズのカレートマト煮",
+    "author": {
+        "@type": "Person",
+        "name": "rosenkranz"
+    },
+    "image": "https://img.cpcdn.com/recipes/814519/464x260/1a5df0b87fd940307f40b8900f9bd789.jpg?u=225908&p=1243023119",
+    "datePublished": "2009-05-23",
+    "description": "鬼ウマです。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ラム肉",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "トマトダイス",
+            "quantity": "１５０グラム"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "ミックスビーンズ",
+            "quantity": "５０グラム"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "５グラム"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "タイム",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "０．５グラム"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "２ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイルを熱し、にんにくを炒める。\n",
+        "肉、にんじん、たまねぎ、ピーマンを炒め、ミックスビーンズを入れて炒める。\n",
+        "トマトを入れて煮込む。",
+        "コンソメ、タイム、塩、こしょうを入れて煮て、カレーパウダーを入れて完成。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "814519",
+    "advice": "塩加減はお好みで。",
+    "history": "ある材料で。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ラム肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ラム肉 トマト煮"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/814519/100x141c/aaf34f448cab81fa44c64c1f38e15a52.jpg?u=225908&p=1243023119"
+}

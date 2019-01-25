@@ -1,0 +1,56 @@
+{
+    "name": "もやし明太納豆和え",
+    "author": {
+        "@type": "Person",
+        "name": "Cafe77"
+    },
+    "image": "https://img.cpcdn.com/recipes/3506297/464x260/aa7887080306294e04acbccfd0c826d3.jpg?u=13360571&p=1447046811",
+    "datePublished": "2015-11-09",
+    "description": "しっかり味ですが、もやしなのでヘルシーです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "明太子",
+            "quantity": "1腹(40g位)"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック(45g位)"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "長葱",
+            "quantity": "4cm位"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを軽く茹で、水を切る。",
+        "明太子・納豆・長葱を合わせて混ぜる。",
+        "2にマヨネーズを入れ、更に混ぜる。",
+        "もやしと3を和え、上に刻み海苔を乗せて出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3506297",
+    "advice": "大葉を乗せたり混ぜたりしても合います。",
+    "history": "パスタでよくある組み合わせを、もやしで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし 明太子"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3506297/100x141c/75fc4829cabb6f9885af631ea8aefc4f.jpg?u=13360571&p=1447046811"
+}

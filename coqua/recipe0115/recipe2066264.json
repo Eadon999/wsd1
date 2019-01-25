@@ -1,0 +1,46 @@
+{
+    "name": "いくらと大根の簡単オードブル",
+    "author": {
+        "@type": "Person",
+        "name": "MOKO112"
+    },
+    "image": "https://img.cpcdn.com/recipes/2066264/464x260/4d2fbbedc85dc83311913232507ab2b8.jpg?u=2891187&p=1356351040",
+    "datePublished": "2012-12-24",
+    "description": "おもてなし料理にピッタリ♪簡単すぎるオードブルです。【大根】のカテゴリー入り！ありがとうございます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "７～８㎝分"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１０枚前後"
+        },
+        {
+            "name": "いくら",
+            "quantity": "大３～４杯"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の葉に近い上の部分を薄切りの半月切りにする\n",
+        "大葉は洗って水気を拭いておく",
+        "大根と大根で大葉を挟みその上にいくらを乗せていく"
+    ],
+    "cookTime": null,
+    "recipe_id": "2066264",
+    "advice": "新鮮な大根の上の部分を使うと甘くてとっても美味しいです。イクラの代わりにイカ明太を乗せてみたのもすっごく美味しかったです。",
+    "history": "頂きもののいくらと大根が冷蔵庫にあったのでクリスマス用のメニューに作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いくら オードブル",
+        "いくら 大根",
+        "簡単オードブル",
+        "パーティー オードブル"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2066264/100x141c/96448c26269370daa1e36dec5b5ad08a.jpg?u=2891187&p=1356351040"
+}

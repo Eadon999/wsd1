@@ -1,0 +1,72 @@
+{
+    "name": "イカの中華風炒め",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/247705/464x260/16948d0d1d13dea507e3d6f6c6204d3c.jpg?u=203689&p=1214212849",
+    "datePublished": "2006-04-07",
+    "description": "イカの旨味の効いたスープを水溶き片栗粉で閉じ込めました。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "１パイ"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "エリンギ",
+            "quantity": "３本"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★中華だし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "こさじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "400ｍｌ"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜・エリンギは食べやすい大きさに切る。",
+        "フライパンにゴマ油を熱し、イカ・エリンギ・小松菜を炒める。",
+        "★の調味料と水カップ２杯を加える。スープが温まったら水溶き片栗粉を回しいれる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "247705",
+    "advice": "★炒める時は強火でさっと炒めます。 ★最初のレシピ名は「花咲きイカの中華風炒め」でしたが、いかのどこの部分でも美味しくいただけるので「イカの・・」にしました(^^)",
+    "history": "ご飯にのせても美味しく食べられるものを、と思い水溶き片栗粉を使いました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いか 小松菜 中華炒め"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/247705/100x141c/5e7163962ac349757e25e384c793ddb1.jpg?u=203689&p=1214212849"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "簡単!!卵としめじの炒め物!!",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1731590/464x260/6cfb71b7d4ea1539b0a1273345a32cb9.jpg?u=603745&p=1447762197",
+    "datePublished": "2012-03-07",
+    "description": "卵としめじをサっと炒めてすぐ出来る!!ご飯にも○!!パンに挟んでも○!!忙しい時に助かる便利おかずです～♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆ウスターソース",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "ほんの少し"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじの石突を取ります。",
+        "ほぐして軽く水洗いします。",
+        "ボウルに卵を割り、カラサを取り混ぜます。",
+        "フライパンに油を敷いて温めます。",
+        "炒り卵のように混ぜながら焼きます。",
+        "ある程度卵が固まってきたらしめじを加えます。",
+        "しめじに火が通るように１～２分炒めます。",
+        "☆の材料を加えます。",
+        "さっと絡めて出来あがりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1731590",
+    "advice": "",
+    "history": "冷蔵庫のあまりもので作ってみました☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "しめじ",
+        "ケチャップ",
+        "ウスターソース"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1731590/100x141c/8827f18b1b2b84b99a93e5e4b05bdfe9.jpg?u=603745&p=1447762197"
+}

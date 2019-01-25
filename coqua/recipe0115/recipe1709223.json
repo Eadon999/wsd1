@@ -1,0 +1,62 @@
+{
+    "name": "【農家のレシピ】ニラとちくわのキムチ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1709223/464x260/5ec3885b1906b1017adcbcd6d6f6f7d9.jpg?u=2513693&p=1329404245",
+    "datePublished": "2012-02-18",
+    "description": "キムチとちくわはよく合いますよ。ニラも一緒に炒めてお酒に合うおかずの完成です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キムチ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "4本"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわは斜めに5ミリ幅に切り、ニラは3センチのざく切り、キムチは食べやすい大きさに切っておきます。",
+        "フライパンにごま油を熱し、キムチとちくわをざっと炒め、【Ａ】を加えて1分程度炒めます。",
+        "最後にニラを入れてニラがしんなりするまで炒めて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1709223",
+    "advice": "",
+    "history": "冷蔵庫にあった材料でお酒に合うおかずを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キムチ",
+        "ちくわ",
+        "ニラ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1709223/100x141c/97aeead6db05f9b7f0442db9a3d3d8b0.jpg?u=2513693&p=1329404245"
+}

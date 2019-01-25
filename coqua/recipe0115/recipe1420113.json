@@ -1,0 +1,75 @@
+{
+    "name": "【農家のレシピ】ニラ玉スープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1420113/464x260/4d33b8b137f56ebd298f9210904f52f5.jpg?u=2513693&p=1303626501",
+    "datePublished": "2011-04-29",
+    "description": "和風と洋風の中間のスープです。やはりニラと卵の組み合わせはいいですね。塩のかわりにナンプラーを使う事で旨味がUPしますよ",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "2分の１束"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "2本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "熱湯",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ１．５"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは石づきをとってほぐし、ニラは根元のかたい部分を切り落とし3センチ程度に切り、ソーセージは斜めに薄切りにします",
+        "フライパンにサラダ油を入れ中火でソーセージを1分程度炒めてからシメジ、ニラを炒めます。",
+        "しめじがしんなりしたら【A】を入れます",
+        "最後に溶き卵を回しかけて火が通ったら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1420113",
+    "advice": "",
+    "history": "おすましのニラ玉汁を洋風にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "卵",
+        "ソーセージ",
+        "しめじ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1420113/100x141c/0a22c37430200afec20534829a78ad36.jpg?u=2513693&p=1303626501"
+}

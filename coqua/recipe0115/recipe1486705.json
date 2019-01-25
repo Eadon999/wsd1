@@ -1,0 +1,58 @@
+{
+    "name": "しゃきっ☆もやしとゴマのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "ハニー＊ハニー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1486705/464x260/2826c6a75e84bf60a248b4e5bdab33b5.jpg?u=2763859&p=1309669521",
+    "datePublished": "2011-07-03",
+    "description": "しゃっきっと美味しいもやしのおひたしです！ゴマの香りが食欲をそそります♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１／２袋"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●しょうがのすり下ろし",
+            "quantity": "小指の爪くらい"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "小さじ１／４"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "小さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "●の材料を全て合わせて、そこにいりごまを指ですり合わせて香りを出しながら加えて混ぜる。",
+        "もやしをさっと茹でて、水気を切り、①に加えて混ぜる。",
+        "冷蔵庫で冷たく冷やして召し上がれ☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1486705",
+    "advice": "調味液が少なく感じるかもしれませんが、冷やしていくうちにもやしから水分が出ます。食べる前に一混ぜしてくださいね♪",
+    "history": "もやしって、２人暮らしだとなかなか１回で１袋は多い…余ったときにサッと作れるさっぱりメニューです☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "しょうゆ",
+        "砂糖",
+        "ごま油"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1486705/100x141c/3b5e5e50f60023b9882046be928cbc1d.jpg?u=2763859&p=1309669521"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "さっぱり☆美味しい♪梅じゃこごはん",
+    "author": {
+        "@type": "Person",
+        "name": "MARIKUNA"
+    },
+    "image": "https://img.cpcdn.com/recipes/2117065/464x260/43e8a946c211c8a7ab27f08b34b96dec.jpg?u=222383&p=1360732402",
+    "datePublished": "2013-02-13",
+    "description": "一緒に炊き込むだけで、この上なくシンプルで美味しいご飯が出来ます。",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "じゃこ",
+            "quantity": "一握り"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "１個"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に分量のコメと水、そして梅干しとちりめんじゃこを入れ、普通に炊く。\n\n",
+        "炊きあがったら、梅干しをほぐしながら、さっくりとまぜます。\n\n仕上げに白ゴマを振ると美味…。\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "2117065",
+    "advice": "水は多すぎないほうがいいです。べちゃっとなるよりは、蒸らした後少しパラリと仕上がるくらいで。",
+    "history": "ホカホカ炊きたてを食べると、幸せな気分ですこれに鮭フレークをのせてると豪華版。おにぎりにもイケます。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "じゃこ",
+        "梅干し"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2117065/100x141c/da0f56c1df834c3c2cab239806fd52ba.jpg?u=222383&p=1360732402"
+}

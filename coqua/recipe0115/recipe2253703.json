@@ -1,0 +1,59 @@
+{
+    "name": "お皿で完成！サーモンのカルパッチョ",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2253703/464x260/cff78fb42631d619dc790ca150b9aa0e.jpg?u=1298841&p=1370960453",
+    "datePublished": "2013-06-12",
+    "description": "14/02/25話題入り☆お皿の上で完成させる簡単スピードメニュー。パーティーやクリスマス、ディナーの前菜に♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "サーモン(刺身用)",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "玉ねぎ(スライス)",
+            "quantity": "適量"
+        },
+        {
+            "name": "小ねぎ(小口切り)",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "2分の1個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サーモンをお皿に並べ、塩コショウを満遍なくふり、指で味を馴染ませる。玉ねぎは水にさらしておく。",
+        "１に玉ねぎとねぎを散らしたら、レモン汁、オリーブオイルの順に全体にまわしかける。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2253703",
+    "advice": "塩はしっかりめに振ると、ちょうど良い塩加減になります。",
+    "history": "カルパッチョを手早く手軽に♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": [
+        "サーモンカルパッチョ 9位"
+    ],
+    "related_keywords": [
+        "サーモン カルパッチョ",
+        "クリスマスディナー 簡単",
+        "クリスマスディナー",
+        "クリスマス 前菜"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2253703/100x141c/cd7e8077669ec1b0f60cdce2fc93d084.jpg?u=1298841&p=1370960453"
+}

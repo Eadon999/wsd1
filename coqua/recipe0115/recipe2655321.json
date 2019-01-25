@@ -1,0 +1,52 @@
+{
+    "name": "ほうれん草のオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2655321/464x260/3d14a19f0fcee1877cc6fe59983c9c27.jpg?u=6957661&p=1401864377",
+    "datePublished": "2014-06-18",
+    "description": "2014/9/16話題入り有難うございます♡簡単シンプルオムレツですほうれん草の自然な味わいがとても美味しいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "一束"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は茹でて水に晒し、絞って2,3cmに切っておく。(今回は冷凍しておいたものを解凍)",
+        "フライパンにバターを熱し1を軽く炒め、塩胡椒する。",
+        "白だしを入れ溶いておいた卵を流し入れる。",
+        "全体に火が入る様、大きく混ぜ乍ら片側に寄せ形を整える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2655321",
+    "advice": "テフロンのフライパンを使うと作りやすいです。",
+    "history": "旬の時期にたくさん茹でて冷凍しておいたほうれん草を美味しく食べる為に",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 オムレツ"
+    ],
+    "tsukurepo_count": "81",
+    "thumbnail": "https://img.cpcdn.com/recipes/2655321/100x141c/2566896dcb1334d7f5a9b379522edee0.jpg?u=6957661&p=1401864377"
+}

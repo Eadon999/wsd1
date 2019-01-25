@@ -1,0 +1,58 @@
+{
+    "name": "アンチョビポテト",
+    "author": {
+        "@type": "Person",
+        "name": "お天気ママちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1610579/464x260/0bf562db693a081212880faaaaafa893.jpg?u=437874&p=1319677520",
+    "datePublished": "2011-10-27",
+    "description": "アンチョビとにんにくのうまみが嬉しい、ほくほくポテト。ビールがすすんじゃいますよ。。。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋(男爵）",
+            "quantity": "3個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1個"
+        },
+        {
+            "name": "アンチョビ",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は皮つきのまま、くし形にカット。\n耐熱容器でレンジで5分加熱。\n",
+        "フライパンにオリーブオイルをひき、にんにくのスライスを色づき始めるくらいまで炒めて香りを出す。",
+        "じゃが芋を加えて炒め、アンチョビとパセリを入れて、塩で味を整えたら完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1610579",
+    "advice": "③では塩を1つまみくらいいれました。アンチョビの塩分によって変わるので、調整をしてください。",
+    "history": "夕飯に作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "にんにく",
+        "アンチョビ",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1610579/100x141c/553714557639f79cb43f1eba824d3b13.jpg?u=437874&p=1319677520"
+}

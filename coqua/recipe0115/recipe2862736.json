@@ -1,0 +1,62 @@
+{
+    "name": "【話題入り】えのきのオイスタースープ",
+    "author": {
+        "@type": "Person",
+        "name": "moriwaki"
+    },
+    "image": "https://img.cpcdn.com/recipes/2862736/464x260/988ae45d84375aa3f8faf345710b2d7d.jpg?u=1416113&p=1414814032",
+    "datePublished": "2016-03-28",
+    "description": "シャクシャク食感が美味しいえのき茸をメインにしたスープです",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "100g"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "★水",
+            "quantity": "400cc"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "★鶏ガラスープの素(顆粒)",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "★塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきは石づきを切り落とし、食べやすく割く\n鍋にゴマ油を熱し、えのきをさっと炒める",
+        "★を加え、火が通るまで煮る\n器に盛り付けお好みで刻みネギを散らす",
+        "◆2017/03/08\n話題入りしました\n有難うございます"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2862736",
+    "advice": "きのこ類はさっと炒めた方が味がしみやすくなります茹で過ぎると風味が飛んでしまうので、加熱しすぎないように！他に春雨、卵、ニラを追加しても良いですし、えのき茸以外のきのこ類でも美味しく出来ますよ♬",
+    "history": "大好きなきのこ類をしっかり食べたい！淡白な味なのでスープ自体にしっかり味を付けて、食べ応えのあるスープに仕上げました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき茸",
+        "刻みネギ",
+        "水",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2862736/100x141c/303afd4f22d8846f6dfe1bdcbc23fb50.jpg?u=1416113&p=1414814032"
+}

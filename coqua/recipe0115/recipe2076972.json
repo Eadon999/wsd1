@@ -1,0 +1,49 @@
+{
+    "name": "☆水菜とちくわと油揚げのおひたし☆",
+    "author": {
+        "@type": "Person",
+        "name": "ぐーたらレシピ研究所"
+    },
+    "image": "https://img.cpcdn.com/recipes/2076972/464x260/b747d8e82575ba6349ac0c96513a6c86.jpg?u=2230145&p=1357619394",
+    "datePublished": "2013-01-09",
+    "description": "ちょっと残ってる水菜がダメになる前に救済しちゃいましょう～♪１品追加も　さ～っと作れてサッパリいただけます♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "白だし醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜を水洗いして\nさっと茹でて\n５センチぐらいに\n切る",
+        "油揚げも\nさっと湯通しして\n細く切っておく\n",
+        "ちくわは\n斜めに薄切りにして\nさらに半分に切る",
+        "水菜と油揚げを\n絞って水気を切り\nボウルに全部の材料を投入して和える\n\n",
+        "お皿に盛り付けて\n出来上がりです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2076972",
+    "advice": "冷蔵庫で冷やしてから食べた方が美味しいと思います。",
+    "history": "お正月用の食材として、年末に買い込んでいた水菜。どうしても使い切りたくて、家にあるものでテキトウに作ってみたら、美味しかったのでアップしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 おひたし 白だし"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2076972/100x141c/964fb8322b71cf4ccb58048d3862d16f.jpg?u=2230145&p=1357619394"
+}

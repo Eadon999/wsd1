@@ -1,0 +1,53 @@
+{
+    "name": "俵パンダ弁当（キャラ弁）",
+    "author": {
+        "@type": "Person",
+        "name": "akinoichigo"
+    },
+    "image": "https://img.cpcdn.com/recipes/363633/464x260/7523eb12ead352d41667ad1a093c1d01.jpg?u=275182&p=1214215441",
+    "datePublished": "2007-04-22",
+    "description": "俵型のオニギリだから俵パンダ（笑）たくさん作ると可愛いです♪",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴハン",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "海苔",
+            "quantity": "１/2枚"
+        },
+        {
+            "name": "好みの具",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "炊き立てのご飯に塩をまぶしておく。",
+        "ラップにくるみ、好みの具を入れて俵型に成形。お顔を貼る部分は平らにならしておく。",
+        "海苔を巻く。",
+        "海苔をハサミでカットし、パーツを用意する。（海苔を半分に折り、一度にカットすると形が揃いますよ～）",
+        "側面にお顔を付けて完成。（オマケでシッポもつけました♪）",
+        "お弁当箱に、縦に詰めました。蓋を開けた瞬間、怪しげなパンダと目が合います（笑）",
+        "(追加）\r\n西部警察バージョン（笑）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "363633",
+    "advice": "簡単なので、特にポイントはないです～",
+    "history": "子供の頃に使っていたパンダの枕がこんな形だったので＾＾；",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴハン",
+        "海苔",
+        "塩"
+    ],
+    "tsukurepo_count": "218",
+    "thumbnail": "https://img.cpcdn.com/recipes/363633/100x141c/77420e9a92334e4dbbc6c0aa38e9259e.jpg?u=275182&p=1214215441"
+}

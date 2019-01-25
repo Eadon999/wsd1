@@ -1,0 +1,66 @@
+{
+    "name": "ごまだれ温奴(冷奴)",
+    "author": {
+        "@type": "Person",
+        "name": "たらこ226"
+    },
+    "image": "https://img.cpcdn.com/recipes/2375739/464x260/8fdc22837fcaba233a533f89fe1c0c5a.jpg?u=7770230&p=1440422175",
+    "datePublished": "2013-10-15",
+    "description": "暑くても寒くても食べたいお豆腐。甘めのゴマだれでどうぞ♫",
+    "recipeYield": "少なめ2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "少々"
+        },
+        {
+            "name": "生姜(チューブ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●すりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "●印を耐熱容器に入れ、タレを作っておく。一人分に切った豆腐を皿に乗せ、ラップをかけてレンジ(600Ｗ)で2分半温める。",
+        "合わせておいたタレを、豆腐と一緒にさらに30秒温めてよく混ぜる。",
+        "豆腐から出た水分を切り、タレをかけてねぎを散らし、ショウガを乗せれば出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2375739",
+    "advice": "豆腐はしっかりチンしてホカホカにしたほうが美味しいです。もちろん冷奴でも♬",
+    "history": "ごまだれが好きなので。('15/8/23：砂糖の量を見直して固定しました❀)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "ねぎ",
+        "生姜",
+        "醤油"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2375739/100x141c/242aadf2c106b7538eabcc7249b108ca.jpg?u=7770230&p=1440422175"
+}

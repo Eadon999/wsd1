@@ -1,0 +1,39 @@
+{
+    "name": "【農家のレシピ】チーズ風☆豆腐の味噌漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1358765/464x260/71b5a95450faf9c1ef9daad6c4c704e0.jpg?u=2513693&p=1297559752",
+    "datePublished": "2011-02-13",
+    "description": "お鍋で余った豆腐を、お味噌に2日間つけるだけで、チーズのようなおつまみに大変身♪ご飯の上に乗せて食べても美味しいよ！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "適量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "豆腐が隠れるくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "余った豆腐の水けをキッチンペーパーなどで取ってから、豆腐を2日間漬けこむだけです",
+        "使ったお味噌は普通通りお味噌汁に使ってね"
+    ],
+    "cookTime": null,
+    "recipe_id": "1358765",
+    "advice": "■豆腐はキッチンペーパーなどに包んで上にお皿などをのせて水切りしてくださいね。■使う豆腐は何でもOKですが、木綿豆腐や焼き豆腐の方が綺麗にできます。絹こし豆腐はつぶれやすいです。",
+    "history": "お鍋であまってしまった豆腐を味噌漬けにしています。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 味噌漬け",
+        "チーズ 味噌漬け"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1358765/100x141c/031e6e8502176129dc6d0fdd82dff3b7.jpg?u=2513693&p=1297559752"
+}

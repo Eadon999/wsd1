@@ -1,0 +1,66 @@
+{
+    "name": "エノキのかき卵スープ",
+    "author": {
+        "@type": "Person",
+        "name": "Ｗでｋｋ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1416047/464x260/8e483f3b3f543161bc1ac89e58d5e345.jpg?u=1666241&p=1337761176",
+    "datePublished": "2011-04-19",
+    "description": "簡単にできちゃう♪トロリとあったかスープ☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "エノキ",
+            "quantity": "1/4袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "○水",
+            "quantity": "400ｍｌ"
+        },
+        {
+            "name": "○鶏ガラスープの素（顆粒）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "○コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "○を鍋に入れ火にかけ煮立ったら、根元を切り落とし1/4に切ったエノキを入れる。",
+        "●を混ぜ合わせ水溶き片栗粉を作り、①に混ぜながら入れトロミをつける。",
+        "卵は溶き②に回し入れかき卵になれば、器に入れて、できあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1416047",
+    "advice": "片栗粉でトロミをつければ、簡単にきれいなかき卵になりますよ。",
+    "history": "冷蔵庫の中には少しのエノキと卵があったので中華スープにしました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エノキ",
+        "卵",
+        "鶏ガラスープの素",
+        "コショウ"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/1416047/100x141c/469c4bb57130717c9c52230c6e7aadb3.jpg?u=1666241&p=1337761176"
+}

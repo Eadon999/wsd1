@@ -1,0 +1,50 @@
+{
+    "name": "✿じゃがいもの葱オイスター炒め✿ ",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/681476/464x260/59b7f44c4b53b330e1cb8b4acc410d6f.jpg?u=271833&p=1226565461",
+    "datePublished": "2008-11-13",
+    "description": "簡単です♪しっかり味なのでお弁当のおかずにもおすすめです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "中4個"
+        },
+        {
+            "name": "ねぎ（小口切り）",
+            "quantity": "山盛り大さじ3"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は2cm幅位の半月切りにし、レンジで柔らかくしておく。(500Wの場合4分)※竹串がスッと刺さればOK。",
+        "フライパンにごま油を熱し、小口切りのねぎを炒める。少ししんなりしたら火を弱め、オイスターソースを絡める。",
+        "２に1を加え、中火でざっと炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "681476",
+    "advice": "*ねぎは小ねぎでも長ねぎでも良いです。 *じゃがいもをレンジ加熱する際にはなるべく平らになるようにお皿に並べて下さい。 また、ラップをふんわりとかけて下さい。",
+    "history": "じゃがいもをいつもと違った味で食べたくて考えました。 ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "ねぎ",
+        "オイスターソース",
+        "ごま油"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/681476/100x141c/338a44a72c622ec75d9ae97bb09f8d3d.jpg?u=271833&p=1226565461"
+}

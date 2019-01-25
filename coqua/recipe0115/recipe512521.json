@@ -1,0 +1,72 @@
+{
+    "name": "★豚肉とほうれんそうのマヨしょうゆ炒め★",
+    "author": {
+        "@type": "Person",
+        "name": "まゆピン"
+    },
+    "image": "https://img.cpcdn.com/recipes/512521/464x260/9e218db10a09d6fc053d0732f3530aa1.jpg?u=730924&p=1214218796",
+    "datePublished": "2008-02-20",
+    "description": "2008.4.28話題入り☆学校給食で人気だったメニュー★マヨ＆しょうゆの絶妙なコンビネーション！ぜひお試しを～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "塩　こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "１束"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大３"
+        },
+        {
+            "name": "塩　こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は、一口大に切り、塩　こしょうをしておく。\r\n\r\n　 ほうれん草は、２～３ｃｍ位の長さに切る。 \r\n\r\n　にんじんは、ほうれん草と同じくらいの短冊に切る。",
+        "フライパンに、サラダ油をしき、豚肉と、にんじんを炒める。",
+        "火が通ったら、ほうれん草をいれ、だしの素、しょうゆ、砂糖を入れ炒める。",
+        "ほうれん草に火が通ったら、火を止め、マヨネーズを入れて混ぜ、塩こしょうで味を調える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "512521",
+    "advice": "お弁当のおかずにも、ぴったりです(^_^)v",
+    "history": "学校栄養士で働いていたときの、人気メニューです★もちろん、先生にも人気でした★",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 豚肉"
+    ],
+    "tsukurepo_count": "170",
+    "thumbnail": "https://img.cpcdn.com/recipes/512521/100x141c/672ac5661ca44a51a4431917ba5e6563.jpg?u=730924&p=1214218796"
+}

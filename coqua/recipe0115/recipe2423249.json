@@ -1,0 +1,58 @@
+{
+    "name": "柚子コショウの大根サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "noropa!"
+    },
+    "image": "https://img.cpcdn.com/recipes/2423249/464x260/e3689e612e840207fda590d1b754c201.jpg?u=515709&p=1388046087",
+    "datePublished": "2013-12-01",
+    "description": "いつも食べている家族みんなが大好きな大根サラダです。",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１０㎝程度"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "もみ海苔",
+            "quantity": "１.５枚分"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "５ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "大根の皮をむき、スラサーなどで千切りにします。",
+        "白ゴマ、もみ海苔１枚分、ポン酢、柚子胡椒でよく合えます。",
+        "器に盛り付け、かつお節、残りのもみ海苔をのせて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2423249",
+    "advice": "子供用には柚子胡椒を抜いています。柚子胡椒の量はお好みで☆",
+    "history": "昔何かで見たレシピ…それはワサビだったんですが、大好きな柚子胡椒で作ってみたらとっても美味しかったので！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ポン酢",
+        "柚子胡椒",
+        "もみ海苔"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/2423249/100x141c/bc2c7776f12648b962b53b7637fe378e.jpg?u=515709&p=1388046087"
+}

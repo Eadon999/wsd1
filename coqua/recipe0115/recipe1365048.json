@@ -1,0 +1,80 @@
+{
+    "name": "あつあつおいし〜♥シーフードグラタン♥",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1365048/464x260/1d26ecb2741f31efe1f494d2f7b5d8af.jpg?u=841338&p=1298035972",
+    "datePublished": "2011-03-04",
+    "description": "醤油を加えることで、コクと風味をプラス！あつあつとろ〜りのグラタンをどうぞ！",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "シーフードミックス",
+            "quantity": "２４０g（１袋）"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "４０g"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "コンソメ（固形）",
+            "quantity": "１個"
+        },
+        {
+            "name": "■クレイジーソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "■ナツメグ",
+            "quantity": "少々"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "■醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "４００cc"
+        },
+        {
+            "name": "マカロニ又はパスタ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お湯をわかし、マカロニを茹でる。茹でている間に、玉ねぎは薄切りにします。",
+        "フライパンに、バターをひき、玉ねぎを軽く炒めます。いたまったら、小麦粉、コンソメ、少しずつ牛乳を入れ炒めます。",
+        "次に、シーフードミックスと■の調味料を入れ、とろみが出るまで混ぜ、最後に茹でたマカロニを入れ混ぜ合わせます。",
+        "耐熱容器に、具材をいれて、上にチーズをのせて、オーブンで焦げめがつくまで焼いたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1365048",
+    "advice": "最後にチーズをのせるので、塩分はひかえめに作ること。醤油を入れることで、コクと風味がでます。",
+    "history": "可愛い甥っ子の為に♥",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/グラタン/マカロニグラタン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "シーフードグラタン"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1365048/100x141c/8017c64c3bf9c7daac4812f62671734c.jpg?u=841338&p=1298035972"
+}

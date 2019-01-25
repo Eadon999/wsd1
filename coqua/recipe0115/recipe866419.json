@@ -1,0 +1,55 @@
+{
+    "name": "ノンオイル☆鰹梅ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "せいこ丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/866419/464x260/2c1f8ea8bbffb6871dc070c227619db1.jpg?u=557085&p=1247661114",
+    "datePublished": "2009-07-15",
+    "description": "大根がかなり食べられます☆ 豆腐にかけても良しです",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "梅干",
+            "quantity": "５～６個"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１パック"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "鰹節をお皿にのせ、ラップなしの６００ｗ２分加熱。",
+        "手でもみもみするとあっと言う間に鰹の粉が。",
+        "梅は種をとって包丁で叩く。一緒に入っている赤シソもあれば入れちゃってください。",
+        "あとは全部混ぜるだけ☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "866419",
+    "advice": "ミキサーやブレンダーを使うともっとトロッとした状態に。",
+    "history": "大根サラダに合うんです",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング",
+        "今日のご飯・おかず/ヘルシーおかず/カロリーダウン・ノンオイル調理/ノンオイル調理"
+    ],
+    "rankings": [
+        "梅ドレッシング 7位"
+    ],
+    "related_keywords": [
+        "梅ドレッシング ノンオイル"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/866419/100x141c/bb148ccf1a77c417b8b2c054afe42d9c.jpg?u=557085&p=1247661114"
+}

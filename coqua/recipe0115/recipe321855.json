@@ -1,0 +1,62 @@
+{
+    "name": "もやしの簡単和えもん♪",
+    "author": {
+        "@type": "Person",
+        "name": "piyo_piyo"
+    },
+    "image": "https://img.cpcdn.com/recipes/321855/464x260/cee67376cc7dfa4674209b58f4ce59cc.jpg?u=265530&p=1214214540",
+    "datePublished": "2007-01-23",
+    "description": "ひとり暮らし時代の思い出レシピ。材料合わせてレンジでチン！とってもお手軽もやしの和えもん♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし（または大豆もやし）",
+            "quantity": "1袋"
+        },
+        {
+            "name": "いりこだし",
+            "quantity": "4～8g"
+        },
+        {
+            "name": "白みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗って水切り。（※余裕があればひげをとる。）白ごまは粗めにすっておく。",
+        "もやしにいりこだし・酒・水・塩をふりレンジで3～４分加熱します。",
+        "(2)に白みそ・白ごまを加え、混ぜ合わせて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "321855",
+    "advice": "花鰹をのせても合うし、風味付けに、加熱後ごま油を少々ふっても美味しいです。",
+    "history": "野菜＋いりこだし＋白みそをレンジでチン。（※余裕があれば蒸す）このレシピはpiyoひとり暮らし時代の思い出レシピ。これをもう馬鹿みたいに毎日食べてました。（笑）急に思い出したので懐かしくなって作りました。副菜にでもどうぞ♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "いりこだし",
+        "白みそ",
+        "酒"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/321855/100x141c/b26760b83b9dfc9b3ee8fa46ef201237.jpg?u=265530&p=1214214540"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "大根ときのこの和風マヨサラダ～！",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1204347/464x260/c89d5e8e93debf52b05bf6ab06d0934f.jpg?u=268332&p=1281047854",
+    "datePublished": "2010-08-06",
+    "description": "こりゃうまい！隠し味はめんつゆ☆分量もめっちゃ簡単♪",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "５ｃｍ分"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "少々"
+        },
+        {
+            "name": "まいたけ",
+            "quantity": "1/４パック"
+        },
+        {
+            "name": "●マヨネーズ、めんつゆ",
+            "quantity": "各大１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小１"
+        },
+        {
+            "name": "●黒ゴマ",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "まいたけはほぐしてサッと茹でたら絞っておく。",
+        "大根ときゅうりは千切りにし、２分ほど水にさらし水気をきっておく。",
+        "●を混ぜ合わせ、食べる直前に①と②を入れて和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1204347",
+    "advice": "②の工程で水にさらすことでパッリっとします！つけすぎると栄養が逃げてしまうので２分くらいで水から上げておきましょう！",
+    "history": "これにはちょっとしたかくし味が～！！普通の大根サラダかと思いきや～☆☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "きゅうり",
+        "まいたけ",
+        "酢"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1204347/100x141c/6bf01a3b6f2c7a37c8de97422d2c9e46.jpg?u=268332&p=1281047854"
+}

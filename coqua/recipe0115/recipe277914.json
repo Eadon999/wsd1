@@ -1,0 +1,49 @@
+{
+    "name": "にんじんシリシリ",
+    "author": {
+        "@type": "Person",
+        "name": "いさお飯"
+    },
+    "image": "https://img.cpcdn.com/recipes/277914/464x260/68490a29d2ca412cab76ad6b8b9b3928.jpg?u=226303&p=1214213547",
+    "datePublished": "2006-09-06",
+    "description": "沖縄料理です。にんじん炒め卵とじって感じでしょうか？私はツナで作りましたが、ポークなどでも作るようです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "大きめのもの1本"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "顆粒ダシの素",
+            "quantity": "小さじ1～2（味をみながら加減）"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんをスライサーで細く切ります（この時の音が「しりしり～」？）スライサーがなかったら包丁で千切りにします（写真は包丁で切ったものです）",
+        "サラダ油でにんじんを炒め、ツナとダシの素を入れて軽く炒め合わせ溶き卵も入れてふんわり火を通します。味をみて塩、コショウで調えます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "277914",
+    "advice": "味つけは本当にテキトーなので、お好みでどうぞ♪",
+    "history": "にんじんをたっぷり食べたかったので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "ツナ缶",
+        "卵",
+        "顆粒ダシの素"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/277914/100x141c/ed11ca9e54f518c5dc302fab117f9af9.jpg?u=226303&p=1214213547"
+}

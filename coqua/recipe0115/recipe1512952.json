@@ -1,0 +1,56 @@
+{
+    "name": "♪なめたけ　おうちで簡単レシピ♪",
+    "author": {
+        "@type": "Person",
+        "name": "キキママ♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/1512952/464x260/fa7fd57a336486a5626887975724ef18.jpg?u=3247750&p=1312264956",
+    "datePublished": "2011-09-01",
+    "description": "えのき茸に調味料を入れて火にかけるだけ!!カテゴリに掲載して頂いています♬2012/05/07話題入り感謝です❤",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "えのき茸",
+            "quantity": "１株（大きめの物）"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１　小１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "★ほんだし",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "えのき茸のいしずきをおとして半分に切ります。",
+        "細かくほぐして軽く水洗いします。",
+        "えのき茸と★印の調味料をお鍋に入れて火にかけます。",
+        "中火位でかきまぜながらほどよく水分をとばします。",
+        "美味しそうな色になったら、出来上がりです♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1512952",
+    "advice": "簡単すぎてコツなんてありません(,,･`ﾉ｡･´)ｺｯｿﾘ",
+    "history": "お鍋で使った残りのえのき茸をどうにかできないものかと・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき茸",
+        "しょうゆ",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1512952/100x141c/d161f8be4b56b2387ee4f87809863d0e.jpg?u=3247750&p=1312264956"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "☆お酢でさっぱり手羽元の簡単煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "eritan"
+    },
+    "image": "https://img.cpcdn.com/recipes/241698/464x260/0297d7d34abeeb266d461e0af12cc487.jpg?u=207035&p=1214212727",
+    "datePublished": "2006-03-02",
+    "description": "調味料を入れて煮るだけ！お酢で煮るからやわらか～い☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "8～10本"
+        },
+        {
+            "name": "酢",
+            "quantity": "70ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "70ｃｃ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "チューブなら2～3センチ"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "チューブなら1センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "調味料を全て鍋にいれます。",
+        "手羽元を入れ、味がしみるまで弱火でにます。\r\n\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "241698",
+    "advice": "酢やしょうゆ、にんにくしょうがはお好みで調節してください。 わりと早く煮えますので煮すぎには注意してください。骨からお肉がほぐれることがあります。",
+    "history": "母がよく作ってくれた手羽元の煮物をお酢でさっぱりとしあげました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元",
+        "酢",
+        "しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/241698/100x141c/753c36acca6809631f8e9d16e10fb2ec.jpg?u=207035&p=1214212727"
+}

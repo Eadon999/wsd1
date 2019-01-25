@@ -1,0 +1,62 @@
+{
+    "name": "筍の土佐煮",
+    "author": {
+        "@type": "Person",
+        "name": "rosenkranz"
+    },
+    "image": "https://img.cpcdn.com/recipes/1065758/464x260/b2f1de7eead8edde0c2879ba82aebe79.jpg?u=225908&p=1268397819",
+    "datePublished": "2010-03-12",
+    "description": "鬼ウマです。2011.4.30 話題のレシピ入り☆　感謝♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "筍",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "７グラム"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "４００ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "筍を一口大に切る。",
+        "筍をだし汁で煮る。",
+        "沸騰したら、鰹節以外の材料を入れて煮る。",
+        "だし汁が少なくなってきたら、鰹節を入れて煮詰めて完成。",
+        "れぽ感謝♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1065758",
+    "advice": "塩加減はお好みで。",
+    "history": "ある材料で。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 土佐煮",
+        "筍土佐煮"
+    ],
+    "tsukurepo_count": "138",
+    "thumbnail": "https://img.cpcdn.com/recipes/1065758/100x141c/59f60d757d7e38cb4ebb212f6d02e1b6.jpg?u=225908&p=1268397819"
+}

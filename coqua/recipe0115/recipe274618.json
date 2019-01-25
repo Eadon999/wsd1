@@ -1,0 +1,49 @@
+{
+    "name": "簡単揚げだし豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきんこさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/274618/464x260/895345af7f9c79fbb816c6b0841a9fa4.jpg?u=62560&p=1215455249",
+    "datePublished": "2006-08-17",
+    "description": "揚げない「揚げだし豆腐」です！外はカリッと中はふんわりで美味♪ ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１～２丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ネギ・生姜・大根おろし",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を小さめに切ってリードクッキングペーパーで包んでお皿に乗せてﾚﾝｼﾞで１分程加熱して水切りをする。",
+        "片栗粉を豆腐にまぶしてすぐに多めの油を熱したﾌﾗｲﾊﾟﾝで転がしながら焼色がつきまで焼く。",
+        "温めた麺つゆ（濃縮ﾀｲﾌﾟは薄めて）をかけて薬味を散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "274618",
+    "advice": "木綿豆腐で作ると食べやすいですが絹ごし豆腐の方が食感は美味しいかな。片栗粉は焼く寸前にまぶしてくださいね。時間がたつとベチャっとなります。",
+    "history": "揚げるのは面倒なので焼いてみたら簡単でカリっと美味しい♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/揚げだし豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "片栗粉",
+        "麺つゆ"
+    ],
+    "tsukurepo_count": "81",
+    "thumbnail": "https://img.cpcdn.com/recipes/274618/100x141c/bb553399e6efb71aaeee65fd15ecf841.jpg?u=62560&p=1215455249"
+}

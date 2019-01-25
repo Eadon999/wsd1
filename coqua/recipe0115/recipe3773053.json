@@ -1,0 +1,58 @@
+{
+    "name": "作り置き☆なすの味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3773053/464x260/d42ed81d95233b7c67cc467f918b5e3c.jpg?u=3540419&p=1460278813",
+    "datePublished": "2016-04-09",
+    "description": "ごはんのおかずやお弁当に♡小分けにして冷凍しておくと便利です(^-^)",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "3本（240g）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2/3"
+        },
+        {
+            "name": "和風だしの素(顆粒)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは細長い乱切りにする。調味料は合わせておく",
+        "フライパンにサラダ油を入れ、強めの中火でなすを炒める",
+        "なすが少ししんなりたら弱火にし、水小さじ1を加え、蓋をして4～5分蒸し焼きにする（焦げそうなら水を少し足す）",
+        "合わせ調味料を加え、全体にからめて火を止める",
+        "小分けにしてラップで包み、保存袋に入れて冷凍しておく"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3773053",
+    "advice": "蒸し焼きにするときに焦げそうなら水を少し足してください。調味料はお好みでかげんしてください。",
+    "history": "お弁当のおかずの作り置きに日曜日に作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす 作り置き 冷凍"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3773053/100x141c/82a59f32458580e1bd2ef26cbb12098c.jpg?u=3540419&p=1460278813"
+}

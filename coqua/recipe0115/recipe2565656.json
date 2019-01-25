@@ -1,0 +1,75 @@
+{
+    "name": "牛蒡と蒟蒻のきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "来夢☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2565656/464x260/a2d2a407a6bbd0be0c5dd3470aa303c5.jpg?u=7766960&p=1396193706",
+    "datePublished": "2014-03-31",
+    "description": "具材を炒めて煮込むだけのピリ辛きんぴらです♪お弁当のおかずにも☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚細切れ肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "牛蒡（水煮）",
+            "quantity": "100g"
+        },
+        {
+            "name": "蒟蒻（きんぴら用）",
+            "quantity": "320g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "50cc"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油（炒め用）",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は大きいようであれば細かく切る。\n蒟蒻は熱湯をかけて湯通しする。\n牛蒡は水洗いしてザルで水気をきる。",
+        "鍋にごま油を熱し、豚肉を炒める。肉の色が変わったら、蒟蒻・牛蒡を加え炒め合わせる。",
+        "2に調味料を加えて煮こんでいく。＊計量カップに醤油～水まで計200ccを準備しておくと手早く出来ます。",
+        "煮汁が減り、味がしみ込んだら出来上がり。お好みで一味唐辛子を！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2565656",
+    "advice": "水煮を使う事で、朝の忙しい時間でも作れる手抜き料理です。濃い味に作っています。薄味が好みの方は、調味料の分量をそれぞれ減らすか水を増量して下さい。",
+    "history": "少ない具材で弁当のおかず用に！濃い味に仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚細切れ肉",
+        "牛蒡",
+        "蒟蒻",
+        "醤油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2565656/100x141c/2062a337080779ccb3f0a3b4d455e714.jpg?u=7766960&p=1396193706"
+}

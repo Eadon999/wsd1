@@ -1,0 +1,60 @@
+{
+    "name": "まぐろの唐揚げ～✿居酒屋メニュー✿",
+    "author": {
+        "@type": "Person",
+        "name": "ありかん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2098984/464x260/88855194e02a0e2647d4fda5fc341a78.jpg?u=3140280&p=1359587410",
+    "datePublished": "2013-01-31",
+    "description": "居酒屋の味をお家でもいかが？美味しいよ～(≧∇≦)",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "まぐろ切り身（加熱用）",
+            "quantity": "４切れ"
+        },
+        {
+            "name": "★にんにく（チューブ）",
+            "quantity": "2ｃｍ位"
+        },
+        {
+            "name": "★しょうが（チューブ）",
+            "quantity": "2ｃｍ位"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★お酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "一口大にカットしたまぐろと★をビニール等に入れ、30分～1時間くらい漬け込む",
+        "片栗粉を付けて油で揚げたら完成✿170度の油で揚げています",
+        "刺身用のマグロでもOK\nお刺身が余ったら、漬け込んで翌日揚げてもOK！",
+        "2014/2/25\n話題入りしました\n皆さんどうもありがとう○┓"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2098984",
+    "advice": "揚げ過ぎると身が固くなるので注意",
+    "history": "居酒屋にある1品を家でも食べたくてまぐろ（加熱用）をゲットしたので作ってみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まぐろ 唐揚げ",
+        "マグロ",
+        "魚 唐揚げ",
+        "まぐろ 切り身"
+    ],
+    "tsukurepo_count": "109",
+    "thumbnail": "https://img.cpcdn.com/recipes/2098984/100x141c/85d5079cfa0259d478b6874a6656ac7f.jpg?u=3140280&p=1359587410"
+}

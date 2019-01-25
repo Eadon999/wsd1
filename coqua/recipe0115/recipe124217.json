@@ -1,0 +1,69 @@
+{
+    "name": "金目鯛のねぎ生姜あんかけ。",
+    "author": {
+        "@type": "Person",
+        "name": "オプティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/124217/464x260/51cb48a4c30a79c901678833420905f9.jpg?u=14642&p=1214210539",
+    "datePublished": "2004-01-09",
+    "description": "簡単、短時間でメインを。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きんめの切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "○出汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "○味醂",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○千切り生姜",
+            "quantity": "1/2～1片"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "小口葱",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "金目鯛は一口大に切り、塩をふってなじませ、グリルで両面こんがりと焼いておく。",
+        "鍋に○の材料をすべて入れて煮立たせ、水溶き片栗粉でとろみをつける。",
+        "1を器に盛って2の餡をかけ、小口葱をたっぷりちらして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "124217",
+    "advice": "魚はきんめの他、鰈や鱈等の白身魚、鮭やかじきでもなんでも良いです。　片栗粉をまぶして揚げても、コクが出て美味しいです。",
+    "history": "鍋にしようと思って買った、きんめの切り身魚。半分は鍋に、残りはこんな感じのあんかけにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鯛",
+        "その他/おもてなし料理/大皿・メイン料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "金目鯛　あんかけ",
+        "金目鯛"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/124217/100x141c/f6794c19d3452b49f497b5336f7fb8b3.jpg?u=14642&p=1214210539"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "里芋と豚肉のとろっと煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "ぱんこ６２５"
+    },
+    "image": "https://img.cpcdn.com/recipes/914095/464x260/7316cb41ceca745bc5c313c719530ed0.jpg?u=125911&p=1253535030",
+    "datePublished": "2009-09-24",
+    "description": "味の浸み込んだとろっとろの里芋と、粉をまぶして、旨みを閉じ込めた豚肉が最高っ10’10’20　話題入りに感謝",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "大きめ5～6個"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "150～200g"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "薄力粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁※",
+            "quantity": "600cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "豆板醤※",
+            "quantity": "小さじ1/2～"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋は皮を剥いて、１個を2～3等分にカット。 \r\n塩少々を振って手でもんでから水洗いし、ヌメリを落とす。",
+        "鍋に里芋とだし汁を入れて、火にかける。\r\n沸いたら中火にして、軟らかくなるまで煮る。",
+        "里芋に火が通ったら。みりんを入れて5分煮る。\r\nその後、醤油、豆板醤を入れ10分煮る。",
+        "豚肉は塩こしょうし、薄力粉をまぶしてから３の鍋に入れ火を通す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "914095",
+    "advice": "※だし汁の代わりに、水＋粉末だしでもOKです♪ ※少しピリ辛なので、豆板醤はお好みで減らして下さいネ＾＾",
+    "history": "毎年作る、大好きな煮物です＾＾＊",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋粉"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/914095/100x141c/24a322a37aecfaf1a3395a2b3a4fca89.jpg?u=125911&p=1253535030"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "鶏チリ☆高野豆腐もね ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/246255/464x260/62e3ed9809ee3d3dfa04f65391d3c636.jpg?u=57297&p=1214212824",
+    "datePublished": "2006-03-30",
+    "description": "これ不思議～☆ 高野豆腐が鶏みたいな味がするよ♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏腿肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "高野豆腐",
+            "quantity": "２つ"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙１．５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "１～2片(お好みで）"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "*鶏腿肉１枚を小さく切って、醤油と片栗粉をもみ込みます。 \r\n*高野豆腐２個は戻して小さく切り、 ぎゅ～～～っと絞って、大匙1の麺つゆと片栗粉を混ぜておきます。",
+        "ごま油で鶏肉と高野豆腐を炒めて火が通ったら、タレを絡めます。",
+        "タレ：ケチャップ２、醤油1.5、酒１、砂糖１、おろしニンニク１片、豆板醤小さじ２"
+    ],
+    "cookTime": null,
+    "recipe_id": "246255",
+    "advice": "高野豆腐はギュ～ッと絞るのがポイント☆味が浸みこみます",
+    "history": "鶏肉が一枚しかなくて、冷蔵庫に高野豆腐の残りが････",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/高野豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏腿肉",
+        "高野豆腐",
+        "ケチャップ",
+        "醤油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/246255/100x141c/266910e3a09ef2fdb6273bff2c19faa9.jpg?u=57297&p=1214212824"
+}

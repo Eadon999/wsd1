@@ -1,0 +1,61 @@
+{
+    "name": "✿ささみの塩竜田揚げ✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/2285559/464x260/dd241aff6b1421c11fc61f19a82295bc.jpg?u=271833&p=1373734034",
+    "datePublished": "2013-07-14",
+    "description": "ヘルシーな鶏ささみで作る竜田揚げ♪お弁当のメインおかずにもぴったりです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "3本"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆鶏がらスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆おろしにんにく",
+            "quantity": "1/2かけ分"
+        },
+        {
+            "name": "☆塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋を取り去り、1本を3等分に切る。",
+        "ビニール袋の中に１と☆を入れてよくもみ込み３０分以上置く。",
+        "２に片栗粉を投入。袋をよく振ってささみ全体に片栗粉をまぶす。",
+        "熱した揚げ油でからりと揚げたら出来上がり。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "2285559",
+    "advice": "＊お弁当用に作る場合、前日の夜に工程２まで済ませて冷蔵庫に入れておけば楽々♪",
+    "history": "ささみの大量パックを買ったので新しい味を試してみました。竜田揚げはいつも醤油で下味を付けるのですが、塩味も美味でした。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 竜田揚げ",
+        "ささみ メイン"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/2285559/100x141c/eb8273e1277410a56f60ae54f03fd219.jpg?u=271833&p=1373734034"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "塩にんにくの唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "。・うらら。・。"
+    },
+    "image": "https://img.cpcdn.com/recipes/1180026/464x260/079ba2c3fc89cb76b1285044e1c61dba.jpg?u=1865673&p=1285158675",
+    "datePublished": "2010-07-08",
+    "description": "いつもの味付けに飽きたら・・・ さっぱり、でもジューシーな唐揚げです。",
+    "recipeYield": "鶏モモ肉１枚分",
+    "recipeIngredient": [
+        {
+            "name": "鶏モモ肉",
+            "quantity": "300ｇぐらい"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "すりおろしにんにく",
+            "quantity": "１片分"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/2～１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "モモ肉を一口大に切ります。",
+        "ビニール袋に下味の材料ともも肉を入れて、１５分以上漬けこみます。",
+        "モモ肉に付いている水分を、キッチンペーパーで拭き取り、片栗粉をまぶします。",
+        "余分な片栗粉を落とし、１８０度の油できつね色になるように揚げて出来上がりです。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1180026",
+    "advice": "キッチンペーパーで余分な水分を取り除くとサクサクでカリカリの唐揚げになりますよ。",
+    "history": "いつもの唐揚げを違う味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏のから揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩にんにく唐揚げ",
+        "唐揚げ 塩"
+    ],
+    "tsukurepo_count": "103",
+    "thumbnail": "https://img.cpcdn.com/recipes/1180026/100x141c/4778a901675f66acc10afa52afb49363.jpg?u=1865673&p=1285158675"
+}

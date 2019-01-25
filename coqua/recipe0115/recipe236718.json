@@ -1,0 +1,74 @@
+{
+    "name": "卵とエビの春巻き",
+    "author": {
+        "@type": "Person",
+        "name": "Serachi"
+    },
+    "image": "https://img.cpcdn.com/recipes/236718/464x260/2c1e22b8a1779cc020681651c25c8d9d.jpg?u=7133&p=1214212623",
+    "datePublished": "2006-02-02",
+    "description": "パリパリの皮に、フワフワの卵、プリプリのエビの食感が良いのです。大葉もアクセントに。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "むきエビ",
+            "quantity": "200g"
+        },
+        {
+            "name": "Ａ　しょうがのしぼり汁",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "Ａ　片栗粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "卵",
+            "quantity": "5個"
+        },
+        {
+            "name": "Ｂ　砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "Ｂ　塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "大葉",
+            "quantity": "20～30枚"
+        },
+        {
+            "name": "春巻きの皮",
+            "quantity": "10枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "むきエビはＡで下味をつけ、さっと炒めて塩コショウする。",
+        "卵はＢで下味をつけ、フライパンに油(分量外)をひき、フンワリとした大きめの炒り卵にする。",
+        "春巻きの皮に大葉を２～３枚敷き、そこに炒り卵，エビを乗せて巻く。",
+        "油（分量外）で揚げてできあがり。切口が３色できれいなので、斜めに切って出すと良いと思います。",
+        "辛子醤油をつけてどうぞ。ポン酢やスイートチリもオススメです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "236718",
+    "advice": "節約バージョンで、エビの代わりにカニカマを使っても♪",
+    "history": "母がよく作る春巻きです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春巻き",
+        "えび 春巻き"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/236718/100x141c/bd313b741321b11fe24ce17e00e20fc9.jpg?u=7133&p=1214212623"
+}

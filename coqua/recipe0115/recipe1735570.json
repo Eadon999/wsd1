@@ -1,0 +1,52 @@
+{
+    "name": "白ワインにあう、アボカドと水菜のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1735570/464x260/a4488a849d23100b368b08cd80076806.jpg?u=2142891&p=1331387139",
+    "datePublished": "2012-03-10",
+    "description": "さっぱり食べ応えのあるサラダです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ワインビネガー",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は３～４ｃｍに切って、水に5分さらす。ざるにあげて、水気をしっかり切る。",
+        "アボカドは一口大に切る。レモン汁をふりかける。",
+        "ボールにアボカドと水菜を入れてざっくり混ぜる。白ワインビネガー、オリーブ油を加えて味が混ぜて味がなじんだら、完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1735570",
+    "advice": "白ワインビネガーの代わりに、食酢や酢でも大丈夫です。",
+    "history": "休日のブランチに美味しいバゲット、白ワインと一緒に食べると、幸せ～な気分になります（＾＾）",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "その他/おもてなし料理/おもてなしサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド水菜サラダ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1735570/100x141c/b9ea01e9ab1044ab2de270629ca55aa7.jpg?u=2142891&p=1331387139"
+}

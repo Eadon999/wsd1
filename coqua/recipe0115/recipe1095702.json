@@ -1,0 +1,75 @@
+{
+    "name": "鮭の味噌マヨ炒め☆",
+    "author": {
+        "@type": "Person",
+        "name": "ひれまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1095702/464x260/472d4cedaae51e041d0780ebfac6ff61.jpg?u=1727762&p=1270946620",
+    "datePublished": "2010-04-11",
+    "description": "味噌とマヨネーズのタレとバターの風味が美味しい１品です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "２切"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "１/8個"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１/3本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１/2株"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩・胡椒・小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "バター",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "味噌・マヨネーズ・砂糖・醤油を混ぜて合わせ調味料を作る。\r\n鮭は４等分に切って塩・胡椒をふり、小麦粉をまぶす。",
+        "フライパンに油を熱し、皮目を下にして鮭を焼く。こんがり焼き目がついたら全体を焼き、お皿に取り出しておく。",
+        "２のフライパンをキッチンペーパーでふいてバターを入れ、キャベツ・長ネギ・しめじを炒める。",
+        "野菜に火が通ったら鮭を戻しいれ、合わせ調味料を加えて炒め合わせる。出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1095702",
+    "advice": "鮭に小麦粉をまぶしてあるので焼き崩れにくいし、香ばしく仕上がりますよ＾＾",
+    "history": "ちゃんちゃん焼き風で簡単に！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生鮭",
+        "キャベツ",
+        "長ネギ",
+        "しめじ"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1095702/100x141c/5be7ff6498807c7b75f6d5669e552156.jpg?u=1727762&p=1270946620"
+}

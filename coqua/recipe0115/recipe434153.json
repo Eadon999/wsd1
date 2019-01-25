@@ -1,0 +1,63 @@
+{
+    "name": "にんじんとピーマンの味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "しおりーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/434153/464x260/4f225419e974c6a3a32419e91ccafd5c.jpg?u=580316&p=1215133405",
+    "datePublished": "2007-09-24",
+    "description": "スライサーで千切りにすればにんじん１本ペロリと食べられます♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "３ヶ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんはスライサーで千切りにし、ピーマンも細切りにする。ごま油以外の調味料も合わせておく。",
+        "ごま油をフライパンに入れ、ピーマンを炒める。",
+        "ピーマンがしんなりしたらにんじんも炒める。だいたい火が通ったら合わせた調味料を回し入れ、全体に味がしみわたるように炒める。お皿に盛りつけ白ごまをふりかけてできあがり☆",
+        "☆にんじんだけバージョン☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "434153",
+    "advice": "みりんを入れましたが無くても砂糖が入るので甘くなります。",
+    "history": "母レシピです。にんじん多めが彩りのポイントだそうです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "ピーマン",
+        "砂糖",
+        "酒"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/434153/100x141c/b57b5255d3ddd3fd7397dcbc62552231.jpg?u=580316&p=1215133405"
+}

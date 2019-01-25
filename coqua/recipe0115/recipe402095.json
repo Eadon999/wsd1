@@ -1,0 +1,75 @@
+{
+    "name": "鰯のつみれ汁",
+    "author": {
+        "@type": "Person",
+        "name": "チョイ子"
+    },
+    "image": "https://img.cpcdn.com/recipes/402095/464x260/ed2fdc3e3c5ba7320a21b5386cdbb984.jpg?u=266398&p=1214216672",
+    "datePublished": "2007-07-10",
+    "description": "栄養満点!!イワシのつみれ汁です。千葉県のご当地メニューのようで。。どうぞお試しください☆",
+    "recipeYield": "４～５人分",
+    "recipeIngredient": [
+        {
+            "name": "●真イワシ",
+            "quantity": "４匹"
+        },
+        {
+            "name": "●しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●とき卵",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "大根",
+            "quantity": "10㌢程"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1.5㍑程"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をいちょう切りにして、だし汁にいれて火にかける。",
+        "三枚におろした鰯を粗く刻み、すり鉢でする。 \r\n\r\n☆フードプロセッサーがある方は、ガ～っとやっちゃってください。",
+        "すりおろしたしょうがと、味噌、酒、とき卵を加え、滑らかになるまでさらにすり混ぜる。滑らかになったら片栗粉を加えて、硬さを調整する。\r\n\r\n☆入れすぎると『団子』になってしまうので注意してください。",
+        "ｽﾌﾟｰﾝで丸めながら①の中に入れていき、臭み消しの酒を少々加え、しばし煮る。\r\n\r\n仕上げに塩を加えて味を調整したら完成☆\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "402095",
+    "advice": "小骨が気になる方は、骨抜きなどで丁寧に取ってからすり身にしてください。",
+    "history": "私の母の味を、娘にむけて作ってみました♡",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "真イワシ",
+        "しょうが",
+        "味噌",
+        "酒"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/402095/100x141c/b78992419e5778ed28ece3bd33c8b8ed.jpg?u=266398&p=1214216672"
+}

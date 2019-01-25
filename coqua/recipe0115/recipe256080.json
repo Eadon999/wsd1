@@ -1,0 +1,59 @@
+{
+    "name": "きゅうりとかまぼこのごま和え",
+    "author": {
+        "@type": "Person",
+        "name": "monemaruku"
+    },
+    "image": "https://img.cpcdn.com/recipes/256080/464x260/7e8b6a20a422a7cec1f9bd31390bb452.jpg?u=33068&p=1496969750",
+    "datePublished": "2006-05-24",
+    "description": "もう一品欲しいな～っていう時に作ります！旦那さんの大好物でお酒につまみにもなります！H29.6.9レシピ改良",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "塩",
+            "quantity": "しょうしょう"
+        },
+        {
+            "name": "かまぼこ",
+            "quantity": "1本"
+        },
+        {
+            "name": "すりごま（白）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりはへたを切り、1ｃｍ幅の輪切りにします。ザルにきゅうりと塩を少々入れて塩もみします。きゅうりがしんなりしたら水で洗い水切りします。",
+        "かまぼこを縦に半分切り、横に1ｃｍ幅に切ります。ボールに調味料を合わせて【1】のきゅうりとかまぼこを入れ和えます。",
+        "器に【2】を盛り付け出来上がりです！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "256080",
+    "advice": "きゅうりの大きさでしょうゆの量を加減してください。",
+    "history": "もう一品欲しいな～っていう時に作りました！！簡単でとってもおいしいですよ(^～^)",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かまぼこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かまぼこ きゅうり"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/256080/100x141c/3c018bffbb2f6f79fdc413186b3765bf.jpg?u=33068&p=1496969750"
+}

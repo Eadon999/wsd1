@@ -1,0 +1,62 @@
+{
+    "name": "もやしの中華サラダ〜サッとゆで2分！",
+    "author": {
+        "@type": "Person",
+        "name": "hakobeteto"
+    },
+    "image": "https://img.cpcdn.com/recipes/2568770/464x260/8a769f869daa69311631ac9055165ca0.jpg?u=4870634&p=1396430634",
+    "datePublished": "2014-04-09",
+    "description": "2分ゆでて和えるだけレピマガ掲載ありがとう！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "エノキダケ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでる。もやし、エノキをサッと茹でる。",
+        "和える。ボウルに合わせておいた☆に、熱いうちに1を入れ和える。お好みでゴマ・ネギを振って、完成！",
+        "追記：ピーマン&赤ピーマンでカラフルに！バージョン♪",
+        "追記:大量ver。\n本日もやしネギ。①フライパンに1カップの湯。②野菜投入、蒸し1分。③和える。完成！",
+        " ネギも美味いです！",
+        "もやしonlyバージョン。もやしにゴマだけ振りかけ、液に一晩浸しました。意外とシャキシャキ！",
+        "保存は、液ごとタッパーへ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2568770",
+    "advice": "もやしは、茹で加減で、歯ごたえを残してもクタクタにゆでても美味しいです。ラクチン！大人用には、ラー油を垂らすと風味UP！",
+    "history": "特売のもやしとエノキを消費したくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "エノキダケ",
+        "酢",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/2568770/100x141c/4bd6c85e6e3cf80ae3dc1b4ebac8bea5.jpg?u=4870634&p=1396430634"
+}

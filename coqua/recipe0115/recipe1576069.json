@@ -1,0 +1,75 @@
+{
+    "name": "れんこんと鶏ひき肉の炒め煮",
+    "author": {
+        "@type": "Person",
+        "name": "ノンジェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1576069/464x260/442b18db64b87f12decbb522b45b040c.jpg?u=3493623&p=1316504316",
+    "datePublished": "2011-09-20",
+    "description": "シャキシャキれんこんに鶏肉のコクを効かせて！ごはんがすすみます！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "鶏ひき肉",
+            "quantity": "１６０グラム"
+        },
+        {
+            "name": "☆しょうがのすりおろし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★さとう",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "片栗粉・水（水溶き片栗粉）",
+            "quantity": "大さじ１・大さじ２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１／２"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは乱切りにし水にさらします\n鶏ひき肉に☆をもみこんでおきます",
+        "フライパンにサラダ油を大さじ１／２を入れ中火で熱し鶏ひき肉を炒め、色が変わったられんこんも入れて炒めます",
+        "ひき肉とれんこんにうっすら焦げ目が付くまで炒めて★をまわし入れます",
+        "まんべんなく色が付いたら水溶き片栗粉を入れてとろみを出します"
+    ],
+    "cookTime": null,
+    "recipe_id": "1576069",
+    "advice": "片栗粉のとろみでポロポロ鶏ひき肉もれんこんとまとまって食べやすいです",
+    "history": "れんこんのしゃきしゃきを味わいたくなりました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "鶏ひき肉",
+        "しょうがのすりおろし",
+        "酒"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1576069/100x141c/fb5cbda5e03d48133ade7d4220dcb886.jpg?u=3493623&p=1316504316"
+}

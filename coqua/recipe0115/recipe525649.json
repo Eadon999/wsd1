@@ -1,0 +1,67 @@
+{
+    "name": "レタスとちくわのピリ辛サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/525649/464x260/64ed411be4263bee091beb1c5d77ceb3.jpg?u=274122&p=1214219052",
+    "datePublished": "2008-03-08",
+    "description": "コチュジャン入りのピリ辛ドレッシングでレタスをモリモリ食べられます。ちょっと辛い冷やし中華風の味がします。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "２００グラムぐらい"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "３本～"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○ニンニク",
+            "quantity": "すりおろして小さじ１／２"
+        },
+        {
+            "name": "○コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "○いりごま",
+            "quantity": "大さじ１ぐらい"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは洗って食べやすい大きさに手でちぎり水気を切る。ちくわは輪切りにする。",
+        "○を合わせておく。",
+        "ボウルに１と２を入れよく混ぜてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "525649",
+    "advice": "今回は米酢を使いましたが，すし酢で作ってもおいしいです。",
+    "history": "賞味期限間近のちくわが冷蔵庫にあったのでサラダにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "ちくわ",
+        "酢",
+        "ニンニク"
+    ],
+    "tsukurepo_count": "163",
+    "thumbnail": "https://img.cpcdn.com/recipes/525649/100x141c/c76faa91199293577e16afb155659efd.jpg?u=274122&p=1214219052"
+}

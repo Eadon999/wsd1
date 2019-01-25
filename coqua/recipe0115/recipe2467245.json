@@ -1,0 +1,51 @@
+{
+    "name": "白菜のお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ミコおばちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2467245/464x260/85abf6efbc93e31efcd172eca6ce2104.jpg?u=2894472&p=1451869596",
+    "datePublished": "2014-01-19",
+    "description": "5月7日、話題のレシピになりました。有難うございます。白菜が甘くて美味しい。これだけでご飯が美味しい。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "100g"
+        },
+        {
+            "name": "お味噌",
+            "quantity": "50g"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "400cc"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "20g"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を細く切っておきます。\n\nネギは小口切りにします。",
+        "だし汁をお鍋に入れ、1の白菜を煮ます。",
+        "2が少し柔らかくなれば、お味噌を溶かして下さい。\n",
+        "3の味見をして、おねぎを入れて、完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2467245",
+    "advice": "白菜は芯の部分はよく煮て下さい。味噌をとかしたら、あまり煮ないで下さい。",
+    "history": "和食、お吸い物、出来るだけ伝えていきたいですね。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "お味噌",
+        "だし汁",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2467245/100x141c/9d6f07f9efe8daa1e33991a62f764a02.jpg?u=2894472&p=1451869596"
+}

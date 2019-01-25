@@ -1,0 +1,58 @@
+{
+    "name": "一人ランチに♪納豆ご飯のお好み焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/487480/464x260/331aa2e91b6f6f13649df85720f799b8.jpg?u=255591&p=1345608742",
+    "datePublished": "2008-01-13",
+    "description": "納豆ご飯をお好み焼き風に焼いたらボリューム満点なランチに早変わり♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "１膳分"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ（小口切り）",
+            "quantity": "たくさん"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１/２パック～"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆～ねぎまでの材料を混ぜ合わせる。（納豆に添付されているタレも一緒に）",
+        "フライパンにごま油を熱し[１]を流し入れ弱火～中火で両面こんがり焼く。",
+        "鰹節とお好みでポン酢やマヨネーズ、醤油などをかけて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "487480",
+    "advice": "とにかくねぎたっぷりが美味しいです。",
+    "history": "冷蔵庫に何もないとき納豆ご飯だけだと物足りないので焼いてボリュームアップしました。",
+    "categories": [
+        "今日のご飯・おかず/粉もの/お好み焼き/アレンジお好み焼き"
+    ],
+    "rankings": [
+        "ひとりランチ 9位"
+    ],
+    "related_keywords": [
+        "ご飯 お好み焼き",
+        "ひとりランチ"
+    ],
+    "tsukurepo_count": "295",
+    "thumbnail": "https://img.cpcdn.com/recipes/487480/100x141c/6ca1b53d01ca87aed197bb12c5839ab8.jpg?u=255591&p=1345608742"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "ピーマン☆ツナマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "りえおさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/252012/464x260/cd8c22d5c7408b58a658af2c47846c48.jpg?u=218170&p=1214212976",
+    "datePublished": "2006-05-02",
+    "description": "レモン風味でサッパリ☆ピーマンもりもり食べられます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "１袋（中５個位）"
+        },
+        {
+            "name": "ツナ缶（油は切って捨てる）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "冷凍コーン",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２～３"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは種を取り縦に千切り。塩少々入れてサッと茹でて流水にさらし、ザルにあげて水気を切る。",
+        "全ての材料を合わせて塩胡椒で味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "252012",
+    "advice": "冷凍コーンは自然解凍かピーマンと一緒に茹でて下さい。黒胡椒を効かせてもおいしいです♪",
+    "history": "ピーマンを消費したかったので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "ツナ缶",
+        "冷凍コーン",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/252012/100x141c/51a6afe631bef691de8938a9caf88066.jpg?u=218170&p=1214212976"
+}

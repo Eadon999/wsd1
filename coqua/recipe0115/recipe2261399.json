@@ -1,0 +1,77 @@
+{
+    "name": "かつお節たっぷり♪大根の青じそ梅マリネ",
+    "author": {
+        "@type": "Person",
+        "name": "souffles"
+    },
+    "image": "https://img.cpcdn.com/recipes/2261399/464x260/0bf6a28a2ea34a1d48e9df721a18be41.jpg?u=2228826&p=1372116583",
+    "datePublished": "2014-01-08",
+    "description": "決め手はたっぷりのかつお節♪さわやかな青じそと梅の和風マリネです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少量"
+        },
+        {
+            "name": "かつお節（トッピング）",
+            "quantity": "適量"
+        },
+        {
+            "name": "梅干し（種を除いてみじん切り）",
+            "quantity": "１５ｇ"
+        },
+        {
+            "name": "青じそ（千切り）",
+            "quantity": "5枚"
+        },
+        {
+            "name": "かつお節（薄削り＊）",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大１"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "Ａの材料を混ぜ合わせておく。",
+        "大根は千切りにして、全体に塩少々をふって10分以上置く。",
+        "大根がしんなりしてきたら、手で水気を絞る。",
+        "Ａを入れてよく混ぜ、冷蔵庫で1時間以上マリネする。",
+        "器に盛り、上からお好みでかつお節をかけていただく。",
+        "＊Ａに加えるのは薄削りタイプのかつお節です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2261399",
+    "advice": "＊細かい薄削りタイプのかつお節のほうがドレッシングとして使いやすいです。なけれは普通の削り節でも。トッピングはお好きなタイプのかつお節をかけてください。",
+    "history": "かつお節の風味を生かして、大根をたくさん食べられるさっぱりマリネを作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "塩",
+        "かつお節",
+        "梅干し"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2261399/100x141c/2d77d209d47e1dd6d8d9b3202f8aefb9.jpg?u=2228826&p=1372116583"
+}

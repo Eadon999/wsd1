@@ -1,0 +1,67 @@
+{
+    "name": "冬瓜のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "YUMIKOMUGI"
+    },
+    "image": "https://img.cpcdn.com/recipes/1535450/464x260/4350a5fc576ecf93038a117d97d2c330.jpg?u=280452&p=1314769923",
+    "datePublished": "2011-08-29",
+    "description": "冬瓜は煮ものよりサラダ派です。もりもり食べれるよ♪'12/8/23初の話題入り！感謝☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜",
+            "quantity": "1/8"
+        },
+        {
+            "name": "（ミニ冬瓜なら",
+            "quantity": "1/2個）"
+        },
+        {
+            "name": "ハム",
+            "quantity": "4枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "パプリカ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "（今回は赤と黄を",
+            "quantity": "1/4ずつ）"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大3～お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜は皮を剥いてワタを取り、薄い千切りにして塩（分量外）を振って10分置く。",
+        "パプリカも千切りに、卵は溶いて焼くか電子レンジで加熱して錦糸卵状に（粗くでOK）。ハムも合わせて細く切る。",
+        "冬瓜を水で洗って塩を流してから、ぎゅーっっっとしっかり水気を切る。②と合わせる。",
+        "めんつゆとマヨネーズで和えて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1535450",
+    "advice": "特にありませんが、冬瓜の水切りはしっかり目がお勧めです。",
+    "history": "夏なので、さっぱりしたものをたくさん食べて栄養とりたくて＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "ハム",
+        "卵",
+        "パプリカ"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/1535450/100x141c/9dde952848b572055dd01c861dbdf480.jpg?u=280452&p=1314769923"
+}

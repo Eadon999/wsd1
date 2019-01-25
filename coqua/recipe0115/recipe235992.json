@@ -1,0 +1,62 @@
+{
+    "name": "たこ飯",
+    "author": {
+        "@type": "Person",
+        "name": "nin"
+    },
+    "image": "https://img.cpcdn.com/recipes/235992/464x260/945413c7d5c1b5374ca19ad7dfb02c97.jpg?u=58356&p=1214212604",
+    "datePublished": "2006-01-27",
+    "description": "兵庫県の郷土料理ですが、漁師料理なので各地にもあります。　本当は生だこを使い、ほんのりピンク色に炊き上がりますが、家庭ではゆでたこを使って簡単に作りましょう。　お好みで針しょうがやあさつきを散らしてください。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "たこ",
+            "quantity": "200g程度"
+        },
+        {
+            "name": "米",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1と1/2杯"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1片"
+        }
+    ],
+    "recipeInstructions": [
+        "米を研いでザルにあけ、30分ほど水気を切っておく。",
+        "たこを厚さ3mm程度の削ぎ切りにし、醤油、酒、みりん、砂糖、千切りにしたしょうがを混ぜた鍋に入れ、2～3分煮立たせる。",
+        "炊飯器に米を入れ、たこの煮汁を入れてから水を足して通常の水加減にし、たこを加えてから通常通り炊く。"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "235992",
+    "advice": "",
+    "history": "何か炊き込みご飯が食べたいな、というときに、冷蔵庫にたこがあったんで。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ",
+        "その他/ご当地料理/近畿/兵庫県"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ飯 生だこ",
+        "漁師 タコ飯",
+        "たこめし"
+    ],
+    "tsukurepo_count": "111",
+    "thumbnail": "https://img.cpcdn.com/recipes/235992/100x141c/acade730f40e0079a08880c22cc56f5c.jpg?u=58356&p=1214212604"
+}

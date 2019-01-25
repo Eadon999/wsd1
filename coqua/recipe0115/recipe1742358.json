@@ -1,0 +1,54 @@
+{
+    "name": "☆和食の基本☆さば味噌",
+    "author": {
+        "@type": "Person",
+        "name": "いたやん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1742358/464x260/46836e618f6c8f0db6fcd0dc8d23aa02.jpg?u=303464&p=1331902641",
+    "datePublished": "2012-03-16",
+    "description": "味噌と生姜で臭みもなくおいしく仕上がります。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "１尾"
+        },
+        {
+            "name": "■砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "■酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "■生姜（スライスか千切り）",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "さばは半分に切る。\n鍋に■を入れ沸騰させ、さばを皮目を下にして入れ、かぶる位の水を入れ煮る。",
+        "８分ぐらいまで火が通れば味噌を入れ、煮汁がとろっとするまで中火でふつふつと煮詰めて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1742358",
+    "advice": "煮崩れしやすいので煮詰まるまでなるべく触らないようにします。味噌は白みそと赤みそを混ぜたりお好きな味噌で試してみてください。",
+    "history": "ご飯がすすむお魚料理です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖 味噌"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/1742358/100x141c/ac41158f3ee4dd6470f2ac622ce48505.jpg?u=303464&p=1331902641"
+}

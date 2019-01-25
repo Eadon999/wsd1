@@ -1,0 +1,70 @@
+{
+    "name": "ぱぱっと！牛肉と茄子とピーマンの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "こころうさぎ☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3839694/464x260/eafba26f949a00d86851d238af53e80a.jpg?u=14030127&p=1462281516",
+    "datePublished": "2016-05-03",
+    "description": "牛肉と野菜をオイスターソースで中華風に♥",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "3本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "4コ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "3ｃｍ"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "3ｃｍ"
+        },
+        {
+            "name": "牛肉薄切り",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は1ｃｍ幅の半月切りにし、水にさらします。\nピーマンは種を取り出し、乱切りにします。",
+        "ゴマ油大さじ2で、水けを切った茄子を炒めます。次にピーマンを加え炒め、一度取り出します。",
+        "ゴマ油大さじ1に、にんにく・しょうがを入れ、牛肉を炒めます。",
+        "取りだしておいた野菜を加え、調味料で味付けして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3839694",
+    "advice": "茄子に火が通ってからピーマンを加える。",
+    "history": "お肉と野菜をバランスよく、中華風の味付けで作りました。ご飯と合います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす",
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 薄切り なす",
+        "牛肉薄切り ピーマン"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/3839694/100x141c/24ea3ce9e23af6ec82f6186b4dbd9211.jpg?u=14030127&p=1462281516"
+}

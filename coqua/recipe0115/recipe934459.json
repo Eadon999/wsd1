@@ -1,0 +1,61 @@
+{
+    "name": "★カレールーで簡単ドライカレー★",
+    "author": {
+        "@type": "Person",
+        "name": "tuna516"
+    },
+    "image": "https://img.cpcdn.com/recipes/934459/464x260/92fb0c8c050a6648b6ca947aef6aede0.jpg?u=1444635&p=1301448747",
+    "datePublished": "2009-10-12",
+    "description": "簡単に美味しいドライカレーはいかがですか？ 2010,6,5つくれぽ10件達成!!ありがとうございます♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "半分"
+        },
+        {
+            "name": "合いびき肉",
+            "quantity": "200グラム"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "2かけ"
+        },
+        {
+            "name": "ウスターソース",
+            "quantity": "大さじ1(お好みで)"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ1(お好みで)"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "人参と玉ねぎをみじん切りにする。",
+        "フライパンに油を引いて、野菜を炒める。\r\n火が通ったらそこにひき肉を加える。\r\n",
+        "水１カップとカレールーを加え、綺麗に溶けるまで煮込む\r\n",
+        "綺麗に溶けたら、ウスターソースとケチャップと塩、コショウで味を調える。",
+        "目玉焼きをお好みでどうぞ♡ \r\n(個人的にはありが美味しいです)"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "934459",
+    "advice": "",
+    "history": "手抜きドライカレーです",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/ドライカレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ドライカレー カレールー"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/934459/100x141c/1bd4991f3c3c2e98d8dc91e898862809.jpg?u=1444635&p=1301448747"
+}

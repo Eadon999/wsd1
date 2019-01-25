@@ -1,0 +1,56 @@
+{
+    "name": "初めてでも簡単♪ビシソワーズ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3276853/464x260/4bd47feae88787c04fc143a7daddf342.jpg?u=4376699&p=1467203772",
+    "datePublished": "2015-07-05",
+    "description": "ミキサー不要！生クリーム不要！バター少々！にんにくで風味アップ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも(小)",
+            "quantity": "100g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "200cc"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "バター(マーガリン)",
+            "quantity": "2g"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "3mm"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮を剥きラップをしてレンジ600w3分チン\n反して3分チン\nすぐマッシュして裏ごしする",
+        "フライパンにじゃがいも、牛乳、調味料を入れ中火で2分ほど温めて調味料を溶かして器に移す",
+        "冷めたら冷蔵庫で冷やして完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3276853",
+    "advice": "調味料を溶かす時は沸騰させないように注意してください温かいままでも美味しいです仕上げの飾りはパセリがおすすめクックパッドニュース掲載http://news.cookpad.com/articles/18897",
+    "history": "ビシソワーズに初挑戦何回か作ってみました1回目じゃがいも200g牛乳250cc…とろとろ2回目じゃがいも100g牛乳200cc…ちょいサラ※裏ごし(普通のザルでも十分)するとなめらかになります♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ビシソワーズ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ビシソワーズ ミキサーなし",
+        "ビシソワーズ 簡単 ミキサーなし"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/3276853/100x141c/6956a3640a01ca48e75d519878036c4b.jpg?u=4376699&p=1467203772"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "胡瓜とささみの中華風♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3821771/464x260/ddf7ae60b8c6c414e7a04ab994cbddc3.jpg?u=9552524&p=1461373641",
+    "datePublished": "2016-04-27",
+    "description": "簡単おつまみです♬箸休めにいかがですか(^^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キュウリ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ささ身",
+            "quantity": "１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆炒りゴマ",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "☆はボールに合わせておきます。",
+        "ささ身は鍋に水・塩少々・酒少々（分量外）と共に入れて火にかけ沸騰したら中火で２分茹でてそのまま冷まし、手で裂きます。",
+        "キュウリは塩少々を振って板ずりして棒で叩き割り、ひと口大に手で割ります。",
+        "①に②と③を加えてサックリ和え、冷蔵庫で１５分以上置いて味を馴染ませます。",
+        "漬けダレごと器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3821771",
+    "advice": "キュウリは叩いてから手で割ってね♪味が染みやすく美味しいです(^^)",
+    "history": "うちの旦那っちの芋焼酎のお供です(^^)",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キュウリ",
+        "ささ身",
+        "塩",
+        "醤油"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3821771/100x141c/5b219359d4723022022bcbabe431b218.jpg?u=9552524&p=1461373641"
+}

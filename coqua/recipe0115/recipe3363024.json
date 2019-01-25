@@ -1,0 +1,68 @@
+{
+    "name": "オクラとなすの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3363024/464x260/d995d2e9f39073838f31148bea735d87.jpg?u=4819316&p=1440419488",
+    "datePublished": "2015-08-24",
+    "description": "17/9/28話題入り有難うございます、オクラとなすを甘辛く卵とじにした優しい味の一品です、夏の疲れた胃にどうぞ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "１本"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "４本"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個ま"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは縦半分に切って斜め薄切りにして水にさらす",
+        "オクラはヘタを落として縦半分に切る",
+        "フライパンに水切りしたなすとオクラと●を入れて煮る",
+        "なすがしんなりとしてきたら、溶いた卵を入れて、卵が固まり始めると火を止める",
+        "器に移して出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3363024",
+    "advice": "なすは薄くし切って早く火が通るようにした方が良いでしょう",
+    "history": "会社の社員食堂で出た副菜の一品です。ほんの少量しかなかったのですが美味しくて、レシピを想像して作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "オクラ",
+        "卵",
+        "砂糖"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3363024/100x141c/4efdbf1d2187a0531ed345bec4ba03f3.jpg?u=4819316&p=1440419488"
+}

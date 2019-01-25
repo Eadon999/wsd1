@@ -1,0 +1,65 @@
+{
+    "name": "ヘルシー★蒸しなすの香味ソース",
+    "author": {
+        "@type": "Person",
+        "name": "ゆあなママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1221940/464x260/94a77a4bc084a7eb7b782fa829132c26.jpg?u=1226128&p=1283170128",
+    "datePublished": "2010-09-01",
+    "description": "なすはレンジで蒸すのでお手軽♪10分でできるめちゃ旨ヘルシー★冷製パスタやうどんにのっけてもおいしいです。",
+    "recipeYield": "2",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "2〜3本"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大3"
+        },
+        {
+            "name": "酢",
+            "quantity": "大3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小1"
+        },
+        {
+            "name": "すりおろししょうが",
+            "quantity": "少し"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "少し"
+        },
+        {
+            "name": "ネギの輪切り",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "なすは洗ってヘタを取りピーラーでしましま模様に皮をむく｡ラップに包み500Wのレンジで7分加熱する｡",
+        "その間にタレの材料をボールに入れて混ぜておく｡蒸しあがったなすは竹串を使ってさく。タレのボールに入れる。",
+        "そのままでもおいしいですが､時間があったら冷蔵庫で冷やしても旨ぁです(^^)v"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1221940",
+    "advice": "蒸したなすは熱いので火傷に注意です。冷やしうどんにのっけたり丼にしてもオススメです!!",
+    "history": "昔から母がよく作ってくれたなす料理。母は揚げていましたがヘルシーにレンジで蒸しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": [
+        "蒸しなす 8位"
+    ],
+    "related_keywords": [
+        "むしなす"
+    ],
+    "tsukurepo_count": "102",
+    "thumbnail": "https://img.cpcdn.com/recipes/1221940/100x141c/5de5cc6b28d2612f5fce270084ce295f.jpg?u=1226128&p=1283170128"
+}

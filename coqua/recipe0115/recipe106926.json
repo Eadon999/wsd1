@@ -1,0 +1,74 @@
+{
+    "name": "納豆スパ",
+    "author": {
+        "@type": "Person",
+        "name": "monemaruku"
+    },
+    "image": "https://img.cpcdn.com/recipes/106926/464x260/91da9bcc3e0855c0782bacfba9381256.jpg?u=33068&p=1228976855",
+    "datePublished": "2003-09-09",
+    "description": "話題のレシピつくれぽ100人✿クックパッド『大絶賛パスタ』の本掲載！！包丁もまな板も使いません！！本当に簡単で、おいしいです（^～^)私の得意な納豆料理のうちの一つです！皆様にも好評で感謝してます(*_ _)人ありがとうございます！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "3パック"
+        },
+        {
+            "name": "大根",
+            "quantity": "約7ｃｍ"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "卵黄",
+            "quantity": "1個"
+        },
+        {
+            "name": "きざみ海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "300g"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "納豆タレ",
+            "quantity": "納豆に入ってるの全部"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根をおろします。ボールに材料の塩ときざみ海苔とパスタ以外のものを全部いれます。",
+        "【1】を混ぜます。",
+        "水に塩を入れ、沸騰したらパスタをアルデンテに茹でます。そして【2】とあえて、お皿に盛り付けきざみ海苔をかけ出来上がり！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "106926",
+    "advice": "大根おろしを入れると、ふわふわになるんだよφ(．． )ﾒﾓﾒﾓ　オクラやシソを入れてもおいしいよ(^～^)いろいろアレンジしてみてね♪",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/納豆入りスパ"
+    ],
+    "rankings": [
+        "納豆パスタ 3位"
+    ],
+    "related_keywords": [
+        "納豆パスタ",
+        "納豆料理"
+    ],
+    "tsukurepo_count": "692",
+    "thumbnail": "https://img.cpcdn.com/recipes/106926/100x141c/227e468fc358b3589495301aab473a11.jpg?u=33068&p=1228976855"
+}

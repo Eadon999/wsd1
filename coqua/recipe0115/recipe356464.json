@@ -1,0 +1,49 @@
+{
+    "name": "♪簡単・おいしい冷奴♪",
+    "author": {
+        "@type": "Person",
+        "name": "まるまるなつ"
+    },
+    "image": "https://img.cpcdn.com/recipes/356464/464x260/0eeb24a109307d3ad4fbfe6ba9a8f5d9.jpg?u=447273&p=1214215281",
+    "datePublished": "2007-04-08",
+    "description": "2007,9,10、話題入りすることができました。ありがとうございます☆塩昆布とネギとごま油のタレがたまらなくお豆腐にあいました♪",
+    "recipeYield": "２",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "好きなだけ♪"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１～２"
+        }
+    ],
+    "recipeInstructions": [
+        "みじん切りにしたネギ、塩昆布、ごま油を混ぜ合わせる。",
+        "豆腐にかけてできあがり。。。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "356464",
+    "advice": "塩昆布、ネギ、ごま油の量はお好みで～♪コツありません、すみませんm(__)m",
+    "history": "おいしい冷奴を追い求めてました(@^^)/~~~単に塩昆布が好きだから♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "塩昆布",
+        "ネギ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/356464/100x141c/d9e402a53f307ca969a167b124a8539d.jpg?u=447273&p=1214215281"
+}

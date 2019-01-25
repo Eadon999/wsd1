@@ -1,0 +1,67 @@
+{
+    "name": "シーフードクリームソースパスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/2173108/464x260/662b21fda9d80d4834bbaa9d3a2eb819.jpg?u=921598&p=1364701190",
+    "datePublished": "2013-03-31",
+    "description": "魚介の旨みにバターの風味が効いたソースが絶品❤食べ出したら止まらないシーフードクリームソースパスタに仕上がりました＾＾♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "シーフードミックス",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "80ｃｃ"
+        },
+        {
+            "name": "生クリーム",
+            "quantity": "160ｃｃ"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "コンソメ（顆粒）",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "パセリ（みじん切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにオリーブオイルを熱し、シーフードミックスを入れて炒め、白ワインを加えて蒸し焼きにする。",
+        "1に、生クリーム・バター・コンソメを入れて煮立たせ、塩・こしょうで味を調える。",
+        "2に、茹で上がったパスタを加えてよく絡めたらお皿に盛り付け、パセリを散らしたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2173108",
+    "advice": "お好みのシーフードミックスで作ってみて下さいね♪",
+    "history": "シーフードミックスを使って簡単なパスタを作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/クリームソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "シーフード 生クリーム パスタ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2173108/100x141c/57fec823f8027deb1f7739c1887fe96a.jpg?u=921598&p=1364701190"
+}

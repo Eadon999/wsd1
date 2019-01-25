@@ -1,0 +1,56 @@
+{
+    "name": "筍の土佐煮",
+    "author": {
+        "@type": "Person",
+        "name": "りなまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/420053/464x260/c0d0c3d18947afbd95673cbf37be06a8.jpg?u=232175&p=1214217027",
+    "datePublished": "2007-08-22",
+    "description": "筍といえばこれ♪とってもおいしい味つけです＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "筍の水煮",
+            "quantity": "一袋"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●節つゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "カツオ節",
+            "quantity": "ひとつかみ位"
+        }
+    ],
+    "recipeInstructions": [
+        "筍の水煮の下処理をする。\r\nお湯を沸かし、筍を数分茹でる。その後冷水にとって冷ます。\r\n",
+        "筍を縦２等分してから横に１ｃｍ間隔くらいでカット。先端は大きめにカットする。\r\n（お好みで）",
+        "小鍋に筍を入れてダシ汁をひたひたに入れ、沸騰したら●をすべて入れて水分が少なくなるまで煮る。その後カツオ節を入れて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "420053",
+    "advice": "煮すぎると筍のシャキっと感がなくなってしまうので注意☆出来あがったら冷ましたほうが味がよく染み込みます。",
+    "history": "彼のリクエスト☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 土佐煮",
+        "土佐煮"
+    ],
+    "tsukurepo_count": "381",
+    "thumbnail": "https://img.cpcdn.com/recipes/420053/100x141c/1f583d1f7d72414afd10e71b5f4d5b8b.jpg?u=232175&p=1214217027"
+}

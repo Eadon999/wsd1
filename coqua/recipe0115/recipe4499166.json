@@ -1,0 +1,81 @@
+{
+    "name": "基本の親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "たまごソムリエ友加里"
+    },
+    "image": "https://img.cpcdn.com/recipes/4499166/464x260/e84eb3e91fe574f7a3d140e24422cdb5.jpg?u=3415598&p=1493520752",
+    "datePublished": "2017-04-30",
+    "description": "親子丼の黄金比！とっても美味しい基本の親子丼のご紹介。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "２杯分"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "三つ葉",
+            "quantity": "２〜３本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２/３"
+        },
+        {
+            "name": "紅生姜",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉を一口サイズの大きさにカットする。",
+        "ボウルに卵を割り入れ、混ぜる。",
+        "だし汁・醤油・みりん・お酒・砂糖を合わせ混ぜる。",
+        "フライパンに、③と玉ねぎ・鶏もも肉を加え、中火で沸騰させる。",
+        "沸騰したら、弱火にして、具材に火を通す。",
+        "火がとおったら、卵液を流し込み、中火で１分煮る。",
+        "蓋をして、３０秒煮て、火を止める。予熱で１分火をとおす。",
+        "ご飯の上にのせて、三つ葉と紅生姜をトッピングして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4499166",
+    "advice": "予熱で火を通すことで、半熟な親子丼ができます。卵は、混ぜすぎないのがポイントです。",
+    "history": "基本的な親子丼レシピです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 黄金比",
+        "親子丼 基本"
+    ],
+    "tsukurepo_count": "0",
+    "thumbnail": "https://img.cpcdn.com/recipes/4499166/100x141c/898b44907f9708a06f17067ed0e9e2e8.jpg?u=3415598&p=1493520752"
+}

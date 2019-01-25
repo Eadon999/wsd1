@@ -1,0 +1,58 @@
+{
+    "name": "梅おかか焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "べるり"
+    },
+    "image": "https://img.cpcdn.com/recipes/264611/464x260/819d07fefbf8fdb994589c6b373efd99.jpg?u=256890&p=1214213258",
+    "datePublished": "2006-07-04",
+    "description": "とてもあっさりで、簡単なやきそばです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "焼きそばのめん",
+            "quantity": "2玉"
+        },
+        {
+            "name": "梅干",
+            "quantity": "2個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "1パック（3g入り）"
+        },
+        {
+            "name": "ぽん酢しょうゆ",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "きざみのり・白ごま",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "めんにお水を軽くふり、よくほぐしておく。\r\n梅干は種をとって、刻んでおく。",
+        "フライパンにサラダ油をひき、めんを炒める。",
+        "めんが少しかりっとしてきたら、刻んだ梅干・ぽん酢しょうゆを加えて炒め合わせ、全体にからんだらかつおぶしを入れ、ひと混ぜして火を止める。",
+        "お皿に盛り、きざみのり・白ごまをかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "264611",
+    "advice": "蒸しめんは、炒める前によくほぐしておいてください。きざみのり・白ごまはたっぷりめの方がおいしいと思います。ぽん酢しょうゆの量は、梅干の大きさ・味などで変わると思います。お好みの味に調整してください。",
+    "history": "梅チャーハンのやきそばverってどうかな？と思って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/アレンジ焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "梅干",
+        "かつおぶし",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/264611/100x141c/b3ee2253b13c4df009f2bb81eb81ccfa.jpg?u=256890&p=1214213258"
+}

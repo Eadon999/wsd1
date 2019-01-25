@@ -1,0 +1,62 @@
+{
+    "name": "小松菜と豆腐の塩炒め",
+    "author": {
+        "@type": "Person",
+        "name": "パジャマでうさぎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2340096/464x260/ddd5845022645cdbd15c2814f341a0ba.jpg?u=3501781&p=1378783873",
+    "datePublished": "2013-09-10",
+    "description": "小松菜のとってもヘルシーな炒め物です♬塩味が美味しい♡ご飯がすすむおかずです（＾＾）H26.2.18塩の量変更です",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "半束"
+        },
+        {
+            "name": "もめん豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "◆ほんだし(顆粒)",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "◆醤油",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "◆酒",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "◆塩",
+            "quantity": "小匙1/３～"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "【下準備】\n小松菜は熱湯でさっと茹で冷水に浸し２ｃｍ位の長さに切る。\n豆腐はキッチンペーパーに包み重しをのせ水切りする",
+        "フライパンにごま油を熱し水切りした豆腐を崩しながらぽろぽろになるまで炒める。",
+        "小松菜を加えサッと炒め◆の調味料を加え水分を飛ばすように炒めると完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2340096",
+    "advice": "お塩は味が薄いようだったら追加して下さい。つくれぽで頂いた意見参考させていただいてます♡",
+    "history": "小松菜の副菜を塩味で頂きたくて♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 豆腐",
+        "豆腐",
+        "小松菜",
+        "小松菜 豆腐 炒め"
+    ],
+    "tsukurepo_count": "136",
+    "thumbnail": "https://img.cpcdn.com/recipes/2340096/100x141c/850650c5ad67012a7047f294dad8b73a.jpg?u=3501781&p=1378783873"
+}

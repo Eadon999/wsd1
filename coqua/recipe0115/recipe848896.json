@@ -1,0 +1,71 @@
+{
+    "name": "豆腐とアボカドの和風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/848896/464x260/4048240a6e47fb7de8a3e90a836160c3.jpg?u=377757&p=1245990539",
+    "datePublished": "2009-06-26",
+    "description": "夏に食べたくなるサラダ。わさびがピリッときいて、暑い日もパクパク食べられますよ～！",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐（絹）",
+            "quantity": "1／2丁"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "レタス",
+            "quantity": "6～7枚"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "3個"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "きざみのり",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "わさび",
+            "quantity": "2cmくらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは皮をむき食べやすい大きさに切る。トマトも。レタス、豆腐は手でちぎる。わさびとめんつゆは混ぜておく。",
+        "レタス、アボカド、豆腐、トマトの順に器に盛り付けていき、混ぜておいためんつゆとわさびを回し入れる。その上からマヨネーズ。",
+        "最後にトッピングのかつお節ときざみのりをのせて出来上がり！",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "848896",
+    "advice": "わさびの量はお好みで。ピリッとしたい人はもっと入れたほうがいいかも。",
+    "history": "夏にピッタリなサラダが食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "アボカド",
+        "レタス",
+        "ミニトマト"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/848896/100x141c/607a00e20eaa365642468b8c9d4f0aeb.jpg?u=377757&p=1245990539"
+}

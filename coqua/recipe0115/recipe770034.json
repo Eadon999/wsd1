@@ -1,0 +1,59 @@
+{
+    "name": "にんじんの甘辛炒め。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/770034/464x260/f79a7b3e21913be1053d44b20fc546e5.jpg?u=970306&p=1238125542",
+    "datePublished": "2009-03-27",
+    "description": "2010/1/28話題入りしました。皆さんに感謝。にんじんが苦手な私の大好物。",
+    "recipeYield": "たっぷり",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "大２本"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１.５～"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ２/３～"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは皮をむき、ピーラーで薄くスライスする。",
+        "フライパンにゴマ油を熱し、①のにんじんを入れて炒める。全体に油が馴染んだら、酒・砂糖を加える。",
+        "にんじんがしんなりしたところで、醤油・コチュジャンを加え、更に炒める。水分がなくなれば出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "770034",
+    "advice": "コチュジャンの代わりに、ラー油を少したらしても美味しいです。",
+    "history": "苦手なにんじん。 美味しく食べられるように、切り方・味付けを工夫しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "ゴマ油",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/770034/100x141c/5d14ee6b52a90fddd5190114dc71fbb0.jpg?u=970306&p=1238125542"
+}

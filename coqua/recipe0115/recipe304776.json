@@ -1,0 +1,58 @@
+{
+    "name": "ごまと味ぽんで♪もやしとキャベツ♪",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/304776/464x260/58bd457203f1d475a77e38e3aa56609b.jpg?u=203689&p=1214214160",
+    "datePublished": "2006-11-26",
+    "description": "もやし・キャベツ・油揚げをさっと茹でて、あえるだけの簡単一品(^^)ごまと味ぽんがよく合います♫",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4玉"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "味ぽん",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツ・油揚げは5ミリ幅くらいに切る。\r\n",
+        "鍋にお湯を沸かして\r\nもやし・キャベツ・油揚げをさっと茹でる。\r\n",
+        "水気をよく切って、熱いうちに味ぽん・白すりごま・砂糖を加えて混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "304776",
+    "advice": "熱いうちに混ぜた方が味がなじみます。",
+    "history": "よく味ぽんを使うのですが、ごまを入れたら香りもよく、ぐんと美味しくなりました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "キャベツ",
+        "油揚げ",
+        "味ぽん"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/304776/100x141c/9edfe4da69e8e1b82007679693424685.jpg?u=203689&p=1214214160"
+}

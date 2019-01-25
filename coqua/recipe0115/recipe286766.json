@@ -1,0 +1,65 @@
+{
+    "name": "超簡単１人ランチ☆天津飯",
+    "author": {
+        "@type": "Person",
+        "name": "ne-ne"
+    },
+    "image": "https://img.cpcdn.com/recipes/286766/464x260/c6512a71de338da78789497fa78ffd78.jpg?u=239691&p=1214213747",
+    "datePublished": "2006-10-02",
+    "description": "１人の時のお昼ご飯に☆ 簡単に天津飯☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "１杯分"
+        },
+        {
+            "name": "◎卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "◎だしの素",
+            "quantity": "少々"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "大１弱"
+        },
+        {
+            "name": "冷蔵庫にある野菜など",
+            "quantity": "適量"
+        },
+        {
+            "name": "●水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "●醤油・砂糖・酢",
+            "quantity": "各大1"
+        },
+        {
+            "name": "●片栗粉",
+            "quantity": "小1～2"
+        }
+    ],
+    "recipeInstructions": [
+        "油を少々入れたﾌﾗｲﾊﾟﾝを熱し、◎をよく混ぜて薄く焼き、器に盛ったご飯の上に乗せる。",
+        "１のﾌﾗｲﾊﾟﾝに 少々油を入れて熱し、ｽﾗｲｻｰなどで野菜をｽﾗｲｽしながら直接ﾌﾗｲﾊﾟﾝに入れて炒める。そこに混ぜ合わせた●を入れて、とろみがつけば１の器にかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "286766",
+    "advice": "★卵は若干半熟ぐらいがフワフワで美味しい。★甘酢あんの量は、具の量に応じて加減してください★具は何でもOKです。今回TOP写真を変えましたがこれは大根の葉・人参・かにかまです。基本的に何でも合うと思います。",
+    "history": "洗い物も少なく、簡単に天津飯を作って食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "卵",
+        "だしの素",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/286766/100x141c/89b89fa16ceb6d6532f7c49e2400bb26.jpg?u=239691&p=1214213747"
+}

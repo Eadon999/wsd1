@@ -1,0 +1,49 @@
+{
+    "name": "じゃがいものキムチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2205265/464x260/242cd8154030f19e16e6eeb6bc23885c.jpg?u=2513693&p=1367058855",
+    "datePublished": "2013-04-29",
+    "description": "ホクホクのじゃがいもの上にキムチとチーズを乗せて、トースターで焼くだけ。意外にも合う組み合わせです。　",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2個（２００ｇ）"
+        },
+        {
+            "name": "キムチ（ざく切り）",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮付きのまま丸ごと竹串がすっとささるまで茹で、皮を剥き1センチの厚さに切り耐熱容器に並べ軽く塩をしておく",
+        "①の上にキムチとチーズを乗せ、トースターでチーズにこんがり焼き色がつくまで焼き完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2205265",
+    "advice": "じゃがいもは切らずに皮付きのまま茹でると、ほくほくした仕上がりになります",
+    "history": "キムチとチーズはとても合うので、ほくほくのゆでたじゃがいもとあわせてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "キムチ",
+        "ピザ用チーズ",
+        "塩"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2205265/100x141c/5e22eda92f0face01962c50c3fdd2188.jpg?u=2513693&p=1367058855"
+}

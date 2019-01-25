@@ -1,0 +1,45 @@
+{
+    "name": "蒸しワタリガニ",
+    "author": {
+        "@type": "Person",
+        "name": "ばぁばまんま"
+    },
+    "image": "https://img.cpcdn.com/recipes/3407796/464x260/b1232a4ace8cfb986bed4aa14ed3a51c.jpg?u=12282595&p=1442364693",
+    "datePublished": "2015-09-16",
+    "description": "簡単でおいしい蒸すだけで完成のカニ料理。蟹カテゴリ掲載。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ワタリガニ",
+            "quantity": "1匹"
+        },
+        {
+            "name": "塩",
+            "quantity": "約5g"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カニのお腹側の下にある「フンドシ」を開き、塩をすり込む。",
+        "水を入れた蒸し器に腹を上にして入れ、酒を振って水から蒸し、蒸気が上がってから10分蒸す。",
+        "腹を下にして皿に移し、おこのみでレモン汁をかけ、カニ酢、ポン酢で召し上がれ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3407796",
+    "advice": "蒸す時は、腹を上にして蒸しましょう。食べ終わった殻もスープに使えます。",
+    "history": "お店で蒸した高級渡り蟹を食べたのを思い出し、家庭で安上がりで簡単豪華な蒸しワタリガニを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/蟹"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ワタリガニ 蒸す",
+        "ワタリガニ",
+        "カニ料理"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3407796/100x141c/accce7d887afbccd8c10654e291dee71.jpg?u=12282595&p=1442364693"
+}

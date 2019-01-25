@@ -1,0 +1,46 @@
+{
+    "name": "美味しい！！アスパラの焼き浸しΨ",
+    "author": {
+        "@type": "Person",
+        "name": "pata31"
+    },
+    "image": "https://img.cpcdn.com/recipes/748019/464x260/7213dc48a1ed5893878cabee2b2577c2.jpg?u=956253&p=1339544340",
+    "datePublished": "2009-03-01",
+    "description": "簡単色鮮やかな焼き浸し☆ あと一品ほしいときに是非！☆2011.5.14.話題入りしました!(^^)!感謝感謝✿",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "アスパラガス",
+            "quantity": "２本"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "硬い部分は皮を剥いておく。",
+        "アスパラを魚焼きグリルで薄く焦げ目がつくまで焼く。\n※みなさんのレポからトースターで焼いても簡単で良さそうです！",
+        "だしをお湯大さじ２でといて醤油と合わせる。",
+        "焼けたアスパラを浸し、３等分に切り盛り付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "748019",
+    "advice": "アスパラ以外にもナスやキャベツでも美味しいと思います。",
+    "history": "あと一品ほしいとき簡単に出来る",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラガス",
+        "顆粒だし",
+        "醤油"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/748019/100x141c/91ab00dcc359ebbff19a63d41df6ae25.jpg?u=956253&p=1339544340"
+}

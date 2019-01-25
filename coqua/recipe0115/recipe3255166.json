@@ -1,0 +1,38 @@
+{
+    "name": "かぶら＆納豆",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3255166/464x260/10bc4affcc0cfeb3b737f29017b24bb1.jpg?u=2495483&p=1451210888",
+    "datePublished": "2015-12-27",
+    "description": "つるつる美味しい♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "蕪",
+            "quantity": "４分の１個～"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        }
+    ],
+    "recipeInstructions": [
+        "蕪をすりおろして納豆と混ぜる"
+    ],
+    "cookTime": null,
+    "recipe_id": "3255166",
+    "advice": "",
+    "history": "定番化している納豆＆大根すりおろしですが、大根なく蕪があったので蕪でやってみました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蕪",
+        "納豆"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/3255166/100x141c/ab3e8c4d88cb66ff04703fa99ec3a970.jpg?u=2495483&p=1451210888"
+}

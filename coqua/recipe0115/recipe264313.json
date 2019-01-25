@@ -1,0 +1,55 @@
+{
+    "name": "はんぺんチーズ磯辺巻き",
+    "author": {
+        "@type": "Person",
+        "name": "ゆきぢん"
+    },
+    "image": "https://img.cpcdn.com/recipes/264313/464x260/67a0b8c62acb0aa6301b8a6a36b0aa86.jpg?u=69580&p=1214213252",
+    "datePublished": "2006-07-03",
+    "description": "大好きなはんぺんチーズ簡単バージョン☆今回は風味UPでチーズが逃げないように海苔を巻いてみました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "溶けるチーズ",
+            "quantity": "はんぺんに詰められるだけ"
+        },
+        {
+            "name": "のり",
+            "quantity": "１枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんを半分に切り、中に切込みを入れます。",
+        "",
+        "正方形の海苔ではんぺんの切り口を覆うように巻きます。",
+        "小麦粉を付けて大目の油で焼きます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "264313",
+    "advice": "これはとっても簡単です。しかもチーズが逃げ出さない。●チーズはスライスチーズでも●大葉をはさむとさらに風味よいです",
+    "history": "いつもは衣を付けてフライまたは天ぷらにすることがおおいですが、今回は省力化バージョンで。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "溶けるチーズ",
+        "のり",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/264313/100x141c/bcb39a627c26a3ad2f45486e3ab94506.jpg?u=69580&p=1214213252"
+}

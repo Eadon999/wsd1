@@ -1,0 +1,52 @@
+{
+    "name": "にらたまの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ぽんぽあーる"
+    },
+    "image": "https://img.cpcdn.com/recipes/253610/464x260/4238dc4845df99bd4db05a6a67d0ee43.jpg?u=231407&p=1214213006",
+    "datePublished": "2006-05-11",
+    "description": "味噌味のにらたま汁です♪",
+    "recipeYield": "４人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "１束"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "出汁入り味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に８００ｃｃ位の水を沸かす。玉葱、人参を食べ易い大きさに切って、鍋に入れ煮る。",
+        "玉葱、人参にだいたい火が通ったら、みじん切りにしたニラを加えて煮る。",
+        "普通の味噌汁のように、味噌を煮溶かし味を整える。",
+        "卵を溶いて流し入れて、出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "253610",
+    "advice": "火の通り難い順に野菜を入れていくこと。。",
+    "history": "味噌汁が食べたかったけれど、冷蔵庫にニラの束。。味噌味のニラ玉はどうかなと思ったら、予想以上に美味しかった。。自分では、感動しました。。＾＾ヾ",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ玉 味噌汁"
+    ],
+    "tsukurepo_count": "207",
+    "thumbnail": "https://img.cpcdn.com/recipes/253610/100x141c/352dd5861c01a57192f47c4ac7ce01e2.jpg?u=231407&p=1214213006"
+}

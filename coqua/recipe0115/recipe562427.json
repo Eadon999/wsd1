@@ -1,0 +1,64 @@
+{
+    "name": "小松菜チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "qoouru"
+    },
+    "image": "https://img.cpcdn.com/recipes/562427/464x260/e81a63649711c8f8d8c6ae8b3f882a1f.jpg?u=223009&p=1214219799",
+    "datePublished": "2008-05-02",
+    "description": "栄養満点のチャーハンで元気百倍♫♬",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗2杯分"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "ハム（ベーコン）",
+            "quantity": "2枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "鶏がらスープ",
+            "quantity": "大1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小1"
+        },
+        {
+            "name": "李錦記オイスターソース",
+            "quantity": "大1弱"
+        }
+    ],
+    "recipeInstructions": [
+        "キレイに洗った小松菜とハムは食べやすい大きさに切っておく。",
+        "鍋に油を熱してときほぐした卵を入れる。少ししてから御飯を入れて炒める。",
+        "ハムと小松菜を入れたら、小松菜の上から酒を振りかけていため続ける。",
+        "鶏がらスープとオイスターソースで味付けしたら、塩・こしょうで整えて出来上がり♫♬"
+    ],
+    "cookTime": null,
+    "recipe_id": "562427",
+    "advice": "材料を全て揃えてから炒めだすと、無駄がなくサッと出来る♫♬",
+    "history": "自分で作った小松菜を料理したかったから♪",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 チャーハン"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/562427/100x141c/44aa7b2f4dbbcbf3113dfa6fd209a642.jpg?u=223009&p=1214219799"
+}

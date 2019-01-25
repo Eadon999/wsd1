@@ -1,0 +1,62 @@
+{
+    "name": "*ご飯がすすむ・鯖のジュッ！*",
+    "author": {
+        "@type": "Person",
+        "name": "poohkiti"
+    },
+    "image": "https://img.cpcdn.com/recipes/16144/464x260/ab1307d8b42afdbbb3e907dfc9db55cd.jpg?u=4705&p=1214208469",
+    "datePublished": "2001-03-02",
+    "description": "揚げた鯖をタレにつけこむ時のジュッって音が最高！簡単でしかもご飯にピッタリ。一人1切れじゃ足りないと旦那は言っております。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２弱（好みで調節してね）"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "醤油・砂糖・みりんを合わせて鍋に入れて煮立てる。",
+        "鯖に塩こしょうをふり、ビニール袋に片栗粉をいれ、鯖も入れて粉をまんべんなくつける",
+        "カラッと鯖を揚げて、そのまま煮立ったタレに漬け込んで器に盛れば出来あがり！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "16144",
+    "advice": "翌日でも味が染みこんでおいしいですよ。揚げたてはサクサクして最高です。",
+    "history": "魚が苦手だったのでおいしくたべれるように工夫してみました。節約関係の記事にのってた食べ方を自分なりにレシピ化してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖",
+        "醤油",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "113",
+    "thumbnail": "https://img.cpcdn.com/recipes/16144/100x141c/4c2b56013207db0063dff10c925c46c1.jpg?u=4705&p=1214208469"
+}

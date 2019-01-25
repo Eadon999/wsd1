@@ -1,0 +1,56 @@
+{
+    "name": "農家のレシピ】サニーレタスと海苔のスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1641150/464x260/7bbda04a386ec4a1919b18286e67aeb5.jpg?u=2513693&p=1322702645",
+    "datePublished": "2011-12-13",
+    "description": "シャキシャキしたサニーレタスと、海苔の味がミックスされたスープです。　",
+    "recipeYield": "たっぷり2人分",
+    "recipeIngredient": [
+        {
+            "name": "サニーレタス",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "味付け海苔",
+            "quantity": "5枚"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "１２ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に【A】を入れ沸騰したら食べやすい大きさに手でちぎったサニーレタスを入れ、沸騰直前で火を止めます。",
+        "最後に手でちぎった味付け海苔としろゴマを入れて完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1641150",
+    "advice": "",
+    "history": "サニーレタスも栽培していてたくさんあるので、シャキシャキ美味しいスープを作ったりしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サニーレタス スープ",
+        "サニーレタス",
+        "レタス スープ"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/1641150/100x141c/c584fe5b56475a82d20dd253957947eb.jpg?u=2513693&p=1322702645"
+}

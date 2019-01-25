@@ -1,0 +1,50 @@
+{
+    "name": "レンジで簡単もう１品！白菜と塩昆布蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ゆさせママ♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2049725/464x260/64f8cbdf98056728556fed7a96bff641.jpg?u=4934241&p=1354702388",
+    "datePublished": "2012-12-05",
+    "description": "★話題入り感謝★妙にやみつき★味見がとまらない~♪あと１品にめっちゃ便利です((´∀｀*))",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/8個程度"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "３つかみくらいお好みで"
+        },
+        {
+            "name": "和風だしの素",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱容器にざく切りにした白菜とほかの材料を一気に入れて、軽く混ぜ合わせる。",
+        "ラップなどで蓋をしてレンジで５００ｗ５分加熱したら出来上がりです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2049725",
+    "advice": "塩昆布から濃い味が出るので、しょう油はほんの少しでOKです★薄味の方ならしょう油ナシでも。",
+    "history": "白菜がたくさんあったので、とにかく簡単に、でも美味しい１品を作ってみました♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 塩昆布 レンジ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2049725/100x141c/3c98f881258fde5db0f5f6a175e1ca46.jpg?u=4934241&p=1354702388"
+}

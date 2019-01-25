@@ -1,0 +1,58 @@
+{
+    "name": "ほうれん草とツナのひじきあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2441363/464x260/08882680ac5ab65581818d4a6b634316.jpg?u=7402421&p=1433045004",
+    "datePublished": "2013-12-22",
+    "description": "♪♪感謝♪♪　2015/10/20　話題入り！ありがとうございます♪食物繊維＆鉄分もりもりヘルシーレシピ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "200g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個（80g）"
+        },
+        {
+            "name": "ひじき（ドライパック）",
+            "quantity": "50g"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は、さっと塩ゆでして、冷水に取り色止めした後、4cmの長さに切る。",
+        "みりん醤油に、ひじきを入れてなじませ、汁気をきったツナと、ぎゅーっとしぼったほうれん草を加えて混ぜる。",
+        "ごまも入れてさらに混ぜて、出来上がり～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2441363",
+    "advice": "ほうれん草の水気をしっかりしぼって、食べる直前にあえます。乾燥ひじきでも。",
+    "history": "ちょっとでも貧血関連の数値が改善するように、毎日せっせと鉄分補給しています♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "ツナ缶",
+        "ひじき",
+        "いりごま"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2441363/100x141c/d026694afc3a81162728aa3741792b7b.jpg?u=7402421&p=1433045004"
+}

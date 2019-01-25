@@ -1,0 +1,61 @@
+{
+    "name": "簡単1品☆トマトと卵の炒めもの",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/3872937/464x260/38b7f158dc700430eed74c63b726fccc.jpg?u=603745&p=1469058074",
+    "datePublished": "2016-05-22",
+    "description": "卵とトマトがあればすぐ出来ます!!簡単に作れるのでもう1本欲しい時に便利♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはヘタをとり、8等分にして種を取ります。",
+        "卵に☆の調味料を加えて混ぜます。",
+        "フライパンにオリーブオイルをしいて温めます。",
+        "卵を加えて少し固まったら混ぜ合わせます。",
+        "トマトを加えて炒めます。",
+        "トマトに焼き色が付いたら軽く塩コショウします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3872937",
+    "advice": "しめじやキクラゲを加えても◎お好みのお野菜を加えてくださいね！",
+    "history": "もう1品なにかほしいなーという時に冷蔵庫にあるもので簡単なものを作って見ました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "卵",
+        "鶏ガラスープの素",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/3872937/100x141c/1bac4e0b9b6a8f4628cc9ff5269e6c80.jpg?u=603745&p=1469058074"
+}

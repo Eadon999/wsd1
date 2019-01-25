@@ -1,0 +1,58 @@
+{
+    "name": "簡単☆豚肉のカレーピカタ",
+    "author": {
+        "@type": "Person",
+        "name": "megumegu02"
+    },
+    "image": "https://img.cpcdn.com/recipes/3214261/464x260/736f162fc1f599acd2db315cbf58e677.jpg?u=3627992&p=1437099998",
+    "datePublished": "2015-07-17",
+    "description": "薄くて少ない豚肉でも卵のおかげでボリュームUP！ 冷めても柔らかいので、お弁当にもオススメです(*^^*)",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース（生姜焼き用）",
+            "quantity": "6〜8枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "1〜2個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆カレー粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉を並べ☆の下味を両面につける",
+        "小麦粉を薄く両面にふる",
+        "フライパンにオリーブオイルをひき、溶き卵につけて焼く",
+        "補足☆\nカレー粉はS&B料理用カレー使用しています。\n塩分はお好みで調整してください。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3214261",
+    "advice": "小麦粉は固まらないようまんべんなくつけて下さいね。カレー粉抜きで醤油マヨで食べても美味しいです。ピカタは鶏肉や魚介などにも合うので、色々アレンジしてみて下さい♪仕上がり味が薄い時は少し醤油をつけても◎",
+    "history": "卵消費のために作りました。簡単なので時間がない時にオススメ♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": [
+        "豚肉のピカタ 10位"
+    ],
+    "related_keywords": [
+        "豚肉 カレー ピカタ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/3214261/100x141c/9eb7547640d2576bef2c31dab8048647.jpg?u=3627992&p=1437099998"
+}

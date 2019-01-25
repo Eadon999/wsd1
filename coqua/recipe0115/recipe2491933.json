@@ -1,0 +1,67 @@
+{
+    "name": "お店よりおいしいかも♡私の牛丼☆簡単だよ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆっちゃん＊♡＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2491933/464x260/5e4f2e0e8d3916298e593943938382dd.jpg?u=8639744&p=1403918636",
+    "datePublished": "2014-02-11",
+    "description": "お家で作ったら、お店ではもう牛丼食べられません(*^^*)",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "糸こん",
+            "quantity": "100g"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはお好きな切り方で。",
+        "糸こんは食べやすい長さに切る。\n\n(別茹でして、あくを抜いても◎)",
+        "鍋で牛肉と玉ねぎを炒める。\n\n玉ねぎがしんなりするまで♪",
+        "糸こん、水を入れて5分煮る。",
+        "☆調味料を入れてさらに3分煮る。\n\n※写真は汁だくVer.で作っています(*´∀｀)",
+        "ごはんのうえにたっぷりかけてできあがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "2491933",
+    "advice": "●汁だくの場合は水と☆の調味料を倍にしてください(*^^*)",
+    "history": "お店の牛丼が苦手で、私は牛丼嫌いだとばかり思ってましたが、母が作ってくれた牛丼は食べられました(*^^*)そのときのレシピです♡",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛丼簡単",
+        "牛丼 糸こんにゃく 簡単"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/2491933/100x141c/3c02ead838d35d2255582fb3b8ced0b6.jpg?u=8639744&p=1403918636"
+}

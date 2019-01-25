@@ -1,0 +1,74 @@
+{
+    "name": "ごぼう・人参入り鰯のつみれ揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "★もよ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1987616/464x260/8e0e8843fbd072d78bf3c9af6e0bee18.jpg?u=4889992&p=1349776651",
+    "datePublished": "2012-10-09",
+    "description": "ごぼうや人参が入っているので、食べごたえのある一品。たっぷりの大根おろしと一緒にどうぞ～",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鰯",
+            "quantity": "4尾"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "白ネギ（小口切り）",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "生姜(すりおろし)",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１～1.5"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうはささがきにして水にさらし、人参は細切りにする。",
+        "鰯を手開きにして皮を取り、包丁でたたく。（少し荒くてもいい）",
+        "１．２と白ネギ～片栗粉までの材料を混ぜ合わせる。",
+        "180℃に熱した油の中に、３をスプーンですくって落とし入れ、揚げる。\n\n\n",
+        "大根おろしと天つゆでどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1987616",
+    "advice": "鰯の大きさによって、調味料や卵の量は加減してください。ごぼうたっぷりのほうがおいしいと思います。",
+    "history": "小さい頃から、実家での鰯料理の定番でした。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし"
+    ],
+    "rankings": [
+        "いわしのつみれ 7位",
+        "いわしつみれ 7位"
+    ],
+    "related_keywords": [
+        "いわし つみれ 揚げ",
+        "いわし つみれ",
+        "いわしのつみれ ごぼう"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1987616/100x141c/86ebf2cfe6840cec33d4c0bd5fb822f8.jpg?u=4889992&p=1349776651"
+}

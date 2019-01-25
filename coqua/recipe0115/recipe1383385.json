@@ -1,0 +1,50 @@
+{
+    "name": "パリッ！と食べる、お食事ポテト",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1383385/464x260/a11c0b7aad18d77d56a92c07a0a80657.jpg?u=2142891&p=1299674509",
+    "datePublished": "2011-03-09",
+    "description": "じゃがいもを薄く切って焼くだけで、ポテトチップス好きの私も満足の一品になりました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮をむいて厚さ２ｍｍ程度の厚さに切る。",
+        "フライパンにオリーブ油を熱し、香りがたったら重ならないように１のじゃがいもを並べ、塩・胡椒をふりかけ、強火で5分焼く。",
+        "２のじゃがいもをひっくり返して、中火で5分焼く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1383385",
+    "advice": "塩は、多めにすると、塩味の美味しさが楽しめます。私は、黒胡椒たっぷりが好きです。",
+    "history": "じゃがいもを薄く切って焼くとぱりぱり美味しく食べられました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ジャガイモ",
+        "塩",
+        "胡椒",
+        "オリーブ油"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1383385/100x141c/7bde5771932559306f43619e6075f4d2.jpg?u=2142891&p=1299674509"
+}

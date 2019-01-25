@@ -1,0 +1,75 @@
+{
+    "name": "タルタルソースたっぷり～チキン南蛮",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/739716/464x260/1df5f12b7692ad91477569986ea6f428.jpg?u=1109634&p=1260311634",
+    "datePublished": "2009-02-20",
+    "description": "もっと美味しくするのは、あの調味料です！！とっても簡単で美味しくできま～す！",
+    "recipeYield": "4人前",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "3枚"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "卵",
+            "quantity": "3つ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "コンデンスミルク（これが美味しくなる調味料☆）または砂糖",
+            "quantity": "小さじ2（小さじ1）"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉に下味をつけ、冷蔵庫で30分漬けこむ。その間にタレとタルタルソースを作っておく。",
+        "鶏肉を片栗粉にまぶし、油で揚げて、熱いうちにたれにからめて、タルタルソースをかける。",
+        null,
+        null
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "739716",
+    "advice": "☆食べる直前に揚げて、すぐにたれにさっとからめて出すと、カリッとしていてよりおいしいです。もちろん冷めてもおいしいからお弁当にもおすすめです。☆鶏の胸肉でもやわらかく美味しくできました。",
+    "history": "お店の味をお家でも出したくて作りました！！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "下味",
+        "しょうが",
+        "醤油"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/739716/100x141c/e167cc61ee1e681a0433ab959a72eeba.jpg?u=1109634&p=1260311634"
+}

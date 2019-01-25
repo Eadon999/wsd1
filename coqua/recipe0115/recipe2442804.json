@@ -1,0 +1,60 @@
+{
+    "name": "豆腐と水菜のサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "riepyonnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/2442804/464x260/f4034688d193e2a73b4cded809bbbeb0.jpg?u=7215260&p=1387750479",
+    "datePublished": "2013-12-23",
+    "description": "即席で！ヘルシーでサッパリ！もう一品ほしいときに。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１／４束"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１／２丁"
+        },
+        {
+            "name": "※醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "※かつお節",
+            "quantity": "１つかみ"
+        },
+        {
+            "name": "※白ごま",
+            "quantity": "少々"
+        },
+        {
+            "name": "※ごま油",
+            "quantity": "大1"
+        },
+        {
+            "name": "※塩",
+            "quantity": "１つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は洗って水を切り、３cm位の長さに切る。",
+        "１の水菜と、材料を全てボールに入れて、フォークで豆腐をつぶしながら和えていく。味見をして出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2442804",
+    "advice": "豆腐は絹でも木綿でも。食べる直前に和えるのがポイントです。",
+    "history": "春小町さんのレシピを参考に♪少しアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "水菜サラダ 5位"
+    ],
+    "related_keywords": [
+        "水菜サラダ 豆腐"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/2442804/100x141c/e0e0f02a7ca4fbeea0a6aeea5dbe11c8.jpg?u=7215260&p=1387750479"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "ゴマ豆腐。",
+    "author": {
+        "@type": "Person",
+        "name": "フェミ"
+    },
+    "image": "https://img.cpcdn.com/recipes/181398/464x260/5e93db013dfe6347dcae9e017c5d8bf4.jpg?u=39393&p=1214211600",
+    "datePublished": "2005-02-06",
+    "description": "美味しいです。感動です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "片栗粉",
+            "quantity": "15ｇ"
+        },
+        {
+            "name": "練りゴマ",
+            "quantity": "35ｇ（白黒はお好みで）"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "小さめの鍋に材料を全て入れ弱火でポッテリとなるまでゴムベラなどで混ぜます。",
+        "お好みの容器に移して表面をラップで覆い、粗熱が取れたら冷蔵庫で冷やし固めて完成。",
+        "このままでも美味しいです。お好みでわさび、醤油などかけてどうぞ☆味噌汁に入れると更にトロ～ンとなってまた美味！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "181398",
+    "advice": "焦がさないように弱火で絶えず混ぜてください。",
+    "history": "くず粉がなかったので片栗粉で挑戦したところ大成功でした☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/ごま豆腐・たまご豆腐"
+    ],
+    "rankings": [
+        "ごま豆腐 9位"
+    ],
+    "related_keywords": [
+        "ごま豆腐"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/181398/100x141c/946d16c2516a26f110b6a061c825dfeb.jpg?u=39393&p=1214211600"
+}

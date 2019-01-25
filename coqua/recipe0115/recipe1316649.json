@@ -1,0 +1,53 @@
+{
+    "name": "簡単☆節約・山芋の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "amamitu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1316649/464x260/af02fbd7d01acd854dd42fb1558e2cd0.jpg?u=1715950&p=1338342188",
+    "datePublished": "2010-12-26",
+    "description": "簡単なのに美味しいおかず☆ ササッと焼いて、シャリシャリ食感が美味しい♪２０１２．１０話題入り☆ありがとぉ～！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "山芋",
+            "quantity": "１５ｃｍくらい"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大１と１/２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "山芋を１.5ｃｍ幅くらいに輪切りにして、フライパンに油を熱し、焼いていく。",
+        "両面に焼き色が付いたら、●のタレを全て入れて、全体に絡ませたら出来あがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1316649",
+    "advice": "",
+    "history": "大好きな山芋をお手軽に美味しく食べたくて、作ってみたら大成功～☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋",
+        "みりん",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1316649/100x141c/3b63603a11f6b8bd2c36eed125956c08.jpg?u=1715950&p=1338342188"
+}

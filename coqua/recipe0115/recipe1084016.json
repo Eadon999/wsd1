@@ -1,0 +1,46 @@
+{
+    "name": "さばの「なんちゃって」竜田揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "くみもんた"
+    },
+    "image": "https://img.cpcdn.com/recipes/1084016/464x260/6c94bc084e5a98adbad0ddb0cd05eea9.jpg?u=212994&p=1269864056",
+    "datePublished": "2010-03-29",
+    "description": "揚げ物は好きじゃないので、フライパンで揚げ焼きにしました。表面がかりっとしておいしいです。しかも簡単！4/10話題入り！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さば（今回はごまさば）",
+            "quantity": "１尾分"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "生姜（すりおろし）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ごまさばは醤油と酒・生姜と一緒にビニール袋にいれてもみ、下味をつける。（つけ置きしなくてもＯＫ）",
+        "片栗粉をまぶして、多目の油をしいたフライパンで両面焼き、中まで火を通して完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1084016",
+    "advice": "火は弱火でじっくり、表面をかりっとさせましょう。 つけて焼くだけだから、忙しいときの一品に！揚げ油の処理が面倒な人に！（私みたいに・・・）",
+    "history": "揚げ物は好きじゃないので、フライパンで揚げ焼きしました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生さば 揚げ物"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/1084016/100x141c/e839094b3cf9b66ea79187c610ab37fb.jpg?u=212994&p=1269864056"
+}

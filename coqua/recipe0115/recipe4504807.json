@@ -1,0 +1,68 @@
+{
+    "name": "手羽元のさっぱり味噌マスタードソテー",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4504807/464x260/7a4d4863df0212ded4027d8a9f402e3f.jpg?u=9664115&p=1493816159",
+    "datePublished": "2017-05-06",
+    "description": "手羽元を味噌とマスタードの甘辛ソースで仕上げました♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元",
+            "quantity": "4本"
+        },
+        {
+            "name": "塩コショウ（下味用）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1ぐらい"
+        },
+        {
+            "name": "☆マスタード",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆お酢",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "手羽元に塩コショウを振り下味をつける。",
+        "手羽元に片栗粉をまぶす。",
+        "フライパンに5mm程油（分量外）をひき、焦げ目がつくまで焼き揚げる。\nフタをした方がしっかり中まで火が通ります。",
+        "その間に☆を混ぜておく。",
+        "キッチンペーパーで余分な油を吸い取り、混ぜておいた☆の材料を加えてじゅわ〜っと全体に絡めたら完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "4504807",
+    "advice": "手羽元にしっかり中まで火を通す。",
+    "history": "手羽元が安くて、新しい器に合うように和と洋を掛け合わせてみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽元",
+        "手羽元 マスタード",
+        "マスタード",
+        "手羽元 味噌"
+    ],
+    "tsukurepo_count": "125",
+    "thumbnail": "https://img.cpcdn.com/recipes/4504807/100x141c/560cea51056df0bf2c42ec12807d21a0.jpg?u=9664115&p=1493816159"
+}

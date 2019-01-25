@@ -1,0 +1,64 @@
+{
+    "name": "簡単すぎる！白菜と海苔の中華スープ",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2382156/464x260/f908b43ddc193ac74daadf751678e26e.jpg?u=4328809&p=1382358980",
+    "datePublished": "2013-10-21",
+    "description": "✿話題入りレシピ❀白菜のスープに海苔をちぎって入れたら完成！簡単中華スープです^^",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１～２枚"
+        },
+        {
+            "name": "海苔（味付け、焼きどちらでも）",
+            "quantity": "お好きな量"
+        },
+        {
+            "name": "いりごま(白)",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "鶏がらスープの素(粉末)",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ　１/２"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は0.5〜1cm幅に切る。",
+        "鍋に水と鶏ガラスープの素を入れて火にかける。",
+        "沸いたら白菜を入れひと煮し、いりごまとごま油を加えて塩、こしょうで調味する。",
+        "器に注ぎ、海苔をちぎり入れて完成です。",
+        "2013.12.19\n話題入りしました。有難うございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2382156",
+    "advice": "",
+    "history": "簡単に出来るスープをと思い、冷蔵庫に残っていた白菜で作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "海苔",
+        "いりごま",
+        "鶏がらスープの素"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2382156/100x141c/619aa6b1b1d6d98184c968ad326c3b21.jpg?u=4328809&p=1382358980"
+}

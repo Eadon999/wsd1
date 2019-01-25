@@ -1,0 +1,74 @@
+{
+    "name": "✿チキンの野菜チーズ焼き✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/258459/464x260/2b0a3613db1740cd16a477d286fe1f52.jpg?u=226453&p=1215720191",
+    "datePublished": "2006-06-05",
+    "description": "タレととろ～りチーズがからみあって美味しいです。",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "鶏ムネ肉または鶏もも肉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/３本"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "少々"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ムネ肉は、厚さを均等にする為包丁で切り開き下味を３０分以上漬けておく。玉ねぎ、人参は千切りにしておきます。",
+        "フライパンに油をしき、玉ねぎ、人参、ほぐしたしめじを炒め皿にとっておきます。新たに油を少々たして、漬けておいたムネ肉を両面焦げ目をつけ、水少々を加え蒸し焼きにします。",
+        "鶏に火が通ったら炒めた野菜、チーズをのせタレをかけフタをしてチーズが溶けたら皿に盛りタレをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "258459",
+    "advice": "下味をしっかり漬けて焼くと美味しいです。エノキやしいたけをのせても。",
+    "history": "友人宅でいただいのを思い出しながら作ってみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "人参",
+        "しめじ",
+        "とろけるチーズ"
+    ],
+    "tsukurepo_count": "225",
+    "thumbnail": "https://img.cpcdn.com/recipes/258459/100x141c/4956e277039ba921a41bddea7cc93e35.jpg?u=226453&p=1215720191"
+}

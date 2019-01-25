@@ -1,0 +1,73 @@
+{
+    "name": "豚小間だんごのおろし煮",
+    "author": {
+        "@type": "Person",
+        "name": "あきこog"
+    },
+    "image": "https://img.cpcdn.com/recipes/2137635/464x260/a4001f62bb7443b14bc759e1749c5163.jpg?u=5649825&p=1362108746",
+    "datePublished": "2013-03-01",
+    "description": "13.７.10話題入り☆ありがとうございます☆　豚肉のうまみたっぷり＆大根おろしの甘みもたっぷり!！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま肉",
+            "quantity": "250ｇ"
+        },
+        {
+            "name": "A生姜(すりおろし)",
+            "quantity": "1/2かけ"
+        },
+        {
+            "name": "Aしょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "A片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Bだし汁",
+            "quantity": "3/4カップ"
+        },
+        {
+            "name": "B酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "Bしょう油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "Bみりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みず菜",
+            "quantity": "50ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "10ｃｍ"
+        }
+    ],
+    "recipeInstructions": [
+        "みず菜は3cmに切り、大根はおろす。（大根おろしは汁ごと使用します）",
+        "豚肉にAを混ぜ、直径4cm程度に丸める。",
+        "鍋にBを煮立たせ、②を並べて入れる。キッチンペーパーの中央を十字に切り、落し蓋にして中火で5分煮る。",
+        "③にみず菜と大根おろしを加えてひと混ぜし、3分煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2137635",
+    "advice": "豚肉の団子が崩れないよう、しばらく触らないようにしましょう。キッチンペーパーを落し蓋にすることで、団子を崩さずに煮汁が周り、アクも取れます。団子が多少崩れても、気にしなくてOKです！",
+    "history": "豚小間肉と大根、身近な食材でメインの煮物を一品☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま みぞれ煮",
+        "豚こま団子"
+    ],
+    "tsukurepo_count": "102",
+    "thumbnail": "https://img.cpcdn.com/recipes/2137635/100x141c/12d29a109c407d49e517b4d50426a01a.jpg?u=5649825&p=1362108746"
+}

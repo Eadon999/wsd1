@@ -1,0 +1,62 @@
+{
+    "name": "我が家の大好評♪ぶりのしょうが焼き◆",
+    "author": {
+        "@type": "Person",
+        "name": "じゅげむ？"
+    },
+    "image": "https://img.cpcdn.com/recipes/3093494/464x260/b2d52653788318b5faef2bd9d8cd9b8d.jpg?u=10951579&p=1427717118",
+    "datePublished": "2015-03-30",
+    "description": "今が旬のぶり♪しょうが焼きで×白いごはんとマッチング◆脂ののったぶりに、しょうが焼きが旨いんです！お酒のあてにもサイコー",
+    "recipeYield": "5人前",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "5切"
+        },
+        {
+            "name": "※しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "※お酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "※さとう",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "※しょうが汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶり切り身\n\nキッチンペーパーで水分取ります",
+        "しょうがすります\n",
+        "ビニール袋に小麦粉いれて、ぶり入れます。\n\n余分な小麦粉はたきます",
+        "フライパンに油引き\n\nぶり焼きます",
+        "両面\n焼きます",
+        "余分な油\nキッチンペーパーで拭きます",
+        "※混ぜます",
+        "※いれて、炒めます",
+        "たれ\n\nからめます\n\n旨いー\n香り   最高♪\n 弱火で",
+        "盛り付け\n\nアクセントに水菜"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3093494",
+    "advice": "余分な油は、必ずキッチンペーパーで綺麗に拭きます",
+    "history": "ぶりの照り焼きは、定番しょうが焼きも旨いんです！しょうがが魚のくさみトッてくれます！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶりのしょうが焼き"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/3093494/100x141c/eda2953426b527e0df90ea99729e2353.jpg?u=10951579&p=1427717118"
+}

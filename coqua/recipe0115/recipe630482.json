@@ -1,0 +1,60 @@
+{
+    "name": "枝豆あんかけＤＥ大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ちょみくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/630482/464x260/139ecbf2525cdb46224fe8434582fdc9.jpg?u=874483&p=1219249034",
+    "datePublished": "2008-08-21",
+    "description": "おつまみの枝豆があまったら♪「あつあつ」でも「つめたーく」ても♪",
+    "recipeYield": "3～4人分）",
+    "recipeIngredient": [
+        {
+            "name": "大根（2cmの輪きり）",
+            "quantity": "1/2本分"
+        },
+        {
+            "name": "茹でた枝豆",
+            "quantity": "15～20個くらい"
+        },
+        {
+            "name": "●和風だし",
+            "quantity": "500ｃｃ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●薄口しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根はレンジで5～6分加熱しておく（完全に火が通っていなくても大丈す）。 \r\n枝豆はさやから取り出しておく。",
+        "お鍋に大根と●の材料をいれ大根にくしがすっと通るくらいまで煮る。",
+        "水溶き片栗粉を加え弱火で煮る。とろみがついたら枝豆を加え一煮たちしたら火をとめる。出来上がり！",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "630482",
+    "advice": "",
+    "history": "枝豆大好き♪いろんな料理に使っちゃいます♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 煮物 あんかけ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/630482/100x141c/75f464ace9b2cfa8a56c7b8b97d028d7.jpg?u=874483&p=1219249034"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "和風・さっぱりハムステーキ(玉ねぎ)",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3346603/464x260/fbfb2a094f1787b62ae1428f0cf522df.jpg?u=3099986&p=1439542035",
+    "datePublished": "2015-08-14",
+    "description": "さっぱり。美味しい。",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "ハムステーキ",
+            "quantity": "一枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "濃口しょうゆ",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎは水にさらす。\n→水切り。\n\n酢と醤油を合わせる。",
+        "酢しょうゆの中に水切りした玉ねぎを入れる。",
+        "ハムステーキをフライパンで焼く。",
+        "ハムステーキを皿に盛り、2をかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3346603",
+    "advice": "特になし。",
+    "history": "夕食に作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハムステーキ 玉ねぎ",
+        "ハムステーキ",
+        "ハム ステーキ 和風"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3346603/100x141c/77f3332dbf43646b3af7c65e26ad2d5e.jpg?u=3099986&p=1439542035"
+}

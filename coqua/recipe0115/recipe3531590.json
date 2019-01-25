@@ -1,0 +1,50 @@
+{
+    "name": "大人味♪春菊&ほうれん草の胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3531590/464x260/3ed98e2c62f77a42a10c2cc520699f9b.jpg?u=10112198&p=1448185354",
+    "datePublished": "2015-11-22",
+    "description": "2種類を合わせると、味が深まります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "春菊(軽く茹でた物)",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "ほうれん草(茹でた物)",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2(ゴマの半量)"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1(砂糖の半量)"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊とほうれん草は茹でて、水で冷やししっかり水気を切り\n和える。",
+        "調味料を混ぜ和える"
+    ],
+    "cookTime": null,
+    "recipe_id": "3531590",
+    "advice": "春菊を茹ですぎないことです。サッと茹でています。甘めの分量です。お好みで砂糖を減らして下さい。",
+    "history": "1種類の胡麻和えも作りますが、2種類合わせたほうが好評です♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草　春菊"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/3531590/100x141c/77bcb4ed00fda3cd14702df02258d783.jpg?u=10112198&p=1448185354"
+}

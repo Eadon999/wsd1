@@ -1,0 +1,47 @@
+{
+    "name": "夏の副菜にピッタリ！さっぱりキャベツ",
+    "author": {
+        "@type": "Person",
+        "name": "hoho！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2937762/464x260/eb9e03d85286a60691ad11e3eb9dc835.jpg?u=10634079&p=1420614051",
+    "datePublished": "2015-01-07",
+    "description": "シンプルな味付けでどんなお料理にも合うキャベツの食べ方です♪ 量もたくさんいけちゃいます^^",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/4"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを太めの千切りにする。",
+        "ビニール袋にキャベツと調味料すべてを入れて、5分くらいもみもみ。",
+        "出てきた水分を絞って器に盛る。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2937762",
+    "advice": "簡単なので特にありません。黒コショウを少し入れても味のアクセントになって良いと思います。",
+    "history": "給食で大人気らしいキャベツのサラダ…子どもから味の聞き取り調査をして再現したら、ちょっと違うけどw近い！おいしい〜と我が家で大好評でした。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 副菜 さっぱり"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2937762/100x141c/62945968b0ace02c1c9f8c3f3796a3dd.jpg?u=10634079&p=1420614051"
+}

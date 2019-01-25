@@ -1,0 +1,73 @@
+{
+    "name": "フライパン一つで簡単！ぶり大根",
+    "author": {
+        "@type": "Person",
+        "name": "yakopan♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2362204/464x260/bcdecbf605194c56cbcc2bfbc126bfe3.jpg?u=316626&p=1380696807",
+    "datePublished": "2014-02-08",
+    "description": "フライパンで簡単にぶり大根作っちゃいます！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶりの切り身",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "大根",
+            "quantity": "1／2本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "100ml"
+        },
+        {
+            "name": "しょうが(スライス)",
+            "quantity": "1かけ分"
+        },
+        {
+            "name": "白髪ねぎ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を2～3cmの厚さに切って耐熱皿にのせレンジで3分ほど加熱し、ぶりは半分に切り塩をふっておく。",
+        "ぶりをボウルに入れ熱湯を回し入れて臭みを取る。",
+        "フライパンにぶり、大根と調味料を入れ落としぶたをして15分くらい弱火～中火で煮込む(途中ぶりをひっくり返す)",
+        "器に盛りつけ、白髪ねぎをのせる。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2362204",
+    "advice": "火を止めて少し時間をおいた方が、味がしみていいです！",
+    "history": "ぶり大根をなるべく簡単に！のレシピです＊^^＊",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり大根 簡単 フライパン",
+        "ぶり大根 フライパン"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/2362204/100x141c/30148b55377412db966a2db02ff809b6.jpg?u=316626&p=1380696807"
+}

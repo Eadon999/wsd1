@@ -1,0 +1,59 @@
+{
+    "name": "ボイル海老のソテー♪バジル風味♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/975895/464x260/15c39f81cfebaf5251c2c2041d957707.jpg?u=921598&p=1331835199",
+    "datePublished": "2009-11-26",
+    "description": "白ワインで旨味を引き出し、バジルの香りとレモンの酸味のプリプリ海老は酒の肴やお弁当のおかずにもピッタリですよぉ＾＾♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ボイル海老（生食用）",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩・黒こしょう（粗びき）",
+            "quantity": "適量"
+        },
+        {
+            "name": "バジル（乾燥）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモン",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ボイル海老は殻を剥いておく。",
+        "フライパンにオリーブオイルを熱し、海老→白ワイン→塩・黒こしょう→バジルの順で炒める。",
+        "お皿に盛り、お好みでレモンをかけたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "975895",
+    "advice": "白ワインの代わりに、日本酒でもＯＫです！",
+    "history": "お弁当のおかずにしている一品です！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": [
+        "ボイルエビ 1位"
+    ],
+    "related_keywords": [
+        "ボイルエビ",
+        "ボイルエビ お弁当",
+        "ボイルエビ おかず"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/975895/100x141c/b0f72a4f267424634b76a14273cd0180.jpg?u=921598&p=1331835199"
+}

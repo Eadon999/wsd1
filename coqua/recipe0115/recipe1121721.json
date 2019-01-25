@@ -1,0 +1,65 @@
+{
+    "name": "ヒラメのムニエル",
+    "author": {
+        "@type": "Person",
+        "name": "hmaruuo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1121721/464x260/b96772a80060d789a9844ed836bc79d8.jpg?u=2206861&p=1273463603",
+    "datePublished": "2010-05-10",
+    "description": "旬のヒラメを使った、失敗しないムニエル。家庭でレストランの味を！",
+    "recipeYield": "5人分",
+    "recipeIngredient": [
+        {
+            "name": "ヒラメ切り身",
+            "quantity": "50g（四半身）×5"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "しお・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "40g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "レモン",
+            "quantity": "お好み"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "ひらめの切り身に塩・こしょうをふります。",
+        "小麦粉をまぶして、オリーブ油とバターをいれたフライパンでしっかり焼く。 \r\n",
+        "レモン果汁にしょうゆを加えたソースをかけて、レモンなどをそえて完成。 \r\nいろどりよくお好みの付け合せでどうぞ！ \r\n",
+        "2012.4.23★話題のレシピ入！みなさんありがとうございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1121721",
+    "advice": "※皮がついているなら皮目をしっかりやき、裏面はさっと焼きましょう。",
+    "history": "ヒラメを美味しく食べたかったので・・・青森県産のヒラメをチョイス",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/平目"
+    ],
+    "rankings": [
+        "ひらめ 4位"
+    ],
+    "related_keywords": [
+        "ひらめ",
+        "ヒラメ 切り身",
+        "ヒラメ ムニエル",
+        "平目 ムニエル"
+    ],
+    "tsukurepo_count": "92",
+    "thumbnail": "https://img.cpcdn.com/recipes/1121721/100x141c/01fba6ea3723f8003a42b67dc27d6800.jpg?u=2206861&p=1273463603"
+}

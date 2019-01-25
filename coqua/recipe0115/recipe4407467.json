@@ -1,0 +1,55 @@
+{
+    "name": "ハム入り卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4407467/464x260/946672f0c1d4ffc800b004190ff2e7f9.jpg?u=4819316&p=1489226481",
+    "datePublished": "2017-03-12",
+    "description": "2018/12/24話題要り有難う、お弁当の隙間を埋める一品に是非お試し下さい、普通にある食材を使ってアレンジ卵焼きです",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "ねぎ(みじん切り)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムは5ミリ角ぐらいに細かく切る",
+        "器に卵を割り、ハム、ねぎ、塩こしょう。みりんを入れてよく混ぜる",
+        "卵焼きパンを使って焼いて巻く",
+        "冷めてから切って、お皿に盛りつけ出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4407467",
+    "advice": "ハムとねぎを入れて、卵の黄色とハムの赤とねぎの緑を混ぜて色取り良いですよ",
+    "history": "水泳大会の勝負弁当を作るのにどうしても卵焼きを入れたくて、アレンジ卵焼きを考えながら余り物のハムを使うことにしました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム入り卵焼き",
+        "玉子焼き アレンジ",
+        "ネギ ハム 卵焼き",
+        "ハム 卵焼き"
+    ],
+    "tsukurepo_count": "12",
+    "thumbnail": "https://img.cpcdn.com/recipes/4407467/100x141c/80d68c797d633cbe4103c5d42a933f24.jpg?u=4819316&p=1489226481"
+}

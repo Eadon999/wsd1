@@ -1,0 +1,75 @@
+{
+    "name": "青梗菜と揚げと卵の中華風スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ごくもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3205513/464x260/a3e258fe4fe18c0de123ad475bf848a5.jpg?u=822079&p=1432900838",
+    "datePublished": "2015-05-30",
+    "description": "簡単レシピです^^",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜",
+            "quantity": "大1株"
+        },
+        {
+            "name": "油揚げ（みじん切り)",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ハム（みじん切り）",
+            "quantity": "1枚"
+        },
+        {
+            "name": "溶き卵",
+            "quantity": "L1個"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "おおさじ1強"
+        },
+        {
+            "name": "水",
+            "quantity": "620ｍｌ"
+        },
+        {
+            "name": "中華だし(顆粒。または和風だし）)",
+            "quantity": "こさじ大盛り1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "こさじ1/2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "こさじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水と一口大にカットした青梗菜の下の硬い部分とハムと油揚げをいれ火をつける。",
+        "ぐつぐつしてきたら青梗菜の葉　中華だし　醤油をいれる。わかめも投入。",
+        "再びグツグツしてきたら溶いた卵に軽く塩コショウしてから糸状にゆっくり流しいれていく。",
+        "最後にごま油をいれ胡椒で味を調えたらできあがり！",
+        "レシピID : 2671819\nわかめ　もやしバージョンも♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3205513",
+    "advice": "ハムはベーコン等でも可　",
+    "history": "中華風の日に",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 卵 スープ",
+        "チンゲン菜 スープ 卵 中華",
+        "揚げ卵"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3205513/100x141c/0d96f232fe5870c99424509e893e0444.jpg?u=822079&p=1432900838"
+}

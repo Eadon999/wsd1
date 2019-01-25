@@ -1,0 +1,68 @@
+{
+    "name": "豆腐♡♥わかめスープ",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/414735/464x260/b54765700fda6606bec51e35158698fe.jpg?u=304393&p=1214216921",
+    "datePublished": "2007-08-07",
+    "description": "いつものわかめスープに豆腐を入れると更にヘルシーで美味しい！大人はラー油＆黒こしょうをビシッときかせて♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "適量"
+        },
+        {
+            "name": "＊鶏ガラスープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊水",
+            "quantity": "６００ｃｃくらい"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "ラー油・黒こしょう",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はさいの目に。\r\n",
+        "鍋に＊をいれ沸かす。沸いたら豆腐・わかめを入れて軽く煮立たせる。最後に醤油・ごま油をちょっと垂らして器に盛って好みでラー油・黒こしょうを。\r\n更に長ねぎを散らす。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "414735",
+    "advice": "大人にはビシッと黒こしょう多めが美味しいです。わかめは乾燥を使用しましたのでそのまま戻さずに使いました。",
+    "history": "ふつ～にわかめスープを作ろうと思った時ふと目にとまった豆腐。これ入れたらまろやかなスープになって美味しかったぁ。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 スープ",
+        "豆腐 わかめ スープ"
+    ],
+    "tsukurepo_count": "263",
+    "thumbnail": "https://img.cpcdn.com/recipes/414735/100x141c/f1c4974af89b793872120c6a7aa822d0.jpg?u=304393&p=1214216921"
+}

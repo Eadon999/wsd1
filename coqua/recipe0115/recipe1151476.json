@@ -1,0 +1,75 @@
+{
+    "name": "韓国風 ほうれん草のひき肉あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "☆SHuge"
+    },
+    "image": "https://img.cpcdn.com/recipes/1151476/464x260/d39366f53382ffb1f2529303fd589171.jpg?u=1482781&p=1276005147",
+    "datePublished": "2010-06-08",
+    "description": "ほうれん草を他の野菜に変えても美味しくいただけます☆丼にしてもGood♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "合挽肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "ニンニクみじん切り",
+            "quantity": "１片"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "水とき片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "☆豆板醤",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "合わせ調味料☆印を混ぜて準備、ほうれん草は４〜５cmに切っておきます。\n\n",
+        "フライパンにごま油をひき、ニンニクみじん切りとひき肉を炒めます。",
+        "肉の色が変わったらほうれん草を入れてサッと炒め、合わせ調味料と塩少々を加えます。",
+        "最後に水とき片栗粉を入れてとろみがついたら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1151476",
+    "advice": "水とき片栗粉を入れてから強火でさっと炒めると、とろみが持続されます！",
+    "history": "ほうれん草を子供達が食べやすい様、お肉と一緒にあんかけに♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "合挽肉",
+        "ごま油",
+        "塩"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1151476/100x141c/fbae8b62567b1c5e4a60b41b7502dc1f.jpg?u=1482781&p=1276005147"
+}

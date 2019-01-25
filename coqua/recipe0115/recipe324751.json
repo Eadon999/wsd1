@@ -1,0 +1,64 @@
+{
+    "name": "厚揚げだけ炒めました",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/324751/464x260/09af7e6c9931c7011bbc3f4f2a1aa7c0.jpg?u=274122&p=1214214602",
+    "datePublished": "2007-01-31",
+    "description": "おかずにもおつまみにもなる１品です。　",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "５グラム"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "おろしにんにく　少々"
+        },
+        {
+            "name": "ナンプラー",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "めんつゆ（２倍濃縮）",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量（多めがおすすめ）"
+        },
+        {
+            "name": "（レモン汁）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げを一口大に切る。",
+        "フライパンにバター・ニンニクを入れ弱火で加熱。",
+        "ニンニクの香りが立ったら厚揚げを入れ、両面焼く。",
+        "少し焦げ目がついたら、ナンプラーとめんつゆを入れ、味をからめ黒コショウをふる。",
+        "器に盛り、お好みでレモン汁をかけてどうぞ～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "324751",
+    "advice": "めんつゆはストレート・濃縮などがあるので、加減してください。黒コショウは粗挽きがおすすめ。たっぷりかけるとおいしいです。私はレモン汁もかける方が好きです。",
+    "history": "冷蔵庫に賞味期限が今日までの厚揚げが１枚。。。あったとさ（笑）",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "バター",
+        "ニンニク",
+        "ナンプラー"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/324751/100x141c/eac4744317b978ee92dd57cc3b1e1437.jpg?u=274122&p=1214214602"
+}

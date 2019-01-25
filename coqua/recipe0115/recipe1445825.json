@@ -1,0 +1,57 @@
+{
+    "name": "ニラとキャベツの簡単ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "slowlife20"
+    },
+    "image": "https://img.cpcdn.com/recipes/1445825/464x260/afdcc0718027ea8ea415df7c90b89783.jpg?u=3124375&p=1305960530",
+    "datePublished": "2011-05-21",
+    "description": "切って混ぜるだけ。簡単。２歳の子供もパクパク！酒の肴にも！",
+    "recipeYield": "３－４人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "３-４枚"
+        },
+        {
+            "name": "ニラ",
+            "quantity": "３-４本（1/3束-1/2束ぐらい）"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "ゴマ（白）",
+            "quantity": "小1-2（量はお好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラを５ミリぐらい、キャベツを食べやすい大きさに切って鶏がらスープの素を全体に混ぜて５分ぐらい放置",
+        "①に残りの調味料を順番に入れて揉み込む感じで混ぜれば出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1445825",
+    "advice": "ニラもキャベツも生のままだからビタミンC,U、アリシンも逃がさずたっぷりいただけます！ごま油でビタミンA（ベータカロテン）も吸収しやすい！",
+    "history": "今の季節はよく安売りしているので最近はいつも冷蔵庫にいるキャベツ。 ニラが少し余っていたので合わせてナムルにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "ニラ",
+        "鶏がらスープの素",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1445825/100x141c/ee548d5869425bb71723c1f7df7a5b63.jpg?u=3124375&p=1305960530"
+}

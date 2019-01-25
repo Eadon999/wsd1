@@ -1,0 +1,44 @@
+{
+    "name": "さわらの塩焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まるかば"
+    },
+    "image": "https://img.cpcdn.com/recipes/1430658/464x260/52ecc7f9cc24afbef438e655f5a313e3.jpg?u=1516102&p=1304662579",
+    "datePublished": "2011-05-06",
+    "description": "スーパーで切り身で売っています。塩を振って焼くだけ！生さわらは、カリウム、リン、ビタミンＤなどが含まれています。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さわらの切り身",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "紅しょうが",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "２０㎝位上から、さわらに塩をふります（両面）\n出た水分は、ペーパータオルでふきとります",
+        "グリルで皮のほうから焼きます。だいたい表３分、裏５分を目安に！",
+        "身がふっくらしてきたら焼き上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "1430658",
+    "advice": "ペーパータオルで水分をふきとると、焼き時間が短く、うまみが残ります",
+    "history": "新鮮なさわらは、塩焼きがおいしいよって魚屋のおばさんが教えてくれました！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さわら 塩焼き",
+        "生さわら"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1430658/100x141c/dbdd15eb3b0a4f1731b5be8dca0c320a.jpg?u=1516102&p=1304662579"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "いんげんのゴマあえ",
+    "author": {
+        "@type": "Person",
+        "name": "サンディサンディ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1089682/464x260/23251e865638783f3038567e238bae64.jpg?u=1570274&p=1270387908",
+    "datePublished": "2010-04-04",
+    "description": "いんげん、ささみの２点だけでできます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "４本"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "350g"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2・1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋をとり、細切り。片栗粉をまぶし、茹でて水気を切る。",
+        "いんげんは塩ゆでし、ざるにとってさまし、4-5cmに切る。",
+        "ゴマはすっておく。",
+        "③に砂糖、しょうゆを入れてすり混ぜ、①②を入れて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1089682",
+    "advice": "片栗粉をまぶすことによってつるっとして食感が良くなります。",
+    "history": "作りおきができるもので・・・。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "いんげん",
+        "ごま",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1089682/100x141c/22bd5ef655c08cac68fe1b7817a9bcbc.jpg?u=1570274&p=1270387908"
+}

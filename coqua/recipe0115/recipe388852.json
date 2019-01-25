@@ -1,0 +1,48 @@
+{
+    "name": "簡単！★枝豆とみょうがで１品★",
+    "author": {
+        "@type": "Person",
+        "name": "ポキコちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/388852/464x260/8f8311294f4fccc3d2550501b9622e27.jpg?u=269583&p=1347371447",
+    "datePublished": "2007-06-13",
+    "description": "枝豆とみょうがさえあればすぐ出来る一品です。（2008.10.14　話題入りしました。ありがとうございました）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "枝豆",
+            "quantity": "適宜"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "適宜"
+        },
+        {
+            "name": "節つゆ（めんつゆ）",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでた枝豆はさやから出します。",
+        "みょうがは縦に半分に切ってから、小口切り。",
+        "枝豆とみょうがを混ぜ、そこに節つゆを入れて混ぜます。できあがり！",
+        "準備はこれだけです\r\n",
+        "お好みでかつお節を混ぜても美味しいです。\n（2017.8.22追記）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "388852",
+    "advice": "切って混ぜるだけのお手軽料理。不意のお客様にもすぐ出せます。めんつゆはストレートよりやや濃い目に（お好みで）。",
+    "history": "母が作ってくれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "枝豆",
+        "みょうが",
+        "節つゆ",
+        "かつお節"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/388852/100x141c/ca977889d66d2848067f2601fb9780e1.jpg?u=269583&p=1347371447"
+}

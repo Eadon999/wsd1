@@ -1,0 +1,54 @@
+{
+    "name": "おつまみに最高！じゃが芋チーズのコロコロ",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1079858/464x260/c09385e1e5721d3d7d3ee44ec3acf6e2.jpg?u=1109634&p=1269485482",
+    "datePublished": "2010-03-25",
+    "description": "子供も旦那も大好き☆簡単で失敗なしのおつまみです！",
+    "recipeYield": "2～3人前",
+    "recipeIngredient": [
+        {
+            "name": "じゃが芋",
+            "quantity": "2個"
+        },
+        {
+            "name": "塩",
+            "quantity": "3本指で1つまみ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "プロセスチーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "電子レンジでチンした熱々のじゃが芋の皮をむいて潰し、塩・牛乳・片栗粉を混ぜる。",
+        "丸く丸め、その真ん中にプロセスチーズを入れる。",
+        "油で揚げる。1cmの少ない油でもコロコロ転がしながら十分揚がる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1079858",
+    "advice": "☆プロセスチーズがない場合は、粉チーズを大さじ3～4入れても美味しい。",
+    "history": "美味しいじゃが芋のおつまみが食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃが芋",
+        "塩",
+        "片栗粉",
+        "牛乳"
+    ],
+    "tsukurepo_count": "214",
+    "thumbnail": "https://img.cpcdn.com/recipes/1079858/100x141c/173a3db9e497a698aac5e6003029595c.jpg?u=1109634&p=1269485482"
+}

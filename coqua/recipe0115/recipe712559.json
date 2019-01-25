@@ -1,0 +1,58 @@
+{
+    "name": "しいたけの含め煮",
+    "author": {
+        "@type": "Person",
+        "name": "まりんぷー"
+    },
+    "image": "https://img.cpcdn.com/recipes/712559/464x260/0afd066f60b24fc6675b2c832cb8d30f.jpg?u=552723&p=1231754016",
+    "datePublished": "2009-01-12",
+    "description": "お正月料理として作りました。しいたけの旨みたっぷりの一品です!!",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "どんこ(干ししいたけ）",
+            "quantity": "大10個"
+        },
+        {
+            "name": "水",
+            "quantity": "400ｃｃ"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょう油・みりん",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "どんこを水（４００㏄）で戻します。",
+        "しいたけが柔らかくなったら、鍋に入れ、戻し汁とその他の調味料を加え中火で、10～15分位煮て、出来上がりです。",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "712559",
+    "advice": "作り終えたら、少し寝かせて、味を染み込ませるともっともっと、美味しくなりますよ♪ しいたけを短時間で戻したいときには、ぬるま湯に砂糖を加えると早く柔らかくなりますよ!!",
+    "history": "お正月料理に作りました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/干ししいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "椎茸の含め煮",
+        "生しいたけ 含め煮",
+        "どんこ しいたけ"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/712559/100x141c/afd2a47881a161848e33214605579772.jpg?u=552723&p=1231754016"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "もやしのシソポン酢和え",
+    "author": {
+        "@type": "Person",
+        "name": "なおぷ。"
+    },
+    "image": "https://img.cpcdn.com/recipes/811734/464x260/864182bd715f9394ec08b286ba77589e.jpg?u=1019103&p=1242651799",
+    "datePublished": "2009-05-18",
+    "description": "低コストローカロリー♪しかもへるし～♪手軽に作れる簡単おかず！冷蔵庫で冷やしておくとしっとり馴染んでアツアツご飯があう！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ハム",
+            "quantity": "3枚"
+        },
+        {
+            "name": "大葉",
+            "quantity": "10枚"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "水からもやしを茹で沸騰したらざるにあける。",
+        "アツアツもやしにポン酢をかけて味をなじませる。",
+        "粗熱が取れたら、千切りのハム・大葉を加えよく和えてできあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "811734",
+    "advice": "熱いうちにポン酢をかけることで早く味が染み込みます！多めに作って冷蔵庫で冷やしておくと便利です！",
+    "history": "大葉が安く手にはいる季節が来たので♪香りを楽しめる簡単おかずです！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/大葉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ハム",
+        "大葉",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/811734/100x141c/636e4909c8feb29ce8da052bd3d1c788.jpg?u=1019103&p=1242651799"
+}

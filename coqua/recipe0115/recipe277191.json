@@ -1,0 +1,69 @@
+{
+    "name": "簡単おいし～キキ風！？名古屋手羽揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "キキkiki"
+    },
+    "image": "https://img.cpcdn.com/recipes/277191/464x260/6aba36080dd12cee672719df698b2d8f.jpg?u=282077&p=1214213527",
+    "datePublished": "2006-08-28",
+    "description": "かな～りおいしいです！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽（スティック）",
+            "quantity": "16本"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○白胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○七味唐辛子",
+            "quantity": "適宜"
+        },
+        {
+            "name": "○おろしにんにく",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油とエコナ油（揚用）",
+            "quantity": "半々"
+        }
+    ],
+    "recipeInstructions": [
+        "ビニール袋に手羽と片栗粉を入れシェイクする。熱した油で手羽をやや弱火じっくり揚げ、一旦上げる。次は強火で２度揚げ、からっとさせる。",
+        "フライパンで○タレの材料を熱し、ひと煮立ちしたら火を止め、１を絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "277191",
+    "advice": "甘すぎるかな？くらいの味付けが良いようです。",
+    "history": "新宿の某デパートでたまに売っている、あの冷めてもおいしい味を、簡単に再現できないものかと、、研究してみました（笑）。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽",
+        "片栗粉",
+        "白胡麻",
+        "醤油"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/277191/100x141c/05b481269c1fd9999d89244d81c68e8a.jpg?u=282077&p=1214213527"
+}

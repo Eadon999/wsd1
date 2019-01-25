@@ -1,0 +1,72 @@
+{
+    "name": "海藻サラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2641600/464x260/b4e41d79e4474c61bc6afd25327ff916.jpg?u=9552524&p=1400926161",
+    "datePublished": "2014-05-24",
+    "description": "胡麻ドレッシンッグでヘルシー美味しい♡海藻サラダです(^^♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "海藻サラダ（乾燥）",
+            "quantity": "１０g"
+        },
+        {
+            "name": "かにかまぼこ",
+            "quantity": "８０g"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１/３個"
+        },
+        {
+            "name": "かいわれ大根",
+            "quantity": "１/２パック"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★炒りゴマ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "★は合わせておきます。",
+        "海藻サラダは水で戻して水気を絞ります。レタスは一口大にちぎり、カイワレは根を切る。かにかまはほぐします。",
+        "②をボールに合わせて冷やしておきます。食べる直前に①を加えてサックリ混ぜ合わせます。",
+        "器に盛ります。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2641600",
+    "advice": "ドレッシングは食べる直前にかけて和えてね(^^♪",
+    "history": "すぐ太るうちの旦那くんのダイエットメニューです(#^.^#)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/海藻のサラダ"
+    ],
+    "rankings": [
+        "海藻サラダ 2位"
+    ],
+    "related_keywords": [
+        "海藻サラダ",
+        "海藻サラダ レタス",
+        "海藻サラダ カニカマ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2641600/100x141c/1deb252af7ca31e023688771b3abc648.jpg?u=9552524&p=1400926161"
+}

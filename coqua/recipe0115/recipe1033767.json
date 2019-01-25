@@ -1,0 +1,66 @@
+{
+    "name": "簡単♪鮭の甘酢ソテー",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1033767/464x260/b7ca1e38e943e926bda98e8c259bfbbf.jpg?u=496128&p=1265630379",
+    "datePublished": "2010-02-08",
+    "description": "定番に飽きたらこれ！！焼いて、たれを入れるだけ。簡単にできますよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "①鮭に塩コショウを振り、片栗粉をまぶす。",
+        "②フライパンに油を熱し、①を両面焼く。",
+        "③たれの材料を入れて、煮絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1033767",
+    "advice": "今回はキングサーモンを使用。",
+    "history": "たまには違った味付けで",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭",
+        "塩コショウ",
+        "片栗粉",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1033767/100x141c/23abf9f172af3cc337aadfda3a424e89.jpg?u=496128&p=1265630379"
+}

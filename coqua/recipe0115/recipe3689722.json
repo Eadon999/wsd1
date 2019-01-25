@@ -1,0 +1,56 @@
+{
+    "name": "簡単☆朝食に豆腐丼♪",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/3689722/464x260/c585844113cfb2a25b1d517a11f63c77.jpg?u=1690437&p=1455492889",
+    "datePublished": "2016-02-15",
+    "description": "ご飯の上に豆腐と揚げ玉を乗っけて白だしをかけ混ぜ混ぜして食べると病みつきです♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "300ｇ～400ｇ"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "揚げ玉",
+            "quantity": "30ｇ～50ｇ"
+        },
+        {
+            "name": "白だし又は出汁醤油",
+            "quantity": "大さじ2～3"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は軽く水切りしておく。水切りなしでもOK。",
+        "どんぶりにご飯を入れさいの目に切った豆腐をのせ揚げ玉を散らしネギ、すりごまをかける。",
+        "白だし又は出汁醤油をかけて混ぜながら食べる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3689722",
+    "advice": "豆腐は水切りなしでも水っぽくなったら白だしか醤油を足せばOK。揚げ玉が水気を吸ってくれます。ご飯の量や揚げ玉の量、白だし（出汁醤油）はお好みで調整してください。",
+    "history": "牛丼の吉野家さんの豆腐丼を食べやすくアレンジして自分流に再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹とうふ 朝食",
+        "豆腐 丼 朝食"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3689722/100x141c/913ae0ff588f338dc240e140911f1fb2.jpg?u=1690437&p=1455492889"
+}

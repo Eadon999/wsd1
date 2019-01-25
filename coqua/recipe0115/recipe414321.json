@@ -1,0 +1,59 @@
+{
+    "name": "麻婆のタレ♪",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/414321/464x260/a2748177a8dda6df26933b864e1f6766.jpg?u=253314&p=1280913426",
+    "datePublished": "2007-08-06",
+    "description": "結構辛いんですが美味しいですよ～（＾＾）　色々な料理の調味料としてどうぞ♪",
+    "recipeYield": "２００cc弱",
+    "recipeIngredient": [
+        {
+            "name": "豆板醤",
+            "quantity": "２５g"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１０g"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１０g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "１００CC"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニク、生姜はすりおろす。",
+        "ごま油でにんにく、生姜を炒め、豆板醤も加える。",
+        "砂糖、醤油を加えてひと煮立ちしたらOK。",
+        "炊き込みご飯を作りました。ｺﾒ１合にﾀﾚ大さじ１位入れ、具は何でもOK。今回は豚肉だけ＾＾；"
+    ],
+    "cookTime": null,
+    "recipe_id": "414321",
+    "advice": "色々な料理の調味料に使えると思います。 美味しい使い道　教えて下さいね。　麻婆豆腐の時は、豆腐の水切りせずに使うと ちょうどいい水分が出ると思いますが、水分が少ない時は水少々を加えて下さい。",
+    "history": "まとめて作っておけば楽だと思いまして♪",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆板醤",
+        "にんにく",
+        "しょうが",
+        "醤油"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/414321/100x141c/2eeacd46324b728f5f1e2e4f3b12dc28.jpg?u=253314&p=1280913426"
+}

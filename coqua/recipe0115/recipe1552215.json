@@ -1,0 +1,67 @@
+{
+    "name": "手羽元のオーブン焼き",
+    "author": {
+        "@type": "Person",
+        "name": "タヨン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1552215/464x260/bfed268d70e7008cb4b5581f7b1f4f09.jpg?u=3318085&p=1314790178",
+    "datePublished": "2011-08-31",
+    "description": "お安い手羽元を漬け込んでオーブンで焼くだけ～簡単(^^)vおもてなしにどうぞ♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽元",
+            "quantity": "12本"
+        },
+        {
+            "name": "＊しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "＊はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊コチュジャン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "＊青ネギ",
+            "quantity": "３０ｃｍ"
+        },
+        {
+            "name": "＊おろししょうが、おろしにんにく",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "手羽元はキッチンバサミで骨にそって切り開く",
+        "＊の材料を合わせ手羽元にもみ込み15分おく。その間２回くらい　もみ込む。\nオーブンを２００度に温めておく。",
+        "天板にクッキングシートを敷き、キッチンペーパーで表面の水分を取った手羽元を皮を上にして広げて並べ、１８分くらい焼く。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1552215",
+    "advice": "手羽元を切り開くことで見た目も大きく、食べやすくなり、焼き時間も短縮されます。焼くときは水分を取ったほうが　焼き目がきれいにつきます。　",
+    "history": "お安い手羽元をおいしく豪華に見えるように（･･･？）作ってみました(^^)v",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏手羽元",
+        "しょうゆ",
+        "酒",
+        "はちみつ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1552215/100x141c/c45b40867a4e65b69fb592c49eaef1a0.jpg?u=3318085&p=1314790178"
+}

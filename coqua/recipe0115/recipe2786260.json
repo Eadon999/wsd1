@@ -1,0 +1,65 @@
+{
+    "name": "ご飯が進む☆豚バラ肉と舞茸の甘辛煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "naokongyz"
+    },
+    "image": "https://img.cpcdn.com/recipes/2786260/464x260/8c8b0e6528778a3dab2b88de8450bd64.jpg?u=4503302&p=1411265905",
+    "datePublished": "2014-09-06",
+    "description": "某イベントで食べて、とってもおいしかったので、おうちで再現しました！甘辛味でご飯がどんどん進みます(＾＾)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ肉",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "200g"
+        },
+        {
+            "name": "フルーツトマト",
+            "quantity": "小3個"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "100ml"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は一口大に。\n舞茸もさいて一口大に。\nフルーツトマトは1㎝大に切っておく。",
+        "①の材料を袋に入れ揉みこむ。\nそのまま30分程置く。",
+        "★の調味料を合わせておく。\n過不足あれば、お好みでOK！",
+        "フライパンに少量油をひき、②に軽く火を通す。",
+        "豚肉に火が通ったら、③の調味料を入れて水分がほぼなくなるまで煮詰まったら出来上がり♪♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2786260",
+    "advice": "フルーツトマトと舞茸を先にお肉に馴染ませておく所がポイント！仕上がりはトマト感はほとんどありません。程よく甘みと酸味が加わります☆",
+    "history": "調味料の配分は、ラビーさんの「きのこ山盛りのあまから混ぜごはん。」を参考にさせて頂き　ました！http://cookpad.com/recipe/425857",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉と舞茸の甘辛"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2786260/100x141c/b745982cb0e1934e393fba0acb43cad3.jpg?u=4503302&p=1411265905"
+}

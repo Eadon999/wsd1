@@ -1,0 +1,55 @@
+{
+    "name": "簡単♡きつねうどんのおあげさん",
+    "author": {
+        "@type": "Person",
+        "name": "Keit3"
+    },
+    "image": "https://img.cpcdn.com/recipes/2178223/464x260/6364dfd8d9b38cc48f0b5028bdf8d42f.jpg?u=1383293&p=1365038323",
+    "datePublished": "2013-04-04",
+    "description": "簡単・便利なおあげさんです♪きつねうどん、いなりずしにどうぞ！たくさん作って冷凍もできます",
+    "recipeYield": "４枚分",
+    "recipeIngredient": [
+        {
+            "name": "すしあげ",
+            "quantity": "４枚"
+        },
+        {
+            "name": "出汁",
+            "quantity": "１５０ｍｌ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "すしあげを斜め半分に切り、たっぷりの熱湯に入れて、油抜きをし、水気を切る。",
+        "出汁と調味料を入れて弱火にかけ、１のすしあげを入れる。",
+        "落としぶたをして、汁気がなくなるまで煮る。",
+        "出来上がり！\nラップに包んで、冷凍もできます。",
+        "きつねうどんに！\n",
+        "いなりずしに！"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2178223",
+    "advice": "すしあげは、半分に切らないで、そのままでもOK! 出汁は、鰹と昆布でとっています。 お好みで、甘さは加減して下さい。",
+    "history": "きつねうどんやいなりずし用に、たくさん作っておくと便利なので、わが家の味付けにしました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きつねうどん おあげ",
+        "薄あげ きつね"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/2178223/100x141c/8a2d642e9d571c2dcef588f9ff589ba0.jpg?u=1383293&p=1365038323"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "簡単☆茄子のあっさり中華風♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1955357/464x260/d71258b510484a654fc9720d6547ca3d.jpg?u=1228553&p=1347581231",
+    "datePublished": "2012-09-14",
+    "description": "タレ自体はノンオイル♪茄子を焼くときのごま油だけで簡単あっさり中華風に～ヽ(･∀･)ﾉ ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "2本"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "1/2本程度"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎは粗みじんに切り、☆すべてと合わせておく",
+        "茄子は5ミリ程度の厚さに切る",
+        "フライパンにごま油を少々多めにひいて",
+        "茄子を両面こんがり焼いたら",
+        "お皿に盛り付け、１のたれをかければ出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1955357",
+    "advice": "茄子は中火でじっくり、柔らかくなるまで焼いてください☆タレは酸味が効いていますので、お好みで酢や砂糖の量を調節してください(*´ｪ`*)",
+    "history": "さっぱりとシンプルな茄子が食べたくて♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす 中華"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/1955357/100x141c/15a4b0aca0278e7e7a725df477d30e5e.jpg?u=1228553&p=1347581231"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "ぱぱっと！たけのこご飯",
+    "author": {
+        "@type": "Person",
+        "name": "こころうさぎ☆彡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3736638/464x260/960b3a4a7353e02f584e8f555c1dfc7c.jpg?u=14030127&p=1457427118",
+    "datePublished": "2016-03-08",
+    "description": "炊飯器で炊くやさしい春の味♥",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "たけのこ(水煮)",
+            "quantity": "200ｇぐらい"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小袋1/2袋"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "木の芽",
+            "quantity": "あれば少し"
+        }
+    ],
+    "recipeInstructions": [
+        "研いだお米を炊飯釜に入れ、調味料をすべて入れる。通常の目盛りより少し少な目に水を入れる。",
+        "刻んだたけのこ・油揚げを入れ軽く混ぜ炊く。",
+        "木の芽をのせてできあがり。",
+        "「筍ご飯」の人気検索でトップ10入りしました。\nありがとうございます♥2016.3.16",
+        "「木の芽」の人気検索で1位になりました。\nありがとうございます♥2016.4.19"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "3736638",
+    "advice": "たけのこにも水分があるので、水加減は少な目にしてます。",
+    "history": "春にたけのこを頂くと、あく抜きをして作るのはまずコレ。余るとおにぎりにして海苔で巻いて食べます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "たけのこ",
+        "油揚げ",
+        "だしの素"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3736638/100x141c/08f5f9f390f5652b5baa72fee1059181.jpg?u=14030127&p=1457427118"
+}

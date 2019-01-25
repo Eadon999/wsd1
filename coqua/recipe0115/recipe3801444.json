@@ -1,0 +1,44 @@
+{
+    "name": "簡単唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "T☆moco"
+    },
+    "image": "https://img.cpcdn.com/recipes/3801444/464x260/4adcb1c694848878c186dc0355697a5b.jpg?u=9614233&p=1460446998",
+    "datePublished": "2016-04-12",
+    "description": "下味これだけ〜‼️簡単です。2016.5.20カテゴリ掲載。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "むね肉でも可"
+        },
+        {
+            "name": "ニンニクチューブ",
+            "quantity": "3センチくらい"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を一口大に切る。\nビニール袋に材料全て入れて、数時間置いておく。",
+        "①の袋に小麦粉を入れて、まんべんなく混ぜる→180°C油で揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3801444",
+    "advice": "",
+    "history": "塩麹とにんにくチューブだけで唐揚げを作ってみたら、美味しく出来たのでUPしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏のから揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "ニンニクチューブ",
+        "塩麹"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3801444/100x141c/c862cd698c8dd0da681d97338874014b.jpg?u=9614233&p=1460446998"
+}

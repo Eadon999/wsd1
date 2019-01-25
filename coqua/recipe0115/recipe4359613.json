@@ -1,0 +1,48 @@
+{
+    "name": "調味料なし！海老とはんぺんのおやき♪",
+    "author": {
+        "@type": "Person",
+        "name": "ｍａｉｋｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4359613/464x260/8446273edf1c35400803a2c921181839.jpg?u=1303479&p=1491356451",
+    "datePublished": "2017-02-17",
+    "description": "味付け不要！材料混ぜて焼くだけで香ばしいおやきが！簡単10分で出来上がり♪",
+    "recipeYield": "2人前",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "1枚"
+        },
+        {
+            "name": "海老",
+            "quantity": "6匹"
+        },
+        {
+            "name": "ねぎ(みじん切り)",
+            "quantity": "大１"
+        },
+        {
+            "name": "桜えび",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "海老を5ミリ幅に切る。",
+        "ボウルにはんぺんを入れてぐちゃぐちゃになるまで混ぜる。",
+        "ねぎと桜えびと海老を入れて混ぜ、３cmくらいの丸に成形する。",
+        "フライパンに油をひき両面焼き色がつくまで焼いて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4359613",
+    "advice": "はんぺんはなるべく細かくなるまで混ぜる。",
+    "history": "はんぺんを使ったことがなかったので家にある材料で作ってみました。具に味わいがあるので調味料が一切不要で作れるので2歳の子供にも好評でした。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん おやき"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4359613/100x141c/f36e8d935f78ec43892d56464598a8a0.jpg?u=1303479&p=1491356451"
+}

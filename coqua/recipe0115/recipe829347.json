@@ -1,0 +1,58 @@
+{
+    "name": "刻み昆布煮",
+    "author": {
+        "@type": "Person",
+        "name": "ますこちゃん！"
+    },
+    "image": "https://img.cpcdn.com/recipes/829347/464x260/a29036b1a761405dd0058f2e4f7fc03f.jpg?u=1142597&p=1244205135",
+    "datePublished": "2009-06-05",
+    "description": "つくれぽ１０人達成有難う！昆布の風味が美味しい一品です。",
+    "recipeYield": "三人前",
+    "recipeIngredient": [
+        {
+            "name": "刻み昆布",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/４本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ダシ",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "酒・砂糖・みりん・醤油",
+            "quantity": "各小さじ２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１/2"
+        }
+    ],
+    "recipeInstructions": [
+        "①刻み昆布は水につけて戻したあと水気を切っておく。人参は皮をむいて千切り、油揚げは油抜きしたあと細めの短冊に切る。",
+        "②サラダ油を熱した鍋に、①を入れて炒め、ダシ・酒・砂糖・みりん・醤油の順に加えて中火でおとし蓋をして煮る。",
+        "③材料が柔らかくなり、煮汁が少なくなったら出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "829347",
+    "advice": "昆布によって煮える時間が違うので、長時間煮る時はだしを多めにすると良いです。",
+    "history": "近所の方に教えて頂き、長年作り続けて我が家の味になったレシピです。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/昆布"
+    ],
+    "rankings": [
+        "昆布煮 5位"
+    ],
+    "related_keywords": [
+        "昆布煮"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/829347/100x141c/3875fa6126b8700bbf89e8e8aab20dd5.jpg?u=1142597&p=1244205135"
+}

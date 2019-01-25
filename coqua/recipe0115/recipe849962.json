@@ -1,0 +1,59 @@
+{
+    "name": "豆腐とキャベツの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "a-smile"
+    },
+    "image": "https://img.cpcdn.com/recipes/849962/464x260/406573c84dc17aca80974dd2aa4b6c42.jpg?u=937705&p=1246109484",
+    "datePublished": "2009-06-27",
+    "description": "お豆腐とキャベツの甘みをたまごでとじた、やさしい味です。寒い日や胃を休めたいなんて日にぴったり。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "小１/４個"
+        },
+        {
+            "name": "たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は縦半分、厚さ１ｃｍくらいに切る。\r\nキャベツはざく切り。",
+        "鍋またはフライパンにだし汁、しょうゆ、みりんを入れる。\r\nそこへ豆腐、キャベツを入れる。",
+        "ふたをして弱めの中火でキャベツが柔らかくなるまで火にかける。\r\nといた卵をまわしかけたら火を止め、出来上がり。",
+        "2010.3.29 \r\n話題のレシピ入りさせて頂きました。 \r\n皆様、ありがとうございます☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "849962",
+    "advice": "最後にかつ節をかけるとより風味が増します。",
+    "history": "あと一品というときに",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 豆腐",
+        "胃 休める",
+        "キャベツ 卵とじ",
+        "豆腐 卵とじ"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/849962/100x141c/20e98c11f62c2f9ca60f58775ee81cf9.jpg?u=937705&p=1246109484"
+}

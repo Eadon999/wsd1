@@ -1,0 +1,45 @@
+{
+    "name": "子供も喜ぶ♪大根カニかまマヨサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "パルフェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/241589/464x260/739bb1eeb60e491a409d6e0b4de81659.jpg?u=61922&p=1214212725",
+    "datePublished": "2006-03-02",
+    "description": "大根を切ってマヨネーズとカニかまと和えるだけ♪クリーミーで子供でも食べやすい☆もりもり食べられます＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "カニかま",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を繊維にそって千切りにし、水にさらしシャキシャキ感を出す。\r\nその後水を良く切っておく。",
+        "①とほぐしたカニかまを和え、マヨネーズを加えて良く混ぜ合わせれば出来上がり☆",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "241589",
+    "advice": "大根は切り方によって食感が変わります。繊維にそって切ればシャキシャキに、繊維に逆らえばしんなりします。お好みでどうぞ＾＾",
+    "history": "あと一品欲しいときに☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "カニかま",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/241589/100x141c/70fbb6d9ff64e0cd8022b1b9df00c02e.jpg?u=61922&p=1214212725"
+}

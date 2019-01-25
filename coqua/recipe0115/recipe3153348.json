@@ -1,0 +1,62 @@
+{
+    "name": "簡単♪豚こまとピーマンの味噌炒め",
+    "author": {
+        "@type": "Person",
+        "name": "meguo2929"
+    },
+    "image": "https://img.cpcdn.com/recipes/3153348/464x260/5426aac6a622a44ccb76a0e51cf8358e.jpg?u=5616121&p=1431174542",
+    "datePublished": "2015-05-02",
+    "description": "お安い豚こまとピーマンで手軽に1品♡白いご飯がススム♪～(´ε｀ )",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉（大きければ1口大に切り塩コショウ）",
+            "quantity": "250~300g"
+        },
+        {
+            "name": "ピーマン（ヘタ種を取り細切り）",
+            "quantity": "4、5個"
+        },
+        {
+            "name": "にんにく（みじん切り）",
+            "quantity": "1片"
+        },
+        {
+            "name": "生姜（みじん切り）",
+            "quantity": "1片"
+        },
+        {
+            "name": "☆味噌、酒、みりん",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油、にんにく、生姜を入れ中火にかけ、香りが出たら豚肉を加え色が変わるまで炒める。",
+        "①にピーマンとよく混ぜた☆を加え、さっと炒め合わせる。皿に盛りつける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3153348",
+    "advice": "ピーマンに火を通し過ぎないこと、調味料は混ぜておくことです。",
+    "history": "以前どこかで見たレシピだったと思いますが、作りやすい材料で作るうちに我が家の定番に♬",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま切れ肉",
+        "ピーマン",
+        "にんにく",
+        "生姜"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3153348/100x141c/228ec5f3a2bca6f6d6090557b0a6ad66.jpg?u=5616121&p=1431174542"
+}

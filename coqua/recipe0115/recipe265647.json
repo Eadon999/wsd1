@@ -1,0 +1,82 @@
+{
+    "name": "にらたっぷり♡にらたま",
+    "author": {
+        "@type": "Person",
+        "name": "さっちゃんまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/265647/464x260/4a2014493392d6b3f7a89dcd6b593a99.jpg?u=245423&p=1435311773",
+    "datePublished": "2006-07-23",
+    "description": "にらがたっぷり入ったたまご焼きです。甘酢あんがグーッです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "にら",
+            "quantity": "１束"
+        },
+        {
+            "name": "たまご",
+            "quantity": "4～5個"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "１００g"
+        },
+        {
+            "name": "しょうゆ、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "１／２カップ"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "さとう",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "にらは５ｍｍに切る。\r\nひき肉を炒め、しょうゆ･コショウを加える。",
+        "ボールにたまごを割りほぐし、スープと１を加え、よく混ぜ合わせる。\r\n中華なべか、フライパンでたまご焼きを作る。",
+        "片栗粉以外の甘酢あんの材料を小なべに入れ、沸騰したら２倍の水で溶いた片栗粉でとろみをつけ、ゴマ油を加える。焼いたたまご焼きにかける。\r\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "265647",
+    "advice": "たまご焼きを返す時は４等分してから１つずつ返すと簡単です。",
+    "history": "にらが大好きなのと、かにたまより経済的なので。美味しい甘酢あんを試行錯誤している最中です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にら",
+        "たまご",
+        "豚ひき肉",
+        "中華スープ"
+    ],
+    "tsukurepo_count": "125",
+    "thumbnail": "https://img.cpcdn.com/recipes/265647/100x141c/88d1464974a700e67ca92bada7b99ed4.jpg?u=245423&p=1435311773"
+}

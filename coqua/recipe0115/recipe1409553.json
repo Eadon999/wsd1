@@ -1,0 +1,64 @@
+{
+    "name": "筍と厚揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "junkitchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/1409553/464x260/a4a5e7eb01138cd6d1537214ee395886.jpg?u=3071302&p=1302587459",
+    "datePublished": "2011-04-12",
+    "description": "春の煮物と言えば、「筍」ですね♪厚揚げと煮てみましたよ。優しいお味です。がんもでもどうぞ（＾＾）",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでたけのこ",
+            "quantity": "２００ｇくらい"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "スナップえんどうやいんげん",
+            "quantity": "適量"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆでたけのこは食べやすく切ります。厚揚げは熱湯に通し、１枚を８等分に切ります。スナップエンドウは筋を取ります。\n",
+        "鍋に、だし汁２カップ＋砂糖・醤油・みりん各大さじ２＋塩少々を入れ、煮立てます。\n",
+        "筍と厚揚げを入れ、弱火で約１０分煮ます。最後にスナップエンドウを入れ、しばらく煮たらできあがり。\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1409553",
+    "advice": "スナップエンドウは煮過ぎると色が悪くなるので、さっと煮ましょう。厚揚げを がんも、スナップえんどうを菜の花にかえても♪→http://ameblo.jp/blog-momoichigo/entry-11231032416.html",
+    "history": "春になると、筍が食べたくなります～♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこ 厚揚げ",
+        "たけのこ 厚揚げ 煮物"
+    ],
+    "tsukurepo_count": "86",
+    "thumbnail": "https://img.cpcdn.com/recipes/1409553/100x141c/646bc9cb5846785797de2d72a3c2d325.jpg?u=3071302&p=1302587459"
+}

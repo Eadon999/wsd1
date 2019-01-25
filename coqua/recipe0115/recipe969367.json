@@ -1,0 +1,63 @@
+{
+    "name": "キャベツともってのほか菊のツナサラダ。",
+    "author": {
+        "@type": "Person",
+        "name": "しあわせな食卓"
+    },
+    "image": "https://img.cpcdn.com/recipes/969367/464x260/aa3a6200227c3ae89a14c120d97a453c.jpg?u=500885&p=1258629021",
+    "datePublished": "2009-11-19",
+    "description": "食用菊に馴染みのない方も食べられる美味しいツナサラダです。綺麗な色で食卓も華やかに。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "もってのほか菊",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "わさび",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは食べやすい大きさに切ってさっと茹で、絞って水気を切ります。",
+        "もってのほか菊は花びらを摘んでバラバラにし、酢を加えたお湯でさっと茹で、冷水にさらして水気を切ります。",
+        "ボウルにキャベツ、もってのほか菊、ツナ、マヨネーズ、わさび、ほんだし、醤油を加え、よく混ぜ合わせて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "969367",
+    "advice": "わさびの量はお好みで調節してください。",
+    "history": "もってのほか菊を初めて食べる人でも美味しく食べられるように考えて作りました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もってのほか"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/969367/100x141c/82a44fce0562c50a6c82cb742a8b9f5f.jpg?u=500885&p=1258629021"
+}

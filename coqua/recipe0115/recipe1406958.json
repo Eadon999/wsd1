@@ -1,0 +1,58 @@
+{
+    "name": "青梗菜とえのきの生姜スープ",
+    "author": {
+        "@type": "Person",
+        "name": "ばぶﾁｬﾝ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1406958/464x260/b059587ce2cb548a622b484742d7f275.jpg?u=1431330&p=1302333301",
+    "datePublished": "2011-04-27",
+    "description": "とろとろの青梗菜とえのきの歯ごたえがいいスープです。",
+    "recipeYield": "２人",
+    "recipeIngredient": [
+        {
+            "name": "青梗菜",
+            "quantity": "１株"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆しょうが（チューブ）",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆水",
+            "quantity": "６００cc"
+        },
+        {
+            "name": "☆鶏がらスープの素",
+            "quantity": "小さじ２～３"
+        },
+        {
+            "name": "えのき",
+            "quantity": "１/２袋"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にゴマ油をひき青梗菜の芯部分を炒める。☆を加え煮立たせる。",
+        "１にえのき・葉の部分を加え味を見て\n塩こしょうで味を整えたら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1406958",
+    "advice": "青梗菜の芯はお好きな固さになるまで煮込んで下さい。わたしはとろとろが好きなので煮込む派。しゃきっと歯ごたえのある青梗菜がお好きなかたは煮るのは短めで☆",
+    "history": "青梗菜とえのきが安かったのでスープにしてみた。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲンサイ スープ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1406958/100x141c/dc6836974708fcb192e5f7c4fda29e41.jpg?u=1431330&p=1302333301"
+}

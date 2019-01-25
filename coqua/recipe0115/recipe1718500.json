@@ -1,0 +1,63 @@
+{
+    "name": "じゃがいもといんげんのマヨマスタード炒め",
+    "author": {
+        "@type": "Person",
+        "name": "tinkpi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1718500/464x260/65a31cee6648ff051b6d4a37106704fc.jpg?u=3579534&p=1330093296",
+    "datePublished": "2012-02-24",
+    "description": "マヨマスタードの味がくせになる〜マヨ好きにはたまらない〜♪２０１２．５.１５話題入りしました♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "２個"
+        },
+        {
+            "name": "いんげん（冷凍を使用してます）",
+            "quantity": "６本くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２〜３"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "大さじ１〜２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは茹でるかレンジでチンして皮をむいて好きな大きさに切る。\nインゲンは１本を３等分くらいに切る。",
+        "温めたフライパンにオリーブオイルを入れ、じゃがいもを焼く。\n焼き色がついてきたらいんげんも一緒に焼く。",
+        "塩、ブラックペッパーを振り入れ、マヨネーズ、マスタードを入れて炒める。",
+        "絡めば出来上がり♪\n\n簡単なのにおいし〜♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1718500",
+    "advice": "",
+    "history": "あと１品て思った時に思いつきました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "いんげん",
+        "マヨネーズ",
+        "マスタード"
+    ],
+    "tsukurepo_count": "91",
+    "thumbnail": "https://img.cpcdn.com/recipes/1718500/100x141c/0a7c387a3600164f3ec0c638e3c0fcf2.jpg?u=3579534&p=1330093296"
+}

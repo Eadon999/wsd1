@@ -1,0 +1,64 @@
+{
+    "name": "あと１品☆もやしの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "ＨＥＷＡ"
+    },
+    "image": "https://img.cpcdn.com/recipes/646682/464x260/4f1e66195f8f5bfe3d6b3fd6d5406113.jpg?u=977600&p=1221623257",
+    "datePublished": "2008-09-17",
+    "description": "もやしは安い！卵でとじてボリュームアップ！ 冷めても大丈夫。時間もかかりません。Ｈ２１年３月３１日話題入り♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "◎水",
+            "quantity": "３００cc"
+        },
+        {
+            "name": "◎顆粒だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎みりん",
+            "quantity": "４０cc"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◎しょうゆ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしをさっと洗い、水気をきる。",
+        "鍋に◎を入れて沸騰させる。",
+        "もやしを入れ、ふたをして５分ぐらい煮る。たまに混ぜる。",
+        "ふたをはずし、といた卵を入れて軽く混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "646682",
+    "advice": "もやしから水分が出るので、濃い目に作ったほうがいいです。 取り分けた後の残った煮汁で、もやし嫌いの子供用に、何か（ちくわでも鶏肉でも）入れて卵でとじています。顆粒だしの分量訂正しました。１２／１４",
+    "history": "あと１品、時間がないときもさっさと出来るものを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやしの卵とじ"
+    ],
+    "tsukurepo_count": "102",
+    "thumbnail": "https://img.cpcdn.com/recipes/646682/100x141c/af240d1a34b0d5985fa3ec1e30c0d582.jpg?u=977600&p=1221623257"
+}

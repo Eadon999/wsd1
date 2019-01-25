@@ -1,0 +1,59 @@
+{
+    "name": "簡単、長いもソテー。",
+    "author": {
+        "@type": "Person",
+        "name": "梅乃花おり"
+    },
+    "image": "https://img.cpcdn.com/recipes/3789227/464x260/ed91d9fcfa6179538ec839366dc15919.jpg?u=11955070&p=1459855902",
+    "datePublished": "2016-04-05",
+    "description": "焼くだけ。サクサク、和洋折衷、あと引く食感。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "長さ20cm程"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々（ヒトつまみ程）"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ドライパセリ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ3分の1"
+        },
+        {
+            "name": "飾り用パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋を1㎝強の厚さに切り、オリーブオイルと塩コショウとドライパセリで煽り、昆布茶を降りかけて焼き色を付けて完成。",
+        "2016.8カテゴリ掲載。",
+        "2017.2話題入り感謝。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3789227",
+    "advice": "中火強で火加減せずに一気に2分位煽り炒めてから30秒ずつ両面焼きするとサクサクの食感が生きる。昆布茶は他のダシで代用可。お弁当にも箸休めに是非。",
+    "history": "夫が長いもの塩コショウの串焼きが大好きだけど、炒めた方が楽なので色々バージョンを変えながら作り始め完成品。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋ソテー"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/3789227/100x141c/c140b8d4d4353ea27cdfd1b8726a4bd5.jpg?u=11955070&p=1459855902"
+}

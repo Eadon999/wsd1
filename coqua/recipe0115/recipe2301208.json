@@ -1,0 +1,66 @@
+{
+    "name": "鶏じゃがバター",
+    "author": {
+        "@type": "Person",
+        "name": "＊さらさ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2301208/464x260/43c3a503e94123dfd679ddf31b2010fe.jpg?u=1128413&p=1375253032",
+    "datePublished": "2013-07-31",
+    "description": "2014.1.25話題入り感謝♪ レンジで時短♪ 手早くできて、ご飯が進むおかずです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "2個250g"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○バター",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を食べやすい大きさに切り、片栗粉をまぶしておく。\nじゃがいもは一口大に切って水にさらした後、水分を切っておく。",
+        "耐熱容器にじゃがいもを入れ、ラップをかけてレンジ600wで4～6分、柔らかくなるまで加熱する。\n",
+        "フライパンにサラダ油少々を熱し、鶏肉を炒める。肉にしっかり火が通ったら、じゃがいもを加える。",
+        "3に○を加え、照りが出るまで煮絡める。\n仕上げに黒胡椒をふる。",
+        "2014.1.25話題入りさせていただきました。ありがとうございます！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2301208",
+    "advice": "簡単です♪",
+    "history": "時間がない時のお助けレシピです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏じゃが バター"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/2301208/100x141c/0bcee897b1ab0dd34c16c7e23f347f09.jpg?u=1128413&p=1375253032"
+}

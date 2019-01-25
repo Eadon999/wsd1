@@ -1,0 +1,65 @@
+{
+    "name": "シンプル！簡単！ヘルシー！豆腐ハンバーグ",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/263731/464x260/f25338054deb5b311ceeafb8bea3d088.jpg?u=212914&p=1214213240",
+    "datePublished": "2006-06-29",
+    "description": "豆腐ならではのふわっ♪とした柔らかい食感がいいですね（*^_^*）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "鶏ひき肉",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "柚子こしょう",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ねぎ　みじん切り",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうがの絞り汁",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに豆腐を入れて細かくつぶし、ひき肉を加えて混ぜ合わせる。\r\n全ての材料（調味料）も加え、よく練り混ぜ６等分にして形をととのえる。",
+        "フライパンに油を熱し、①をいれ両面こんがり色づくまで焼く。　酒大さじ1をふりいれ、蓋をし弱火で蒸し焼きにする。（３分くらい）",
+        "お好みで大根おろし・ポン酢などで召し上がれ～",
+        "レシピID：285091のさわやかバージョンも♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "263731",
+    "advice": "ポン酢以外で、照り焼きタレ（レシピID:245150）や黒酢タレ（レシピID：253330）なども♪豆腐は少し水を切っておく。",
+    "history": "シンプル＆ヘルシーに（*^_^*）",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/豆腐ハンバーグ",
+        "その他/おもてなし料理/お客様いろいろ！/低カロリーなおもてなし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐ハンバーグ ゆず"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/263731/100x141c/f150d8bfb16998dcd64e9844d8fc9878.jpg?u=212914&p=1214213240"
+}

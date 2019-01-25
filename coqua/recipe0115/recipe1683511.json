@@ -1,0 +1,52 @@
+{
+    "name": "いつかあなたと シラスおろし豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1683511/464x260/7eda6f7f70bbc35d7890d8dac2955fb5.jpg?u=2920899&p=1327327179",
+    "datePublished": "2012-01-23",
+    "description": "晩酌に如何？居酒屋定番メニューな『シラスおろし』を豆腐に乗っけて、お酒が進みます♡2012/08/21話題入り感謝！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "1/4丁"
+        },
+        {
+            "name": "大根",
+            "quantity": "30ｇ"
+        },
+        {
+            "name": "シラス",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を1/4にカットして、水気を切る。",
+        "大根をすり下ろして、大根おろしを作る。",
+        "豆腐の上に、大根おろしとシラスを乗っけて、ポン酢をかけて出来上がり♡",
+        "こはくにゃんこさんが『だいこんおろしのゆっきー』でキャラ豆腐（？）を作って下さいました♡"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1683511",
+    "advice": "豆腐の水気を良く切ること！",
+    "history": "家呑みで、シラスおろしが食べたかったから。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴",
+        "その他/おつまみ/日本酒に合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐",
+        "大根",
+        "シラス",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/1683511/100x141c/dbec3ad3965ea82ce8a095553d5a04a7.jpg?u=2920899&p=1327327179"
+}

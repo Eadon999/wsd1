@@ -1,0 +1,75 @@
+{
+    "name": "牛ごぼう",
+    "author": {
+        "@type": "Person",
+        "name": "とらこぱんつ"
+    },
+    "image": "https://img.cpcdn.com/recipes/433797/464x260/a916df4c9376fe3f03e5d3b6cb66ce09.jpg?u=263592&p=1214420077",
+    "datePublished": "2007-09-23",
+    "description": "こっくり味だからお弁当にもピッタリなお馴染みのおかず。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "国産牛肩切落とし",
+            "quantity": "１８０ｇ"
+        },
+        {
+            "name": "牛蒡",
+            "quantity": "１６０ｇ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１片"
+        },
+        {
+            "name": "◇料理酒",
+            "quantity": "大匙１強"
+        },
+        {
+            "name": "◇本みりん",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "◇三温糖",
+            "quantity": "大匙１強"
+        },
+        {
+            "name": "◇醤油",
+            "quantity": "大匙１と1/2"
+        },
+        {
+            "name": "◇塩",
+            "quantity": "ほんの少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "木の芽",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "牛蒡は、タワシでこすり洗いするか包丁の背で軽く皮をこそげる。乱切りにして水に放ち、すぐに水気を切る。",
+        "フライパンに油を熱し牛肉を炒め、色が変わったら生姜(千切り)を加え弱火にし◇を記載順に加える。調味料が肉に馴染んだら、牛蒡を加えざっと混ぜる。ひたひたの水を注ぎ蓋をし、弱めの中火で煮る。",
+        "器に盛り、手で軽く叩いた木の芽を添える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "433797",
+    "advice": "■醤油の量を少し減らしオイスターソースを入れても可。",
+    "history": "■母がお弁当によく作ってくれたおかずです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉",
+        "その他/お弁当/お花見弁当"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛蒡",
+        "生姜",
+        "料理酒",
+        "本みりん"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/433797/100x141c/b260d22c5b9152c8bcda4ee7b2f39135.jpg?u=263592&p=1214420077"
+}

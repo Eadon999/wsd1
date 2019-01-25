@@ -1,0 +1,46 @@
+{
+    "name": "枝豆とカリカリ梅干のまぜご飯",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1505438/464x260/0b1d46d54e2341a92cad1f36b4954ad9.jpg?u=2513693&p=1311512966",
+    "datePublished": "2011-07-25",
+    "description": "茹でた枝豆とカリカリ梅干を刻んだものをご飯に混ぜて塩で味付けしただけ。色がとってもきれいなのでおにぎりにも最適です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "２膳"
+        },
+        {
+            "name": "枝豆（塩茹でしたもの）",
+            "quantity": "適量（私は４０粒程度使ってます）"
+        },
+        {
+            "name": "カリカリ梅干",
+            "quantity": "４～５個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "塩茹でした枝豆は鞘から出しておきます。カリカリ梅干は種を取って刻んでおきます",
+        "温かいご飯に①と塩をいれ混ぜて完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1505438",
+    "advice": "",
+    "history": "枝豆は歯ごたえがいいので混ぜごはんなどにもよく入れるのですが、さらに歯ごたえのいいカリカリ梅干を入れました。クエン酸で夏ばて防止です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まぜご飯 えだまめ"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1505438/100x141c/e1b44246405f7ec3860cd0bd4cd6cb5e.jpg?u=2513693&p=1311512966"
+}

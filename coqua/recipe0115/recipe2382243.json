@@ -1,0 +1,79 @@
+{
+    "name": "みそソースたっぷりのとんかつ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2382243/464x260/67e571b5fb5b95b6e36422fe4b58bc0a.jpg?u=4819316&p=1382363578",
+    "datePublished": "2013-10-21",
+    "description": "みそかつです、みそソースたっぷりで味わって下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ステーキ肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "１／２個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "●赤みそ",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "豚ステーキ肉に塩こしょうを振り、小麦粉をまぶして溶き卵を付け、パン粉をまぶす",
+        "１を油で揚げて、食べやすい大きさに切る",
+        "●をフライパンでひと煮立ちさせてみそソースを作る",
+        "お皿に２を盛り、３のソースをかけて、お好みの野菜を添える"
+    ],
+    "cookTime": null,
+    "recipe_id": "2382243",
+    "advice": "野菜もみそソースを付けて食べると美味しいですよ",
+    "history": "名古屋に行ったときに、老舗のみそかつのお店でたっぷりみそソースのかかったみそかつを食べました。それを再現してみたくて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚かたまり肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌カツ ソース",
+        "とんかつ みそソース",
+        "ステーキ肉 カツ",
+        "味噌トンカツ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2382243/100x141c/38cefd0af82eebadd1a1d15d5a53f5ea.jpg?u=4819316&p=1382363578"
+}

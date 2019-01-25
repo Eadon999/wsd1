@@ -1,0 +1,59 @@
+{
+    "name": "＊甘ぁいたまご焼き＊",
+    "author": {
+        "@type": "Person",
+        "name": "＊ゆったん＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/1102382/464x260/2325c02d1f8f2b1b9bead9ba16dcd31d.jpg?u=1652452&p=1281395543",
+    "datePublished": "2010-04-18",
+    "description": "甘くてしっとり。わが家の定番の味☺ 2010/09/07 話題入りに感謝です♡",
+    "recipeYield": "１〜２人分",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "Ｌ玉２こ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たまごとサラダ油以外の調味料を合わせよく混ぜる。",
+        "フライパンを熱しサラダ油を入れる。余分な油はキッチンペーパーで拭き取る。",
+        "弱火にし卵液を２〜３回に分けて流し入れくるくる巻きながら焼く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1102382",
+    "advice": "水を加えるｺﾄによりしっとりとした仕上がりに☺ M玉のたまごで作る場合は調味料を少し減らして下さいね☺",
+    "history": "お弁当用によく作ってたたまご焼きです☺",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き",
+        "その他/お弁当/色別おかず/黄色系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまご",
+        "砂糖",
+        "みりん",
+        "水"
+    ],
+    "tsukurepo_count": "143",
+    "thumbnail": "https://img.cpcdn.com/recipes/1102382/100x141c/c07d35815b8d14486b95bb9ef4717d32.jpg?u=1652452&p=1281395543"
+}

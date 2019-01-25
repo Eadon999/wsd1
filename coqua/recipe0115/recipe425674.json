@@ -1,0 +1,50 @@
+{
+    "name": "オクラのオイマヨ炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "miino"
+    },
+    "image": "https://img.cpcdn.com/recipes/425674/464x260/fd41204d4555defe8f00ec1bb46821f9.jpg?u=413625&p=1214217137",
+    "datePublished": "2007-09-04",
+    "description": "９/15和題入りさせて頂きました。ご飯のおかずは、もちろん、お弁当のおかずにも、最適です（♡＾▽＾♡）",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おくら",
+            "quantity": "1袋"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "無くてもよい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ0.5強"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは、分量外の塩で、板ずりをし、水で流し、包丁で2本すじを入れ、水分をふき取っておく。",
+        "フライパンに、オクラを入れ火をつけマヨネーズを入れ軽く炒める（油の代わりに、マヨネーズを使用する）",
+        "マヨネーズが馴染んだらベーコンを入れ、オクラが、お好みの堅さになるまで炒める。最後に、オイスターソースを入れ軽く炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "425674",
+    "advice": "ベーコンを入れるときは塩分があるので、味付けを調節して下さい。",
+    "history": "家にあるもので、簡単な、おくらの炒め物を作りたかったので･･･",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おくら",
+        "ベーコン",
+        "マヨネーズ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/425674/100x141c/5c6a1e277e30d3e02a24ff622f19f3b3.jpg?u=413625&p=1214217137"
+}

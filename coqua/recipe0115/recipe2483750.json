@@ -1,0 +1,56 @@
+{
+    "name": "超簡単！手羽先の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "銀の助Ｊｒ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2483750/464x260/06fcf877b310cc7d08dfbe3d30be1409.jpg?u=1607700&p=1391159528",
+    "datePublished": "2014-01-31",
+    "description": "サクっと作れてご飯のお供にもおつまにも！煮汁だけでもご飯がガッツリ食べられます。(笑)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽先",
+            "quantity": "6本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "100cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "100cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "100cc"
+        },
+        {
+            "name": "砂糖(今回はきび砂糖)",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "3かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に調味料とニンニクを入れ、煮立ったら洗った手羽先を入れフタをして中火にし１５分くらい煮たら手羽先をひっくり返す",
+        "更に１０～１５分煮て火を落とし、１０分くらいおいて味をしみこませれば出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2483750",
+    "advice": "簡単すぎて何もなし！(笑)",
+    "history": "ガツンと濃い目でパンチのある煮物か食べたくて作りました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽先 煮物",
+        "とり手羽先 煮物",
+        "手羽先"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2483750/100x141c/59720032ff8481c696994fe16b96e705.jpg?u=1607700&p=1391159528"
+}

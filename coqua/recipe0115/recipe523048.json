@@ -1,0 +1,52 @@
+{
+    "name": "あさりの酒蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "ありす2000"
+    },
+    "image": "https://img.cpcdn.com/recipes/523048/464x260/af14c52c1d86815dbd29a2f05c01a6e3.jpg?u=383726&p=1214219005",
+    "datePublished": "2008-03-05",
+    "description": "簡単アサリの酒蒸し。た～ぷりの日本酒で貝がプリプリ。シンプルな素材の味が最高です。",
+    "recipeYield": "２～3人",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "１パック"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少し"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "アサリはしっかり汚れを落とし、すな抜きし、ザルにあげておく。",
+        "フライパンにアサリ＋酒をいれ、蓋おし、強火で一気に日を入れ、少しの醤油コショウで味を付けて出来上がり。",
+        "仕上げに、青ネギを散らすと、見た目もGOODです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "523048",
+    "advice": "強火で一気に蓋をして蒸す。とってもふっくらした美味しいアサリに仕上がります。",
+    "history": "アルコールは蒸発するので子供も安心して食べられるます。素材の味が引き立って・・・美味しい１皿です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり酒むし",
+        "あさりの酒蒸し 日本酒"
+    ],
+    "tsukurepo_count": "332",
+    "thumbnail": "https://img.cpcdn.com/recipes/523048/100x141c/347da1b122df73c5945a0641861f6472.jpg?u=383726&p=1214219005"
+}

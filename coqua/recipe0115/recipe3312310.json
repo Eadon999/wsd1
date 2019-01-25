@@ -1,0 +1,57 @@
+{
+    "name": "超簡単☆なすとキムチで居酒屋レシピ♪",
+    "author": {
+        "@type": "Person",
+        "name": "IMOAN９１０☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3312310/464x260/d634c24ee6966f11fff7b7ad2b2269cc.jpg?u=12827467&p=1437633493",
+    "datePublished": "2015-07-23",
+    "description": "夏にぴったり！なすとキムチがよく合います♪おもてなし料理としてもお勧めです(*^^)v",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "１本"
+        },
+        {
+            "name": "キムチ（市販）",
+            "quantity": "５０g"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "あさつき又はネギ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "なすを５ミリ巾に切り、２~３分水にさらしてあくをとる。",
+        "フライパンにごま油大２をひき、なすを並べ、塩少々振る。中火で両面焼き色がつくまで焼く。",
+        "キムチを細かく刻み、ごま油大1/2としょうゆ小1であえる。",
+        "なすを皿に並べ、スプーンでキムチをのせる。残りのごま油大1/2をキムチに回しかけ、刻んだあさつきをかざって出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3312310",
+    "advice": "なすは、多めの油でしんなりするまで焼きます。",
+    "history": "義理の母に教わりました。量を増やして、ホームパーティーにもお勧めです♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "居酒屋レシピ",
+        "居酒屋 おもてなし"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3312310/100x141c/f1269c1e909525ec57702a2f90829694.jpg?u=12827467&p=1437633493"
+}

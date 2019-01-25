@@ -1,0 +1,57 @@
+{
+    "name": "あと一品に♪昆布茶だいこん",
+    "author": {
+        "@type": "Person",
+        "name": "Hoink"
+    },
+    "image": "https://img.cpcdn.com/recipes/1680016/464x260/7d7f8a82f60b2b25d72b407d26024735.jpg?u=1824841&p=1445418023",
+    "datePublished": "2012-01-20",
+    "description": "昆布茶とごま油で手軽な浅漬け風大根です。炒りゴマやこしょうでアクセントをつけてもおいしいです。　",
+    "recipeYield": "中鉢１つ分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "10～15cm"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ１/２～"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "ほんのひとたらし"
+        },
+        {
+            "name": "炒りごま（お好みで）",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒こしょう（お好みで）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて\n３mm厚くらいの拍子切りにする。塩をふり水が出てくるまでしばらく置く。\n",
+        "水を少々入れて塩気を流し、大根をぎゅーっと絞る。昆布茶をふりかけごま油をひとたらしして手でよく和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1680016",
+    "advice": "昆布茶の量は、大根に残っている塩気をみながらお好みで調えてください。ごま油はほんのり香るくらいが美味しいです。",
+    "history": "みずみずしい大根の浅漬け風が大好きです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "塩",
+        "昆布茶",
+        "ごま油"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1680016/100x141c/5ee567ecd5aa35c0a8699fedecc6cf37.jpg?u=1824841&p=1445418023"
+}

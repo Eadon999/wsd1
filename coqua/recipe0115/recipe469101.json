@@ -1,0 +1,50 @@
+{
+    "name": "大葉香る塩鮭の混ぜごはん",
+    "author": {
+        "@type": "Person",
+        "name": "Fire-King"
+    },
+    "image": "https://img.cpcdn.com/recipes/469101/464x260/c3e903b197c0bf22dc4eeef8bc1c0dc6.jpg?u=394490&p=1214217970",
+    "datePublished": "2007-12-30",
+    "description": "塩鮭で簡単な混ぜご飯の出来あがり～！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "炊いたご飯",
+            "quantity": "２膳"
+        },
+        {
+            "name": "塩鮭（中辛）",
+            "quantity": "１切れ"
+        },
+        {
+            "name": "大葉",
+            "quantity": "５枚"
+        },
+        {
+            "name": "炒りゴマ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "塩鮭をロースターで焼く。\r\n焼きあがったらほぐします。",
+        "大葉を千切りにします。",
+        "暖かいごはんと①の鮭、②の大葉、炒りごまを混ぜて出来上がり～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "469101",
+    "advice": "塩鮭は少し辛めで中辛くらいが美味しいです。",
+    "history": "うちのゴリ男くんがよく作ってくれる混ぜご飯です。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "炊いたご飯",
+        "塩鮭",
+        "大葉",
+        "炒りゴマ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/469101/100x141c/d5049bed2729152604b9a8ce4b822211.jpg?u=394490&p=1214217970"
+}

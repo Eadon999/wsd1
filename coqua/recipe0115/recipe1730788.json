@@ -1,0 +1,69 @@
+{
+    "name": "やみつき★塩ダレキャベツ",
+    "author": {
+        "@type": "Person",
+        "name": "華音ハリ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1730788/464x260/4971824b492c04e223edd15b1d6f31e8.jpg?u=3987339&p=1331031823",
+    "datePublished": "2012-03-06",
+    "description": "居酒屋で食べた塩ダレキャベツがおいしすぎたので作ってみた。キャベツはちぎって包丁いらず！！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "入りゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは適当な大きさにちぎって起きます。",
+        "塩ダレの材料をボウルで混ぜ合わせます。",
+        "キャベツと塩ダレをポリ袋に入れて、少し揉む。",
+        "器に明けてゴマを少々振ったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1730788",
+    "advice": "かけるだけでも美味しいけど、もみこんで浅漬け風にすると、しんなりして量が取れます。",
+    "history": "居酒屋他で大人気の塩ダレキャベツ。市販品もいいけれど、自分で作ってみた。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩だれキャベツ 居酒屋",
+        "塩だれキャベツ"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1730788/100x141c/c385c783f19acb63762448682a94065d.jpg?u=3987339&p=1331031823"
+}

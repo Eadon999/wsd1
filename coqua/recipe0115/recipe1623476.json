@@ -1,0 +1,75 @@
+{
+    "name": "ふっくら★我が家の炒り豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "ニコニコプーさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1623476/464x260/d74e73b4d3be8a1510d4fefe138403e1.jpg?u=1429885&p=1337681560",
+    "datePublished": "2011-11-09",
+    "description": "ふわふわの炒り豆腐は、野菜もたっぷりでご飯のおかずにピッタリの一品です！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "１／３本"
+        },
+        {
+            "name": "いんげん",
+            "quantity": "１０本"
+        },
+        {
+            "name": "シイタケ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "玉子",
+            "quantity": "２個"
+        },
+        {
+            "name": "和風だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏ひき肉を少しの油で炒める。",
+        "にんじんは細切り、インゲンは１cm幅、シイタケはみじん切りにして炒める。",
+        "豆腐は手で握りつぶしながら加え、炒める。",
+        "すべての調味料を加えて、水分が少なくなるまで５分間煮詰めて、といた玉子を流しいれ、かき混ぜたら出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1623476",
+    "advice": "豆腐は水切りしてからでもいいですが、手間なのでそのまま加えて、煮詰めても大丈夫です。最後に入れた玉子がふっくらとしてまとまりやすくなるので、ふわふわの出来上がりになります。",
+    "history": "ご飯にピッタリの炒り豆腐を作りました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ひき肉",
+        "豆腐",
+        "にんじん",
+        "シイタケ"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1623476/100x141c/b09633e57bade681581a8334307aad3b.jpg?u=1429885&p=1337681560"
+}

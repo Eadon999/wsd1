@@ -1,0 +1,77 @@
+{
+    "name": "きゅうりと玉ねぎのさっぱり酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "けんこうなかつがわ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3957757/464x260/4f7873545a7ac12f54264a5cfb2fa380.jpg?u=2054892&p=1467612550",
+    "datePublished": "2016-07-04",
+    "description": "ビタミンたっぷり夏バテ予防におすすめ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "60ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "生わかめ",
+            "quantity": "40ｇ"
+        },
+        {
+            "name": "カニ風味かまぼこ",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "薄切り2枚"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "白ごま（いり）",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは、たて半分に切り、斜め薄切りにする。塩をふってしんなりさせ、軽く水洗いしてしぼる。",
+        "玉ねぎは極薄切りにして水にさらし、キッチンペーパーで水けをとる。",
+        "鍋に湯を沸かし、わかめをサッとゆでて水けをきり、食べやすい長さに切る。",
+        "カニ風味かまぼこは食べやすく裂いておく。",
+        "しょうがは細いせん切りにする。",
+        "ボウルにＡの調味料を合わせ、1～5の材料を和え、白ごまをふる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3957757",
+    "advice": "",
+    "history": "夏の美味しいきゅうりで、さっぱりと、ビタミンもしっかりとれるメニューを考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "塩",
+        "玉ねぎ",
+        "生わかめ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3957757/100x141c/5cf35882edf6d63b2daba1eb4e258af7.jpg?u=2054892&p=1467612550"
+}

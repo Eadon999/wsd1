@@ -1,0 +1,45 @@
+{
+    "name": "豚と長いもシャキシャキ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ぴりこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/343178/464x260/471da7889feba0074dd3d8b805814105.jpg?u=291592&p=1214215008",
+    "datePublished": "2007-03-12",
+    "description": "材料３つ！！でもとっても美味しいのでお勧めです☆",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "１本"
+        },
+        {
+            "name": "豚肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "クレイジーソルト（ハーブソルト）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは１ｃｍ弱の輪切りにする。豚肉は一口大に切る。",
+        "フライパンに油をひいて長いもを炒め、いい焼き色がついたら取り出しておく。",
+        "フライパンにもう１度油をひき、豚肉を炒める。色が変わったら【２】の長いもを戻してさっと混ぜ、クレイジーソルトを全体にふって出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "343178",
+    "advice": "味付けはクレイジーソルトだけなので、多いかな！？ぐらいが美味しいです☆",
+    "history": "長いもを炒めた食感が大好きなので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "豚肉",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/343178/100x141c/bd3c3948afd2f6e21649a7911adb69fb.jpg?u=291592&p=1214215008"
+}

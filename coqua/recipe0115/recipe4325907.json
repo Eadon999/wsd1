@@ -1,0 +1,51 @@
+{
+    "name": "簡単！春菊とお揚げのお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4325907/464x260/93dcd60245945e27b161981fe3643878.jpg?u=4376699&p=1485951943",
+    "datePublished": "2017-02-04",
+    "description": "お揚げたっぷり",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "春菊",
+            "quantity": "1本"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げを細く切ってお湯を掛けて油抜き",
+        "春菊を小口切り",
+        "材料を全部合わせてしっかり煮て完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4325907",
+    "advice": "油揚げで味が薄くなるのでちょっと濃いめに",
+    "history": "余った油揚げとすき焼きで余った春菊で味噌汁に挑戦",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊 味噌汁"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4325907/100x141c/87d20522f88528d26522d4e25ddc675f.jpg?u=4376699&p=1485951943"
+}

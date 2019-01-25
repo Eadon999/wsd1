@@ -1,0 +1,62 @@
+{
+    "name": "簡単！手作りスープの塩ラーメン♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2326056/464x260/571b9265f165a692b78381193de2510e.jpg?u=603745&p=1447766516",
+    "datePublished": "2013-08-27",
+    "description": "お湯に調味料を入れるだけの簡単1品！すぐ出来るし美味しい♡ランチにもぴったりですよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "200g"
+        },
+        {
+            "name": "水",
+            "quantity": "900cc"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆鰹だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆にんにく(チューブ)",
+            "quantity": "ほんの少し"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水900ccを入れてお湯を沸かします。",
+        "沸騰したら☆の調味料を全部入れてスープは出来あがりです。",
+        "中華麺をパッケージに従って茹でます。",
+        "茹であがった麺とスープを器に盛り、お好みの具を乗せて出来あがりです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2326056",
+    "advice": "",
+    "history": "安かった中華麺を使っておうちで簡単にラーメンを作ってみました!!",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": [
+        "ラーメンスープ 4位",
+        "塩ラーメン 1位"
+    ],
+    "related_keywords": [
+        "ラーメンスープ 手作り",
+        "塩ラーメン",
+        "ラーメンスープ",
+        "ラーメンスープ 手作り 簡単"
+    ],
+    "tsukurepo_count": "460",
+    "thumbnail": "https://img.cpcdn.com/recipes/2326056/100x141c/142676dfba80afb739fea8eeda461cb7.jpg?u=603745&p=1447766516"
+}

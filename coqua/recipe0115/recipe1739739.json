@@ -1,0 +1,61 @@
+{
+    "name": "簡単美味しい☆油揚げと白菜のうま煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "jjcream"
+    },
+    "image": "https://img.cpcdn.com/recipes/1739739/464x260/2a65f632096a22d724ddd0dada5b5cd8.jpg?u=1156502&p=1331704984",
+    "datePublished": "2012-03-14",
+    "description": "簡単ですが、とっても美味しいです。ごはんに乗せてもおいしいですし、お弁当の脇役にもお勧めです。経済的なおかずです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "白菜",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "2本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げはペーパーではさみ、余分な油を吸い取り、１㎝幅に切ります。\n白菜は食べやすい大きさに、ちくわは斜め薄切りにします。",
+        "調味料は合わせておきます。\nフライパンで油揚げを炒め、表面がカリカリになったら、いったん取り出しておきます。\n",
+        "白菜とちくわを炒め、白菜がしんなりしたら、合わせ調味料を加えます。\nひと混ぜし、油揚げを戻し入れ、味をなじませます。\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1739739",
+    "advice": "油揚げをカリカリにするのがポイントです。調味料を吸い込んでくれておいしくなります。",
+    "history": "何もなくて、有り合わせで作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 油揚げ うま煮",
+        "お弁当 おかず 簡単 白菜",
+        "白菜 ちくわ うま煮"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1739739/100x141c/58009558d8b28a86a65b23b619e4beb8.jpg?u=1156502&p=1331704984"
+}

@@ -1,0 +1,93 @@
+{
+    "name": "やさしい鶏そぼろあんかけ丼",
+    "author": {
+        "@type": "Person",
+        "name": "mimioon"
+    },
+    "image": "https://img.cpcdn.com/recipes/3390261/464x260/08b78ee7af1bbe3ac63532db2e5d806f.jpg?u=7626795&p=1441620363",
+    "datePublished": "2015-09-07",
+    "description": "ヘルシーで食べやすい、やさしい味つけの丼です☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ひき肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ひじき(乾燥)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "水",
+            "quantity": "150ml"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★鶏がらスープの素(顆粒)",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★穀物酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉、水",
+            "quantity": "各小さじ2"
+        },
+        {
+            "name": "温かいご飯",
+            "quantity": "2～3人分"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきはぬるま湯で戻し、軽く洗って水気を切る。白菜は縦半分にしてから、ざく切りにする。生姜はすりおろす。",
+        "フライパンに水を入れ、温まったら鶏ひき肉、料理酒、生姜を加えて、ひき肉をほぐす。",
+        "ひき肉におおよそ火が通ったらひじきを加え、蓋をして5分ほど煮る。",
+        "続いて白菜を入れたら、★の調味料も加えて混ぜ合わせて再び蓋をする。",
+        "白菜に火が通ったら、味見をして塩で味を調える。香りづけ程度にごま油を少々たらす。",
+        "水溶き片栗粉を回し入れ、とろみがついたら完成です。温かいご飯にのせてどうぞ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3390261",
+    "advice": "水溶き片栗粉の量は様子を見て加減してください。",
+    "history": "あっさりと食べられる丼を作ってみたくて、考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ひき肉",
+        "白菜",
+        "ひじき",
+        "生姜"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3390261/100x141c/141f4fba2f75b527f5cf86ab130e173c.jpg?u=7626795&p=1441620363"
+}

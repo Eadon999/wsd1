@@ -1,0 +1,50 @@
+{
+    "name": "マヨ醤油で塩こんぶおにぎり✰",
+    "author": {
+        "@type": "Person",
+        "name": "ハリハリ戦士"
+    },
+    "image": "https://img.cpcdn.com/recipes/393702/464x260/ec4f1a40adf1cfd2aff17b9dd6828c40.jpg?u=409625&p=1214216493",
+    "datePublished": "2007-06-23",
+    "description": "塩こんぶの旨味がマヨ醤油と絡まって美味しいおにぎりです。７月１３日に話題入りさせて頂きました。作ってくださったみなさま有り難うございました。",
+    "recipeYield": "２個",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "おにぎり２個分"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "３つまみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大１弱"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１弱"
+        }
+    ],
+    "recipeInstructions": [
+        "全てをボウルで混ぜてにぎってください。",
+        "",
+        ""
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "393702",
+    "advice": "マヨネーズに油が入っているので、にぎりやすいし混ぜやすいです。醤油はお好みで加減してください。",
+    "history": "大好きな組み合わせでおにぎりにしたら美味しかったので❖",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "塩こんぶ",
+        "マヨネーズ",
+        "醤油"
+    ],
+    "tsukurepo_count": "203",
+    "thumbnail": "https://img.cpcdn.com/recipes/393702/100x141c/4a58f900e45e45fa7ec600a16aef7be1.jpg?u=409625&p=1214216493"
+}

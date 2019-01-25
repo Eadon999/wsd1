@@ -1,0 +1,67 @@
+{
+    "name": "＊鶏肉と長いもの甘辛炒め＊",
+    "author": {
+        "@type": "Person",
+        "name": "sakurai"
+    },
+    "image": "https://img.cpcdn.com/recipes/834494/464x260/8ebebbafb0a79cf175a4d8ff39af0a21.jpg?u=544271&p=1244645166",
+    "datePublished": "2009-06-10",
+    "description": "長いもの＜モチモチ感＞がうまうま♪です。 甘辛なので、ご飯にぴったりですよ（＾−＾）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "長いも",
+            "quantity": "２０㎝"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "＊鶏肉は角切り\r\n＊長いもは１センチ幅の輪切り\r\n＊ねぎは２センチに切っておく",
+        "ごま油で長いもを焼き焦げ目を付け、お皿にとっておく\r\n",
+        "２のフライパンで鶏肉を中火で焼き、皮をカリッとさせる\r\n \r\nしめじを加え、さらに炒める",
+        "長いもをフライパンに戻し、ねぎを入れさらに炒める \r\n＊で味付けして、水分を飛ばして出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "834494",
+    "advice": "＊長いもは、さっと焼くとサクサクに♪ 　しっかり焼くとモチモチになりますよ♪ ＊鶏肉はしっかり中まで火を通してね。 　油はひかず、蓋をして焼くと中まで火が通りやすいです。 ",
+    "history": "キムチ味のレシピでしたが、子どもが食べやすいように甘辛にしてみました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "長いも",
+        "しめじ",
+        "ねぎ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/834494/100x141c/3d665f4501efe35f3655ffdda92f2a03.jpg?u=544271&p=1244645166"
+}

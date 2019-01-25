@@ -1,0 +1,72 @@
+{
+    "name": "簡単！！塩だれ牛丼",
+    "author": {
+        "@type": "Person",
+        "name": "なお★nao"
+    },
+    "image": "https://img.cpcdn.com/recipes/305538/464x260/c81ea51dd9293a38c8d64dbfbdf7180c.jpg?u=65903&p=1214214183",
+    "datePublished": "2006-11-28",
+    "description": "塩味牛丼だからサッパリ　ガッツリ食べれちゃう♪うんま～い牛丼です(^ｍ^*)　　　　",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "国産和牛　切り落とし",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "大一個"
+        },
+        {
+            "name": "★下味用　みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "※水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "※料理酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "※顆粒鶏ガラスープの素",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "※砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "※天然塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "※すりおろしニンニク",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉に味醂大さじ２をもみ込んでしばらく置いておく。\r\n玉ねぎは、適度な太さにスライスしておく。",
+        "熱したフライパンに大さじ１の胡麻油を入れ牛肉と玉ねぎを焦がさないようにサッと炒める。",
+        "（２）のフライパンに水１５０ｃｃ　料理酒大さじ２　砂糖小さじ１/２を加えしばらく煮込む\r\n玉ねぎに軽く火が通ってきたら顆粒鶏ガラスープの素大さじ１と天然塩小さじ１　すりおろしニンニク小さじ１を加え玉ねぎがしんなりするまで煮込んだら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "305538",
+    "advice": "外国産牛肉を使うとまったく違う味になるので国産牛を使うのがポイントです♪ 私のブログです♪随時更新中です http://plaza.rakuten.co.jp/nao53nao/　　",
+    "history": "お肉が大好きな主人のリクエストでいつもと違うニューバージョンの牛丼を考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "和牛 切り落とし",
+        "塩だれ牛丼"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/305538/100x141c/6508963f67a5f2edd2d1647230fbfc09.jpg?u=65903&p=1214214183"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "簡単！鳥モモのテリテリ煮",
+    "author": {
+        "@type": "Person",
+        "name": "verick"
+    },
+    "image": "https://img.cpcdn.com/recipes/2225174/464x260/ceb1c178965978fe5f86d3827738c529.jpg?u=1483423&p=1368706738",
+    "datePublished": "2013-05-16",
+    "description": "★2015.10.29 つくれぽ10人達成  2013.12.16カテゴリ承認★ 材料3つとは思えないクオリティーです",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "鳥もも肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "2〜3個"
+        },
+        {
+            "name": "焼肉のタレ",
+            "quantity": "200cc〜300cc"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにスライスした玉ねぎ、一口大に切った鳥もも肉、焼肉のタレを入れ火にかける。",
+        "やや強めの火で時々混ぜながら汁気がなくなるまで煮詰めたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2225174",
+    "advice": "焼肉のタレはどんなものでもOKです。今回は頂いた手作りのタレで作りました。分量はお好みで調整してください。",
+    "history": "大好きな叔母に教わりました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鳥もも肉",
+        "玉ねぎ",
+        "焼肉のタレ"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2225174/100x141c/d0eeb1337b9a3de0397e3a2a76696bb4.jpg?u=1483423&p=1368706738"
+}

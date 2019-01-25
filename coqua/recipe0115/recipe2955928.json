@@ -1,0 +1,59 @@
+{
+    "name": "☸簡単♪にんじんの甘酢炒め♪お弁当にも☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2955928/464x260/4601435b59c0a354939abb18c9eb47c9.jpg?u=4672105&p=1420761438",
+    "datePublished": "2015-01-09",
+    "description": "１５．０２．０７．話題入り感謝♪千切りなのでサッと炒めるだけで出来ちゃう♪お弁当にも最適ですよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "１/２本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "白炒りごま",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "大さじ１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんを千切りにする。",
+        "フライパンにごま油を熱し、にんじんを炒める。",
+        "ポン酢と砂糖を加えて炒め、ごまを絡める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2955928",
+    "advice": "特になし。",
+    "history": "にんじんだけで作れるレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "ごま油",
+        "ポン酢",
+        "砂糖"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/2955928/100x141c/77624c29e9b397ecf9f24e558056e6a6.jpg?u=4672105&p=1420761438"
+}

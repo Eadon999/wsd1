@@ -1,0 +1,50 @@
+{
+    "name": "１人分！レンジで！ピーマンの塩こんぶあえ",
+    "author": {
+        "@type": "Person",
+        "name": "白雲堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/2768772/464x260/2519271676cecf143dfd740c16f92390.jpg?u=2969322&p=1433047746",
+    "datePublished": "2014-08-24",
+    "description": "ピーマンのシャキシャキ感とうま味がぎっしりの簡単レンジ料理です。※話題のレシピ♪に感謝します。（２０１５．５．３０）",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン（種除いて正味）",
+            "quantity": "９０g"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "５g"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        },
+        {
+            "name": "いりごま(白or黒)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは細切りにして耐熱容器に入れ、塩こんぶを混ぜてラップをし、電子レンジ（６００Ｗ）で約１分加熱する。",
+        "１を混ぜ合わせて盛り付け、かつお節、いりごまを捻りながらふりかける。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "2768772",
+    "advice": "ピーマンは１０５ｇあったものが、種を除いて９０ｇになりました。",
+    "history": "産直市でピーマンを購入したので、家にあるもので１品作ってみることにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "塩こんぶ",
+        "かつお節",
+        "いりごま"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2768772/100x141c/38d645eb974b977945b3ee6c185e36d4.jpg?u=2969322&p=1433047746"
+}

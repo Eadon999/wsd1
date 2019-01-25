@@ -1,0 +1,56 @@
+{
+    "name": "残りカレーで作る！カレー雑炊♡",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2386973/464x260/becc8b25678d238f313d88216b71551a.jpg?u=603745&p=1447734066",
+    "datePublished": "2013-10-26",
+    "description": "残りカレーと卵で簡単雑炊!!前日の残りカレーも食べやすく♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カレー",
+            "quantity": "お玉2杯くらい"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "2人分"
+        },
+        {
+            "name": "水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "卵はボウルで溶いておきます。",
+        "残りカレーを用意します。",
+        "水150ccとめんつゆを加えて火にかけます。",
+        "しっかりと混ぜ合わせてください。",
+        "ご飯を加えます。",
+        "良く混ぜ合わせます。",
+        "最後に卵でとじます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2386973",
+    "advice": "",
+    "history": "前日の残りカレーを使ってランチに作りました♡",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレー雑炊",
+        "残ったカレー 雑炊"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2386973/100x141c/103ea882d7758f87bd26f1e22042757e.jpg?u=603745&p=1447734066"
+}

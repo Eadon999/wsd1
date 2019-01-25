@@ -1,0 +1,58 @@
+{
+    "name": "もやしとハムのカレー炒め",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4046936/464x260/a62422d6d03e12fe64bcd74326bf40fd.jpg?u=4819316&p=1472647888",
+    "datePublished": "2016-08-31",
+    "description": "16/10/26話題入り有難う、安価でできるもやし炒め、そこに少し手を加えてカレー炒め、お子様喜ぶでしょう",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●ケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●カレー粉",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムは食べ易い大きさに切り、フライパンに分量外のサラダ油を加熱して、もやしとハムを炒め、塩こしょうを振る",
+        "●をかけて混ぜる",
+        "お皿に盛って出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4046936",
+    "advice": "凄く簡単！！特にコツとかありません",
+    "history": "安価なもやし、ちょっと工夫したもやし炒めにしてみたいと思って、カレー粉を混ぜてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ハム",
+        "オイスターソース",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/4046936/100x141c/207d1e0bafa7c10bdaa4a87aac0dbc21.jpg?u=4819316&p=1472647888"
+}

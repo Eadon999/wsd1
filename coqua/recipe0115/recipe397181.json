@@ -1,0 +1,65 @@
+{
+    "name": "えのきの大根おろし和え",
+    "author": {
+        "@type": "Person",
+        "name": "iano"
+    },
+    "image": "https://img.cpcdn.com/recipes/397181/464x260/d54076a03143088fd1f64c19003e95ac.jpg?u=322985&p=1214216564",
+    "datePublished": "2007-06-30",
+    "description": "レンジで酒蒸しにしたエノキを、さっぱりレモン風味の大根おろしで和えました☆夏にぴったりの副菜です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "エノキダケ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１強"
+        },
+        {
+            "name": "大根",
+            "quantity": "４センチ"
+        },
+        {
+            "name": "＊ポッカレモン１００",
+            "quantity": "大1"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "＊しょうゆ",
+            "quantity": "小２"
+        },
+        {
+            "name": "細ネギ（小口切り）",
+            "quantity": "１本分"
+        }
+    ],
+    "recipeInstructions": [
+        "エノキダケは根元を切り落として２等分にしてほぐす。耐熱容器に入れて酒を振ったらラップを軽くかけてレンジ６００Ｗで２分温める。\r\n大根はおろしておく。\r\nボウルに＊調味料を入れてよく混ぜて、大根おろしとエノキを和えて皿に盛り、ネギを散らす。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "397181",
+    "advice": "エノキは、袋ごと根元を切り落とすと、まな板が汚れにくくていいです。",
+    "history": "ポッカレモン１００を使って、簡単な副菜を考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの冷副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのきの大根おろし和え",
+        "大根おろし",
+        "エノキ 大根",
+        "大根おろし 副菜"
+    ],
+    "tsukurepo_count": "236",
+    "thumbnail": "https://img.cpcdn.com/recipes/397181/100x141c/582e56fde0cca527fbc3b99f99fce657.jpg?u=322985&p=1214216564"
+}

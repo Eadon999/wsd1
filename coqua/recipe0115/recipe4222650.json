@@ -1,0 +1,49 @@
+{
+    "name": "簡単！わかめと卵のお味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4222650/464x260/661ba00350d9366825a162aa89ef8813.jpg?u=4376699&p=1481029210",
+    "datePublished": "2016-12-16",
+    "description": "わかめに卵がよく合います",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "少々"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "400cc"
+        }
+    ],
+    "recipeInstructions": [
+        "水に乾燥わかめほんだしを入れて火にかける\n沸騰したら溶き卵を少しずつ加えて箸で混ぜる\n味噌を溶かして完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4222650",
+    "advice": "味噌を入れたら沸騰させずにひとにたて！生わかめでもOK",
+    "history": "わかめの味噌汁が食べたくなって卵も入れてみました",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お味噌汁 卵 わかめ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/4222650/100x141c/56eaa7c6ac6645dddca5b8e1bacc163d.jpg?u=4376699&p=1481029210"
+}

@@ -1,0 +1,54 @@
+{
+    "name": "焼きアスパラの塩ナムル　花椒風味",
+    "author": {
+        "@type": "Person",
+        "name": "mai-mai"
+    },
+    "image": "https://img.cpcdn.com/recipes/277352/464x260/1155d4788541a92aa8c87c55e70f727a.jpg?u=249209&p=1214213530",
+    "datePublished": "2006-08-30",
+    "description": "香ばしく焼いた歯触りの良いアスパラに、花椒をピリリと効かせたナムルです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "1束（6本くらい）"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "たっぷりめ"
+        },
+        {
+            "name": "花椒（粉）",
+            "quantity": "3つまみくらい"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "アスパラは、下の方をピーラーで皮を剥き、固い部分を切り落とし、適当な大きさに切る。",
+        "フライパンで転がしながら素焼きし（3分位）ボウル等で調味料を加え、さっと手で混ぜる。最後にごま油を入れ、ひと混ぜする。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "277352",
+    "advice": "調味料を手で混ぜて、最後にごま油を。その方が味がしっかりなじむと思います。",
+    "history": "アスパラが安くて、いつもと違う味にしたかったので、ナムルにしました。で、刺激が欲しかったので花椒入れてみました。ピリリとしておつまみにいい感じ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ",
+        "塩",
+        "すりごま",
+        "花椒"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/277352/100x141c/167f181f97d13cb38e06bb558f0e7965.jpg?u=249209&p=1214213530"
+}

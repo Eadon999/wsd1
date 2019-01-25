@@ -1,0 +1,54 @@
+{
+    "name": "我が家のかぼちゃの煮つけ",
+    "author": {
+        "@type": "Person",
+        "name": "chieko333"
+    },
+    "image": "https://img.cpcdn.com/recipes/425562/464x260/fa1a2646478061fb1b36d523d641afc5.jpg?u=277337&p=1214217135",
+    "datePublished": "2007-09-04",
+    "description": "しっとりほっくり甘辛に煮つけました♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "★ざらめ（なければ普通の砂糖でも可）",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "★味醂",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "200CC"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃは洗って種と綿を撮り、一口大に切り揃えておく。",
+        "鍋に水と★の材料をを入れてかぼちゃを入れて、串がスッと通るくらいまで煮たら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "425562",
+    "advice": "ざらめを使うと、コクがでてこっくりした味になります。なければ普通の砂糖でも可。出来上がりの味は、そのかぼちゃの甘さによっても多少違ってきます。",
+    "history": "昔よく通っていたお惣菜屋さんのかぼちゃの煮つけが美味しくて、研究に研究を重ね、やっと近い味に仕上がりました。おかずとして、ちょっと濃いめの味付けに仕上げてあります。残ったら、次の日「かぼちゃとレーズンのサラダ」に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ 煮物 ざらめ"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/425562/100x141c/7c122e9a7c12a9ec1edc8a4930bb33aa.jpg?u=277337&p=1214217135"
+}

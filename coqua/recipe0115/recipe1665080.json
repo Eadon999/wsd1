@@ -1,0 +1,49 @@
+{
+    "name": "絹さやのおかかマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1665080/464x260/b2a3d47e95502f9347cd3eae66151c32.jpg?u=2619264&p=1325690297",
+    "datePublished": "2012-01-07",
+    "description": "絹さやだけでもう1品♪3分で出来ちゃう！しゃきしゃきの食感が最高❤",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹さや",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小１/2~1"
+        },
+        {
+            "name": "●鰹節",
+            "quantity": "小分け1袋~"
+        }
+    ],
+    "recipeInstructions": [
+        "塩少々入れた熱湯ですじを取った絹さやを10秒茹でてザルにあけ冷まし、1個を斜めに2等分",
+        "●を混ぜ(飾り用の鰹節少々とっておく)味の素をひと振りして①を和える。とっておいた鰹節をかけておしまい☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1665080",
+    "advice": "鰹節は多めがおいしい♪絹さやのゆで過ぎには注意!",
+    "history": "余った絹さやだけでもう1品♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/さやえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹さや",
+        "マヨネーズ",
+        "醤油",
+        "鰹節"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1665080/100x141c/4ecb186b57da3088ef53e37c3cddfe1f.jpg?u=2619264&p=1325690297"
+}

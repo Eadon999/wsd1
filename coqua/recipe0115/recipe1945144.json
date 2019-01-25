@@ -1,0 +1,62 @@
+{
+    "name": "簡単！ヘルシー！豆腐のきのこあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "chiaki2012"
+    },
+    "image": "https://img.cpcdn.com/recipes/1945144/464x260/88763699cc7ded0de3bf3548c5c1aa25.jpg?u=4249706&p=1346929016",
+    "datePublished": "2012-09-06",
+    "description": "体に優しく、油を使わずヘルシーに♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "半袋"
+        },
+        {
+            "name": "えのきだけ",
+            "quantity": "半袋"
+        },
+        {
+            "name": "めんつゆ（市販のつゆの素を薄めたもの）",
+            "quantity": "200cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "日本酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐はカットして、レンジで軽く温めて（または沸騰したお湯に塩を少々入れて軽く茹でて）余計な水分を落としたら器に盛ります。",
+        "鍋にあんの材料を入れ、混ぜながらひと煮立ちさせ、水溶き片栗粉でとろみをつけます。",
+        "豆腐の上にあんをかけて出来上がり♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1945144",
+    "advice": "時間がたつと豆腐から水分が出るので、食べる直前に盛りつけます。",
+    "history": "油を使わずおいしいものを作りたくて・・・薄切りにした玉ねぎや人参などの野菜を入れても美味しいです♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "しめじ",
+        "えのきだけ",
+        "めんつゆ"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1945144/100x141c/0cb803b92e4cffa9bee5c5da8a883433.jpg?u=4249706&p=1346929016"
+}

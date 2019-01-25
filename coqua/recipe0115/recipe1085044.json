@@ -1,0 +1,59 @@
+{
+    "name": "オクラのゴマ和えマヨネーズ",
+    "author": {
+        "@type": "Person",
+        "name": "クッキーシアス"
+    },
+    "image": "https://img.cpcdn.com/recipes/1085044/464x260/743aa56a6b0d8d44f72f100685449572.jpg?u=2031294&p=1289873685",
+    "datePublished": "2010-03-30",
+    "description": "マヨネーズを加えるだけで美味しさアップ！こだわりたいのは黒胡麻を使うところ5/14/2011話題入り✿感謝致します",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "＊黒すり胡麻",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "＊麺つゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ１から２"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは塩水で洗う。熱湯でオクラを茹でてザルに上げる。\n",
+        "冷めたら小口切りにする。ボウルに＊印とオクラを入れて混ぜ合わせる。",
+        "最後にマヨネーズも入れてお好みでしっかり混ぜるorサックリ混ぜる。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1085044",
+    "advice": "・混ぜ方はお好みでしっかり混ぜてネバネバorさっくり混ぜてさらり～",
+    "history": "ゴマ和えが大好きなので、ちょっとアレンジしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "黒すり胡麻",
+        "麺つゆ",
+        "酒"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1085044/100x141c/907269e0eeb773bf6786fa742858bd0f.jpg?u=2031294&p=1289873685"
+}

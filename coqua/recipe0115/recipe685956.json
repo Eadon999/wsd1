@@ -1,0 +1,59 @@
+{
+    "name": "人参が主役☆人参ツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "nao2008"
+    },
+    "image": "https://img.cpcdn.com/recipes/685956/464x260/ebea25cc2fc52c046fc47a11958e2a78.jpg?u=1047860&p=1227163694",
+    "datePublished": "2008-12-02",
+    "description": "'10.5.14　100人の方々に作って頂きました♪友達の家で食べてからみんながハマった絶賛レシピ☆",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油・塩・コショウ",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は千切り、玉ねぎはみじん切りして水にさらす。",
+        "１の人参をレンジで１分加熱する。",
+        "全部混ぜて出来上がり♡",
+        "お陰さまで'09.1.22話題入りしました♡ありがとう♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "685956",
+    "advice": "人参を加熱しすぎてしなしなにならないように。",
+    "history": "友達の家で食べて。 レシピを聞いたくせにちゃんと覚えておらず、勝手にお酢を足したりして作って出来上がったら、実は友達の家で食べたものより気に入ってしまったのです。他の友達もマヨネーズを追加したりといろいろなレシピがうまれました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "玉ねぎ",
+        "ツナ缶",
+        "マスタード"
+    ],
+    "tsukurepo_count": "192",
+    "thumbnail": "https://img.cpcdn.com/recipes/685956/100x141c/93975dd5247af35d3d019b23410424de.jpg?u=1047860&p=1227163694"
+}

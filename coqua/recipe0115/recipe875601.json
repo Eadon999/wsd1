@@ -1,0 +1,65 @@
+{
+    "name": "みりんとめんつゆで簡単！肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "mitaro0207"
+    },
+    "image": "https://img.cpcdn.com/recipes/875601/464x260/d162f3625df7b78e92aa50e2fbe218bd.jpg?u=1422015&p=1248731568",
+    "datePublished": "2009-07-27",
+    "description": "調味料は３つだけ！とっても簡単においしい肉じゃがの出来上がり～♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ（牛でも）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "大４個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "しらたき",
+            "quantity": "一袋"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "☆めんつゆ（濃縮タイプ）",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは４つ切り、人参は乱切り、玉ねぎはくし形切りにする。しらたきは湯通しして臭みを取る。",
+        "肉を鍋で炒め、野菜も入れて全体に油をまわす。",
+        "☆を入れて、すぐ弱火から中火の間にし、蓋をして煮る。\r\n全体に味が回るように様子を見て。",
+        "でき上がり ！\r\n（＾－＾）"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "875601",
+    "advice": "早めに作っておいて、さましながら味を染みさせるといいです。さやえんどうや、グリンピースをいれてもいろどりがよくなりますよ(^O^)／",
+    "history": "タカラさんのみりんが当選しましたので美味しいものを作りたいと思いました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも",
+        "肉じゃが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉じゃが めんつゆ"
+    ],
+    "tsukurepo_count": "119",
+    "thumbnail": "https://img.cpcdn.com/recipes/875601/100x141c/807ce3a40a55084fa692340c70c42f43.jpg?u=1422015&p=1248731568"
+}

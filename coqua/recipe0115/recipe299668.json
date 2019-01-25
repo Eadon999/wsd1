@@ -1,0 +1,54 @@
+{
+    "name": "なすとほうれん草の粒マスタード炒め ",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/299668/464x260/bacadeab3353b5911c96f296c9527f8f.jpg?u=57297&p=1214214030",
+    "datePublished": "2006-11-11",
+    "description": "パパッとでも美味しいよ～(^m^*)♪》 ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なす",
+            "quantity": "２本"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "１把(適量）"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "ポン酢醤油",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙１"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは薄くスライス(味が浸みるように） ごま油で茄子を炒め、",
+        "火が通ったら茹でたほうれん草も入れてポン酢醤油１、砂糖小匙１、粒マスタード小匙１で味付けします。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "299668",
+    "advice": "ナスは薄くスライスすると味が浸みておいしいよ☆",
+    "history": "ほうれん草は買ってきた時に茹でてパーシャルで保存してます。いつでも使えるように",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "ほうれん草",
+        "粒マスタード",
+        "ポン酢醤油"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/299668/100x141c/67c527aeda739f151225e68c23e89e45.jpg?u=57297&p=1214214030"
+}

@@ -1,0 +1,89 @@
+{
+    "name": "牛肉とキャベツのオイスター醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "モーリー食堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/3451496/464x260/4a203fd8bfdaee9cc95f02bd41d84c3b.jpg?u=7637669&p=1444471062",
+    "datePublished": "2015-10-10",
+    "description": "ご飯もお酒も進む炒め物♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉(焼肉用)",
+            "quantity": "400g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4玉(250g)"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "3個(120g)"
+        },
+        {
+            "name": "○オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "○しょうが(チューブ)",
+            "quantity": "小さじ1/2程度"
+        },
+        {
+            "name": "○にんにく(チューブ)",
+            "quantity": "小さじ1/2程度"
+        },
+        {
+            "name": "サラダ油(炒め用)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉に下味をつけ、15分程おいておく。\nキャベツ、ピーマンは食べやすい大きさに切り、○の調味料を混ぜ合わせる。",
+        "フライパンにサラダ油をひき、ピーマン・キャベツをサッと炒めて器に取り出す。",
+        "同じフライパンで牛肉を炒める。※油が足りない場合は追加してください。",
+        "牛肉に火が通ったら野菜を戻し入れ、○の調味料を加えて全体をよく絡める。",
+        "よく絡めたら完成です！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3451496",
+    "advice": "牛肉は何でもOKです！",
+    "history": "焼肉用の牛肉が安かったので作りました‼",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 キャベツ ピーマン",
+        "牛肉 キャベツ",
+        "キャベツ オイスター",
+        "キャベツ 牛肉 オイスター"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3451496/100x141c/9beb54fa163a7cba2299297768f8b6ce.jpg?u=7637669&p=1444471062"
+}

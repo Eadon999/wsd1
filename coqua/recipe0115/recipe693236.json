@@ -1,0 +1,67 @@
+{
+    "name": "一番簡単★カルボナーラ",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/693236/464x260/227d1d5fe3c9c2892e414557abd8b645.jpg?u=1088838&p=1359961453",
+    "datePublished": "2008-12-03",
+    "description": "200人達成ありがとう！ 生クリームなし、失敗もナシで自慢のカルボナーラ！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２人分"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "全卵",
+            "quantity": "２こ"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "お任せ"
+        },
+        {
+            "name": "★粉チーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "★バター",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小１／４"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "１５０ｍｌ"
+        },
+        {
+            "name": "★スライスチーズ",
+            "quantity": "３枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ベーコンを炒める。",
+        "★を入れ、弱火にかける。",
+        "牛乳があたたまったら火を止め、溶き卵と茹でたパスタを入れて絡めれば完成！盛りつけて黒胡椒を挽く。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "693236",
+    "advice": "とろけるチーズではなくスライスチーズを使うこと。溶き卵とパスタは火を止めてから入れること。",
+    "history": "家にあるものだけで作りたいと思って考えました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/カルボナーラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ 一番簡単"
+    ],
+    "tsukurepo_count": "297",
+    "thumbnail": "https://img.cpcdn.com/recipes/693236/100x141c/464368c5c609190c0fdc27cf47097808.jpg?u=1088838&p=1359961453"
+}

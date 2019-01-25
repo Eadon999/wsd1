@@ -1,0 +1,55 @@
+{
+    "name": "超簡単！卵ときゅうりのオイマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/340170/464x260/44f5e8dac594beaa41e692a64783f529.jpg?u=356251&p=1215133397",
+    "datePublished": "2007-03-07",
+    "description": "これ、いける！簡単でおかずになるサラダです。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩コショウ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは千切りにし塩（分量外）を振りしんなりさせる。",
+        "卵を溶いてフライパンで半熟に炒める。",
+        "きゅうりの水分を絞り卵と●の調味料で和える。\r\nお好みでゴマをふっても美味しい。",
+        "ここあママさんが、ちくわプラスで作って下さいました。\r\nボリュームアップで良いですね❤"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "340170",
+    "advice": "ハムやササミ、ツナを入れても美味しいです。卵はゆで卵でもＯＫ",
+    "history": "マヨネーズにコクを出す為、入れてみたら・・・好評です　＾＾",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "きゅうり",
+        "マヨネーズ",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "346",
+    "thumbnail": "https://img.cpcdn.com/recipes/340170/100x141c/482bda19c0932674fc6d80bee1ea461c.jpg?u=356251&p=1215133397"
+}

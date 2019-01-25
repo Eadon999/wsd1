@@ -1,0 +1,47 @@
+{
+    "name": "お弁当にも♡ほうれん草のおかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "らぴさん♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2330293/464x260/eea31cb74f9bd51dc5dc8e56ef61a077.jpg?u=2069719&p=1522799141",
+    "datePublished": "2013-08-31",
+    "description": "かつおぶしと調味料を合わせて、ほうれん草を合えるだけ。冷凍もできるのでお弁当にも活躍してくれます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "2分の1束"
+        },
+        {
+            "name": "★かつおぶし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★砂糖（はちみつ）",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を茹で冷水に取り、粗熱が取れたらギュッと絞って3～4cmの長さに切る。 ",
+        "★を全部合わせたものを1のほうれん草に合えてできあがり。",
+        "*砂糖の代用ではちみつ、おすすめです♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2330293",
+    "advice": "ほうれん草の水気をしっかり絞ることです。",
+    "history": "ほうれん草のごま和えを作ろうと思ったらごまがなくて…かつおぶしを使ってみたら美味しかったのです♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草のおかか和え"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2330293/100x141c/6c27c5edbb869b74f8c59b17269d22d5.jpg?u=2069719&p=1522799141"
+}

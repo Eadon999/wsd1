@@ -1,0 +1,66 @@
+{
+    "name": "ネバネバトロロ～んな冷やしそば♡",
+    "author": {
+        "@type": "Person",
+        "name": "のりこりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/575713/464x260/2fa0b4b58dd1b56060b63cd7999fd8cd.jpg?u=393913&p=1214220059",
+    "datePublished": "2008-05-22",
+    "description": "大好きなネバネバトロトロを入れた冷たいおそばです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ながいも",
+            "quantity": "５～６ｃｍ"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "４本"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "天かす",
+            "quantity": "適量"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "そば",
+            "quantity": "２人分"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "わさび",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮をむいて小さめの角切りにする。おくらは塩ずりしてさっとゆで、小口切りに。",
+        "おそばをゆでて冷やしたら長いも、オクラ、納豆、天かすをのせめんつゆをかける",
+        "上に刻み海苔などトッピングして、わさびを添えて出来上がりヾ(=^▽^=)ノ "
+    ],
+    "cookTime": null,
+    "recipe_id": "575713",
+    "advice": "トッピングはなめことか・・ネギとか・・お好きなものをプラスしてください。写真はちょっと上品めに盛り付けてありますが、食べるときにはトッピングは倍量くらいにしてしまいました(￣▽￣*)ゞ",
+    "history": "ずっと前にこんなおそばをお店で食べて、以来夏になると自分で作って食べるようになりました。",
+    "categories": [
+        "今日のご飯・おかず/麺/蕎麦/冷たい蕎麦"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ながいも",
+        "オクラ",
+        "納豆",
+        "天かす"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/575713/100x141c/be5fde3b79864569e0208af958dcad46.jpg?u=393913&p=1214220059"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "冬瓜とツナのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/2440754/464x260/dc55f8fc3e6e7d66005e34e2146c9b6b.jpg?u=533232&p=1387667673",
+    "datePublished": "2013-12-22",
+    "description": "冬瓜とツナ缶で簡単スープ♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "冬瓜",
+            "quantity": "100g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/4"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜は皮をむき、種を取って1cm角に切っておきます",
+        "水に冬瓜を入れて柔らかくなるまで煮ます",
+        "２にツナ缶を入れて10分ほど煮こみ、最後に醤油をたらしてできあがりです\nお好みで浅葱などを添えて召し上がれ"
+    ],
+    "cookTime": null,
+    "recipe_id": "2440754",
+    "advice": "ツナ缶はオイルフリーの物を使用しておりますので、オイル漬けのものは油をきってご使用ください塩加減が足りない場合は塩を追加して下さい",
+    "history": "冬瓜とツナ缶で簡単にスープにしてみました材料少なくてもほっこりとしたお味です",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": [
+        "とうがんスープ 9位"
+    ],
+    "related_keywords": [
+        "冬瓜",
+        "ツナ缶",
+        "水",
+        "醤油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/2440754/100x141c/b2d9f1a7040ca5da9d931eda34d36a07.jpg?u=533232&p=1387667673"
+}

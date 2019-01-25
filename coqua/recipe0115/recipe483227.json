@@ -1,0 +1,85 @@
+{
+    "name": "簡単☆筑前煮",
+    "author": {
+        "@type": "Person",
+        "name": "ありす2000"
+    },
+    "image": "https://img.cpcdn.com/recipes/483227/464x260/74d7edd49f7e7c3938dae8a64da9c245.jpg?u=383726&p=1214218252",
+    "datePublished": "2008-01-05",
+    "description": "お鍋に入れて、煮込むだけの簡単筑前煮。手間を省いて、簡単レシピ。",
+    "recipeYield": "4～6人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "ごぼう・にんじん",
+            "quantity": "1本"
+        },
+        {
+            "name": "レンコン",
+            "quantity": "適量"
+        },
+        {
+            "name": "たこのこ",
+            "quantity": "半分"
+        },
+        {
+            "name": "こんにゃく",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "400ｃｃ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少し"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を食べやすい大きさに、残りの具材も乱切りにしておく。",
+        "鍋にごま油をひき、鶏肉をまず炒め、残りの具材をいれ軽く炒めてから、酒+水+ほんだしをいれ中火で煮込む。",
+        "まめにアクを取り、具材が柔らかくなったら、みりん+砂糖+塩+醤油をいれさらに弱火で煮込む。",
+        "味が馴染み、水分がなくなってきたら出来上がり。甘さは好みで調節してください。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "483227",
+    "advice": "まめにアクを取る事で、美味しく仕上がります。",
+    "history": "出汁をとったり、干椎茸の煮汁なんて・・・面倒くさい(≧ｍ≦)ほんだしでも十分美味しく仕上がります。これなら、材料さえあればすぐ作れちゃう！！時間のあるときには煮汁で作ってみてください。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "筑前煮 簡単",
+        "筑前煮 たこ"
+    ],
+    "tsukurepo_count": "773",
+    "thumbnail": "https://img.cpcdn.com/recipes/483227/100x141c/c248ff93af78fecaf1dcf0eb3ec0122e.jpg?u=383726&p=1214218252"
+}

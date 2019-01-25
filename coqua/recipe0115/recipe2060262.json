@@ -1,0 +1,71 @@
+{
+    "name": "フライパンで簡単！ローストチキン",
+    "author": {
+        "@type": "Person",
+        "name": "76chiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/2060262/464x260/aaa199dc84be675d9b47fc379a1eadf7.jpg?u=2321297&p=1355740205",
+    "datePublished": "2012-12-17",
+    "description": "クリスマスの定番！手作りして楽しく過ごしましょう！＾＾",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "骨付き鶏もも肉",
+            "quantity": "2本"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ２弱"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2/3"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "２かけ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "ハチミツ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "骨付き肉に塩麹を揉みこみ、冷蔵庫で半日寝かせる。",
+        "塩麹を軽く洗い流し、フライパンで中火で両面焼き７分ほど火を通す。",
+        "ハチミツ以外の調味料をフライパンに入れて、焦げない火加減で両面にからめながら煮詰めていく。",
+        "ある程度煮詰まってきたら、ハチミツを入れて照りが出れば出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2060262",
+    "advice": "下味は塩麹でつけるとお肉が柔らかくなります。",
+    "history": "クリスマス用のローストチキンを安く作りたくて♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/ローストチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ローストチキン 簡単 フライパン",
+        "ローストチキン フライパン",
+        "骨付き鶏もも肉 フライパン",
+        "骨付き鶏もも肉 塩麹"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2060262/100x141c/acde2cdf09ee5cc7499c8f0e7aa9cd46.jpg?u=2321297&p=1355740205"
+}

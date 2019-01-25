@@ -1,0 +1,46 @@
+{
+    "name": "ゴーヤの胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1497096/464x260/1ea40faad650fcdf68f57b60d9cd09a1.jpg?u=2495483&p=1310705367",
+    "datePublished": "2011-07-15",
+    "description": "ゴーヤの苦手な人でも食べやすいかも",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "中１本"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤを半分に切り中のわたをスプーンで取り、熱湯で３分ゆで、冷水に取り、水気をふいて２～３ミリの厚さにスライスする",
+        "ごまを、すり鉢で油が出るまですり、ゴーヤを混ぜる",
+        "醤油をかけて混ぜる",
+        "voyageさん\n↓間違って途中でぽちっとやってしまってごめんね\n貴重な最後のゴーヤで素敵なレポありがとうございます♡"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1497096",
+    "advice": "ゴーヤは大きいまま茹でた方が切ってから茹でるより水気を切るのが楽です。醤油は、ごまをゴーヤにまず混ぜてから入れて下さい",
+    "history": "ゴーヤの苦さを感じないようにゴマであえました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "白ごま",
+        "醤油"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1497096/100x141c/ec1c47b4878dd01eecb5e2f49f76918a.jpg?u=2495483&p=1310705367"
+}

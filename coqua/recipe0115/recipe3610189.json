@@ -1,0 +1,51 @@
+{
+    "name": "小松菜の海苔まみれ",
+    "author": {
+        "@type": "Person",
+        "name": "ぷけママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3610189/464x260/dbe6686d51b2d7192c7fb4de59149f27.jpg?u=2297929&p=1452677377",
+    "datePublished": "2016-01-13",
+    "description": "簡単すぎですが～鉄分補給にもどうぞ♪カテゴリ掲載♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "海苔",
+            "quantity": "全型１枚"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は洗って、食べやすい大きさに切る。４cmくらいですかね～",
+        "フライパンを温めごま油を入れ、小松菜の茎を入れ炒める。\n次に葉を入れて炒める。\n馴染んだらめんつゆを入れザッと混ぜて～",
+        "火を止め、そこへちぎった海苔をどっさりかける。\n盛り付けるときにちょうどいい感じに混ざります",
+        "お好みで一味をかけても♪\nじゃこを入れるのもいいですね～"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3610189",
+    "advice": "火を止めてから海苔を入れます。味はお好みでめんつゆを増減してください。",
+    "history": "小松菜を炒めるだけですが～海苔をかけたらとっても美味しかったので。以来作っているものです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ごま油",
+        "麺つゆ",
+        "海苔"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/3610189/100x141c/bce708c8139dfc49aa7d8ed386176886.jpg?u=2297929&p=1452677377"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "もやしとワカメのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "るぅたろぅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/422890/464x260/4030089f5aab088340b4cab069f6c137.jpg?u=383269&p=1214217082",
+    "datePublished": "2007-08-29",
+    "description": "いつでもすぐできる材料だから嬉しい。",
+    "recipeYield": "4～５人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "ワカメ",
+            "quantity": "少々"
+        },
+        {
+            "name": "中華だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2/3"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "４カップ (800㏄)"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめを水でもどし食べやすい大きさに切る。もやしのひげ根をとる。",
+        "鍋にサラダ油(orごま油)大さじ1/2を熱し、もやしを炒める。そこにワカメを加えて炒め合わせ、水・中華だしを加えて煮る。",
+        "フツフツとしてきたら塩・胡椒・麺つゆで調味する。"
+    ],
+    "cookTime": null,
+    "recipe_id": "422890",
+    "advice": "濃い味がお好みの方は麺つゆを大さじ1にしてお試しください。",
+    "history": "普段よく作るスープ。目分量レシピの一つです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "ワカメ",
+        "中華だし",
+        "塩"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/422890/100x141c/236cd8c9d824f04bd89d2628f1dcea26.jpg?u=383269&p=1214217082"
+}

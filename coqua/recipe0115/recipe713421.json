@@ -1,0 +1,59 @@
+{
+    "name": "サクサク★レンコンの磯唐",
+    "author": {
+        "@type": "Person",
+        "name": "kana-bun"
+    },
+    "image": "https://img.cpcdn.com/recipes/713421/464x260/3713adb131e822c7d392c12b812886d8.jpg?u=922473&p=1231880892",
+    "datePublished": "2009-01-14",
+    "description": "レンコンさく②で青海苔の風味が良いです♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "15cm位"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "○めんつゆ（3倍濃縮）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白いりごま",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "青海苔",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "レンコンは皮を剥き縦半分に切り5mm～7mm厚さにスライスする。酢水に放ちアク抜きする。",
+        "フライパンに○の材料を入れ砂糖が溶ける位に温めておく。 ",
+        "ビニール袋に片栗粉と水気を取ったレンコンを入れてまぶす。",
+        "多めの油で揚げ焼きしたらタレのフライパンに入れ中火～弱火にかけながら絡めて白いりごま、青海苔をふったら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "713421",
+    "advice": "若干甘めなので七味を振って大人味もおいしいよ(^O^)",
+    "history": "デパ地下に売ってるごぼうのやつが好きで…。レンコンで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "片栗粉",
+        "砂糖",
+        "白いりごま"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/713421/100x141c/6540b9fe6a4b09f8637439bf99c479cf.jpg?u=922473&p=1231880892"
+}

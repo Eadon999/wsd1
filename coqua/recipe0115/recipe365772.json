@@ -1,0 +1,47 @@
+{
+    "name": "そばめし風～？！おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "そらうた"
+    },
+    "image": "https://img.cpcdn.com/recipes/365772/464x260/d2888a63f6ee2c4865a55098fbcf2907.jpg?u=390080&p=1214215485",
+    "datePublished": "2007-04-27",
+    "description": "焼きそばの粉末ソースって余りませんか？！おにぎりにしちゃいました！粉末ソースなのでベチョベチョしません！Ｂ級でごめんなさいm(__)m 07/08/11話題入りさせて頂きました。",
+    "recipeYield": "２個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗軽く２杯分"
+        },
+        {
+            "name": "焼きそば粉末ソース",
+            "quantity": "１袋"
+        },
+        {
+            "name": "青海苔",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "海苔",
+            "quantity": "巻いた方がおいしい"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルなどにごはん、粉末ソース、青海苔を入れ全体にソースがまざるようにまぜる。",
+        "にぎるだけ！",
+        "これ使用。"
+    ],
+    "cookTime": null,
+    "recipe_id": "365772",
+    "advice": "味見してしょっぱいようならご飯を増やして下さいね！",
+    "history": "３食入り焼きそばの粉末ソースを使わないで作るとソースだけ残る・・・。旦那が以前テレビで見たと　ごはんにふりかけて食べていました。。なので、おにぎりにしてみました！ ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そばめし おにぎり"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/365772/100x141c/eb80e961f041c280c5404dc56499609d.jpg?u=390080&p=1214215485"
+}

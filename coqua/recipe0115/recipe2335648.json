@@ -1,0 +1,60 @@
+{
+    "name": "麩とえのきの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2335648/464x260/ee6854afde52e5bee4b070c6dfad98dc.jpg?u=4819316&p=1378389755",
+    "datePublished": "2013-09-05",
+    "description": "14/7/15話題入り有難うございます、おみそ汁によく合うえのきと麩を組み合わせました、ほっこりしますよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "麩",
+            "quantity": "３～４個"
+        },
+        {
+            "name": "えのきだけ",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "和風顆粒だし",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "麩は水かぬるま湯で戻し、軽く絞って水気を切ってお椀に入れておく",
+        "えのきだけは石突きを落とし、長さを半分に切って、バラバラにする",
+        "鍋に水を沸騰させ、えのきだけを入れる",
+        "再度沸騰すると、和風顆粒だしをみそを入れて混ぜる",
+        "１のお椀に４の味噌汁を入れて、ねぎを散らす"
+    ],
+    "cookTime": null,
+    "recipe_id": "2335648",
+    "advice": "別に難しいことはないでしょう",
+    "history": "えのきだけを１袋買うとたくさんあって、何か使うメニューをと考え、自分のレシピ「麩と三つ葉の味噌汁」（2284681）の応用ということで作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麩",
+        "えのきだけ",
+        "ねぎ",
+        "和風顆粒だし"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2335648/100x141c/3f2e9553b2c3f61f5780c1534ffe5b04.jpg?u=4819316&p=1378389755"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "簡単おつまみ・いかのたらこ(明太子）和え",
+    "author": {
+        "@type": "Person",
+        "name": "大魔女"
+    },
+    "image": "https://img.cpcdn.com/recipes/1342182/464x260/7006f0127de6a08635e71f7030c3fcfc.jpg?u=1146422&p=1296163898",
+    "datePublished": "2011-01-28",
+    "description": "☆平成２３年６月１２日お陰様で話題入りしました！あっという間に出来るおつまみ。日本酒にも白ワインにも合いますよ！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "たらこ(又は明太子）",
+            "quantity": "１／２腹"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "イカ（刺身用）",
+            "quantity": "１ぱい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "１滴"
+        },
+        {
+            "name": "好みで柚子こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "イカは好きな幅に切る。(刺身になっているのを買っても良い）",
+        "たらこはまな板にラップを敷き、その上でスプーンで皮からこそげ取る。ボウルに入れて酒と醤油を混ぜておく。",
+        "１と２を和える。好みで柚子こしょうを少し加えても良い｡",
+        "平成２３年６月１２日話題入りさせて頂きました。作って下さった方に感謝m(__)m"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1342182",
+    "advice": "たらこが塩辛い時はお酒の量を少し増やす。",
+    "history": "たらこや明太子＆イカが大好きなので！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たらこ おつまみ",
+        "イカ 明太子和え"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/1342182/100x141c/b0291cb81f8c2ae166aa20112c550721.jpg?u=1146422&p=1296163898"
+}

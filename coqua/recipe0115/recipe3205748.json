@@ -1,0 +1,66 @@
+{
+    "name": "タコと胡瓜の酢の物 柚子胡椒入り",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/3205748/464x260/45a64fe9914d3f6c14c53d51bee2c74a.jpg?u=7167639&p=1437726092",
+    "datePublished": "2015-05-31",
+    "description": "2017・3・11  話題入り♬感謝いつもの酢の物に柚子胡椒をプラスしてピリッと大人の味に。。。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "茹でタコ足",
+            "quantity": "2本 (約80ｇ)"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩 (塩もみ用)",
+            "quantity": "少々"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "●柚子胡椒 (チューブ)",
+            "quantity": "1cm"
+        },
+        {
+            "name": "いりごま(白)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "●印の調味料を混ぜ合わせておきます。",
+        "胡瓜は輪切りにし塩もみし、水洗いしてしっかり水分を切ります。\n\nタコは2～3ミリの斜め薄切りにします。",
+        "ボウルに②と①を混ぜ合わせて出来上がりです。\n器に盛り いりごまをトッピングして完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3205748",
+    "advice": "●の調味料はお好みの味付けで加減して下さいね。",
+    "history": "いつもの酢の物をチョット味を変化させたくて柚子胡椒を入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "胡瓜",
+        "塩",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/3205748/100x141c/b7b970e0663931b1f90e7ba1b455185e.jpg?u=7167639&p=1437726092"
+}

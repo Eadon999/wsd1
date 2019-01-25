@@ -1,0 +1,55 @@
+{
+    "name": "料亭ふう月見とうふ",
+    "author": {
+        "@type": "Person",
+        "name": "にくダンゴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/242770/464x260/158aeed5af818fed06cf859275ab2263.jpg?u=211614&p=1214212749",
+    "datePublished": "2006-03-09",
+    "description": "ミツカン味ポン「冬のあったかレシピ」の最優秀レシピに選ばれました！http://www.ajipon.com/oshiete/index.html",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "絹豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "たまご",
+            "quantity": "1個"
+        },
+        {
+            "name": "味ぽん",
+            "quantity": "適量"
+        },
+        {
+            "name": "万能ねぎ(長ねぎ)",
+            "quantity": "適量"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐の真ん中をスプーンで丸くくり抜き、そこに生卵を割り落とす。",
+        "電子レンジで1分前後（破裂しない程度）卵が半熟になったら取りだす。",
+        "薬味に万能ねぎと味ぽんをかけたら出来上がり！お好みでおろししょうがをのせてもGOOD！\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "242770",
+    "advice": "簡単ですが、とってもおいしいです。特売の豆腐でも懐石風においしくできますよ！豆腐は器に合わせた分量で作ります。くり抜いた部分は、お味噌汁に入れて無駄にはしません！",
+    "history": "よく行く和食屋さんに似たようなメニューがあり、大好きだったのに無くなってしまったので、自分で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの温副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹豆腐",
+        "たまご",
+        "味ぽん",
+        "万能ねぎ"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/242770/100x141c/b782af6f6c6bdd8425f79758e2e9aa9d.jpg?u=211614&p=1214212749"
+}

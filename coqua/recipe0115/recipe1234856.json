@@ -1,0 +1,59 @@
+{
+    "name": "ゴーヤのフリッター　カレー風味。",
+    "author": {
+        "@type": "Person",
+        "name": "happy sky"
+    },
+    "image": "https://img.cpcdn.com/recipes/1234856/464x260/bdcf037f58681d70cba4dcab9d9e8988.jpg?u=970306&p=1284612724",
+    "datePublished": "2010-09-16",
+    "description": "2011/8/11話題入りしました。皆さんに感謝。カリッと美味しい、止まりません。おつまみにも、おかずにも。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "１本"
+        },
+        {
+            "name": "●薄力粉",
+            "quantity": "１/２カップ"
+        },
+        {
+            "name": "●無調整豆乳（牛乳でもよい）",
+            "quantity": "９０ｃｃ"
+        },
+        {
+            "name": "●塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●カレー粉",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "●ガーリックパウダー",
+            "quantity": "１ふり"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは３つか４つに輪切りにし、スプーンなどで種・ワタを取り除く。１センチくらいの輪切りにする。",
+        "ボウルに●印の材料を入れて混ぜ合わせる。",
+        "①のゴーヤを②のボウルに入れ、衣をしっかりつけて１８０度の油でカラッと揚げる。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1234856",
+    "advice": "豆乳は、作る直前まで冷蔵庫で冷やしておいてください。 クミンパウダーを入れても美味しいかも。 ",
+    "history": "ゴーヤの天ぷらを食べていた時、主人がポツリ。『カレー味も美味しいんじゃない？』ということで、カレー味のフリッターを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "薄力粉",
+        "無調整豆乳",
+        "塩"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/1234856/100x141c/390bda0791d435b4b256d88c14cbf8d5.jpg?u=970306&p=1284612724"
+}

@@ -1,0 +1,52 @@
+{
+    "name": "ハチミツソースのポークソテー",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/238661/464x260/1a25f77a2c00ea2a377bb0c6a795c9b1.jpg?u=57297&p=1214212659",
+    "datePublished": "2006-02-13",
+    "description": "これは豚肩ロース塊、水菜と白髪葱敷いてます。ソースで野菜も食べれるよ♪☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉塊または厚切り",
+            "quantity": "300gくらい"
+        },
+        {
+            "name": "ハチミツ",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚切り肉に包丁の先を全体に突き立てます。　　いっぱいやるとお肉が柔らかくなるよ。　包丁の腹でも叩きます。",
+        "両面塩胡椒して、オリーブオイルで焼きます。\r\n\r\nソース：ケチャップ１、ハチミツ1.5、醤油２、フライパンに残った汁２\r\n\r\n水菜と白髪葱敷いてます。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "238661",
+    "advice": "肉はよく叩いて、包丁の先かフォークで満遍なく何度も突き刺すと柔らかく美味しく仕上がります",
+    "history": "ハチミツを使ってソースを作ってみました。肉とハチミツは相性がいいですね。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚かたまり肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉塊",
+        "ハチミツソース"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/238661/100x141c/d4463daa2f95f29343715fa142572f9c.jpg?u=57297&p=1214212659"
+}

@@ -1,0 +1,50 @@
+{
+    "name": "簡単＠なめたけ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃしー"
+    },
+    "image": "https://img.cpcdn.com/recipes/243575/464x260/9a6e949fb42ec6498a7ca5e1e37b5fe8.jpg?u=32354&p=1214212769",
+    "datePublished": "2006-03-13",
+    "description": "友達に教えてもらったレシピです。とーっても簡単なご飯のお供なので、ぜひ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "エノキ",
+            "quantity": "２袋"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "エノキは食べやい大きさに切り、沸騰したお湯にさっとくぐらせて、ザルにあける。",
+        "鍋に酒、みりん、しょうゆを入れて沸騰させ、エノキを加えて煮詰める。",
+        "冷めたら瓶詰めにして冷蔵庫へ～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "243575",
+    "advice": "■2006.06.14追記。友達から教えてもらってレシピなので、ここに掲載したことを報告して見てもらったら「エノキは茹でる前に塩を振って水分を出しておくのよ」、「こぶ茶か味の素を入れるの忘れてるよ～」と指摘されてしまいました。手抜きでも十分美味しかったので、あえてレシピ変更しませんが、参考までに(ﾟω ﾟ;Ａ",
+    "history": "友達に教えてもらって美味しかったので覚書に。　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エノキ",
+        "酒",
+        "みりん",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/243575/100x141c/4a12e6dceb0bfb0e795ed789abc04b0d.jpg?u=32354&p=1214212769"
+}

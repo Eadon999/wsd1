@@ -1,0 +1,42 @@
+{
+    "name": "＊おつまみに＊枝豆のナムル＊",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうゆう0221"
+    },
+    "image": "https://img.cpcdn.com/recipes/2325459/464x260/3957baf67a27d844be7adae1f388720a.jpg?u=309279&p=1377573080",
+    "datePublished": "2013-08-27",
+    "description": "茹でた枝豆を胡麻油と塩で和えました。おつまみにお薦めです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "枝豆",
+            "quantity": "80ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "枝豆を茹でます。\nこちらを参照して下さい。レシピID : 2299410",
+        "１の粗熱が取れたらサヤから出し、ボウルに入れます。塩、胡麻油を入れ、混ぜ合わせ器に盛り付けます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2325459",
+    "advice": "1＊枝豆は正味80ｇです。＊冷凍枝豆でもOKです。お好みですりおろしにんにく、醤油を加えてもOKです。",
+    "history": "茹でて冷凍保存した枝豆を使い、思い付きで出来た料理です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/枝豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "枝豆ナムル"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2325459/100x141c/b2032c390ce3ed80a66add9c1f9f3335.jpg?u=309279&p=1377573080"
+}

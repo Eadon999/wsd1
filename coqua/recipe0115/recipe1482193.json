@@ -1,0 +1,70 @@
+{
+    "name": "簡単節約！焼肉風鶏と小松菜の炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "ゆいにゃんママ★"
+    },
+    "image": "https://img.cpcdn.com/recipes/1482193/464x260/cd40533e45e9673257eaa2db5da82271.jpg?u=2292902&p=1309176548",
+    "datePublished": "2011-06-27",
+    "description": "安い鶏胸肉でも焼肉味で大満足！ボリュームあり！ご飯も進みます。",
+    "recipeYield": "２、３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉(薄いそぎ切り)",
+            "quantity": "1枚"
+        },
+        {
+            "name": "小松菜(長さ5cmに切る)",
+            "quantity": "1束"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★昆布だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★ニンニクすりおろし(チューブタイプ)",
+            "quantity": "5cm分"
+        },
+        {
+            "name": "★すり白ごま",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "★を混ぜ合わせて、鶏胸肉を10分以上漬ける。(省略可)",
+        "フライパンにごま油を熱し、鶏胸肉を1枚ずつ並べて両面焼く。",
+        "小松菜の茎→葉→肉の漬け汁(★)の順に加え炒め、小松菜がしんなりまとまってきたらできあがり。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1482193",
+    "advice": "鶏胸肉は漬けなくても、合わせ調味料を軽くもみ込むだけでも大丈夫です。",
+    "history": "焼肉味の鶏肉が食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "小松菜",
+        "醤油",
+        "みりん"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1482193/100x141c/e8887baf258f21c07730f8300b899de1.jpg?u=2292902&p=1309176548"
+}

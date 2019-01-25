@@ -1,0 +1,46 @@
+{
+    "name": "【農家のレシピ】やみつきレタス",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1711272/464x260/4b85c60108936df839e40a7544711f60.jpg?u=2513693&p=1329570656",
+    "datePublished": "2012-03-04",
+    "description": "ごま油、レモン果汁、塩。この３つをレタスに加えるだけで美味しいやみつき系のサラダの完成です。　",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "1個（約２５０ｇ）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ちぎったレタスに【Ａ】を混ぜて完成です"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1711272",
+    "advice": "",
+    "history": "焼肉屋さんの定食についていたレタスサラダ。とっても美味しくて再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "やみつきレタス",
+        "レタス"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/1711272/100x141c/a6673dc648db9ef2801b955d9b893a86.jpg?u=2513693&p=1329570656"
+}

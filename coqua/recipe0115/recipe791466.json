@@ -1,0 +1,60 @@
+{
+    "name": "モテる！お肉屋さんのハムカツ",
+    "author": {
+        "@type": "Person",
+        "name": "BECCI"
+    },
+    "image": "https://img.cpcdn.com/recipes/791466/464x260/64b16f3f736c54403c7545b4f435cabf.jpg?u=392751&p=1240497817",
+    "datePublished": "2009-04-23",
+    "description": "多くの男性が支持する愛されメニュー 「ハムカツ」をお弁当にしました。 普段のおかずにも☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ハム",
+            "quantity": "６枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "溶き卵",
+            "quantity": "１個分"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "千切りキャベツ",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン、粒マスタード、ソース",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "３枚重ねたハムの両面に小麦粉をはたき、溶き卵にくぐらせ、パン粉を付ける。 \r\n",
+        "揚げ油を170℃に熱し、キツネ色に揚げる。",
+        "千切りキャベツを乗せたお弁当箱に盛り付け、レモンと粒マスタードを添える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "791466",
+    "advice": "あら熱が取れたら半分に切ってトランプのように並べて盛るとキレイです。",
+    "history": "みんなの大好きなハムカツを更に作りやすくする為、具体的に書きました☆",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ハム/ハムを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハムカツ",
+        "ハムカツお弁当"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/791466/100x141c/54d6a54e1e75030fe73b56435206d58e.jpg?u=392751&p=1240497817"
+}

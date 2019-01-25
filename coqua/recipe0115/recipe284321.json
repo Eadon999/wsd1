@@ -1,0 +1,64 @@
+{
+    "name": "簡単☆アサリの旨みたっぷりのトマトスパ☆",
+    "author": {
+        "@type": "Person",
+        "name": "テロろん"
+    },
+    "image": "https://img.cpcdn.com/recipes/284321/464x260/4f63f641a1f712700413d28fc98e3a2f.jpg?u=283084&p=1214213699",
+    "datePublished": "2006-09-24",
+    "description": "20分でできる！けど本格的でウマイです！！あさりのうまみたっぷりなソースが病み付きです。ぜひお試しを。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "あさり",
+            "quantity": "1パック"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "2かけ"
+        },
+        {
+            "name": "ホールトマト",
+            "quantity": "１缶"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "３００ｸﾞﾗﾑ"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "約大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "あさり～～☆\r\nざるでよく洗っておく。",
+        "オリーブオイルをいれ、にんにくをいため香りを出す。",
+        "あさりをいためる。",
+        "ホールトマトをいれ、コンソメと塩こしょうで味付け。パスタをゆではじめる。",
+        "茹で上がったパスタをソースと絡めて完成(*゜▽゜)ノ"
+    ],
+    "cookTime": null,
+    "recipe_id": "284321",
+    "advice": "あさりをあらうときザルで混ぜると貝がとれやすくて食べやすいです。",
+    "history": "あさりﾀﾞｲｽｷなんでｗ",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/ボンゴレ・ロッソ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "にんにく",
+        "ホールトマト",
+        "パスタ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/284321/100x141c/c456c7fccbec30320cf38c9106e054ee.jpg?u=283084&p=1214213699"
+}

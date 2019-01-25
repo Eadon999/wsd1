@@ -1,0 +1,50 @@
+{
+    "name": "こごみのわさびマヨネーズ和え…",
+    "author": {
+        "@type": "Person",
+        "name": "みっこ＊mikko"
+    },
+    "image": "https://img.cpcdn.com/recipes/2209083/464x260/3dd60ef1a617ea44f3b2fbb49b64421e.jpg?u=4576996&p=1367455679",
+    "datePublished": "2013-05-02",
+    "description": "2013.6.2話題入り♪アクの少ない山菜、こごみ。。。シンプルに…さっと茹でて、いただきました^^",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "こごみ",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２強"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小さじ１／４"
+        }
+    ],
+    "recipeInstructions": [
+        "こごみは水洗いし、汚れをしっかりと落とす。",
+        "沸騰したお湯でさっと茹で、氷水に入れて色止めをする。\n長いものは２～３等分に切る。",
+        "ボールなどに材料をすべて入れ、和える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2209083",
+    "advice": "クルンと巻いている部分に汚れがたまっているので、しっかりと落とします。。。さっと茹でたら…サラダやおひたし、胡麻和えなどにも利用できますよ^^",
+    "history": "毎年、ご近所などからよくいただく“こごみ”。。。実家の母はよく…こんな風にして、食卓へ出していました。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こごみ",
+        "マヨネーズ",
+        "しょうゆ",
+        "わさび"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2209083/100x141c/40aee64e165bad8c5b5f2ea867bacc10.jpg?u=4576996&p=1367455679"
+}

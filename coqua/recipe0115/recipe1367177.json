@@ -1,0 +1,63 @@
+{
+    "name": "簡単☆レタスと卵のオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "marukopapa"
+    },
+    "image": "https://img.cpcdn.com/recipes/1367177/464x260/584d2eb87fc52289c20cb50ddd617d7f.jpg?u=2771290&p=1298206752",
+    "datePublished": "2011-02-20",
+    "description": "レタスと卵で簡単にできます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "半分（小さいレタスなら1個）"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個分（溶いておく）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "☆調味料は混ぜておく。レタスは食べやすい大きさに切っておく。",
+        "ごま油を敷いた鍋が温まったら、溶いた卵を流し入れ、軽く混ぜる。レタスを加え、調味料を混ぜてさっと炒める。",
+        "全体に調味料が絡んだら出来上がり！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1367177",
+    "advice": "レタスは炒めすぎない方がいいかもしれません。",
+    "history": "大きなレタス玉が半分余ったので作りました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": [
+        "レタス 1位",
+        "オイスターソース 4位",
+        "レタス炒め 1位",
+        "オイスターソース炒め 2位"
+    ],
+    "related_keywords": [
+        "レタス",
+        "レタス 卵",
+        "レタス 炒め",
+        "レタス 卵 炒め オイスターソース"
+    ],
+    "tsukurepo_count": "773",
+    "thumbnail": "https://img.cpcdn.com/recipes/1367177/100x141c/125698415ca32c0dc36ada8fa31c3b78.jpg?u=2771290&p=1298206752"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "韓国卵焼き・ケランマリ（계란말이）",
+    "author": {
+        "@type": "Person",
+        "name": "★いも★"
+    },
+    "image": "https://img.cpcdn.com/recipes/2117163/464x260/1bda5efe18638a883e2cb34b8d62c900.jpg?u=5679832&p=1360736653",
+    "datePublished": "2013-02-13",
+    "description": "今回は、韓国の卵焼きの特徴をお話をしましょう。韓国の卵焼きは、出汁・砂糖・醤油を使わず、野菜を入れて焼きます**",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１／３本"
+        },
+        {
+            "name": "人参",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "ダシダ（韓国の調味料）",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "おろしにんにく・塩・胡椒",
+            "quantity": "各少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長ネギは細く切り、にんじんはみじん切りにする。",
+        "ボウルに卵を入れて、１の野菜とダシダとおろしにんにく、塩、胡椒を加えてよく混ぜる。",
+        "熱したフライパンにサラダ油をひいて、２の卵を全部流して巻きながら焼くと出来上がり。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2117163",
+    "advice": "卵に野菜がたっぷり入っているので、フライパンに卵を流して弱中火でしっかり焼きます。",
+    "history": "韓国の卵焼きは野菜をたっぷり入れていますので、味付けも塩・胡椒といったシンプルにして卵の旨みを引き立てています。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ケランマリ",
+        "韓国風卵焼き",
+        "韓国"
+    ],
+    "tsukurepo_count": "63",
+    "thumbnail": "https://img.cpcdn.com/recipes/2117163/100x141c/0a5688d35cebf7ce146f8fe3ea0175c9.jpg?u=5679832&p=1360736653"
+}

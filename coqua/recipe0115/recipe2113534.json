@@ -1,0 +1,57 @@
+{
+    "name": "ぶりカツ",
+    "author": {
+        "@type": "Person",
+        "name": "ｏｎｊｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2113534/464x260/c25a907885b04f7339cca8c5995fadf9.jpg?u=5036827&p=1360491103",
+    "datePublished": "2013-02-10",
+    "description": "照り焼きだけじゃない。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "３０cc"
+        },
+        {
+            "name": "粗挽きこしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "醤油と粗挽きこしょうを合わせ　ぶりを３０分漬ける。途中で裏返してね。",
+        "水分を拭き。小麦粉、卵、パン粉の順に付ける。",
+        "１７０℃の油で４分揚げる。",
+        "完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2113534",
+    "advice": "脂の多いぶりは少し長めに漬け込む。",
+    "history": "照り焼き以外でぶりを食べたかった。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブリカツ",
+        "ブリかつ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2113534/100x141c/ed6854c480e7b0d0e631522f2e281f75.jpg?u=5036827&p=1360491103"
+}

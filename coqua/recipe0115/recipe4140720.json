@@ -1,0 +1,49 @@
+{
+    "name": "ダシダで簡単♪肉だしがっつり味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "sawako☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/4140720/464x260/6322ec139c3fad9c9280f4aa6cbdc74c.jpg?u=9635577&p=1477304697",
+    "datePublished": "2016-10-24",
+    "description": "忙しい朝でもダシダで簡単♪冷蔵庫の残り物で一人分から作れる！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ダシダ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "お味噌",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "熱湯",
+            "quantity": "150ml"
+        },
+        {
+            "name": "カットわかめ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ちくわやお豆腐等お好みで",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お椀にすべての材料を入れて分量の熱湯を注ぐ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4140720",
+    "advice": "具材は加熱せずに食べられるものを選んでください。お味噌の量はお好みで増やしてください。",
+    "history": "ダシダのおでんが美味しかったので和食にもよく合うことが分かりお味噌汁にチャレンジ！簡単なのにスタミナ系のコクがあり、寒い朝に暖まるお味噌汁に♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ダシダ 味噌汁"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4140720/100x141c/6dc40d894d91a18f4c725d921655cd2a.jpg?u=9635577&p=1477304697"
+}

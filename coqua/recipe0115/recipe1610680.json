@@ -1,0 +1,67 @@
+{
+    "name": "さばのみそ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ｍｋｍｃｈｙ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1610680/464x260/d2645f222d67ebb74b1f846486d0493e.jpg?u=2870348&p=1319695391",
+    "datePublished": "2011-10-27",
+    "description": "分かりやすい分量で、フライパンで作ります！たれがとろり、さばがふんわり、おいしい♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "4枚"
+        },
+        {
+            "name": "水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "みそ",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "しょうがみじん切り",
+            "quantity": "1かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "さばを半分に切り、熱湯をかけ臭みをとる。\nフライパンにさば以外の材料を全て入れ中火にかける。\n",
+        "さばをやさしく水洗い。\nフライパンのたれがふつふつしてきたらさばを入れる。",
+        "たれをスプーンですくい、さばにかける。",
+        "クッキングシートなどで落し蓋をし、さらにふたをし、弱火で15分位煮込む。\nふたをあけ、たれにとろみがつくまで煮込む。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1610680",
+    "advice": "'12.1レシピ修正しました。みその塩気により量を調節してください。",
+    "history": "大好きなさばのみそ煮を簡単な分量で！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば",
+        "水",
+        "みりん",
+        "砂糖"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/1610680/100x141c/e811a429bbbb876e9f556aa7f8ca1d8e.jpg?u=2870348&p=1319695391"
+}

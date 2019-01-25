@@ -1,0 +1,60 @@
+{
+    "name": "チキンナゲットの親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "ろろすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/442159/464x260/ab12aceb430e22697a9b51ae9b2b3dd8.jpg?u=587052&p=1214217466",
+    "datePublished": "2007-10-12",
+    "description": "いつもチンしてただ食べるだけのチキンナゲットをアレンジしてみました。２０１４年８月１８日話題のレシピ入り、ありがとう！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "チキンナゲット",
+            "quantity": "１２個"
+        },
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "玉ネギ",
+            "quantity": "大きめ１個"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "乾燥パセリまたは三つ葉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに麺つゆ・砂糖・お酒・水５０ｃｃを入れて煮立てる。\r\n\r\n\r\n",
+        "１に玉ネギを切ったものを入れて、飴色になるまで煮る。",
+        "２にチキンナゲットを並べて、片面づつ５分くらい煮たら溶き卵を流し入れ、固まりかけてきたら火を止めて、パセリか三つ葉を散らして、２分くらいむらしたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "442159",
+    "advice": "手抜きポイント：チキンナゲットを使うこと。",
+    "history": "特売のチキンナゲットはよく買います。いつもチンしてただ食べていましたが、卵もたくさんあったので一工夫して親子丼にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チキンナゲット 親子丼",
+        "チキンナゲットアレンジ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/442159/100x141c/eb43e8be496c623e38a8edead072413d.jpg?u=587052&p=1214217466"
+}

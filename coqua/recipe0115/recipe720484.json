@@ -1,0 +1,56 @@
+{
+    "name": "ホタテと塩昆布の炊き込みごはん",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/720484/464x260/c5a3bd82a0362c825347d3956a3f4c42.jpg?u=933655&p=1233189108",
+    "datePublished": "2009-01-25",
+    "description": "ホタテ缶があったら、料亭のごはんができます！",
+    "recipeYield": "米３合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "３合"
+        },
+        {
+            "name": "ホタテ缶",
+            "quantity": "大"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "２つまみ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白だし（なければしょうゆ）",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "水",
+            "quantity": "調味料と合わせて540ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "米はといでざるにあげておく\r\n\r\nしばらくしたら、水を少しひたしておく。ここで調味料を入れると米が固くなります！",
+        "ホタテ缶を汁ごといれ、塩昆布を２つまみ（私は大さじ２くらい）と調味料をいれて水を3合のメモリまで足して、炊飯します",
+        "出来上がり！さっくり混ぜて、あれば最後にしそを乗せると、風味が良いです",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "720484",
+    "advice": "調味料を入れて時間をおくと、米が塩分を吸ってしまって、固くなるので、水で浸す時は、調味料を入れないで下さい。コツはそれだけ！なのに、とってもおいしい炊き込みごはんができます♪",
+    "history": "ホタテ缶が「炊いてみて♪」と言っていたので(❤ฺ￫艸￩) ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホタテ缶 炊き込みご飯 白だし"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/720484/100x141c/ce83c0e5f480ec0f78d936f77adb9b8a.jpg?u=933655&p=1233189108"
+}

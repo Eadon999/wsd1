@@ -1,0 +1,61 @@
+{
+    "name": "簡単さっぱり♡冷し白だし梅胡麻そうめん♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3316837/464x260/a6f69a1c9da7bc5996ac34bdb4e84f9c.jpg?u=1228553&p=1437887672",
+    "datePublished": "2015-07-26",
+    "description": "白だしと梅って良く合います♪とっても簡単なので朝から暑い日の朝食にも ～(o´ω｀o)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "素麺",
+            "quantity": "100g程度"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "☆冷水",
+            "quantity": "200㏄"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "☆を合わせたところに種を取り包丁でたたいた梅の半量を混ぜ、素麺が茹で上がるまで冷蔵庫へ～\n",
+        "茹でて水洗い後よく水けを切った素麺を１に入れ貝割れ・残りの梅・すり胡麻・鰹節をトッピングして出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3316837",
+    "advice": "梅干しの塩分やお使いの白だしによって水の量は調節してください♪今回はヤマキの白だしを使っています(*´ｪ`*)",
+    "history": "さっぱり冷たい朝ごはんが食べたかったので～ヽ(･∀･)ﾉ ",
+    "categories": [
+        "今日のご飯・おかず/麺/そうめん/アレンジそうめん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "素麺",
+        "梅干し",
+        "白だし",
+        "冷水"
+    ],
+    "tsukurepo_count": "57",
+    "thumbnail": "https://img.cpcdn.com/recipes/3316837/100x141c/c858849d61e5a1027524fde3e097de2c.jpg?u=1228553&p=1437887672"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "落とし卵のお吸い物",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3328848/464x260/f1e00f84a68b0cc4e63be31b244c6b4b.jpg?u=4819316&p=1438509163",
+    "datePublished": "2015-08-02",
+    "description": "16/2/25話題入り有難うございます、卵だけのお吸い物です、簡単に出来るのであと一品汁物をというときに便利ですよ",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●水",
+            "quantity": "２００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を冷蔵庫から出してお椀に割っておく",
+        "鍋に●を沸かす",
+        "火を弱めてかき回して水流を作り、卵を落としてお玉などを使って形を整える",
+        "白身が固まり始めたらお椀に入れて、刻んだねぎを散らして出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3328848",
+    "advice": "卵が固まり始めたら、鍋の縁や底にくっつかないように注意して下さい",
+    "history": "自分のレシピ「落とし卵の味噌汁」（ID=2940878）の応用です、今回は味噌汁ではなくお吸い物にしてみました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お吸い物"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お吸い物 卵"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3328848/100x141c/e771ec4734223ae7327e9731a4bf0e4e.jpg?u=4819316&p=1438509163"
+}

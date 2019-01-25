@@ -1,0 +1,57 @@
+{
+    "name": "ちょ～簡単♪レタス丸ごとぺろりん炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "りんちゃんずママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/879799/464x260/c8530af158cd6570c7ed3ef00794d675.jpg?u=710545&p=1277109019",
+    "datePublished": "2009-08-02",
+    "description": "ちょ～簡単、だけど美味しい♪見た目はいまいちでも絶対美味しいから作ってみて！一人でレタス丸ごと軽くいけます。(^ー^)",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "半玉～1玉"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "中華だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニクはみじん切りにしてごま油をひいたフライパンで香りがでるまで炒める。",
+        "レタスを適当にちぎりフライパンに入れる。",
+        "胡椒と中華だしを入れ、強火でさっと炒める。",
+        "最後に醤油を入れてなじませて出来上がり♪",
+        "空芯菜でも美味です♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "879799",
+    "advice": "レタスは炒めすぎないこと。強火でささっと作ってください！",
+    "history": "空芯菜をいつも炒めるやり方でレタスを炒めました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス 丸ごと"
+    ],
+    "tsukurepo_count": "210",
+    "thumbnail": "https://img.cpcdn.com/recipes/879799/100x141c/0a83d2b26ce183e383c23770c9bef5ce.jpg?u=710545&p=1277109019"
+}

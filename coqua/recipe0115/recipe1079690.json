@@ -1,0 +1,63 @@
+{
+    "name": "***セロリ★中華風漬物***",
+    "author": {
+        "@type": "Person",
+        "name": "綾タン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1079690/464x260/89cc3963f306e52792cea95c2d69d114.jpg?u=1310283&p=1274837401",
+    "datePublished": "2010-03-26",
+    "description": "★サッパリピリ辛のお漬物です♪御飯のおともにおつまみに♪★",
+    "recipeYield": "セロリ1本分",
+    "recipeIngredient": [
+        {
+            "name": "◆セロリ",
+            "quantity": "2本"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆濃口醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆胡麻油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆にんにく（すりおろし）",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "☆一味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆炒り胡麻",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "■セロリは筋を取り\n斜め1cm幅に切る\n\n葉っぱも1本分とっておく",
+        "■☆印の材料を\n全てよく混ぜる",
+        "■ビニール袋にセロリの茎と葉と\n②を全て入れて\n袋の上からよく揉み込む",
+        "■袋の中の空気を抜く様に閉じる\n\n→冷蔵庫で１時間以上、置く\n\n✿出来上がり✿"
+    ],
+    "cookTime": null,
+    "recipe_id": "1079690",
+    "advice": "お酢はまろやかなものを選んで使いました。セロリの厚みを調整すれば、食感が変わりますので、ポリポリ食べたければ厚めに切る。",
+    "history": "セロリが大好きなので牛肉のマリネを作った時のセロリだけをレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "酢",
+        "濃口醤油",
+        "胡麻油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1079690/100x141c/a220c16f3c8be144ff4232fc8de2a61f.jpg?u=1310283&p=1274837401"
+}

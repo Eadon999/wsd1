@@ -1,0 +1,62 @@
+{
+    "name": "ベビーホタテとロマネスコのマカロニサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "coccoaマム"
+    },
+    "image": "https://img.cpcdn.com/recipes/2276631/464x260/f66790facf5256202125f65e5b932a09.jpg?u=2457342&p=1372928736",
+    "datePublished": "2013-08-03",
+    "description": "さっぱりサラダにピリッとアクセントがおいしい大人なマカロニサラダです",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ベビーホタテ",
+            "quantity": "10ケ"
+        },
+        {
+            "name": "ロマネスコ",
+            "quantity": "30g"
+        },
+        {
+            "name": "マカロニ",
+            "quantity": "50g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "柚子こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ4"
+        }
+    ],
+    "recipeInstructions": [
+        "マカロニは表示の時間で茹で、ロマネスコは一口大に切り、茹でる",
+        "ベビーホタテは半分に切り、玉ねぎは薄くスライスする",
+        "ボールに白だし、ゆずこしょう、マヨネーズを入れてよく混ぜ、そこに１・２を加えて混ぜ合わせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2276631",
+    "advice": "ロマネスコはやや硬めに茹でたほうが、食感が楽しめておいしいです。マカロニを茹でている途中に、ロマネスコを加えて茹でると時短になります。",
+    "history": "ロマネスコをおいしく食べるために考えたレシピです(^O^)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ベビーホタテ",
+        "ロマネスコ",
+        "マカロニ",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2276631/100x141c/abe10f60d8c685cd3fa82fa5bd3cef45.jpg?u=2457342&p=1372928736"
+}

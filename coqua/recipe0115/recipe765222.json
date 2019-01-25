@@ -1,0 +1,61 @@
+{
+    "name": "ピリ辛☆わかめの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃんゆぅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/765222/464x260/2416deaf1b11c8bf9ddadc9e255d4edb.jpg?u=798501&p=1237608297",
+    "datePublished": "2009-03-21",
+    "description": "これだけでご飯2杯は軽くいけます♪おにぎりの具やお弁当にあると便利です。",
+    "recipeYield": "７２０ccのタッパ分位",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "３０～４０ｇ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "酒・みりん",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "タカの爪輪切り",
+            "quantity": "２本分"
+        },
+        {
+            "name": "顆粒ダシの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "１ｃｕｐ"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめを水で戻してざるにあげておく。全ての材料を鍋に入れて沸かし、わかめを加えて落し蓋をして弱火で３０～１時間位煮る。",
+        "好みの柔らかさになり、煮汁がほぼなくなったら出来上がり！",
+        "夜遅くのおつまみに最適♪",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "765222",
+    "advice": "中火で３０分：少しわかめの歯ごたえが残る位。弱火で１時間：殆ど歯ごたえはない位柔らかくなる。わかめは植物繊維が豊富なので、適度に食べるとデトックス効果抜群ですが、食べ過ぎるとお腹がくだるので注意です…。",
+    "history": "ピリ辛の岩のりが大好きなので、わかめで代用して作ってみました☆",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わかめ 佃煮",
+        "乾燥わかめ 佃煮"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/765222/100x141c/acf38f9e3e7b025ac4484930c03c37c5.jpg?u=798501&p=1237608297"
+}

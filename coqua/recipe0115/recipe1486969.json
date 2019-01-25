@@ -1,0 +1,66 @@
+{
+    "name": "鯖のピリ辛漬け",
+    "author": {
+        "@type": "Person",
+        "name": "bojako45"
+    },
+    "image": "https://img.cpcdn.com/recipes/1486969/464x260/f8146664c050ffb6aeda2e50dc45c59b.jpg?u=3180410&p=1309690970",
+    "datePublished": "2011-07-03",
+    "description": "ピリ辛甘酸っぱい味でご飯がすすむ！お酒にもおススメ☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖フィーレ(3枚下し)",
+            "quantity": "2枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "15ｇ"
+        },
+        {
+            "name": "★豆板醤",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "★生姜(みじん切り)",
+            "quantity": "1かけ"
+        }
+    ],
+    "recipeInstructions": [
+        "器に★の調味料と生姜を入れ混ぜておく。",
+        "鯖はそぎ切りにし、小麦粉をまぶし、油で両面しっかり焼く。(途中弱火でふたをし蒸し焼きに)\n",
+        "焼けていった鯖から調味料の入った器に入れ、返しながら両面漬けてできあがり～☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1486969",
+    "advice": "ある程度の漬け時間がある方がしっかり味が染みておいしいです。作り置きも利くので多めに作ってもいいかも。",
+    "history": "母親から教わったわが家定番の鯖料理の一品です。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小麦粉",
+        "油",
+        "砂糖",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1486969/100x141c/f6ec3a29f1d355d52ab6f9277fe4855b.jpg?u=3180410&p=1309690970"
+}

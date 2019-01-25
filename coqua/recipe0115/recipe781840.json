@@ -1,0 +1,72 @@
+{
+    "name": "簡単にお店の味♪ココナッツカレー",
+    "author": {
+        "@type": "Person",
+        "name": "ｍｏｍｏｎｏ"
+    },
+    "image": "https://img.cpcdn.com/recipes/781840/464x260/8d93dbb79c990e9f75832cb051cf6080.jpg?u=1278823&p=1239517572",
+    "datePublished": "2009-04-12",
+    "description": "調味料さえあれば簡単に作れちゃいます！隠し味のレモン汁が本場っぽい雰囲気を出してくれます（＾＾）♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "とり手羽",
+            "quantity": "10本"
+        },
+        {
+            "name": "パプリカ（ピーマンでも）",
+            "quantity": "２個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "大さじ３～６"
+        },
+        {
+            "name": "★ココナッツミルク缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "２カップ"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★ローリエ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たまねぎとにんにくははみじんぎり、パプリカは１㎝幅に、とり手羽はフォークで穴をあけ、塩コショウしておく。",
+        "フライパンにサラダ油をひき、とり手羽を焼く。そこにたまねぎとにんにくを加え、弱火でゆっくり炒め、カレー粉を加える。",
+        "パプリカを入れ、★を全て入れ、煮込む。 \r\n塩コショウを加減しながら加え、味を調える。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "781840",
+    "advice": "カレー粉はマイルドなカレーが好きな方は少な目から入れ、様子を見てください。 １５穀米で食べたらおいしかったです！",
+    "history": "ココナッツの缶詰が安かったので作ってみました（＊＾＾＊）",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/カレー/タイ風カレー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ココナッツカレー 簡単"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/781840/100x141c/900e6e8ffa8ae4d97e9033a2b2a26c72.jpg?u=1278823&p=1239517572"
+}

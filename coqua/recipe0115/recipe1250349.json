@@ -1,0 +1,50 @@
+{
+    "name": "簡単✿美味しいオクラのパン粉焼き☆",
+    "author": {
+        "@type": "Person",
+        "name": "いずみるく"
+    },
+    "image": "https://img.cpcdn.com/recipes/1250349/464x260/c128382cea226e460a3f1dc2bac7b234.jpg?u=2354767&p=1286192848",
+    "datePublished": "2010-10-05",
+    "description": "2010，10，30話題入りさせていただきました♡外サクッ♡中トロっ♡ トースターで簡単にとても美味しい一品が出来ます✿",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "6本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラを塩で板ずりし固めに茹で冷水に取る。",
+        "キッチンペーパーで水分を拭き取り、マヨネーズと塩コショウを絡め、パン粉をまぶす。",
+        "トースターにアルミをひき軽く焦げ目がつくまで焼く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1250349",
+    "advice": "マヨネーズに塩コショウをやや多めに混ぜると美味しいです。",
+    "history": "オクラだけで一品作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "マヨネーズ",
+        "パン粉",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/1250349/100x141c/9b7cab51d3c19ca98712eafd26d49e74.jpg?u=2354767&p=1286192848"
+}

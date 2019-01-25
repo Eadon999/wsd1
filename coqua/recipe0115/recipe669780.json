@@ -1,0 +1,55 @@
+{
+    "name": "♪大根とちくわのきんぴら♪",
+    "author": {
+        "@type": "Person",
+        "name": "marimariキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/669780/464x260/c16187fdf75b62f53715e958143c0368.jpg?u=933655&p=1229591891",
+    "datePublished": "2008-10-23",
+    "description": "大根を使い切りたい時に作ります！お弁当にもおつまみにもおすすめです★2008・12/18写真変更しました♪",
+    "recipeYield": "大根半分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根とちくわを同じ大きさの短冊切りにする。",
+        "ごま油を熱し、大根とちくわを入れて炒め、砂糖を加えて照りが出たら酒を入れる",
+        "アルコールがとんだら醤油を入れる。　甘めがすきだったらみりんを最後に入れると照りも出ておいしいです！",
+        "冷ますと味がなじんでおいしー！"
+    ],
+    "cookTime": null,
+    "recipe_id": "669780",
+    "advice": "大根が固めでも歯ごたえがあっておいしいです。しんなりしても味が良くしみておいしいです！",
+    "history": "大根を使い切りたくて！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "ちくわ",
+        "しょうゆ",
+        "酒"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/669780/100x141c/bdafb5cd2fc829e2c5272be54962cdb6.jpg?u=933655&p=1229591891"
+}

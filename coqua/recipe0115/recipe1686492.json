@@ -1,0 +1,49 @@
+{
+    "name": "【農家のレシピ】白菜のおかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1686492/464x260/7b889e54c204fc1731443bf6ec5bf787.jpg?u=2513693&p=1327580592",
+    "datePublished": "2012-02-02",
+    "description": "塩茹でした白菜に醤油とかつおぶしをまぶしただけのスピードレシピ。あともう一品ほしい時のお助けメニューです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は１センチ幅に切り、塩を少し入れた熱湯でまず茎の部分を１分３０秒中火で茹でます。",
+        "残りの葉の部分を入れさらに１分３０秒茹でザルにあげます。粗熱が取れたら水気を絞り、醤油とかつおぶしで和えて完成です"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1686492",
+    "advice": "白菜の白い茎の部分は固いので長い目に茹でます。",
+    "history": "味がつきにくい白菜にかつおぶしを入れることで味がしっかりつくようになります。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜のおかか和え",
+        "農家のレシピ 白菜",
+        "白菜 かつおぶし",
+        "白菜 おかか"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/1686492/100x141c/d8da8d9d79265d3fbcfa16f12df9a737.jpg?u=2513693&p=1327580592"
+}

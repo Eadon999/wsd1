@@ -1,0 +1,46 @@
+{
+    "name": "簡単！　半熟ゆで卵",
+    "author": {
+        "@type": "Person",
+        "name": "76chiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/2035345/464x260/3283a6f5b8d545c95e6eb885258eccf7.jpg?u=2321297&p=1355639444",
+    "datePublished": "2012-12-16",
+    "description": "綺麗な半熟玉子が簡単に！殻もするっとむけちゃいます♪",
+    "recipeYield": "必要な分",
+    "recipeIngredient": [
+        {
+            "name": "玉子（M）",
+            "quantity": "必要量"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉子は割れ防止のため、冷蔵庫から出して少し常温に戻してください。",
+        "玉子が十分隠れる位の水を鍋に入れ、塩も加えます。　火をつけて沸騰したら玉子をそ～っと投入。",
+        "沸騰しない程度に火を弱めて６分経ったら火を止める。＋余熱で１分放置。",
+        "持てる位まで玉子を水で冷やしたら、殻全体にヒビを入れ水の中で少し冷やしておきます。",
+        "後は簡単に殻がむけて、半熟ゆで卵の出来上がり～♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2035345",
+    "advice": "投入してから１分位は、玉子を動かしてやると黄身が白身の真ん中にきて綺麗に出来ます♪",
+    "history": "簡単に殻がむけて、失敗なしに半熟ゆで卵を作りたくて試行錯誤しました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/温泉たまご・味付たまご"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉子",
+        "塩"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/2035345/100x141c/d60d5186cdd65627b7078f89cc2f058d.jpg?u=2321297&p=1355639444"
+}

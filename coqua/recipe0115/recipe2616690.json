@@ -1,0 +1,59 @@
+{
+    "name": "オクラのおかかしらす和え",
+    "author": {
+        "@type": "Person",
+        "name": "シャア専用料理長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2616690/464x260/cd2b5d37e1c9ea30214a1251fe4f0fb7.jpg?u=9399727&p=1399372475",
+    "datePublished": "2014-05-06",
+    "description": "オクラの粘りはペクチンという水溶性食物繊維。美容と健康に美味しくオクラを食べましょう♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "5本"
+        },
+        {
+            "name": "しらす",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは塩ズリし、沸騰したお湯で1分半茹でて、細かく斜め輪切りにする。",
+        "オクラとしらす、かつお節、調味料全てをよく和える。",
+        "器に盛りつけて出来上がり。",
+        "マイミライさんより、野沢菜入りしらすバージョンのつくれぽ頂きました♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2616690",
+    "advice": "オクラは必ず塩ズリしてから茹でて下さい。",
+    "history": "オクラ好きの娘のために考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "しらす",
+        "かつお節",
+        "ごま油"
+    ],
+    "tsukurepo_count": "126",
+    "thumbnail": "https://img.cpcdn.com/recipes/2616690/100x141c/d02d3b53b9efbea143705d64cc3f1440.jpg?u=9399727&p=1399372475"
+}

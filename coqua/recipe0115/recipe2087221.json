@@ -1,0 +1,66 @@
+{
+    "name": "白菜とウィンナーのミルク煮",
+    "author": {
+        "@type": "Person",
+        "name": "tama-ma"
+    },
+    "image": "https://img.cpcdn.com/recipes/2087221/464x260/2cfdbcd3597cbbbc65dcccccbbd991ae.jpg?u=941483&p=1358604500",
+    "datePublished": "2013-01-18",
+    "description": "話題入り感謝♡簡単にできる副菜。子供の大好きなウィンナーと一緒に作れば野菜もよく食べる♪",
+    "recipeYield": "小さいおかず4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/8束"
+        },
+        {
+            "name": "ウィンナー",
+            "quantity": "3本程度"
+        },
+        {
+            "name": "キノコ（なくても可）",
+            "quantity": "あれば"
+        },
+        {
+            "name": "鶏だしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "100cc"
+        },
+        {
+            "name": "片栗粉＋水",
+            "quantity": "小さじ1＋30cc大まかでok"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "適当に切ったウィンナー、キノコを炒める\n水溶き片栗粉を用意しておく",
+        "白菜を入れて炒め途中鶏だしの素、酒を入れ炒め続ける。",
+        "白菜から水分がでて量も減ったら、弱めの中火にして牛乳を入れる。",
+        "片栗粉で手早くトロミをつけ塩コショウで味を整える"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2087221",
+    "advice": "牛乳をグツグツ煮立たせると分離するので、牛乳を入れてからは手早く仕上げます。以前はウィンナーは刻んでいなかったが、それだと子供がウィンナーだけ食べておしまいにしてしまうため細かく刻んで野菜と一緒に食べやすいようにしました",
+    "history": "実家でよく食べた味",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 ミルク煮",
+        "白菜 ウインナー ミルク煮",
+        "白菜 ウインナー"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2087221/100x141c/74954a4deb6751c96ab2b0afa0b58da7.jpg?u=941483&p=1358604500"
+}

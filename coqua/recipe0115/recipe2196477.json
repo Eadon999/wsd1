@@ -1,0 +1,49 @@
+{
+    "name": "我が家の定番＊水菜と揚げの味噌汁♬",
+    "author": {
+        "@type": "Person",
+        "name": "ねこのかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2196477/464x260/e44fe71ec11da5d33bf3104e9dc2bc09.jpg?u=4117562&p=1366350111",
+    "datePublished": "2013-04-19",
+    "description": "味噌汁の具の中で、お気に入りの組み合わせです＾＾揚げの旨味と水菜のシャキシャキ感が◎",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "40ｇ～45ｇ"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "450ml"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は2～3㎝にカットし、油揚げは短冊切りにする。\nだし汁を沸騰させ、水菜と油揚げを入れ、ひと煮立ちさせる。",
+        "味噌を溶いて加えれば出来上がり!!"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2196477",
+    "advice": "だし汁は、顆粒だしでも、いりこ、かつお節・・・なんでもOKです。ご自宅で普段作られてる味噌汁の具を水菜と揚げにするだけです。分量も目安なのでお好みで調節して下さいね＾＾",
+    "history": "ずーっと前から一番好きな組み合わせの味噌汁です♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "油揚げ",
+        "味噌",
+        "だし汁"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2196477/100x141c/18921cb20ea6adea1bcaedf480180450.jpg?u=4117562&p=1366350111"
+}

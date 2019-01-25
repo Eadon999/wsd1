@@ -1,0 +1,41 @@
+{
+    "name": "塩サバはフライパンで！",
+    "author": {
+        "@type": "Person",
+        "name": "☆笑くぼ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2752297/464x260/6ad844c2f3f1164b4409c60662b9d058.jpg?u=10265366&p=1409496650",
+    "datePublished": "2014-08-17",
+    "description": "手軽にフライパンで！クッキングシートをひいて、洗い物も楽チンです。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "塩サバ",
+            "quantity": "3切れ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにクッキングシートをひいて、しばらく焼いて魚の臭みの匂いがしてきたら、酒を振り入れる。",
+        "半身が焼けてきたら裏返して焼く。魚に火が通れば出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2752297",
+    "advice": "焼いている途中に魚の臭みの匂いがしてきたら、酒を入れるところ。すぐに匂いが消えます。",
+    "history": "魚が臭い。と、いつも父が言うので、どうしたら、臭くならないかを試行錯誤。意外とすぐできることにたどり着けたので、よかったです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩さば フライパン クッキングシート",
+        "サバフライパン",
+        "塩サバ フライパン",
+        "サバ フライパン クッキングシート"
+    ],
+    "tsukurepo_count": "156",
+    "thumbnail": "https://img.cpcdn.com/recipes/2752297/100x141c/582a4e65305a31f17796ea9dbec77e5d.jpg?u=10265366&p=1409496650"
+}

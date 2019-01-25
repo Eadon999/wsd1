@@ -1,0 +1,59 @@
+{
+    "name": "ฺ菜の花と鮭の春色炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/340159/464x260/14390194360ba9dbb598de294d1701a6.jpg?u=230354&p=1214214936",
+    "datePublished": "2007-03-06",
+    "description": "鮭のピンクと菜の花の緑色が春らしい、見た目も楽しいバター醤油風味の炊き込みご飯です。",
+    "recipeYield": "3合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "鮭切り身",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "菜の花",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "バター",
+            "quantity": "15g"
+        }
+    ],
+    "recipeInstructions": [
+        "米を洗ってざらにあげておく。鮭は塩少々をふる。菜の花は塩を入れた熱湯でさっと湯がいて、すぐに冷水にあげて水気を切り、適当な大きさに切っておく。",
+        "炊飯器に米、調味料、水を米の分量の線まで入れ、バターと鮭を乗せて炊く。",
+        "炊きあがったら、鮭をほぐし、菜の花を入れて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "340159",
+    "advice": "菜の花は湯がいたらすぐに冷水にあげることで、色鮮やかになります♪",
+    "history": "春を感じられる炊き込みご飯を食べたくて、旬の菜の花と、家にあった鮭で作ってみました♫",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）",
+        "その他/おもてなし料理/春！おもてなし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "鮭切り身",
+        "菜の花",
+        "調味料"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/340159/100x141c/56b89dda4dc86a1161e0353a74db9596.jpg?u=230354&p=1214214936"
+}

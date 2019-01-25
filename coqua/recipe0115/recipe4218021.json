@@ -1,0 +1,59 @@
+{
+    "name": "納豆とほうれん草のスタミナ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "クッキングしなもん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4218021/464x260/6ec53d46494c1bda561a0add0a25aa70.jpg?u=13556534&p=1480833724",
+    "datePublished": "2016-12-04",
+    "description": "2018/10/17クックパッドニュース掲載2017/1/17人気検索トップ10入りにんにくの風味がご飯によく合います。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "茹でたほうれん草",
+            "quantity": "５０g"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "１㎝"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１弱"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は食べやすい大きさに切る",
+        "フライパンにゴマ油を入れニンニク、ほうれん草を炒める",
+        "納豆、醤油、みりんを加え炒めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4218021",
+    "advice": "好みで白いりごまや、ネギ、一味唐辛子など加えても美味しく頂けます",
+    "history": "簡単に作れます。ご飯に良く合います。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 納豆 炒め",
+        "納豆炒め",
+        "ほうれん草 スタミナ炒め",
+        "納豆　人気"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4218021/100x141c/5f4a73015fc57f25bb3d444c0d5cdf3b.jpg?u=13556534&p=1480833724"
+}

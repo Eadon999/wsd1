@@ -1,0 +1,54 @@
+{
+    "name": "レタスとのりのさっぱりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "新潟県阿賀野市役所☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/3816864/464x260/4f30df7eeaf12455fedd0a4e1752c726.jpg?u=11529417&p=1466574598",
+    "datePublished": "2016-06-20",
+    "description": "朝食メニューに野菜を1品加えましょう。包丁も火も使わず簡単にできるメニューです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "100g"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "3ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスは手で小さくちぎり、塩をふってよくもみ、水分が出てきたら水で洗って絞る。",
+        "レタスに刻みのりを加えて混ぜ、調味料で和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3816864",
+    "advice": "刻みのりは半分混ぜて、半分は上にのせてもよいです。",
+    "history": "朝食に野菜料理が抜けがちなので、簡単に作れるメニューを考えました。阿賀野市では、6月～7月がレタスの収穫期です。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "朝食メニュー"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/3816864/100x141c/800df9dce57a8bb776972dbfeec5986b.jpg?u=11529417&p=1466574598"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "★とろ～り 長芋と豆腐のフワフワ焼き★",
+    "author": {
+        "@type": "Person",
+        "name": "裏チキン"
+    },
+    "image": "https://img.cpcdn.com/recipes/716218/464x260/41e81bda9c0c41ee80099c8f39ac81af.jpg?u=927499&p=1232265385",
+    "datePublished": "2009-01-18",
+    "description": "ヘルシーなのにボリュームいっぱい！たくさん食べても安心です♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "200ｇ（すりおろす）"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "鮭ほぐし身",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ2杯"
+        },
+        {
+            "name": "顆粒かつおだし",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "適量"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "すりおろした長芋に鮭、昆布茶、かつおだしを加えてよく混ぜておく。\r\n",
+        "食べやすい大きさに切り軽く水気を切ったお豆腐を長芋に加えて軽く混ぜる。\r\n",
+        "耐熱容器に移しとろけるチーズとパン粉をのせて180度のオーブンで15～20分焼く。\r\n",
+        "最後にパセリを散らして完成。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "716218",
+    "advice": "あまりお豆腐が潰れないように軽くかき混ぜます！",
+    "history": "グラタン風のお料理をヘルシーに♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "山芋 ふわふわ焼き"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/716218/100x141c/aba5d5e91a73908e464681ed5be4497f.jpg?u=927499&p=1232265385"
+}

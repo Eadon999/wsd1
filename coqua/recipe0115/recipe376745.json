@@ -1,0 +1,49 @@
+{
+    "name": "大葉おかか塩昆布おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ムー君"
+    },
+    "image": "https://img.cpcdn.com/recipes/376745/464x260/502addee95531a91d2096709282d3de5.jpg?u=384614&p=1214216132",
+    "datePublished": "2007-05-20",
+    "description": "おかかと塩昆布の風味に大葉の香りが絶妙のおにぎりです。",
+    "recipeYield": "２個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗１杯分"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "大葉",
+            "quantity": "２枚"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "大さじ１強"
+        }
+    ],
+    "recipeInstructions": [
+        "大葉は縦半分に切り、横に細く切る。ボール等に全ての材料を入れて混ぜる。",
+        "おにぎりにして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "376745",
+    "advice": "塩昆布の塩加減で足りない方は、塩少々を加えてください。",
+    "history": "塩昆布とおかかに香りの良い大葉をプラスしました。食べているときの大葉の香りがとってもおいしいです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごはん",
+        "塩昆布",
+        "大葉",
+        "かつお節"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/376745/100x141c/d3b23bbac0063cf4b00ed7b5f2c6fe3d.jpg?u=384614&p=1214216132"
+}

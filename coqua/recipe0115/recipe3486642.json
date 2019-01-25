@@ -1,0 +1,56 @@
+{
+    "name": "ころころ大根とツナの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "tokotann"
+    },
+    "image": "https://img.cpcdn.com/recipes/3486642/464x260/22b28c3d5b61585889679bd23ee8efea.jpg?u=7167639&p=1535466371",
+    "datePublished": "2015-11-11",
+    "description": "調味料はめんつゆだけ！小さく切った大根で煮込みも時短です☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "3㎝"
+        },
+        {
+            "name": "ツナ缶（70ｇ）",
+            "quantity": "1缶"
+        },
+        {
+            "name": "水",
+            "quantity": "空いたツナ缶１杯分"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "大根の葉（あれば)または青ネギ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "片栗粉大さじ1/2＋水大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮を剥き１㎝角のサイコロ状に切る。\n大根の葉があれば、サッと茹でて刻んでおく。\n",
+        "小さめの鍋に大根、ツナ缶(汁ごと)、水めんつゆを入れ弱めの中火で大根が軟らかくなるまで煮る。\n(コツ・ポイント参照）",
+        "大根が軟らかくなったら水溶き片栗粉を回し入れ、とろみがついたら出来上がりです。",
+        "器に盛り大根の葉、又は青ネギを散らして完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3486642",
+    "advice": "大根が軟らかくなる前に煮汁が無くなってきたら水を足して、めんつゆで味を調えて下さい。",
+    "history": "友人から頂いた大根の消費に常備品のツナ缶と一緒に煮てみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 ツナ 煮物 めんつゆ"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/3486642/100x141c/4626cadb8094b37ebf39c6271b6f676b.jpg?u=7167639&p=1535466371"
+}

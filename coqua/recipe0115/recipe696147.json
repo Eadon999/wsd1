@@ -1,0 +1,73 @@
+{
+    "name": "韓国風◇ピリ辛肉じゃが",
+    "author": {
+        "@type": "Person",
+        "name": "ペンギンとネズミ"
+    },
+    "image": "https://img.cpcdn.com/recipes/696147/464x260/76e24101c6069ddb3b15c7ddb2a940aa.jpg?u=976258&p=1472827351",
+    "datePublished": "2008-12-08",
+    "description": "【つくれぽ40人達成！】いつもの肉があっという間に韓国風になっちゃいます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "小3個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "2片"
+        },
+        {
+            "name": "豚肉（こま切れ、バラ等）",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "☆本だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆水",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "肉・玉ねぎ・にんにくを軽く炒める。",
+        "☆を加え、蓋をしてじゃがいもに火が通るまで煮る。",
+        "水分が少なくなってきたらコチュジャンを加え、火を止める少し前にごま油を加える。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "696147",
+    "advice": "コチュジャンは好みで量を加減してください。",
+    "history": "辛いものが好きで肉じゃがも辛くして食べようと思って作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "韓国風肉じゃが",
+        "肉じゃが ピリ辛"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/696147/100x141c/976b6210ae7b458f2acafeecef3acd19.jpg?u=976258&p=1472827351"
+}

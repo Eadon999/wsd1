@@ -1,0 +1,38 @@
+{
+    "name": "なめたけ入り卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "りゅう・しょうママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1579304/464x260/4be46b5f5e1ba8f340bd1554d9aac675.jpg?u=2931071&p=1346331721",
+    "datePublished": "2011-09-24",
+    "description": "味付け不要で、なめ茸の触感がおいしい卵焼きです。H24.8.30写真変更しました。2012.9.25　６個目の話題入り♡",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "なめ茸",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を溶いて、なめ茸を入れ、さらに混ぜる。",
+        "卵焼き器に、サラダ油（分量外）をしき、卵を焼く。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1579304",
+    "advice": "なめ茸が入ると、卵が柔らかくなって、少し巻きにくいかもしれません。濃い味が好きな人は、少し醤油を加えてもいいです。",
+    "history": "冷蔵庫になめ茸の使いかけの瓶があったので、卵焼きに入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめたけ 玉子焼き"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/1579304/100x141c/5db3560e637322c244ec235cc8de3921.jpg?u=2931071&p=1346331721"
+}

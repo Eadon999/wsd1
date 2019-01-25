@@ -1,0 +1,47 @@
+{
+    "name": "簡単！はまぐりのお吸い物(砂抜き～)",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3588103/464x260/3d908339fcfe8fa094dc3532c9ee001f.jpg?u=4376699&p=1450886734",
+    "datePublished": "2015-12-24",
+    "description": "昆布茶で簡単お吸い物（コツあり）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "はまぐり",
+            "quantity": "8個"
+        },
+        {
+            "name": "水",
+            "quantity": "500cc"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "砂抜きは必ずしましょう！一晩経つとこんなに汚れます。\nバットで水500ccに塩大さじ1を溶かし\n一晩暗い所に放置",
+        "貝を洗って小鍋に\n水200cc、酒大さじ1を加え強火\n沸騰したら蓋をして中火3分",
+        "ザルにキッチンペーパーを乗せ小鍋を開けて貝を取り濾した水は鍋に戻し調味料と水300ccを加えてアクを取りながらひと煮立て",
+        "器に貝を入れ出汁を掛けて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3588103",
+    "advice": "キッチンペーパーで濾して砂をとことん取ります",
+    "history": "はまぐりを初めて買ったのでお吸い物に挑戦",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/はまぐり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はまぐり お吸い物",
+        "蛤のお吸い物",
+        "はまぐり 砂抜き",
+        "はまぐり お吸い物 簡単"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/3588103/100x141c/c941ed1aa45633dc8f4e6b31ca6a8b56.jpg?u=4376699&p=1450886734"
+}

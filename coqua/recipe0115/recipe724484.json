@@ -1,0 +1,59 @@
+{
+    "name": "たれがおいしい♪カリカリ豚肉",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/724484/464x260/f15e0fd42be2d1621bc2bd93127f4bfe.jpg?u=746099&p=1371294041",
+    "datePublished": "2009-01-30",
+    "description": "2013.6.10.話題入りしました✿カリッと揚げた豚薄切り肉にたれをからめます。おいしくていくらでも食べられます！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "３００～４００ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "肉にまぶす量"
+        },
+        {
+            "name": "○しょうゆ・砂糖",
+            "quantity": "各大１．５"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大３"
+        },
+        {
+            "name": "○ラー油・ゴマ油",
+            "quantity": "各小１"
+        },
+        {
+            "name": "○白ねぎ（玉ねぎでも）",
+            "quantity": "みじん切り大１"
+        }
+    ],
+    "recipeInstructions": [
+        "○のたれの材料を子鍋に入れて煮立て、水どき片栗粉でとろみをつける。冷めたら白ねぎを入れる。",
+        "豚薄切り肉に片栗粉をまぶして、油でカリッと揚げる。",
+        "肉が熱いうちに、たれをかける。",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "724484",
+    "advice": "薄い肉のほうがカリッとおいしく揚がります。油へは重ならないように、広げるようにいれます。 ラー油は減量したり、なくても大丈夫です。",
+    "history": "何時から作っているか忘れるほど、おなじみの我が家の料理です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚薄切り肉",
+        "片栗粉",
+        "酢",
+        "白ねぎ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/724484/100x141c/d3cca58fc97956b2364e699e64ffd74c.jpg?u=746099&p=1371294041"
+}

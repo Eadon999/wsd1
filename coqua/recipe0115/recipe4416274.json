@@ -1,0 +1,48 @@
+{
+    "name": "目玉焼き。の、生姜焼き。",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4416274/464x260/4dffeaaf3618e68f6757fe7fdbc2e3cc.jpg?u=9664115&p=1489589461",
+    "datePublished": "2017-03-16",
+    "description": "目玉焼きです。目玉焼きですが、生姜焼きです。正直、こんなにおいしくなると思いませんでした。朝ごはんにも、どんなときも◎",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "☆醤油・お酒・みりん",
+            "quantity": "各大さじ1"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖・おろししょうが",
+            "quantity": "各小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにごま油をひき、\nよく熱し、\n卵を割り入れる。",
+        "☆を混ぜ合わせて、加える。",
+        "軽くとろみが出てくるまでグツグツしたら完成です。\nたっぷり野菜の上にどーんと。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4416274",
+    "advice": "ずっと中火で。黄身のかたさはお好みで。半熟がオススメです。丼にも出来ちゃうと思います。",
+    "history": "わたし、ただ焼かれるだけじゃもう嫌なの。って卵姉さんが。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しょうが焼き 目玉焼き",
+        "目玉焼きの生姜焼き"
+    ],
+    "tsukurepo_count": "73",
+    "thumbnail": "https://img.cpcdn.com/recipes/4416274/100x141c/d3e6a2fa6786b88a871965d147704d7c.jpg?u=9664115&p=1489589461"
+}

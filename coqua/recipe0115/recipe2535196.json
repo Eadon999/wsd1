@@ -1,0 +1,58 @@
+{
+    "name": "簡単☆減塩☆白菜のゴマ浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "ぷにぷにまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/2535196/464x260/b67da4a93fbe033045bfc65da5ee0ca8.jpg?u=3091034&p=1394486469",
+    "datePublished": "2014-03-10",
+    "description": "仕上がりに、すりゴマ＋風味づけに少しの醤油で減塩だけど美味しく出来ました♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "7枚くらい(300ｇ)"
+        },
+        {
+            "name": "※塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "※ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "※砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "数滴"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を２、３センチのざく切りにする。",
+        "ビニール袋に 、白菜、※の調味料を入れて全体にまわるように混ぜ空気を抜いて冷蔵庫で2.3時間おく。",
+        "袋から出し水分をきって、すりゴマ、風味づけに醤油を数滴たらして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2535196",
+    "advice": "すりゴマたっぷりにすると醤油も数滴で美味しくいただけます。",
+    "history": "市販の漬物は塩分が強いので、旬の白菜で自分で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 浅漬け ほんだし",
+        "漬物 減塩 白菜",
+        "塩白菜",
+        "浅漬け 減塩"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2535196/100x141c/75fbb82c52d95a0616716134725ea444.jpg?u=3091034&p=1394486469"
+}

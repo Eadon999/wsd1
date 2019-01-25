@@ -1,0 +1,60 @@
+{
+    "name": "水なし！肉じゃが。",
+    "author": {
+        "@type": "Person",
+        "name": "フェミ"
+    },
+    "image": "https://img.cpcdn.com/recipes/165606/464x260/08082cc7608b325c8c3f140c508b233d.jpg?u=39393&p=1244430535",
+    "datePublished": "2004-10-19",
+    "description": "水は一切加えません。この作り方に到達してからはこのレシピ一筋。※2007/7/27レシピ改正",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉薄切り",
+            "quantity": "適量"
+        },
+        {
+            "name": "じゃが芋",
+            "quantity": "中２～３個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "人参(彩りに)",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２半"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "ハチミツ",
+            "quantity": "大１半"
+        }
+    ],
+    "recipeInstructions": [
+        "材料は好みの大きさに切っておきます。玉ねぎは大きめ、人参は細かくがフェミ流。",
+        "テフロン加工の鍋にごま油を少量ひいて熱し、肉を炒めます。色が変わってきたら酒・しょうゆ・ハチミツの順で加えます。ブクブクしてきます。",
+        "野菜を一気に入れて肉と軽く絡ませきっちりフタをしてごく弱火で10分位。\r\nじゃがいもに火が通れば完成です◎"
+    ],
+    "cookTime": null,
+    "recipe_id": "165606",
+    "advice": "じゃがいもにまんべんなく味が染み込むようにちょこちょこ混ぜてやります◎",
+    "history": "cookpadでチラホラ水ナシで作る肉じゃがを見かけて、自分流にやってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも",
+        "肉じゃが"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "肉じゃが 水なし"
+    ],
+    "tsukurepo_count": "94",
+    "thumbnail": "https://img.cpcdn.com/recipes/165606/100x141c/b3f65c6bae99ab448d7d5b207c324094.jpg?u=39393&p=1244430535"
+}

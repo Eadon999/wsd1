@@ -1,0 +1,43 @@
+{
+    "name": "【農家のレシピ】長いものマヨネーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2142755/464x260/101d1a646394ed68aae2db1b2bcec201.jpg?u=2513693&p=1362476265",
+    "datePublished": "2013-03-06",
+    "description": "コクのある焦がしマヨネーズと長いもの相性抜群♪とっても簡単なのでぜひ一度お試しください～",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは5ミリの厚さに切り、アルミホイルか鉄板の上に置き塩コショウ、マヨネーズをかけ魚焼きグリルでこんがり焼き完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2142755",
+    "advice": "＊塩、マヨネーズは多い目のほうが美味しいです。　",
+    "history": "長いものハムの重ね焼きを作っていて、溶けたマヨネーズと長いもがとっても合っていたので、シンプルバージョンで作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長いも",
+        "塩、コショウ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2142755/100x141c/27ac347a05517a97a0b06e6d115483cb.jpg?u=2513693&p=1362476265"
+}

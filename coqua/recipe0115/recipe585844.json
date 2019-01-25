@@ -1,0 +1,59 @@
+{
+    "name": "美味し～い♪ホタテのマスタードフライ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/585844/464x260/4f98cf7fdf56961e8db3e37416bed313.jpg?u=239563&p=1214420321",
+    "datePublished": "2008-06-05",
+    "description": "帆立に粒マスタード風味の衣を付けてフライにしました。ビールにもワインにもピッタリ♪お弁当にもちょうどいいサイズです。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "帆立（刺身用）",
+            "quantity": "１５個"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★溶きたまご",
+            "quantity": "１個分"
+        },
+        {
+            "name": "★小麦粉",
+            "quantity": "大さじ　３"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ　３"
+        },
+        {
+            "name": "★粒マスタード",
+            "quantity": "大さじ　２"
+        },
+        {
+            "name": "パン粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ホタテは塩こしょうする。",
+        "①のホタテを★の材料をよく混ぜ合わせたもの⇒パン粉の順で衣をつける。",
+        "フライパンに２ｃｍくらいの深さの多めの油を熱し、②をカラッと揚げたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "585844",
+    "advice": "味がついているのでそのままで食べられます。（2008.12 　衣の付け方を簡単に変更しました）",
+    "history": "冷凍していた帆立があったのでひと工夫してフライにしたら、とても美味しかった♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/帆立"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホタテ フライ"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/585844/100x141c/eb8fabc71fa5afd3cb99b45abbf98677.jpg?u=239563&p=1214420321"
+}

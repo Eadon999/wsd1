@@ -1,0 +1,59 @@
+{
+    "name": "鯖の梅煮",
+    "author": {
+        "@type": "Person",
+        "name": "LeoRyu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1400403/464x260/fd8f02e0b80d71ad187e1902ccad4cfd.jpg?u=904676&p=1301721908",
+    "datePublished": "2011-04-18",
+    "description": "2012.5.5 話題入り★「青魚の王様」栄養満点の鯖に梅干しのクエン酸で疲労回復・抗酸化作用もプラス❤",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖（いわし・さんまでも）",
+            "quantity": "４切"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "３〜４個"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙３"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖は水洗いして味が染みやすいように切れ目をいれておく。",
+        "梅干しは手で種を取り出して崩しておく。（種は捨てないでね）",
+        "鍋に●の調味料と②の梅干しの身・種を加えて煮立たせる。",
+        "煮立ったら鯖を加えて再度煮立ったら1分程蓋をしないまま煮る。※ここポイント",
+        "1分程煮たら、蓋をして中火にし、途中数回煮汁をかけながら１０～１５分程煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1400403",
+    "advice": "鯖を加えたらすぐに蓋をしないでください。魚の臭みがこもってしまいます。",
+    "history": "実家の母がよく作ってくれた味を私なりに再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖の梅煮",
+        "さば 梅煮",
+        "サバ 梅"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/1400403/100x141c/7148043d4270158f61f477f99dad66fa.jpg?u=904676&p=1301721908"
+}

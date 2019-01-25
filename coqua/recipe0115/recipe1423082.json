@@ -1,0 +1,46 @@
+{
+    "name": "材料2つ♪にら豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "kururin18"
+    },
+    "image": "https://img.cpcdn.com/recipes/1423082/464x260/3bb38020cc41cc58e3ca1df00d67ed96.jpg?u=2859574&p=1333990195",
+    "datePublished": "2011-04-27",
+    "description": "簡単でシンプル お財布にも優しいおかず♪給料日目前のおかずにいかがですか？",
+    "recipeYield": "約3人分",
+    "recipeIngredient": [
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "にら",
+            "quantity": "1束"
+        },
+        {
+            "name": "塩・黒胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "木綿豆腐をしっかりと水切りしておきます。",
+        "にらは約3cmに切りそろえます。",
+        "フライパンにごま油をひき、やや強火の状態で豆腐をポロポロになるまで炒めます。",
+        "豆腐がポロポロになったらにらを入れさっと炒め、塩・黒胡椒で味付けします。",
+        "2012.4.16 おかげさまで話題入りすることができました。ありがとうございます♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1423082",
+    "advice": "豆腐はしっかり水切りすると炒め時間が短縮されます。塩・黒胡椒は少し多めにふっても大丈夫です。",
+    "history": "にらが安かったので…(^_^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "木綿豆腐",
+        "にら"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1423082/100x141c/4ae9995496ed4c2b3af95183ec71a84b.jpg?u=2859574&p=1333990195"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "キクラゲがポイント☆春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/268733/464x260/05ebe4dff345da76eecdc55fee685fa0.jpg?u=42283&p=1214213341",
+    "datePublished": "2006-07-22",
+    "description": "キクラゲの美味しい食べ方ってコレだったんだ！と閃いた春雨サラダです(^^)",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥キクラゲ",
+            "quantity": "大１強"
+        },
+        {
+            "name": "春雨",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "胡瓜",
+            "quantity": "２分の１本"
+        },
+        {
+            "name": "ロースハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大８程度お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "春雨は熱湯に３分浸してザル上げて冷ます。ハムは千切り。胡瓜も千切り。キクラゲは水にしばらく浸してから洗って適当に切る。",
+        "春雨が冷めたらすべての材料を混ぜる。",
+        "出来上がりです>^_^<"
+    ],
+    "cookTime": null,
+    "recipe_id": "268733",
+    "advice": "春雨の戻し時間にご注意下さいね(^○^)",
+    "history": "ごくごく普通の春雨サラダですが、キクラゲがとっても人気になるサラダです☆",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/きくらげ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春雨",
+        "胡瓜",
+        "ロースハム",
+        "塩"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/268733/100x141c/75e3322e06e3d5f7263edb709b366e6c.jpg?u=42283&p=1214213341"
+}

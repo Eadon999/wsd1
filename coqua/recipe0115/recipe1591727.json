@@ -1,0 +1,54 @@
+{
+    "name": "白菜の浅漬け",
+    "author": {
+        "@type": "Person",
+        "name": "おっしょさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1591727/464x260/2553972735e51bf4b7faa0c8800accac.jpg?u=542514&p=1317965595",
+    "datePublished": "2011-10-07",
+    "description": "半日あれば食べごろです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜1/4",
+            "quantity": "600ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜は外葉を捨て、洗う前に重さを計って塩の量を調節、多少の誤差ならＯＫです。",
+        "調味料をナイロン袋に入れ、白菜を洗い、お好みの大きさに切った物を入れます。",
+        "少ない調味液が行き渡るように袋向きを変えながらモミモミ冷蔵庫に３～５時間で水がたっぷりでます。",
+        "絞らずそのままで美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1591727",
+    "advice": "白菜を洗った水が切れてなく少々入っても大丈夫です。",
+    "history": "ほんだしは湯で溶くものだと思ってたけど、使いこなしで塩コショウのような使い方もありだと知りダシ昆布を切らせていた事で代用として使ったら美味しく便利だったので重宝している我が家の浅漬けです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 浅漬け ほんだし",
+        "白菜 浅漬け",
+        "白菜の漬け物 ほんだし"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1591727/100x141c/5c8f332143df58ca02c0073bf89ff9d3.jpg?u=542514&p=1317965595"
+}

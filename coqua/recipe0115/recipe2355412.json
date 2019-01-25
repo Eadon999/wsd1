@@ -1,0 +1,65 @@
+{
+    "name": "デリ風♪タマゴとキャベツのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "chiechocho"
+    },
+    "image": "https://img.cpcdn.com/recipes/2355412/464x260/2e1dde93ae757695bdb89514dbc5472a.jpg?u=5799181&p=1380081352",
+    "datePublished": "2013-09-25",
+    "description": "オシャレで簡単！キャベツがいっぱーい食べれる！粒マスタードが美味しい♪",
+    "recipeYield": "3人前くらい",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/8個"
+        },
+        {
+            "name": "タマゴ",
+            "quantity": "3個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "3枚くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "タマゴを水の張った鍋に入れ、固茹でになるまで茹でる。",
+        "キャベツ、ベーコンは食べやすい大きさに切る。\n※2cm幅程度",
+        "フライパンでベーコンに焼き目がつくまで炒める。",
+        "固茹でしたタマゴの殻を剥き、大きめに乱切りする。",
+        "全ての材料をボウルに入れて、和えれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2355412",
+    "advice": "2014.2.19話題入り☆皆様ありがとうございます！材料をザクザク切って、和えるだけ(o^^o)",
+    "history": "キャベツを生で食べたくて(>_<)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ 卵 サラダ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2355412/100x141c/3d9cf6f0b016c9203e2a60cedf20cb7d.jpg?u=5799181&p=1380081352"
+}

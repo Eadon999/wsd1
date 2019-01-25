@@ -1,0 +1,59 @@
+{
+    "name": "ナスのゴマ和え",
+    "author": {
+        "@type": "Person",
+        "name": "すいーとぴぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/628704/464x260/3afd76afeecd51200a5250a5e21bb084.jpg?u=859768&p=1234524099",
+    "datePublished": "2008-12-26",
+    "description": "油で炒めてから和えるのがポイント(*^^)vあと１品にぜひどうぞ。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "５本（４００ｇくらい）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●すり胡麻（黒でも白でも）",
+            "quantity": "大さじ５"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "※ナスは縦半分に切ってから大きめに斜め切り。 \r\n※●の調味料をボウルに合わせておく。",
+        "フライパンにサラダ油を強火で熱し、ナスを入れて１分炒める。",
+        "弱火にし、ナスがやわらかくなるまで炒める（４、５分くらい）",
+        "（１）のボウルに入れて和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "628704",
+    "advice": "※甘めの味付けにしたい場合は砂糖を大さじ２くらい入れてもいいと思います。 ※ナスが温かいうちに合わせ調味料と和えてください。 ",
+    "history": "ナスと胡麻も合うかな、と。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "サラダ油",
+        "すり胡麻",
+        "砂糖"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/628704/100x141c/4416dcf0b45e6877aa5258c3b7381699.jpg?u=859768&p=1234524099"
+}

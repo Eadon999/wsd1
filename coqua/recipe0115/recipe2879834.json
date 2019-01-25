@@ -1,0 +1,73 @@
+{
+    "name": "簡単！基本のカツ丼",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2879834/464x260/f9f9c7b2fb9e2172c404ecf706320465.jpg?u=4376699&p=1415717282",
+    "datePublished": "2014-11-12",
+    "description": "とんかつから作っちゃいましょう♪市販のとんかつでもＯＫ！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース肉",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉卵パン粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖(ラカント)",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "ほんだし(顆粒)",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        }
+    ],
+    "recipeInstructions": [
+        "肉の筋を切り塩胡椒して小麦粉をまぶし卵につけパン粉をまぶす\n160度の油で片面2分ずつ揚げる",
+        "24cmフライパンに玉葱の薄切りと調味料を入れ強火で２分程煮る",
+        "中火にして切ったとんかつを乗せ軽く溶いた卵を掛けて蓋をして30秒で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2879834",
+    "advice": "基本のとんかつ　ID:2834157卵の半熟具合はお好みで♪",
+    "history": "フライパンで二人分のカツ丼ができないか挑戦",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/カツ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カツ丼 基本",
+        "とんかつ 基本",
+        "カツ丼 市販"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/2879834/100x141c/6952f8216a61897ba826e761251dec1a.jpg?u=4376699&p=1415717282"
+}

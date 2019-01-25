@@ -1,0 +1,56 @@
+{
+    "name": "お家でタイ料理＊厚揚げのスイチリ和え",
+    "author": {
+        "@type": "Person",
+        "name": "nerachin"
+    },
+    "image": "https://img.cpcdn.com/recipes/1003193/464x260/1f79335714e5e09d1af50b97d00163f8.jpg?u=1598230&p=1262616454",
+    "datePublished": "2010-01-07",
+    "description": "タイ料理屋さんでよく付け合わせで出て来ますね！簡単に出来ちゃう一品！厚揚げorさつま揚げどちらでもお好きな方で。。。",
+    "recipeYield": "２人前",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１丁"
+        },
+        {
+            "name": "orさつま揚げ",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ピーナッツ",
+            "quantity": "大２"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大１"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーナッツは細かく砕いて置く。キュウリは3ｍｍ位の厚さのイチョウ切りにする。",
+        "厚揚げorさつま揚げをサラダ油をひいたフライパンで両面を軽く焼き、一口大に切る。",
+        "２の具をボウルに入れ、スイートチリソースとピーナッツを入れ、混ぜ合わせて皿に盛る。",
+        "私の行くタイ料理屋さんではさつま揚げが良く出て来ます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1003193",
+    "advice": "",
+    "history": "タイ料理屋さんで出てくるのを真似て。。。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "タイ料理 厚揚げ"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/1003193/100x141c/d0fa3c25e3a93e34df60246d49ec5cb3.jpg?u=1598230&p=1262616454"
+}

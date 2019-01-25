@@ -1,0 +1,61 @@
+{
+    "name": "【農家のレシピ】豆腐ときのこのみぞれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1633869/464x260/fc33f3b73da10ec7c57fba6b300d34e6.jpg?u=2513693&p=1321876864",
+    "datePublished": "2011-11-22",
+    "description": "大根おろしたっぷり、きのこたっぷりのトロトロの豆腐の煮物です。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "絹こし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "大根",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "きのこ（しめじ、しいたけ、えのきなど）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "水溶き片栗粉（片栗粉１：水１）",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "柚子コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "万能だし醤油（レシピID : 1236017 ）",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に【A】を入れ沸騰したら、大根おろし（汁も含む）とキノコを入れ中火で２分煮ます。",
+        "次に手で適当な大きさにちぎった豆腐を入れ5分煮て、水溶き片栗粉でとろみをつけたら完成です。柚子コショウを入れてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1633869",
+    "advice": "【Ａ】はしょうゆ・みりん各大さじ１．５＋だし汁１５０ｃｃでもＯＫです。",
+    "history": "大根がたくさんある時に、色んな具材を大根おろしと一緒に煮込んだりしています。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹こし豆腐",
+        "大根",
+        "きのこ",
+        "水溶き片栗粉"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1633869/100x141c/c3605cffe064be7c267d6ccd4c4a23d6.jpg?u=2513693&p=1321876864"
+}

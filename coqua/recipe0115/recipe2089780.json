@@ -1,0 +1,61 @@
+{
+    "name": "これぞ和食、ささみのしそチーズ巻き",
+    "author": {
+        "@type": "Person",
+        "name": "ミコおばちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2089780/464x260/d4109c5b1ecb9e69098d357c19a8bb57.jpg?u=2894472&p=1358693209",
+    "datePublished": "2013-01-20",
+    "description": "チーズがとけて、とても美味しい。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "しその葉",
+            "quantity": "6枚"
+        },
+        {
+            "name": "スライスチーズ(とろけるタイプ)",
+            "quantity": "1枚"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "油(炒め用)",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみを開きます。",
+        "1を伸ばし、しその葉、チーズをのせ、巻きます。\n巻き終わりに爪楊枝をさして止めます。",
+        "フライパンに油を入れ、2を並べます。",
+        "両面をゆっくりと、しっかりと焼きます。",
+        "仕上げに、砂糖、薄口醤油を入れて味をととのえます。",
+        "爪楊枝をはずし、切って、お皿に盛り付けます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2089780",
+    "advice": "甘辛く仕上げたささみのしそ巻きの中に、チーズを入れて、より一層美味しく仕上げました。",
+    "history": "シソの葉をたくさん使い、ささみで巻きたかったんです。チーズとの相性も抜群です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "しその葉",
+        "スライスチーズ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2089780/100x141c/313de8875da6aaea9ef99e1c5fb515da.jpg?u=2894472&p=1358693209"
+}

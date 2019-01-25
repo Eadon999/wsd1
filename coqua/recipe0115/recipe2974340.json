@@ -1,0 +1,64 @@
+{
+    "name": "白菜とみかん☆同時に救済☆マヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "キンキンちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2974340/464x260/3c77c0bd1e7bab19f44c592306fff510.jpg?u=411726&p=1421815906",
+    "datePublished": "2015-01-21",
+    "description": "食べきれずに余っているみかんありませんか？鍋の余りの白菜をプラスして、爽やかサラダを作りました～♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "150g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "みかん",
+            "quantity": "大１個"
+        },
+        {
+            "name": "＊マヨネーズ",
+            "quantity": "大１"
+        },
+        {
+            "name": "＊レモン汁",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "＊オリーブ油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "＊はちみつ",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を７～８mmに切る。",
+        "塩をまぶし混ぜ、１０分おく。\n",
+        "みかんを子房に分け、薄皮をむく。\n",
+        "２～３等分に切る。",
+        "白菜から出た水をギュッとしぼる。ボールに＊をあわせ、白菜とみかんをあえる。",
+        "（補足）\nみかんの薄皮が柔らかいときは薄皮むかなくてもいいですが、食感がよくなるので面倒ですがむくのがオススメです！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2974340",
+    "advice": "白菜から出た水はよくしぼってください^^",
+    "history": "戴きもののみかんが日々しなしなになっていくのを何とか救済しようとサラダにしました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 みかん サラダ",
+        "みかん鍋",
+        "みかん サラダ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2974340/100x141c/c6baf5c5fac38374738207ce77b3ed32.jpg?u=411726&p=1421815906"
+}

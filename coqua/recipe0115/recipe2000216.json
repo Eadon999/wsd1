@@ -1,0 +1,63 @@
+{
+    "name": "玉ねぎの煮びたし",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/2000216/464x260/0194353b6bcea64d756c45f4976add8c.jpg?u=533232&p=1350717218",
+    "datePublished": "2012-10-20",
+    "description": "お家にある材料で簡単ほっこり一品です2017.4.14クックパッドニュースに掲載していただきました♡感謝",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆水",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "☆白だし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆生姜のすりおろし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはスライスしておきます",
+        "鍋に☆の材料を入れて煮立たせます",
+        "2に1を入れて中火で5分ほど煮て、玉ねぎが柔らかくなったら火を止めます",
+        "お好みの器に盛り、最後に鰹節を振りかけてできあがりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "2000216",
+    "advice": "玉ねぎの硬さはお好みで御調整ください鰹節はたっぷりがおすすめです♪お好みで～",
+    "history": "ちょっとお野菜が食べたい・・時にお手軽なメニューです",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "水",
+        "白だし",
+        "生姜のすりおろし"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2000216/100x141c/4cbcc5db1b6d083926f057cde50498e5.jpg?u=533232&p=1350717218"
+}

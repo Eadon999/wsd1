@@ -1,0 +1,50 @@
+{
+    "name": "ししとうのさっぱり焼き浸し",
+    "author": {
+        "@type": "Person",
+        "name": "olivecook"
+    },
+    "image": "https://img.cpcdn.com/recipes/3328307/464x260/0fd934f97a02b98c5ab3caf9ae6d5722.jpg?u=9916351&p=1438487887",
+    "datePublished": "2015-08-02",
+    "description": "ししとうをグリルで焼いて漬けるだけ。酢を加えた漬け汁でさっぱり仕上げます。ししとうそのものもとても美味しく食べれます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ししとう（大）",
+            "quantity": "15本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "大きな長いししとうは種をとる。小さいものはそのままで。\nグリル強火で5分焼く。",
+        "焼いている間に、ジッフロックなどに醤油、砂糖、酢を入れ混ぜておく。\n",
+        "焼きあがったししとうを熱い内に②に入れ、30分上下を時々返しながら漬ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3328307",
+    "advice": "ししとうは少し焦げ目がつくように焼きます。熱い内に漬け汁に漬けて味をしっかり含ませます。",
+    "history": "契約野菜で届けられたししとうそのものを美味しくいただきたくて！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ししとう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししとう",
+        "醤油",
+        "砂糖",
+        "酢"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3328307/100x141c/882d59552ba8723aaafb6763270e882e.jpg?u=9916351&p=1438487887"
+}

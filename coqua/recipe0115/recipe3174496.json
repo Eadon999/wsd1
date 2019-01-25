@@ -1,0 +1,51 @@
+{
+    "name": "ささみのごまマヨ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "★HumuHumu★"
+    },
+    "image": "https://img.cpcdn.com/recipes/3174496/464x260/610e47e8a1dbf3bc92efbf18968e3b06.jpg?u=1948064&p=1431563731",
+    "datePublished": "2015-05-14",
+    "description": "簡単に栄養いっぱいのごまをたっぷり食べてください。香ばしい香りで食欲アップです！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "５本"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大2"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大2"
+        },
+        {
+            "name": "★小麦粉",
+            "quantity": "大1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "いっぱーい"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみを３、４当分にそぎぎりしておく。\n★を合わせて漬け込む。(30分以上はおいた方が良いと思います。)",
+        "ごまを両面にたっぷりつける。",
+        "多めの油でカリっとあげ焼き。両面良い色に焼ければ出来上がり"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "3174496",
+    "advice": "焼き中にいじりすぎるとごまが剥がれちゃうのでひっくり返すのは最小限に！ごま100％じゃなくパン粉と半々でも美味しいですよ！その方が扱いやすいです♪",
+    "history": "子供もばくばく食べてくれるレシピです！私のつまみにもぴったりー！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ ゴマ 焼き"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/3174496/100x141c/aa84450aab51e8f058003ffc71cb0a4d.jpg?u=1948064&p=1431563731"
+}

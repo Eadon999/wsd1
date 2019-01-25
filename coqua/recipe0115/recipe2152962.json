@@ -1,0 +1,51 @@
+{
+    "name": "☸我が家のじゃがいもの味噌汁☸",
+    "author": {
+        "@type": "Person",
+        "name": "＋まみ＋"
+    },
+    "image": "https://img.cpcdn.com/recipes/2152962/464x260/cde6797ff2782cb16719f324278d8430.jpg?u=4672105&p=1417220456",
+    "datePublished": "2013-03-14",
+    "description": "１３．０７．１７．話題入り感謝♪ほっこりじゃがいも入りのお味噌汁はいかがですか？",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "２個"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "大さじ１～"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "８００ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ２～"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは１ｃｍ幅の半月切りにする。",
+        "鍋にだし汁とじゃがいもを入れ、じゃがいもが柔らかくなるまで煮る。",
+        "乾燥わかめを入れ、味噌を溶く。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2152962",
+    "advice": "じゃがいもはほっくり柔らかいものが美味しいのですが、煮崩れに気を付けて下さい。",
+    "history": "じゃがいもがたくさんある季節に登場する我が家のお味噌汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "乾燥わかめ",
+        "だし汁",
+        "味噌"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/2152962/100x141c/a12913ce96766d908b974cb0ae0a68ff.jpg?u=4672105&p=1417220456"
+}

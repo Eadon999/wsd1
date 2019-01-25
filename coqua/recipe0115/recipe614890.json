@@ -1,0 +1,55 @@
+{
+    "name": "美味しい・簡単☆きゅうり",
+    "author": {
+        "@type": "Person",
+        "name": "もんタロス"
+    },
+    "image": "https://img.cpcdn.com/recipes/614890/464x260/45dea670c0152d4681b7f23c1a0692ea.jpg?u=756469&p=1216517043",
+    "datePublished": "2008-07-20",
+    "description": "[２００９．５．５．話題入り☆]材料も少なく、きゅうりさえあれば、簡単に作れます！我が家では、いつもコレ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "大２～３"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小１"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりは、塩で板ずりし、一口大に切っておく。",
+        "☆の材料をまぜる。\r\nあとは、きゅうりにぶっかければ完成です！！",
+        "あら、簡単っ♪",
+        "２００９年５月５日に話題入りしました☆ありがとぅございます(≧∇≦)ノ"
+    ],
+    "cookTime": null,
+    "recipe_id": "614890",
+    "advice": "コツも何も・・・、切って混ぜてかけて、完成です！誰でも出来ます。我が家では、タレもゴクゴク飲んじゃいます！",
+    "history": "疲れた体に、酢の物が欲しくなり、テキトーに作ったら美味かった～、それだけ！笑",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "酢",
+        "砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/614890/100x141c/0cf210b0c4b3c8823c3f37adecc0d3b1.jpg?u=756469&p=1216517043"
+}

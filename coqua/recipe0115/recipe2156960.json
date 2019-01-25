@@ -1,0 +1,55 @@
+{
+    "name": "ごぼうともやしの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2156960/464x260/4fdc17b7dc37e1038edcaf3fe02562ef.jpg?u=4328809&p=1363507446",
+    "datePublished": "2013-03-17",
+    "description": "❀話題入りレシピ❀ごぼう好きの人のために作ったお味噌汁。ごぼうともやしたっぷりで食べるお味噌汁です。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "１/３～１/２本"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１/３袋"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１/３丁（１００g）"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "だし入り味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうはピーラーでささがきにして酢水にさらしておく。",
+        "豆腐は食べやすい大きさに切る。",
+        "鍋によく水切りしたごぼうと水を入れ煮立てる。",
+        "アクを取り除き、もやしと豆腐を加えてひと煮する。",
+        "だし入り味噌を溶き入れて完成です。",
+        "2015.5.19\n話題入りしました♪有難うございます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "2156960",
+    "advice": "",
+    "history": "ごぼうが好きなのでお味噌汁の具に入れました。買っていたもやしと豆腐も加えて食べる味噌汁です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう味噌汁",
+        "ごぼう もやし 味噌汁"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2156960/100x141c/f7f1076f174daf79816b491f5cc7918f.jpg?u=4328809&p=1363507446"
+}

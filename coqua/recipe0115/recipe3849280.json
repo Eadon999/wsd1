@@ -1,0 +1,46 @@
+{
+    "name": "長芋の梅あえ",
+    "author": {
+        "@type": "Person",
+        "name": "楽ちん楽ちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3849280/464x260/d8446e634abe2332618588bbdea44b71.jpg?u=2091321&p=1462774350",
+    "datePublished": "2016-05-09",
+    "description": "長芋を梅肉とめんつゆで簡単に和えた1品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "中1本"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "5個"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大匙2"
+        }
+    ],
+    "recipeInstructions": [
+        "長芋は皮を剥き1㎝角に切る。",
+        "梅干しは種を除き包丁で叩き細かく切る",
+        "めんつゆは濃縮のまま2の梅肉を入れ良く混ぜます。",
+        "1に3をかけます。",
+        "よく絡ませます。",
+        "皿に盛り完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3849280",
+    "advice": "",
+    "history": "長芋の消費のため作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋の梅肉和え"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3849280/100x141c/fd04592203c0dbb6fd54e0d472d49d0d.jpg?u=2091321&p=1462774350"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "バジル＆ベーコンマヨパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "きっき30"
+    },
+    "image": "https://img.cpcdn.com/recipes/246795/464x260/faf7a74ebb15afeaf5ce1b0c83b69ef0.jpg?u=57584&p=1214212834",
+    "datePublished": "2006-04-02",
+    "description": "パスタをゆでて、ボールでソースと混ぜるだけっ！ちょぉ～簡単のパスタレシピ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "２人分"
+        },
+        {
+            "name": "バジル",
+            "quantity": "４０ｇくらい"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３～４"
+        },
+        {
+            "name": "ガーリック",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタをたっぷりのお湯に塩を入れ、ゆでる",
+        "ベーコンをカリカリに焼いておく",
+        "ボールに細かく刻んだバジル、オリーブオイル、マヨネーズ、ガーリック、醤油、塩コショウをいれて、よくまぜておく",
+        "茹で上がったパスタを③にいれ、よくソースをからませる",
+        "器に盛り付け、ベーコンをのせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "246795",
+    "advice": "ベーコンのかわりに、シーフードやシーチキンをのせてもおいしいです♪ ＊＊＊関連記事http://dsydney.exblog.jp/3093222/",
+    "history": "オリジナルです♪",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/冷製・アイデアパスタ/アイデアパスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "バジル",
+        "オリーブオイル",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/246795/100x141c/05a673a56704d0a0ea603980e44e983e.jpg?u=57584&p=1214212834"
+}

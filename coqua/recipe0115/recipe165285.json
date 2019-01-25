@@ -1,0 +1,76 @@
+{
+    "name": "大好評のおいなりさん",
+    "author": {
+        "@type": "Person",
+        "name": "saijun"
+    },
+    "image": "https://img.cpcdn.com/recipes/165285/464x260/3c7de4a16d15c6d0c4b39326e7060221.jpg?u=675&p=1214211307",
+    "datePublished": "2004-10-17",
+    "description": "我が家の定番で、とても評判の良かったおいなりさんです！ほど良く甘くて、しつこくないので、何個でもいけちゃいます！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "油揚げ",
+            "quantity": "3枚"
+        },
+        {
+            "name": "出し汁",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2 1/2"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "大さじ1　1/2"
+        },
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "★酢",
+            "quantity": "40ｃｃ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ1 1/2"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★味の素",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を混ぜておく。 \r\n炊き上がったご飯に手早く混ぜる。",
+        "油揚げを半分に切り、裂いて置き、たっぷりのお湯で３分ほど茹でて油抜きをする。水分はしっかり切る。\n\n",
+        "鍋に、出し汁、砂糖、しょう油、油揚げを入れて中火でゆっくり焦がさないように、汁がなくなるまで落し蓋をして煮る。",
+        "煮ている時に油揚げが折れないように気を付けてください。",
+        "2の油揚げに、酢飯をつめて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "165285",
+    "advice": "炊き上がったらスグに、合わせ酢をかけて、手早く混ぜる。",
+    "history": "母が良く作ってくれたおいなりさんです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/寿司/いなり寿司"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "油揚げ",
+        "出し汁",
+        "砂糖",
+        "しょう油"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/165285/100x141c/736c7161ebbab0c0a00bb862f7b0c68c.jpg?u=675&p=1214211307"
+}

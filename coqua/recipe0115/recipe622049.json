@@ -1,0 +1,152 @@
+{
+    "name": "アボカド、きゅうりとトマトのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "*茜*"
+    },
+    "image": "https://img.cpcdn.com/recipes/622049/464x260/0d9c2b37e0fdad8af4e181414dabe7e2.jpg?u=586175&p=1367946551",
+    "datePublished": "2008-08-02",
+    "description": "レモンドレッシングで爽快、且つ歯応えがあるサラダ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "100g"
+        },
+        {
+            "name": "トマト",
+            "quantity": "200g"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オリーブ油（エキストラバージンがお勧め）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ディジョンマスタード（普通のマスタード又は粒マスタードでも）",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩、黒胡椒",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは皮を剥き種を取り適当な大きさに切り、トマトはへたと種を取り適当な大きさに切り、きゅうりも適当な大きさに切る。",
+        "ボールにドレッシングの全ての材料を混ぜ合わせる。",
+        "切った野菜を加え、ドレッシングで和えて出来上がり♪",
+        "【Special Thanks】作って下さった皆様のお陰で、2009年7月14日に話題入りさせて頂きました♪",
+        "【Special Thanks】作って下さった皆様のお陰で、2012年8月7日に2回目の話題入りをさせていただきました♪",
+        "【Special Thanks】新着ピックアップで掲載して頂きました♪",
+        "【Special Thanks】カゴメさん企画『食卓にっこりトマトレシピ』のヘルシーレシピに掲載して頂きました♪",
+        "【Special Thanks】「おいしい健康」で紹介して頂きました。https://goo.gl/yu6Z2T\n",
+        "【Special Thanks】ぷのぷのさんがトルティーヤに包んで召し上がって下さいました。",
+        "【Special Thanks】よしよしよしよしさんがささみ竹輪入りで作って下さいました。",
+        "【Special Thanks】satokohimeさんが粒マスタードで作って下さいました。",
+        "【Special Thanks】ＪＵＡＮＮさんがブロッコリーで作って下さいました。",
+        "【Special Thanks】マッハママさんがマヨネーズと醤油入りで作って下さいました。",
+        "【Special Thanks】kbitchさんがきゅうりなしで作って下さいました。",
+        "【Special Thanks】MARCHE♪さんがトマトなしで作って下さいました。",
+        "【Special Thanks】★かよぴぃ★さんがバジルオイルで作って下さいました。",
+        "【Special Thanks】ちぃぞうさんがカッテージチーズ入りで作って下さいました。",
+        "【Special Thanks】miku姫さんがモッツァレラチーズ入りで作って下さいました。",
+        "【Special Thanks】ゆのきちままさんがシークヮーサーで作って下さいました。",
+        "【Special Thanks】ju_10さんがミニトマト＆人参入りで作って下さいました。",
+        "【Special Thanks】saya_ayaさんがアスパラガス入りで作って下さいました。",
+        "【Special Thanks】あっこ姉さんがイタリアンパセリ入りで作って下さいました。",
+        "【Special Thanks】ましゅまろcocoaさんがブルスケッタ風に作って下さいました。",
+        "【Special Thanks】まりりん３３さんがお豆入りで作って下さいました。",
+        "【Special Thanks】カヌレ３１４さんがモッツアレラ入りで作って下さいました。",
+        "【Special Thanks】Aina。さんがバルサミコ酢入りで作って下さいました。",
+        "【Special Thanks】オズのオズマ姫さんがセロリ入りで作って下さいました。",
+        "【Special Thanks】375U8さんがクラッカー入りで作って下さいました。",
+        "【Special Thanks】櫻音さんが亜麻仁油で作って下さいました。",
+        "【Special Thanks】saki1010さんがブロッコリーの芯入りで作って下さいました。",
+        "【Special Thanks】vabochanさんがミニトマトで作って下さいました。",
+        "【Special Thanks】かよっぴぃ0323さんが黄トマトで作って下さいました。",
+        "【Special Thanks】tacosaku♪さんがミニトマトで作って下さいました。",
+        "【Special Thanks】cuteapronさんがライムで作って下さいました。",
+        "【Special Thanks】cafe-cafeさんがサーモンで作って下さいました。",
+        "【Special Thanks】Ｃｈｉｓａ−Ｒｉｎさんがクリチ入りで作って下さいました。",
+        "【Special Thanks】paliさんが香菜入りで作って下さいました。",
+        "【Special Thanks】トクライさんがお刺身用のサーモン入りで作って下さいました。",
+        "【Special Thanks】usaco3さんがハム入りで作って下さいました。",
+        "【Special Thanks】虹色の花☆さんがお豆腐入りで作って下さいました。",
+        "【Special Thanks】かるぴん♪さんが炒り卵入りで作って下さいました。",
+        "【Special Thanks】武志☆純子さんがレタスで作って下さいました。",
+        "【Special Thanks】鈴ピヨさんがミニトマトで作って下さいました。",
+        "【Special Thanks】ｎｓｌｉｆｅさんがライム＆チーズをのせて作って下さいました。",
+        "【Special Thanks】★きさら★さんがチェダーチーズで作って下さいました。",
+        "【Special Thanks】KIKISUKEさんが水菜の上にのせて作って下さいました。",
+        "【Special Thanks】ppuaさんがブロッコリー入りで作って下さいました。",
+        "【Special Thanks】sakuya0312さんがサーモン入りで作って下さいました。",
+        "【Special Thanks】ERIXERIさんがホワイトアスパラ入りで作って下さいました。",
+        "【Special Thanks】hiroｰka☆さんが玉葱＆粒マスタード入りで作って下さいました。",
+        "【Special Thanks】ばじままさんがディル入りで作って下さいました。",
+        "【Special Thanks】coyote8jpさんがコーン入りで作って下さいました。",
+        "【Special Thanks】NancyOtakeさんがサーモン入りで作って下さいました。",
+        "【Special Thanks】♡さとみくす♡さんがレモン多目＆モンスターチーズで作って下さいました。",
+        "【Special Thanks】athenaeumさんがクリチ入りで作って下さいました。",
+        "【Special Thanks】usaco3さんがオリーブ＆モッツァレラ入りで作って下さいました。",
+        "【Special Thanks】OYSNさんがポン酢で作って下さいました。",
+        "【Special Thanks】りぃちんさんが辛し増しお豆入りで作って下さいました。",
+        "【Special Thanks】吹田のちえこさんがコーン入りで作って下さいました。",
+        "【Special Thanks】ケリーママ★さんがはっさく入りで作って下さいました。",
+        "【Special Thanks】うさぎのシーマさんが香菜入りで作って下さいました。",
+        "【Special Thanks】akochan910さんがツナ＆紫玉葱入りで作って下さいました。",
+        "【Special Thanks】shanlongさんがブロッコリー＆チーズ入りで作って下さいました。",
+        "【Special Thanks】athenaeumさんがチーズ入りで作って下さいました。",
+        "【Special Thanks】ｺﾙﾃﾞｨﾛｯｸｽさんが辛子で作って下さいました。",
+        "【Special Thanks】ふなここさんが粒マスタードで作って下さいました。",
+        "【Special Thanks】なーやん☆さんが韓国海苔を添えて作って下さいました。",
+        "【Special Thanks】hs☆さんがミニトマトで作って下さいました。",
+        "【Special Thanks】☆ちゃんりな☆さんが竹輪入りで作って下さいました。",
+        "【Special Thanks】sakura96さんがライムで作って下さいました。",
+        "【Special Thanks】ＣＯＣＯＬＯＶＥさんがモッツァレラ＆クレソル入りで作って下さいました。",
+        "【Special Thanks】とーみママさんが柚子入りで作って下さいました。",
+        "【Special Thanks】emityuさんが海老入りで作って下さいました。",
+        "【Special Thanks】みるっきーよーこさんが生ハム入りで作って下さいました。",
+        "【Special Thanks】\n＊れいぴん＊さんがアスパラガス入りで作って下さいました。",
+        "【Special Thanks】音瀬☆さんが粒マスタード入りで作って下さいました。",
+        "【Special Thanks】クックXBGKDK☆さんがバジル入りで作って下さいました。",
+        "【Special Thanks】こ茄子さんが粒マスタード入りで作って下さいました。",
+        "【Special Thanks】いさ王さんがきゅうりを微塵切りで作って下さいました。",
+        "【Special Thanks】ＣＯＣＯＬＯＶＥさんがタコ＆チーズ入りで作って下さいました。",
+        "【Special Thanks】ミルクガラスさんが粒マスタードで作って下さいました。",
+        "【Special Thanks】\n＊ななほし＊さんがハム入りで作って下さいました。",
+        "【Special Thanks】RuNa0v0さんがサーモン入りで作って下さいました。",
+        "【Special Thanks】ようちゃん0801さんがきゅうりの代用で大豆入りで作って下さいました。",
+        "【Special Thanks】ＣＯＣＯＬＯＶＥさんがモッツァレラチーズ入りで作って下さいました。",
+        "【Special Thanks】つっちいはんさんがブロッコリー＆卵入りで作って下さいました。",
+        "【Special Thank】ＭK❤︎さんがタコで作って下さいました。",
+        "【Special Thanks】まいうぅさんがサーモン入りで作って下さいました。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "622049",
+    "advice": "*野菜を切って、和えるだけなので簡単です。",
+    "history": "爽やか、且つ歯応えがあるサラダが食べたくて、作ってみました♪*トップの画像差し替え＆レシピの見直し(2010年10月8日）。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": [
+        "アボカド 3位",
+        "きゅうり 5位",
+        "アボカドサラダ 2位",
+        "トマトサラダ 3位"
+    ],
+    "related_keywords": [
+        "アボカド トマト",
+        "アボカド",
+        "アボカド サラダ",
+        "アボカド トマト サラダ"
+    ],
+    "tsukurepo_count": "689",
+    "thumbnail": "https://img.cpcdn.com/recipes/622049/100x141c/ad5107bdc558934a530ca071a5c90c10.jpg?u=586175&p=1367946551"
+}

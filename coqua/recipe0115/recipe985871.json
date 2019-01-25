@@ -1,0 +1,65 @@
+{
+    "name": "大根と里芋の煮物☆",
+    "author": {
+        "@type": "Person",
+        "name": "ゆりmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/985871/464x260/d4a0eb7dc99623736cc68ad4e788d497.jpg?u=856112&p=1260276818",
+    "datePublished": "2009-12-08",
+    "description": "簡単煮物です♪大根と里芋だけ下ごしらえしてあとは煮るだけです！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "里芋",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "三温糖",
+            "quantity": "大さじ１・1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "本みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水orだし汁",
+            "quantity": "カップ１"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁がなければ水でもいい。",
+        "大根は輪切りにして1/2に切って鍋に入れ、かぶる程度の水を入れて火にかける。（沸騰して５～６分茹でる）",
+        "里芋は皮を剥いて1/2に切って鍋に入れ、かぶる程度の水を入れて火にかける。（沸騰して５～６分茹でる）",
+        "鍋に大根・里芋・人参・あげ・調味料（本みりん以外全て）を入れて火にかける。煮汁が少なくなったら本みりんを入れる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "985871",
+    "advice": "特にありません（笑）油揚げがいい仕事してくれますから♪",
+    "history": "大根が美味しくなるこの時期　何度となく登場する我が家の定番料理のひとつです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さといも 大根 煮物",
+        "大根里芋"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/985871/100x141c/264ae0228a6482703483b62e187d9abb.jpg?u=856112&p=1260276818"
+}

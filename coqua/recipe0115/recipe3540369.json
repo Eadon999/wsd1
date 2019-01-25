@@ -1,0 +1,59 @@
+{
+    "name": "簡単☆サーモンフライ",
+    "author": {
+        "@type": "Person",
+        "name": "カルピネット"
+    },
+    "image": "https://img.cpcdn.com/recipes/3540369/464x260/a226f4ce18e4f678335219adfd9c8ab6.jpg?u=1690437&p=1448580517",
+    "datePublished": "2015-11-27",
+    "description": "2016・3・14話題入りに感謝♪バッター液を使って簡単に揚げ焼き♪",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "鮭・サーモン(切り身)",
+            "quantity": "2枚"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "パン粉(衣用)",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ焼き用油",
+            "quantity": "100㏄程度"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭は食べやすく半分に切る（面倒ならそのままでOK)\n塩胡椒する。",
+        "バッター液を作る。\n（同量の小麦粉と水を混ぜる）",
+        "鮭にバッター液をつけてパン粉をまぶす。\nフライパンに油を入れ弱めの中火で両面しっかり揚げ焼きにする。\n"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "3540369",
+    "advice": "面倒でなければ180℃の油であげてもOK。少量の油でも揚げ焼きできます。",
+    "history": "鮭のフライが食べたくて",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サーモンフライ",
+        "サーモンフライ フライパン",
+        "サーモン",
+        "サーモンフライ 簡単"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/3540369/100x141c/461386bf58f9989f62dfed5751744190.jpg?u=1690437&p=1448580517"
+}

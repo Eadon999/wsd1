@@ -1,0 +1,58 @@
+{
+    "name": "懐かしい給食の味♡キャベツとハムのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぽっぽっぽ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1636979/464x260/6dde130b7da21c475bf674385405f697.jpg?u=3155632&p=1322219275",
+    "datePublished": "2011-11-25",
+    "description": "美味しかった給食の味を再現したくて。。。チーズが決め手のマヨネーズ味のサラダ♪期待通りの味になりました～♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "コーン",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆ハム",
+            "quantity": "2枚"
+        },
+        {
+            "name": "☆ベビーチーズ",
+            "quantity": "1個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツはラップに包んで2分前後加熱する。荒熱が取れたら小さめの細切りにして水気を絞っておく。☆は食べやすく小さく切る。",
+        "1と残りの材料を全てボールに入れ、混ぜ合わせる。",
+        "お皿に盛ったら出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1636979",
+    "advice": "",
+    "history": "懐かしい給食の味を再現したくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チーズ サラダ 給食",
+        "キャベツ ハム サラダ 給食",
+        "給食",
+        "キャベツ 給食"
+    ],
+    "tsukurepo_count": "145",
+    "thumbnail": "https://img.cpcdn.com/recipes/1636979/100x141c/ddb8d5ed1d5386f432f0d1fd7f5d51cc.jpg?u=3155632&p=1322219275"
+}

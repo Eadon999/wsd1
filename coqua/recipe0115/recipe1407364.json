@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】菜の花とエノキの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1407364/464x260/0a3a4a8933f10c0e8f169336205a630b.jpg?u=2513693&p=1302359715",
+    "datePublished": "2011-04-12",
+    "description": "菜の花の苦さを、卵でまろやかにして、美味しい出汁で煮込みました。優しい味の春の煮物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "菜の花",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "エノキ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "万能だし醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "エノキは石づきをとって半分に切り、菜の花は塩１つまみを入れた沸騰したお湯で1分茹で冷水でさまし半分に切っておきます。",
+        "【A】を沸騰させ中火でエノキを1分煮込みます",
+        "次に水けを絞った菜の花を入れ2分煮ます。",
+        "最後に卵をまわしかけ、火を止めフタをして3分蒸らして出来上がりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1407364",
+    "advice": "＊万能だし醤油の代用として　【A】を指定の倍率で薄めた「めんつゆ」１８０ｃｃでもOKです。",
+    "history": "美味しい出汁で菜の花を煮て、まろやかにするために卵でとじました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "菜の花 卵とじ",
+        "なばなの卵とじ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1407364/100x141c/fbcc83b5b04d53f8d6ef8f0ac3d2d0ea.jpg?u=2513693&p=1302359715"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "✿ハムとキャベツのさっぱりサラダ✿",
+    "author": {
+        "@type": "Person",
+        "name": "リナリオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/246073/464x260/04b5fe0bae934c59daa1d95752e8f7e2.jpg?u=226453&p=1412386685",
+    "datePublished": "2006-03-28",
+    "description": "とっても簡単に出来ちゃうサッパリした浅づけ感覚のサラダです。キャベツいっぱい食べれちゃいますよ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "４～５枚"
+        },
+        {
+            "name": "酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大２"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを食べやすい大きさに切って塩をふって強めにもむ。ハムは細切りにする。",
+        "酢、サラダ油、塩、こしょうを混ぜ合わせておきます。",
+        "キャベツがしんなりしたら水気を十分きって、ハム、キャベツを２に入れよく混ぜ合わせる。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "246073",
+    "advice": "キャベツはしっかり水気をきって下さい。水気が残っていると水っぽく味がぼやけます。少し時間を置いた方が味が馴染んで美味しいです",
+    "history": "簡単に出来るキャベツのサラダが食べたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ハム",
+        "キャベツ ハム サラダ",
+        "キャベツ サラダ",
+        "キャベツ さっぱり"
+    ],
+    "tsukurepo_count": "587",
+    "thumbnail": "https://img.cpcdn.com/recipes/246073/100x141c/4ca9bb354000e3dc356f5644f4427f6f.jpg?u=226453&p=1412386685"
+}

@@ -1,0 +1,55 @@
+{
+    "name": "タレが美味い！にんにくしょうが焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "いないいないだあ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1705838/464x260/406f1188c8253fabf8ed4c1388efe6a8.jpg?u=2555616&p=1329220735",
+    "datePublished": "2012-02-14",
+    "description": "好評の豚丼のタレを使って、定番の生姜焼きをさらに美味しく！たっぷり野菜と一緒にどうぞ❤",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉生姜焼き用or鶏肉",
+            "quantity": "300g"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油、砂糖",
+            "quantity": "各大さじ３"
+        },
+        {
+            "name": "酒、みりん",
+            "quantity": "各大さじ１"
+        },
+        {
+            "name": "しょうが、にんにく",
+            "quantity": "ひとかけずつ"
+        }
+    ],
+    "recipeInstructions": [
+        "タレの材料を合わせておく（しょうがとにんにくはすりおろす）。",
+        "豚肉は筋を切り、小麦粉をまぶす。",
+        "フライパンに油を熱し、豚肉を焼く。両面焼き色をつけたらタレを入れて絡める。",
+        "鶏肉で作っても美味しいです♪\nももでも胸でも。そぎ切りにして豚と同様に作る",
+        "レシピID.1696473\nの豚丼もおすすめ♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1705838",
+    "advice": "豚コマで作ったり、玉ねぎ等を一緒に炒めても良い。豆腐で作るのも美味しいです→ ブログ「いないいないだあのかんたんレシピ」　http://ameblo.jp/inaiinaidaa-kitchen/entry-11164377326.html",
+    "history": "レシピID.1696473の豚丼のタレが美味しく出来たので、生姜焼きにも応用しました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚の生姜焼き"
+    ],
+    "rankings": [
+        "生姜焼きタレ 10位"
+    ],
+    "related_keywords": [
+        "小麦粉"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1705838/100x141c/aa4f4a0aa3cdd787b7e43b36df620534.jpg?u=2555616&p=1329220735"
+}

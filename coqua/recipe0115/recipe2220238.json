@@ -1,0 +1,60 @@
+{
+    "name": "【農家のレシピ】ぶりと長いもの照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2220238/464x260/78bd4a423abeba6395eee78c68af3bfd.jpg?u=2513693&p=1368339192",
+    "datePublished": "2013-05-13",
+    "description": "小麦粉をつけて焼いて、たれを絡めるだけ。とっても簡単ぶりと長いもの照り焼きです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶりの切り身",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "長いも（1センチの輪切り）",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2分の１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒、みりん",
+            "quantity": "各小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりと長芋に小麦粉をまぶし余分な粉を落としておく",
+        "フライパンにサラダ油を熱し、①を中火で裏面がこんがりするまで焼き裏返しふたをして中まで火を通す（3分程度です）",
+        "【A】を入れ全体に絡めて完成。",
+        "照り焼きのたれがあれば【A】を照り焼きのたれ大さじ２程度で作ってくださいね。\nレシピID : 1378663"
+    ],
+    "cookTime": null,
+    "recipe_id": "2220238",
+    "advice": "ぶりは大きさによって焼き時間が変わりますが、火を通しすぎるとカスカスになるので気をつけてくださいね。長いもは中まで火が通らなくてもOK。表面さっくり、中はしゃきしゃきしている方が美味しいです。",
+    "history": "魚の煮物や焼き物を作るときに色んな野菜も一緒に焼いたり、煮たりしています。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり 長芋"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2220238/100x141c/41b78a2aee85d774f8bff2450095c824.jpg?u=2513693&p=1368339192"
+}

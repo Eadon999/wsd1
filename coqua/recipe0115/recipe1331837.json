@@ -1,0 +1,58 @@
+{
+    "name": "たっぷり白菜のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "うさぎのりゅう"
+    },
+    "image": "https://img.cpcdn.com/recipes/1331837/464x260/8031831bcf45a32f9228b1267ac786a1.jpg?u=2774257&p=1295271460",
+    "datePublished": "2011-01-17",
+    "description": "白菜の自然の甘さが楽しめるシンプルコンソメスープです。離乳食にもどうぞ。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "白菜",
+            "quantity": "3〜4枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "2個"
+        },
+        {
+            "name": "水",
+            "quantity": "600cc"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜と玉ねぎを千切りにし、鍋にバターを入れて炒める。この段階では野菜の量が多すぎるくらいでOK",
+        "白菜と玉ねぎが透明になってかさが減ったら水を加え、沸騰したらコンソメを入れてさらに5分煮込む。",
+        "塩こしょうで味を整えたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1331837",
+    "advice": "ウィンナーやお肉を入れるとさらに美味しく食べられます。",
+    "history": "白菜がたくさんあったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "白菜",
+        "バター",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1331837/100x141c/04eddc90e9139010b14ab2032c524dfb.jpg?u=2774257&p=1295271460"
+}

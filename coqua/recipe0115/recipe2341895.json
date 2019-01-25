@@ -1,0 +1,52 @@
+{
+    "name": "★小松菜と納豆のめんつゆナムル。",
+    "author": {
+        "@type": "Person",
+        "name": "★いも★"
+    },
+    "image": "https://img.cpcdn.com/recipes/2341895/464x260/4389c796d4920c488907c8b32533c1d5.jpg?u=5679832&p=1378911120",
+    "datePublished": "2013-09-12",
+    "description": "美肌効果抜群で美味しく栄養もある小松菜と納豆のナムル。めんつゆでざっくり混ぜるだけで美味しい韓国風ナムル完成！！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束（160g）"
+        },
+        {
+            "name": "納豆",
+            "quantity": "1パック（45g）"
+        },
+        {
+            "name": "小ねぎ（みじんきり）",
+            "quantity": "少々"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "粉唐辛子・ごま・ごま油",
+            "quantity": "各少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はお湯で軽く茹でる。",
+        "１の小松菜を流水で洗い、水気を絞って、長さ3～5センチに切る。",
+        "小松菜に納豆とめんつゆ、小ねぎ、粉唐辛子、ごま、ごま油を加えて混ぜると出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2341895",
+    "advice": "小松菜は歯ごたえが残るように短時間で茹でる。",
+    "history": "初めて買っためんつゆで、マンネリ化した小松菜ナムルをさっぱり味に仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆 小松菜"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/2341895/100x141c/1bae9e6670c7e947ec61800d6fe6150d.jpg?u=5679832&p=1378911120"
+}

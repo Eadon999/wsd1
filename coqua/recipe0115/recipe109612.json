@@ -1,0 +1,60 @@
+{
+    "name": "超簡単中華風タマゴおじや",
+    "author": {
+        "@type": "Person",
+        "name": "ayaka"
+    },
+    "image": "https://img.cpcdn.com/recipes/109612/464x260/ccb997e40ff916d755f625c90a066da6.jpg?u=31091&p=1214210253",
+    "datePublished": "2003-09-30",
+    "description": "中華味の雑炊。手っ取り早くお腹を満たしたいときに、家にある物で作ってみました。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "水",
+            "quantity": "１と１／２～２カップ"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少し"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れ沸かします。",
+        "お湯が沸いたら鶏ガラスープの素を入れ、ご飯を入れます。",
+        "少しご飯に味がしみてきたら卵を割り入れてごま油をたらし、好みで塩、コショウします。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "109612",
+    "advice": "もしあれば、万能ネギを散らすと美味しいです。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/雑炊・おじや"
+    ],
+    "rankings": [
+        "おじや 10位"
+    ],
+    "related_keywords": [
+        "おじや",
+        "中華風 おじや",
+        "おじや 簡単",
+        "おじや 卵"
+    ],
+    "tsukurepo_count": "185",
+    "thumbnail": "https://img.cpcdn.com/recipes/109612/100x141c/90fe41164211cac7269a7af88e1bdb75.jpg?u=31091&p=1214210253"
+}

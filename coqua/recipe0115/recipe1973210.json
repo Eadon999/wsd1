@@ -1,0 +1,45 @@
+{
+    "name": "トースターで焼き魚☆鯖☆鮭",
+    "author": {
+        "@type": "Person",
+        "name": "あいちゃんちょき"
+    },
+    "image": "https://img.cpcdn.com/recipes/1973210/464x260/f6442615d79b3f6c935c5767951fad38.jpg?u=2577203&p=1348988900",
+    "datePublished": "2012-09-30",
+    "description": "グリル掃除が面倒でトースターで鯖焼いちゃいました。簡単で洗い物なしが嬉しい☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鯖",
+            "quantity": "2匹"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "大根おろし",
+            "quantity": "お好み"
+        }
+    ],
+    "recipeInstructions": [
+        "トースターの鉄の皿に銀紙を綺麗に敷く。",
+        "鯖をのっけて、塩ふって１５分入れておく。",
+        "１５分後出来上がったら器にもって大根おろしをかけて食べる。",
+        "丸めてポイっと！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1973210",
+    "advice": "銀紙を綺麗に敷いておかないと意味がないです。汁が出るので、ふちまで巻いてね。塩鯖でも何でも！鮭でも大丈夫。切り身ならいけます。",
+    "history": "グリル掃除が面倒でも魚が食べたくて",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オーブントースター 焼き魚",
+        "さば トースター"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/1973210/100x141c/0ed90e57104db569d06e0bafae0bedc1.jpg?u=2577203&p=1348988900"
+}

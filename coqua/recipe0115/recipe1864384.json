@@ -1,0 +1,52 @@
+{
+    "name": "小松菜のおかかマヨ醤油",
+    "author": {
+        "@type": "Person",
+        "name": "ぷくっとぷくまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/1864384/464x260/a57962632dd8e7db548e9302bc8c40b5.jpg?u=2717390&p=1340746794",
+    "datePublished": "2012-06-27",
+    "description": "♡話題入り感謝♡子供に敬遠されがちな小松菜のおひたしにマヨを加えて少しコクを出しました。鰹節たっぷりでいただきます♬　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１わ"
+        },
+        {
+            "name": "※しょうゆ",
+            "quantity": "小さじ１～２"
+        },
+        {
+            "name": "※マヨネーズ",
+            "quantity": "小さじ1/2～１"
+        },
+        {
+            "name": "※鰹節",
+            "quantity": "２つかみ"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は茹でて（orレンチン）水にさらし、水気をしぼり、数センチに切ります。",
+        "ボウルに、小松菜としょうゆとマヨネーズを入れて混ぜます。",
+        "最後に鰹節を入れてまた混ぜます。",
+        "✿姉妹品✿\n「おくらのマヨおかか醤油」\n\nID :1521616 "
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1864384",
+    "advice": "鰹節をたっぷり使うことで水っぽさも抑えられます♬",
+    "history": "MYレシピの「おくらのマヨおかか醤油♪」ID :1521616を参考にしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜",
+        "その他/お弁当/色別おかず/緑系のおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "しょうゆ",
+        "マヨネーズ",
+        "鰹節"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/1864384/100x141c/d102af559c14d59f80f6b345e325de0f.jpg?u=2717390&p=1340746794"
+}

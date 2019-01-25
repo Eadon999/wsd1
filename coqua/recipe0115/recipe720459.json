@@ -1,0 +1,54 @@
+{
+    "name": "居酒屋ご用達☆カブの中華風サラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Superlittleboo"
+    },
+    "image": "https://img.cpcdn.com/recipes/720459/464x260/c425b88e27910a8343413743e90c61e8.jpg?u=400195&p=1518852359",
+    "datePublished": "2009-01-25",
+    "description": "材料3つの万能ドレッシング。カブに掛けてみたら、相性バッチリ☆　これで、グビグビ飲んじゃって下さい～。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "2-3ヶ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "★すし酢",
+            "quantity": "大1"
+        },
+        {
+            "name": "★胡麻油",
+            "quantity": "大1"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カブを1-2mmの半月切りに切る。\r\nカブの葉の茎も微塵切りにする。",
+        "★の材料を混ぜ合わせる",
+        "1.の上から掛けて、和える。上からカツ節をかけ、カブの葉の茎も彩りに掛け、出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "720459",
+    "advice": "これ以上、簡単にならないというくらい手間要らず。でもメチャメチャ美味しい♪",
+    "history": "この材料3つのドレッシング、まさに万能です。よく大根サラダに作りますが、カブにかけてみたらめちゃんこ美味でした～。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ サラダ",
+        "かぶ 中華サラダ",
+        "かぶ",
+        "居酒屋メニュー"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/720459/100x141c/7f26d7c7056c1b43d96ec9e4ff4ad224.jpg?u=400195&p=1518852359"
+}

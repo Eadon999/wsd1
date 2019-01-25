@@ -1,0 +1,52 @@
+{
+    "name": "椎茸と大葉の豚肉巻き",
+    "author": {
+        "@type": "Person",
+        "name": "xxSeenaxx"
+    },
+    "image": "https://img.cpcdn.com/recipes/2630559/464x260/df4a306c03a0bcde1aaf117206f5c7a3.jpg?u=5542877&p=1400240491",
+    "datePublished": "2014-05-16",
+    "description": "たった3つの食材を焼いちゃえば出来上がります。面倒な下味もなし。★話題のレシピになりました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "椎茸（肉厚め）",
+            "quantity": "6個"
+        },
+        {
+            "name": "大葉（大きめ）",
+            "quantity": "6枚"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "6枚"
+        },
+        {
+            "name": "サラダ油(炒め用)",
+            "quantity": "少量"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸は食べやすい大きさに切る。\n小ぶりの場合はそのままで使ってください。\n大葉も同様。",
+        "豚バラ肉に大葉、しいたけを乗せてクルクルと巻いてください。",
+        "熱したフライパンに\nサラダ油を入れ\n2を入れ、中火の弱火\n蓋をして蒸らしながら焼いていきます。",
+        "全体に火が通ったら皿に盛り、ポン酢をかけたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2630559",
+    "advice": "焼いて、蒸らして水分を逃してしまうと椎茸に弾力なくなるのでそこだけ気をつければ簡単にできます。",
+    "history": "会話の中で「肉厚のしいたけは美味しいよね」という話になり、次の日に作ったオカズです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "椎茸 肉巻き"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2630559/100x141c/265b336aaef4747775c39df9ea76449a.jpg?u=5542877&p=1400240491"
+}

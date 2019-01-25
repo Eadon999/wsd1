@@ -1,0 +1,63 @@
+{
+    "name": "じゃがいもの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ayakazuママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2267855/464x260/b691e127c1f44384e2bec658bbcd9f66.jpg?u=6798481&p=1374235498",
+    "datePublished": "2013-06-25",
+    "description": "じゃがいもだけのシンプルな煮物",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "6～7個"
+        },
+        {
+            "name": "酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "きび砂糖",
+            "quantity": "大1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1と1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大1"
+        },
+        {
+            "name": "顆粒だし",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮をむくき4～6等分に切る。(小さな芋ならそのままの大きさで)",
+        "鍋にサラダ油を入れてじゃがいもを炒める",
+        "じゃがいもがツヤツヤしてきたら水500ccとだしを入れ煮る",
+        "やわらかくなったら、砂糖、酒を入れて5分ほど煮てみりん醤油を入れて煮汁が少なくなるぐらいまで煮る"
+    ],
+    "cookTime": null,
+    "recipe_id": "2267855",
+    "advice": "",
+    "history": "じゃがいもがたくさんあって(買いすぎてしまったので…)(^^;)訂正酒の分量が抜けてました。すみません",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "酒",
+        "きび砂糖",
+        "醤油"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2267855/100x141c/0acbedef5ddc1652d4b7dbde398050e5.jpg?u=6798481&p=1374235498"
+}

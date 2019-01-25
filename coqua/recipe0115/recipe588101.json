@@ -1,0 +1,62 @@
+{
+    "name": "厚揚げのみぞれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/588101/464x260/438e88cf9dd3dd3bcd1febcbe4b0473d.jpg?u=230354&p=1214420324",
+    "datePublished": "2008-06-15",
+    "description": "あっさり優しい味です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "大根",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "万能ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは、熱湯をかけて油抜きをし、食べやすい大きさに切る。大根は皮をむいてすりおろし、軽く水気を切る。",
+        "鍋にだし汁・砂糖・みりんを入れ、ひと煮立ちしたら、厚揚げを入れて5分煮る。",
+        "醤油を加えて、さらに10～15分ほど煮る。最後に、大根おろしを加えてひと煮立ちさせたら火を止める。器に盛り、小口切りにした万能ネギをかけて出来上がり♪お好みで一味をかけても。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "588101",
+    "advice": "ザラメがあれば、ザラメを使うとコクが出て美味しい♪",
+    "history": "もう1品さっと出来てあっさりなものを、と思って作って以来、子供達のお気に入り。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ みぞれ煮",
+        "みぞれ煮",
+        "厚揚げ",
+        "厚揚げ 大根おろし煮"
+    ],
+    "tsukurepo_count": "532",
+    "thumbnail": "https://img.cpcdn.com/recipes/588101/100x141c/61952d8ece96d6fd5430734f772561d7.jpg?u=230354&p=1214420324"
+}

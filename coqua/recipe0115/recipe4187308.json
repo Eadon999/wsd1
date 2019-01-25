@@ -1,0 +1,53 @@
+{
+    "name": "大根と小松菜のお味噌汁♪",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/4187308/464x260/5edde66fb654c50f7a3167b7450e8867.jpg?u=3540419&p=1479373550",
+    "datePublished": "2016-11-17",
+    "description": "簡単!すぐにできちゃうお味噌汁♡温まります(^-^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "3㎝"
+        },
+        {
+            "name": "小松菜の葉",
+            "quantity": "3本"
+        },
+        {
+            "name": "和風だしの素",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "水",
+            "quantity": "300ml"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は5mm厚さのいちょう切りに、小松菜は3㎝長さに切る",
+        "鍋に大根と小松菜、水、だしの素を入れて中火にかける",
+        "煮立ったら火を弱め、大根に火が通るまで3～4分間煮る。味噌を溶き入れ、ひと煮立ちしたら火を止める"
+    ],
+    "cookTime": null,
+    "recipe_id": "4187308",
+    "advice": "小松菜はアクがないので下茹でなしで使えます。味噌の量はお好みでかげんしてください。",
+    "history": "夕ご飯に、冷蔵庫にあった大根と小松菜で作りました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 小松菜 味噌汁",
+        "小松菜 みそ汁"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/4187308/100x141c/78248f7555e2697dc08eec03728cb3f7.jpg?u=3540419&p=1479373550"
+}

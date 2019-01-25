@@ -1,0 +1,75 @@
+{
+    "name": "秘伝のタレで☆牛肉の野菜巻き☆",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://assets.cpcdn.com/assets/blank_logo_kondate_spweb.png?526f439370e478b31e726b068432f4959417f5f91990e208c4601d3358842f77",
+    "datePublished": "2005-01-10",
+    "description": "野菜をタップリと巻いて、タレで焼いたおかずです☆",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉薄切り",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "大根",
+            "quantity": "１０ｃｍ程度"
+        },
+        {
+            "name": "赤パプリカ",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "黄パプリカ",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "１個"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大３"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "○ごま油",
+            "quantity": "大２"
+        },
+        {
+            "name": "○おろしニンニク",
+            "quantity": "２片分"
+        },
+        {
+            "name": "○おろし生姜",
+            "quantity": "１片分"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜を千切りにする。牛肉で綺麗に巻く。",
+        "○のタレをよ～く混ぜておく。",
+        "肉を焼きつつ、肉の色が変わったらタレをかけて更に火を通す。"
+    ],
+    "cookTime": null,
+    "recipe_id": "177131",
+    "advice": "簡単です☆",
+    "history": "簡単でお野菜たっぷり食べられるレシピを考えて作りました>^_^<",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 野菜巻き"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://assets.cpcdn.com/assets/blank_logo_recipe.png?ca0f825673a3906055fa88696811deee08ec55ec50b3e08161f4e35baeedf358"
+}

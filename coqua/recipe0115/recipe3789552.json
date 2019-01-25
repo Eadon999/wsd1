@@ -1,0 +1,60 @@
+{
+    "name": "簡単！キャベツだけ回鍋肉",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3789552/464x260/a2cea418ee3913cb95dc629452a20b2d.jpg?u=4376699&p=1459863157",
+    "datePublished": "2016-04-06",
+    "description": "たっぷりキャベツ300gを回鍋肉ソースで♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "300g"
+        },
+        {
+            "name": "甜麺醤",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを小さく切りレンジ600w3分チン\n油少々でキャベツを軽く炒め調味料を加えて炒めて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "3789552",
+    "advice": "辛いのが苦手な方は豆板醤を半分に肉を加えても美味しいです",
+    "history": "キャベツだけで中華炒めにしようとして回鍋肉ソースで炒めてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "甜麺醤",
+        "豆板醤",
+        "減塩醤油"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3789552/100x141c/e7401ce9703bbf3c03d37363311b7385.jpg?u=4376699&p=1459863157"
+}

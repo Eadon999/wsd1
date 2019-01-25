@@ -1,0 +1,51 @@
+{
+    "name": "さつま芋のレモン煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3483004/464x260/335ef4bdc5737d96a50e20f3a7a6ed43.jpg?u=9552524&p=1446011557",
+    "datePublished": "2015-11-02",
+    "description": "簡単！すぐにできます(^^)甘酸っぱくて優しい味です♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋（中１本）",
+            "quantity": "２００g"
+        },
+        {
+            "name": "☆水",
+            "quantity": "１８０ｃｃ"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆レモン（半月スライス）",
+            "quantity": "２～３枚"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま芋はよく洗って皮ごと１㎝厚さの輪切りにし水にさらす。",
+        "①の水気を切って☆と共に鍋に入れ火にかけます。",
+        "沸騰したら落とし蓋をして弱火にし約１０分煮ます。そのまま冷まして味を含ませます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3483004",
+    "advice": "さつま芋は火が均等に通り、仕上がりがきれいになるように細長いものを選んでね(^^)",
+    "history": "さつま芋をたくさん頂きました(^^)箸休めや　おうちカフェの付け合わせに♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま芋",
+        "水",
+        "砂糖",
+        "レモン"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3483004/100x141c/489fb00b84d15802cf1aebbd9e271f16.jpg?u=9552524&p=1446011557"
+}

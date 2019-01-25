@@ -1,0 +1,58 @@
+{
+    "name": "もやしときゅうりのごま胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "ひれまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1100194/464x260/66edc4f35e8aa4ff98bd36fc17c612ba.jpg?u=1727762&p=1271326357",
+    "datePublished": "2010-04-15",
+    "description": "もやしときゅうりがシャキシャキ！ごま油の風味で食欲アップ♪でも、ヘルシー＾＾",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１／３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１／２"
+        },
+        {
+            "name": "白いり胡麻",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを洗って、耐熱容器に入れ、レンジ（600Ｗ）で３分加熱。加熱後、水気をぎゅっと絞っておく。",
+        "きゅうりは2等分してスライス、線切りにして１と合わせる。",
+        "２に醤油・砂糖・ごま油・いり胡麻を合わせたものを加えて混ぜ合わせたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1100194",
+    "advice": "簡単です＾＾レンジ加熱後のもやしから結構水分が出るので水切りはしっかりした方が良いとおもいます。",
+    "history": "家計お助けもやしを沢山食べよう！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "きゅうり",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1100194/100x141c/880f18053bffafb2dc3af786b0f77411.jpg?u=1727762&p=1271326357"
+}

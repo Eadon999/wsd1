@@ -1,0 +1,74 @@
+{
+    "name": "絶対美味しい☆チョレギサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ふみもり"
+    },
+    "image": "https://img.cpcdn.com/recipes/2151415/464x260/c4022ea9cdb44acd56cc30cc2d4e4ee4.jpg?u=599575&p=1363092361",
+    "datePublished": "2013-03-12",
+    "description": "家族全員、教えた友達全員が必ず美味しいと言ってくれるサラダです！2017年２月、つくれぽ100人達成しました。",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "サニーレタス",
+            "quantity": "適量"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ１／４"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆白すりごま",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆お湯",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "韓国海苔",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サニーレタスは食べやすい大きさにちぎって水にさらしてザルにあげ、水気を切っておく。豆腐も軽く水切りしておく",
+        "☆のドレッシングの材料を全部混ぜておく",
+        "お皿にサニーレタスを乗せ、その上に水切りした豆腐を乗せ、韓国海苔をちぎってのせる。上からドレッシングをかけて出来上がり",
+        "サニーレタスの他に、水菜やスプラウトを乗せても美味しいです"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2151415",
+    "advice": "",
+    "history": "豆腐のサラダが食べたくて",
+    "categories": [
+        "今日のご飯・おかず/サラダ/豆腐のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絶対美味しい サラダ",
+        "チョレギサラダ",
+        "サニーレタス チョレギサラダ"
+    ],
+    "tsukurepo_count": "146",
+    "thumbnail": "https://img.cpcdn.com/recipes/2151415/100x141c/4400a3933b23473a07e8072cc3882cb6.jpg?u=599575&p=1363092361"
+}

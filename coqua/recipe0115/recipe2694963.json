@@ -1,0 +1,70 @@
+{
+    "name": "トマトときゅうりの胡麻サラダ。大葉のせ。",
+    "author": {
+        "@type": "Person",
+        "name": "♪bird♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2694963/464x260/4f6fd0df3fdd90d45d013499d230d11b.jpg?u=544783&p=1404304486",
+    "datePublished": "2014-07-02",
+    "description": "簡単で彩りも綺麗なサラダ！和風の献立の時の副菜にぴったりですね(^—^)",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト（くし切り）",
+            "quantity": "2個"
+        },
+        {
+            "name": "きゅうり（斜め切り）",
+            "quantity": "2本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙２"
+        },
+        {
+            "name": "酢",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大匙３"
+        },
+        {
+            "name": "大葉（又は海苔）",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにドレッシングの材料を全て入れ混ぜる。トマトときゅうりを入れて混ぜる。器に盛り、大葉を乗せる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2694963",
+    "advice": "切って混ぜる。以上。",
+    "history": "トマトが冷蔵庫に余ってて、キュウリが1本29円で安く売っていました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "きゅうり",
+        "ごま油",
+        "酢"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/2694963/100x141c/f6abb25c3af3e31b134b96ce882720bc.jpg?u=544783&p=1404304486"
+}

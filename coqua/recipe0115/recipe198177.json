@@ -1,0 +1,38 @@
+{
+    "name": "グリンピースを茹でる（基本）",
+    "author": {
+        "@type": "Person",
+        "name": "樹"
+    },
+    "image": "https://img.cpcdn.com/recipes/198177/464x260/6dcf5d1c94b2e1a3c5eb75fb9586fcf3.jpg?u=17529&p=1214211896",
+    "datePublished": "2005-05-19",
+    "description": "しわがよらずにふっくら茹で上がりました",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "サヤつきグリンピース",
+            "quantity": "20本"
+        }
+    ],
+    "recipeInstructions": [
+        "サヤつきグリンピース、鹿児島産です",
+        "サヤから豆を出す",
+        "鍋にひたひたの水、一つまみの塩を入れる",
+        "落とし蓋をして、強火で沸騰したら中火で２分茹でる",
+        "蓋をしてあら熱が取れるまで置く",
+        "水をきって、新しい水ですすぐ。ふっくら甘いグリンピース。"
+    ],
+    "cookTime": null,
+    "recipe_id": "198177",
+    "advice": "塩の味を付けたいときは塩を多めに入れる。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/グリーンピース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さやつきグリンピース"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/198177/100x141c/6ae3a7bf246f1575916e861bffd189eb.jpg?u=17529&p=1214211896"
+}

@@ -1,0 +1,56 @@
+{
+    "name": "風邪ひきさんへ★長ねぎの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "たぷぐち"
+    },
+    "image": "https://img.cpcdn.com/recipes/489344/464x260/c9cee07db516aab966480462984bae7f.jpg?u=480103&p=1348656645",
+    "datePublished": "2008-01-16",
+    "description": "長ねぎの甘みがおいしい簡単卵とじです（＾＾）",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "長ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "1パック（3g）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小1"
+        },
+        {
+            "name": "和風だしの素（顆粒）",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長ねぎは5mmの斜め薄切りにしておく。卵は割り溶いておく。",
+        "フライパンにごま油を熱して【1】の長ねぎを入れ炒める。長ねぎがしんなりしたら，かつおぶしを2/3パック，しょうゆと和風だしの素を入れ混ぜ【1】の卵を入れとじる。",
+        "【2】を器に盛ったら残しておいたかつおぶしを乗せて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "489344",
+    "advice": "長ねぎはじっくり炒めると甘みが増します。薄味レシピなのでお好みでしょうゆを加えて下さい。",
+    "history": "長ねぎしかなかったときに作って以来作ってます。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長ネギ",
+        "ねぎ 卵とじ"
+    ],
+    "tsukurepo_count": "244",
+    "thumbnail": "https://img.cpcdn.com/recipes/489344/100x141c/fdfd85711cf6be3c605a8204a40f280c.jpg?u=480103&p=1348656645"
+}

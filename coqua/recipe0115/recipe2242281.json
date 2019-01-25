@@ -1,0 +1,62 @@
+{
+    "name": "わかめスープ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2242281/464x260/f59e0beb0603dbe855d598ae3d480fc4.jpg?u=4819316&p=1376121660",
+    "datePublished": "2013-06-01",
+    "description": "13/12/27話題入りしました、しょうががポイント、ぴりっときていい感じで汗もかきます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "炒りごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とわかめと鶏がらスープの素、ごま油、しょうゆを入れて沸騰させる",
+        "器にしょうがをすりおろし、そこに１を入れてごまを振る"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2242281",
+    "advice": "しょうがが美味しいです、生をすりおろすのが良いのですが、チューブのしょうがでも構いません",
+    "history": "しょうがのぴりっとくるスープが欲しくて作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥わかめ",
+        "しょうが",
+        "水",
+        "鶏がらスープの素"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/2242281/100x141c/5f60d4e3069c385515e37db0141d078d.jpg?u=4819316&p=1376121660"
+}

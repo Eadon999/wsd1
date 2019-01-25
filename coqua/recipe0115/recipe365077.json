@@ -1,0 +1,51 @@
+{
+    "name": "おかかごまおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "かほひめ"
+    },
+    "image": "https://img.cpcdn.com/recipes/365077/464x260/b8536d7155eacfb3f5d2880b103c33db.jpg?u=326654&p=1214215473",
+    "datePublished": "2007-04-25",
+    "description": "白いおにぎりもいいけれど、色つきご飯も捨てがたい。混ぜて握るだけの簡単おにぎり。’07.8.18　話題入りしました。作ってくださった皆さん、ありがとうございました♪",
+    "recipeYield": "１個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "１個分"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "のり",
+            "quantity": "１枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにかつおぶしとごまを入れ、しょうゆも加えてよく混ぜます。",
+        "そこに熱いご飯を加えて混ぜて、にぎります。",
+        "のりをまいて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "365077",
+    "advice": "コツもないほど簡単です。しらすを混ぜても美味しいですよ。",
+    "history": "おにぎりを握る際、いちいち塩をつけるのが面倒で具を全部ご飯に混ぜてしまいました。ごまをたっぷり入れると風味もアップします。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "色つきごはん"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/365077/100x141c/d17d086869739a42e814da7af2ff62af.jpg?u=326654&p=1214215473"
+}

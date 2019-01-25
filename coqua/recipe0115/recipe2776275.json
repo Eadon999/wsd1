@@ -1,0 +1,52 @@
+{
+    "name": "もやしと油あげのお味噌汁✿",
+    "author": {
+        "@type": "Person",
+        "name": "ayamammy"
+    },
+    "image": "https://img.cpcdn.com/recipes/2776275/464x260/e894c769ebb8bf8ecd273d3afff7babc.jpg?u=3540419&p=1409365465",
+    "datePublished": "2014-08-30",
+    "description": "ササッとできるお味噌汁です",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/4袋"
+        },
+        {
+            "name": "油あげ",
+            "quantity": "1/2枚"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ4"
+        }
+    ],
+    "recipeInstructions": [
+        "油あげは細切りに、ネギは小口切りにする",
+        "もやし、油あげ、細ネギとだし汁を鍋に入れて4～5分煮る",
+        "味噌を溶き入れてできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2776275",
+    "advice": "火が通りやすいものばかりですぐにできて簡単です！だしは顆粒だしでOKです。味噌の量はお好みでかげんしてください。",
+    "history": "夕食に作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし 味噌汁 油揚げ",
+        "モヤシ みそ汁"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2776275/100x141c/a774d2a3c5058000d1ca1873cbe3b1b7.jpg?u=3540419&p=1409365465"
+}

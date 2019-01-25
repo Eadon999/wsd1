@@ -1,0 +1,63 @@
+{
+    "name": "小松菜とじゃこのさっと煮",
+    "author": {
+        "@type": "Person",
+        "name": "ぽぷらまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/497122/464x260/8564707ed12e9933be431c5fde94549c.jpg?u=621957&p=1214218509",
+    "datePublished": "2008-01-29",
+    "description": "ささっと簡単においしく出来上がります♪２００８年５月１７日話題入りさせていただきました＾＾ありがとうございます",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "一袋"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "顆粒ダシの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ＣＣ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は洗って５センチぐらいの長さに切る。\r\nちくわは輪切り。",
+        "おなべに薄くごま油をしき、小松菜のくきを入れて炒める",
+        "しんなりしたら、小松菜の葉、ちくわ、\r\nじゃこを加えて炒める",
+        "水をいれ、ダシ、めんつゆをいれ、ふたをして２～３分煮る"
+    ],
+    "cookTime": null,
+    "recipe_id": "497122",
+    "advice": "ちくわでなく、油揚げも◎　　しあげにゴマをふってもおいしいです。今日は忘れた！めんつゆの量はお好みで調節してください。",
+    "history": "広島の知り合いに、「音戸のちりめん」をたくさんいただいたので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ちりめんじゃこ",
+        "ちくわ",
+        "顆粒ダシの素"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/497122/100x141c/4d85f67d05cd344f1db5b36354bfb40a.jpg?u=621957&p=1214218509"
+}

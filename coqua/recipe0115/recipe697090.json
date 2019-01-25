@@ -1,0 +1,46 @@
+{
+    "name": "チヂミのタレ",
+    "author": {
+        "@type": "Person",
+        "name": "rosenkranz"
+    },
+    "image": "https://img.cpcdn.com/recipes/697090/464x260/7142c76de7621bb358fbf57b191c41eb.jpg?u=225908&p=1228854394",
+    "datePublished": "2008-12-10",
+    "description": "激ウマです。2010.7.29話題のレシピ入りしました☆　感謝♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "材料全てを混ぜて完成。",
+        "れぽ感謝♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "697090",
+    "advice": "お好みで、ラー油や、すりゴマも合うと思います。",
+    "history": "チヂミのタレがなかったので、市販の冷凍チヂミについていたものを真似て作ってみました((φ(-ω-｀*)ﾒﾓﾒﾓ",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チヂミのたれ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/697090/100x141c/9268650d76088129c2deb82e57819d36.jpg?u=225908&p=1228854394"
+}

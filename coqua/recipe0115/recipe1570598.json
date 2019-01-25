@@ -1,0 +1,61 @@
+{
+    "name": "うちのさつまいもサラダ★",
+    "author": {
+        "@type": "Person",
+        "name": "えみまふぃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1570598/464x260/3c985cc0a0d78be8806e79ba01e8b609.jpg?u=2121622&p=1315980695",
+    "datePublished": "2011-09-14",
+    "description": "甘いさつまいもにピッタリのカレー風味♡お弁当に入れたりパンに挟んでもよく合うお気に入りの味付けです♬",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "中1個"
+        },
+        {
+            "name": "レーズン（あれば）",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "★ヨーグルト",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "★エクストラバージンオリーブオイル",
+            "quantity": "大1"
+        },
+        {
+            "name": "★カレー粉",
+            "quantity": "小1/4〜"
+        },
+        {
+            "name": "★塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもの皮を剥く\n\n角切りにしたら耐熱容器に入れレンジでチンする\n（約4〜5分）",
+        "1のさつまいもと★をボールで和える\n\nお好みでレーズンを加えたら出来上がり♪\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1570598",
+    "advice": "＊さつまいものブランドや甘さで味付けは毎回多少調整します＊ヨーグルトがなければマヨネーズは多めで＊レーズンがあれば入れるとアクセントに♪（入れないでも美味しいです）",
+    "history": "うちのさつまいもサラダは主人がこの味だと喜ぶのでいつからかずっとこの味です♡",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "レーズン",
+        "マヨネーズ",
+        "ヨーグルト"
+    ],
+    "tsukurepo_count": "128",
+    "thumbnail": "https://img.cpcdn.com/recipes/1570598/100x141c/cd9a3bbf505a93b89940ed353125feaf.jpg?u=2121622&p=1315980695"
+}

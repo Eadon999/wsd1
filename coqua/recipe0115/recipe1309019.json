@@ -1,0 +1,60 @@
+{
+    "name": "鶏と水菜の＊ポン酢煮びたし＊",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/1309019/464x260/86a0fa500d7ba86cb49ed260922a5979.jpg?u=239563&p=1292367329",
+    "datePublished": "2010-12-15",
+    "description": "家計にやさしい胸肉を使った簡単煮びたし。ポン酢と水だけで煮ます。ほんのりゴマの香りが美味しい。",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉（もも肉でも）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "水菜",
+            "quantity": "２束"
+        },
+        {
+            "name": "ぽん酢",
+            "quantity": "40ml"
+        },
+        {
+            "name": "水",
+            "quantity": "160ml"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は皮を取り、一口大に切り醤油と酒で下味をつけておく。皮は細切りにする。水菜は５ｃｍに切る。",
+        "フライパンを熱し鶏皮をカリカリに炒める。その脂で①の鶏肉を色が変わるくらいまで炒める。",
+        "水とポン酢を加え５分くらい煮る。さらに水菜を加えひと煮立ちさせて火を止める。",
+        "お皿に盛り、すりごまをかけたら出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1309019",
+    "advice": "鶏皮の脂がいい味を出してくれます。ごまはなくてもいいですが、かけるとより美味しいと思います。もも肉でも美味しくできます。",
+    "history": "淡泊な胸肉を美味しく簡単に食べたくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉 ポン酢煮"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/1309019/100x141c/a620dd82406ddad4c0fec06ac8cd4e78.jpg?u=239563&p=1292367329"
+}

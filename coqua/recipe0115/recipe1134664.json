@@ -1,0 +1,61 @@
+{
+    "name": "☀キャロットラペ☺簡単にんじんサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "sunnyようこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1134664/464x260/43d74a6b514c44d44487f5bdea78bc31.jpg?u=2137900&p=1274530097",
+    "datePublished": "2010-05-22",
+    "description": "さっぱりとした味付けでにんじんが美味しく食べられます。 いろんなおかずの付け合わせに、サラダに乗せたりと便利です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "1本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々（お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんを千切りにし、塩をふりかけて、にんじんがしんなりするまでもむ。",
+        "①に調味料を入れて、よく混ぜればできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1134664",
+    "advice": "",
+    "history": "子供に美味しく野菜を食べて欲しくて作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "塩",
+        "調味料",
+        "オリーブオイル"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1134664/100x141c/4e607b0f2e5e6f29f1ccbfcefcd1e36b.jpg?u=2137900&p=1274530097"
+}

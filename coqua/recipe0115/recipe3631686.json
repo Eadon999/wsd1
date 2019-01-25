@@ -1,0 +1,65 @@
+{
+    "name": "レモンバターのサーモンムニエル ",
+    "author": {
+        "@type": "Organization",
+        "name": "マリンハーベスト"
+    },
+    "image": "https://img.cpcdn.com/recipes/3631686/464x260/7f3f0c6b644b68dcf4ccf19ae98f23ca.jpg?u=13933247&p=1453180523",
+    "datePublished": "2016-02-09",
+    "description": "小麦粉をまぶしてフライパンで焼くだけ！レモンバター風味が食欲そそる簡単ムニエルです。",
+    "recipeYield": "2人分 ",
+    "recipeIngredient": [
+        {
+            "name": "サーモン(皮つき)",
+            "quantity": "2切れ(200g)"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "1個"
+        },
+        {
+            "name": "ブロッコリー",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "15g"
+        }
+    ],
+    "recipeInstructions": [
+        "サーモンは塩、こしょうをして10分ほどしてから水気をふきとり小麦粉を全体にまぶす。",
+        "じゃがいもは軽くゆでて４等分に切る。ブロッコリーは塩ゆでして小房に分け、レモンは半分に切る。",
+        "フライパンにバターを熱し、サーモンの皮目から両面を焼く。",
+        "皿にサーモンとじゃがいも、ブロッコリーを盛り、レモンを添えると完成★"
+    ],
+    "cookTime": null,
+    "recipe_id": "3631686",
+    "advice": "",
+    "history": "季節を問わず、体にも良いサーモンを、ご自宅で手軽に美味しく食べられるレシピを考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サーモン レモンバター",
+        "サーモン ムニエル 簡単"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/3631686/100x141c/ec8e068a34279c353ad298bda9d2ca74.jpg?u=13933247&p=1453180523"
+}

@@ -1,0 +1,74 @@
+{
+    "name": "ほかほか✿肉豆腐、10分で。",
+    "author": {
+        "@type": "Person",
+        "name": "HaradaKiTN"
+    },
+    "image": "https://img.cpcdn.com/recipes/1362549/464x260/d5ac516647eb4bee2b0993374dc8f111.jpg?u=2328272&p=1297852229",
+    "datePublished": "2011-02-16",
+    "description": "10分でできるうえ、調味料全て①で簡単！プレミアムカテゴリ入り感謝♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉薄切り",
+            "quantity": "150g"
+        },
+        {
+            "name": "人参",
+            "quantity": "4cm"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "白菜",
+            "quantity": "1/10株"
+        },
+        {
+            "name": "木綿豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "カップ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参をスライス、葱を3~4cmにカット、白菜を5cm四方にカット。豆腐をお好きな大きさに。",
+        "材料全てを調味料とともに鍋にかけます。5~6分ほど強火で煮立てて完成。",
+        "※アクも適宜とってくださいね。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1362549",
+    "advice": "お時間にこだわらなければ、先にお豆腐を炒めるとお焦げがついて風味が出ます。",
+    "history": "腱鞘炎中にて即席レシピ開発。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉薄切り",
+        "人参",
+        "ねぎ",
+        "白菜"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1362549/100x141c/cc82e0d7c6f8f8571d25e07b91726369.jpg?u=2328272&p=1297852229"
+}

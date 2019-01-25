@@ -1,0 +1,55 @@
+{
+    "name": "★お弁当シリーズ★厚揚げケチャップ～",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1525484/464x260/41aa629c86f642e6849ef5dc040751d4.jpg?u=268332&p=1313625171",
+    "datePublished": "2011-08-18",
+    "description": "☆2013.6.24.話題入り☆厚揚げを洋風に炒めました★赤い彩りがほしいときにもいいかな♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１/２枚（２個入りの１個を）"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大１"
+        },
+        {
+            "name": "ウスターソース",
+            "quantity": "大１/２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎはスライス。\n厚揚げは乱切りにしておく。",
+        "フライパンにバターを熱し、玉ねぎを軽く炒め、厚揚げを入れてさらにいためる。",
+        "火をとめて、塩コショウ、ケチャップ、ソースを加える。\n火をつけて軽くあわせる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1525484",
+    "advice": "厚揚げはヘルシーでボリュームがあるのでお弁当にもってこいです♪",
+    "history": "厚揚げを玉ねぎと炒めた簡単お弁当シリーズです。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げケチャップ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1525484/100x141c/833613c8c7cf6e3f7ba62603e1f309a2.jpg?u=268332&p=1313625171"
+}

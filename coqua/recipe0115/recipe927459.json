@@ -1,0 +1,68 @@
+{
+    "name": "さんまの梅照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ハナウタ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/927459/464x260/604ae2409e67e938e57d6f4865bf1f74.jpg?u=1495637&p=1254620026",
+    "datePublished": "2009-10-04",
+    "description": "タレに梅干しを加えたさんまの照り焼きです。 ほんのり甘酸っぱい味が美味しい♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "２尾"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "★梅干し（種をとって果肉をたたいたもの）",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料をすべて合わせておく。\r\n",
+        "さんまは三枚おろしにし、腹骨をそぎ取り、長さは半分に切る。小麦粉を両面にまぶしてはたく。\r\n",
+        "熱したフライパンにサラダ油を入れ、さんまの皮目の方を下にして並べる。",
+        "皮にこんがり焼き目がついたら、ひっくり返して、裏面も焼いて火を通す。\r\n",
+        "フライパンの油をキッチンペーパーなどで軽くふきとってから、★を合わせたものを加える。ざっと全体をからめて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "927459",
+    "advice": "",
+    "history": "普通の照り焼き味に飽きてきたので、梅干しを加えてひと工夫してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さんま",
+        "サラダ油",
+        "小麦粉",
+        "梅干し"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/927459/100x141c/01cb9fd0405dcbaa166924045a9fab9a.jpg?u=1495637&p=1254620026"
+}

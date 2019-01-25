@@ -1,0 +1,44 @@
+{
+    "name": "トマト・トマトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/589979/464x260/2a7978d5cad7c0f118646e77cb9efc4e.jpg?u=746099&p=1214220338",
+    "datePublished": "2008-06-11",
+    "description": "2011.10.8.話題入り☆サルサソース風の簡単なトマトサラダです。水っぽいトマトも美味しく食べられます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "小１個"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "タバスコ",
+            "quantity": "３ふり"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトを一口大に切る。",
+        "ケチャップとタバスコであえて、よく冷やしてできあがり。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "589979",
+    "advice": "トマトの大きさやお好みにより調味料を増減してください。たまねぎのみじん切りやパセリやバジルを混ぜてもおいしいです。",
+    "history": "水っぽいトマトもこれでおいしく頂きます。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "トマトケチャップ",
+        "タバスコ"
+    ],
+    "tsukurepo_count": "67",
+    "thumbnail": "https://img.cpcdn.com/recipes/589979/100x141c/0a661e1eb411e8c1bd71bdd585e94be2.jpg?u=746099&p=1214220338"
+}

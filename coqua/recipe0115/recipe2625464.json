@@ -1,0 +1,52 @@
+{
+    "name": "簡単おいしい☺人参ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "どんぴんたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2625464/464x260/cceea599c47b910d31a983d69e355a45.jpg?u=4090904&p=1399981070",
+    "datePublished": "2014-05-13",
+    "description": "人参とお揚げを入れて炊くだけで、簡単おいしい人参ご飯が出来ちゃいます。オカズを邪魔しないようにシンプルに優しい味付で☺",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "人参",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "小揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "※炒りゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "お米を研ぎザルにあけ３０分以上置き\n白だしを入れて好みの硬さの水の量にする",
+        "人参を好みの大きさに切り（今回は細めの短冊切り・千切りもいいですね）小揚げも好みの大きさに切り上にのせ炊く",
+        "炊き上がったらお好みで胡麻を振り蒸らす",
+        "完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "2625464",
+    "advice": "おかずの邪魔にならないように薄味になっています☺",
+    "history": "美味しい筍ご飯（JACK0904さんのレシピID:2606591　kebeibikoさんのレシピID:1750165）を食べている時に、いつも身近にある人参でシンプルに美味しく出来ないものかと思い立ち考えてみました☺",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん ごはん"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2625464/100x141c/5bedc20248b266d70e8aec48101fac4c.jpg?u=4090904&p=1399981070"
+}

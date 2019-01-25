@@ -1,0 +1,58 @@
+{
+    "name": "きんぴらピーマン",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃかちゃかちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/385531/464x260/0f57c1505545346318472d4fa37a959f.jpg?u=437322&p=1243860380",
+    "datePublished": "2007-06-07",
+    "description": "ピーマン嫌いの友達も、これなら食べられるって、おいしく食べてくれました。２００８／５／２１皆様のおかげで、話題入りすることができました♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "５～６個"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを千切りにし、熱した鍋に、油をひき、ピーマンを軽く炒める。",
+        "１に★をいれ、１、２分煮る。",
+        "お皿にもって、ごまをかけて出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "385531",
+    "advice": "ピーマンを煮たあと、鍋にそのままちょっとおいておくと、ピーマンに味がしみこみます。おきすぎに注意。味がしみこみすぎちゃうかも。。。",
+    "history": "昔、料理本にピーマンできんぴらを作っているのを見て、ピーマンでもきんぴらできるんだぁと思い、我が家流の味付けで、きんぴらにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "みりん",
+        "砂糖",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "148",
+    "thumbnail": "https://img.cpcdn.com/recipes/385531/100x141c/db5a7b5dab252af1c72fa66af1d8444d.jpg?u=437322&p=1243860380"
+}

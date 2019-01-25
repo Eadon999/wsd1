@@ -1,0 +1,59 @@
+{
+    "name": "キャロットラペ",
+    "author": {
+        "@type": "Person",
+        "name": "yohiko"
+    },
+    "image": "https://img.cpcdn.com/recipes/1023654/464x260/291e573f8b50f0b208417b9fe17cb942.jpg?u=1896931&p=1264745110",
+    "datePublished": "2010-01-29",
+    "description": "イラストレシピはblog『ぱくとこ』を見てね→http://mameyoshi.exblog.jp/9681715/",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ニンジン",
+            "quantity": "1本"
+        },
+        {
+            "name": "イタリアンパセリ",
+            "quantity": "3〜4本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "白ワインビネガー(酢でもいいよ)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "オリーブオイル(サラダ油でもいいよ)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖(コクがでるよ)",
+            "quantity": "ほんのひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "人参の皮をむいたら果肉をピーラーで細長くうすーくスライスする。",
+        "スライスした人参をボールに入れ、塩を入れ全体になじむようにもみこみ、5分経ったら水気を絞る。",
+        "イタリアンパセリの葉を細かく刻み、人参の入ったボールに入れ、混ぜる。",
+        "白ワインビネガー、オリーブオイル、砂糖をよく混ぜ、人参とパセリのボールに入れ和える。冷蔵庫で1〜2時間冷やす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1023654",
+    "advice": "お好みで干しぶどうや粒マスタードを混ぜても美味しいよ♪",
+    "history": "ニンジン嫌いでも、小さい頃から唯一大好きだったニンジンレシピ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニンジン",
+        "イタリアンパセリ",
+        "塩",
+        "白ワインビネガー"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1023654/100x141c/5cd364dead06b363e6ba1925f7f61cdd.jpg?u=1896931&p=1264745110"
+}

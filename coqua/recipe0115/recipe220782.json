@@ -1,0 +1,55 @@
+{
+    "name": "キスの煮付け",
+    "author": {
+        "@type": "Person",
+        "name": "こくまろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/220782/464x260/0536783f266bc36025454e7df0bacb7a.jpg?u=61881&p=1214212306",
+    "datePublished": "2005-10-13",
+    "description": "天ぷらにすることが多いキスですが、煮付けてもおいしいですー。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キス",
+            "quantity": "５，６匹"
+        },
+        {
+            "name": "酒",
+            "quantity": "大６くらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大３くらい"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大３くらい"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "キスの腸をだす。",
+        "鍋に、酒、醤油、酒、みりん、砂糖を加え、一煮立ちさせる。",
+        "煮立ったらキスを加え、コトコト煮る。時折、キスに煮汁をかけながら煮る。",
+        "いい感じに煮汁が煮詰まって、味がしみたら出来上がり～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "220782",
+    "advice": "水を入れずに煮ることでしょうか？",
+    "history": "煮魚の作り方の基本でしょうか？",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/きす"
+    ],
+    "rankings": [
+        "キス 3位"
+    ],
+    "related_keywords": [
+        "キス 煮付け",
+        "キス 煮物"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/220782/100x141c/b326cabeebd14162a917f958fc5bc8a3.jpg?u=61881&p=1214212306"
+}

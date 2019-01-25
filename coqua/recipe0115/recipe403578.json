@@ -1,0 +1,61 @@
+{
+    "name": "☆サワラのピカタ☆",
+    "author": {
+        "@type": "Person",
+        "name": "oojunkoo"
+    },
+    "image": "https://img.cpcdn.com/recipes/403578/464x260/10ab64478524deca4b01c81752a16d2f.jpg?u=496614&p=1214216700",
+    "datePublished": "2007-07-15",
+    "description": "脂ののったサワラがジューシー!!!たった１５分で簡単メインディッシュの出来上がり♪ケチャップソースでいただきます。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "サワラ",
+            "quantity": "６切れ"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "●ケチャップ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "●ソース",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "レモン",
+            "quantity": "半個"
+        }
+    ],
+    "recipeInstructions": [
+        "卵をといておく。　　　　　　　　フライパンにオリーブオイル（またはバター）を温める。　　　　　　　　　　　　　サワラに塩コショウする。",
+        "溶いた卵にサワラをくぐらせフライパンへ。",
+        "はじめは皮を下に。中火で３分。裏返して火を弱めてフタをする。",
+        "余った卵をまわしかけて、さいばしでまとめて出来上がり！",
+        "レモンをふりかけ、●を１：１で合わせたソースでいただきます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "403578",
+    "advice": "他の白身魚でも大丈夫☆チーズを豚肉でまいて、同じようにピカタにしても美味しいです♪",
+    "history": "母の直伝！簡単で美味しい！さすがです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/さわら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さわら ピカタ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/403578/100x141c/d20d495394bee4fad29ad8e041d668a7.jpg?u=496614&p=1214216700"
+}

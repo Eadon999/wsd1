@@ -1,0 +1,79 @@
+{
+    "name": "15分✿豚と茄子のカリカリ✿甘辛ソース",
+    "author": {
+        "@type": "Person",
+        "name": "HaradaKiTN"
+    },
+    "image": "https://img.cpcdn.com/recipes/2024174/464x260/6a098f10f61be194823b5f4a9c2796ef.jpg?u=2328272&p=1352538372",
+    "datePublished": "2012-11-10",
+    "description": "話題入り感謝！！簡単、お腹満足、ド迫力♪",
+    "recipeYield": "２～３人",
+    "recipeIngredient": [
+        {
+            "name": "豚こま切れ肉",
+            "quantity": "200g程度"
+        },
+        {
+            "name": "茄子",
+            "quantity": "2本"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "赤、緑、半分ずつ"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ4ほど"
+        },
+        {
+            "name": "油(炒め用)",
+            "quantity": "大さじ1～"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1を水半カップで溶く"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを薄切り、ピーマンを細切りに。ナスと豚肉に、塩→片栗粉を適量まぶす。",
+        "フライパンに油を熱し、ナス、豚肉をそれぞれ両面カリカリに焼く。",
+        "２を取り出して皿に広げる。ピーマンをさっと炒め、タレの分量を入れて予熱で合わせる。",
+        "３をナス、豚の上にかけて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2024174",
+    "advice": "片栗粉は、茶こしでかけても、ボウルに入れて振って混ぜても、ビニール袋でも。余分な粉を落として焼きましょう（油を吸いすぎるため）。",
+    "history": "あまり食材がなく、あるものを順番にカリっと焼き上げ、ボリュームをだし（てごまかし）ました。カリっとした感じと、あとがけのタレの相性が抜群です！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚こま切れ肉",
+        "茄子",
+        "ピーマン",
+        "塩"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/2024174/100x141c/12fedb62b62ffac2710c53ff6a11900b.jpg?u=2328272&p=1352538372"
+}

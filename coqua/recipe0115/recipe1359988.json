@@ -1,0 +1,69 @@
+{
+    "name": "牛玉丼★厚揚げで嵩増し（昆布つゆ）",
+    "author": {
+        "@type": "Person",
+        "name": "toshiebaba"
+    },
+    "image": "https://img.cpcdn.com/recipes/1359988/464x260/bbd25436142f223a42eb11f76fdd2849.jpg?u=2524222&p=1391388314",
+    "datePublished": "2011-02-14",
+    "description": "カテゴリ掲載有難う!すき焼きの卵とじ丼。卵を溶いて蓋をして１，２分で出来るお手軽丼。",
+    "recipeYield": "2人分（大盛り丼）",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "白滝",
+            "quantity": "半パック"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "スナップエンドウ",
+            "quantity": "6個"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "半分"
+        },
+        {
+            "name": "こんぶつゆ",
+            "quantity": "お玉2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙2強（山盛り）"
+        },
+        {
+            "name": "チューブ生姜",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "水",
+            "quantity": "お玉4"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げと白滝は下ゆでして臭みを取る。",
+        "卵以外の材料を入れる。",
+        "２に火が通ったら１人分を小鍋にとりわけ、卵１個を溶いて入れ、蓋をして、１，２分。（中火）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1359988",
+    "advice": "下茹でとチューブ生姜で臭み取り。手順1，2は牛すき焼きの残りが無い時。",
+    "history": "牛すきやきを卵で綴じて簡単丼にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛たま丼",
+        "牛玉丼",
+        "厚揚げ 牛肉 糸こんにゃく"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/1359988/100x141c/f7d8b72b92ff76b88b8ad79f218172a4.jpg?u=2524222&p=1391388314"
+}

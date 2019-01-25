@@ -1,0 +1,47 @@
+{
+    "name": "オッサンの おつまみエリンギ",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/3153693/464x260/777fb36cff3ef6f79b700796925f2ccb.jpg?u=3323767&p=1430541316",
+    "datePublished": "2015-05-02",
+    "description": "エリンギの歯応えを感じたいっ！なので、調理は超シンプルに。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "２本"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "５センチ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは一口大に切り、アルミホイルに敷き詰め、トースターで５分焼きます。",
+        "耐熱容器に小さく切ったネギ、ごま油、塩コショウを入れ、電子レンジで600W1分温めます。",
+        "器に１を盛り付け、２を上から掛けたら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3153693",
+    "advice": "１の工程で、トースターで焼く時間は、様子を見ながら調整して下さい。",
+    "history": "軽井沢旅行で、新鮮で大きなエリンギを購入したので、歯応えを感じながら食べられるようにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ おつまみ"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/3153693/100x141c/dad22ebc97e7a844214b89615c15b77a.jpg?u=3323767&p=1430541316"
+}

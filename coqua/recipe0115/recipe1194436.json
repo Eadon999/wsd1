@@ -1,0 +1,49 @@
+{
+    "name": "激旨☆ゴーヤのさっぱり漬け☆",
+    "author": {
+        "@type": "Person",
+        "name": "yukkycafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1194436/464x260/af2947fbad6def827ece3232829df6ab.jpg?u=1912076&p=1279980320",
+    "datePublished": "2010-07-24",
+    "description": "漬けてすぐ食べても美味しいです。ゴーヤの苦味が気にならずにバクバク食べれるよ。一日置いたら更に食べ易いかも。。。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "1本"
+        },
+        {
+            "name": "★薄口醤油",
+            "quantity": "1/4Ｃ"
+        },
+        {
+            "name": "★酢",
+            "quantity": "1/4Ｃ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "1/4Ｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤは半分に切って種とわたをスプーンでかき出し、スライスしておく。",
+        "ボウルに★の調味料を合わせて①のゴーヤを漬け込む。ハイ！出来上がり。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1194436",
+    "advice": "",
+    "history": "いつもはセロリやきゅうりを漬けていましたが、ゴーヤで作ったら病みつきに。。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "薄口醤油",
+        "酢",
+        "砂糖"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1194436/100x141c/b44b6f17cad2a3be358dfa66df556cb1.jpg?u=1912076&p=1279980320"
+}

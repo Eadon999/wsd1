@@ -1,0 +1,57 @@
+{
+    "name": "✿味噌チーズ味のたまご粥✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/686363/464x260/1d3db847984cc1aaedfbda6c4e3b0aae.jpg?u=271833&p=1266236092",
+    "datePublished": "2008-11-21",
+    "description": "コクがあってまろやかな味のお粥です♡ 簡単なので朝食にもおすすめ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗に軽く2杯"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "500ml"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ1強"
+        },
+        {
+            "name": "スライスチーズ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "たまご",
+            "quantity": "1個"
+        },
+        {
+            "name": "（あれば）ねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にだし汁を沸かす。たまごは溶きほぐしておく。",
+        "だし汁が沸騰したら味噌を溶き入れ、ごはんを入れて中火で2～3分煮る。",
+        "2にスライスチーズを入れて溶かし、溶きたまごも流し入れて軽くかき混ぜ火を通す。 \r\n器に盛ってねぎを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "686363",
+    "advice": "味噌によって塩分の濃さが異なると思うので、味噌の分量は味をみて調整して下さい。",
+    "history": "定番の味噌味のたまご粥にチーズもプラスしてまろやかな味に仕上げました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/お粥"
+    ],
+    "rankings": [
+        "卵がゆ 2位"
+    ],
+    "related_keywords": [
+        "卵粥"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/686363/100x141c/0068859991e4ed93b5685dc186f68503.jpg?u=271833&p=1266236092"
+}

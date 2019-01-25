@@ -1,0 +1,46 @@
+{
+    "name": "✿おいしいょ！「塩麹さんの卵焼き」✿",
+    "author": {
+        "@type": "Person",
+        "name": "ぱんだカフェcafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/990729/464x260/174a4506eb8a50e7432d5b88142edb74.jpg?u=1003914&p=1260839306",
+    "datePublished": "2009-12-15",
+    "description": "さっこままさんの「塩麹さん」を使って♪ おいし～い卵焼きを作ってみました♫ 甘辛・濃い味でお弁当にも最適♡",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "４個"
+        },
+        {
+            "name": "●塩麹（ID：637783）",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに材料を全部入れよく混ぜる",
+        "卵焼き用フライパンにうすく油をしきながら卵焼きを焼いていく",
+        "できあがり♪",
+        "さっこままさんの「塩麹さん」レシピ \r\nID：637783"
+    ],
+    "cookTime": null,
+    "recipe_id": "990729",
+    "advice": "塩麹の出来（塩気）によって塩麹の加減をしてくださいね♪",
+    "history": "おいしい塩麹さんで卵焼きを作ったら、ぜったいに美味しいと思って♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "塩麹",
+        "砂糖"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/990729/100x141c/1b631331b7f9ae818f575d7a0ecf7c5b.jpg?u=1003914&p=1260839306"
+}

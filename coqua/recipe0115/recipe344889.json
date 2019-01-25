@@ -1,0 +1,51 @@
+{
+    "name": "レンジで簡単♡つやつや♪にんじんグラッセ",
+    "author": {
+        "@type": "Person",
+        "name": "めんたい子"
+    },
+    "image": "https://img.cpcdn.com/recipes/344889/464x260/70ccdb58be22242094b52ddc7393b724.jpg?u=203689&p=1214215044",
+    "datePublished": "2007-03-15",
+    "description": "はちみつ入りなので、甘くてつやつや♡甘さを調節すれば、つけあわせやお子様のおやつにも(^^)",
+    "recipeYield": "人参3本分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "3本"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "人参がかぶるくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は輪切りにして面取りをする。",
+        "耐熱ボウルに人参と\r\n人参がかぶるくらいの水、他の材料をすべて入れる。",
+        "ラップをふんわりかけて、人参がやわらかくなって、汁気が少し飛ぶまで加熱する。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "344889",
+    "advice": "加熱時間はレンジの機種や人参の重なり具合で違ってきますので様子を見ながら加熱してください。お鍋やフライパンなら10～15分コトコト煮ます。",
+    "history": "つやつやな甘いグラッセが食べたかったのではちみつを使用しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参グラッセ ハチミツ"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/344889/100x141c/cbc436d04c401ec26e1724752c05c043.jpg?u=203689&p=1214215044"
+}

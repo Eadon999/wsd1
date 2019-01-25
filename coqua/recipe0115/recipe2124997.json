@@ -1,0 +1,55 @@
+{
+    "name": "レンジで1分40秒！ほんだし親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/2124997/464x260/5a3eaa30094737254acc2332c50e5fed.jpg?u=4376699&p=1361242416",
+    "datePublished": "2013-02-19",
+    "description": "チャージ730!テレ東で紹介♪調味料ほんだしのみ！",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ムネ肉",
+            "quantity": "40g"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "5cm"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "肉の皮を取り小さく切る\nねぎは小口切り\n耐熱ボールに肉、ネギ、ほんだし、水を入れレンジ600w1分チンして混ぜる",
+        "軽く溶いた卵を加えて40秒チン\n",
+        "卵は半熟でＯＫ\nご飯にのせて海苔をかけて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2124997",
+    "advice": "ほんだしは砂糖塩等色々入っているのでほんだしだけでＯＫ卵を加えたら全体を混ぜないでください",
+    "history": "忙しい朝にちょっと食べたくなって作ってみました",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 レンジ"
+    ],
+    "tsukurepo_count": "19",
+    "thumbnail": "https://img.cpcdn.com/recipes/2124997/100x141c/50b5481c9a35a75915991565ae0767be.jpg?u=4376699&p=1361242416"
+}

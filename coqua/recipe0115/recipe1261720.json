@@ -1,0 +1,66 @@
+{
+    "name": "白だしで作る親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "rosenkranz"
+    },
+    "image": "https://img.cpcdn.com/recipes/1261720/464x260/11b5daa5c5d2c0511ab5ec51196b6baf.jpg?u=225908&p=1287338599",
+    "datePublished": "2010-10-20",
+    "description": "激ウマです。2012.1.31話題のレシピ入り☆感謝♪",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１００グラム"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯"
+        },
+        {
+            "name": "玉葱",
+            "quantity": "１／４個分"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を一口大に切る。玉葱を千切りにする。",
+        "小さな鍋に、玉葱の上に鶏もも肉を置き、タレをかけて煮る。",
+        "弱火にして溶いた卵の半量を入れ、蓋をして１０秒待ち、残りの卵を入れる。",
+        "ご飯の上に乗せて完成。",
+        "れぽ感謝♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1261720",
+    "advice": "塩加減はお好みで。",
+    "history": "ある材料で。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 白だし",
+        "激ウマ 親子丼"
+    ],
+    "tsukurepo_count": "196",
+    "thumbnail": "https://img.cpcdn.com/recipes/1261720/100x141c/351defd08c2c68c11d65986bcc084590.jpg?u=225908&p=1287338599"
+}

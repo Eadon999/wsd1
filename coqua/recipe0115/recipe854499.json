@@ -1,0 +1,57 @@
+{
+    "name": "ゆで卵の甘酢あんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "ともこキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/854499/464x260/93cdc2ec0a8da9444abb4e950ddc1ae8.jpg?u=746099&p=1246534214",
+    "datePublished": "2009-07-02",
+    "description": "2010.1.8.話題入り☆ゆで卵でサッと作れて満足の一皿をどうぞ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆで卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "○酢",
+            "quantity": "大１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小１"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "お好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を半分に切り、１とねぎをかける。",
+        "甘酢あんを作る。\n\n○の調味料を鍋に入れ、煮立ったら同量の水で溶いた片栗粉でとろみをつける。お好みのかたさに調節してね。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "854499",
+    "advice": "甘酢あんにグリンピースやミックスベジタブルをいれてもおいしいし、彩りもきれいです。あんは、レンジで10秒ずつかき混ぜながら作ってもOK。",
+    "history": "朝食準備時間がない！ゆで卵しかない！という時に作って夫に好評でした。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆで卵",
+        "醤油",
+        "砂糖",
+        "酢"
+    ],
+    "tsukurepo_count": "82",
+    "thumbnail": "https://img.cpcdn.com/recipes/854499/100x141c/59f80499017defb89127f13ad67bb847.jpg?u=746099&p=1246534214"
+}

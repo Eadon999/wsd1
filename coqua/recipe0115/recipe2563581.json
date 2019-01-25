@@ -1,0 +1,48 @@
+{
+    "name": "簡単！豆苗と豆腐の味噌汁♪",
+    "author": {
+        "@type": "Person",
+        "name": "ネギ母さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2563581/464x260/0551bf353c8bd487cadbce69e002a2c6.jpg?u=8144267&p=1396066722",
+    "datePublished": "2014-03-29",
+    "description": "話題入り＆カテゴリ感謝☆豆苗は安いし再収穫できるし節約バッチリ♪基本の味噌汁アップしてみました♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大３"
+        },
+        {
+            "name": "豆腐(絹でも木綿でも)",
+            "quantity": "１丁"
+        },
+        {
+            "name": "豆苗",
+            "quantity": "ひとつかみ～半パック程度"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にに水とだしの素を入れて火にかけます。湯がわいてきたらさいの目切りにした豆腐を入れてひと煮たち。",
+        "火を止めてから味噌を溶かしいれ豆苗を入れたら再度火にかけます。沸騰直前程度で火を止めたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "2563581",
+    "advice": "豆苗を入れてからはあまり火にかけないほうが味も見た目も良いですよ(＾◇＾)",
+    "history": "再収穫した豆苗は火を通したほうが良いと聞いたので♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だし汁",
+        "味噌",
+        "豆腐"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2563581/100x141c/03d8b0ef540d3a7671d795df840d8889.jpg?u=8144267&p=1396066722"
+}

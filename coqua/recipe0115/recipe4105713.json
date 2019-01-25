@@ -1,0 +1,70 @@
+{
+    "name": "温奴のかにかまあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/4105713/464x260/20c1ed5653f0b26f6abf123744c8f8e9.jpg?u=4819316&p=1475587978",
+    "datePublished": "2016-10-04",
+    "description": "安価な材料で粋な一品ができます、ビールに合いますよ、お試し下さい",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "かにかまぼこ",
+            "quantity": "４本"
+        },
+        {
+            "name": "●水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "●和風顆粒だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は４等分に切り、かにかまぼこは裂いておく",
+        "豆腐を半量ずつ２つの器に入れてラップしてレンジ５００Ｗで２分加熱する",
+        "鍋に●とかにかまぼこを入れて一煮立ちさせ、弱火にして水溶き片栗粉を加えてとろみを付ける",
+        "豆腐の上からあんをかけて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "4105713",
+    "advice": "豆腐はレンジ加熱で簡単に出来ます",
+    "history": "自分のレシピ「冬瓜のかにかまあんかけ」（3397702）を参考にしています、これからの季節、温奴で試してみました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま",
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "温奴 あんかけ",
+        "あんかけ かにかま 豆腐"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4105713/100x141c/4de0de658e97028215016f376b2d5570.jpg?u=4819316&p=1475587978"
+}

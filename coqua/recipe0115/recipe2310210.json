@@ -1,0 +1,54 @@
+{
+    "name": "ズッキーニのソテー",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2310210/464x260/611e0dd6676280db6b7cd6784011951d.jpg?u=3280486&p=1376006905",
+    "datePublished": "2013-08-09",
+    "description": "お手軽にできるズッキーニの一品料理♫バター＆醤油の風味がGOOD！です。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "1本"
+        },
+        {
+            "name": "バター",
+            "quantity": "5g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒・サラダ油",
+            "quantity": "各大さじ1/2"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油を入れて、1cmの厚さに切ったズッキーニを、両面に焼き色がつくまで2分程強火で焼く。",
+        "酒を入れて蓋をし、中火で1分蒸し焼き。",
+        "バターと醤油を加える。塩・胡椒で味を調えたら完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2310210",
+    "advice": "「ちょっとひと手間」ですが、酒蒸しすると、ふんわりやさしい食感＆美味しく出来上がります。",
+    "history": "ズッキーニを美味しく食べたくて考えました。酒の肴としても良いですよ☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "バター",
+        "醤油",
+        "塩胡椒"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/2310210/100x141c/1d5a3d4adab6de76ff747dcc40187bc8.jpg?u=3280486&p=1376006905"
+}

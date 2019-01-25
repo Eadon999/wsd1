@@ -1,0 +1,62 @@
+{
+    "name": "にんじんとじゃがいものきんぴら　",
+    "author": {
+        "@type": "Person",
+        "name": "komakiさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/333611/464x260/bfb340698fe835b9732306ca77fa4719.jpg?u=323216&p=1214214785",
+    "datePublished": "2007-02-20",
+    "description": "ごまの風味がた～っぷり！エキスをいっぱい吸った、白ご飯が恋しいピリ甘辛味です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "お好み"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "お好み"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "お好み"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "１本"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじん、じゃがいもは細切りにして、じゃがいもは水に数分さらす。",
+        "ごま油で軽く鷹の爪を炒めたら、１のにんじんとじゃがいもを加えて、じゃがいもが白く透き通るまで炒める。",
+        "みりん、薄口しょうゆ、たっぷりの白ごまを入れ、煮汁がなくなるまで、炒め煮してできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "333611",
+    "advice": "白ごまた～っぷりが、みそ♪",
+    "history": "家にある常備野菜で、簡単な一品を作ってみました♪ごまは健康にいいらしいし～(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "じゃがいも",
+        "白ごま",
+        "鷹の爪"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/333611/100x141c/faedef8ee0f5fc695575e8e37e2759f8.jpg?u=323216&p=1214214785"
+}

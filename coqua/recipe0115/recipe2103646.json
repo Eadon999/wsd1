@@ -1,0 +1,40 @@
+{
+    "name": "焼きなめこ",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2103646/464x260/893a5dbc866615bd8e7ddc8692b903fc.jpg?u=3099986&p=1359799291",
+    "datePublished": "2013-02-02",
+    "description": "簡単。おいしい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "なめこ",
+            "quantity": "１袋"
+        },
+        {
+            "name": "ゆずポン酢",
+            "quantity": "大さじ２くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "なめこです。",
+        "石づきを切って、子房に分ける。\n焼き網の上にのせて焼きます。",
+        "焼くとかさが減りました。",
+        "皿に盛り、ゆずポン酢をかけて食べる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2103646",
+    "advice": "焼くのは、オーブントースターでもOK。",
+    "history": "なめこが売っていた。外袋に「焼いてみよう」とあったので、焼いてみた。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/なめこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きなめこ"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2103646/100x141c/71fb06d46db93d1f20b6ddc6b76d45d1.jpg?u=3099986&p=1359799291"
+}

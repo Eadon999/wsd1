@@ -1,0 +1,63 @@
+{
+    "name": "★大根とお揚げの煮物★",
+    "author": {
+        "@type": "Person",
+        "name": "REKO-tan"
+    },
+    "image": "https://img.cpcdn.com/recipes/517920/464x260/73b33c343d498bdc0aad17848f9c32e7.jpg?u=462324&p=1214218896",
+    "datePublished": "2008-02-27",
+    "description": "大根とお揚げに味がよ～くしみて美味しい♪甘辛味でご飯がすすみます☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "8㎝"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大３"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大１"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "適量"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "油揚げは油抜きをして水気をきり、短冊切りにします。",
+        "大根は皮をむいて乱切りにします。鍋に胡麻油を熱して大根を4分ほどじっくり炒めます。",
+        "★の調味料と油揚げを入れて汁気がなくなってくるまで煮たら出来上がり♪七味を振ってネギを散らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "517920",
+    "advice": "簡単にできます♪",
+    "history": "簡単な材料でご飯に良く合います！手間もかからず煮るだけなので、時間のある時に二倍量で作っておく時もあります☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根 あげ 煮物"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/517920/100x141c/1dd61864e7ad3f4b526826e3dff59198.jpg?u=462324&p=1214218896"
+}

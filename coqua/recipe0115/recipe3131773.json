@@ -1,0 +1,67 @@
+{
+    "name": "キャベツとピーマン、挽き肉の旨塩春雨炒め",
+    "author": {
+        "@type": "Person",
+        "name": "きゃめまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/3131773/464x260/2dc962850e9c34688bba80e5a78d7631.jpg?u=645242&p=1429517365",
+    "datePublished": "2015-04-20",
+    "description": "あり合わせの野菜たっぷりで作った春雨の炒めもの(^^)ご飯がすごく進みます♡ビールもすごく進みます♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨",
+            "quantity": "100g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/4"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "4個"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "3㎝ほど"
+        },
+        {
+            "name": "挽き肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "ガーリックパウダー",
+            "quantity": "小さじ1〜"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "\nフライパンに挽き肉を入れ塩こしょう、ガーリックパウダーと太めの千切りにした野菜と炒める。\n肉から脂が出るので油はよい。",
+        "鶏がらスープの素を入れ、ぬるま湯で戻した春雨を長さを半分に切り一緒に炒め合わせる。\n最後にごま油を回しかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3131773",
+    "advice": "春雨はあまりやわらかくなるまで戻さずに。野菜の水分を吸うので、ちょうどよくなります。お好みでガーリックたっぷりにしても♡おつまみむきに〜",
+    "history": "あり合わせの野菜で♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/乾物/春雨"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひき肉 キャベツ ピーマン"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/3131773/100x141c/deac4e2366faff71ff191de2b1c03a3a.jpg?u=645242&p=1429517365"
+}

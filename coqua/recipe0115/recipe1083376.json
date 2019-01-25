@@ -1,0 +1,45 @@
+{
+    "name": "はんぺんの納豆焼き",
+    "author": {
+        "@type": "Person",
+        "name": "chokomi513"
+    },
+    "image": "https://img.cpcdn.com/recipes/1083376/464x260/ee15dbc6b33373d657ee6a57b42f1304.jpg?u=2034151&p=1296087494",
+    "datePublished": "2010-03-29",
+    "description": "５分あればできちゃう簡単ヘルシーな一品♪忙しい朝食にも☆ 2010.12.16 話題入り✿ 感謝です♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "薬味ネギなど（お好みで）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんを好みの大きさに切る。",
+        "納豆をとき、辛子（お好みで）とタレを混ぜる。",
+        "クッキングシートを敷いた天板の上に切ったはんぺんを並べ、納豆を乗せ、オーブントースターで焼く（１０００Ｗ約３分）。",
+        "好みで薬味ネギなどを散らす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1083376",
+    "advice": "☆少し焦げ目が付く程度に焼くのが美味しいです。",
+    "history": "使いかけのはんぺんの使い道を考えていて思いつきました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "納豆"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1083376/100x141c/49717ca3b2c5beabbce5bcbd4fbb6b89.jpg?u=2034151&p=1296087494"
+}

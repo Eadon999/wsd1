@@ -1,0 +1,51 @@
+{
+    "name": "ブリの竜田揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "鈴の助"
+    },
+    "image": "https://img.cpcdn.com/recipes/957523/464x260/8aa1b6b2c444ded84ce03bca7fd537f3.jpg?u=1609398&p=1257410389",
+    "datePublished": "2009-11-05",
+    "description": "しっかり味がついてるのでお弁当にぴったり♪冷凍すれば2〜３日持ちます。鮭でもOK！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "ブリ",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ショウガ汁",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ブリは適当な大きさに切って下味に15分以上漬ける。",
+        "ビニール袋にキッチンペーパーで水分をとったブリと片栗粉を入れて全体にまぶす。油で2〜3分揚げる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "957523",
+    "advice": "○ブリを揚げる前にサツマイモやアスパラ等、野菜を揚げてもOKです。",
+    "history": "ブリが美味しいです",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり 竜田揚げ 冷凍",
+        "ぶり 竜田揚げ"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/957523/100x141c/7dc55c0e6bd984c80c545317246fccf0.jpg?u=1609398&p=1257410389"
+}

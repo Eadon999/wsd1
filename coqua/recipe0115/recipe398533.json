@@ -1,0 +1,71 @@
+{
+    "name": "簡単♡♡おうちで♡♡もやしラーメン",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/398533/464x260/4879e73e1dab7fb36f16e60b4ab46bcd.jpg?u=42283&p=1214216590",
+    "datePublished": "2007-07-03",
+    "description": "チャチャッと市販ラーメンに具をのせて、バージョンアップ（*ﾉｪﾟ）♡ ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "市販の醤油ラーメン（玉とスープ）",
+            "quantity": "２玉"
+        },
+        {
+            "name": "豚挽き肉",
+            "quantity": "１７０ｇ程度"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小１"
+        },
+        {
+            "name": "クレージーソルト",
+            "quantity": "少々"
+        },
+        {
+            "name": "顆粒鶏ガラスープの素",
+            "quantity": "小２分の１強"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小２分の１強"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小２分の１～お好みで"
+        },
+        {
+            "name": "アサツキ（小口切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "サラダ油でひき肉を炒める。クレージーソルトを振る。ガラスープの素と醤油も入れておく。",
+        "もやしも入れて炒める。",
+        "豆板醤を入れて炒める。",
+        "",
+        "普通に醤油ラーメンを作って、その上にフライパンで炒めた具をのせて、アサツキの小口切りを散らして、出来上がりですヽ(*’-^*)。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "398533",
+    "advice": "ランチに簡単ですヽ(▽｀)ノ",
+    "history": "お昼は麺類が多いので、市販の生ラーメンが安かった時にしている食べ方の一つです゜+・(о´▽｀о)゜+・ ",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "醤油ラーメン 具 もやし",
+        "もやし ラーメン"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/398533/100x141c/58fcb9d6aacaf0b05fb40300325cd58a.jpg?u=42283&p=1214216590"
+}

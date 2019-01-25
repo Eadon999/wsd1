@@ -1,0 +1,46 @@
+{
+    "name": "明太マヨ大根サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "オリエンタルママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1668943/464x260/61bd73646f76ad6383981d11c69ed0fc.jpg?u=269217&p=1326109936",
+    "datePublished": "2012-01-09",
+    "description": "細切り大根を塩でしんなりさせて、明太マヨネーズを作り和えるだけ！たっぷり作ると良いです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "中2分の1本"
+        },
+        {
+            "name": "明太",
+            "quantity": "40ｇ前後"
+        },
+        {
+            "name": "ハーフマヨネーズ",
+            "quantity": "40ｇ前後"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ3分の2ぐらい"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむき、輪切りにしてから、細切りしボールに入れて塩でしんなりさせ軽く絞る（塩っぽかったら洗って絞ると良いです）",
+        "ボールに明太とマヨネーズを和えておき、1を入れて混ぜ合わせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "1668943",
+    "advice": "塩は美味しい旨みのあるものを利用すると良いです。細切りは揃えて切ると食感がよいです。大根は、真ん中部分が一番みずみずしいです。",
+    "history": "みずみずしい大根1本、冷蔵庫に明太があります。朝食はパンです。サラダにしたいなと思い、ハーフマヨネーズで和えてみました。もっと食べられるかな･･･。多めに作ればよかったでした。おいしい！",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "明太マヨ大根"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/1668943/100x141c/4c4a6c11fdff4812a0fd107fda81afb1.jpg?u=269217&p=1326109936"
+}

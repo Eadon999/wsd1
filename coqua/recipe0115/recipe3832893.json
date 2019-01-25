@@ -1,0 +1,69 @@
+{
+    "name": "簡単おつまみ♪ニラとささみのピリ辛ナムル",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/3832893/464x260/b12058d31a9c666bfe980cbea8186c88.jpg?u=9664115&p=1461931059",
+    "datePublished": "2016-04-29",
+    "description": "ピリッと辛めのヘルシーなささみとニラのナムルです。あと一品ってときに。居酒屋風なおつまみでお酒進んじゃいます。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ニラ",
+            "quantity": "4〜5束"
+        },
+        {
+            "name": "ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "3〜4cm"
+        },
+        {
+            "name": "☆鶏がらスープの素",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆醤油orポン酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "☆豆板醤",
+            "quantity": "小さじ1/3〜1/2"
+        },
+        {
+            "name": "☆ごま",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り、茹でる。\n4〜5cm程にニラを切り、ささみをあげる直前に一緒にささっと茹でる。",
+        "にんじんを細い千切りに。",
+        "ささみの粗熱が取れたら（水で冷やしてもいい）手で細かくほぐす。",
+        "ボールににんじん・ささみ・ニラを入れ、☆の調味料をよく和える。",
+        "少し寝かせると味が染みていい感じに。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3832893",
+    "advice": "辛さ、味の濃さはお好みで。",
+    "history": "ニラが安くて。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ",
+        "ささみ",
+        "人参",
+        "鶏がらスープの素"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/3832893/100x141c/f67a35fd4b4fbae67005b0ec6bad6f32.jpg?u=9664115&p=1461931059"
+}

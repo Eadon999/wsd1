@@ -1,0 +1,46 @@
+{
+    "name": "昆布たくあん☆おにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "ワインパープル"
+    },
+    "image": "https://img.cpcdn.com/recipes/2644778/464x260/7f3c320783960e7d70f9018cbe1bd884.jpg?u=8367437&p=1401542869",
+    "datePublished": "2014-05-31",
+    "description": "2014.8.23話題入り有難うございます！たくあんのカリカリ食感がツボです♪ごまも外せないでーす(^-^)",
+    "recipeYield": "1個分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "茶碗1杯"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "たくあん",
+            "quantity": "１~２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "たくあんは細かい千切り（またはみじん切り）にする。\n",
+        "すべての材料を混ぜて、愛情込めて握る♡完成♪"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2644778",
+    "advice": "富山で食べたのは、具がかたまりで中に入っていました。お好みで、それでも美味しいと思います＾＾",
+    "history": "富山出張の際に立ち寄ったコンビニで購入したおにぎりです♪おいしかったので再現しました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たくあん おにぎり"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2644778/100x141c/b3eda3807fa6604e7138c10d5c6191bc.jpg?u=8367437&p=1401542869"
+}

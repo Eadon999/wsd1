@@ -1,0 +1,56 @@
+{
+    "name": "✿蒟蒻のレモンバター醤油炒め✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/1092265/464x260/afdc000e1ebafe5c5de21c06c2c8fa59.jpg?u=271833&p=1272286234",
+    "datePublished": "2010-04-08",
+    "description": "蒟蒻にレモン！？という感じですが、他の調味料と混ざり合う事によっていい味になります♪こってりだけどさっぱりな蒟蒻です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "蒟蒻",
+            "quantity": "1枚"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "小口切りねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "蒟蒻の表面に格子状の切れ目を入れ、熱湯で3分程茹でて湯切りする。",
+        "１をバターでじっくり炒める。",
+        "火を少し弱めて☆を加え、汁気がほぼなくなるまで煮詰める。フライパンを揺すりながら、調味料が全体によくなじむようにします。",
+        "仕上げにねぎを散らす。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1092265",
+    "advice": "特にありません。",
+    "history": "蒟蒻の新しい味を試してみたくて。いつも和風な味付けになりがちなので、洋風味にしました♪",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃく バター 炒め"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1092265/100x141c/3aab95acd5a27214dbe44438674ac4d3.jpg?u=271833&p=1272286234"
+}

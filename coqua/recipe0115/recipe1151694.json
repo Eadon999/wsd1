@@ -1,0 +1,68 @@
+{
+    "name": "はんぺんがつなぎの　ふわふわお好み焼き",
+    "author": {
+        "@type": "Person",
+        "name": "NAGねえさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1151694/464x260/dba672b75585400c42c73dbc1ee6fa11.jpg?u=1154887&p=1275902145",
+    "datePublished": "2010-06-07",
+    "description": "山芋や魚のすり身で出来ているはんぺん。 きっとお好み焼きのつなぎに出来るに違いないと思い付きました。ふわふわ美味しい",
+    "recipeYield": "２枚分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "大１枚(１００ｇ～１１０ｇ)"
+        },
+        {
+            "name": "＊卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "＊水",
+            "quantity": "１２０ｃｃ"
+        },
+        {
+            "name": "＊塩",
+            "quantity": "小さじ１/3"
+        },
+        {
+            "name": "キャベツの千切り",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "ネギの小口切り",
+            "quantity": "４０ｇ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "４０ｇ"
+        },
+        {
+            "name": "揚げ玉",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "豚バラ肉(薄切り)",
+            "quantity": "４枚"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんをボールに入れて手でにぎりつぶします。\n\nここに＊を加えてドロドロに混ぜ合わせます。",
+        "①にキャベツ、ネギ、小麦粉、揚げ玉を加え混ぜ生地を作り、２等分します。",
+        "フライパンに豚バラ肉を２枚並べて焼きます。その上に②の生地の半量を流し形を整えフタをしてふんわりと焼きます。",
+        "ひっくり返し、お好み焼きの要領で焼きあげます。\n\n\n\nソースやマヨネーズ、かつおぶしをトッピングして召し上がれ☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1151694",
+    "advice": "",
+    "history": "山芋の代わりにはんぺんを代用してみました。",
+    "categories": [
+        "今日のご飯・おかず/粉もの/お好み焼き/アレンジお好み焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん お好み焼き"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/1151694/100x141c/086b5d08ac81462d0353a626a8d14b7c.jpg?u=1154887&p=1275902145"
+}

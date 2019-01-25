@@ -1,0 +1,55 @@
+{
+    "name": "✿梅と桜エビのおにぎり✿",
+    "author": {
+        "@type": "Person",
+        "name": "komomoもも"
+    },
+    "image": "https://img.cpcdn.com/recipes/622640/464x260/c399c8d61714a3b5c3d12ba88d7d70f9.jpg?u=793202&p=1304051766",
+    "datePublished": "2008-08-03",
+    "description": "さっぱりして美味しい梅おにぎりに桜エビを入れたら、香ばしくて色もちょっぴり可愛いおにぎりになりました♡",
+    "recipeYield": "２～３個分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗に軽く２杯分"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "中くらい２～３個"
+        },
+        {
+            "name": "桜エビ(小さいもの)",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "大葉(なくてもOK)",
+            "quantity": "２枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "お好みに合わせて"
+        }
+    ],
+    "recipeInstructions": [
+        "梅干しは種を取り、適当な大きさに刻む。大葉はみじん切りにする。",
+        "温かいご飯に梅干し・桜エビ・大葉、お好みで塩を入れ、混ぜる。",
+        "お好きな形に握って出来上がり♪",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "622640",
+    "advice": "塩は梅干しの塩分によっても変わってくるので、お好みの分量を入れて下さい。",
+    "history": "ちょっと地味だけど、梅のおにぎりが大好きなんです♪でも、ちょっと変化をつけたくて、桜エビを入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "梅干し",
+        "桜エビ",
+        "大葉"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/622640/100x141c/24ae0ee54066ba504b9073cd5b1fe59d.jpg?u=793202&p=1304051766"
+}

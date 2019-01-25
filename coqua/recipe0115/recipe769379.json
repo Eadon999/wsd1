@@ -1,0 +1,56 @@
+{
+    "name": "ひらひらポテトの昆布チーズ揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/769379/464x260/9960d0574a7c5ee34bbe9dd58d60f233.jpg?u=625487&p=1238053575",
+    "datePublished": "2009-03-26",
+    "description": "塩昆布と粉チーズの塩気と旨みで、パリパリのポテトをいただきます",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "大１個"
+        },
+        {
+            "name": "塩昆布",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "米粉",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "日清ベジフルーツオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃが芋は皮を剥き、ピーラー等で薄い輪切りにする。１０分以上水に浸した後ザルにあげておく。",
+        "塩昆布、粉チーズ、米粉をよく混ぜ合わせる。",
+        "水８０ml(分量外)を加え、混ぜ合わせる。",
+        "鍋に揚げ油を熱し、数枚ずつ重ねた１を３の衣にくぐらせて入れる。高めの温度でパリッとなるまで揚げて油を切る。",
+        "器に盛り付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "769379",
+    "advice": "米粉は上新粉で代用してもOKです。お好みにより、塩昆布や粉チーズは増減して下さい。",
+    "history": "越冬じゃが芋の消費に。家族が飽きずに食べられるよう、いつもとは違った食べ方を色々考え中です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "塩昆布",
+        "粉チーズ",
+        "米粉"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/769379/100x141c/5d52512b56352b27ea5e382a2f861e96.jpg?u=625487&p=1238053575"
+}

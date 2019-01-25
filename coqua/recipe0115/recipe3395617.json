@@ -1,0 +1,56 @@
+{
+    "name": "麺つゆで簡単！小松菜とシメジのおひたし",
+    "author": {
+        "@type": "Person",
+        "name": "rui61"
+    },
+    "image": "https://img.cpcdn.com/recipes/3395617/464x260/e62cf75fbcab6b4fd80f8b79586fb533.jpg?u=1698878&p=1441808991",
+    "datePublished": "2015-09-09",
+    "description": "麺つゆで簡単！ちょっとした一品やお弁当のおかずにどうぞ！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1袋"
+        },
+        {
+            "name": "シメジ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "麺つゆ(ストレート)",
+            "quantity": "200cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を3等分に切って茎の部分を先に沸騰した鍋に入れる。2分程度茹でてから、葉の部分を入れて1分茹でる。塩で下味。",
+        "1を鍋からザルに取り出して、冷水で冷やす。",
+        "シメジも沸騰した鍋で3分茹でて塩で下味をつける。2と同様に冷水で冷やす。",
+        "容器に小松菜とシメジ、麺つゆ、醤油、酒を入れて冷蔵庫で3時間寝かして完成！"
+    ],
+    "cookTime": null,
+    "recipe_id": "3395617",
+    "advice": "簡単なのでコツはいりません。",
+    "history": "冷蔵庫の余り物で。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜 おひたし めんつゆ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/3395617/100x141c/45dfc57d6e2b8a95cb3f696a4345cdb7.jpg?u=1698878&p=1441808991"
+}

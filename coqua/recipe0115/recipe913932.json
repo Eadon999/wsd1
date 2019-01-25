@@ -1,0 +1,68 @@
+{
+    "name": "ちゃちゃっと☆牛肉とﾌﾞﾛｯｺﾘｰ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "☆SHuge"
+    },
+    "image": "https://img.cpcdn.com/recipes/913932/464x260/06e804730293252a4ff5addf23e02273.jpg?u=1482781&p=1253152632",
+    "datePublished": "2009-09-17",
+    "description": "アメリカのアジア料理では かなり定番の牛肉とブロッコリー炒め☆ちゃちゃっと作って食卓にどうぞ♫",
+    "recipeYield": "2〜3人",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "１株"
+        },
+        {
+            "name": "牛 薄切り",
+            "quantity": "150g"
+        },
+        {
+            "name": "パフリカ(なくても)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ニンニクみじん",
+            "quantity": "1片"
+        },
+        {
+            "name": "サラダオイル",
+            "quantity": "少々"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "塩 コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッッコリーを小房に切り、レンジで２分ほどチン!\n牛は4-5センチに切りパプリカも細切りにします。\n",
+        "フライパンにオイルを入れニンニクを炒め、香りが出たら牛を入れて炒めます。",
+        "肉の色が変わったら、パプリカとチンしたブロッコリーを加えてさっと炒め、ソースを入れて手早く炒めます。",
+        "火を消して、お皿に盛ったら出来上がり☆"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "913932",
+    "advice": "面倒な時は焼き肉のタレにオイスターソース大２を足しても美味しいですっ☆",
+    "history": "少々砂糖で甘辛に！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 ブロッコリー"
+    ],
+    "tsukurepo_count": "70",
+    "thumbnail": "https://img.cpcdn.com/recipes/913932/100x141c/84609fb52011aa19da295c388a838339.jpg?u=1482781&p=1253152632"
+}

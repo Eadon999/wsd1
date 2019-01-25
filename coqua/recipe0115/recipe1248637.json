@@ -1,0 +1,67 @@
+{
+    "name": "【農家のレシピ】セロリのおかかキンピラ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1248637/464x260/eca465bb4aceea849ee4b1aa1c3c0aa2.jpg?u=2513693&p=1286025390",
+    "datePublished": "2010-10-04",
+    "description": "皮むき、筋取り必要なしです☆ 筋を断ち切る斜め切りなので、そのままジャーっと5分炒めて美味しいキンピラの完成です～♪",
+    "recipeYield": "２～4人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ",
+            "quantity": "4本（茎のみの重量300ｇ）"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "1本（半分に切って種を取る）"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "５ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "セロリは葉以外を使います。茎の部分を5ミリの斜め切りにします。皮や筋もそのままで。",
+        "フライパンにゴマ油大さじ１と鷹の爪を入れ熱し、セロリを入れて2分炒めます",
+        "次に【A】を入れ強火で3分炒め、汁けがなくなったら、最後に【B】を入れざっと炒めて完成です。",
+        "お酒のあてやお弁当にどうぞ～。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1248637",
+    "advice": "セロリのシャキシャキ感を残すために調味料を入れてからは強火で手早く調理して下さいね☆",
+    "history": "セロリを栽培していますが、まず最初にこの食べ方をします。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "セロリ",
+        "ゴマ油",
+        "鷹の爪",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1248637/100x141c/fcf232e6743702b2a38bddff09546cb0.jpg?u=2513693&p=1286025390"
+}

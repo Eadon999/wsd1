@@ -1,0 +1,72 @@
+{
+    "name": "ふんわりがご馳走☆蟹豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "miyakko"
+    },
+    "image": "https://img.cpcdn.com/recipes/39712/464x260/523b4f58c79fcff919547cd56576316a.jpg?u=2665&p=1214208903",
+    "datePublished": "2002-01-20",
+    "description": "ふんわりお豆腐と暖っか蟹あんは冬にとってもうれしいご馳走です。ネギと生姜をごま油でジックリ炒めるのがコツ！",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "白ネギ",
+            "quantity": "３分の１本"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "300cc"
+        },
+        {
+            "name": "トリガラスープ",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "蟹",
+            "quantity": "適量"
+        },
+        {
+            "name": "かたくり粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "茹蟹は殻をはずして身を出しておく。\r\nネギ・生姜はみじん切りにして、ごま油で（低温）香りがでるまで炒める。",
+        "水を加え、煮立ったらトリガラスープを入れる。蟹身を入れ、塩・コショウを加え味を整える。",
+        "豆腐を入れ再び煮立ったら、かたくり粉でとろみをつける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "39712",
+    "advice": "",
+    "history": "中華の基本、ネギと生姜のごま油低温炒めを使ってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/蟹"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かに豆腐",
+        "カニ豆腐"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/39712/100x141c/63c9384aabe43e71902c3f306277d2ad.jpg?u=2665&p=1214208903"
+}

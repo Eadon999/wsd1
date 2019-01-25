@@ -1,0 +1,62 @@
+{
+    "name": "さつま芋のツナマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3387140/464x260/7a91eda456edb9b60af9b522fdb0040d.jpg?u=3280486&p=1441502459",
+    "datePublished": "2015-09-06",
+    "description": "さつま芋が入っているので食べごたえアリ♫簡単＆美味しい一品です（●＾o＾●）",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "さつま芋",
+            "quantity": "1/2本（約200g）"
+        },
+        {
+            "name": "玉葱（みじん切り）",
+            "quantity": "1/4個（約50g）"
+        },
+        {
+            "name": "青ネギ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶（80g）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "粉末かつおダシ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉葱はみじん切りにしたら辛味を抜くために5分水にさらした後、水気を切ります。",
+        "角切りにしたさつま芋を水で洗い、お皿にのせてラップをします。レンジ500Ｗで3分加熱します。",
+        "②の粗熱が取れたら、①＆②＆<具材他>を混ぜ合わせてお皿に盛り、青ネギをのせたら完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3387140",
+    "advice": "ツナ缶は「油（水気）を切ってから混ぜる」とより美味しくなりますよ(*^^)v",
+    "history": "「美味しい＆腹もちの良いマヨサラダ」を食べたくて考えました☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま芋",
+        "玉葱",
+        "青ネギ",
+        "ツナ缶"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/3387140/100x141c/7ffbb455509ee4e5fa15a3f21ac52f1f.jpg?u=3280486&p=1441502459"
+}

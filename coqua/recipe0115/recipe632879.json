@@ -1,0 +1,84 @@
+{
+    "name": "冬瓜の韓国風スープ",
+    "author": {
+        "@type": "Person",
+        "name": "guemi"
+    },
+    "image": "https://img.cpcdn.com/recipes/632879/464x260/fb960357aab88c0a1b0d6fab5eac2e5b.jpg?u=533760&p=1219668443",
+    "datePublished": "2008-08-25",
+    "description": "にんにくが利いていて美味しいです♪",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚（200g位）"
+        },
+        {
+            "name": "■にんにく",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "■塩、こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "冬瓜",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "だし汁（普通のかつおだし等）",
+            "quantity": "1000cc"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "大匙　１～"
+        },
+        {
+            "name": "こいくち醤油",
+            "quantity": "大匙　１～"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "小葱",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は、一口大（小さめ）に切り、すりおろしにんにく、塩こしょうを揉みこむ",
+        "サラダ油で、鶏肉を炒め、火が通ったら、食べやすい大きさに切った冬瓜を投入。油がまわったら、だし汁を注ぐ。",
+        "煮立ったら、薄口しょうゆ、こいくち醤油、塩、こしょうで味を調え、白ゴマを加え、ごま油をたらす。",
+        "仕上げに小葱を散らして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "632879",
+    "advice": "だし汁は、いりこや、かつお、昆布など、日本のだし汁でOKです。白ゴマは、軽く手で捻りながら入れると美味しいです。",
+    "history": "韓国料理にハマっていてあれこれ見ながら、挑戦しています。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/エスニックなスープ/韓国風スープ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "にんにく",
+        "塩、こしょう",
+        "冬瓜"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/632879/100x141c/dea0c8a1e79d7d405292d1c2dc17a0d0.jpg?u=533760&p=1219668443"
+}

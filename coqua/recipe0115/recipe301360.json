@@ -1,0 +1,58 @@
+{
+    "name": "かわいい☆プチサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "きょっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/301360/464x260/2f40a3c978c3d029333b4eb006293fae.jpg?u=322945&p=1214214073",
+    "datePublished": "2006-11-16",
+    "description": "料理の彩りに、お弁当に、野菜嫌いのお子様もきっと食べてくれるはず・　・　",
+    "recipeYield": "５個",
+    "recipeIngredient": [
+        {
+            "name": "プチトマト",
+            "quantity": "５個"
+        },
+        {
+            "name": "コーン",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "２㎝くらい"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２㎝くらい"
+        },
+        {
+            "name": "レタス",
+            "quantity": "少し"
+        },
+        {
+            "name": "お好みで、塩、胡椒、マヨネーズなど。",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトの上部分を切り、中身をスプーン等でだす。コーン以外の野菜はみじん切りにし、お好みの味付けをしてトマトに詰める。飾り用にふたもとっておく。",
+        "完成。\r\nブロッコリー、ゆで卵など、いろいろな野菜でカラフルに、おもてなしにも是非。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "301360",
+    "advice": "底を薄く削ぐと倒れません。",
+    "history": "子供に食べやすいサラダを考えました。息子は７～８個たべました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "プチトマト",
+        "コーン",
+        "にんじん",
+        "きゅうり"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/301360/100x141c/cf91a7ed3035dd5dca7f995dd5af01a7.jpg?u=322945&p=1214214073"
+}

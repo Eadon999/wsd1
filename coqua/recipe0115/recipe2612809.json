@@ -1,0 +1,61 @@
+{
+    "name": "オッサンのマヨ中華風ドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "イベ長"
+    },
+    "image": "https://img.cpcdn.com/recipes/2612809/464x260/61e6940d00acabadbe512d595fb73a0f.jpg?u=3323767&p=1399086707",
+    "datePublished": "2014-05-03",
+    "description": "あと一品欲しい時に、すぐに出来る簡単ドレッシングです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "１～２センチ"
+        },
+        {
+            "name": "生姜(チューブ)",
+            "quantity": "１～２センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全て混ぜたら出来上がり☆\nあとは、お好きな野菜に和えて下さい。",
+        "写真は、ごぼう・人参の千切り、オクラの輪切りをレンジでチンして、荒熱を取ってから和えてます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2612809",
+    "advice": "コツは、特にありませんが、お好みで調味料の量を調整して下さい。",
+    "history": "中華風味のドレッシングが欲しかったので、ウチにある材料で作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": [
+        "中華ドレッシング 4位"
+    ],
+    "related_keywords": [
+        "マヨネーズ ドレッシング",
+        "中華ドレッシング"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2612809/100x141c/25c93313fe49153bd348db72b45fc917.jpg?u=3323767&p=1399086707"
+}

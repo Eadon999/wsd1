@@ -1,0 +1,40 @@
+{
+    "name": "春菊とベーコンの炒め物",
+    "author": {
+        "@type": "Person",
+        "name": "ミサプチ"
+    },
+    "image": "https://img.cpcdn.com/recipes/283906/464x260/2dc47a8b568a099950b311f752d6c214.jpg?u=212670&p=1214213691",
+    "datePublished": "2006-09-28",
+    "description": "ベーコンの脂で炒めるから、うまみがタップリ (o^^o) 簡単❤️",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "春菊",
+            "quantity": "1/2わ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "春菊は水で洗い、水気を切って３ｃｍの長さに切る。ベーコンも３ｃｍ幅に切る。",
+        "脂を熱し、ベーコンを入れて火にかけ、よく炒めてカリカリになってきたら、春菊の茎、葉の順に加えて炒める。",
+        "春菊がしんなりとしてきたら、塩コショウで味をととのえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "283906",
+    "advice": "ベーコンは良く炒めてね☆　　画像は、チョッと炒めたりなかったかな～ ",
+    "history": "春菊を使いたかったよ　ベーコンをタップリ使ってるよ★　 この料理は、春菊もベーコンも欠かせないよ♪ 　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/春菊"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春菊",
+        "ベーコン"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/283906/100x141c/f57305c04267a567ae6abbad58e200ab.jpg?u=212670&p=1214213691"
+}

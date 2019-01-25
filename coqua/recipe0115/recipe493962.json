@@ -1,0 +1,62 @@
+{
+    "name": "納豆たまご味噌",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/493962/464x260/63c3e402dd71ab29b65ddce1ec05048c.jpg?u=230354&p=1215133413",
+    "datePublished": "2008-01-24",
+    "description": "これがあると、他のおかずが売れない・・・。うちの子供達が大好きな納豆の食べ方です。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "納豆",
+            "quantity": "1パック"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "納豆のタレ",
+            "quantity": "1つ"
+        },
+        {
+            "name": "◎しょうが（すりおろし）",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎味噌",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ1.5"
+        }
+    ],
+    "recipeInstructions": [
+        "納豆は包丁でたたいてひきわりにして、タレを絡めておく。卵はよく溶く。",
+        "◎をよく混ぜ合わせてから、鍋に入れて火にかける。ふつふつ言い出したら弱火にし、卵を流し入れて常によくかき混ぜる。",
+        "卵が8割ほど固まったら、納豆を入れ、よくかき混ぜたら出来上がり。（20秒～30秒ほどです）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "493962",
+    "advice": "納豆が入ると、ちょっとお鍋にくっつきやすくなりますが、焦がさないようにしてください。",
+    "history": "子供達は納豆が好きなんですが、ネバネバのままだと何かと面倒なので。これだと食べやすい♫",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/納豆",
+        "その他/秋におすすめ料理/秋のご飯の友/おかず味噌"
+    ],
+    "rankings": [
+        "卵味噌 6位"
+    ],
+    "related_keywords": [
+        "卵味噌"
+    ],
+    "tsukurepo_count": "364",
+    "thumbnail": "https://img.cpcdn.com/recipes/493962/100x141c/995fbb4b19aa673b0d794ff14bef1d26.jpg?u=230354&p=1215133413"
+}

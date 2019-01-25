@@ -1,0 +1,71 @@
+{
+    "name": "むね肉のレモン風味青じそ天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "けろっぴン"
+    },
+    "image": "https://img.cpcdn.com/recipes/4280187/464x260/914539621d38f3d120d93843672bfc34.jpg?u=4618537&p=1484005882",
+    "datePublished": "2017-01-10",
+    "description": "さっぱりな鶏天。下味のレモンが風味良くクセがなく美味しく揚がります。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "・酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "・レモン果汁",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "・塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "少々"
+        },
+        {
+            "name": "青じそ",
+            "quantity": "3枚くらい"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "山盛り大さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ2〜3"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏むね肉を食べやすくななめそぎ切りにして酒、レモン果汁、塩で揉み込んで下味をつけます。",
+        "30分くらいおいたらお肉に片栗粉をかけてなじませます。",
+        "お好みの天ぷら粉を溶き、刻んだ青じそを混ぜて衣を薄めにつけ、からりと揚げます。",
+        "お好みで塩か天つゆで★"
+    ],
+    "cookTime": null,
+    "recipe_id": "4280187",
+    "advice": "下味を揉み込むとしっとり。揚げ終わりにかき混ぜるよう空気に触れさせるとカリッとします。",
+    "history": "さっぱりが好きなわが家のレシピです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉 てんぷら",
+        "とり天下味",
+        "大葉 天ぷら",
+        "鶏むね肉 大葉 天ぷら"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/4280187/100x141c/b68d3bed42b7aec637cdc2c47ee9437d.jpg?u=4618537&p=1484005882"
+}

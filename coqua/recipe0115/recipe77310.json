@@ -1,0 +1,51 @@
+{
+    "name": "5分でおつまみ◎叩き山芋のピリカラ和え◎",
+    "author": {
+        "@type": "Person",
+        "name": "しゅう☆みり"
+    },
+    "image": "https://img.cpcdn.com/recipes/77310/464x260/bd59744c4a3958e56a80d42dd431bd4d.jpg?u=10206&p=1214209616",
+    "datePublished": "2003-01-28",
+    "description": "ごま油と豆板醤の味がピリリと効いた、美味しい1品。おつまみにはもちろん、ご飯も進むよ～～！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長いも",
+            "quantity": "15ｃｍくらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "刻みのり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長いもは皮を剥いて、ビニール袋に入れ、めんぼうなどで叩いて食べやすい大きさにします。",
+        "調味料で和えて、器に盛り、刻みのりを乗せて出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "77310",
+    "advice": "",
+    "history": "居酒屋さんで食べたものを思い出しながら作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋",
+        "その他/おもてなし料理/お客様いろいろ！/野菜でおもてなし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋 おつまみ"
+    ],
+    "tsukurepo_count": "84",
+    "thumbnail": "https://img.cpcdn.com/recipes/77310/100x141c/9060d000e2f8ee6bfa85cb85b95e3212.jpg?u=10206&p=1214209616"
+}

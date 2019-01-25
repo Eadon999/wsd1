@@ -1,0 +1,48 @@
+{
+    "name": "ひと手間で、焼きそばが旨くなる♫♬",
+    "author": {
+        "@type": "Person",
+        "name": "miino"
+    },
+    "image": "https://img.cpcdn.com/recipes/413342/464x260/1e9c52a54216a2f324ef77222b883fcb.jpg?u=413625&p=1214216891",
+    "datePublished": "2007-08-04",
+    "description": "ごごネタ＂クックＴＶ”で紹介されました！ひと手間で風味とカルシウムがアップします☆ 　",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "小えび",
+            "quantity": "一袋"
+        },
+        {
+            "name": "キャベツなどお好みの野菜",
+            "quantity": "適量"
+        },
+        {
+            "name": "豚肉など、ハム、ベーコンでも",
+            "quantity": "適量"
+        },
+        {
+            "name": "焼きそば",
+            "quantity": "1袋（３食用）"
+        }
+    ],
+    "recipeInstructions": [
+        "桜えびをフライパンで、よく、から煎りして、一旦、皿に移しておく。",
+        "フライパンに、サラダ油を熱し、肉、野菜を炒め、半分の量の、粉末ソースをまぜる。次に、麺と、少量の水を入れ炒め残りの粉末ソースと、１の桜えびを入れる。",
+        "皿に盛り付け、あれば、紅生姜や、青海苔などをトッピングして完成♫♬"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "413342",
+    "advice": "フライパンに、油を入れずに、桜えびを、よく、から炒りして下さい。",
+    "history": "以前、妹が作ってくれたのが、おいしくて、作り方を聞きました。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼きそば　ハム　キャベツ",
+        "焼きそば ひと手間"
+    ],
+    "tsukurepo_count": "148",
+    "thumbnail": "https://img.cpcdn.com/recipes/413342/100x141c/fb4149abefd0c7e7e5be8798b4e05654.jpg?u=413625&p=1214216891"
+}

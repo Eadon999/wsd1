@@ -1,0 +1,77 @@
+{
+    "name": "ガーリック塩焼きそば",
+    "author": {
+        "@type": "Person",
+        "name": "papico13"
+    },
+    "image": "https://img.cpcdn.com/recipes/1223733/464x260/71f28dfa90a103a00220b40006d1eec9.jpg?u=994814&p=1283388704",
+    "datePublished": "2010-09-02",
+    "description": "シンプルな塩焼きそばにすりおろしニンニクを加えて、パンチの効いた味に。ニンニクの香りで食欲増進です＾＾",
+    "recipeYield": "多め1人分",
+    "recipeIngredient": [
+        {
+            "name": "中華麺",
+            "quantity": "1玉"
+        },
+        {
+            "name": "豚コマ肉",
+            "quantity": "50g"
+        },
+        {
+            "name": "エビ",
+            "quantity": "4〜5尾"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "2枚ほど"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "鶏がらスープ粉末",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "すりおろしニンニク（チューブタイプ）",
+            "quantity": "2〜3cm"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は適当な大きさに切っておく。",
+        "フライパンにサラダ油を熱し、豚肉、エビを入れて炒める。\r\n",
+        "野菜も入れて炒め、火が通ったら中華麺と酒を加えて麺をほぐしながら炒める。\r\n",
+        "Aを合わせてフライパンに加え、水気をとばしながらさらに炒める。\r\n",
+        "水気がなくなったら塩こしょうで味を調えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1223733",
+    "advice": "麺を入れたら強火で手早く炒めると美味しくできます＾＾",
+    "history": "いつもの塩焼きそばに少しパンチを効かせたくて。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/焼きそば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんにく塩焼きそば"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1223733/100x141c/728b7f968de68cd767c18256fecc9e78.jpg?u=994814&p=1283388704"
+}

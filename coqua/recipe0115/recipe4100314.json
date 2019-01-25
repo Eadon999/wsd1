@@ -1,0 +1,57 @@
+{
+    "name": "つくりおき！さんまのオイル漬け",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4100314/464x260/f5d20dc8de19b4839b44616593e3107a.jpg?u=4376699&p=1475334375",
+    "datePublished": "2016-10-02",
+    "description": "オリーブオイルでじっくり煮て冷蔵庫でつくりおき♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さんま",
+            "quantity": "1匹"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "バジル",
+            "quantity": "少々"
+        },
+        {
+            "name": "ローズマリー",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "1cm"
+        }
+    ],
+    "recipeInstructions": [
+        "さんまを3枚におろして小骨を取って塩を振ってしばらくしたらペーパーで押さえて水気を取り塩胡椒を振る",
+        "さんまと香草オイルを小さいフライパンに入れ中火",
+        "煮立ってきたら弱火で5分煮て完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4100314",
+    "advice": "炒めてそのままおかずやおつまみにも♪軽く炒めたりパン粉を付けてオーブントースターで焼いたり色々楽しんでください",
+    "history": "イタリアンにしようとして3枚おろしにしてちょっとオイルで漬けてみましたさんまの三枚おろし　ID:2834074",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "魚のオイル漬け",
+        "さんま オイル漬け",
+        "さんま　作り置き"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4100314/100x141c/613262014a85a6f12f4256bf78fab3dc.jpg?u=4376699&p=1475334375"
+}

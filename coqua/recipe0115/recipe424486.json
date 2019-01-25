@@ -1,0 +1,66 @@
+{
+    "name": "さんまと長ネギの炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/424486/464x260/fbe0dd64c34b7bbac86a7f1224faeece.jpg?u=230354&p=1214217114",
+    "datePublished": "2007-09-02",
+    "description": "旬のさんまを楽しむ炊き込みご飯です。長ネギがとろっと甘いのもおいしい♫",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "さんま",
+            "quantity": "2尾"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "1本"
+        },
+        {
+            "name": "◎生姜（すりおろし）",
+            "quantity": "小さじ2～"
+        },
+        {
+            "name": "◎うすくち醤油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "◎塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "米は洗ってザルにあげておく。長ねぎは5mmくらいの斜め切りにする。",
+        "さんまのはらわたを取り除き、塩を振って20～30分置いたあと、キッチンペーパーで拭く。",
+        "フライパンにクッキングペーパーを敷いてさんまを焼く。",
+        "炊飯器に米と◎を入れて、水を2合の目盛りまで入れる。よくかき混ぜて、長ねぎ→さんまの順のせて炊く。",
+        "炊き上がったら、さんまの頭と骨を取り除いてほぐす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "424486",
+    "advice": "フライパンにクッキングペーパーを敷いて焼くと、きれいに焼けるし後片付けもラクチン♫",
+    "history": "お魚があまり好きでない旦那も、炊き込みご飯にするとよく食べてくれます♫　　　　　　　　　　ただ骨取るのが嫌いなだけなような・・・子供か！？",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯",
+        "今日のご飯・おかず/魚介のおかず/さんま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長ネギ炊き込みご飯"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/424486/100x141c/26f3d9edf2ddee2894f32ddb8ec7e33e.jpg?u=230354&p=1214217114"
+}

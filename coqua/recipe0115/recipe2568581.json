@@ -1,0 +1,60 @@
+{
+    "name": "簡単☆厚揚げと白菜・人参の煮物♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2568581/464x260/72acc565274a8a8bb4adf579c1058755.jpg?u=7402421&p=1396401105",
+    "datePublished": "2014-04-02",
+    "description": "♪♪感謝♪♪　2014/11/29　話題入り！有難うございます♪ごく普通の煮物です☆白菜から出る旨みで勝負♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "350g"
+        },
+        {
+            "name": "白菜",
+            "quantity": "180g"
+        },
+        {
+            "name": "人参",
+            "quantity": "50g"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "200cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "うすくち醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは、油抜きして、一口大に切る。\n人参は、輪切りにして、白菜は、2cm幅に切る。",
+        "だし汁で、厚揚げと人参を煮る。\n人参が軟らかくなり始めたら、白菜と調味料を加える。",
+        "白菜を煮汁になじませながら煮て、全体が軟らかくなったら、出来上がり～♪"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2568581",
+    "advice": "白菜を投入した時、煮汁は少なめですが、白菜からどんどん水が出るので、ご心配なく。",
+    "history": "この組み合わせで、昔から、何度も作ってるのに、レシピを上げてないことに、昨日、気付いたんです・・・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 にんじん煮物"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/2568581/100x141c/f73076bba85025add204b4ed27ef3d3c.jpg?u=7402421&p=1396401105"
+}

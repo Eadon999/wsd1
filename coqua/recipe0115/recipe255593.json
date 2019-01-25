@@ -1,0 +1,54 @@
+{
+    "name": "ホウレン草のオイスターマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "まろんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/255593/464x260/833b4878103c5785c37b3d973bf5d7f3.jpg?u=251468&p=1214213047",
+    "datePublished": "2006-05-22",
+    "description": "サラダほうれん草じゃなくて、普通のほうれん草を使ったサラダです。まろやかでゴハンが進む！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１くらい"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1/2くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を軽く茹でて、冷水で冷まし、食べやすいサイズに切ります。\r\n（おひたしを作る要領で）",
+        "オイスターソース、マヨネーズ、砂糖を混ぜ合わせて、ほうれん草と混ぜます。",
+        "炒り卵を作って、ほうれん草の上に乗せて完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "255593",
+    "advice": "サラダなので、ほうれん草は、茹ですぎないほうがおいしいと思います。卵と混ぜ混ぜして食べます！",
+    "history": "鉄分補給のために、ほうれん草をモリモリ食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "卵",
+        "オイスターソース",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "260",
+    "thumbnail": "https://img.cpcdn.com/recipes/255593/100x141c/c4f89a36ffad5a2f161107f50def1941.jpg?u=251468&p=1214213047"
+}

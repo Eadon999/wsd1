@@ -1,0 +1,62 @@
+{
+    "name": "トマト&ツナ＆レタス＆コーンのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "きゃさりん亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/392621/464x260/76856afc2018291afc8ad7922803e265.jpg?u=266147&p=1214216472",
+    "datePublished": "2007-06-21",
+    "description": "普通のサラダ・・・でも混ぜてしまうとパクパク結構食べられるんです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "大２個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１～２缶（１６０ｇ）"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１玉"
+        },
+        {
+            "name": "コーン",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３～４杯"
+        }
+    ],
+    "recipeInstructions": [
+        "レタスを一口ぐらいの大きさに手でちぎる。\r\nトマトを一口サイズより小さめに切る。",
+        "レタス、トマト、ツナ、コーンをボールに入れて塩、コショウをしてマヨネーズを入れる。よく混ぜる。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "392621",
+    "advice": "コショウを多めがおすすめです。。。水分が出ますので食べる直前に塩、コショウ、マヨネーズを和えてくださいね。野菜類は冷蔵庫で冷やしておく方が美味しいですよ。。。",
+    "history": "昔から食べてます。。。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "ツナ缶",
+        "レタス",
+        "コーン"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/392621/100x141c/2541d7ba6cadf8be488f7c751ceb7af0.jpg?u=266147&p=1214216472"
+}

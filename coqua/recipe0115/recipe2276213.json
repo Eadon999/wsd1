@@ -1,0 +1,60 @@
+{
+    "name": "サーモンのムニエルパセリソースがけ",
+    "author": {
+        "@type": "Person",
+        "name": "さにパン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2276213/464x260/b2a806bae8b91a05e7e8e830203161c8.jpg?u=5174465&p=1372902440",
+    "datePublished": "2013-07-04",
+    "description": "おいしい鮭のムニエル．子供も大好きですよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "サーモン",
+            "quantity": "６切れ"
+        },
+        {
+            "name": "塩コショー",
+            "quantity": "少々適量"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "２本"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "水気をふきとったサーモンに塩コショーして小麦粉を振ります．",
+        "フライパンに油をしいてサーモンを焼きます．焼けたらとりだしてフライパンの油を拭き取ります．",
+        "フライパンにバターいれてとけだしたらレモン汁をいれてパセリをいれてさっといためたらできあがり",
+        "サーモンにかけていただきましょう．"
+    ],
+    "cookTime": null,
+    "recipe_id": "2276213",
+    "advice": "とっても簡単です．ソースは炒めすぎなくてＯＫですよ",
+    "history": "サーモンはよく登場するおかずです．平日は魚料理メインなのでいろいろ楽しんで作ります．パセリソースもくせがなくておいしいですよ．",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パセリソース"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/2276213/100x141c/4fb968989bb50b3db172a62e97b57d61.jpg?u=5174465&p=1372902440"
+}

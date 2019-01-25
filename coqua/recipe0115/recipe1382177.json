@@ -1,0 +1,64 @@
+{
+    "name": "小松菜シメジとシーチキンの醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "yangyangs"
+    },
+    "image": "https://img.cpcdn.com/recipes/1382177/464x260/3c3a373cb4ae91ed8421041ed53b3e0b.jpg?u=2945009&p=1338396913",
+    "datePublished": "2011-03-08",
+    "description": "野菜ときのこにシーチキンの水煮、10分で作れる低カロリーで栄養バランスが最高なレシピーです☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1把"
+        },
+        {
+            "name": "シメジ",
+            "quantity": "1袋"
+        },
+        {
+            "name": "シーチキン（水煮）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンで油を熱し、小松菜とシメジをいれて、炒める。",
+        "しんなりなってきたら、シーチキンを水をきって入れて、さらに炒める。",
+        "調味料を入れて、水っぽくなってきたら、中火にして、蓋をして5分ぐらい蒸す。\n",
+        "蓋を開けて、強火で1分ぐらい、お酒を飛ばしたら、出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1382177",
+    "advice": "特になし♪とっても簡単にさっと作れます！",
+    "history": "シーチキンの消費に♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "シメジ",
+        "シーチキン",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1382177/100x141c/9ad3c6ee412f373e4ca35d923ca80b42.jpg?u=2945009&p=1338396913"
+}

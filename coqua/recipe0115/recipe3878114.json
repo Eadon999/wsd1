@@ -1,0 +1,61 @@
+{
+    "name": "かつおの角煮",
+    "author": {
+        "@type": "Person",
+        "name": "ぱこっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/3878114/464x260/0dac4af2faae38282506a6bb42ba96eb.jpg?u=14834720&p=1464098271",
+    "datePublished": "2016-05-24",
+    "description": "煮魚の臭さが激減でお魚苦手な人でもOKのはず♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "かつお（お刺身用のさく）",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "★生姜（千切り）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "かつおを食べやすい大きさにカット。\n沸騰したお湯の中に入れ白くなったら取り出す。",
+        "お鍋を洗い、1を入れる。",
+        "2の中に★を全て入れて、カツオが色良くなるまでコロコロし、15分程煮る。",
+        "煮汁が少なくなったら一気に強火にしに煮詰める。",
+        "出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3878114",
+    "advice": "お刺身用なので生でも食べられる点から火の通りなど神経質にならずに作れます♪",
+    "history": "煮魚の臭いが気になる私なのですが、下茹で、生姜のダブル消臭で美味しく食べることが出来ました♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かつお"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かつお 角煮"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/3878114/100x141c/b7d88ddf619e5749a3598d9f0fa616ee.jpg?u=14834720&p=1464098271"
+}

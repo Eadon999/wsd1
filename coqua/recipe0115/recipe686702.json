@@ -1,0 +1,76 @@
+{
+    "name": "大根をひき肉といっしょに炊きました",
+    "author": {
+        "@type": "Person",
+        "name": "ちゃぶきち"
+    },
+    "image": "https://img.cpcdn.com/recipes/686702/464x260/3dadb444070c5d5d21883c0654b0e44b.jpg?u=648582&p=1227273440",
+    "datePublished": "2008-11-21",
+    "description": "大根をひき肉とたまねぎと一緒に炊いて、ごはんがすすむ一品に・・・",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１/２～１/３本"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "１５０グラム"
+        },
+        {
+            "name": "たまねぎ（粗みじんに切る）",
+            "quantity": "１/２コ"
+        },
+        {
+            "name": "◇しょうゆ",
+            "quantity": "大さじ２～３"
+        },
+        {
+            "name": "◇砂糖",
+            "quantity": "大さじ１強"
+        },
+        {
+            "name": "◇酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "◇塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "◇こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は皮をむいて食べやすい大きさに切りる。",
+        "大根をかぶる位のサントリー天然水（分量外の塩ひとつまみを入れる）でやわらかく茹でる。 \r\n※茹で汁はそのまま使います。",
+        "フライパンでひき肉とたまねぎを炒める。",
+        "ひき肉とたまねぎを②の鍋にうつす。（ゆで汁はひたひたくらいの量に調節する）◇の調味料を入れて２０分くらい煮る。",
+        "水どき片栗粉でとろみをつけて、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "686702",
+    "advice": "ご飯にかけてもおいしいです。",
+    "history": "大根をたっぷり食べたくて",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "豚ひき肉",
+        "たまねぎ",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/686702/100x141c/89d1942ee276d44f5e78942ed8e9b943.jpg?u=648582&p=1227273440"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "フワッシャキッ♪キャベツのハンバーグ",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1165407/464x260/1f889c43bbe043fab3a6cbdd50dc0c3a.jpg?u=1228553&p=1313649201",
+    "datePublished": "2010-06-21",
+    "description": "キャベツの歯ごたえがなんともいえずふわふわでシャキシャキのハンバーグです♪ 経済的かつ健康的。お給料日前に！",
+    "recipeYield": "４人（８個）分",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "キャベツの千切り",
+            "quantity": "見た目でお肉と同量から倍量くらい"
+        },
+        {
+            "name": "★塩",
+            "quantity": "小さじ１と１/２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ１弱"
+        },
+        {
+            "name": "★生姜のすりおろし",
+            "quantity": "適量"
+        },
+        {
+            "name": "★ナツメグ（あれば）",
+            "quantity": "少々"
+        },
+        {
+            "name": "★卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "★パン粉",
+            "quantity": "２０ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールに豚ひき肉と★をすべていれよく混ぜ、キャベツをあわせさらに混ぜる",
+        "８個にわけ油を引いたフライパンで普通のハンバーグと同じ要領で焼く",
+        "ポン酢をかけて召し上がれ(・∀・)"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1165407",
+    "advice": "写真は炒めたもやしの上にハンバーグをのせ、ポン酢をかけ大葉を飾ったものです。キャベツは荒めに切るほど歯ごたえが残ります。キャベツの量はお好みにより増減してください♪今回はふわっと感も出したかったので、水分・パン粉多めです。",
+    "history": "豆腐ハンバーグのように、カロリーオフ・経済的・美味しい のって他にないかなと思い考えました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/ハンバーグ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ ハンバーグ"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1165407/100x141c/33d2bc71097b8f23dd69124a2dcfdb7c.jpg?u=1228553&p=1313649201"
+}

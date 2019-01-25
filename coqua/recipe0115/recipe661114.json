@@ -1,0 +1,59 @@
+{
+    "name": "水菜と油あげのさっと煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちょみくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/661114/464x260/ea91017aaf20d1f5294753014a975bb8.jpg?u=874483&p=1223396583",
+    "datePublished": "2008-10-08",
+    "description": "さっと煮るだけ♪あっさりのおかずです♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1わ"
+        },
+        {
+            "name": "薄あげ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "●水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "●顆粒和風だし",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1／2"
+        },
+        {
+            "name": "●薄口しょうゆ",
+            "quantity": "大さじ1／2"
+        }
+    ],
+    "recipeInstructions": [
+        "薄あげは熱湯を通し油抜きし、適当な大きさに切る。\r\n水菜も適当な大きさに切る。",
+        "フライパンに●の材料と薄あげをいれて3分程度煮る。",
+        "水菜を加え、全体を混ぜるる。水菜が少しクタッとしたら火を止める。出来上がり！",
+        "お好みで一味をふって♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "661114",
+    "advice": "水菜は「あっ」という間に火が通ります♪煮すぎないでくださーい（＾－＾）♪",
+    "history": "さっと作れる定番のおかずです(o^―^o)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "薄あげ",
+        "顆粒和風だし",
+        "みりん"
+    ],
+    "tsukurepo_count": "387",
+    "thumbnail": "https://img.cpcdn.com/recipes/661114/100x141c/dd8a10c50438f96880e2e7d9a721c305.jpg?u=874483&p=1223396583"
+}

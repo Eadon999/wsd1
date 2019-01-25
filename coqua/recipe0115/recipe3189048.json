@@ -1,0 +1,62 @@
+{
+    "name": "★美味しい＊厚揚げとチンゲン菜の煮物＊♪",
+    "author": {
+        "@type": "Person",
+        "name": "たかしママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3189048/464x260/bceb321e05015d0cc95f3855a709be00.jpg?u=454250&p=1432204044",
+    "datePublished": "2015-05-21",
+    "description": "絹厚揚げとチンゲン菜とかまぼこをめんつゆでパルスイートで味付けしたちょっと甘めの美味しいおかずですよ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹厚揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "チンゲン菜",
+            "quantity": "２株"
+        },
+        {
+            "name": "かまぼこ",
+            "quantity": "１本"
+        },
+        {
+            "name": "オリーブオイル(炒め用)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "めんつゆ(2倍濃縮)",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "パルスイート",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "オリーブオイルを入れたフライパンにざく切りにしたチンゲン菜を加えて炒めます。",
+        "１にサイコロに切った絹厚揚げを加えて炒めます。",
+        "２にかまぼこを加えて調味料を加えて中火で数分煮込みます。",
+        "器に盛って出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3189048",
+    "advice": "チンゲン菜はざく切りにして絹厚揚げはサイコロに切ります。調味料を加えて煮込むだけです。",
+    "history": "美味しそうなチンゲン菜があったので絹厚揚も買ってかまぼこと煮物にしました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 厚揚げ 煮物",
+        "厚揚げ かまぼこ",
+        "チンゲン菜 煮物"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/3189048/100x141c/9c46fd316f12b35dd19dd364f7d05e05.jpg?u=454250&p=1432204044"
+}

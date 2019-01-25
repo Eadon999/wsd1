@@ -1,0 +1,51 @@
+{
+    "name": "えのきのマスタード和え",
+    "author": {
+        "@type": "Person",
+        "name": "electoon"
+    },
+    "image": "https://img.cpcdn.com/recipes/835020/464x260/fef20070768bbe2929bf81690a104be9.jpg?u=1259253&p=1244699306",
+    "datePublished": "2009-06-11",
+    "description": "簡単に作れて、とってもヘルシー！",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "えのき",
+            "quantity": "１パック（２００ｇ）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マスタード",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "えのきのいしづきをとり、さっと茹でて水を切る。",
+        "ボウルに全ての調味料を入れて合わせ、１のえのきと和える。 \r\n",
+        null,
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "835020",
+    "advice": "えのきに水分が残りすぎていると、出来上がりが水っぽくなります。適度に水を切ってください。 マスタードの量は適宜調節してください。もっとたっぷりでもおいしいです。",
+    "history": "えのきのからし和えを、洋風にアレンジしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エノキ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えのき",
+        "醤油",
+        "マスタード",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/835020/100x141c/cc5f6c4114ed5bca0932d183fda1bfb1.jpg?u=1259253&p=1244699306"
+}

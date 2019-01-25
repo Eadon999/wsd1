@@ -1,0 +1,39 @@
+{
+    "name": "【農家のレシピ】れんこんの塩炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1651253/464x260/954a3ae63530d46aceca64ee75070e44.jpg?u=2513693&p=1323868799",
+    "datePublished": "2011-12-15",
+    "description": "生のままスライスしたれんこんをフライパンで炒めて塩で味付けしただけです。でもやみつきになるくらい美味しいんです♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "レンコン",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "薄く油を敷いたフライパンに皮を剥いて２～３ミリ程度の薄切りにしたレンコンを透き通るまでこんがり焼きます。",
+        "最後に塩をパラッと振って炒めて完成です"
+    ],
+    "cookTime": null,
+    "recipe_id": "1651253",
+    "advice": "れんこんに焦げ目が少し付くまでこんがり焼いたほうが美味しいよ。",
+    "history": "焼いたレンコンに醤油をかけて食べるのが好きなのですが、焼くのは時間がかかるので、炒めて食べたりしています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん 塩炒め",
+        "れんこん 農家のレシピ"
+    ],
+    "tsukurepo_count": "88",
+    "thumbnail": "https://img.cpcdn.com/recipes/1651253/100x141c/5df94313d81b55be3516c2594b187586.jpg?u=2513693&p=1323868799"
+}

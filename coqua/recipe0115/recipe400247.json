@@ -1,0 +1,58 @@
+{
+    "name": "ごぼうの塩きんぴら♡柚子胡椒風味",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/400247/464x260/a2b5ccb0995672422eda92b2de59cf56.jpg?u=230354&p=1214216640",
+    "datePublished": "2007-07-06",
+    "description": "塩味のきんぴらにピリっと柚子胡椒をきかせて♫",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "1本"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "柚子胡椒",
+            "quantity": "小さじ1/3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "たっぷり"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうは皮をこそげて千切りにして、水にさらしてアクを抜く。",
+        "フライパンにゴマ油を熱し、ごぼうを炒める。しんなりするまで炒めたら、酒でのばした柚子胡椒を入れて水気がなくなるまで炒め、塩で味をととのえる。",
+        "白ゴマを加えて軽く混ぜたら出来上がり♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "400247",
+    "advice": "柚子胡椒は目安ですので、お好みで加減してください。",
+    "history": "ごぼうが1本だけ残ってたので、いつもと違うキンピラにしてみようと思って作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ごぼう",
+        "ゴマ油",
+        "柚子胡椒",
+        "酒"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/400247/100x141c/cdfe504992fe0ab7c5f86b86074ce72b.jpg?u=230354&p=1214216640"
+}

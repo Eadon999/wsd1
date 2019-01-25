@@ -1,0 +1,58 @@
+{
+    "name": "激うま！キャベツのマヨネーズ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "かぼちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/257159/464x260/99a6c9c575dfaf524955acb20f585197.jpg?u=58787&p=1214213077",
+    "datePublished": "2006-05-30",
+    "description": "キャベツがもりもり食べられます！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "1/2個くらい"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個から1個"
+        },
+        {
+            "name": "ハム（ソーセージでも可）",
+            "quantity": "適宜"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４～５くらい"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムを細切りにする。（ソーセージの場合は薄く切る）",
+        "フライパンにサラダ油を熱し、適当な大きさに切ったキャベツとたまねぎ、ハム（ソーセージ）を炒める。",
+        "大体火が通ったら、マヨネーズを入れて全体にからませて塩・コショウで味を調えて出来上がり！！"
+    ],
+    "cookTime": null,
+    "recipe_id": "257159",
+    "advice": "ハムを使う場合はキャベツとなじむように千切りするみたいに細く切るとおいしいです！",
+    "history": "急にビールが飲みたくなったので・・・！もちろんご飯のおかずにもなります♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "たまねぎ",
+        "ハム",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/257159/100x141c/9be9bef5644a34be74a22b8159117e2d.jpg?u=58787&p=1214213077"
+}

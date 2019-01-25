@@ -1,0 +1,55 @@
+{
+    "name": "牛肉のしぐれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "cosuzu"
+    },
+    "image": "https://img.cpcdn.com/recipes/1403567/464x260/da99c5c579a5f7aa69929a06edd19bfc.jpg?u=2851298&p=1302014950",
+    "datePublished": "2011-04-06",
+    "description": "すぐに出来てめちゃめちゃ美味しい～♪お弁当にも喜ばれます。運動会のお弁当に是非！",
+    "recipeYield": "４人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "牛肉(薄切り)",
+            "quantity": "300ｇ"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "たまりしょうゆ",
+            "quantity": "大3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "しょうがは薄切りにして、たまりしょうゆ、砂糖、みりんとともに鍋に入れ火にかける。",
+        "煮立ったら牛肉を入れる。",
+        "汁気がなくなるまで煮たら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1403567",
+    "advice": "お刺身用のたまりしょうゆを使うのがポイントです。甘辛味でとってもおいしいです。すぐに出来るので忙しい朝にもぴったり。おべんとうでもごはんが進みます。霜降り肉だとやわらかくなります。",
+    "history": "母に教えてもらいました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉",
+        "その他/お弁当/お弁当のメインおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "しょうが",
+        "たまりしょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1403567/100x141c/d1769002c75440f42e4a5a7af9ccceca.jpg?u=2851298&p=1302014950"
+}

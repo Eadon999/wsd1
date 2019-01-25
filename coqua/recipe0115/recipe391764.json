@@ -1,0 +1,66 @@
+{
+    "name": "なすと塩こんぶ de 即席漬け",
+    "author": {
+        "@type": "Person",
+        "name": "kachita"
+    },
+    "image": "https://img.cpcdn.com/recipes/391764/464x260/bdd3b0185f3064622b140d5cc37d4ab7.jpg?u=452724&p=1214216451",
+    "datePublished": "2007-06-19",
+    "description": "塩こんぶ即席漬けの第二弾！ご飯にも、ビールにも合います☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "中１本"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "大さじ1（大盛）"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１片"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "１個"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "鷹の爪",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１／２強"
+        }
+    ],
+    "recipeInstructions": [
+        "縦二等分に切ったなすを薄切りにする。",
+        "それを塩でもんで、１５分ほどおいた後、水が出てるので、手でしっかりと絞る。",
+        "塩こんぶ、千切りにしたしょうが、薄くスライスしたみょうが、白ゴマ、ゴマ油、鷹の爪を入れ、よく合わせる。２０ほどしてなじんだら、出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "391764",
+    "advice": "塩をした後、なすからかなり水が出るので、きつく絞ってください。塩こんぶの量は、お好みで調節してください。鰹節やじゃこなどを入れてもおいしいです。",
+    "history": "テレビの料理番組できゅうりの即席漬けをしていたものを、なすでしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "塩こんぶ",
+        "しょうが",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/391764/100x141c/4098cd16effd76b8603c370ab2702876.jpg?u=452724&p=1214216451"
+}

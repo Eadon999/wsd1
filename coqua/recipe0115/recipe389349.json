@@ -1,0 +1,58 @@
+{
+    "name": "夏★コチュマヨ冷やしサラダうどん",
+    "author": {
+        "@type": "Person",
+        "name": "りべまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/389349/464x260/12c0a31befc8352adfb8d188370d4c6a.jpg?u=214167&p=1214216395",
+    "datePublished": "2007-06-14",
+    "description": "サラダうどんってさっぱりして食べやすいけど、なんだか物足りない。。。そうだコチュマヨを足そう！！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "コチュジャン",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "うどん",
+            "quantity": "２００ｇくらい"
+        },
+        {
+            "name": "ツナ缶（大）",
+            "quantity": "１／２缶"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "１／２カップ"
+        },
+        {
+            "name": "お好みトッピング",
+            "quantity": "サラダ菜、わかめ、ゆで卵など"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんをゆでる。\r\n（市販のゆでうどんなら更に簡単！）",
+        "コチュジャンとマヨネーズを混ぜてツナ缶を和える。",
+        "洗ってぬめりを取り冷やしたうどんを皿に盛ってトッピングを飾り、ツナを上にのせたら全体にめんつゆを回しかけて出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "389349",
+    "advice": "コチュマヨツナとめんつゆを混ぜまぜしながらうどんに和えて食べてください♪",
+    "history": "最近はまったコチュマヨを使ったレシピを作りたくて。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コチュジャン",
+        "マヨネーズ",
+        "うどん",
+        "ツナ缶"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/389349/100x141c/b441fa43f22dd7b4eb6124816ab9b550.jpg?u=214167&p=1214216395"
+}

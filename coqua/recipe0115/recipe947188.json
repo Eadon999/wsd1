@@ -1,0 +1,67 @@
+{
+    "name": "朝から元気！キムトマ炒め丼",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/947188/464x260/979fa3a11cbfc302caddad5fabcf70ff.jpg?u=54489&p=1256478113",
+    "datePublished": "2009-10-26",
+    "description": "忙しい朝にぴったり！キムチとトマトにチーズの旨味でご飯がおいしく食べられる栄養たっぷりの丼です。疲労回復効果もアリ♪",
+    "recipeYield": "丼１杯分",
+    "recipeIngredient": [
+        {
+            "name": "豚挽き肉",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "丼１杯"
+        },
+        {
+            "name": "小葱の小口切り",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはくし切りに、キムチはざく切りにする。",
+        "豚挽き肉をパラっと炒め、トマトを加え炒め、火を止めキムチを加え、粉チーズと塩胡椒で調味し、ごま油をたらして香り付ける。",
+        "丼にごはんをよそい、2をのせ、小葱の小口切りを散らして出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "947188",
+    "advice": "",
+    "history": "キムチを使った丼が作りたくて考えました。トマトがジューシーで朝からモリモリいける！キムチとチーズの旨味でウマウマでした。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚挽き肉",
+        "トマト",
+        "キムチ",
+        "粉チーズ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/947188/100x141c/0ee21d4f48f269a11035967c05a5f2c3.jpg?u=54489&p=1256478113"
+}

@@ -1,0 +1,71 @@
+{
+    "name": "鮭のちゃんちゃん焼き",
+    "author": {
+        "@type": "Person",
+        "name": "soubi"
+    },
+    "image": "https://img.cpcdn.com/recipes/675033/464x260/6403ed05b4d1ff3da55666ad8a7ddd02.jpg?u=868856&p=1225545838",
+    "datePublished": "2008-11-01",
+    "description": "残り野菜でちゃちゃっと作れます。 しめじを入れると秋っぽい♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭",
+            "quantity": "２切れ"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "少々"
+        },
+        {
+            "name": "キャベツ・人参・ピーマン等",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "★味噌・酒",
+            "quantity": "各大匙２"
+        },
+        {
+            "name": "★醤油・砂糖",
+            "quantity": "各小匙１"
+        },
+        {
+            "name": "★水",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "バター",
+            "quantity": "小匙1程度"
+        },
+        {
+            "name": "すり白胡麻",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭に塩コショウして一口大に切る。 \r\n\r\n野菜を食べやすい大きさに切る。 \r\n★の材料を合わせておく。",
+        "フライパンに胡麻油をひき、鮭を焼く。両面に焼き色がつく程度でOK。 \r\n",
+        "野菜と★の材料を入れたら蓋をして弱火で8分程度煮込む。 \r\n\r\nバターを入れて更に2～3分煮込む。",
+        "仕上げにすりつぶした白胡麻をふりかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "675033",
+    "advice": "味が濃いようなら水をちょっと足して下さい。バターは★の材料と一緒に入れてもOKだけど、最後に入れたほうが香り良く仕上がります。",
+    "history": "野菜が微妙に残ってたので。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生鮭",
+        "塩コショウ",
+        "胡麻油",
+        "水"
+    ],
+    "tsukurepo_count": "89",
+    "thumbnail": "https://img.cpcdn.com/recipes/675033/100x141c/02eee0b4ae5ba5041dae74d43cfa23c1.jpg?u=868856&p=1225545838"
+}

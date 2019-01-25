@@ -1,0 +1,62 @@
+{
+    "name": "雑煮に飽きたら☆餅入りオムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/315231/464x260/c4fe9b4a4a7da0e300891085807384d3.jpg?u=255591&p=1214214396",
+    "datePublished": "2007-01-02",
+    "description": "オムレツの中にお餅をゴロゴロ入れました♪ これだけでお腹いっぱいになります☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "もち",
+            "quantity": "１個"
+        },
+        {
+            "name": "たまご",
+            "quantity": "１個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "たくさん"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "１/２パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "もちは７mm角に切る。\r\n硬ければフライパンで転がしてやわらかくしておく。\r\nねぎは小口切りにする。",
+        "溶き卵にごま油以外の全ての材料を混ぜ合わせる。\r\nフライパンにごま油を熱してオムレツを焼く要領で焼いて出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "315231",
+    "advice": "ねぎはたっぷりが美味しいと思います。まだ作ってはないのですがチーズ入りで洋風味付け（鶏がら＋マヨネーズ）なども面白いかも♪",
+    "history": "お餅の消費の悪い我が家。。。何とか美味しく消費したいなぁと苦肉の策（笑） 評判は上々でしたよ☆",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ",
+        "その他/お正月の料理/お餅/お餅活用レシピ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おもち オムレツ",
+        "餅入りオムレツ",
+        "お餅 雑煮",
+        "餅"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/315231/100x141c/f88f39df9eaf92fe94ecf862d96fc661.jpg?u=255591&p=1214214396"
+}

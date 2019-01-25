@@ -1,0 +1,63 @@
+{
+    "name": "切って煮るだけ☆鶏とナスの照り焼き煮☆",
+    "author": {
+        "@type": "Person",
+        "name": "sayata"
+    },
+    "image": "https://img.cpcdn.com/recipes/559613/464x260/e5e2ea26e43780821848da865757beb4.jpg?u=439028&p=1214219721",
+    "datePublished": "2008-04-27",
+    "description": "油を使わずこっくりおいしい煮物ができました。 11/21話題入り、ありがとう～★酢で鶏肉もジューシー柔らかです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉（むね）",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "ナス",
+            "quantity": "１本"
+        },
+        {
+            "name": "油揚げ（なくてもよい）",
+            "quantity": "１枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "５０cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "３０g"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "５０cc"
+        },
+        {
+            "name": "酢",
+            "quantity": "５０cc"
+        }
+    ],
+    "recipeInstructions": [
+        "材料をすべて一口大に切り、なすは水にさらしてアクをとります。",
+        "酒を鍋に入れて沸騰したら、砂糖・しょうゆ・酢も入れて、煮えたら①の材料を全て入れます。",
+        "フタをして、中火でことこと煮て、時折様子を見て煮汁をからめ、煮汁がとろっとしたら出来上がり。",
+        "話題入り、ありがとうございました！\r\nこれからも地道にがんばります★"
+    ],
+    "cookTime": null,
+    "recipe_id": "559613",
+    "advice": "油揚げの油くささが気になる場合は、先にお湯にくぐらせて油分を抜きます。モモや、ささみや、豚肉でもおいしくできます。",
+    "history": "酢で煮込むと、とっても柔らかくてジューシーになるので、いろいろやってみています。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉",
+        "ナス",
+        "油揚げ",
+        "酒"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/559613/100x141c/bff0c9d421a2887a94c66f8829b6b1d9.jpg?u=439028&p=1214219721"
+}

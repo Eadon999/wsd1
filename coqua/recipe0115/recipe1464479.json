@@ -1,0 +1,57 @@
+{
+    "name": "トマトとスナップエンドウのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "loveloco"
+    },
+    "image": "https://img.cpcdn.com/recipes/1464479/464x260/e9adfa2bcf7d38bb9950cc03948a7adc.jpg?u=2147820&p=1307503169",
+    "datePublished": "2011-06-08",
+    "description": "スナップエンドウのシャキシャキが好きです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "1つ"
+        },
+        {
+            "name": "スナップエンドウ",
+            "quantity": "10本くらい"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "レモン",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "スナップエンドウは、筋を取り、フライパンに水150ccと共に入れて、蓋をして強火で3分蒸し、冷めたら半分に切る。",
+        "トマトは1/8に切り、更に半分に切る。",
+        "ボウルにレモンの絞り汁と、材料を全部入れて和えたらできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1464479",
+    "advice": "スナップエンドウは採れたての場合は、3分→2分30秒くらいでもいいと思います。 ",
+    "history": "スナップエンドウをいただいたので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/スナップえんどう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スナップエンドウ トマト",
+        "スナップエンドウ サラダ"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1464479/100x141c/de25a9772b6c1cecff41604adccaacb4.jpg?u=2147820&p=1307503169"
+}

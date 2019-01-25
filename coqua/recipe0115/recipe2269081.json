@@ -1,0 +1,70 @@
+{
+    "name": "簡単☆こんにゃくとしめじの甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "StrawCafe＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2269081/464x260/46554b789d0d2179983eaaa4a4a8be44.jpg?u=3150854&p=1372299017",
+    "datePublished": "2013-06-26",
+    "description": "低カロリーで格安なこんにゃくとしめじを甘辛く煮込みました♪ご飯に合う一品です(^O^)/",
+    "recipeYield": "２〜３人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "板こんにゃく",
+            "quantity": "１袋"
+        },
+        {
+            "name": "〇醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "〇みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "〇砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "〇だしの素",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "〇水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "小ネギ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくをスプーンで食べやすい大きさにちぎって塩ゆでする。しめじは根本を切り小房に分けておく。",
+        "鍋に〇と①を入れ、落し蓋をして中火で汁気がなくなるまで時々混ぜながら煮る。",
+        "皿に盛り付け、お好みで小ネギやゴマを散らして出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2269081",
+    "advice": "焦げやすいので時々混ぜながら煮て下さい。こんにゃくは下茹ですることで臭みが取れます☆スプーンでちぎると味が染み込みやすいですよ♪",
+    "history": "低価格でヘルシーなこんにゃくで一品作りたくて考えました☆",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こんにゃくしめじ",
+        "こんにゃく 甘辛煮",
+        "こんにゃく 甘辛煮 簡単",
+        "しめじ こんにゃく 甘辛"
+    ],
+    "tsukurepo_count": "141",
+    "thumbnail": "https://img.cpcdn.com/recipes/2269081/100x141c/de935162235b87f5b75af948ab90764e.jpg?u=3150854&p=1372299017"
+}

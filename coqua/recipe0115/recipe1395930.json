@@ -1,0 +1,56 @@
+{
+    "name": "外はカリッと中はトロン♪たこ焼き生地",
+    "author": {
+        "@type": "Person",
+        "name": "しばわんこ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1395930/464x260/cf29704761c3ab8aba9818343ea3ec5a.jpg?u=2763816&p=1301444210",
+    "datePublished": "2011-03-27",
+    "description": "たこ焼き生地の粉は高いので、自分で考えたら、コッチの方が安くてうまかったです！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "薄力粉",
+            "quantity": "75g"
+        },
+        {
+            "name": "強力粉",
+            "quantity": "75g"
+        },
+        {
+            "name": "ダシ(顆粒ダシか昆布とカツオのだし)",
+            "quantity": "600cc"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに卵を入れて、泡立て器でよくほぐします。カラザは取ってもとらなくてもどちらでもok!",
+        "といた卵にダシを入れます。",
+        "醤油と塩を入れて泡立て器でよく混ぜます。",
+        "薄力粉と強力粉を入れて切るように混ぜたら完成！残っているダマはそのままでも10分ほどで無くなります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1395930",
+    "advice": "焼く時の生地は、一気に流し込んでください。（＾∇＾）強力粉を入れることで生地をしっかりさせてます＾＾",
+    "history": "しょっちゅうタコ焼きをして日々、粉の配合を考えて作ってます（＾∇＾）",
+    "categories": [
+        "今日のご飯・おかず/粉もの/たこ焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たこ焼き生地"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/1395930/100x141c/36fc344684d67545ba7c103aa7cf06cc.jpg?u=2763816&p=1301444210"
+}

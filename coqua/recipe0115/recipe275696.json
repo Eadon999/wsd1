@@ -1,0 +1,81 @@
+{
+    "name": "つるるんっ。キムチ水餃子",
+    "author": {
+        "@type": "Person",
+        "name": "みちぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/275696/464x260/59bde81e77c623300277be305ec17b38.jpg?u=238160&p=1214213490",
+    "datePublished": "2006-08-22",
+    "description": "キムチ＆餃子大好き～。一緒にしてしまえ～＾＾",
+    "recipeYield": "１４個分",
+    "recipeIngredient": [
+        {
+            "name": "豚ひき肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "１５０グラム"
+        },
+        {
+            "name": "にら",
+            "quantity": "半束"
+        },
+        {
+            "name": "大判餃子の皮",
+            "quantity": "１４枚"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１　片"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "１　片"
+        },
+        {
+            "name": "しそ",
+            "quantity": "３　枚"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "☆酢・ラーユ",
+            "quantity": "小さじ　１"
+        },
+        {
+            "name": "☆ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "タレを作る。\r\n☆印をまぜる",
+        "にらは小口きりにし、豚肉・塩・こしょう・にんにく・しょうが（すりおろし）を加えよく練る",
+        "餃子の皮に、キムチ、２をのせ包む",
+        "熱湯に３の餃子を入れ、浮き上がってきてから１～２分おいて、器にもる。",
+        "しそ、１のタレをかけたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "275696",
+    "advice": "キムチである意味、味が決まる？！お気に入りのキムチでどうぞっタレのブラックペッパーが、名脇役？！",
+    "history": "無性に餃子が食べたくなって冷蔵庫を覗いたところ、大好きなキムチも入れてしまえ～っと＾＾",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/餃子・シュウマイ",
+        "その他/発酵食品・発酵調味料/キムチ "
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ひき肉",
+        "キムチ",
+        "にら",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/275696/100x141c/07b9552d9741fccaf50902e88ecb41cd.jpg?u=238160&p=1214213490"
+}

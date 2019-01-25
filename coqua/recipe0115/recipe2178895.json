@@ -1,0 +1,72 @@
+{
+    "name": "豆腐と椎茸＆ベーコンの中華旨煮",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/2178895/464x260/431e28ddbc73c2e7dc139ca09481733f.jpg?u=2124468&p=1365071593",
+    "datePublished": "2013-04-04",
+    "description": "椎茸の香りとベーコンのコクが中華味に溶け込んで豆腐と絡み合います。",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐(絹でも木綿でも)",
+            "quantity": "350g"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "50g"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "小5枚"
+        },
+        {
+            "name": "＊中華味の素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "＊こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "＊水",
+            "quantity": "100ml"
+        },
+        {
+            "name": "＊片栗粉",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "椎茸、ベーコンを食べやすい大きさに切っておく。",
+        "「＊」を混ぜ合わせておく。",
+        "ごま油を熱したフライパンでベーコンと椎茸を炒める。",
+        "椎茸がしんなりしてきたら適当にカットした豆腐を投入。",
+        "豆腐に火が通ってきたら「２」を加えてやさしくかき混ぜて出来上がり。\n刻みネギを散らしてどうぞ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2178895",
+    "advice": "豆腐を投入してからはフライパンを揺らして混ぜる程度にしないと豆腐が崩れます。特に絹ごしの場合は要注意。",
+    "history": "中華店で食べた豆腐の旨煮をまねてみよう。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/べーコン/ベーコンを使った料理",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豆腐 ベーコン",
+        "豆腐 うま煮 中華",
+        "しいたけ うま煮"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/2178895/100x141c/db718d0fac4177acdebb1ed42cc07fca.jpg?u=2124468&p=1365071593"
+}

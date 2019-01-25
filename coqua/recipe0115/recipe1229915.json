@@ -1,0 +1,63 @@
+{
+    "name": "いちじくと人参のハニーマスタードサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kazz72"
+    },
+    "image": "https://img.cpcdn.com/recipes/1229915/464x260/49a9e7d5fb789b1cd3a59fd2dd86ed21.jpg?u=2056962&p=1284079733",
+    "datePublished": "2010-09-10",
+    "description": "完全に熟す前のいちじくを使ってサラダにしました♫♬ 美肌に、コレステロールの解消にお薦めです！",
+    "recipeYield": "３人分くらい",
+    "recipeIngredient": [
+        {
+            "name": "いちじく（熟す前の少し硬いもの）",
+            "quantity": "１個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "＊はちみつ",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "＊純米酢",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "＊粒マスタード",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "＊レモン汁",
+            "quantity": "小匙２"
+        },
+        {
+            "name": "＊塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は細かく千切りにし、耐熱容器に入れてレンジで１分加熱します。（６００W）",
+        "いちじくはよく洗って、食べやすい大きさに切ります。（皮つきの方が形が崩れにくいので剥きませんが、気になる方は剥いてね）",
+        "ボールに人参といちじくと＊の調味料を入れ混ぜ合わせます。",
+        "器に盛って完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1229915",
+    "advice": "いちじくは、熟す前の方がサラダとしてはお薦めです。",
+    "history": "旬のいちじくをお料理でも楽しみたくて作りました。女性が好きなお味かな？",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いちじく",
+        "人参",
+        "純米酢",
+        "粒マスタード"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/1229915/100x141c/8b82b02cc570ec7f39a012e42b51112c.jpg?u=2056962&p=1284079733"
+}

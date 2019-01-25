@@ -1,0 +1,58 @@
+{
+    "name": "いんげんと人参のゴマ天ぷら",
+    "author": {
+        "@type": "Person",
+        "name": "まゆみ母ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2288094/464x260/58592c420783a5acec530518d5161397.jpg?u=4051798&p=1373981920",
+    "datePublished": "2013-07-19",
+    "description": "2014/07/06話題入り感謝☆赤と緑と黒で色合いもいい感じ(^^)ゴマ衣の天ぷらです",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "５～６本"
+        },
+        {
+            "name": "人参",
+            "quantity": "いんげんと同量"
+        },
+        {
+            "name": "黒ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "天ぷら粉",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ１～２"
+        },
+        {
+            "name": "サラダ油(揚げ用)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんは2〜３等分にカットする。\n人参はいんげんの長さに合わせ細切りにする。",
+        "ボウルに天ぷら粉 水 黒ゴマを入れ 衣を作る。",
+        "油で揚げる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2288094",
+    "advice": "簡単すぎて　何も言う事ありません。",
+    "history": "いんげんと人参のゴマ和えを食べていて　天ぷらにしてみようかなと思い　トライしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "人参",
+        "黒ゴマ",
+        "天ぷら粉"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/2288094/100x141c/afcc452ab3f3149e49a2ac64c9bccf73.jpg?u=4051798&p=1373981920"
+}

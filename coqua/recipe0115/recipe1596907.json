@@ -1,0 +1,61 @@
+{
+    "name": "すぐできる！豆腐のなめこあん",
+    "author": {
+        "@type": "Person",
+        "name": "あんピンク"
+    },
+    "image": "https://img.cpcdn.com/recipes/1596907/464x260/064ffac8fcb788110f0af6a49abb2ac5.jpg?u=1785464&p=1338165280",
+    "datePublished": "2011-10-13",
+    "description": "あと一品足りない時のお助けメニュー☆簡単美味しい♪殿堂入りしました★作って下さった方ありがとうございます♡",
+    "recipeYield": "４人前",
+    "recipeIngredient": [
+        {
+            "name": "なめこ",
+            "quantity": "一袋"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁（３００ｇくらい）"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "適量（たっぷり）"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１強"
+        }
+    ],
+    "recipeInstructions": [
+        "なめこはザルにあけてざっと洗い鍋に入れ、みりん、水、醤油、かつお節を入れて一煮立ちさせる。",
+        "さいの目に切った豆腐を加えて時々混ぜながら３分煮る。",
+        "何名かの方が冷やしで試して下さってます♫夏は冷やしでもお試し下さい♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1596907",
+    "advice": "かつお節たっぷりが美味しいです★お好みで万能ネギを散らしてください♪",
+    "history": "冷蔵庫のお掃除に。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "なめこ 3位",
+        "あん 2位"
+    ],
+    "related_keywords": [
+        "なめこ",
+        "豆腐",
+        "なめこ 豆腐",
+        "なめこ 豆腐 あん"
+    ],
+    "tsukurepo_count": "1211",
+    "thumbnail": "https://img.cpcdn.com/recipes/1596907/100x141c/bf89272eba9b2276ce53dfdc75179e32.jpg?u=1785464&p=1338165280"
+}

@@ -1,0 +1,81 @@
+{
+    "name": "舞茸ごはん☆ネギしらす盛り♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3339199/464x260/33e1f247f092802cdad6cc7f856360bb.jpg?u=9552524&p=1439086189",
+    "datePublished": "2015-08-09",
+    "description": "おネギとしらす♡たっぷりのっけて召し上がれ(*^^)v　",
+    "recipeYield": "２合分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "２合"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "２パック"
+        },
+        {
+            "name": "薄揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "水",
+            "quantity": "☆と合わせて３８０ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆出汁の素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "青ネギ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "しらす",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "好みで適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米は洗ってザルに取り３０分以上置きます。",
+        "水と☆を合わせて３８０ｃｃにします。",
+        "マイタケは小房にほぐす。薄揚げはみじん切りにします。",
+        "炊飯器の窯に①②を入れ③を上に散らして普通に炊きます。",
+        "炊き上がったらサックリ混ぜます。",
+        "器に盛り青ネギとシラスを乗せます。\n好みでシラスに醤油を垂らします。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3339199",
+    "advice": "簡単です(*^^)v",
+    "history": "炊飯器で炊くだけなので♡お味噌汁とお漬物を添えてお昼ご飯によく作ります(^^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/まいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "舞茸",
+        "薄揚げ",
+        "醤油"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/3339199/100x141c/1c0a32edd0d4cc1347c6eb4a1e8dc89a.jpg?u=9552524&p=1439086189"
+}

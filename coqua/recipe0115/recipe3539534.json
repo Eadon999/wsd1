@@ -1,0 +1,69 @@
+{
+    "name": "2種類のコーン缶de♡コーンスープ",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3539534/464x260/55b46566c327d1c8cae0fc147d5f1db8.jpg?u=10112198&p=1448877049",
+    "datePublished": "2015-11-30",
+    "description": "すごく簡単！ミルクたっぷり♡熱々の甘〜ぃトロリスープ。",
+    "recipeYield": "2・3皿分",
+    "recipeIngredient": [
+        {
+            "name": "コーン缶粒",
+            "quantity": "1缶(固形量120g)"
+        },
+        {
+            "name": "コーン缶クリーム",
+            "quantity": "1缶(180g)"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "牛乳or豆乳",
+            "quantity": "400cc"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g位"
+        },
+        {
+            "name": "塩コショー",
+            "quantity": "適量"
+        },
+        {
+            "name": "仕上げにパセリ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンにバター、粒のコーン缶、小麦粉を入れ、中火で炒める。",
+        "コーンに小麦粉を絡める。",
+        "バターが溶け、小麦粉がコーンに絡まったら牛乳、コンソメ、クリームのコーン缶を加え、ほんのりトロミが出たら塩コショーを。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3539534",
+    "advice": "最初はトロミが薄い感じですが、少し時間が経つと濃くなります。",
+    "history": "牛乳が残ったら、作ります。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コーンスープ"
+    ],
+    "rankings": [
+        "コーンスープ 9位",
+        "コーン缶 3位"
+    ],
+    "related_keywords": [
+        "コーンスープ コーン缶",
+        "コーンスープ",
+        "コーンスープ ミキサー不要 コーン缶",
+        "コーン缶"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/3539534/100x141c/5fcd6116c5cb8b3085b03f0d10e3bde7.jpg?u=10112198&p=1448877049"
+}

@@ -1,0 +1,41 @@
+{
+    "name": "【農家のレシピ】にらの塩昆布和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2185618/464x260/ef710527e9ccb7aedd72218f8d7c2a47.jpg?u=2513693&p=1365511207",
+    "datePublished": "2013-04-10",
+    "description": "さっと茹でたニラを塩昆布で合えるだけ。塩加減が丁度いい感じです♪",
+    "recipeYield": "２人分（小鉢）",
+    "recipeIngredient": [
+        {
+            "name": "にら",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "塩昆布（細かく刻む）",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは熱湯でさっと茹で３センチの長さに切り、塩昆布と胡麻を混ぜて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2185618",
+    "advice": "減塩の塩昆布の場合はおしょうゆを少し加えてくださいね。",
+    "history": "ニラの味を損なわないよう、シンプルに塩昆布だけで味付けをしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/にら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ にら"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2185618/100x141c/8ea3ec9cd844693c18a0112cda2f2d1f.jpg?u=2513693&p=1365511207"
+}

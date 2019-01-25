@@ -1,0 +1,53 @@
+{
+    "name": "ふきのおひたし♪",
+    "author": {
+        "@type": "Person",
+        "name": "美恵1016"
+    },
+    "image": "https://img.cpcdn.com/recipes/1645671/464x260/cce3025e2f13a13a422f55380065e401.jpg?u=2389653&p=1363312027",
+    "datePublished": "2011-12-07",
+    "description": "簡単です(^^♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ふき",
+            "quantity": "１本"
+        },
+        {
+            "name": "白だし",
+            "quantity": "50cc"
+        },
+        {
+            "name": "水",
+            "quantity": "15cc"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "一味か七味",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ふきは下処理をして３～４cmに切ります。白だし・水を合せて、ひたし汁を作っておきます。\n\n↓下処理の仕方\n       ",
+        "私流の下処理で間違ってるかもですが、茹でたり～が面倒なので^_^;板ずりをして塩を洗い落し、すぐ皮と筋を剥いちゃいます。",
+        "お湯が沸いたらふきを入れます、太さにもよりますが、3～５分ゆでます。",
+        "お湯を切り熱いままふきを、ひたし汁に入れます。",
+        "粗熱が取れたら、鰹節を入れて出来上がり。お好みで一味など入れて下さい♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1645671",
+    "advice": "他のお野菜でも美味しいですよ(^^)",
+    "history": "母の味です(^^♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/ふき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ふき おひたし"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1645671/100x141c/29db3bb57683708b833482e778ee75ff.jpg?u=2389653&p=1363312027"
+}

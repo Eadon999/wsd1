@@ -1,0 +1,57 @@
+{
+    "name": "じゃがいもと椎茸のバター醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "紅茶メロン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2570101/464x260/6b9dd31bca7390f7e2ec78e9899fb0fe.jpg?u=824159&p=1396492738",
+    "datePublished": "2014-04-03",
+    "description": "ほんのり甘いバター風味豊かなソテー(*^^*)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2個"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "4～5個"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1～2"
+        },
+        {
+            "name": "乾燥パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは皮を剥き、ラップしてレンジで多少やわらかくなるまで加熱した後、ひとくち大にカット。",
+        "椎茸は石づきを取り、洗ってからタテヨコ半分に切る。",
+        "フライパンにバターを溶かし、椎茸を入れ、しばらく放っておき椎茸の水分を飛ばす。",
+        "そこへジャガイモを入れ、砂糖と醤油を入れ、全体を炒め混ぜる。",
+        "皿に盛り、乾燥パセリをかけて頂く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2570101",
+    "advice": "椎茸の水分を飛ばすことがポイント。※砂糖と醤油は好みで調節",
+    "history": "お店で食べて美味しくて見様見真似で作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも しいたけ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/2570101/100x141c/da8f6b115ac2e7485a9bf694f434bd15.jpg?u=824159&p=1396492738"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "家計に優しい！豚コマから揚げ♪",
+    "author": {
+        "@type": "Person",
+        "name": "AYACHIN＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2562798/464x260/a4d7b1ebce6e5291ad455fcfabaa8c7a.jpg?u=3394971&p=1396004442",
+    "datePublished": "2014-03-28",
+    "description": "鶏から揚げより、安くて、柔らかくてうまーい!!",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚コマ",
+            "quantity": "500g"
+        },
+        {
+            "name": "※醤油",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "※酒、みりん",
+            "quantity": "各大１"
+        },
+        {
+            "name": "※黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "※ニンニク、生姜(すりおろし)",
+            "quantity": "各小１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大3〜4"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに豚コマと※の調味料を入れて、よく揉み込む。30分程放置して、味を染み込ませる。",
+        "そこに片栗粉を加えて、全体に行き渡るように混ぜる。",
+        "油を中火に熱して、豚コマを一口大手に取り、両手で丸めて(ギュッと握るように)\n油に入れて揚げる。",
+        "お好みでレモンを添えて〜♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2562798",
+    "advice": "あまり大きくしてしまうと、火の通りが悪くなるので、小さめの方が扱いやすいです。500gでこの写真の３倍程できました♪",
+    "history": "前から作っていましたが、覚書として計量してみました〜",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚コマ",
+        "醤油",
+        "黒胡椒",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2562798/100x141c/bb260b688da758000a4eb1cb29e1df87.jpg?u=3394971&p=1396004442"
+}

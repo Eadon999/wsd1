@@ -1,0 +1,63 @@
+{
+    "name": "鯖を美味しく♪さばの煮付け♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちょみくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/666811/464x260/d8fe61c04ae1c03e94f7c2344155d6be.jpg?u=874483&p=1224291911",
+    "datePublished": "2008-10-18",
+    "description": "覚えやすい分量で♪あっという間に出来上がり♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "3切れ"
+        },
+        {
+            "name": "しょうが（スライス）",
+            "quantity": "1～2かけ分"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "●さけ",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "●水",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "●さとう",
+            "quantity": "大さじ1と1/3"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに●をいれ煮立ってきたら、しょうがとサバを入れる（皮のほうを上にする）",
+        "落し蓋をして中火で煮る。",
+        "煮汁が半分くらいに減ってきたらできあがり！",
+        null
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "666811",
+    "advice": "簡単です～♪10分ちょいで煮ちゃえます～♪",
+    "history": "普通すぎますｶﾞ･･･。（´∀｀）定番のうちごはんです｡｡｡",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば",
+        "しょうが",
+        "みりん",
+        "水"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/666811/100x141c/ed17a29cc72434a4ceab5df9e1e6e1fd.jpg?u=874483&p=1224291911"
+}

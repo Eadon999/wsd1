@@ -1,0 +1,59 @@
+{
+    "name": "キャベツとワカメの酢の物",
+    "author": {
+        "@type": "Person",
+        "name": "NAGANO久留米"
+    },
+    "image": "https://img.cpcdn.com/recipes/2166682/464x260/1b6a729b43413f74f886b99c1c6ccc2c.jpg?u=3789549&p=1364214730",
+    "datePublished": "2013-03-26",
+    "description": "食欲を増進と疲労回復2013.07.18カテゴリに掲載されました。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツの千切り",
+            "quantity": "100グラム"
+        },
+        {
+            "name": "乾燥ワカメを水で戻して",
+            "quantity": "50グラム"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "3個"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "蜂蜜",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうが(すりおろし)",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切りにし塩ゆで\n水切りは、しっかりと....\n\nワカメは水で戻す",
+        "みょうがも千切り",
+        "1と2を合わせ、Aであえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2166682",
+    "advice": "みょうがは、絶対に入れて下さい。",
+    "history": "子供の頃　よく食卓に出ていました。ワカメ嫌いだったので、食べなかった事を思いだし食べやすいようにアレンジ",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ わかめ 酢の物"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/2166682/100x141c/3c400e5b291b8a32cabdb0ba4b9d73c4.jpg?u=3789549&p=1364214730"
+}

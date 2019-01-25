@@ -1,0 +1,60 @@
+{
+    "name": "休日ランチに簡単★甘めのやわらか牛丼★",
+    "author": {
+        "@type": "Person",
+        "name": "アカネーゼ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1626071/464x260/ee03d5491a2e4d9a2fab002cc0b07a4f.jpg?u=2143782&p=1321160625",
+    "datePublished": "2011-11-13",
+    "description": "みりんを使わないので、やわらかいです。",
+    "recipeYield": "2〜2.5人分",
+    "recipeIngredient": [
+        {
+            "name": "牛薄切り肉",
+            "quantity": "200〜250g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★だし汁(水＋顆粒だしでも)",
+            "quantity": "150cc"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "2人分"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に★をいれ沸いたら玉ねぎを入れる。",
+        "玉ねぎが透きとおってきたら、牛肉をいれ色が変わったら出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1626071",
+    "advice": "牛丼店より甘めの味です。我が家では2.5人分になりました。",
+    "history": "牛丼店の牛丼が自分好みの味じゃなくて作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/牛丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "甘め 牛丼",
+        "休日 お昼ごはん",
+        "牛薄切り肉 やわらか"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1626071/100x141c/d5967cd60e080e26a91b2ef872905e4c.jpg?u=2143782&p=1321160625"
+}

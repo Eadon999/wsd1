@@ -1,0 +1,54 @@
+{
+    "name": "レンジでカボチャのヨーグルトマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "居酒屋英二"
+    },
+    "image": "https://img.cpcdn.com/recipes/868862/464x260/1ff866ac3bf490b142fa20127b877c75.jpg?u=582219&p=1504406440",
+    "datePublished": "2009-07-18",
+    "description": "レンジでチンして調味料と混ぜるだけ！ヨーグルトを使うのでローカロリーですよ！！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "1/2個（400ｇほど）"
+        },
+        {
+            "name": "★ヨーグルト",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★粒マスタード",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カボチャは野菜の皮むきで皮をむき、適当な大きさに切って水で濡らして深皿に並べ、ラップをしてレンジでチンする",
+        "カボチャをボウルに移し、粗熱がとれたらフォークで潰しながら★の材料と合わせる"
+    ],
+    "cookTime": null,
+    "recipe_id": "868862",
+    "advice": "",
+    "history": "マヨネーズが多いとカロリーとコレステロールが…というわけでヨーグルトを入れてみました",
+    "categories": [
+        "今日のご飯・おかず/サラダ/かぼちゃのサラダ",
+        "その他/ヨーグルト/ヨーグルトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "ヨーグルト",
+        "マヨネーズ",
+        "粒マスタード"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/868862/100x141c/bf6be509c5493a6e302c982ba2de4be4.jpg?u=582219&p=1504406440"
+}

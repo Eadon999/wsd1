@@ -1,0 +1,67 @@
+{
+    "name": "簡単！美味しい！イカマヨ　",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/253392/464x260/1c44466e7b9487fd5bb6ab9590244c7e.jpg?u=212914&p=1214213002",
+    "datePublished": "2006-05-10",
+    "description": "海老マヨもいいけど、たまにはイカマヨも♪ 少し甘めのマヨネーズです(´▽｀) お子様にGOOD（o´∀｀)bおつまみにもGOOD♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "250ｇ"
+        },
+        {
+            "name": "卵白",
+            "quantity": "1個分"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大匙5"
+        },
+        {
+            "name": "★ケッチャップ",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "★はちみつ",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "★レモン汁　★パセリ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "イカは塩コショウ・酒少々で下味をつける。\r\n★の調味料を混ぜ合わせておく。\r\n卵白をあわ立て、少しずつ片栗粉を混ぜ合わせていく。",
+        "イカを①の卵白につけて、油でカリっと揚げる。",
+        "揚げたイカを、★に混ぜ合わせて完成！\r\n\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "253392",
+    "advice": "③の工程で、混ぜずに食べる直前にイカの上からかけて食べると、カリッとした食感だと思います。",
+    "history": "イカの方が安かったので・・・（;´▽｀A``いつもは海老マヨですが、イカでも美味しいのでは？と思い作りました！ ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ",
+        "その他/おもてなし料理/子どものパーティ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ",
+        "卵白",
+        "片栗粉",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/253392/100x141c/f3572d7b5fd3f1652c7fcacd317839b9.jpg?u=212914&p=1214213002"
+}

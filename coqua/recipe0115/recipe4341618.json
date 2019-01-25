@@ -1,0 +1,60 @@
+{
+    "name": "簡単！豚バラキャベツのわさび焦がし醤油",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4341618/464x260/5115e5a04146fb2f423d6b5ced211714.jpg?u=4376699&p=1486609178",
+    "datePublished": "2017-03-04",
+    "description": "わさび醤油に漬けて焼くだけ簡単！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ",
+            "quantity": "100g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "100g"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ4"
+        },
+        {
+            "name": "わさび(チューブ)",
+            "quantity": "1cm"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンを千切り\nきゃべつをひと口大に切る\n豚バラを切ってたれをに漬ける",
+        "油少々でピーマンを炒めてから肉を加えて炒めていったん取り出す",
+        "油を少々追加してキャベツを軽く炒める",
+        "肉ピーマンと残ったタレを加えて軽く混ぜて蓋をして30秒で完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4341618",
+    "advice": "豚バラブロックなら厚めがおすすめ薄い場合は最後の蓋は不要です",
+    "history": "回鍋肉にしようとしてわさび醤油で炒めてみました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚バラ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ キャベツ ピーマン"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/4341618/100x141c/e422e4ee1360e2aa518fd828647fbc25.jpg?u=4376699&p=1486609178"
+}

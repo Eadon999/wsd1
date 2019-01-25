@@ -1,0 +1,53 @@
+{
+    "name": "すぐできる☆きゅうりの中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "meguJJ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2037536/464x260/c1ece3ce7687d8f4a3128d6a47283f97.jpg?u=4501141&p=1353630709",
+    "datePublished": "2012-11-23",
+    "description": "きゅうりしか残ってなくても、これでおかず1品完成です♪",
+    "recipeYield": "きゅうり1本",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "きゅうりはあらかじめたたいておきます。割れ目ができたら手でちぎれます。",
+        "全ての調味料を混ぜ合わせたら叩いたきゅうりと和えます。30分くらい冷蔵庫で冷やしてからの方が美味しいと思います。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2037536",
+    "advice": "まな板の上で麺棒や手で押すと簡単にちぎれます。コツもポイントも何もありません。",
+    "history": "雨で買い物に行けず、きゅうりしかなかった時に作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ごま油",
+        "酢",
+        "醤油"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/2037536/100x141c/ffbb56331eccbdcd25866fbe198a424f.jpg?u=4501141&p=1353630709"
+}

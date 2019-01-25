@@ -1,0 +1,48 @@
+{
+    "name": "のり塩蓮根チップス",
+    "author": {
+        "@type": "Person",
+        "name": "Y’ｓ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3007462/464x260/c0f3727c03f277b21ad4dbe91716a631.jpg?u=1298841&p=1424065676",
+    "datePublished": "2015-02-23",
+    "description": "独特な食感の素揚げ蓮根に、塩と青のりを振りかければ、おやつやお酒のおつまみに最高の一品に♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "青のり",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は外側の皮をむき、包丁で薄くスライスしたら、油で素揚げする。",
+        "揚げたてに塩と青のりを振って軽く和え、器に盛る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3007462",
+    "advice": "食感をよくするために、なるべく薄くスライスするのがポイントです。",
+    "history": "素揚げした香ばしい蓮根に、青のりをまぶしたら美味しそうだと思い、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん のりしお",
+        "レンコンチップス",
+        "れんこん 素揚げ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/3007462/100x141c/12dc94746c60e9a5e087ee9c8a8fb523.jpg?u=1298841&p=1424065676"
+}

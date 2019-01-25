@@ -1,0 +1,60 @@
+{
+    "name": "ピーマンと人参のナムル。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/102236/464x260/4a0c814fbcd11e053c5f9273560e9821.jpg?u=4036&p=1228893008",
+    "datePublished": "2003-07-29",
+    "description": "彩りのよいお惣菜です。お弁当にも重宝します。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "中2個"
+        },
+        {
+            "name": "人参",
+            "quantity": "100g"
+        },
+        {
+            "name": "白炒り胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "1つまみ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は皮をむいて細く切っておく。ピーマンはヘタと種を除き、細く切っておく。胡麻はすり鉢ですっておく。",
+        "鍋にお湯を沸かし、塩をひとつまみ入れて人参を茹でる。人参を茹ではじめてしばらくしてピーマンも同じ鍋で一緒に茹でる。（洗い物が少なく済みます）",
+        "好みのかたさに2.を茹でたらザルにあけてよく水分を切る。熱いうちに、しょうゆ・ごま油・すり胡麻を混ぜてできあがり。味見して物足りなければ塩を追加してください。",
+        "お弁当にも。",
+        null,
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "102236",
+    "advice": "",
+    "history": "とにかく簡単で彩りの良いお惣菜を作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン にんじん",
+        "ピーマン ナムル"
+    ],
+    "tsukurepo_count": "566",
+    "thumbnail": "https://img.cpcdn.com/recipes/102236/100x141c/50c108042e8fa0c24b03b1bc77d645a0.jpg?u=4036&p=1228893008"
+}

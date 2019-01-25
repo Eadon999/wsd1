@@ -1,0 +1,71 @@
+{
+    "name": "さっぱり！トマトと大葉の冷たいパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "hal nag"
+    },
+    "image": "https://img.cpcdn.com/recipes/1911110/464x260/f708cf629b244dd326875e1cc5804b30.jpg?u=1423987&p=1344486926",
+    "datePublished": "2012-08-09",
+    "description": "トマト、お醤油、オリーブオイルがベストマッチ！さっぱりシンプルな冷製パスタです。疲労回復、食欲がない時にもおすすめです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ（細いもの）",
+            "quantity": "160ｇ～180ｇ"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "８個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "６枚"
+        },
+        {
+            "name": "●EXオリーブオイル",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "●おろしにんにく",
+            "quantity": "ほんの少し"
+        },
+        {
+            "name": "●塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ミニトマトはざく切りに、大葉は千切りにする。",
+        "ボールに●を入れよく混ぜ、１を加えて和え冷蔵庫にいれて冷やしておく。",
+        "パスタを表示の時間より１分長くゆで、氷水で冷やす。水をよく切って２と和える。",
+        "好みで千切りにした大葉（分量外）を飾る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1911110",
+    "advice": "酢が苦手な方はお好みで加減してください。トマトはよく熟れていたほうが美味しいと思います。パスタの水切りはしっかりと！",
+    "history": "暑くて食欲のない時に思いつきました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/冷製・アイデアパスタ/冷製パスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "ミニトマト",
+        "大葉",
+        "EXオリーブオイル"
+    ],
+    "tsukurepo_count": "255",
+    "thumbnail": "https://img.cpcdn.com/recipes/1911110/100x141c/b109c58c6d83d9669ab1a9b2fffcc746.jpg?u=1423987&p=1344486926"
+}

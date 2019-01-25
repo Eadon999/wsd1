@@ -1,0 +1,49 @@
+{
+    "name": "∴　オクラの梅の香和え　∴",
+    "author": {
+        "@type": "Person",
+        "name": "Hoink"
+    },
+    "image": "https://img.cpcdn.com/recipes/1576756/464x260/52e0bb7a29de425361fd0aba4aa0dbb9.jpg?u=1824841&p=1377157104",
+    "datePublished": "2011-09-21",
+    "description": "白だしで酸っぱさ抑えめ。オクラが美味しい季節のあと一品に。",
+    "recipeYield": "小鉢ひとつ分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "５～６本"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "叩いて小さじ１弱"
+        },
+        {
+            "name": "白だし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "海苔（韓国海苔がおすすめ）",
+            "quantity": "１/４枚"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは熱湯でサッとゆがき（シャキッとした歯ごたえが残るくらい）食べやすい大きさに切る。",
+        "叩いた梅干しと白だしをよく混ぜ、１と和える。ちぎった海苔を食べる前に和えてできあがり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1576756",
+    "advice": "梅干しの量を加減してお好みの酸っぱさにしてください。韓国海苔を使うとさらに美味しいですよ～",
+    "history": "レシピというほどのものではありませんが「あと一品...」で、即席で作ったらおいしかった和え物です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/オクラ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "梅干し",
+        "白だし",
+        "海苔"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/1576756/100x141c/07a8351324cdac3b60742ce67c19a318.jpg?u=1824841&p=1377157104"
+}

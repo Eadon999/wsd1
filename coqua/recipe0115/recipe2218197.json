@@ -1,0 +1,71 @@
+{
+    "name": "【農家のレシピ】たけのこの木の芽和え",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2218197/464x260/a5a9f42ab3206683e67e0a6540583490.jpg?u=2513693&p=1368180943",
+    "datePublished": "2013-05-11",
+    "description": "たけのこを薄味で煮て、木の芽味噌で和えた香り豊かな木の芽和えです。",
+    "recipeYield": "４人分（小鉢）",
+    "recipeIngredient": [
+        {
+            "name": "たけのこの水煮（１センチのさいの目切り）",
+            "quantity": "１本（２５０ｇ）"
+        },
+        {
+            "name": "さんしょうの葉",
+            "quantity": "１０枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "薄口しょうゆ（濃い口でもOK)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "白味噌",
+            "quantity": "大さじ２強（５０ｇ）"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "【A】を煮立たせタケノコを入れ中火で１０分煮て冷まし、煮汁をきっておく。",
+        "山椒の葉は軸を取り除き葉をすり鉢に入れ擦る",
+        "そこへ【B】を少しずつ入れながら擦り、①と混ぜ合わせて完成",
+        "木の芽味噌だけを作り置きしておくと便利です。\n↓\nレシピID : 1430202"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2218197",
+    "advice": "【A】の代わりに薄めのめんつゆでもOKです。",
+    "history": "木の芽味噌は香りを活かすために加熱せず作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/たけのこ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たけのこの水煮",
+        "だし汁",
+        "薄口しょうゆ",
+        "みりん"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/2218197/100x141c/596cd79df978743c66c001f864654274.jpg?u=2513693&p=1368180943"
+}

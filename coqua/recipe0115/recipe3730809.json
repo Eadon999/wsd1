@@ -1,0 +1,62 @@
+{
+    "name": "キャベツと玉ねぎマリネ,レンジで簡単♪",
+    "author": {
+        "@type": "Person",
+        "name": "ダウリ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3730809/464x260/fc7462d2a7ee974a097a02b218d818fc.jpg?u=4170772&p=1457431575",
+    "datePublished": "2016-03-06",
+    "description": "とにかく簡単、あと１品欲しい時にもってこい♪",
+    "recipeYield": "一回分",
+    "recipeIngredient": [
+        {
+            "name": "春キャベツ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１個"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１杯"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ2杯"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツと玉ねぎのざく切りにしてオリーブ油と塩をかけてラップして600wのレンジに約10分かけます。",
+        "ニンニクはみじん切りして加えて、残りの材料も加えて混ぜたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3730809",
+    "advice": "キャベツの種類やレンジによって加熱する時間が多少違いますがほど良いしんなりすればOK。冷めてから食べると美味しい。酢がきいてますので作り置きも可能です。",
+    "history": "急いだ時の思い込み料理(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ マリネ レンジ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/3730809/100x141c/3b2e2435da61651a369d7edee61fa8af.jpg?u=4170772&p=1457431575"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "アボカドとひじきの柚子胡椒サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "caramel-cookie"
+    },
+    "image": "https://img.cpcdn.com/recipes/1146824/464x260/a14e5d38bb9bc46151ec962f24bbbf55.jpg?u=625487&p=1275482783",
+    "datePublished": "2010-06-03",
+    "description": "風味よいピリ感がアクセントの、 身体に嬉しいサラダです",
+    "recipeYield": "２～４人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "乾燥芽ひじき",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ミックスビーンズ",
+            "quantity": "１２０ｇ"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大さじ１・１／２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "◎柚子胡椒",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきはたっぷりの水に浸して戻し、洗って水気をしっかり切る。",
+        "アボカドは半割りにして種を取り、皮を剥いて１．５㎝角位に切る。",
+        "ミックスビーンズは水気をよく切る。",
+        "◎は混ぜ合わせる。",
+        "１、２、３を合わせ、４で和える。",
+        "器に盛り付ける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1146824",
+    "advice": "ミックスビーンズの代わりに、お好みの茹で豆をご使用になってもOKです。お好みにより、柚子胡椒の分量は調整して下さい。",
+    "history": "身体に大切なミネラルをしっかり摂れる、ヘルシーで手軽なレシピを考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "ミックスビーンズ",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "118",
+    "thumbnail": "https://img.cpcdn.com/recipes/1146824/100x141c/9eeea79b4ef035caf2824dcecdfcf029.jpg?u=625487&p=1275482783"
+}

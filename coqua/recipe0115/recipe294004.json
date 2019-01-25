@@ -1,0 +1,51 @@
+{
+    "name": "スイートチリでシンプル春雨サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぱうぱうきっちん"
+    },
+    "image": "https://img.cpcdn.com/recipes/294004/464x260/5e2ab7d49aaaf2421e9403f1ad6a2277.jpg?u=274122&p=1214213912",
+    "datePublished": "2006-10-25",
+    "description": "なんとなくﾀｲ風です。ちくわを入れたい気持ちをぐっとこらえて（笑）ｼﾝﾌﾟﾙなきゅうりと春雨だけのｻﾗﾀﾞにしました。",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "春雨",
+            "quantity": "１０ｸﾞﾗﾑ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２分の１"
+        },
+        {
+            "name": "スイートチリソース",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "春雨は熱湯でもどす。",
+        "きゅうりは千切りでも薄い輪切りでも好きなように切る。",
+        "１と２にｽｲｰﾄﾁﾘ・しょうゆ・ごま油を加えてまぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "294004",
+    "advice": "切ってまぜるだけなので、特にないです。お好みでｴﾋﾞやﾊﾟｸﾁｰを入れるとよりﾀｲ風です。",
+    "history": "ﾀｲ風のｻﾗﾀﾞが食べたくて＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スイートチリ 春雨"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/294004/100x141c/f381b471bd42e39897c2ba71a3cba41d.jpg?u=274122&p=1214213912"
+}

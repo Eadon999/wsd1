@@ -1,0 +1,66 @@
+{
+    "name": "15分で出来る！フライパンで鯖の味噌煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1714543/464x260/6ed32ecac6dc7d5556bcc24501a0629b.jpg?u=603745&p=1447761669",
+    "datePublished": "2012-02-21",
+    "description": "フライパン１つで簡単に鯖味噌♪15分程度で出来ます!!甘めの味噌が美味しく、ご飯も進みます!!",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鯖の切り身",
+            "quantity": "4枚"
+        },
+        {
+            "name": "☆水",
+            "quantity": "150cc"
+        },
+        {
+            "name": "☆料理酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆味噌",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "☆生姜（チューブ）",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖の切り身を用意します。十字に切れ目を入れると火が通りやすいです。",
+        "切り身に熱湯をさっとかけて臭みを取り除きます。",
+        "火をかける前のフライパンに☆の材料を入れて良く混ぜます。",
+        "火に掛けて味噌をしっかりと溶かします。",
+        "切り身を加えて3分煮ます。",
+        "ひっくり返したらお玉で味噌をかけながら3分ほど煮ます。",
+        "フタを閉めて弱火で5分煮ます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1714543",
+    "advice": "",
+    "history": "時間のないときでも簡単に作れるようにフライパンで調理してみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鯖の切り身",
+        "水",
+        "料理酒",
+        "みりん"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1714543/100x141c/8d6c931a60eaaee75d0bd8e175e91fac.jpg?u=603745&p=1447761669"
+}

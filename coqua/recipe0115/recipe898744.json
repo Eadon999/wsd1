@@ -1,0 +1,51 @@
+{
+    "name": "バジルポテト",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/898744/464x260/a90d153b150b33c0944080fe42fc03d0.jpg?u=377757&p=1251521416",
+    "datePublished": "2009-08-29",
+    "description": "バジルペーストがあれば、レンジであっという間に出来ちゃいます！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "大きめ２個"
+        },
+        {
+            "name": "バジルペースト（レシピID :895339）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "耐熱容器に食べやすく切ったじゃがいもを入れて、ふんわりラップをかけレンジで約６分～。",
+        "残りの材料を入れ、混ぜ合わせて完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "898744",
+    "advice": "レンジの時間は、お持ちのレンジにあわせて調整してください。粉チーズ、ブラックペッパーなしでも美味しいですよ＾＾",
+    "history": "バジルペーストを作ったので、ポテトと和えたくて！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "バジルポテト",
+        "じゃがいも バジル"
+    ],
+    "tsukurepo_count": "156",
+    "thumbnail": "https://img.cpcdn.com/recipes/898744/100x141c/fea46f88c5275df13036b00025236472.jpg?u=377757&p=1251521416"
+}

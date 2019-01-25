@@ -1,0 +1,48 @@
+{
+    "name": "クレソンのおひたし～韓国風～",
+    "author": {
+        "@type": "Person",
+        "name": "kazumi33"
+    },
+    "image": "https://img.cpcdn.com/recipes/716759/464x260/6df18007a55fa61eddc0daffb75cb882.jpg?u=263461&p=1241386779",
+    "datePublished": "2009-01-19",
+    "description": "子供たちでとりあいになってあっというまになくなる我家のナンバー１ヘルシー副菜です。",
+    "recipeYield": "2人以上",
+    "recipeIngredient": [
+        {
+            "name": "クレソン",
+            "quantity": "一束（約200ｇ）"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "塩",
+            "quantity": "小匙１/２"
+        }
+    ],
+    "recipeInstructions": [
+        "よく水洗いしたクレソンをなべたっぷりの沸騰した湯でさっとゆでて、水で洗う。",
+        "よく絞り食べやすい大きさに切る。",
+        "ごま油、ごま、塩であえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "716759",
+    "advice": "塩はお好みで加減をしてください。 ほうれん草でこの味付けもいけます。ほうれん草とのミックスもいけます。 在米の方へ、英語でクレソンはwatercress.",
+    "history": "料理好きの韓国出身のお義母さんに教えてもらった、韓国風おひたしです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/クレソン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "クレソン",
+        "クレソン おひたし"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/716759/100x141c/ab31dbeda171cc60990c4646384df54d.jpg?u=263461&p=1241386779"
+}

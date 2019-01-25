@@ -1,0 +1,51 @@
+{
+    "name": "牡蠣のバター醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "omantaro"
+    },
+    "image": "https://img.cpcdn.com/recipes/3149496/464x260/a3093e83cdfec577f6ba58c23b247880.jpg?u=7254870&p=1430313125",
+    "datePublished": "2015-04-29",
+    "description": "広島出身の母から教えてもらったおいしい牡蠣の食べ方です！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "牡蠣",
+            "quantity": "8個"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "大葉",
+            "quantity": "数枚"
+        }
+    ],
+    "recipeInstructions": [
+        "牡蠣を殻から取る。",
+        "フライパンにバターを溶かし、牡蠣を炒める",
+        "牡蠣に火が通ったら、醤油をかけて数秒炒める。",
+        "殻があれば殻の上に大葉をしき、その上に牡蠣をのせて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3149496",
+    "advice": "殻があればお店っぽい感じになるのでおすすめです。殻はよく洗ってください。",
+    "history": "僕「おじちゃんに牡蠣いっぱいもらったよ！」母「ついでに殻外してバター醤油炒め作って」僕「えーやだめんどくさい」母「ここで10年前の誕生日にもらったお母さんの言うことなんでも聞く券を召喚！」僕「…………。」",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生牡蠣 食べ方",
+        "牡蠣 バター炒め",
+        "牡蠣 バター醤油",
+        "生カキの食べ方"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/3149496/100x141c/dba4bacb96900aa544d809c3fa0cc748.jpg?u=7254870&p=1430313125"
+}

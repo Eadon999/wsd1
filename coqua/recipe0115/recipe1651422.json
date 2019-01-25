@@ -1,0 +1,54 @@
+{
+    "name": "塩麹のとろ～りチーズ豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "hawaiisunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/1651422/464x260/f4b711077351a3173fcadd457cd868de.jpg?u=743427&p=1323900367",
+    "datePublished": "2011-12-15",
+    "description": "超簡単♪優しいお味の塩麹豆乳スープととろ～りチーズ豆腐が合います（＾ｖ＾）",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "お豆腐",
+            "quantity": "半丁"
+        },
+        {
+            "name": "とろける系チーズ（何でもお好きな物で）",
+            "quantity": "お好きなだけ♪"
+        },
+        {
+            "name": "豆乳",
+            "quantity": "５０ｃｃ"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "小さじ１から２（ご家庭によって塩麹の塩加減が違うと思うので調節してください）"
+        },
+        {
+            "name": "お好みでパセリや青味",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "お豆腐はレンジで１分くらい加熱し水が出たら捨てます。",
+        "塩麹と豆乳を混ぜます。",
+        "１の上にチーズと２の豆乳ソースをかけてレンジで１分から１分３０秒チーズが溶けてお豆腐が温まるまで加熱します。",
+        "アツアツのうちに召し上がってね。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1651422",
+    "advice": "簡単すぎてな～んにもありません（笑）牛乳でも美味しいと思います♪",
+    "history": "塩麹と大豆製品は相性が良さそうなので合わせてみました～",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お豆腐",
+        "豆乳",
+        "塩麹"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1651422/100x141c/477cc573753195d4f73632de06c12d20.jpg?u=743427&p=1323900367"
+}

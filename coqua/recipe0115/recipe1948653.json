@@ -1,0 +1,68 @@
+{
+    "name": "ほっくりさつま芋の炊き込みごはん",
+    "author": {
+        "@type": "Person",
+        "name": "ホトちゃんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1948653/464x260/e16a62d7d0d57b8783caf7eaef834261.jpg?u=4026528&p=1347196175",
+    "datePublished": "2012-09-19",
+    "description": "シンプルだけど、さつま芋の甘さが引き立っておいしい！冷めてもおいしいのでお弁当にもぴったりです♪",
+    "recipeYield": "5～6人前",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも（小）",
+            "quantity": "1個"
+        },
+        {
+            "name": "米",
+            "quantity": "2合"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "350cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "黒ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "さつま芋は皮ごと5m程の厚さのいちょう切りにして、水に10分ほどつけて灰汁抜きする。",
+        "米は通常通り洗って、ざるにあげておく。",
+        "炊飯器に米、さつま芋、だし汁、みりん、酒、薄口醤油を入れて通常通りごはんを炊く。",
+        "炊飯に炊き込みごはんモードがある方は炊き込みごはんモードで炊いて下さい♪",
+        "炊きあがったらさっくり混ぜて、黒ごまと塩をトッピングして完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1948653",
+    "advice": "もち米を混ぜておこわにしてもおいしいです。",
+    "history": "さつま芋がおいしい季節になってきたので♪ごはんにしたら男性も食べやすいです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも",
+        "米",
+        "だし汁",
+        "みりん"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1948653/100x141c/ab8b76936e30df3dd82d4801c553edbd.jpg?u=4026528&p=1347196175"
+}

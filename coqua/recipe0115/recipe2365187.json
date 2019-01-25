@@ -1,0 +1,58 @@
+{
+    "name": "人参とさつま揚げの炒め",
+    "author": {
+        "@type": "Person",
+        "name": "oyukidesu"
+    },
+    "image": "https://img.cpcdn.com/recipes/2365187/464x260/f094389101fbd086baaeed4b9d917e6c.jpg?u=6957661&p=1380954239",
+    "datePublished": "2013-10-05",
+    "description": "さつま揚げの旨味に桜えびと胡麻も入って栄養満点の人参炒めです。人参の大量消費のバリエーションに♬",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "大1本"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "50g"
+        },
+        {
+            "name": "桜えび",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は洗って千切りにする。さつま揚げは細めにスライスする。",
+        "フライパンに胡麻油を熱し、桜えびとさつま揚げをサッと炒める。続けて人参も投入。",
+        "人参に火が通ったら塩をひとつまみ入れ、最後に胡麻を絡めて出来上がり。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2365187",
+    "advice": "人参をよく炒めると甘さが引き出されます。",
+    "history": "人参をよく食べるのですが、アレンジに残り物のさつま揚げと桜えびを合わせてみたらコクが出て美味しかったので(^з^)-☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "さつま揚げ",
+        "桜えび",
+        "すり胡麻"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2365187/100x141c/9e578904b48ab02e3deb0c889d89b0ff.jpg?u=6957661&p=1380954239"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "母のまぜまぜおにぎり♪",
+    "author": {
+        "@type": "Person",
+        "name": "ばけっと"
+    },
+    "image": "https://img.cpcdn.com/recipes/1274818/464x260/7339b2b96a6bc9bb5df76a8173585f93.jpg?u=1418622&p=1292365790",
+    "datePublished": "2010-11-03",
+    "description": "いろいろな具が入っていますが、家にある材料で作れてとても美味しいです♪2011.11.21話題入り♪ありがとうございます",
+    "recipeYield": "２つ分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯強"
+        },
+        {
+            "name": "しゃけ（フレーク）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ゆかり（しそふりかけ）",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "ごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "かつおぶしパック（３ｇのもの）",
+            "quantity": "半分"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "かつおぶしにしょうゆを少したらし、かるく混ぜる。",
+        "材料を全て混ぜ、おにぎりをつくる"
+    ],
+    "cookTime": null,
+    "recipe_id": "1274818",
+    "advice": "ゆかりじゃなく梅干をちぎって入れても美味しいですよ♪ ",
+    "history": "母がおにぎりを大量につくるときに作っていたおにぎりです♪当時は中にしゃけやたらこが入ったおにぎりが食べたかったんですけど、すごく懐かしくなって作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "しゃけ",
+        "ゆかり",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "124",
+    "thumbnail": "https://img.cpcdn.com/recipes/1274818/100x141c/493193107fcfcc30089dc3d87f02b365.jpg?u=1418622&p=1292365790"
+}

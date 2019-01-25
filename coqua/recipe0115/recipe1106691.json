@@ -1,0 +1,63 @@
+{
+    "name": "手綱こんにゃくの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/1106691/464x260/8d5e645f2565edb962c91a0f9a40a0c2.jpg?u=1088838&p=1358407953",
+    "datePublished": "2010-04-22",
+    "description": "レポ400人ありがとう！ ほったらかすだけでもう１品出来ちゃいます♪翌日は更に美味しくなりますよ♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "板こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "３本"
+        },
+        {
+            "name": "胡麻",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "水",
+            "quantity": "１００ｍｌ"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃくは中央に入れた切れ目に端をくぐらせて手綱結びにする。",
+        "胡麻以外全て小鍋にいれ、強火で汁がほぼなくなるまで煮る。",
+        "胡麻を混ぜたら火を消してそのまま冷ませば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1106691",
+    "advice": "火を消したら冷まして味を落ち着かせること。煮る時、蓋はしなくてＯＫです。",
+    "history": "ちくわと相性が良いと思って作りました。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手綱こんにゃく"
+    ],
+    "tsukurepo_count": "540",
+    "thumbnail": "https://img.cpcdn.com/recipes/1106691/100x141c/d3b772dac63af84373887161e37e34ad.jpg?u=1088838&p=1358407953"
+}

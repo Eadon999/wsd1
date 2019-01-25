@@ -1,0 +1,64 @@
+{
+    "name": "小松菜と豚肉のチヂミ",
+    "author": {
+        "@type": "Person",
+        "name": "ベリーA"
+    },
+    "image": "https://img.cpcdn.com/recipes/646679/464x260/c487c2267326fd1ef21fdc1fb50781aa.jpg?u=975343&p=1244338005",
+    "datePublished": "2008-09-17",
+    "description": "話題入りありがと♡　小松菜をたくさん食べられます。片栗粉と玉子のおかげでやわらかです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロースの極薄切り",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "1把"
+        },
+        {
+            "name": "玉子",
+            "quantity": "1個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "おろししょうが",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "中華あじ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆　しょうゆ、ラー油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜は洗って2cm位に切ります。 \nレンジ600ｗで2分加熱。ざるにあけ、水気を絞ります。",
+        "豚肉は細切りにします。",
+        "☆以外をすべて混ぜ合わせます。",
+        "大さじ１杯ずつフライパンに入れて、中火で蓋をして1分半位ずつ両面焼きます。",
+        "おしょうゆとラー油をつけて食べます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "646679",
+    "advice": "焼く時に、大さじですくった種を左手で「ぎゅっ」としてからフライパンに入れると、きれいにまとまります。",
+    "history": "お料理名「チヂミ」に変えました♪♪♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "玉子",
+        "片栗粉",
+        "おろししょうが"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/646679/100x141c/2d9991eeeaff5137248a2cb6e8859cec.jpg?u=975343&p=1244338005"
+}

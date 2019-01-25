@@ -1,0 +1,50 @@
+{
+    "name": "蓮根と水菜のポン酢サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ひれまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1051429/464x260/e9f5b71cda59d72aa67d18c9ec3e6d99.jpg?u=1727762&p=1267095810",
+    "datePublished": "2010-02-25",
+    "description": "サッ、とできてパクパク食べれるヘルシーサラダです！",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "蓮根",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "水菜",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大２"
+        },
+        {
+            "name": "削り節",
+            "quantity": "２ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は３mm厚さ位にスライスし、いちょう切りにして、水にさらし、あく抜きしておく。水菜は３cmくらいの長さに切る。",
+        "あく抜きした蓮根をさっと茹でてザルに上げ、良く水切りをする。キッチンペーパーなどで軽く押さえ水気を取っても良いです。",
+        "ボールに水切りした蓮根・水菜・ポン酢を入れて混ぜたら、最後に削り節を加えて和えたら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1051429",
+    "advice": "さっぱりした味付けなので、水菜やポン酢の量はお好みで加減してくださいね＾＾蓮根の水気は良く切ったほうが水っぽくならないです。",
+    "history": "れんこんのシャキシャキ感を味わえるサラダです＾＾",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "蓮根",
+        "水菜",
+        "ポン酢",
+        "削り節"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1051429/100x141c/4051f6ba313deea2df1500bf182fb7cc.jpg?u=1727762&p=1267095810"
+}

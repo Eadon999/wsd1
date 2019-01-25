@@ -1,0 +1,62 @@
+{
+    "name": "ごぼうとひじきのツナ缶炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ゆうたま"
+    },
+    "image": "https://img.cpcdn.com/recipes/381366/464x260/8b16bb54837ad22898830476d2fcf624.jpg?u=255591&p=1214216231",
+    "datePublished": "2007-06-07",
+    "description": "ちゃちゃっと出来て栄養満点です♪",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "ごぼう",
+            "quantity": "中１本"
+        },
+        {
+            "name": "ひじき",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "◎しょう油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "お好みで人参・エンドウ・ゴマなど",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ごぼうはよく洗ってささがきにする。\r\nひじきは戻しておく。\r\n",
+        "鍋にツナ缶を汁ごと入れてごぼう、ひじきの順に加えて炒めていく。 \r\n◎の調味料で味付けし煮汁がなくなるまで炒め仕上げにごま油を少々たらしてひと混ぜして出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "381366",
+    "advice": "ツナ缶はノンオイル使用の場合にはサラダ油・ごま油を各小さじ１ずつで炒めてください。",
+    "history": "ひじき煮をするときにいつも入れている揚げがなかったのでツナ缶で代用を～、ごぼうもきんぴらにするには足りない量があったので一緒に入れてみました。 ",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき ごぼう"
+    ],
+    "tsukurepo_count": "55",
+    "thumbnail": "https://img.cpcdn.com/recipes/381366/100x141c/c253890001c9435ba518f118fd6eab25.jpg?u=255591&p=1214216231"
+}

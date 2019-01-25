@@ -1,0 +1,47 @@
+{
+    "name": "野菜が美味しい★ごまだれ★",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/266424/464x260/fa4ca08c6eb82c86cc1af6290c99a5ce.jpg?u=252604&p=1214213293",
+    "datePublished": "2006-07-11",
+    "description": "甘いごまだれで、野菜がもりもり食べられます。茹で野菜に和えると美味しいです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白ゴマ",
+            "quantity": "大5"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大2.5"
+        }
+    ],
+    "recipeInstructions": [
+        "すり鉢で、ごまをていねいにすります。",
+        "醤油、砂糖を加えてなめらかになるまですれば完成です。",
+        "ほうれん草のごまだれあえ（レシピID：267560）",
+        "さっと茹でたれんこんに、「ごまだれ」をかけていただきます。しゃきしゃきのれんこんが美味しいです。",
+        "皮ごと茹でた里芋。皮を押してあげると簡単に実が出てきます。「ごまだれ」にマヨネーズを少し混ぜたものをかけました。"
+    ],
+    "cookTime": null,
+    "recipe_id": "266424",
+    "advice": "いろいろな茹で野菜や生の野菜につけて食べても美味しいです。",
+    "history": "伯母に教わってから、我が家の常備だれになりました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白ゴマ",
+        "醤油",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/266424/100x141c/875d3c8424780ef01d2ef97a08993630.jpg?u=252604&p=1214213293"
+}

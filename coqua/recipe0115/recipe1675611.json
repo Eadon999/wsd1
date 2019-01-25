@@ -1,0 +1,78 @@
+{
+    "name": "コロコロ野菜の簡単コンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "みぽママン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1675611/464x260/b9bceba56d795fee0c79764b2824f4bc.jpg?u=1208746&p=1326775707",
+    "datePublished": "2012-01-16",
+    "description": "簡単に作れるスープです。いろんな野菜や具を入れると美味しさＵＰ！受験生のお夜食に♪ダイエットにもイイかも！？",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "人参",
+            "quantity": "１/４本"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "小１個"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "コーン",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "２本"
+        },
+        {
+            "name": "水",
+            "quantity": "５カップ"
+        },
+        {
+            "name": "固形コンソメ",
+            "quantity": "３個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "（お好みで）"
+        }
+    ],
+    "recipeInstructions": [
+        "具を角切りにする。（葉物やベーコンは四角に切る・ソーセージは輪切り）",
+        "鍋に分量の水を入れ、①の具を一緒にし火にかける。",
+        "沸騰したらアクを取り、固形コンソメを入れる。",
+        "具が柔らかくなったら塩コショウで味を調え、完成。\n",
+        "食べる直前に器に盛り付け、お好みでパセリを散らす。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1675611",
+    "advice": "冷蔵庫の残り野菜で作るとよい。",
+    "history": "子供向け料理教室で教えるためにレシピ作成しました。簡単に作れるスープです。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "コンソメスープ 簡単",
+        "コロコロ野菜のコンソメスープ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1675611/100x141c/102ea30b99f7805b7e9865ad0286f3f4.jpg?u=1208746&p=1326775707"
+}

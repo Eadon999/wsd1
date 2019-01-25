@@ -1,0 +1,66 @@
+{
+    "name": "定番☆たらこマヨスパ",
+    "author": {
+        "@type": "Person",
+        "name": "森のポンさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/326904/464x260/964a6e33f1725050e4dfbdcdc8b8a103.jpg?u=315248&p=1214214642",
+    "datePublished": "2007-02-06",
+    "description": "ウチでたらこスパといえばマヨネーズにネギです。和えるだけで簡単♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "100g"
+        },
+        {
+            "name": "たらこ",
+            "quantity": "1腹"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●牛乳",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "少々"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "たらこの中身を取り出し、ボールに●の材料と混ぜる。",
+        "茹でたてのパスタをボールに入れて、よく混ぜ合わせる。",
+        "お皿に盛り付けて刻みネギを散らして出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "326904",
+    "advice": "バターはボールに入れてパスタの蒸気で柔らかくすると早いです。ねぎはたっぷりが美味しいですよ＾＾",
+    "history": "たらこにマヨは定番ですよね。マヨで塩味が薄くなっちゃうので私はしょう油を足します。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/明太子・たらこスパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ",
+        "たらこ",
+        "マヨネーズ",
+        "牛乳"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/326904/100x141c/1cab28a69348ef979e0f143caa6b7bbf.jpg?u=315248&p=1214214642"
+}

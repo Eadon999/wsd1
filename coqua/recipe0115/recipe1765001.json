@@ -1,0 +1,43 @@
+{
+    "name": "【農家のレシピ】キャベツのマヨネーズ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1765001/464x260/7b3f54bd587eee9283bfd5b1982a4d2b.jpg?u=2513693&p=1333459120",
+    "datePublished": "2012-04-13",
+    "description": "油の代わりにマヨネーズを使ってじっくり炒めたキャベツのマヨネーズ炒め。子供の頃大好きだった懐かしい炒め物です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは2センチ角に切っておきます。",
+        "フライパンにマヨネーズを入れ中火にかけマヨネーズから油が出てきたらキャベツを入れ中火で焦げ目がつくまでじっくり炒めます。",
+        "最後に塩コショウで味を調え完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1765001",
+    "advice": "じっくりいためるのがPOINTです。中火でおよそ８～１０分程度です",
+    "history": "子供の頃鉄板焼きをした時に、余ったキャベツサラダを炒めて食べたのが始まりです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ キャベツ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/1765001/100x141c/3f25f8800fae949a7be903c2918ff2dd.jpg?u=2513693&p=1333459120"
+}

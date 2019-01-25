@@ -1,0 +1,56 @@
+{
+    "name": "うす甘い♪ゆかりの卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "Hoink"
+    },
+    "image": "https://img.cpcdn.com/recipes/4204969/464x260/3740828bea21fecc8614aa307fe8165a.jpg?u=1824841&p=1480645830",
+    "datePublished": "2016-12-02",
+    "description": "みりんでほんのりな甘さ＋ゆかりとごま油、相性好しです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "＊ゆかり",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "＊ほんだし",
+            "quantity": "２本指でひとつまみ"
+        },
+        {
+            "name": "＊みりん",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "サラダ油 (焼き用)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵は白身の一部が残らないようにしっかり溶きほぐして＊の調味料を混ぜる。",
+        "フライパンにサラダ油をひいて温め、火加減弱めで卵液を３回に分けて流して焼く。",
+        "焼き上がりはこんな感じ。",
+        "多少でこぼこに焼きあがっても、耐熱ラップにきっちり包んでしばらく置くと中が詰まり、形もキレイに整いますよ～"
+    ],
+    "cookTime": null,
+    "recipe_id": "4204969",
+    "advice": "＊みりんが入っているので焦げ色がつきやすいです。フライパンを温めたらあとは弱火で調理します。＊ゆかりとほんだしの塩気でじゅうぶんなので塩は加えていません。",
+    "history": "我が家の卵焼きは基本塩味ですが、みりんでほんのり甘いゆかりの卵焼きを作りました。冷め加減が美味しいのでお弁当にもよく入れます。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆかり 卵焼き"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4204969/100x141c/fcd54f8279aefebaea62ebe0f12ddac9.jpg?u=1824841&p=1480645830"
+}

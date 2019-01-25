@@ -1,0 +1,57 @@
+{
+    "name": "＊スイートチリな目玉焼き丼＊",
+    "author": {
+        "@type": "Person",
+        "name": "たうんびー"
+    },
+    "image": "https://img.cpcdn.com/recipes/267002/464x260/00b2793572066a475d01c3dc865a35d1.jpg?u=252604&p=1214213304",
+    "datePublished": "2006-07-14",
+    "description": "スイートチリソースと醤油をあわせたら、いつもの目玉焼きが、美味しさパワーアップしました。きゃべつたっぷりでヘルシー♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "きゃべつ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "1杯"
+        },
+        {
+            "name": "★スイートチリソース",
+            "quantity": "大1"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "目玉焼きをお好みのかたさで焼きます。",
+        "きゃべつを千切りにします。",
+        "あたたかいご飯に、きゃべつたっぷりと、目玉焼きをのせて、★を混ぜ合わせたたれをかけて、出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "267002",
+    "advice": "ワンプレートにして、お好みのものと一緒にどうぞ♪",
+    "history": "大好きなスイートチリソースで作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼",
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": [
+        "目玉焼き丼 6位"
+    ],
+    "related_keywords": [
+        "卵",
+        "きゃべつ",
+        "ごはん",
+        "スイートチリソース"
+    ],
+    "tsukurepo_count": "114",
+    "thumbnail": "https://img.cpcdn.com/recipes/267002/100x141c/7f195342ac853e3522d5417084be7aa8.jpg?u=252604&p=1214213304"
+}

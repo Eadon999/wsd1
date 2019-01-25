@@ -1,0 +1,72 @@
+{
+    "name": "チンゲン菜の中華チャーハン",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2385733/464x260/ae878d1be1da85f5e70f8c775ab3e6c3.jpg?u=3280486&p=1382660389",
+    "datePublished": "2013-10-25",
+    "description": "チンゲン菜の食感、豆板醤のピリ辛、オイスターソースの甘みを楽しむチャーハンです♫",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "チンゲン菜（一口大）",
+            "quantity": "1株（約130g）"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "温かいごはん",
+            "quantity": "200g"
+        },
+        {
+            "name": "玉葱（みじん切り）",
+            "quantity": "1/2個（約40g）"
+        },
+        {
+            "name": "人参（みじん切り）",
+            "quantity": "20g"
+        },
+        {
+            "name": "ニンニク・生姜（みじん切り）",
+            "quantity": "各1片"
+        }
+    ],
+    "recipeInstructions": [
+        "卵と豆板醤を混ぜ合わせる。1つの器に<ごはん>を入れておく。",
+        "熱したフライパンに油を入れて①の溶き卵を流し入れる。強火で火にかけ、8割程固まったら<ごはん>を加える。",
+        "3分程炒め合わせてごはんがパラパラになってきたらチンゲン菜を加える。",
+        "30秒ほど炒め合わせたら、オイスターソース・塩・胡椒で味を調えて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2385733",
+    "advice": "卵と豆板醤を溶く時は、フォークで切るように混ぜると、均等になりますよ。",
+    "history": "自宅で美味しい「中華」チャーハンを食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/アレンジ炒めご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "チンゲン菜 チャーハン"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2385733/100x141c/186107d9507afce77d3bb72b85480ca1.jpg?u=3280486&p=1382660389"
+}

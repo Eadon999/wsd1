@@ -1,0 +1,68 @@
+{
+    "name": "鶏ももソテーと玉ねぎさっぱり和風ソース",
+    "author": {
+        "@type": "Person",
+        "name": "舞依ちゅん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3768426/464x260/557b9e6111fa37533cf79290d0888da0.jpg?u=11430072&p=1458886077",
+    "datePublished": "2016-03-24",
+    "description": "鶏ももをさっぱりソースで…あっとゆうまに晩御飯…",
+    "recipeYield": "5人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも",
+            "quantity": "5枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1個"
+        },
+        {
+            "name": "水",
+            "quantity": "200cc"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ5"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎをみじん切りにして炒め芯なりしたら水、みりん、酒、めんつゆ、醤油を入れ沸騰させ弱火で酢を入れ沸騰させる",
+        "鶏ももを皮側から焼き両面焼き色がつけ好みの大きさにカットして①をかけて出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "3768426",
+    "advice": "酢の量はお好みで変えて下さい後何もありません",
+    "history": "鶏ももをさっぱり和風で食べたかったので…H28・10・20に再度とろみをつけてみました。たれを水溶き片栗粉でとろみをつけて食べても肉に絡んでおいしかったです。（サラダドレッシングにも使えました。）",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": [
+        "和風ソース 6位",
+        "鶏肉ソテー 10位"
+    ],
+    "related_keywords": [
+        "鶏もも肉 和風ソース",
+        "鶏もも肉ソテー",
+        "和風ソース",
+        "和風ソース 玉ねぎ"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3768426/100x141c/2a4a5818aedf1bad12f4d9fbc3069ed4.jpg?u=11430072&p=1458886077"
+}

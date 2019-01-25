@@ -1,0 +1,48 @@
+{
+    "name": "おつまみ✿ご飯にも～キャベキムチ",
+    "author": {
+        "@type": "Person",
+        "name": "まじゅじゅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1451087/464x260/425aa21ace99f9f71b6604aa5d2e0012.jpg?u=729876&p=1423531615",
+    "datePublished": "2011-05-26",
+    "description": "簡単(◕‿　≪✿あっと言う間の1品です。ご飯にもお酒にも是非",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "140㌘位(春系で1/4個位)"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "90～100㌘"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小匙１"
+        },
+        {
+            "name": "白ゴマ(無くても可)",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを幅1.5㌢位の細切にして流水で洗います。",
+        "㊤①をお皿に乗せ\n㊥ラップをかけレンジ(500w1分30秒)\n㊦こんな感じになります。",
+        "㊤ラップを取り\n㊥ごま油をまわしかけ\n㊦混ぜます。こんな感じになります。",
+        "㊤③を1人分づつ器に盛真ん中をへこませ気味に\n㊥キムチを乗せ\n㊦あれば白胡麻を振り完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "1451087",
+    "advice": "レンジの加熱時間はご家庭のレンジの熱量で調整してください。",
+    "history": "キムチ好きの娘に野菜も一緒に食べて貰おうと家冷蔵庫にあったもので作ってみたら大ヒット‼",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ キムチ おつまみ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/1451087/100x141c/205712a9af57bcf01c7c16544ed32559.jpg?u=729876&p=1423531615"
+}

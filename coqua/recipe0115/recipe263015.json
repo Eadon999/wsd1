@@ -1,0 +1,71 @@
+{
+    "name": "エビとアボガドのわさびマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ろこー"
+    },
+    "image": "https://img.cpcdn.com/recipes/263015/464x260/e89af3d021a622dc15a6d239834f7bc2.jpg?u=263261&p=1214213221",
+    "datePublished": "2006-06-26",
+    "description": "アボガドとマヨネーズの相性って最高ですよね。ワサビをきかせているので、和風になってさっぱり食べられます。",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "エビ",
+            "quantity": "お好きな量"
+        },
+        {
+            "name": "アボガド",
+            "quantity": "1個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大匙1強"
+        },
+        {
+            "name": "わさび",
+            "quantity": "少々"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        },
+        {
+            "name": "お好みで大葉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "エビは下処理をして、ボイルして冷ましておく。アボガド、トマトは一口大に切っておく。",
+        "大葉以外の調味料を①に混ぜ合わせて器に盛る。\r\n",
+        "お好みで大葉をちらして出来上がり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "263015",
+    "advice": "ニンニクは控えめの方がいいかもしれません。",
+    "history": "アボガドもエビも大好きな娘と考えました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ",
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの冷副菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビ",
+        "アボガド",
+        "トマト",
+        "醤油"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/263015/100x141c/b125127359b16f7b745adbce699f1be9.jpg?u=263261&p=1214213221"
+}

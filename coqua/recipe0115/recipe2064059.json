@@ -1,0 +1,59 @@
+{
+    "name": "エリンギバターのマヨわさ和え",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2064059/464x260/e4ed8b5f02e19a564819427965fa311d.jpg?u=4819316&p=1356140710",
+    "datePublished": "2012-12-22",
+    "description": "15/5/30話題入り有難うございます、あと１品というときに、ちょうど良いかと思います、ご飯に合うしビールにも合います",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "１本"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "わさび",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは長さを半分に切って、細切りにする",
+        "フライパンでバターを熱し、エリンギを炒め、塩・こしょうをふる",
+        "しんなりとすれば、火を止め、マヨネーズとわさびを入れてよく混ぜる",
+        "小鉢に盛り、上からねぎをふりかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2064059",
+    "advice": "ねぎはなくてもいいですよ、好みに合わせてわさびの量は調節して下さい。",
+    "history": "わさびとマヨネーズは合いますよね、茸炒めでもいけると思いました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ",
+        "その他/おつまみ/ビールに合うおつまみ"
+    ],
+    "rankings": [
+        "エリンギバター 2位"
+    ],
+    "related_keywords": [
+        "エリンギバター"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2064059/100x141c/b2912e0d9cecdc0fb63c505616fd4da2.jpg?u=4819316&p=1356140710"
+}

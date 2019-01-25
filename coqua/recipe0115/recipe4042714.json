@@ -1,0 +1,70 @@
+{
+    "name": "とろっとろっ　茄子の照り焼き",
+    "author": {
+        "@type": "Person",
+        "name": "coffeedge"
+    },
+    "image": "https://img.cpcdn.com/recipes/4042714/464x260/9470d984285f27b6daaa168c227a8cd4.jpg?u=13890988&p=1472452008",
+    "datePublished": "2016-08-29",
+    "description": "とろっとろっの茄子の照り焼き、存在感大で立派な主菜になります♪豆板醤を足してピリ辛にしても◎",
+    "recipeYield": "2,3人分",
+    "recipeIngredient": [
+        {
+            "name": "なす　(大きめ)",
+            "quantity": "2本"
+        },
+        {
+            "name": "細ネギ",
+            "quantity": "5,6本"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆しょうが(すりおろし)",
+            "quantity": "1片分"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "塩、胡椒",
+            "quantity": "各適量"
+        },
+        {
+            "name": "ごま油(仕上げ用)",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "☆印を器に入れよく混ぜる。\n\n細ネギを3,4cmに切る。\n\nなすを食べやすい大きさに切り、片栗粉を付ける。\n",
+        "フライパンを中火で加熱し、油を多めに加えなすを炒め、塩、胡椒する。\n\nなすに焼き色を付いたら、細ネギを加えて炒める。",
+        "余分な油をキッチンタオルでふき取り、☆印を加えて煮詰め、仕上げにごま油を少しかける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4042714",
+    "advice": "なすがとろけて崩れるので、少し大きめに切って下さい。",
+    "history": "家の人気メニューです、お弁当のおかずにもなる便利な茄子料理です。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "細ネギ",
+        "片栗粉",
+        "しょうが"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/4042714/100x141c/d5a264b9838871386654e23cdd7c1415.jpg?u=13890988&p=1472452008"
+}

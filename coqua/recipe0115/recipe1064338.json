@@ -1,0 +1,60 @@
+{
+    "name": "鶏ささみdeチーズロール",
+    "author": {
+        "@type": "Person",
+        "name": "HaLボー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1064338/464x260/32db57b9ec36902179c077c5673bede3.jpg?u=1937183&p=1268208925",
+    "datePublished": "2010-03-10",
+    "description": "溶け出したチーズがまた美味しいです（´ ｀）!",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささ身",
+            "quantity": "１０本"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "２つかみぐらい"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "①\r\nささみの筋を取り、めん棒などで均一にたたいてのばす。",
+        "②\r\nささみに塩コショウを振って、とろけるチーズを散らす。",
+        "③\r\nくるくると巻いて、小麦粉をまぶし、油をひいたフライパンで全体に焼き目をつける。（中火）",
+        "④\r\n酒をふってフタをし、弱火で３分ほど蒸し焼きにする。",
+        "⑤\r\n醤油を加えて、フライパンをゆするようにして絡めたら完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1064338",
+    "advice": "③で焼き始めるときは、巻き終わりを下にして、ある程度焼き目をつけてからコロコロ転がして焼いた方が良いと思いますっ＾＾",
+    "history": "ささみがたくさんあったので、作りました★",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ささ身",
+        "とろけるチーズ",
+        "塩コショウ",
+        "酒"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1064338/100x141c/a9058aac8bea9211cbdd4d795e50d4d4.jpg?u=1937183&p=1268208925"
+}

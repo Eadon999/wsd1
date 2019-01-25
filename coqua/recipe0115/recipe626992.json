@@ -1,0 +1,65 @@
+{
+    "name": "✿厚揚げと豚ひき肉の❀簡単✿甘辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/626992/464x260/198b67a92367a8d5d806a97e802923fb.jpg?u=42283&p=1218607762",
+    "datePublished": "2008-08-13",
+    "description": "厚揚げと豚ひき肉の、甘辛い味のおかずですヽ(´▽｀)/～♪ご飯にもとっても合います♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "豚ひき肉",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小１"
+        },
+        {
+            "name": "生姜（摩り下ろし）",
+            "quantity": "小１強"
+        },
+        {
+            "name": "◎砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "大１，５"
+        }
+    ],
+    "recipeInstructions": [
+        "サラダ油を入れて、生姜の摩り下ろしを入れて、豚ひき肉を炒める。",
+        "◎で味付けする。",
+        "厚揚げは油抜きをしっかり熱湯でして、水気をきってから、写真のように食べ易く切る。",
+        "厚揚げをフライパンに入れて、優しく混ぜながら温める。",
+        "出来上がりです（´ー｀）",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "626992",
+    "advice": "忙しい時でもササッと作れるので便利です(^-^ )レタスにのせて食べても、丼にしてもＯＫです（ｙ＾＾ｙ）",
+    "history": "厚揚げにボリュームを出したい時に作る、簡単おかずです（*＾＾*)",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "豚ひき肉",
+        "サラダ油",
+        "生姜"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/626992/100x141c/21eaa03896476f611dc2e83e0e996777.jpg?u=42283&p=1218607762"
+}

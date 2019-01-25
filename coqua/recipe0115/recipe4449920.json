@@ -1,0 +1,50 @@
+{
+    "name": "簡単ちぎるだけ！たっぷりエビキャベツ",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4449920/464x260/800546538d0327b66c61389d3bcb99e9.jpg?u=4376699&p=1491145298",
+    "datePublished": "2017-04-03",
+    "description": "包丁不要♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "桜えび",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを適当に手でちぎる",
+        "材料を混ぜて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4449920",
+    "advice": "桜えびは煎ってから　ID:4449925乾燥桜エビでもＯＫ",
+    "history": "たっぷりキャベツ風に！ID:1925951",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エビキャベツ"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4449920/100x141c/783e8675b92654ede782e37a7f615961.jpg?u=4376699&p=1491145298"
+}

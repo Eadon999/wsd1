@@ -1,0 +1,61 @@
+{
+    "name": "ほうれん草とささ身の卵ココット",
+    "author": {
+        "@type": "Person",
+        "name": "xxSeenaxx"
+    },
+    "image": "https://img.cpcdn.com/recipes/2410874/464x260/b2c46a2e41b4c0e1e71ccc2063916a6d.jpg?u=5542877&p=1400494632",
+    "datePublished": "2013-11-19",
+    "description": "★話題のレシピになりました。2014/05/04★ありがとうございます。体にも優しい料理です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "卵(Lサイズ)",
+            "quantity": "2個"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "ささ身",
+            "quantity": "3切れ"
+        },
+        {
+            "name": "麺つゆ",
+            "quantity": "50cc"
+        },
+        {
+            "name": "お湯",
+            "quantity": "100cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ささ身に酒と塩を降って、ラップに包み\nレンジで２分半ぐらい温めてください。\n冷めてからほぐしてください。",
+        "ほうれん草はサッと茹でる\n（もしくはレンジで２分）\n食べやすい大きさに切っておく。\n",
+        "麺つゆにお湯をいれてダシを作っておく",
+        "グラタン皿にほうれん草とささ身を入れ\n３を半分いれ。\n卵を割っていれる。",
+        "オーブントースターの場合、１０分くらい。\nフライパンでも１０分でできます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2410874",
+    "advice": "ほうれん草からも水分が出ますので麺つゆとお湯の割合は味の濃さは調節してください。",
+    "history": "ちょっと食欲ないなぁ～と思った時に作る我が家の定番料理です。半熟になった卵とほうれん草とささ身が混ざり合って美味しいですよ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "体に優しい料理"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2410874/100x141c/6a098f96c44f6e7feb9069d9549c9c97.jpg?u=5542877&p=1400494632"
+}

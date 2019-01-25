@@ -1,0 +1,67 @@
+{
+    "name": "炊飯器におまかせ。簡単ひじきご飯",
+    "author": {
+        "@type": "Person",
+        "name": "naomi5295"
+    },
+    "image": "https://img.cpcdn.com/recipes/2778112/464x260/70ba55cfe6ebdce297086b4503ff40cf.jpg?u=438146&p=1413298739",
+    "datePublished": "2014-09-01",
+    "description": "材料を直接炊飯器に入れるだけ。簡単。おかずの邪魔をしない薄味です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "生ひじき",
+            "quantity": "120グラム"
+        },
+        {
+            "name": "人参",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "だし醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "だし昆布",
+            "quantity": "1枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは水洗い、人参は細い短冊切りにする。\n油揚げは細切りしたものに、熱湯をかけ、油ぬきをする。",
+        "研いだお米をお釜に入れ、調味料と水で3合の線まで満たす。さっと混ぜる。",
+        "2の上に、だし昆布、切った具を入れて、炊き込み御飯モードで炊く。\n炊き上がったら、混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2778112",
+    "advice": "",
+    "history": "ひじきが冷蔵庫にあったので",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじきご飯 炊飯器 簡単"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2778112/100x141c/735477b825f9ddbee0ac3ab75871c89e.jpg?u=438146&p=1413298739"
+}

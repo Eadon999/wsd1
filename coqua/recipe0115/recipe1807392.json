@@ -1,0 +1,62 @@
+{
+    "name": "簡単に♪◆高菜チャーハン◆",
+    "author": {
+        "@type": "Person",
+        "name": "ぐびぐびぷは～"
+    },
+    "image": "https://img.cpcdn.com/recipes/1807392/464x260/9d0dd85080baa0b6f0094d556169be62.jpg?u=2619264&p=1336568805",
+    "datePublished": "2012-05-12",
+    "description": "残りご飯があったらこれ!マヨをちょっと加えることでコクがでます♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "高菜の漬物",
+            "quantity": "50ｇ~"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大1~2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大1"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "卵を割りほぐして塩少々を加え、油少々を入れたフライパンで柔らかめの炒り卵を作って皿に取り出しておく",
+        "①で使ったフライパンにごま油を入れてみじん切りの高菜を炒め、ご飯を加えてほぐしながら炒める",
+        "ご飯がほぐれたらマヨネーズ、醤油を入れて炒めながら混ぜ、味を見て塩コショウで調味する。卵を戻して混ぜ合わせたら出来上がり"
+    ],
+    "cookTime": null,
+    "recipe_id": "1807392",
+    "advice": "高菜の塩気で調味料を加減して下さい♪",
+    "history": "高菜があると必ず作りたくなります✿",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炒めご飯・チャーハン/お漬物を使ったチャーハン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "高菜の漬物",
+        "卵",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/1807392/100x141c/1f066638202c3643e6b5776f072367d3.jpg?u=2619264&p=1336568805"
+}

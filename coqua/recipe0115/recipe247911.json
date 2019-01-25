@@ -1,0 +1,50 @@
+{
+    "name": "イクラ丼",
+    "author": {
+        "@type": "Person",
+        "name": "あやこな"
+    },
+    "image": "https://img.cpcdn.com/recipes/247911/464x260/0d655acf01be091a672ed2a6a0751bf8.jpg?u=41857&p=1214212853",
+    "datePublished": "2006-04-08",
+    "description": "錦糸玉子の甘さと、海苔の風味が、イクラによく合います。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "どんぶり１杯"
+        },
+        {
+            "name": "錦糸玉子",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "イクラ",
+            "quantity": "大さじ２～３杯"
+        },
+        {
+            "name": "海苔の千切り",
+            "quantity": "一つまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "どんぶりにご飯を盛り、上から満遍なく錦糸玉子を散す。",
+        "周りを１～２ｃｍあけ、イクラを盛る。",
+        "中心に海苔の千切りを、こんもりと盛り出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "247911",
+    "advice": "",
+    "history": "好きなファミレスのメニューです。卵は甘めで。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/海鮮丼"
+    ],
+    "rankings": [
+        "いくら丼 4位"
+    ],
+    "related_keywords": [
+        "いくら丼",
+        "いくら丼 錦糸卵"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/247911/100x141c/ad6e69227251738e77b4aa807df7fa85.jpg?u=41857&p=1214212853"
+}

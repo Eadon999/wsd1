@@ -1,0 +1,58 @@
+{
+    "name": "☆れんこんのポタージュ☆",
+    "author": {
+        "@type": "Person",
+        "name": "Ｃｈｉｋａｙａｎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/4381134/464x260/483cadd89772857f3ae1bb783bc3912c.jpg?u=2290698&p=1489236116",
+    "datePublished": "2017-03-11",
+    "description": "花粉症にはれんこんが効くということで、ポタージュにしてみました！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "水",
+            "quantity": "400㏄"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "200㏄"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは皮をむいて5㎜のいちょう切りにし、水に５分くらいさらす。玉ねぎは繊維に沿ってスライス。",
+        "鍋に、水気を切ったれんこん、玉ねぎ、水、コンソメ顆粒を入れて15分くらい弱火でコトコト煮る。",
+        "②をミキサーに入れて滑らかになるまで撹拌する。",
+        "鍋に戻し、牛乳でのばして弱火にかけ、塩、こしょうで味を調える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4381134",
+    "advice": "行程②では、軟らかくなるまで煮てください。",
+    "history": "毎朝飲んでいるポタージュの中の一品です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/ポタージュ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん ポタージュ",
+        "れんこん ポタージュ 牛乳",
+        "花粉症 ｽｰﾌﾟ"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4381134/100x141c/1792f6dd6afda41e4e9bd6ff74789b79.jpg?u=2290698&p=1489236116"
+}

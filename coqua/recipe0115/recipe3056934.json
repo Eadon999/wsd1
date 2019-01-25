@@ -1,0 +1,50 @@
+{
+    "name": "揚げかぼちゃの甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/3056934/464x260/580ec0b2e0f2fc8acc7345b354d38b04.jpg?u=230354&p=1425867938",
+    "datePublished": "2015-03-09",
+    "description": "簡単、材料シンプルですが、かぼちゃが嫌いな人に「はじめてかぼちゃを美味しいと思った」と言わせたレシピです♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "400～500g"
+        },
+        {
+            "name": "水",
+            "quantity": "150ml"
+        },
+        {
+            "name": "はちみつ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃはワタを取り除き、3センチ角に切る。",
+        "中温の油に皮を下にして入れ、2分揚げる。",
+        "深めのフライパンに、水・はちみつ・醤油を入れて煮立て、②を入れて中火にし、汁気がなくなるまで煮絡める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3056934",
+    "advice": "",
+    "history": "あまり食感のないあっさりしたかぼちゃの煮物が特にだめ・・・と言って箸もつけない人のために、ほくほく食感を残して、しっかり味に。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ",
+        "水",
+        "はちみつ",
+        "醤油"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/3056934/100x141c/eb7bfb4deb3a3565ad8b76391fbf81e1.jpg?u=230354&p=1425867938"
+}

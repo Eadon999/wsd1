@@ -1,0 +1,73 @@
+{
+    "name": "玉ねぎとこんにゃくの生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "NAGANO久留米"
+    },
+    "image": "https://img.cpcdn.com/recipes/2165597/464x260/da392c2baabc4e8f1650c91b7884af82.jpg?u=3789549&p=1468994052",
+    "datePublished": "2013-03-25",
+    "description": "体を温めて代謝をよくするレシピ2014.02.27話題入り",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ　中",
+            "quantity": "1個"
+        },
+        {
+            "name": "こんにゃく　今回は白色使用",
+            "quantity": "1枚　約200ｇ"
+        },
+        {
+            "name": "☆生姜",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆味醂",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "大葉",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎ⇒くし形\n\nこんにゃく⇒一口大両面細かい切り込み、湯通し\n\n大葉⇒刻む",
+        "☆を混ぜ合わせておく",
+        "フライパンに油を入れて熱し、玉ねぎ、こんにゃくを炒める",
+        "焼き色が付いたら\n一旦火を止め2を加え弱火の強で更に炒める  綺麗に絡めたら出来上がりです",
+        "器に盛り刻み大葉を散らす",
+        "2017.5.11\ncookpadニュース\n掲載されました。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2165597",
+    "advice": "",
+    "history": "身体に優しいダイエット食",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生姜",
+        "醤油",
+        "酒",
+        "味醂"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2165597/100x141c/34544be11a0f616df95838030c7a6c00.jpg?u=3789549&p=1468994052"
+}

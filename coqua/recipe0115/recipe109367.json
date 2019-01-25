@@ -1,0 +1,64 @@
+{
+    "name": "とうがんと鶏肉の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "norihime"
+    },
+    "image": "https://img.cpcdn.com/recipes/109367/464x260/7c378ee6a7b6bf8d2423b1d2359964d5.jpg?u=35341&p=1214210248",
+    "datePublished": "2003-09-28",
+    "description": "美肌効果があるといわれているとうがんと鶏肉の相性はぴったりです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "とうがん",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "５００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１/２"
+        },
+        {
+            "name": "昆布つゆ",
+            "quantity": "大１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "酒",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "とうがんは皮をむき,種の部分を切り１口大に切る。\r\n鶏肉も１口大に切る。",
+        "だし汁に、砂糖、昆布つゆ、酒、を加えて、沸騰したら\r\n鶏肉をくわえる。",
+        "鶏肉に火が通ったら\r\nとうがんを加える。",
+        "とうがんが柔らかくなったら、片栗でとろみをつけて\r\nできあがり"
+    ],
+    "cookTime": null,
+    "recipe_id": "109367",
+    "advice": "",
+    "history": "我が家で獲れたとうがんをつかって作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とうがん",
+        "鶏もも肉",
+        "だし汁",
+        "砂糖"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/109367/100x141c/969c2f510ffb650b302a30ce5535f108.jpg?u=35341&p=1214210248"
+}

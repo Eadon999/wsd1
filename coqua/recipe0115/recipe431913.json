@@ -1,0 +1,50 @@
+{
+    "name": "おかか醤油で大葉のおにぎり❤",
+    "author": {
+        "@type": "Person",
+        "name": "ハリハリ戦士"
+    },
+    "image": "https://img.cpcdn.com/recipes/431913/464x260/052c91c71c2c6881cdcbe66731838056.jpg?u=409625&p=1214217263",
+    "datePublished": "2007-09-19",
+    "description": "おかかと醤油ってとっても合います。それに大好きな大葉をトッピングしてみました。ふりかけが切れているときにいいですよぉ～",
+    "recipeYield": "１個分",
+    "recipeIngredient": [
+        {
+            "name": "鰹節",
+            "quantity": "半袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小２分の１弱"
+        },
+        {
+            "name": "大葉",
+            "quantity": "１枚～(お好みで増やしてください）"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗半分程度"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルに鰹節とお醤油を入れ、浸みこませます。",
+        "①に温かいご飯を入れて混ぜ、大葉を千切りにして加えます。そしてにぎってください。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "431913",
+    "advice": "お醤油の入れ過ぎに注意してください。",
+    "history": "久々のおにぎりレシピ更新です❤",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鰹節",
+        "醤油",
+        "大葉",
+        "ご飯"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/431913/100x141c/2a5c6d04537d3b5e775d45aa386411a5.jpg?u=409625&p=1214217263"
+}

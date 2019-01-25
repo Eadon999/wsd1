@@ -1,0 +1,64 @@
+{
+    "name": "◆初心者にも簡単！子持ちカレイ煮付け◆",
+    "author": {
+        "@type": "Person",
+        "name": "☆classy☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2418404/464x260/92f7998cbea45017befda3a026cbe128.jpg?u=4943272&p=1385465329",
+    "datePublished": "2013-11-26",
+    "description": "初心者にも短時間で簡単にしっかり美味しいカレイの煮付け♡お魚を煮るのが苦手だった私も教えてもらったこのレシピで克服＾＾",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "カレイの切り身",
+            "quantity": "２切"
+        },
+        {
+            "name": "お砂糖",
+            "quantity": "大さじ１と半分"
+        },
+        {
+            "name": "お酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "お醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "お水",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "さしみ醤油（なければお醤油を大さじ２ではなく大さじ３でOK）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "スライス３枚ほど"
+        }
+    ],
+    "recipeInstructions": [
+        "しょうがをスライスする。\n冷凍カレイを使用の場合は解凍しておく。",
+        "お鍋に調味料をすべて入れて中火にかける",
+        "沸いたらカレイを入れる",
+        "アルミで落し蓋をし５分～８分煮る。（お魚の大きさで煮込み時間調整してください）\n途中ひっくり返しがタレをスプーンでかける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2418404",
+    "advice": "さしみ醤油がない場合はお醤油を大さじ３でOK。",
+    "history": "煮魚を作るのが苦手だったのですが、簡単に美味しく作れると教えてもらったこのレシピで作ったら美味しく作れて克服できました♡",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/かれい"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレイ煮付け"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/2418404/100x141c/98941bdace505ce8df3e4a027b48a6a6.jpg?u=4943272&p=1385465329"
+}

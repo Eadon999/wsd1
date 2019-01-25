@@ -1,0 +1,53 @@
+{
+    "name": "内緒のピーマンごはん♪",
+    "author": {
+        "@type": "Person",
+        "name": "かのん..ｐｊ."
+    },
+    "image": "https://img.cpcdn.com/recipes/797411/464x260/c24e0e1bb7bbc3d48af252498b352371.jpg?u=201970&p=1244083635",
+    "datePublished": "2009-06-05",
+    "description": "生ピーマンと炊きたてご飯。絶対に結びつかないようなこの２つが、全ての相乗効果で驚きのおいしさに。ぜひ♪",
+    "recipeYield": "お茶碗１杯分",
+    "recipeIngredient": [
+        {
+            "name": "ピーマン",
+            "quantity": "小１個"
+        },
+        {
+            "name": "バター",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "塩こんぶ",
+            "quantity": "お好みの量"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "炊きたてご飯",
+            "quantity": "お茶碗１杯分"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーマンは縦半分に切り、次は横にして繊維を断つように薄～く千切りにします。",
+        "炊きたて熱々のご飯にバター、ピーマン、塩昆布、ごまをのせて混ぜながら頂きましょう♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "797411",
+    "advice": "ピーマンは炒めたりせず、必ず生ピーマンで。　薄～く薄～く切ることです。味を見ながら塩昆布を加減してみて下さい。おいしいですよ♪",
+    "history": "１分ﾚｼﾋﾟ♪　大声では言えない手抜きご飯ですが（笑）小さい頃好きだったバターご飯のアレンジ版です。　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ピーマン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ピーマン",
+        "バター",
+        "塩こんぶ",
+        "白ごま"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/797411/100x141c/c88342e345173a74a41ec7c841b1849d.jpg?u=201970&p=1244083635"
+}

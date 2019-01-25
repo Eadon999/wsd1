@@ -1,0 +1,54 @@
+{
+    "name": "キノコのホイル焼き☆麺つゆバターで簡単に",
+    "author": {
+        "@type": "Person",
+        "name": "蒼緑茶"
+    },
+    "image": "https://img.cpcdn.com/recipes/279321/464x260/70605345145db56f39230006d7e5da62.jpg?u=234500&p=1214213576",
+    "datePublished": "2006-09-08",
+    "description": "簡単なのにおいしいです！ぜひお試しあれ！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "お好みのキノコ",
+            "quantity": "2パック位"
+        },
+        {
+            "name": "麺つゆ（3倍濃縮）",
+            "quantity": "大さじ2程度"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アルミホイルに、適当にほぐしたキノコをのせて麺つゆをかける。\r\n我が家の定番は↑コレです。",
+        "バターを乗せ、味をしめる意味で塩・コショウを少々振る。",
+        "ホイルの口を閉じて、魚焼きグリルかオーブントースターで7～8分焼いてできあがり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "279321",
+    "advice": "麺つゆの量はお好みに合わせて加減してください。",
+    "history": "「麺つゆで簡単☆サケときのこのホイル焼き」（レシピID:247309）をキノコのみのレシピで改めてアップしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "麺つゆ",
+        "バター",
+        "塩",
+        "コショウ"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/279321/100x141c/ba612d1ca25e547cdf3f75d61a769fcf.jpg?u=234500&p=1214213576"
+}

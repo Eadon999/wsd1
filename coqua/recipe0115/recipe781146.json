@@ -1,0 +1,72 @@
+{
+    "name": "簡単サクぷり★エビマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "バカゾク"
+    },
+    "image": "https://img.cpcdn.com/recipes/781146/464x260/8058a400d825bfc96d429416d8b3d4a6.jpg?u=1088838&p=1356523258",
+    "datePublished": "2009-04-12",
+    "description": "れぽ8000人ありがとう！ぷりぷりのエビマヨがおうちで簡単に作れます♪ぜひチャレンジして見て下さい♪",
+    "recipeYield": "約２人分",
+    "recipeIngredient": [
+        {
+            "name": "むきえび",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大２"
+        },
+        {
+            "name": "アスパラ",
+            "quantity": "３本"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大３"
+        },
+        {
+            "name": "★牛乳かヨーグルト",
+            "quantity": "大１"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "★ケチャップ",
+            "quantity": "大１"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大１／２"
+        },
+        {
+            "name": "★レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "えびと片栗を袋に入れて、下からたたき上げる様にして薄く粉をまぶす。",
+        "オリーブオイルでエビを両面焼き、茹でたアスパラと一緒に★の入ったボウルに移して和えれば完成！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "781146",
+    "advice": "えびは焼きすぎると固くなるし、さわりすぎると片栗粉が落ちるので、あまり触らずにさっと焼くこと。",
+    "history": "お家で簡単にエビマヨを食べたいな、と思ったのがきっかけで考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老",
+        "その他/中華料理/エビマヨ"
+    ],
+    "rankings": [
+        "エビマヨ 2位"
+    ],
+    "related_keywords": [
+        "エビマヨ",
+        "エビマヨ 簡単",
+        "簡単サクぷり★エビマヨ",
+        "エビマヨ 簡単 アスパラ"
+    ],
+    "tsukurepo_count": "9324",
+    "thumbnail": "https://img.cpcdn.com/recipes/781146/100x141c/49eb79bcf1288200e6eadbd93693f372.jpg?u=1088838&p=1356523258"
+}

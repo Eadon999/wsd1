@@ -1,0 +1,59 @@
+{
+    "name": "ほうれん草のお浸し§おかか＆ごま海苔",
+    "author": {
+        "@type": "Person",
+        "name": "じゅんこ３１０"
+    },
+    "image": "https://img.cpcdn.com/recipes/1280710/464x260/7cc81c6c6bd0099c2feee601b67600dc.jpg?u=2406578&p=1394598156",
+    "datePublished": "2010-11-10",
+    "description": "旬のほうれん草をたくさん食べましょう〜！　H２４年１１月１５日初の話題入り感謝です☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "2枚"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "小さいパックで1袋"
+        },
+        {
+            "name": "白ごま（すりごまでもOK）",
+            "quantity": "適量"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "味の素（またはだしの素）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を3cmくらいに切る。切ったら、根元の固い部分→葉っぱの部分の順番に茹でていく。",
+        "茹であがったら水にさらし、水気を切って、しっかりめに絞る。",
+        "焼き海苔は細かくちぎる。",
+        "材料をすべて混ぜて完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1280710",
+    "advice": "しょうゆの量はお好みで加減して下さい。お弁当にもいいですよ。前の晩に作っておくと、朝詰めるだけでいいので楽ちんです。",
+    "history": "ほうれん草を買うといつもこのレシピでお浸しを作っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草",
+        "焼き海苔",
+        "かつお節",
+        "白ごま"
+    ],
+    "tsukurepo_count": "118",
+    "thumbnail": "https://img.cpcdn.com/recipes/1280710/100x141c/5a20aed77b56fedf9eb0192e123e1d63.jpg?u=2406578&p=1394598156"
+}

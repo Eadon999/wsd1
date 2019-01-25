@@ -1,0 +1,63 @@
+{
+    "name": "安納芋と豆腐の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "はーとねこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2896018/464x260/f6c057ad65faec331749cb9009df0fae.jpg?u=3099986&p=1416717259",
+    "datePublished": "2014-11-23",
+    "description": "お芋があまくておいしい。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "安納芋",
+            "quantity": "小３～４個"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１/３丁"
+        },
+        {
+            "name": "みそ汁の具(市販品)",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "きざみねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "白だし",
+            "quantity": "少量"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ３～好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "ますやみそ　みそ汁の具・玉麩入り。",
+        "安納芋。",
+        "安納芋は皮をむいて、乱切りにして水にさらす。",
+        "鍋に安納芋を入れて煮る。",
+        "安納芋が柔らかくなったら白だし・みそ・角切りにした豆腐を入れる。",
+        "みそ汁の具を入れる。",
+        "器に盛りきざみねぎをのせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2896018",
+    "advice": "・安納芋は一つずつが小さいものなので3～４個をしています。",
+    "history": "たくさんある安納芋と昨日の鍋の残りの豆腐で作りました。安納芋と豆腐のみを具にするつもりで作り始めましたが、彩がさみしげなので、みそ汁の具を入れました。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "安納芋 味噌汁"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2896018/100x141c/252bcabdc687909b779d2fab3f71c760.jpg?u=3099986&p=1416717259"
+}

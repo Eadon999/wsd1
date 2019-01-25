@@ -1,0 +1,58 @@
+{
+    "name": "いんげんのコチ味噌胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/394831/464x260/ade68f2da3fa94e66b06175cb2d026fe.jpg?u=230354&p=1214216512",
+    "datePublished": "2007-06-25",
+    "description": "お味噌とコチュジャンで、ピリ甘辛なインゲンの胡麻和えです♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "いんげん",
+            "quantity": "150ｇ"
+        },
+        {
+            "name": "煎り胡麻",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "コチュジャン",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "いんげんは筋を取り、塩を入れた熱湯で2～3分茹で、冷水にとってザルにあげる。水気を切って、適当な長さに切る。（半分か3等分くらい）",
+        "煎り胡麻をすり鉢に入れて、する。砂糖・醤油・味噌・コチュジャンを加えてさらにすり混ぜる。",
+        "いんげんを加えて、手で混ぜ、和えたら出来上がり♫"
+    ],
+    "cookTime": null,
+    "recipe_id": "394831",
+    "advice": "コチュジャンの量やお砂糖などはお好みで加減してみてくださいね♫",
+    "history": "いんげんがとっても美味しい時期なので、シンプルだけどちょっとピリ辛のおかずにしてみました♫",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/さやいんげん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いんげん",
+        "砂糖",
+        "醤油",
+        "味噌"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/394831/100x141c/54fa601e375cfd0a917c1cbabd1c53e3.jpg?u=230354&p=1214216512"
+}

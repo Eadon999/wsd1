@@ -1,0 +1,55 @@
+{
+    "name": "キャベツのおにぎり♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/1607958/464x260/7613ff6b10b2481d92a0f51d471d34ee.jpg?u=1228553&p=1319438654",
+    "datePublished": "2011-10-24",
+    "description": "茹でキャベツの歯ごたえがたまらない♪胡麻の風味もきいて美味しいおにぎりできましたヽ(･∀･)ﾉ ",
+    "recipeYield": "小さめ３個分",
+    "recipeIngredient": [
+        {
+            "name": "炊き立てご飯",
+            "quantity": "軽く２杯分位"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/8~1/10個程度（適量）"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆ごま油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆炒り胡麻",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "数滴"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは茹でたらさっと水をかけ冷まし、しっかり絞ったら５ミリ程度の千切りにする",
+        "ボールに１）のキャベツと☆を全て入れ、良く混ぜ合わせておく",
+        "炊き上がったごはんを２と混ぜ握る"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1607958",
+    "advice": "キャベツをぎゅーっとしっかり絞ってください♪後は簡単です～☆",
+    "history": "3食弁当等を作る時に、キャベツの塩炒めを彩りで1食に使うことが良くあります。キャベツとご飯の相性はばっちりなので、茹でたキャベツでもきっと美味しくできると思いましたヽ(･∀･)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/おにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ おにぎり"
+    ],
+    "tsukurepo_count": "202",
+    "thumbnail": "https://img.cpcdn.com/recipes/1607958/100x141c/e6db251b48886e2b4e64c3fe3866fb52.jpg?u=1228553&p=1319438654"
+}

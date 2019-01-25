@@ -1,0 +1,73 @@
+{
+    "name": "豚肉のジャガイモ煮",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/159141/464x260/36e736a80288910e33da50189b85129b.jpg?u=54489&p=1214211193",
+    "datePublished": "2004-09-06",
+    "description": "お母さんがよく作ってくれた料理で結構お気に入り☆じゃがいもでトロミをつけるところがポイントo(^ー^)o",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース（薄切り）",
+            "quantity": "３００ｇ"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "正味１００g"
+        },
+        {
+            "name": "白髪葱",
+            "quantity": "適量"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "カップ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "長葱を白髪葱にし、氷水にさらしておく。",
+        "じゃがいもは皮をむいておく。",
+        "鍋に薄く油を敷いて、肉を焦がさないように炒める。",
+        "酒と水を入れて２、３分煮た後、砂糖、醤油、塩を入れる。",
+        "じゃがいもをおろし器ですり入れ、ひと煮立ちする。お皿に盛って、長葱をたっぷりのせて出来上がり。",
+        "撮影：04/8/11"
+    ],
+    "cookTime": null,
+    "recipe_id": "159141",
+    "advice": "葱は消化を助け、殺菌力もある。また、胃腸の働きを整えたり、駆虫作用をもつなどの薬効もある。動画レシピ：http://www.youtube.com/watch?v=1DZckZdxQe0",
+    "history": "実家の定番人気メニューです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ロース",
+        "じゃがいも",
+        "白髪葱",
+        "酒"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/159141/100x141c/1514268718106423699862df8ff471dc.jpg?u=54489&p=1214211193"
+}

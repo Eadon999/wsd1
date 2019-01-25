@@ -1,0 +1,59 @@
+{
+    "name": "ささみのみぞれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2581205/464x260/8a0096864fa26a8920aac6047329a212.jpg?u=2495483&p=1397125677",
+    "datePublished": "2014-04-10",
+    "description": "ささみと野菜たっぷりでヘルシーに☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "１本"
+        },
+        {
+            "name": "大根",
+            "quantity": "５㎝"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１かけら"
+        },
+        {
+            "name": "好きな野菜",
+            "quantity": "一杯"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみをそぎ切りにして片栗粉をまぶす",
+        "鍋に生姜と大根をすりおろして入れる",
+        "野菜を食べやすい大きさに切り２に入れる",
+        "３に水も入れて沸騰したら１を入れて煮る。煮えたら醤油を入れる"
+    ],
+    "cookTime": null,
+    "recipe_id": "2581205",
+    "advice": "",
+    "history": "ヘルシーにささみと野菜を色々入れて煮ました",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ",
+        "大根",
+        "生姜",
+        "醤油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2581205/100x141c/8a040d340f2f12827d7af56c9a41ab9b.jpg?u=2495483&p=1397125677"
+}

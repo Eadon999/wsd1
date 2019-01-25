@@ -1,0 +1,51 @@
+{
+    "name": "里芋のチーズ焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1359318/464x260/23e88378ea782d670e194ac7e77618c9.jpg?u=2124468&p=1298210284",
+    "datePublished": "2011-02-25",
+    "description": "とろりとした里芋の食感と甘味に焦げたチーズが絡まります。ワインにもよく合いました。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "里芋",
+            "quantity": "２個"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "30g"
+        },
+        {
+            "name": "コンソメ顆粒",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "里芋の皮をむき、縦半分にきったものを器に入れ、ラップをして電子レンジで２分ほど加熱",
+        "アルミフォイルに並べ、塩こしょう、コンソメ顆粒を振りかける。",
+        "その上にチーズを乗せてオーブントースターでチーズが焦げるまでこんがり焼いてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1359318",
+    "advice": "",
+    "history": "サトイモは煮物しか作ったことがない。何か目先の変わったものを食べたくなった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/里芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "里芋 チーズ焼き"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1359318/100x141c/fc3181d602ca6954e2adec34487720ce.jpg?u=2124468&p=1298210284"
+}

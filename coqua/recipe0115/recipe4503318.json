@@ -1,0 +1,75 @@
+{
+    "name": "鮭としめじの炊き込みご飯〜バター醤油味〜",
+    "author": {
+        "@type": "Person",
+        "name": "☆nao703☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/4503318/464x260/3dd3e73f2513696d3cd8b10def174f65.jpg?u=11000068&p=1493725001",
+    "datePublished": "2017-05-02",
+    "description": "こんなに簡単なのに超ウマい(*≧∀≦*)バター醤油が食欲をそそります☆お弁当のご飯やおにぎりにも☆",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "鮭",
+            "quantity": "1切れ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "◆しょうゆ",
+            "quantity": "大1"
+        },
+        {
+            "name": "◆酒",
+            "quantity": "大1"
+        },
+        {
+            "name": "◆だし粉末",
+            "quantity": "小1"
+        },
+        {
+            "name": "バター",
+            "quantity": "10g"
+        },
+        {
+            "name": "塩・黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お米を研ぐ。\n◆を入れて水を2合目まで入れ混ぜる。\n鮭・しめじ・バターを入れたらスイッチON！",
+        "炊けたら鮭の骨と皮を取り除き、塩・黒胡椒で味を整える。",
+        "お茶碗に盛り付けて万能ねぎを散らしたら出来上がり☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "4503318",
+    "advice": "炊けた後混ぜるときバター(分量外)を少し入れると風味が増して美味しいです☆",
+    "history": "お弁当のご飯用に作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": [
+        "しめじ 10位",
+        "バターライス 6位",
+        "シャケご飯 2位",
+        "鮭の炊き込みご飯 1位"
+    ],
+    "related_keywords": [
+        "鮭 炊き込みご飯",
+        "炊き込みごはん",
+        "鮭 きのこ 炊き込みご飯",
+        "鮭 ごはん"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/4503318/100x141c/fffee874b6758a21ecd504f137aa4566.jpg?u=11000068&p=1493725001"
+}

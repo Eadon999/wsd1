@@ -1,0 +1,51 @@
+{
+    "name": "お弁当用さつまいもきんぴら",
+    "author": {
+        "@type": "Person",
+        "name": "オラフ・ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3100607/464x260/a4a84b9553f433714be26c718a62cce9.jpg?u=10348926&p=1428050048",
+    "datePublished": "2015-04-03",
+    "description": "時間のある時にたくさん作ってカップに入れて冷凍保存します。2〜3週間は冷凍保存できますよ(^o^)一番人気です！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "3分の1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小1"
+        },
+        {
+            "name": "油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもを千切りにする。",
+        "さつまいもを油で炒め、調味料を入れてさつまいもがやわらかくなるまで炒める。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3100607",
+    "advice": "切って炒めるだけです。味付けはお好みで・・・",
+    "history": "大学芋が大好きなのでお弁当に入れてましたが、冷凍が少し難しく千切りにしたら上手にできました(^_^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも きんぴら 冷凍",
+        "さつまいも お弁当 冷凍"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/3100607/100x141c/465a13c5f665f6468b537ccd05d27578.jpg?u=10348926&p=1428050048"
+}

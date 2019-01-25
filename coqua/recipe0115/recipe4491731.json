@@ -1,0 +1,57 @@
+{
+    "name": "ほんだしで！だし風味☆青のり鶏天",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4491731/464x260/bb852cf17e87282a1bdca217ff953ea1.jpg?u=4376699&p=1493136649",
+    "datePublished": "2017-04-26",
+    "description": "だし風味でそのまま！お弁当にもおすすめ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸肉",
+            "quantity": "100g"
+        },
+        {
+            "name": "青のり",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "水",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉の皮を取って適当に切る\nほんだし少々(分量外)を揉み込む(風味アップ)",
+        "小麦粉、水、青のり、調味料をよく溶いてつけて170度の油で3分揚げて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4491731",
+    "advice": "最後にも青のりを♪",
+    "history": "ほんだしで！たけのこの青のり天ぷら風ID:2203377",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏胸肉",
+        "青のり",
+        "ほんだし",
+        "塩"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4491731/100x141c/226a8ab2fb46f61e41a2c6a0903b5306.jpg?u=4376699&p=1493136649"
+}

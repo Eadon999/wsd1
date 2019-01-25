@@ -1,0 +1,59 @@
+{
+    "name": "はんぺんのツナと大葉のはさみ焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/599711/464x260/f3a460ecccb44b3104f100994ae14b6a.jpg?u=921598&p=1334565115",
+    "datePublished": "2008-06-27",
+    "description": "ツナと大葉をマヨネーズで和えて入れた、はんぺんのはさみ焼き☆ボリューミーでお弁当のおかずにも最適ですよぉ＾＾♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "2缶"
+        },
+        {
+            "name": "大葉（粗みじん切り）",
+            "quantity": "7枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにオイルをよく切ったツナ・大葉・マヨネーズ・こしょうを入れ、混ぜ合わせる。",
+        "はんぺんは半分に切り、中に1の具が入るように包丁を入れて具を入れる。",
+        "フライパンにサラダ油を熱し、両面に焼き色が付いたら出来上がりです。",
+        "2008年日本缶詰協会開催の「缶詰、びん詰、レトルト食品を使ったスピードレシピ大募集！第1弾」 でHPに掲載されました！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "599711",
+    "advice": "マヨネーズと大葉はお好みで加減して下さいねぇ♪",
+    "history": "焼いたはんぺんをマヨネーズで食べていたところからヒントを得ましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "はんぺん 大葉",
+        "はんぺんはさみ焼き",
+        "はんぺん ツナ"
+    ],
+    "tsukurepo_count": "203",
+    "thumbnail": "https://img.cpcdn.com/recipes/599711/100x141c/0dd058b6a3c9b60dacce16e0b5360f04.jpg?u=921598&p=1334565115"
+}

@@ -1,0 +1,70 @@
+{
+    "name": "舞茸小松菜山椒バター炒め",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2811829/464x260/eca9e5773dd465fc0be84e835c9f73aa.jpg?u=3900353&p=1411665104",
+    "datePublished": "2014-09-26",
+    "description": "山椒とバター醤油で味付けした舞茸の炒め物。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "舞茸",
+            "quantity": "120g"
+        },
+        {
+            "name": "小松菜",
+            "quantity": "100g"
+        },
+        {
+            "name": "長ねぎ",
+            "quantity": "30g"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "がらスープの素",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "白ワイン又は酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "20g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "山椒",
+            "quantity": "小さじ1/2くらい"
+        }
+    ],
+    "recipeInstructions": [
+        "舞茸は根元を切り、大まかにほぐす。小松菜は4〜5cmに切り、茎と葉に分ける。長ねぎは斜め切り。",
+        "フライパンにサラダ油をひき、長ねぎを炒める。しんなりしたら、舞茸、茎、がらスープの素、ワイン、バターを加えて炒める。",
+        "葉、醤油、山椒を加え、さっと炒める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2811829",
+    "advice": "山椒は多めがオススメ。",
+    "history": "舞茸を美味しく食べたくて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "舞茸",
+        "小松菜",
+        "長ねぎ",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2811829/100x141c/34bd142499ece830aee5ce3e6ded94a4.jpg?u=3900353&p=1411665104"
+}

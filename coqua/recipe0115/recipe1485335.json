@@ -1,0 +1,59 @@
+{
+    "name": "とり丼　バターでコク旨～♬",
+    "author": {
+        "@type": "Person",
+        "name": "あぁるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1485335/464x260/9c8ecfcea543fc319ce3c3fb8dbcb5cd.jpg?u=803201&p=1309743269",
+    "datePublished": "2011-07-11",
+    "description": "バターで焼いたお肉がコク旨です♬野菜も一緒にガッツリ食べてね♬",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "●砂糖、醤油、酒",
+            "quantity": "各大２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "バター",
+            "quantity": "１５ｇ～２０ｇ"
+        },
+        {
+            "name": "野菜（キャベツやレタスなど）",
+            "quantity": "適量"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉を一口大に切る。",
+        "フライパンを熱し、バターを入れて１を焼く。",
+        "２に火が通ったら●を入れて一煮立ちさせる。",
+        "お好みの野菜を切ってご飯の上にのせ、お肉をのせて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1485335",
+    "advice": "甘めなので気になる方は砂糖を減らしてくださいね。",
+    "history": "子どもが好きな丼です。バターで焼いてみたら美味しかったので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "みりん",
+        "バター",
+        "野菜"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1485335/100x141c/8de51ccb65c7c183eea4390b5424faef.jpg?u=803201&p=1309743269"
+}

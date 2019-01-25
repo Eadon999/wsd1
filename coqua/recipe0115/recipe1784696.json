@@ -1,0 +1,54 @@
+{
+    "name": "簡単！ほうれん草のナムル",
+    "author": {
+        "@type": "Person",
+        "name": "Hanna61"
+    },
+    "image": "https://img.cpcdn.com/recipes/1784696/464x260/ecf1c400757dd7084415078fd2317dba.jpg?u=3227489&p=1460118357",
+    "datePublished": "2016-04-08",
+    "description": "ごはんもお酒も進むほうれん草のナムルです☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1束"
+        },
+        {
+            "name": "ウェイパー",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草を良く洗る。",
+        "水気を付けたまま電子レンジ可のタッパーに入れ「葉菜モード」でチンする。",
+        "水に付けてあくを抜く。",
+        "水気を良く切って5cmくらいの幅に切る。",
+        "ほうれん草とウェイパーを良くあえる。",
+        "醤油、ごま油、白ごまを⑤に入れて良くあえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1784696",
+    "advice": "",
+    "history": "簡単で美味しいごはんに合うおかずを作ろうと考案したレシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ほうれん草"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 ナムル ウェイパー"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/1784696/100x141c/f133e6f7d189f21ba095e6906d61243f.jpg?u=3227489&p=1460118357"
+}

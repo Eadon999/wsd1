@@ -1,0 +1,49 @@
+{
+    "name": "梅おかか冷奴",
+    "author": {
+        "@type": "Person",
+        "name": "ピンクのたまご"
+    },
+    "image": "https://img.cpcdn.com/recipes/401025/464x260/158f0589368708956176557b1d35cf14.jpg?u=444436&p=1214216653",
+    "datePublished": "2007-07-08",
+    "description": "定番の冷奴を、家にあるものでアレンジしてみました。さっぱりしておいしいですョ★2007.9.23つくれぽ10人達成しました。お試しいただいたみなさま、ありがとうございます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "とうふ",
+            "quantity": "2人分"
+        },
+        {
+            "name": "梅干",
+            "quantity": "1個"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "小1パック"
+        },
+        {
+            "name": "薄口しょうゆ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐を器に盛り付ける。",
+        "その上に、かつおぶし・種を取ってちぎった梅干を1/2量ずつのせ、薄口しょうゆをかけて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "401025",
+    "advice": "普通のしょうゆよりも、薄口しょうゆが合うと思いますがお好みで。あれば、かいわれ・大葉などをのせるとキレイです。",
+    "history": "家にあるもので、アレンジ冷奴が作りたくて。梅とかつおぶしは相性抜群です！！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とうふ",
+        "梅干",
+        "かつおぶし",
+        "薄口しょうゆ"
+    ],
+    "tsukurepo_count": "78",
+    "thumbnail": "https://img.cpcdn.com/recipes/401025/100x141c/737fd9e7e6c9c915885ab47a01c47855.jpg?u=444436&p=1214216653"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "ブロッコリーとひじきのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ゆっこっこー"
+    },
+    "image": "https://img.cpcdn.com/recipes/445385/464x260/16537b0ae0475fc4a08a1c25df095039.jpg?u=347121&p=1214217520",
+    "datePublished": "2007-10-18",
+    "description": "母がよく作ってくれたブロッコリーの定番サラダ。ごま油とラー油がポイントです！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1房"
+        },
+        {
+            "name": "ひじき（乾）",
+            "quantity": "20g"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "少々"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきは水もどしし、軽くゆでる。",
+        "ブロッコリーは小房にわけ、ゆでる。",
+        "ドレッシングの材料をよく混ぜ合わせる。",
+        "ひじきとブロッコリーを３のドレッシングであえる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "445385",
+    "advice": "ブロッコリーもひじきもゆですぎないように・・・。",
+    "history": "母がよく作ってくれたブロッコリー料理です。ひじきとブロッコリー？と最初は思いましたが、こくがあるドレッシングで、ついパクパク進んでしまう大好きなサラダです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "ひじき",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "183",
+    "thumbnail": "https://img.cpcdn.com/recipes/445385/100x141c/7c135c836b515746a22b6e14bf48b0a8.jpg?u=347121&p=1214217520"
+}

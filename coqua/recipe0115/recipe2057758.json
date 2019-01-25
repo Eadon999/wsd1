@@ -1,0 +1,52 @@
+{
+    "name": "簡単☆ジャーマンポテト",
+    "author": {
+        "@type": "Person",
+        "name": "Ｃｈｉｋａｙａｎ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2057758/464x260/a305af169e53eea076bbbae0628deda6.jpg?u=2290698&p=1355484221",
+    "datePublished": "2012-12-14",
+    "description": "こどもCookingシリーズ！カレー味にしても美味しいですよ♪2013.02.25話題入り！作ってくれた皆様、感謝です♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "１個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは、皮をむいて５mm厚の半月切りにし、軟らかくなるまで茹でる。",
+        "ベーコンは１cm幅、玉ねぎはスライスに切る。",
+        "フライパンを熱し、ベーコンと玉ねぎを炒める。玉ねぎが透き通ってきたら、じゃがいもを加えて炒める。",
+        "塩コショウで調味してできあがり！",
+        "お好みでカレーパウダーを加えても美味しいです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2057758",
+    "advice": "じゃがいもはレンジでチンしても良いです。玉ねぎはよく炒めてください。そうすることで甘みが増します。",
+    "history": "息子が、学校の調理実習で作るために…",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ベーコン",
+        "玉ねぎ",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/2057758/100x141c/22eba6f620805c8c8f22e900392341e8.jpg?u=2290698&p=1355484221"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "うまい★こごみのマヨみそおかか和え",
+    "author": {
+        "@type": "Person",
+        "name": "vゆとりv"
+    },
+    "image": "https://img.cpcdn.com/recipes/575319/464x260/a94edb3334bfc40aee9a2d40922009c3.jpg?u=791752&p=1214220050",
+    "datePublished": "2008-05-21",
+    "description": "おいしいこごみで作った和えもの。おかかが効いています♪",
+    "recipeYield": "一人分",
+    "recipeIngredient": [
+        {
+            "name": "こごみ",
+            "quantity": "20～30本"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ1と大さじ1/2"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●ごま",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "●かつお節",
+            "quantity": "２g"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "こごみをゆでる。ゆであがったらざるに移しておく。",
+        "●の材料を混ぜる。",
+        "ゆでたこごみに２を和える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "575319",
+    "advice": "●を作ったとき、かつお節で少々ダマっぽくなりますが、こごみと和えるときにこごみの水分でほぐれるので心配しなくてよいです。",
+    "history": "大きく立派なこごみをかったので♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こごみ",
+        "マヨネーズ",
+        "味噌",
+        "ごま"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/575319/100x141c/8c3745d192d58ab374e57277c3989d01.jpg?u=791752&p=1214220050"
+}

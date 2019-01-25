@@ -1,0 +1,59 @@
+{
+    "name": "簡単春雨スープ",
+    "author": {
+        "@type": "Person",
+        "name": "毎日楽しい"
+    },
+    "image": "https://img.cpcdn.com/recipes/2950106/464x260/a688e5552cadf67d8f70476d33bb025e.jpg?u=560969&p=1420366487",
+    "datePublished": "2015-01-04",
+    "description": "ちょっと足りたいときの１品に",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "茹でずに使える春雨",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "鶏がらスープのもと",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "野菜は千切りにする。",
+        "水に鶏ガラスープを入れ煮立てる。野菜を入れて沸騰させる。",
+        "お椀にポーションタイプの春雨を入れ、熱い野菜スープを入れて二分待って出来上がり。",
+        "＊お好みで黒胡椒やラー油を入れてお召し上りください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2950106",
+    "advice": "スープをあつあつにしてから、器に注いでください。",
+    "history": "簡単にスープを作りたいときや、もうちょっとボリュームつけたい時に",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜",
+        "人参",
+        "しいたけ",
+        "鶏がらスープのもと"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/2950106/100x141c/a437cdc3c0514c1ee4b44fc33507b74a.jpg?u=560969&p=1420366487"
+}

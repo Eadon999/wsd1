@@ -1,0 +1,55 @@
+{
+    "name": "そら豆とベーコンのガーリックマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/366647/464x260/693433ec06b51b10d6ad4c0d80d5ce14.jpg?u=230354&p=1214215506",
+    "datePublished": "2007-04-28",
+    "description": "にんにくの香りが移ったベーコンとそら豆がおいしいマヨネーズサラダです♡あったかいうちに食べても、冷めてから食べてもおいしいよ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "そら豆",
+            "quantity": "20本"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "2枚"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩・コショウ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "そら豆はさやから出して、塩を入れたお湯で2～3分茹で、薄皮をむく。にんにくは薄切り、ベーコンは食べやすい大きさに切る。",
+        "フライパンににんにくとオリーブオイルを入れて中火にかけ、香りが移ったらベーコンとそら豆を加えて炒める。",
+        "ボウルに移し、マヨネーズを和えて、塩・コショウで味をととのえる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "366647",
+    "advice": "あったかいうちに食べても、冷めてからもおいしいです♪ブラックペッパーをつかってもおいしい♫",
+    "history": "そら豆を使ってサラダを作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/そら豆"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "そら豆"
+    ],
+    "tsukurepo_count": "201",
+    "thumbnail": "https://img.cpcdn.com/recipes/366647/100x141c/113a72ea1ebe05e8f5f2d691078d3185.jpg?u=230354&p=1214215506"
+}

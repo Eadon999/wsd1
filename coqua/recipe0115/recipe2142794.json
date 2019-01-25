@@ -1,0 +1,62 @@
+{
+    "name": "牛乳とチーズで！ツナのクリームパスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/2142794/464x260/30b9ad094e041887d895660a2e332b94.jpg?u=603745&p=1447852154",
+    "datePublished": "2013-03-05",
+    "description": "ツナ缶と牛乳で簡単パスタ♪一人のランチにもぴったり☆",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1缶"
+        },
+        {
+            "name": "☆牛乳",
+            "quantity": "150cc"
+        },
+        {
+            "name": "☆粉チーズ",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆コンソメ",
+            "quantity": "大さじ１/２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタはパッケージに従って茹でておきます。",
+        "火をつけてないフライパンに☆の調味料を入れます。",
+        "火をかけて軽く煮立たせます。",
+        "弱火にしてツナを加えます。",
+        "パスタを加えてよく混ぜ合わせます。",
+        "サっとひと煮立ちさせたら火を止めて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2142794",
+    "advice": "お好みの野菜などを加えても◎牛乳の代わりに生クリームを使えばもっとまろやかになると思いますし、カルボナーラのように卵黄などを加えてもいいと思います。",
+    "history": "ストックのツナ缶を使ってランチにクリームパスタを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/クリーム系パスタ/クリームソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "簡単 ランチ クリームパスタ"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2142794/100x141c/7ce6285cdfc6e730b9984c33a9b4652c.jpg?u=603745&p=1447852154"
+}

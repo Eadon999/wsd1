@@ -1,0 +1,66 @@
+{
+    "name": "ダイエットに！タンドリー風白滝",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3568370/464x260/e4419ab7d97070d8432a2e17a1985b2b.jpg?u=10112198&p=1449907684",
+    "datePublished": "2015-12-12",
+    "description": "油なし！糖分なし！ダイエットむき。箸休めの一品。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白滝",
+            "quantity": "一袋(水切りして200gでした)"
+        },
+        {
+            "name": "ヨーグルト",
+            "quantity": "大さじ5位"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "薄口しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "にんにく(チューブ)",
+            "quantity": "3センチ位"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "3センチ位"
+        },
+        {
+            "name": "バルサミコ酢",
+            "quantity": "小さじ1/2〜1位"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールでバルサミコ酢以外の調味料と食べやすく切った白滝を混ぜる。",
+        "テフロン加工のフライパンを温め、材料を加え炒める(強火)\nゴムベラを使うとやりやすいです。",
+        "汁気がなくなったら\n火を弱くし、バルサミコ酢を加え、味をみて塩を加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3568370",
+    "advice": "バルサミコ酢の量はお好みで。",
+    "history": "ゼロ仕立てレシピコンテスト参加",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白滝",
+        "ヨーグルト",
+        "カレー粉",
+        "薄口しょう油"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3568370/100x141c/8ff81bf32529c67540fcbf244a2691e9.jpg?u=10112198&p=1449907684"
+}

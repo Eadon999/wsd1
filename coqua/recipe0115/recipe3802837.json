@@ -1,0 +1,63 @@
+{
+    "name": "超簡単！基本のポテトサラダ☆隠し味あり",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3802837/464x260/b1fcdb57e3a2891ac3f4893914b5d398.jpg?u=4376699&p=1469501441",
+    "datePublished": "2016-04-25",
+    "description": "ちょっと隠し味に「オイスターソース」がとっても合います♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも(大)",
+            "quantity": "1個"
+        },
+        {
+            "name": "キュウリ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "人参",
+            "quantity": "少々"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "からし(チューブ)",
+            "quantity": "5mm"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもの皮を剥き洗ってぬれたままラップしてレンジ600w3分\n反して2分\nすぐマッシュする",
+        "キュウリ人参を薄切りにして塩を揉み込み水が出たらしっかり絞る\n材料を全部混ぜて完成"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3802837",
+    "advice": "マッシュは熱いうちに！胡瓜を1本入れてもＯＫゆでたまごやハムや林檎もおすすめです♪",
+    "history": "キュウリと人参が少し余ったのでポテトサラダにしました",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ポテトサラダ隠し味",
+        "ポテトサラダ 基本"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/3802837/100x141c/101fab53d9b13c412e6733a37b0adb3e.jpg?u=4376699&p=1469501441"
+}

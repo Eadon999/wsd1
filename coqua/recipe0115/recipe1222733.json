@@ -1,0 +1,67 @@
+{
+    "name": "✿わさび風味☆アボカドのごまマヨ和え✿",
+    "author": {
+        "@type": "Person",
+        "name": "まりみぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1222733/464x260/809d77992b0be8bcbdc1952ee2eb3bb8.jpg?u=1939623&p=1341154082",
+    "datePublished": "2010-08-31",
+    "description": "✿2012年7月1日話題入り✿ツ～ん♪わさびが効いたアボカドの和えものです＾＾",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大２"
+        },
+        {
+            "name": "☆ねりわさび（チューブ）",
+            "quantity": "２㎝～"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小⅓"
+        },
+        {
+            "name": "☆すりごま",
+            "quantity": "小２"
+        },
+        {
+            "name": "※白ごま（飾り用）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは、皮と種を取って一口大に切り、レモン汁をふっておきます。",
+        "ボールに☆を入れ、混ぜ合わせます。",
+        "②の中に、アボカドを入れ、和えます。",
+        "器に盛り、白ごまをかけて出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1222733",
+    "advice": "",
+    "history": "いつものワサビしょうゆをマヨネーズに変えてみようと・・・",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "レモン汁",
+        "マヨネーズ",
+        "ねりわさび"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1222733/100x141c/9ec23cbe98d3c23d2982a1edea9bd019.jpg?u=1939623&p=1341154082"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "白菜のステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "パすけ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2453508/464x260/8df7aa2807dc5b1c1ac208c7a30754f1.jpg?u=3280486&p=1388930806",
+    "datePublished": "2014-01-05",
+    "description": "白菜を豪快に食べる一品です(=^0^=)",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/8カット"
+        },
+        {
+            "name": "ニンニク（薄切り）",
+            "quantity": "1片"
+        },
+        {
+            "name": "ベーコン（1cm角切り）",
+            "quantity": "20ｇ"
+        },
+        {
+            "name": "鶏ガラスープ",
+            "quantity": "100ml"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "熱したフライパンに油の半量を入れて強火で白菜を焼く。",
+        "両面に焼き色が付いたらスープを流し入れる。蓋をして中火で5分蒸し焼きにしたら、一旦取り出す。",
+        "きれいにしたフライパンに残りの油とニンニク、ベーコンを入れて中火で2分焼く。",
+        "醤油を加えてさっと炒める。②に添えたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2453508",
+    "advice": "フライパンの大きさに合わせて、白菜をカットしてもOKです。",
+    "history": "丸ごと白菜を食べたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜ステーキ",
+        "白菜ステーキ ベーコン",
+        "白菜",
+        "ステーキ"
+    ],
+    "tsukurepo_count": "13",
+    "thumbnail": "https://img.cpcdn.com/recipes/2453508/100x141c/55f5fbb9bbb06affb29a10e2d4d1108b.jpg?u=3280486&p=1388930806"
+}

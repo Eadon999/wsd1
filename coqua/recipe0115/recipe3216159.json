@@ -1,0 +1,59 @@
+{
+    "name": "レタスとカニカマで♪さわやかマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3216159/464x260/e13f30afe36f0b26bacba203b5ef7d17.jpg?u=3243126&p=1534107791",
+    "datePublished": "2015-06-05",
+    "description": "マヨネーズにヨーグルトをプラスしてあっさりとしたドレッシングに♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "３～４枚"
+        },
+        {
+            "name": "新玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "２～３本"
+        },
+        {
+            "name": "★マヨネーズ・ヨーグルト",
+            "quantity": "各大さじ１杯"
+        },
+        {
+            "name": "★砂糖・酢",
+            "quantity": "各小さじ１杯"
+        },
+        {
+            "name": "★かつおだしの素(顆粒)",
+            "quantity": "小さじ１/２杯弱"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料を混ぜておきます。",
+        "レタスは千切り、新玉ねぎはスライス、カニカマは割いておきます",
+        "レタスと玉ねぎは塩で軽くもみ、水分が出てきたらよく絞ります。",
+        "③とカニカマを器にいれて、①のドレッシングと混ぜ合わせれば出来上がりですっ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3216159",
+    "advice": "◎レタスと新玉ねぎは塩もみをした後、水分が出てきたらしっかり絞って下さい。(味が薄くなるのでっ)",
+    "history": "冷蔵庫に残っていたレタスの消費に。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "新玉ねぎ",
+        "カニカマ",
+        "かつおだしの素"
+    ],
+    "tsukurepo_count": "66",
+    "thumbnail": "https://img.cpcdn.com/recipes/3216159/100x141c/670d0f9f22c0f0b8a0c46a3fe6998af0.jpg?u=3243126&p=1534107791"
+}

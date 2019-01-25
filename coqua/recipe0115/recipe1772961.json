@@ -1,0 +1,61 @@
+{
+    "name": "納豆オムレツ",
+    "author": {
+        "@type": "Person",
+        "name": "りょーーーこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1772961/464x260/18695824ba57f8b40969371acfa6c79b.jpg?u=640986&p=1334018095",
+    "datePublished": "2012-04-10",
+    "description": "☆話題入り感謝☆納豆好きさんにピッタリ★とろとろ卵とネバネバ納豆がおいしいオムレツです＾＾",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "たまご",
+            "quantity": "２個"
+        },
+        {
+            "name": "納豆",
+            "quantity": "１パック"
+        },
+        {
+            "name": "牛乳か生クリーム（あれば）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "お好みで"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "玉子、牛乳、塩こしょう、砂糖を混ぜる。",
+        "納豆も混ぜておく。",
+        "フライパンにバターを敷き、卵液を入れはしで手早くかき混ぜる。半熟になったら納豆を入れる。",
+        "納豆を玉子で包み、お皿に盛りケチャップをかけたら完成。",
+        "2012.12.19　つくれぽ10人話題入りしました♥ありがとうございます！"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1772961",
+    "advice": "納豆のたれは入れると辛いので入れない方がおすすめです＾＾",
+    "history": "納豆好きでカレーにもパンにもサラダにもよくかけます＾＾オムレツに入れても美味しかった！！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/オムレツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "納豆オムレツ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1772961/100x141c/55b1a85880bfac092f943565f1ce3e89.jpg?u=640986&p=1334018095"
+}

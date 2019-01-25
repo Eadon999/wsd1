@@ -1,0 +1,55 @@
+{
+    "name": "お弁当にも☆かぼちゃのコンソメバター♪",
+    "author": {
+        "@type": "Person",
+        "name": "ミマト"
+    },
+    "image": "https://img.cpcdn.com/recipes/1762807/464x260/460ce0f83f22cffc05a4ec891ad325ca.jpg?u=3798849&p=1350829700",
+    "datePublished": "2012-04-02",
+    "description": "コンソメバターの洋風味です。彩も映えるのでお弁当にもどうぞ♪話題入り感謝です！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "かぼちゃ",
+            "quantity": "１/４個"
+        },
+        {
+            "name": "インゲン",
+            "quantity": "６～８本"
+        },
+        {
+            "name": "コンソメ",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "バター（マーガリン可）",
+            "quantity": "小２"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "約１００㏄"
+        }
+    ],
+    "recipeInstructions": [
+        "かぼちゃの種を取って食べやすい形に切る。\nインゲンは３～４㎝に切る。",
+        "フライパンに１と水、コンソメを入れて蓋をし火が通るまでしばらく煮る。水分が減ってきたらバターを入れて煮含めて完成です。",
+        "味の調整は塩胡椒で。\n夕飯のおかずにもお弁当にもどうぞ。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1762807",
+    "advice": "インゲンの代わりにスナップえんどう、アスパラ、ブロッコリーの茎でも結構です。",
+    "history": "甘い煮物以外で洋風味を考えてみました。彩りも良いのでお弁当にピッタリ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/かぼちゃ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぼちゃ コンソメ"
+    ],
+    "tsukurepo_count": "103",
+    "thumbnail": "https://img.cpcdn.com/recipes/1762807/100x141c/9432676c094eb82dc8e983175932bbf4.jpg?u=3798849&p=1350829700"
+}

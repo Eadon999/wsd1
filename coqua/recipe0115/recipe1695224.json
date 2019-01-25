@@ -1,0 +1,71 @@
+{
+    "name": "胡麻だれサラダうどん",
+    "author": {
+        "@type": "Person",
+        "name": "みゆKitchen"
+    },
+    "image": "https://img.cpcdn.com/recipes/1695224/464x260/9b6fb5e156bcf7321020fae665d61cdf.jpg?u=2886607&p=1328332749",
+    "datePublished": "2012-02-04",
+    "description": "栄養バランスばっちり。さっぱりと食べられるサラダ感覚のうどんです。野菜嫌いな子どもにもヒットです！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん（冷凍でも茹でうどんでも）",
+            "quantity": "１玉"
+        },
+        {
+            "name": "レタス",
+            "quantity": "１枚"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "玉子",
+            "quantity": "１個"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "小１/２缶"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "２本"
+        },
+        {
+            "name": "カイワレ大根",
+            "quantity": "少々"
+        },
+        {
+            "name": "胡麻だれ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "麺つゆ（２倍濃縮）",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんは茹でで水でしめておく。胡麻だれと麺つゆを合わせておく。\n",
+        "レタスは１口サイズにちぎる。トマトはくし型切りにする。\n玉子は茹でで４等分する。カニカマをほぐしておく。\n",
+        "うどんを皿に盛り、具をのせて、タレを上からかける。",
+        "宝島社「クックパッドmagazine!（vol．6）」に掲載されました。（2016.5.2）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1695224",
+    "advice": "具はお好きなものでどうぞ。ボイルした海老やキュウリなどバリエーションはいろいろです。",
+    "history": "お寿司のサラダ巻きのイメージをうどんにしました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん",
+        "レタス",
+        "トマト",
+        "玉子"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/1695224/100x141c/dc17fa9350b892cc6b5106d1d39ff671.jpg?u=2886607&p=1328332749"
+}

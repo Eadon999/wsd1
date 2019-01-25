@@ -1,0 +1,61 @@
+{
+    "name": "ぶりの照り焼き・赤ワインソース",
+    "author": {
+        "@type": "Person",
+        "name": "souffles"
+    },
+    "image": "https://img.cpcdn.com/recipes/1669707/464x260/dbfbcfce835d898eb836c9ced255d593.jpg?u=2228826&p=1353108281",
+    "datePublished": "2012-01-10",
+    "description": "こんがり焼けたブリをいつもと少し違う照り焼きソースで♪赤ワインとほんの少しのハーブが決め手。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "１/４カップ"
+        },
+        {
+            "name": "赤ワイン",
+            "quantity": "１/４カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "おろしにんにく",
+            "quantity": "小１"
+        },
+        {
+            "name": "ローズマリー（ドライ）",
+            "quantity": "小１/２"
+        },
+        {
+            "name": "クローブ（ホール）",
+            "quantity": "1本（なくてもよい）"
+        }
+    ],
+    "recipeInstructions": [
+        "Aを小鍋に入れて弱火にかけ、沸騰してから１～２分ほどして火を止めてそのままおく。",
+        "熱したフライパンにぶりを入れ、両面をこんがりと焼いて中まで火を通す。",
+        "１をフライパンに入れ、ソースにとろみがついてきたらぶり全体に絡めて火を止める。\n",
+        "【2012.11.17、レシピ見直ししました】"
+    ],
+    "cookTime": null,
+    "recipe_id": "1669707",
+    "advice": "クローブはあればぜひ入れてください。甘くてスパイシーな香りで華やかな一品になります。",
+    "history": "旬のブリの切り身を、いつもと少し違う味付けの照り焼きにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブリ　赤ワイン",
+        "ぶりの照り焼き 赤ワイン"
+    ],
+    "tsukurepo_count": "11",
+    "thumbnail": "https://img.cpcdn.com/recipes/1669707/100x141c/0f9da82e9fda04bfdda7d1b338db02c4.jpg?u=2228826&p=1353108281"
+}

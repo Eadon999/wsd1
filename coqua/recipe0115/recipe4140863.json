@@ -1,0 +1,79 @@
+{
+    "name": "白菜と椎茸と油揚げのピリ辛炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ジャスミン・ティー"
+    },
+    "image": "https://img.cpcdn.com/recipes/4140863/464x260/728cfd70ff152aeb76e5a500ff5c4cf2.jpg?u=9064567&p=1477304468",
+    "datePublished": "2016-10-24",
+    "description": "ご飯が進む一品です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "350g"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "1パック"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "大判1枚"
+        },
+        {
+            "name": "※醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "※みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "※料理酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "※水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "※顆粒だし",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "※味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "※輪切り唐辛子",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "油（グレープシーオイル）",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を用意します。",
+        "油揚げは短冊切り、椎茸は1個を1cm幅に切り、白菜は4～5cm幅のざく切りにします。",
+        "油を入れ、材料を入れて、しんなりするまで炒めます。",
+        "※の調味料を全部入れます。",
+        "できあがりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4140863",
+    "advice": "グレープシーオイルはくせがなく、サラダ油よりもさっぱりしているので使っています。油はサラダ油やごま油など、お好みでお使いください。",
+    "history": "白菜が出回る季節に好きな椎茸と油揚げで炒めてみました。少し濃い味ですが、ご飯が進みます。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ",
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 油揚げ しいたけ",
+        "白菜 しいたけ"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4140863/100x141c/c20740f8d4ab635859913d0627f0db34.jpg?u=9064567&p=1477304468"
+}

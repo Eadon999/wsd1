@@ -1,0 +1,70 @@
+{
+    "name": "ゴーヤのまろやかおかか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1517605/464x260/fd2949269c1a9437485ce8bb27a9c8f9.jpg?u=2513693&p=1312720189",
+    "datePublished": "2011-08-09",
+    "description": "片栗粉の衣で苦味がやわらいで、まろやかな味になりますよ。ごはんにとってもあう佃煮風の一品です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴーヤ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "５ｇ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "１つまみ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴーヤはたて半分に切り、種とわたを取り除き２～３ミリの薄切りにします。ゴーヤに塩を満遍なくまぶして５分置き水気を絞ります",
+        "次にゴーヤに片栗粉をまぶし、ごま油を敷いたフライパンで２分程度炒めます。",
+        "次に【A】の調味料を入れて汁けがなくなるまで炒め、最後にかつおぶしを入れて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1517605",
+    "advice": "■②の工程：ゴーヤに片栗粉が付いているので炒めている時くっつきやすくなっているので、箸などでほぐすように炒めてくださいね。",
+    "history": "ゴーヤの苦味を少しやわらげて佃煮風の味付けにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ゴーヤ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴーヤ",
+        "かつおぶし",
+        "片栗粉",
+        "塩"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1517605/100x141c/aa8aeed46513bd5de10aed2476fc5e85.jpg?u=2513693&p=1312720189"
+}

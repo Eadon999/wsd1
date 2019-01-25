@@ -1,0 +1,55 @@
+{
+    "name": "オクラの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/2782579/464x260/237a2467b89ed1b3dc75302aa42a2055.jpg?u=4819316&p=1409749521",
+    "datePublished": "2014-09-03",
+    "description": "2014/9/22話題入り有難うございます、夏はこのおみそ汁で！オクラを使って少しとろみがあります、お試し下さい",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "オクラ",
+            "quantity": "２本"
+        },
+        {
+            "name": "わかめ（乾燥）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "顆粒和風だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "水",
+            "quantity": "２５０ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラをさっと茹でる",
+        "茹でたオクラを小口切りにする",
+        "鍋に湯を沸かし、オクラとわかめを入れて、わかめが柔らかくなるのを待つ",
+        "顆粒だしの素と味噌を溶いて入れてよく混ぜる"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2782579",
+    "advice": "具だくさんの味噌汁を好む方は、もっとオクラの量を増やしても良いでしょう",
+    "history": "中途半端に残ったオクラを使いたくて、納豆の味噌汁だってあるのだから、オクラの味噌汁だっておなじネバネバ系でいけるような気がして作りました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "オクラ",
+        "わかめ",
+        "味噌",
+        "顆粒和風だしの素"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2782579/100x141c/960e491da56dbd3dbbae8fb7ea843ef5.jpg?u=4819316&p=1409749521"
+}

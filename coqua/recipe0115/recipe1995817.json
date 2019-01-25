@@ -1,0 +1,67 @@
+{
+    "name": "簡単★さつまいもご飯",
+    "author": {
+        "@type": "Person",
+        "name": "☆桃姫☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1995817/464x260/2bb6741238ee6303850930a3271124ca.jpg?u=3826634&p=1353475920",
+    "datePublished": "2012-10-17",
+    "description": "話題のレシピ入りに感謝2013・3/22♪簡単★ホクホク芋の☆さつまいもご飯",
+    "recipeYield": "四人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "水",
+            "quantity": "380㏄"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "大一本"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "黒ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "米は洗い、ザルにあげておく。さつま芋は、1.5センチ角に切る。",
+        "芋は水にさらし、ザルにあげる。",
+        "炊飯器に米と水を入れて、調味料をいれ混ぜて、その上にさつま芋をのせる。",
+        "炊飯器で炊いて茶碗に盛り付けごまを散らして出来上がり。"
+    ],
+    "cookTime": "PT60M",
+    "recipe_id": "1995817",
+    "advice": "芋は炊いたあとに、つぶれやすいため、大きめにカットしたほうがいいです。小さくしないように！",
+    "history": "さつまいもを たくさん頂いたので、さつまいもご飯を考え作りました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "米",
+        "さつまいも",
+        "みりん",
+        "薄口醤油"
+    ],
+    "tsukurepo_count": "52",
+    "thumbnail": "https://img.cpcdn.com/recipes/1995817/100x141c/d0a0429d3c8b87c4e58193d6f6786257.jpg?u=3826634&p=1353475920"
+}

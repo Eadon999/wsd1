@@ -1,0 +1,45 @@
+{
+    "name": "お弁当に！海苔巻きはんぺん",
+    "author": {
+        "@type": "Person",
+        "name": "ｋａｋｏ＊"
+    },
+    "image": "https://img.cpcdn.com/recipes/2390110/464x260/2482c7781b6a2717e399ed3e8561bc56.jpg?u=5000369&p=1383028076",
+    "datePublished": "2013-10-29",
+    "description": "お弁当のすき間を埋めるスピードメニュー♪おつまみにも☆",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "１枚"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんをひと口大に切る。海苔もはんぺんに合わせたお好きなサイズに切る。",
+        "はんぺんの片面（お好みで両面でも）にお醤油をつけ、トースターで軽く焼く。",
+        "海苔を巻いたら出来あがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2390110",
+    "advice": "お弁当にフィットするお好きなサイズに切って下さいね！",
+    "history": "おばあちゃんが教えてくれた簡単おかずです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "はんぺん",
+        "海苔",
+        "醤油"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/2390110/100x141c/238a39602f3729399d050b68220d090a.jpg?u=5000369&p=1383028076"
+}

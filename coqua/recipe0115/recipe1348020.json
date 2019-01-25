@@ -1,0 +1,66 @@
+{
+    "name": "簡単★白菜と豆腐のあんかけ",
+    "author": {
+        "@type": "Person",
+        "name": "maa1012"
+    },
+    "image": "https://img.cpcdn.com/recipes/1348020/464x260/53094e36cae38ead94bd50ecce3816a8.jpg?u=1993018&p=1296658196",
+    "datePublished": "2011-02-03",
+    "description": "白菜と豆腐の純和風なあんかけです。温まりますよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豆腐",
+            "quantity": "小さめの１丁"
+        },
+        {
+            "name": "白菜",
+            "quantity": "１枚"
+        },
+        {
+            "name": "長ねぎ（青い部分）",
+            "quantity": "１０ｃｍ"
+        },
+        {
+            "name": "○だし汁",
+            "quantity": "２００ｃｃ"
+        },
+        {
+            "name": "○めんつゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "○日本酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○水溶き片栗粉",
+            "quantity": "小さじ１を水で溶く"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜を細切りする。\n豆腐は大きめに。\n小鍋にだし汁を煮立て白菜の芯の部分から煮始める。",
+        "煮えてきたら、日本酒・めんつゆ・しょうゆを入れ、\n豆腐と残りの白菜・ねぎも入れて煮る。",
+        "煮えたら水溶き片栗粉を加えて優しく混ぜる。器に盛り、好みでショウガを添える。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1348020",
+    "advice": "材料を全て入れてから３分ぐらいで煮えます。水溶き片栗粉を加える時は火を止めて、回し入れて、すぐに手早く・優しく混ぜます。火を再度つけてトロミが付いたら完成です。",
+    "history": "白菜と豆腐であっさりに仕立てました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": [
+        "白菜豆腐 5位"
+    ],
+    "related_keywords": [
+        "白菜 豆腐",
+        "白菜 豆腐 あんかけ"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/1348020/100x141c/dbcfee1eda7753ffdfe52443922243ed.jpg?u=1993018&p=1296658196"
+}

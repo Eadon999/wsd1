@@ -1,0 +1,64 @@
+{
+    "name": "こどもが好きな　さばの蒲焼き",
+    "author": {
+        "@type": "Person",
+        "name": "あぁるちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1440837/464x260/006a9a61a209f12a7af5dfedd72029e8.jpg?u=803201&p=1342090648",
+    "datePublished": "2011-06-17",
+    "description": "パパッと簡単♬お弁当のおかずにも～",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鯖",
+            "quantity": "大きめ２枚"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大２弱"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "●すりおろし生姜",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鯖を適当な大きさに切り、小麦粉をまぶす。",
+        "フライパンに油をいれ、１を焼く。\nひっくり返して弱火～中火で焼く。",
+        "●をあわせて２へ。蓋をして弱火で焼く。",
+        "骨抜き鯖２枚の分量です。",
+        "2013/5/15\nYahoo! JAPANトップページ スポットライトコーナーで、紹介していただきました。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1440837",
+    "advice": "面倒なら小麦粉なしでも。私は鯖のあぶらが苦手なので生姜を多めにしています。鯖の臭みが気になる場合は、熱湯に入れて湯洗い → 冷水にとり引き締める → よく洗う。これで臭みがとれるようです。",
+    "history": "骨抜き冷凍さばを使って作るうちの定番で子供達が好きなおかずです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば 蒲焼き",
+        "さば 子供",
+        "鯖の蒲焼き",
+        "お弁当 おかず 簡単 子供"
+    ],
+    "tsukurepo_count": "134",
+    "thumbnail": "https://img.cpcdn.com/recipes/1440837/100x141c/a820752d7bcfc88cd0fe35d22b39a93d.jpg?u=803201&p=1342090648"
+}

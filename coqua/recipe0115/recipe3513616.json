@@ -1,0 +1,48 @@
+{
+    "name": "簡単！ゆずブリ丼（ゆず醬油漬け）",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/3513616/464x260/033725167b0fef33661b7269e55e740c.jpg?u=4376699&p=1447339859",
+    "datePublished": "2015-11-13",
+    "description": "お刺身ぶりの簡単漬け丼",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり(刺身)",
+            "quantity": "8枚"
+        },
+        {
+            "name": "ゆず",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "減塩醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "昆布茶",
+            "quantity": "小さじ1/5"
+        }
+    ],
+    "recipeInstructions": [
+        "調味料をよく混ぜて漬け込むだけ"
+    ],
+    "cookTime": null,
+    "recipe_id": "3513616",
+    "advice": "さっと水洗いしてペーパーで水気を取ってから漬けるとさっぱり仕上ります",
+    "history": "そのまま食べずに漬けにしました",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゆず醤油",
+        "ぶり 漬け 刺身",
+        "ぶり 漬け",
+        "ブリ 丼"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3513616/100x141c/be502c5ccbb7f7d6cfb6f6d969e3c2e6.jpg?u=4376699&p=1447339859"
+}

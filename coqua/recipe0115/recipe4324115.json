@@ -1,0 +1,60 @@
+{
+    "name": "すき焼き！焼き豆腐のすき煮",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4324115/464x260/f48cb58caa27b747543f79a2dd413f4f.jpg?u=4376699&p=1485878962",
+    "datePublished": "2017-02-04",
+    "description": "すき焼きに添える小鍋！たっぷり豆腐を食べたいときに♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "焼き豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "白滝",
+            "quantity": "1袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "50cc"
+        },
+        {
+            "name": "酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "水",
+            "quantity": "50cc"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ほんだし",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "白滝は洗って半分に切って水気を切っておく\n豆腐はお好みのサイズに切る\nあとは小鍋で全部合わせて煮るだけ"
+    ],
+    "cookTime": null,
+    "recipe_id": "4324115",
+    "advice": "豆腐と白滝を小鍋に分けてメインに野菜たっぷり",
+    "history": "白滝が肉を固くするので別鍋にしてみました。豆腐を沢山食べたくて一緒に♪",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き豆腐 しらたき",
+        "すき煮 焼き豆腐",
+        "焼き豆腐 糸こんにゃく",
+        "焼き豆腐"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4324115/100x141c/c54c0e645d1170c78f165b447f31bfde.jpg?u=4376699&p=1485878962"
+}

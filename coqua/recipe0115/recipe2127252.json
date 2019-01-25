@@ -1,0 +1,51 @@
+{
+    "name": "コーンとキャベツのコールスロー",
+    "author": {
+        "@type": "Person",
+        "name": "もみみんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2127252/464x260/fe4e2b7d933cbb73f541b55f5475dd51.jpg?u=4977747&p=1361371331",
+    "datePublished": "2013-02-20",
+    "description": "寿司酢で簡単、さっぱりコールスロー。カレーの付け合せにも合います。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ",
+            "quantity": "大３枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2～1"
+        },
+        {
+            "name": "コーン(缶詰)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "寿司酢",
+            "quantity": "小さじ1/2～1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツは粗みじんでボールに入れ、塩をしてしばらく置く。",
+        "水けを絞ってコーンを入れ、寿司酢、マヨネーズを混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2127252",
+    "advice": "寿司酢には、塩分も糖分もうまみも入っているので、色々使えます。リンゴ入りとかも合います。",
+    "history": "カレーの付け合せのサラダを作ろうと思ったら、キャベツ位しかない（汗）で、コーン缶があったので。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/コールスローサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ カレー付け合わせ",
+        "カレー 付け合わせ サラダ"
+    ],
+    "tsukurepo_count": "48",
+    "thumbnail": "https://img.cpcdn.com/recipes/2127252/100x141c/9924f5dab7512bb459348a5125870c8c.jpg?u=4977747&p=1361371331"
+}

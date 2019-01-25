@@ -1,0 +1,48 @@
+{
+    "name": "ズッキーニとトマトのチーズ焼",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/260009/464x260/d9f6fa4b0abd75d0361e45db4636bb0a.jpg?u=57297&p=1214213155",
+    "datePublished": "2006-06-12",
+    "description": "これ旨い!! ズッキーニが柔らかくてチーズに絡んで最高だよ。ｏ○ズッキーニがホコホコ(*´ｍ｀)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "普通サイズ1本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1個"
+        },
+        {
+            "name": "チーズ",
+            "quantity": "適量(好きなだけ）"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ズッキーニ、適当に切ってラップして2分チン\r\n(普通サイズ1本）\r\n軽く塩胡椒して、ざく切りトマト乗っけて\r\nチーズを掛けて、3分チン。",
+        "",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "260009",
+    "advice": "切ってチンするだけ",
+    "history": "ズッキーニがあったので、簡単に作れて美味しいものを",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ トマト"
+    ],
+    "tsukurepo_count": "447",
+    "thumbnail": "https://img.cpcdn.com/recipes/260009/100x141c/be06197daf80b724eca754ae0100fded.jpg?u=57297&p=1214213155"
+}

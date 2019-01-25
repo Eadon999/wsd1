@@ -1,0 +1,49 @@
+{
+    "name": "お弁当シリーズ♪ささみの海苔焼き★",
+    "author": {
+        "@type": "Person",
+        "name": "eiyoushi"
+    },
+    "image": "https://img.cpcdn.com/recipes/1370750/464x260/0f2597c72d0742abb6b2ba35ffe1fc87.jpg?u=268332&p=1298520945",
+    "datePublished": "2011-02-24",
+    "description": "☆2013.4.4 話題入り☆   ささみと韓国のりですぐ出来るお弁当シリーズです★",
+    "recipeYield": "１人",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "１本"
+        },
+        {
+            "name": "韓国のり",
+            "quantity": "３枚"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみを６等分の棒状に切る。\n",
+        "海苔１枚を半分にして１つずつささみにまく。",
+        "フライパンにごま油をひいて②を焼く。\n途中で蓋をして弱火で蒸し焼き。",
+        "醤油をまわしかけからめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1370750",
+    "advice": "韓国のりがなければ味付け海苔にし、塩を加えればOK！",
+    "history": "お弁当用なのでちゃちゃっとできました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ 韓国のり",
+        "ささみ のり"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1370750/100x141c/081a4d39e67735aaa8388dcf1e50ef92.jpg?u=268332&p=1298520945"
+}

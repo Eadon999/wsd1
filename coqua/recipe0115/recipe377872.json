@@ -1,0 +1,67 @@
+{
+    "name": "麺つゆで簡単　揚げだし豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "annkoronn"
+    },
+    "image": "https://img.cpcdn.com/recipes/377872/464x260/f9565cfc34f56cd032cc7eadb7841e2d.jpg?u=457265&p=1214216151",
+    "datePublished": "2007-05-22",
+    "description": "調理時間たったの１０分で、できちゃう！！豆腐を水切りしないで揚げちゃいます。真っ白豆腐に、きのこ餡かけでどうぞ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "追いがつお節つゆ",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "水",
+            "quantity": "１５０ｃｃ"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "半パック"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "えのき",
+            "quantity": "半パック"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適宜"
+        },
+        {
+            "name": "（お好みで）青ネギ・生姜",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に麺つゆと水を入れ、温まったらキノコを入れる。",
+        "豆腐は、６つに切り、全面に片栗粉を付け１８０度の油でさっと揚げる。",
+        "豆腐を揚げてる間に、１に水溶き片栗粉でとろみを付ける。ゆるめでいいです。",
+        "器に盛った豆腐に、３をかけ、お好みで青ネギ、おろし生姜などを添え出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "377872",
+    "advice": "豆腐は水切り不要です。全面に綺麗に片栗粉付いていれば、油ハネも少ないです。豆腐を揚げるとき、早くにつついて、割らないように！ ",
+    "history": "水切り面倒くさいので、しないでやってみたら出来ました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/揚げだし豆腐"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "追いがつお節つゆ",
+        "水",
+        "しめじ"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/377872/100x141c/b703189412bbfab135dfb9c1f1801f25.jpg?u=457265&p=1214216151"
+}

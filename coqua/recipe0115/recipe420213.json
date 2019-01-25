@@ -1,0 +1,49 @@
+{
+    "name": "簡単♪オクラと卵豆腐の冷製スープ",
+    "author": {
+        "@type": "Person",
+        "name": "kobari"
+    },
+    "image": "https://img.cpcdn.com/recipes/420213/464x260/5d29c689aed031ebf39eb4a45583bae7.jpg?u=212914&p=1214217030",
+    "datePublished": "2007-08-24",
+    "description": "暑いこの時期にピッタリな、簡単に出来るさっぱり冷たいスープ('∇'o)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "卵豆腐",
+            "quantity": "1パック"
+        },
+        {
+            "name": "オクラ",
+            "quantity": "５本"
+        },
+        {
+            "name": "固形スープの素＋水",
+            "quantity": "1個＋400～500ｃｃ"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "オクラは塩ゆでし、1cm位に切る。",
+        "固形スープの素を溶かし、オクラを入れ、塩・こしょうで味を整える。",
+        "冷蔵庫で冷やして、食べる時に、食べやすい大きさに切った卵豆腐を入れる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "420213",
+    "advice": "卵豆腐が無ければ、普通の豆腐や、溶き卵などを入れても美味しい♪ 私は「あらびき黒コショウ」が好きなので、ちょっと多めに入れました。",
+    "history": "暑いこの時期に、さっぱり冷たいスープが飲みたくなります（‐＾▽＾‐） ",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/コンソメスープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵豆腐",
+        "オクラ",
+        "塩こしょう"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/420213/100x141c/d7d68c37144d017f3ded293622b511e4.jpg?u=212914&p=1214217030"
+}

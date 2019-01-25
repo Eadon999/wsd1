@@ -1,0 +1,74 @@
+{
+    "name": "我が家の定番「茄子のガーリックマリネ」",
+    "author": {
+        "@type": "Person",
+        "name": "Firstsnows"
+    },
+    "image": "https://img.cpcdn.com/recipes/596802/464x260/f51b8259efb55b67f7cb63c2ac82ba28.jpg?u=535158&p=1215133462",
+    "datePublished": "2008-06-23",
+    "description": "さっくり揚げて、ヘルシーな茄子のマリネです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "茄子",
+            "quantity": "4本"
+        },
+        {
+            "name": "にんにく（みじん切り）",
+            "quantity": "1欠片"
+        },
+        {
+            "name": "鷹の爪（輪切り）",
+            "quantity": "1本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙4"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "日清ベジブルフルーツオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "小口ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "茄子は乱切りにし、中温でさっと揚げて、油をきる。\r\n",
+        "フライパンにオリーブオイル大さじ1を敷き、にんにく、鷹の爪を入れ、弱火で香りが出るまで焦げないように炒め、Ａを加えて火を止める。\r\n",
+        "②が熱いうちに、①にまんべんなくまわしかけたら、冷蔵庫でよく冷やし、食べる直前に小口ネギを細かく切り乗せる。\r\n"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "596802",
+    "advice": "＊そのまま食べても美味しいですし、パスタやそうめんなどの麺に絡めても美味しいです。",
+    "history": "日清ベジブルフルーツオイルのモニターに当選して作ったレシピ。【お知らせ】1日1汁コンセプトにした、Facebookページ「す～ぷ日和」にも足を運んで下さいね。https://www.facebook.com/soup.soup",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "茄子",
+        "調味料",
+        "にんにく",
+        "鷹の爪"
+    ],
+    "tsukurepo_count": "76",
+    "thumbnail": "https://img.cpcdn.com/recipes/596802/100x141c/882be554fa76925fa39a0734542d0d34.jpg?u=535158&p=1215133462"
+}

@@ -1,0 +1,83 @@
+{
+    "name": "＊チキン南蛮丼＊",
+    "author": {
+        "@type": "Person",
+        "name": "ねね８６"
+    },
+    "image": "https://img.cpcdn.com/recipes/510948/464x260/7f6c29be81e6d78af5d59d6bd71fdb38.jpg?u=617653&p=1214218768",
+    "datePublished": "2008-02-18",
+    "description": "甘酸っぱいお肉とタレがしみたゴハンがうまい！10/03/17に話題入りいたしました。ありがとうございます(*^-^)",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "とり胸肉",
+            "quantity": "１枚"
+        },
+        {
+            "name": "★酢",
+            "quantity": "大４"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大３"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大３"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "適量"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "適量"
+        },
+        {
+            "name": "トマト",
+            "quantity": "４個"
+        },
+        {
+            "name": "ゴハン",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大にそぎ切りして、塩・コショウを振る。",
+        "キャベツはせん切り、きゅうりはスライスにしておく。★をまぜあわせておく。",
+        "１に小麦粉をつけ卵にくぐらせて揚げる。\r\n揚がった順に★に漬ける。",
+        "丼にゴハンを盛り、キャベツ・しっとりしたお肉を乗せマヨネーズをかけてきゅうりとトマトを飾ったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "510948",
+    "advice": "",
+    "history": "丼好きのダンナのために、いつものチキン南蛮を丼にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とり胸肉",
+        "酢",
+        "しょうゆ",
+        "砂糖"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/510948/100x141c/01b108120c7cabe3e24c80376bf4d2f0.jpg?u=617653&p=1214218768"
+}

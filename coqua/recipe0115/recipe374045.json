@@ -1,0 +1,59 @@
+{
+    "name": "本日の一品。アスパラ鳥バター焼きです。",
+    "author": {
+        "@type": "Person",
+        "name": "チャチャリー"
+    },
+    "image": "https://img.cpcdn.com/recipes/374045/464x260/6effafb180b5a8abae2d1a2c91b60f61.jpg?u=425025&p=1268916886",
+    "datePublished": "2007-05-15",
+    "description": "これ作ってると台所に食いしん坊達が集まってきます。 　　　　　　",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "６本"
+        },
+        {
+            "name": "※鶏もも肉",
+            "quantity": "１枚（２５０グラムくらい）"
+        },
+        {
+            "name": "※片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０グラム"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "　　【下準備】\r\n鶏肉は一口大に、アスパラは食べやすい大きさにブツ切り。\r\nビニール袋に鶏肉と片栗粉を入れフリフリします。\r\n●の調味料を合わせておく。",
+        "フライパンに油をひき、鶏肉を入れキツネ色に焼きます。焼けたら一旦、皿にあげ、油をきります。",
+        "フライパンの油をふき取ります。\r\nそこへバター、アスパラを入れます。アスパラに火が通ったら、２の鶏肉も入れ、●の調味料を回しかけ、完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "374045",
+    "advice": "※片栗粉のつけ過ぎに注意",
+    "history": "本日、自家栽培のアスパラが収穫できたので。 ご飯がススム君的な本日の一品が出来ました。2010.3.18ポイント追記",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉 アスパラ"
+    ],
+    "tsukurepo_count": "718",
+    "thumbnail": "https://img.cpcdn.com/recipes/374045/100x141c/14593d1e8e52e8c45ea3b5911c967097.jpg?u=425025&p=1268916886"
+}

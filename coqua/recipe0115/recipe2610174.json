@@ -1,0 +1,48 @@
+{
+    "name": "簡単！鶏の塩こうじさっぱり煮",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2610174/464x260/64e01fc67ed12b1352568a996ca921dd.jpg?u=7089749&p=1498093428",
+    "datePublished": "2014-05-01",
+    "description": "液体塩こうじ＋鶏の手羽元。お肉が柔らかくなり、さっぱりジューシーに。簡単にできます♪",
+    "recipeYield": "５人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽元",
+            "quantity": "10本"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "1.5カップ"
+        },
+        {
+            "name": "酢",
+            "quantity": "１カップ"
+        },
+        {
+            "name": "生姜",
+            "quantity": "20ｇ"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキ「液体塩こうじ」を使用します。",
+        "生姜は皮付きのままスライスする",
+        "全ての材料を鍋に入れ、火にかける。",
+        "沸騰したら中火～弱火にして20分程煮こむ。鶏肉に火が通ったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2610174",
+    "advice": "",
+    "history": "ハナマルキ「液体塩こうじ」を使ったかんたんメニューです。発酵調味料である液体塩こうじを使用することで酵素の力が働き、旨味が増します。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩こうじ 鶏手羽元"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2610174/100x141c/fe25e794e3cb52ced3c5ef02cf9d871a.jpg?u=7089749&p=1498093428"
+}

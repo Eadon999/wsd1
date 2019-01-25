@@ -1,0 +1,73 @@
+{
+    "name": "まるで肉！サメのから揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "くちかーざ"
+    },
+    "image": "https://img.cpcdn.com/recipes/841078/464x260/2d11b688bdb89830e798cc6cfffd9991.jpg?u=496128&p=1245239229",
+    "datePublished": "2009-06-17",
+    "description": "お肉より柔らか～い仕上がり。食べやすくて、サメとは気づきません。子供はお肉より美味しいと言っています(^0^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "モウカ鮫",
+            "quantity": "2切れ(250～270g)"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "しょうがのすりおろし",
+            "quantity": "1/2かけ分"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵(Mサイズ)",
+            "quantity": "1個"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ2と1/2"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "いりごま",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "①サメを一口大に切る。",
+        "②①に下味の材料を加え、15分。",
+        "③②に卵をからめ、小麦粉、片栗粉、ごまを加え混ぜる。 \r\n",
+        "④③をからりと揚げる。",
+        "⑤ケチャップに辛子少々を加えたソースを付けて頂く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "841078",
+    "advice": "そのままでも美味しいですが、ケチャップ＆辛子ソースがおすすめです。",
+    "history": "サメが安かったので",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/その他お魚いろいろ"
+    ],
+    "rankings": [
+        "サメ 4位"
+    ],
+    "related_keywords": [
+        "もうかさめ から揚げ",
+        "サメ",
+        "サメの唐揚げ"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/841078/100x141c/34364ab5d57a2f89846721294e5de81c.jpg?u=496128&p=1245239229"
+}

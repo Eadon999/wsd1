@@ -1,0 +1,52 @@
+{
+    "name": "ぶりのおろしポン酢かけソテー",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/519845/464x260/48c55a42f6be3251b422f4338774fc36.jpg?u=304393&p=1335008764",
+    "datePublished": "2008-03-01",
+    "description": "さっぱりとぶりを食べたい時はこれ。バターでソテーするので風味がよく、大根おろしとポン酢との相性もばっちりです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ぶり",
+            "quantity": "2切れ"
+        },
+        {
+            "name": "大根",
+            "quantity": "5㎝"
+        },
+        {
+            "name": "ポン酢しょうゆ",
+            "quantity": "２０ｃｃ～"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ぶりは塩・こしょうし、バターを熱したフライパンで両面こんがりをと焼く。",
+        "①を皿に盛り、大根をすりおろしたものをのせ、ポン酢をかけていただきます。",
+        ""
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "519845",
+    "advice": "ぶりはこんがり焼いた方が美味しくできます。厚みがある時は酒を入れてフタをして蒸し焼きに。ぶりの生臭さが気になる場合は酒を大さじ１振ってしばらくおいて水気を拭きとって塩・こしょうしてくださいね。",
+    "history": "照り焼きやソテーも美味しいですが、さっぱり食べたい時はこれが1番！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ぶり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ぶり ポン酢",
+        "ぶり ポン酢 バター"
+    ],
+    "tsukurepo_count": "963",
+    "thumbnail": "https://img.cpcdn.com/recipes/519845/100x141c/46edf027d028521aa69baf40fbf22c22.jpg?u=304393&p=1335008764"
+}

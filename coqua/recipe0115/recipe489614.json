@@ -1,0 +1,58 @@
+{
+    "name": "かぶと油揚げの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "ユーロン"
+    },
+    "image": "https://img.cpcdn.com/recipes/489614/464x260/3a08fc2ab89b746358ced7b719bfce26.jpg?u=270170&p=1214218367",
+    "datePublished": "2008-01-17",
+    "description": "最高の組み合わせだと思います。とろけるカブと味の染みた油揚げ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "かぶ",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "●だし汁",
+            "quantity": "1カップ強"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "カブの葉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "カブは茎を2ｃｍほど残して葉をきる。\r\n縦半分に切る。\r\n油揚げは油抜きをして、好きな大きさに切る。",
+        "鍋に水50mlとだし汁、塩、しょうゆを入れて煮立たせる。カブと油揚げを入れて、再び煮立ったら火を弱めて10分ほど煮る。",
+        "カブが柔らかくなったら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "489614",
+    "advice": "",
+    "history": "カブが好きなので味の染みこむ油揚げと煮ました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "かぶ",
+        "油揚げ",
+        "だし汁",
+        "塩"
+    ],
+    "tsukurepo_count": "99",
+    "thumbnail": "https://img.cpcdn.com/recipes/489614/100x141c/b59ed1945216b83d3bd8e5abc5bf1902.jpg?u=270170&p=1214218367"
+}

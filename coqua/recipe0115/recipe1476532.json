@@ -1,0 +1,65 @@
+{
+    "name": "アボカドトマト卵サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/1476532/464x260/427665cf5ea7397c33f60b82e26be11e.jpg?u=533232&p=1441237157",
+    "datePublished": "2011-06-21",
+    "description": "アボカドにたくさんお野菜を入れてご馳走サラダにしてみました「2013・04・28写真追加」",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "トマト（中玉）",
+            "quantity": "1個"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆レモン汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆ブラックペッパー（お好みで）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "卵は固ゆで卵にして、みじん切りにしておきます",
+        "アボカドとトマトとたまねぎは5mm角くらいに切っておきます",
+        "ボールに☆をいれ、卵、トマト、アボカド、たまねぎを加えて混ぜ合わせて皿にもってできあがりです",
+        "追加写真してみました"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1476532",
+    "advice": "混ぜるだけなので特にコツはありませんが玉葱は新玉葱を使うとよりマイルドです普通の玉葱が辛い場合は一度水にさらしてからお使いください",
+    "history": "アボカド大好きです！そのままだけでなく、色々混ぜてクリーミーなサラダにしました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド",
+        "その他/おつまみ/ワインに合うおつまみ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド卵サラダ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1476532/100x141c/690b9456ada46b46a78fbd2718bc8b1c.jpg?u=533232&p=1441237157"
+}

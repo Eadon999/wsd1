@@ -1,0 +1,59 @@
+{
+    "name": "こんにゃくステーキ",
+    "author": {
+        "@type": "Person",
+        "name": "motchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/398136/464x260/afadfd11f5cdcd8aeae4ef8f11837024.jpg?u=452329&p=1219662153",
+    "datePublished": "2007-07-02",
+    "description": "ヘルシーだけどボリュームもあります☆お酒のあてにもピッタリ☆",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "板こんにゃく",
+            "quantity": "１枚"
+        },
+        {
+            "name": "万能ねぎ（小口切り）",
+            "quantity": "１本くらい"
+        },
+        {
+            "name": "バター",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油・みりん",
+            "quantity": "各大さじ２"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃく両面に斜め格子状に切り込みを入れ、サイコロ状にカットする。 \r\n",
+        "フライパンにバターを溶かし、こんにゃくを両面焼く。",
+        "醤油・みりんを加え、こんにゃくに絡める。→器に盛り付けておく。",
+        "フライパンに残ったタレに水溶き片栗粉を加え、とろみをつける。",
+        "こんにゃくの上にタレをかけ、万能ねぎを散らして出来あがり☆",
+        "カットせずにそのまま焼いてもＯＫ☆",
+        "牛肉を加えるとボリュームＵＰ☆",
+        "焼き鳥風にもどうぞ☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "398136",
+    "advice": "こんにゃくは下ゆでして臭みを取って下さい。初めに片栗粉をはたいておくと水溶き片栗粉が必要ないそうです♪ （yukihapi様より） ",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": [
+        "こんにゃくステーキ 10位"
+    ],
+    "related_keywords": [
+        "こんにゃくステーキ",
+        "板こんにゃく ステーキ"
+    ],
+    "tsukurepo_count": "337",
+    "thumbnail": "https://img.cpcdn.com/recipes/398136/100x141c/0ea8fe9ca66dce53e3b195875dd892ca.jpg?u=452329&p=1219662153"
+}

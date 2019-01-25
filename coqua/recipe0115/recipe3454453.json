@@ -1,0 +1,48 @@
+{
+    "name": "簡単♡れんこんとハムの炒め♪",
+    "author": {
+        "@type": "Person",
+        "name": "santababy"
+    },
+    "image": "https://img.cpcdn.com/recipes/3454453/464x260/0b8ce3a4b0ad17ba557bdb5dc5e56899.jpg?u=1228553&p=1444641902",
+    "datePublished": "2015-10-13",
+    "description": "チャチャッと簡単ですヽ(･∀･)ﾉ ハムとれんこんって良く合います♡",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "280g"
+        },
+        {
+            "name": "ハム",
+            "quantity": "120g（適量）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ2程度"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこんは薄切りに、ハムは適当に切る",
+        "オリーブオイルでれんこんを炒め、透き通ってきたらハムも加え炒める",
+        "醤油を加え混ざったら火を止め青のりをふりかけ2・3回あおり出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3454453",
+    "advice": "ハムを使い切りたくて作ったのでハムが多めです、もっと少なくても良いと思います♪ハムに塩気が結構あるので醤油は味を見ながら気を付けて加えてください。冷めるとやや味が濃く感じられます(*´ｪ`*)",
+    "history": "安かったのでつい大きなパックを買ってしまったけれどやっぱり使い切れなかったハムで(*´ｪ`*)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん ハム",
+        "れんこん ハム 炒め"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/3454453/100x141c/fec097654e2ca3cf5bc36cd0c49021e7.jpg?u=1228553&p=1444641902"
+}

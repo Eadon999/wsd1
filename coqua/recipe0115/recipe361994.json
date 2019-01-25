@@ -1,0 +1,63 @@
+{
+    "name": "お弁当に☆鶏肉と椎茸の和風炒め♪♪",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/361994/464x260/b85ef33a56979789b7da99199bb90556.jpg?u=42283&p=1214215407",
+    "datePublished": "2007-04-19",
+    "description": "何て事無い普通のおかずですが、すぐできて椎茸の出汁が効いてます(o^-')o分量も覚え易い～☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "椎茸",
+            "quantity": "３個"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２～３個"
+        },
+        {
+            "name": "○酒",
+            "quantity": "小２"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "小２"
+        },
+        {
+            "name": "白煎り胡麻",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "食べやすく切った鶏肉は、酒（分量外大１程度）を振って１５分おく。椎茸は軸をカットして、３～４等分する。ピーマンは種取り適当に切る。",
+        "サラダ油小２をフライパンに入れて、鶏肉を皮目から焼き、ほとんど火が通ったら、椎茸とピーマンも炒める。○で味付けしたら、最後に胡麻を振る。",
+        "出来上がりです(人´∀｀o)",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "361994",
+    "advice": "特にありませんで、簡単です｡+.ﾟヽ(*´∀｀)ﾉﾟ.+｡ ",
+    "history": "すぐできるおかずとして、たまにメインで入れています(**´∀｀*)人(*´U｀**)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "椎茸",
+        "ピーマン",
+        "酒"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/361994/100x141c/030abfb2f8fa622bb3a0b4a31375e1a5.jpg?u=42283&p=1214215407"
+}

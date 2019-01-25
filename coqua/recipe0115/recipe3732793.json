@@ -1,0 +1,58 @@
+{
+    "name": "茹で卵&ミニトマト♡ケチャマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "おはなすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/3732793/464x260/76844b27d5be6f9d6aec667f2b4e4dc8.jpg?u=10112198&p=1459499647",
+    "datePublished": "2016-04-01",
+    "description": "素材は2ツ！半熟茹で卵とミニトマトをケチャップマヨネーズで和えた簡単サラダ。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "5個"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "20個位"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ6位"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ1位"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "イタリアンパセリorパセリの粗みじん切り",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "卵は30分ほど室温に出しておく。",
+        "お湯を沸かし沸騰したら卵を入れ、10分茹でる(半熟)。水にとり皮をむく。手で4ツ位に割る。",
+        "茹で卵とミニトマトをケチャップとマヨネーズで和え塩コショウをする",
+        "仕上げにあればパセリなどを散らす(今回はパセリがなく、水菜しか緑のものがなく水菜をみじん切りで)。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3732793",
+    "advice": "かた茹で卵が好きなら、13分位茹でて下さい。１回分なら半量でお願いしまーす。",
+    "history": "作り置きができるので、忙しい日のサラダです。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ミニトマト",
+        "ミニトマト 卵",
+        "ゆで卵"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/3732793/100x141c/d7972e7b644df64d14e9b4be2d75c19e.jpg?u=10112198&p=1459499647"
+}

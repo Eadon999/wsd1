@@ -1,0 +1,49 @@
+{
+    "name": "ホットブロッコリーの粒マスタード和え",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4319976/464x260/8c8333ccbb443b5f38c6196f5cef2564.jpg?u=4376699&p=1485704171",
+    "datePublished": "2017-02-02",
+    "description": "マヨネーズと粒マスタードと黒コショウがきめて♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ブロッコリー",
+            "quantity": "1本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "少々"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ブロッコリーを小さく切る\n洗ってシリコンスチーマーでレンジ600w3分チン",
+        "水気を切って調味料を和えて完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4319976",
+    "advice": "ブロッコリーの大きさはお好みで",
+    "history": "ブロッコリーのホットサラダに挑戦",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ブロッコリー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ブロッコリー",
+        "マヨネーズ",
+        "粒マスタード",
+        "黒コショウ"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/4319976/100x141c/b85ab06b3d87ce55fba94ed930dbe56f.jpg?u=4376699&p=1485704171"
+}

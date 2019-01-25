@@ -1,0 +1,53 @@
+{
+    "name": "かけるだけ　キャベツのおかか醤油サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "sachieママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2221295/464x260/fdeff50503bd9354344734f8e5faa08c.jpg?u=6238111&p=1368425269",
+    "datePublished": "2013-05-13",
+    "description": "キャベツを千切りにしたら、たっぷりの鰹節とめんつゆ、レモン汁、サラダ油をかけるだけ。でも、やみつきになるおいしさです。",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "キャベツ(千切り)",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "1パック"
+        },
+        {
+            "name": "めんつゆ(3倍濃縮)",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "キャベツを千切りにしたら、氷水で冷やす。\n水を切る。",
+        "器に盛り、鰹節、調味料をかける。\nよく混ぜる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2221295",
+    "advice": "キャベツは少し太めのほうが、かみごたえがありお勧めです。",
+    "history": "冷蔵庫にキャベツがあったら、とりあえずこれ！！毎日食べても飽きないくらい好きです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/キャベツ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャベツ",
+        "鰹節",
+        "めんつゆ",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/2221295/100x141c/00db29cb75790cc0bb2126b8ad7a7353.jpg?u=6238111&p=1368425269"
+}

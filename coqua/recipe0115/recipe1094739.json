@@ -1,0 +1,72 @@
+{
+    "name": "☼ぷりっぷり海老とアスパラのマヨ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "yummysunny"
+    },
+    "image": "https://img.cpcdn.com/recipes/1094739/464x260/b3631edf2b42b8803f7c6858c06e3e2c.jpg?u=276760&p=1271024122",
+    "datePublished": "2010-04-20",
+    "description": "★話題のレシピ入り★ぷりぷりの海老とアスパラ。マヨで味付けして美味しい一品になりました。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "海老（今回はバナメイ海老）",
+            "quantity": "２００グラム"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "アスパラガス",
+            "quantity": "１束"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "適量"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２くらい？"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "お好みで適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "海老は殻をむき、背中に切れ目を入れる。背わたがあればとりのぞく。 \r\n酒、塩コショウ、片栗粉をまぶす。",
+        "アスパラは下1/4くらいの皮は固いのでピーラーで皮をむく。\r\n適当な大きさに切る。",
+        "フライパンに油を熱し海老を炒める。アスパラも加え、酒を入れて火を通す。\n\nマヨネーズ、クレイジーソルトで味付けする。",
+        "器に盛り付け、好みで黒こしょうをふって出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1094739",
+    "advice": "海老の背中に包丁を入れると大きく開いて、豪華に見える…かも。。。笑",
+    "history": "海老が安かったんで。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ えび"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1094739/100x141c/c4d60e636d1f21a1c141124e0a8ea8f0.jpg?u=276760&p=1271024122"
+}

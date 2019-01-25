@@ -1,0 +1,55 @@
+{
+    "name": "水菜とお揚げのサッと煮♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/3566758/464x260/b8f365234df5278ae4bd6c8c67c86781.jpg?u=9552524&p=1449811673",
+    "datePublished": "2015-12-11",
+    "description": "アッサリ美味しい(^^)お出汁たっぷり優しい味のサッと煮はいかがですか♬",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "薄揚げ",
+            "quantity": "２枚"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "薄揚げはサッと熱湯を回しかけ細切りにします。水菜は４㎝長さのざく切りにします。",
+        "鍋に☆を合わせ入れ薄揚げを加えて火にかけ煮立てます。\n",
+        "煮立ったら水菜を加えてサッと煮ます。",
+        "器に盛ります。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3566758",
+    "advice": "水菜は沸騰した煮汁にに加えてサッと煮て火を止めます。",
+    "history": "今日はスーパーで水菜が安売り♪低カロリーなのでダイエット中の旦那っちの一品に(^^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜",
+        "薄揚げ",
+        "だし汁",
+        "醤油"
+    ],
+    "tsukurepo_count": "21",
+    "thumbnail": "https://img.cpcdn.com/recipes/3566758/100x141c/39cf193c27f6086c390fa54cf5c4557c.jpg?u=9552524&p=1449811673"
+}

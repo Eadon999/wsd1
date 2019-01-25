@@ -1,0 +1,65 @@
+{
+    "name": "【農家のレシピ】冷やしツナサラダうどん",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1522336/464x260/9695179cd2ba71fb43b0bb17cbee5974.jpg?u=2513693&p=1313235888",
+    "datePublished": "2011-08-14",
+    "description": "ツナとめんつゆはとってもよく合うので、冷やしうどんにツナをトッピングしたりしています。サラダ感覚の冷やしうどんです♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "タマネギ",
+            "quantity": "４分の１個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "２分の１個"
+        },
+        {
+            "name": "青ねぎ",
+            "quantity": "適量"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "適量"
+        },
+        {
+            "name": "ツナ缶（小）",
+            "quantity": "１個（８０ｇ）"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "タマネギは薄切りにして１０秒ほど熱湯で茹でて冷たく冷やしておきます。トマトはくし形切り、青ねぎは小口切りにしておきます",
+        "うどんは茹でて冷たく冷やしお皿に盛ります。その上にタマネギ、トマト、混ぜ合わせた【A】青ねぎをのせめんつゆをかけて完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1522336",
+    "advice": "トマトの代わりに冷たく冷やした蒸しナスを使っても美味しいですよ。色々アレンジしてみてくださいね。",
+    "history": "夏には冷やしうどんをよく食べるんですが、色んなトッピングをして味を変えて食べています。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/サラダうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん",
+        "タマネギ",
+        "トマト",
+        "青ねぎ"
+    ],
+    "tsukurepo_count": "28",
+    "thumbnail": "https://img.cpcdn.com/recipes/1522336/100x141c/cec10ddff548cab57141d61e5a3015e3.jpg?u=2513693&p=1313235888"
+}

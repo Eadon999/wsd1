@@ -1,0 +1,75 @@
+{
+    "name": "梅パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/495902/464x260/5e0889dcbf895dad3d73b306294a1484.jpg?u=405605&p=1215455264",
+    "datePublished": "2008-01-29",
+    "description": "和えるだけの簡単パスタ♪さっぱりだけどコクのある仕上がりになっています。",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "〇練り梅",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "〇マヨネーズ",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "〇みりん",
+            "quantity": "小１"
+        },
+        {
+            "name": "〇砂糖",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "〇塩昆布",
+            "quantity": "２つまみほど"
+        },
+        {
+            "name": "〇おかか（削り節)",
+            "quantity": "1/3パック"
+        },
+        {
+            "name": "バター",
+            "quantity": "１０ｇ"
+        },
+        {
+            "name": "大葉や青ねぎ",
+            "quantity": "あれば"
+        },
+        {
+            "name": "刻み海苔かもみ海苔",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "醤油",
+            "quantity": "香り付け"
+        }
+    ],
+    "recipeInstructions": [
+        "ボールに〇の材料を全て混ぜ合わせる。バターも入れておく。",
+        "茹で上がったパスタを１のボールで和える。ここでバターも溶けます。",
+        "器に盛り付けて醤油を香り付け程度にたらして、海苔を飾って完成です。今日は青ねぎを一緒に和えましたが千切った大葉も合いますので、お好みでどうぞ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "495902",
+    "advice": "茹で上がったパスタをボールに移す時、茹で汁を切りすぎないで和えるとパサつきません。",
+    "history": "以前、とってもおいしい梅昆布茶（練り）を頂いて、それを和えるだけのパスタが簡単で大好きでした。同じものが手に入らないので家にあるもので作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/梅風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "梅パスタ"
+    ],
+    "tsukurepo_count": "505",
+    "thumbnail": "https://img.cpcdn.com/recipes/495902/100x141c/e8e8a08739b5f5141a79547b4ab6e2b0.jpg?u=405605&p=1215455264"
+}

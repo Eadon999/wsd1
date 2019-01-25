@@ -1,0 +1,53 @@
+{
+    "name": "簡単５分でナスもう一品！副菜★",
+    "author": {
+        "@type": "Person",
+        "name": "tmge44444"
+    },
+    "image": "https://img.cpcdn.com/recipes/1623247/464x260/26e763dc05d50856ce1ad87f72b379c5.jpg?u=703576&p=1320835048",
+    "datePublished": "2011-11-09",
+    "description": "温かくても、冷やしても両方おいしい!!簡単もう一品です★",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ナス",
+            "quantity": "２本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "適量"
+        },
+        {
+            "name": "青ジソ",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスを縦に半分の半分にして、斜め切りして水に浸し、水気をきりナスを耐熱皿に乗せて3～５分チンする。青ジソは千切りに。\n",
+        "醤油、砂糖、ゴマ、青ジソをチンしたナスに絡ませて、出来上がり★"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1623247",
+    "advice": "",
+    "history": "きっかけは、鍋をするときに箸休めに一品作りたくて楽して作れそうなものをつくってみました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ナス",
+        "醤油",
+        "砂糖",
+        "白ゴマ"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/1623247/100x141c/4192c464b42e2d7629b7bf14c068f288.jpg?u=703576&p=1320835048"
+}

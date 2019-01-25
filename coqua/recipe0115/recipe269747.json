@@ -1,0 +1,82 @@
+{
+    "name": "豚挽肉と野菜のオイスターソース炒め",
+    "author": {
+        "@type": "Person",
+        "name": "こうぽん"
+    },
+    "image": "https://img.cpcdn.com/recipes/269747/464x260/ac4a2177a3a2bc4bf34d479f1045d491.jpg?u=250149&p=1214213359",
+    "datePublished": "2006-07-27",
+    "description": "手頃な材料でぱぱっとできる炒め物です。少しとろみがつくので、ご飯やラーメンに載せても美味しい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚挽肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "もやし",
+            "quantity": "小１袋(150g)"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしは洗って水気を切り、ひげ根を取る。ピーマンは洗ってへたと種を取って細切りにする。オイスターソース以下の調味料を合わせておく。",
+        "フライパンにサラダ油を敷き、豚挽肉を炒めて塩こしょうし、色が変わったらもやしとピーマンを加え炒める。火が通ったら合わせた調味料をまわし入れ絡める。",
+        "最後にごま油をたらしてざっと混ぜたら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "269747",
+    "advice": "野菜はあまり炒めすぎない方がシャキシャキ感が残って良いと思います。実は肉は何でも美味しいです。薄切りでもいいし、牛でもOK。",
+    "history": "ピーマンが余っていたので、安い材料で何かできないかなと思って。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚挽肉",
+        "もやし",
+        "ピーマン",
+        "塩"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/269747/100x141c/cc6b6ed56a6acb1438a79d2b414004ca.jpg?u=250149&p=1214213359"
+}

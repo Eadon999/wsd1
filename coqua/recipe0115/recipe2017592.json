@@ -1,0 +1,70 @@
+{
+    "name": "【農家のレシピ】セロリとりんごのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2017592/464x260/9ac6f69ea3740eae947f11bc20bd0280.jpg?u=2513693&p=1352074001",
+    "datePublished": "2012-11-06",
+    "description": "シャキシャキのセロリとさくさくのりんごのサラダ。クリーミーなドレッシングで和えました。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "セロリ（葉を取り除く）",
+            "quantity": "2本"
+        },
+        {
+            "name": "りんご",
+            "quantity": "2分の１個"
+        },
+        {
+            "name": "ハム",
+            "quantity": "3枚"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ2分の１"
+        },
+        {
+            "name": "粗びき黒こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "りんごは皮を剥き、5ミリ程度の厚さのいちょう切り、セロリは5ミリの斜め切り、ハムは1センチ幅に切る。",
+        "セロリに塩（小さじ2分の１）をまぶして10分置き、水気を絞っておく。【A】はよく混ぜ合わせておく。",
+        "ボールにセロリ、りんご、ハム、【A】を入れ、混ぜ合わせたら完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2017592",
+    "advice": "",
+    "history": "甘酸っぱいりんごとしゃきしゃき歯ごたえのいいセロリのサラダを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/セロリ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サラダ セロリ リンゴ",
+        "セロリ サラダ",
+        "セロリ",
+        "りんごとセロリのサラダ"
+    ],
+    "tsukurepo_count": "72",
+    "thumbnail": "https://img.cpcdn.com/recipes/2017592/100x141c/3a1235677c8964c7ebb206d314db1f83.jpg?u=2513693&p=1352074001"
+}

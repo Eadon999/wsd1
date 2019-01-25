@@ -1,0 +1,40 @@
+{
+    "name": "【農家のレシピ】長芋のポン酢漬け",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1353086/464x260/6c0a2976137b89cc878e20c790adea90.jpg?u=2513693&p=1297087775",
+    "datePublished": "2011-02-08",
+    "description": "ビニール袋に入れてポン酢で漬けるだけの簡単ポン酢漬けです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量（下記参照）"
+        }
+    ],
+    "recipeInstructions": [
+        "皮を剥いた長芋をビニール袋に入れ、長芋が浸る程度のポン酢を入れ空気を抜きビニール袋の口を閉じる",
+        "冷蔵庫で半日保管して出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1353086",
+    "advice": "・太い長芋の場合は縦に半分位に切って漬けてくださいね。",
+    "history": "長芋は風邪対策になるので冬に色んな調理法で食べています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋 ポン酢漬け",
+        "長芋 漬け",
+        "長芋 ポン酢"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/1353086/100x141c/c1bd0c5fdcba79b4b1b6bd238827d702.jpg?u=2513693&p=1297087775"
+}

@@ -1,0 +1,44 @@
+{
+    "name": "★塩糀で作る簡単ハンバーグ★",
+    "author": {
+        "@type": "Organization",
+        "name": "糀屋本店"
+    },
+    "image": "https://img.cpcdn.com/recipes/3013330/464x260/201384c13fedeebe3bbf46b0c82a306a.jpg?u=8377009&p=1423819228",
+    "datePublished": "2015-02-14",
+    "description": "必要な材料は３つだけ！！！玉子もパン粉も必要ありません。糀屋本店人気まかないメニューです♪",
+    "recipeYield": "３〜４人分",
+    "recipeIngredient": [
+        {
+            "name": "合挽き肉",
+            "quantity": "２００g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１００g"
+        },
+        {
+            "name": "糀屋本店の塩糀",
+            "quantity": "２０g"
+        }
+    ],
+    "recipeInstructions": [
+        "粗みじん切りにした玉ねぎを炒める。",
+        "①と合挽き肉・塩糀をボウルに入れてよく混ぜる。",
+        "適当な大きさに丸め、中心をへこませ中火で焼いたら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3013330",
+    "advice": "②の時よく混ぜるのが美味しくなるポイントです！",
+    "history": "塩糀で作る事で他につなぎが入りません！糀屋本店（R）",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/ハンバーグ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "合挽き肉",
+        "玉ねぎ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/3013330/100x141c/42908bfb8d8fb16abd14827b37389a72.jpg?u=8377009&p=1423819228"
+}

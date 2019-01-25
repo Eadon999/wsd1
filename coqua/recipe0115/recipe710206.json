@@ -1,0 +1,79 @@
+{
+    "name": "さっぱり★豚しゃぶと水菜の中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "kana-bun"
+    },
+    "image": "https://img.cpcdn.com/recipes/710206/464x260/8b9ad1b1b2d421b273cb17251c84a6d9.jpg?u=922473&p=1231420537",
+    "datePublished": "2009-01-08",
+    "description": "＜和え＞のような＜南蛮漬け＞のような・・・。野菜がたっぷり食べられます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "豚しゃぶしゃぶ肉",
+            "quantity": "200g"
+        },
+        {
+            "name": "水菜",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "大根",
+            "quantity": "3cm"
+        },
+        {
+            "name": "人参",
+            "quantity": "3cm"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "大根と人参は千切り、水菜は5cm長さに切り、玉ねぎは繊維を断ち切るように薄くスライスする。",
+        "野菜類は氷水にさらし、その後よーく水気を切る。",
+        "お湯を沸かし沸騰したら酒少々(分量外)入れ中火位に火を弱めてお肉をしゃぶしゃぶして火を通す。",
+        "キッチンペーパーに取りよく水気を拭き取る。",
+        "ボウルに中華ダレをよく混ぜ合わせ、②と④を入れよーく和えたら出来上がり"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "710206",
+    "advice": "野菜とお肉の水気はよーく切ってくださいね♪和えた後30分位おいておくと野菜がしんなりしてたくさん食べられますよ（＾－＾）",
+    "history": "豚肉と水菜をさっぱりと食べたかったので･･･。思いつきで作ったけど子供たちに好評でした（*^_^*）",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚しゃぶ",
+        "水菜 豚肉",
+        "豚しゃぶ 水菜"
+    ],
+    "tsukurepo_count": "208",
+    "thumbnail": "https://img.cpcdn.com/recipes/710206/100x141c/fc96221fe144130a59b78537af1047dd.jpg?u=922473&p=1231420537"
+}

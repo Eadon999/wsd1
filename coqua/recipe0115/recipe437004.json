@@ -1,0 +1,49 @@
+{
+    "name": "イカのサッと炒め",
+    "author": {
+        "@type": "Person",
+        "name": "おから星人"
+    },
+    "image": "https://img.cpcdn.com/recipes/437004/464x260/6694ca20684252884520fc1e44e05a1a.jpg?u=287343&p=1214217362",
+    "datePublished": "2007-09-30",
+    "description": "醤油味がほっとする手早くごはんに合う1品(^^♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "イカ",
+            "quantity": "１ぱい"
+        },
+        {
+            "name": "・醤油",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "・本みりん",
+            "quantity": "大匙1.5"
+        },
+        {
+            "name": "・おろし生姜",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "イカははらわたを抜いて、軟骨や口周辺を取り除き、吸盤も包丁で掃除する。ぶつ切りにしておく。",
+        "イカをフライパンでオイル少々で炒め、合わせておいた生姜だれをからめ、できあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "437004",
+    "advice": "・醤油と本みりん同量は色々使える美味しい味加減です。",
+    "history": "実家で兄がいとも簡単に仕上げた1品♪",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/イカ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "イカ",
+        "醤油",
+        "本みりん",
+        "おろし生姜"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/437004/100x141c/68fd91c9f4b0407c35ea3ca2dd7db3d4.jpg?u=287343&p=1214217362"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "厚揚げと水菜の甘辛あん。",
+    "author": {
+        "@type": "Person",
+        "name": "つくしぐみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/731513/464x260/4156d50975117e4b89debafce9ea4c5f.jpg?u=67545&p=1234695515",
+    "datePublished": "2009-02-16",
+    "description": "しっかり味で、お酒とごはんが進みます。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "水菜",
+            "quantity": "１／２袋"
+        },
+        {
+            "name": "○しょうが（おろす）",
+            "quantity": "大きめ１片"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○本みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "○片栗粉",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは、熱湯をまわしかけて油抜きし、１cmくらいの厚さのひと口大に切ります。水菜は、洗って３cmくらいに切り揃えます。",
+        "フライパンにサラダ油少々（分量外）を熱し、強火で水分を飛ばすように厚揚げを炒めます。香ばしく焼きつけるように。",
+        "水菜を加え、ざっと炒め合わせたら、○印の合わせ調味料を一気に加えて、全体に絡めて完成。",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "731513",
+    "advice": "濃いめの味付けです。薄味好みの方は、調整して下さいね。",
+    "history": "賞味期限の厚揚げを子供たちと美味しく食べるために考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水菜 厚揚げ"
+    ],
+    "tsukurepo_count": "255",
+    "thumbnail": "https://img.cpcdn.com/recipes/731513/100x141c/726c4b320331f2879d0d6668ca9b83ad.jpg?u=67545&p=1234695515"
+}

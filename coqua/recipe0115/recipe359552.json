@@ -1,0 +1,41 @@
+{
+    "name": "便利なたまねぎ♪",
+    "author": {
+        "@type": "Person",
+        "name": "わんこmama"
+    },
+    "image": "https://img.cpcdn.com/recipes/359552/464x260/2db48e2a6c539e5f720edbeb39aefcf6.jpg?u=405605&p=1214215349",
+    "datePublished": "2007-05-28",
+    "description": "オーブンで焼くだけなのでとっても簡単です。玉葱の甘みが増しておいしくなります♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "たまねぎ",
+            "quantity": "好きなだけ"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "アルミに玉葱を乗せる。",
+        "４ツ切りにして上からオリーブオイルを一回し。",
+        "アルミホイルで包んでオーブンで焼けば出来上がり♪ \r\n２００℃で３５分加熱。",
+        "小分けして冷凍すると便利に使えます。\r\n私は一度ミキサーにかけて薄く平らにして冷凍します。"
+    ],
+    "cookTime": null,
+    "recipe_id": "359552",
+    "advice": "我が家はまとめて作ります。残った分は冷凍すれば大丈夫。ちょっと水っぽくなりますが、スープやポタージュ、カレーなどに使って下さいね☆ ",
+    "history": "玉葱を飴色になるまで炒めるのがどうにも面倒。。もっと簡単にカレーがおいしくならないかな？と始めたのがきっかけです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "たまねぎ",
+        "オリーブ油"
+    ],
+    "tsukurepo_count": "68",
+    "thumbnail": "https://img.cpcdn.com/recipes/359552/100x141c/25aa8517eb30b76ab960dd94728f012f.jpg?u=405605&p=1214215349"
+}

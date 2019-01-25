@@ -1,0 +1,69 @@
+{
+    "name": "あさりと春キャベツのパスタ",
+    "author": {
+        "@type": "Person",
+        "name": "hmaruuo"
+    },
+    "image": "https://img.cpcdn.com/recipes/1140067/464x260/83cdc1e27f3ea008fea9f41d6d1af013.jpg?u=2206861&p=1274946804",
+    "datePublished": "2010-05-27",
+    "description": "あさりの旨味と春キャベツの甘さが最高！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "あさり(砂ぬき済み)",
+            "quantity": "200ｇ"
+        },
+        {
+            "name": "春キャベツ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "1カケ"
+        },
+        {
+            "name": "パスタ",
+            "quantity": "150g"
+        },
+        {
+            "name": "白ワイン(日本酒でも可)",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "お湯",
+            "quantity": "300ｃｃ"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "塩・こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        " フライパンににんにくのみじん切りとオリーブオイル大3を入れ火にかけ、香りが出てくりまで熱する。",
+        "香りが出てきたら、あさりと白ワインを加えふたをし、あさりが開くまで加熱する。",
+        " お湯を300ccを入れ沸騰したら、ざく切りにした春キャベツを入れ、しんなりするまで火を通す。\r\n",
+        "固めに茹でたパスタを加え、程よい堅さになるまでスープとよく絡める。",
+        "塩こしょうで味を整え、火を止めオリーブオイル大1をかけて、できあがり。",
+        "2011/06/14★話題のレシピ入！皆さんありがとうございます！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1140067",
+    "advice": "",
+    "history": "あさりの旨味と春キャベツの甘みが最高！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/あさり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "あさり",
+        "春キャベツ",
+        "にんにく",
+        "パスタ"
+    ],
+    "tsukurepo_count": "43",
+    "thumbnail": "https://img.cpcdn.com/recipes/1140067/100x141c/73f6418512ab4ecc68dc447096c8be07.jpg?u=2206861&p=1274946804"
+}

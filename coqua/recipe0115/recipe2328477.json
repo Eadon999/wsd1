@@ -1,0 +1,47 @@
+{
+    "name": "さつまいもの甘煮",
+    "author": {
+        "@type": "Person",
+        "name": "料理人しばチャン"
+    },
+    "image": "https://img.cpcdn.com/recipes/2328477/464x260/a7acb69d8d760989419df2d4e84101e0.jpg?u=2114969&p=1377784158",
+    "datePublished": "2013-08-29",
+    "description": "ピクニックや運動会のお弁当に入れると、見てほしい自慢のお弁当になりますよ。秋を感じる一品です。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "300ｇ（中１本）"
+        },
+        {
+            "name": "A  水",
+            "quantity": "200ｍｌ"
+        },
+        {
+            "name": "A  砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "A  酒",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは皮つきのまま、１センチの厚さに輪切りにし、水に約２０分つけ、水気をきる。",
+        "鍋にＡの材料を合わせ、さつまいもを重ならないように並べ、落し蓋をする（アルミホイルで代用可）鍋の蓋は少しずらして乗せる。",
+        "中火～弱火で約１５分煮て、そのまま冷まして味を含ませる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2328477",
+    "advice": "煮えたら火を止め味を十分含ませましょう。",
+    "history": "夏が終わり、さつまいもが出始めます。旬のさつまいもで昔懐かしい味を楽しんでください。行楽の季節、お弁当の片隅にさつまいもの甘煮があれば秋を感じますよ。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/さつまいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいも 甘煮"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/2328477/100x141c/3c5d6a04741b84e03d90e2cbc7db3ecb.jpg?u=2114969&p=1377784158"
+}

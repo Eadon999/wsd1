@@ -1,0 +1,50 @@
+{
+    "name": "簡単！長芋おやき",
+    "author": {
+        "@type": "Person",
+        "name": "とむまろ"
+    },
+    "image": "https://img.cpcdn.com/recipes/236499/464x260/86d2e3d842744a11d2550c088a5e1a0c.jpg?u=49307&p=1214212619",
+    "datePublished": "2006-01-31",
+    "description": "もっちもちの食感で1度食べたらハマります。おイモをすって焼くだけのスピード料理！おつまみにもぴったり！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "長芋",
+            "quantity": "１０センチ分"
+        },
+        {
+            "name": "青のり",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "ボウルにすった長芋、小麦粉、塩、青海苔いれる。",
+        "ひたすら練るだけ。もっちりしたらOK。",
+        "サラダ油熱したフライパンに、スプーンでおとし小判型にする。裏表こんがり焼ければできあがり！塩やポン酢で召し上がれ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "236499",
+    "advice": "とにかく混ぜて焼くだけです。",
+    "history": "鉄板焼きやさんで教わりました。そこではれんこんでやってました。れんこんバージョンもｻｸｻｸもちもちですっごくおいしいですよ！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "長芋",
+        "青のり",
+        "塩",
+        "小麦粉"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/236499/100x141c/10d13ff7d45e435a60039a9ee50e92b1.jpg?u=49307&p=1214212619"
+}

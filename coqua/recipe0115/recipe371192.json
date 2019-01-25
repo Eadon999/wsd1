@@ -1,0 +1,45 @@
+{
+    "name": "ごま油ｄｅきゅうり",
+    "author": {
+        "@type": "Person",
+        "name": "きみ子"
+    },
+    "image": "https://img.cpcdn.com/recipes/371192/464x260/887df33d1d19dac62c87c25bcc5cb4f7.jpg?u=261288&p=1408432358",
+    "datePublished": "2007-05-10",
+    "description": "「いただきます」の直前に作るのがおいしい！簡単にきゅうりの箸休めが作れます。我が家では一人1本以上食べちゃうほどです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "きゅうり",
+            "quantity": "2本"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "数滴"
+        },
+        {
+            "name": "昆布だし（顆粒）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ピーラーなどを使い、きゅうりを縞目に皮をむきます。",
+        "1センチ弱くらいにコロコロに切り、ボールに入れて昆布だしを振り掛けます。\r\n昆布だしの顆粒が溶けたらごま油を加え混ぜます。",
+        "器に盛って出来上がりです。\r\n\r\n水分が出ないうちに召上ってください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "371192",
+    "advice": "昆布だし（顆粒）代わりに、（昆布茶）や（塩とうまみ調味料）でもおいしくいただけます。 作って時間が経つと水っぽくなり味が落ちます。作り立てを召上ってください。",
+    "history": "母が昆布だしの代わりに塩とうまみ調味料で作っていました。それもおいしいですが昆布だしで作りました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "きゅうり",
+        "ごま油",
+        "昆布だし"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/371192/100x141c/22e5e83f2ffd340b0451bc93bac0ace5.jpg?u=261288&p=1408432358"
+}

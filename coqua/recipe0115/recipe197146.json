@@ -1,0 +1,52 @@
+{
+    "name": "大根おろしの梅海苔あえ",
+    "author": {
+        "@type": "Person",
+        "name": "せつぶんひじき"
+    },
+    "image": "https://img.cpcdn.com/recipes/197146/464x260/380b36fbf01fbe719e95df4f9a8eb9ba.jpg?u=57172&p=1412384772",
+    "datePublished": "2005-05-14",
+    "description": "2014年10月Yahoo!JAPAN紹介。炊きたてご飯のおともに。箸休めにも。",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "１０ｃｍ～"
+        },
+        {
+            "name": "梅干",
+            "quantity": "大１個"
+        },
+        {
+            "name": "海苔",
+            "quantity": "適量"
+        },
+        {
+            "name": "しらすorちりめんじゃこ",
+            "quantity": "適量"
+        },
+        {
+            "name": "醤油orぽん酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "軽く水気を絞った大根おろし、大きめにたたいた梅干、ちぎった海苔をざっくりあえる。",
+        "器に盛り、しらすを乗せてお醤油をちょろっとかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "197146",
+    "advice": "大根は新鮮なものを。中央～上部がよろしいかと（下部は辛みもアクも強い）・・・お好みで。",
+    "history": "実家でよく食べていたものです。多分父の思いつき。　　",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "梅干",
+        "海苔"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/197146/100x141c/5cf8d9ab689f217036a7d9a00ec72f4f.jpg?u=57172&p=1412384772"
+}

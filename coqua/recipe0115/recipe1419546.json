@@ -1,0 +1,65 @@
+{
+    "name": "薄口しょうゆで簡単おいしい☆しめじごはん",
+    "author": {
+        "@type": "Person",
+        "name": "tanreinao"
+    },
+    "image": "https://img.cpcdn.com/recipes/1419546/464x260/71c3347efa16b5d4328ece2f9d242ddb.jpg?u=2632275&p=1303560148",
+    "datePublished": "2011-04-23",
+    "description": "上品な味付けでいくらでもおかわりできてしまいます。きのこがおいしいお手軽ごはん。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "2合"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "おあげ",
+            "quantity": "2分の1枚"
+        },
+        {
+            "name": "こんにゃく：小",
+            "quantity": "2分の1枚"
+        },
+        {
+            "name": "人参",
+            "quantity": "半分"
+        },
+        {
+            "name": "★薄口しょうゆ",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★酒",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "こんにゃく、人参をみじん切りにします。おあげも少し小さめに。",
+        "お米をとぎます。水は白米を炊く時と同じ分量です。",
+        "炊飯器に切った材料、しめじと★を入れて少しかき混ぜます。",
+        "あとは普通に炊き上げるだけです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1419546",
+    "advice": "",
+    "history": "実家の味を教えてもらいました。炊き込みごはんと言えばやっぱりこれです！粕汁と一緒に作って秋を感じてください。<http://cookpad.com/recipe/1579141>",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじごはん",
+        "薄口醤油"
+    ],
+    "tsukurepo_count": "46",
+    "thumbnail": "https://img.cpcdn.com/recipes/1419546/100x141c/24b44d9d0509e568d4a0a8484aed133e.jpg?u=2632275&p=1303560148"
+}

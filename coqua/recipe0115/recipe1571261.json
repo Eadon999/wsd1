@@ -1,0 +1,69 @@
+{
+    "name": "白菜とシーフードの中華煮",
+    "author": {
+        "@type": "Person",
+        "name": "Rachis"
+    },
+    "image": "https://img.cpcdn.com/recipes/1571261/464x260/b8ada22014ba860b3ec4bebf1eec8830.jpg?u=603745&p=1447764308",
+    "datePublished": "2011-09-15",
+    "description": "野菜と冷凍のシーフードミックスで！簡単に作れる中華煮です！寒い冬でもあったまる～♪ご飯にかけて中華丼も試してね!!",
+    "recipeYield": "３～４人",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "１/４"
+        },
+        {
+            "name": "シーフードミックス",
+            "quantity": "1袋"
+        },
+        {
+            "name": "人参等お好みの野菜",
+            "quantity": "お好みで☆"
+        },
+        {
+            "name": "☆鶏ガラスープの素",
+            "quantity": "小さじ３"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆片栗粉",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "☆水",
+            "quantity": "200cc"
+        }
+    ],
+    "recipeInstructions": [
+        "シーフードミックスは事前に解凍しておきます。",
+        "野菜をお好みの大きさに刻んでおきます。",
+        "☆の調味料を全て混ぜ合わせておきます。",
+        "フライパンで野菜類を炒めます。\n焦げないように注意してください。",
+        "軽くしんなりしてきたらシーフードミックスを加えます。",
+        "野菜とシーフードにしっかりと火を通します。",
+        "③のスープを加えてしっかりと混ぜ合わせ、とろみがついたら出来あがりです。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1571261",
+    "advice": "",
+    "history": "冷凍庫にあったシーフードミックスを使って温まるご飯のおかずにしてみました♡",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白菜 シーフードミックス",
+        "シーフードミックス",
+        "冬 丼"
+    ],
+    "tsukurepo_count": "83",
+    "thumbnail": "https://img.cpcdn.com/recipes/1571261/100x141c/d8f24697e96f287e8a233bdc4d544b8c.jpg?u=603745&p=1447764308"
+}

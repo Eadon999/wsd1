@@ -1,0 +1,66 @@
+{
+    "name": "【農家のレシピ】小松菜と厚揚げのカレー煮",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1588120/464x260/d65ef831d65dbd9c1f2d61c7a7cb0cc0.jpg?u=2513693&p=1317647473",
+    "datePublished": "2011-10-04",
+    "description": "小松菜と厚揚げをカレー味の煮汁で煮込んでとろみをつけた煮物です。冷めても美味しいんですよ。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "2分の１丁"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ２（同量の水で溶いておく）"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "中華スープ",
+            "quantity": "４００ｃｃ"
+        },
+        {
+            "name": "合わせ味噌",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "カレー粉",
+            "quantity": "小さじ2分の１"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは熱湯をまわしかけ油抜きをし厚さ1センチ程度で食べやすい大きさに切る。小松菜は根を切り落とし4cm程度に切っておく",
+        "鍋にサラダ油を熱し小松菜の軸の部分を炒め少し柔らかくなったら小松菜の葉と厚揚げを入れさっと炒めます",
+        "次に【A】を入れ中火で3分煮て、最後に水溶き片栗粉でトロミをつけて完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1588120",
+    "advice": "■私は中華スープを水４００ｃｃ＋ウェイパー８ｇで作りました。",
+    "history": "カレーうどんに揚げを入れると美味しいので、今収穫中の小松菜と厚揚げをカレー味で煮込んでみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "厚揚げ",
+        "片栗粉",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1588120/100x141c/0a38e3cdca2519b4dc171d42d25832a6.jpg?u=2513693&p=1317647473"
+}

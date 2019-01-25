@@ -1,0 +1,90 @@
+{
+    "name": "定番☆塩ちゃんこ鍋",
+    "author": {
+        "@type": "Organization",
+        "name": "よりみち♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/3321909/464x260/5b0ef93a9d905fe0829fa9ca0779c25d.jpg?u=9160862&p=1439277505",
+    "datePublished": "2016-01-25",
+    "description": "鶏だんごたっぷりの塩ちゃんこ鍋です♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜",
+            "quantity": "1/2株"
+        },
+        {
+            "name": "水菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1袋"
+        },
+        {
+            "name": "鶏挽き肉",
+            "quantity": "400g"
+        },
+        {
+            "name": "ねぎ、人参のみじん切り",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "しょうがのすりおろし",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ2/3"
+        },
+        {
+            "name": "酒",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "水",
+            "quantity": "900cc"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "鶏がらスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "しょうがのすりおろし",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜をざく切りにし、水菜は5cmくらいの長さに切ります。",
+        "ボウルに、材料Aを入れ粘りが出るまでよく練り合わせます。",
+        "土鍋に材料Bを入れ火にかけます。",
+        "煮立ったら②を一口大に丸めて入れていきます。",
+        "鶏だんごが浮いてきたら①ともやし、しょうがを加えてひと煮立ちしたら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3321909",
+    "advice": "土鍋は保温性が高いので、グツグツしたら火を弱めて煮込みましょう。",
+    "history": "＜よりみち2012.2月号　土鍋レシピ＞寒い冬は定番の塩ちゃんこ鍋で・・・（作：ゆっち）",
+    "categories": [
+        "今日のご飯・おかず/鍋もの/ちゃんこ鍋"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩ちゃんこ鍋",
+        "塩ちゃんこ 鶏だんご"
+    ],
+    "tsukurepo_count": "15",
+    "thumbnail": "https://img.cpcdn.com/recipes/3321909/100x141c/1f16059d0578fbcee304fef2eb8ef7c7.jpg?u=9160862&p=1439277505"
+}

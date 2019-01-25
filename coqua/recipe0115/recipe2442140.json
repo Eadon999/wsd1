@@ -1,0 +1,63 @@
+{
+    "name": "エビ団子のお焼き",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2442140/464x260/1b8efe23a7354b2e238063435bd2034a.jpg?u=2696078&p=1391730809",
+    "datePublished": "2013-12-22",
+    "description": "プリプリ食感が堪らない。何も付けなくても大丈夫。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "はんぺん",
+            "quantity": "1枚"
+        },
+        {
+            "name": "むきエビ",
+            "quantity": "5~6匹"
+        },
+        {
+            "name": "枝豆",
+            "quantity": "5個"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1杯"
+        }
+    ],
+    "recipeInstructions": [
+        "はんぺんをちぎって粘り気が出るまでこねる。むきエビはみじん切りにする。枝豆は解凍し鞘から出す。",
+        "１をボールに入れて、塩とおろした生姜を加え、片栗粉も入れてよく混ぜ合わせる。",
+        "種を半分に分け、丸く形を整える。フライパンに油を入れ、中火で焼く。片面に焼き色がついたら裏返し、2分ほど焼く。",
+        "フライパンに酒を入れて蓋をして、2~3分蒸し焼きにする。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2442140",
+    "advice": "",
+    "history": "はんぺんを使って何か作りたかったので、とりあえず海老と混ぜてみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/はんぺん"
+    ],
+    "rankings": [
+        "エビ団子 10位"
+    ],
+    "related_keywords": [
+        "エビ団子",
+        "プリプリ エビ団子"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/2442140/100x141c/533768fa6e4098ba72a2c5f87013635a.jpg?u=2696078&p=1391730809"
+}

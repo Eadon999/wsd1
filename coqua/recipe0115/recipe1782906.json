@@ -1,0 +1,59 @@
+{
+    "name": "煮るだけ超簡単♪鶏の手羽先とろとろ煮",
+    "author": {
+        "@type": "Person",
+        "name": "☆さぼてん☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1782906/464x260/55a911481146624a1c969a65f79efe9c.jpg?u=973534&p=1337752437",
+    "datePublished": "2012-04-18",
+    "description": "☆人気検索１０位☆ありがとうございます。すっぱくない！煮汁がからくない！お肉がトロトロになるから子供も大好きです。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏の手羽先（手羽元でもＯＫ）",
+            "quantity": "９本（６００ｇ）"
+        },
+        {
+            "name": "水煮大豆",
+            "quantity": "１袋"
+        },
+        {
+            "name": "水",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "さとう",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ４と1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に手羽先を並べて入れる。水、みりん、さとう、酢を入れて、落し蓋をし、中火で２０分煮る。",
+        "（左の写真くらいに、水が手羽先ひたひたになるのを確認してください）",
+        "その後、しょうゆ、水煮大豆を加えて、弱火で４５分～１時間煮る。"
+    ],
+    "cookTime": "PT90M",
+    "recipe_id": "1782906",
+    "advice": "作っておけば、夕食時は温めるだけ！！楽チンです。",
+    "history": "母から教わった味をレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "手羽先 人気"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/1782906/100x141c/12f2642c7278484d741a2b009f3ce6ed.jpg?u=973534&p=1337752437"
+}

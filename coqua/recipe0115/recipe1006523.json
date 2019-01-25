@@ -1,0 +1,75 @@
+{
+    "name": "☆親子丼☆",
+    "author": {
+        "@type": "Person",
+        "name": "ちーさん＆おさくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1006523/464x260/8e85dbc44949dadb9de431a2e82cbf0e.jpg?u=1277146&p=1337547628",
+    "datePublished": "2010-01-09",
+    "description": "鶏とネギ類で簡単に美味しくできました、砂糖を使ってないのですが、みりんでほんのり甘いです。カロリーＯＦＦ？",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏むね肉",
+            "quantity": "1枚"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "◆水",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "◆みりん",
+            "quantity": "70ｃｃ"
+        },
+        {
+            "name": "◆しょうゆ",
+            "quantity": "30ｃｃ"
+        },
+        {
+            "name": "◆和風だしの素",
+            "quantity": "少々"
+        },
+        {
+            "name": "ご飯",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを繊維の逆に千切りにします。（味が染みやすいので）",
+        "鶏肉を食べやすいサイズにカットします。",
+        "フライパンに◆の合わせ調味料と玉ねぎを入れ煮ていきます。",
+        "玉ねぎが色がついてきたら鶏肉を入れます。",
+        "鶏肉をひっくり返しながら火を通します。",
+        "卵を2個溶き回し入れフタをし火を通します。",
+        "その後、半熟感を出すために残りの卵１個を溶き入れ飾りのネギも入れ一に煮立ちさせます。",
+        "ご飯に盛り完成です＾＾"
+    ],
+    "cookTime": null,
+    "recipe_id": "1006523",
+    "advice": "",
+    "history": "お昼に冷蔵庫にあった食材で作り美味しくいただきました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/親子丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏むね肉",
+        "たまねぎ",
+        "ねぎ",
+        "卵"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/1006523/100x141c/f2f0dca37006504aa8cf1f346d544b4b.jpg?u=1277146&p=1337547628"
+}

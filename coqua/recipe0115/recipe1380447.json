@@ -1,0 +1,70 @@
+{
+    "name": "簡単☆エリンギとちくわの甘辛炒り煮",
+    "author": {
+        "@type": "Person",
+        "name": "すずきはなこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1380447/464x260/84b93d0bfa2b1c59682459a14f3119c4.jpg?u=563343&p=1299419557",
+    "datePublished": "2011-03-07",
+    "description": "油を使わずヘルシーな仕上がり☆しっかり味がしみて、ご飯が進む一品です。12/10/04☆感謝☆話題入り",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "２パック（５本）"
+        },
+        {
+            "name": "ちくわ",
+            "quantity": "４本"
+        },
+        {
+            "name": "水",
+            "quantity": "８０ｃｃ"
+        },
+        {
+            "name": "だしの素",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１．５"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "一味唐辛子",
+            "quantity": "適量（お好みで）"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "エリンギは食べやすく切る。\nちくわは斜め薄切り。\n鍋にエリンギとちくわを入れ、水とだしの素を加えて火にかける。",
+        "沸いたら調味料と一味唐辛子を加える。\n時々混ぜながら、水分がなくなるまで炒り煮する。",
+        "水分がなくなったら火を止め、ごまを指でひねりながら加える。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1380447",
+    "advice": "・エリンギから水分が出るので、水は少なめで大丈夫。でも焦げないよう注意してくださいね。",
+    "history": "エリンギが冷蔵庫の隅に残ってて。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "ちくわ",
+        "水",
+        "だしの素"
+    ],
+    "tsukurepo_count": "51",
+    "thumbnail": "https://img.cpcdn.com/recipes/1380447/100x141c/2eb7642e2b81285f72b664239bd0c86c.jpg?u=563343&p=1299419557"
+}

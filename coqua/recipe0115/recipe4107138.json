@@ -1,0 +1,58 @@
+{
+    "name": "旬の味覚★さばの梅みそ煮★",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/4107138/464x260/97d498cd84bfd2c4f7a18076ac32000a.jpg?u=798237&p=1475747493",
+    "datePublished": "2016-10-07",
+    "description": "ふっくら美味しく仕上がる★絶品さばの味噌煮♪ 梅干しで臭みもなく食べやすいです。お弁当や作り置きにも。",
+    "recipeYield": "ふたり分",
+    "recipeIngredient": [
+        {
+            "name": "さば",
+            "quantity": "1尾分（半身を２切れに）"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２個"
+        },
+        {
+            "name": "●酒",
+            "quantity": "100ml"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "50ml"
+        },
+        {
+            "name": "●味噌",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "さばは半身を半分に切り、塩少々ふりかけ10分程おく。",
+        "鍋に●の調味料と梅干しを入れ、煮汁が沸騰したら、さばの皮目を上にして鍋に入れる。",
+        "落し蓋をして、弱火で約10分煮る。",
+        "※お好みで小葱などや三つ葉など（材料外）をちらす。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4107138",
+    "advice": "◆味噌は中辛の田舎みそを使用しています。◆煮汁が沸騰したらさばを入れる。（皮の破れ防止）◆煮過ぎるとサバがパサつくので、短時間で仕上げる。",
+    "history": "子供の頃から慣れ親しんでいる味。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/さば",
+        "その他/秋におすすめ料理/秋の魚おかず/秋のさば"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さば 味噌煮 梅",
+        "さば 梅"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4107138/100x141c/0b06bf79b3d7c29de0955b2dc9b85bd7.jpg?u=798237&p=1475747493"
+}

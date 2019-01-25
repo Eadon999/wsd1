@@ -1,0 +1,71 @@
+{
+    "name": "厚揚げと菜の花の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "uki345"
+    },
+    "image": "https://img.cpcdn.com/recipes/3069116/464x260/84aa9899b2875b9f32f39ae28652ac55.jpg?u=2669032&p=1426400763",
+    "datePublished": "2015-03-18",
+    "description": "ほろ苦い菜の花とジューシーな厚揚げが絶妙なマッチング☆ごはんが進みます♬",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "菜の花",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "豚肉など（なくても可）",
+            "quantity": "50g"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "◆酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "◆醤油",
+            "quantity": "大１"
+        },
+        {
+            "name": "◆味醂",
+            "quantity": "大１"
+        },
+        {
+            "name": "◆蜂蜜",
+            "quantity": "小１"
+        },
+        {
+            "name": "すり胡麻",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは油抜きし、一口大の斜め切りに、菜の花は４cm長さに、豚肉は3cmに切る。",
+        "フライパンに胡麻油を熱し、１を炒め、◆を順に入れて味をととのえる。",
+        "器に盛り、すり胡麻をふったら出来上がり☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "3069116",
+    "advice": "菜の花は炒め過ぎないように食感を残してくださいね。",
+    "history": "大好き菜の花〜まだまだ作りますよ♬",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/菜の花（菜花）",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "菜の花",
+        "胡麻油",
+        "酒"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3069116/100x141c/ab1e772cb06795024259ebb60151e8f7.jpg?u=2669032&p=1426400763"
+}

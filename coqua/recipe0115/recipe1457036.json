@@ -1,0 +1,67 @@
+{
+    "name": "10分で完成！ピリ辛豚バラレタス炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ぐーふぃだよ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1457036/464x260/f11c4c4f0ff63d09d9c9ebb00a4e5b29.jpg?u=2769753&p=1306847742",
+    "datePublished": "2011-05-31",
+    "description": "ニンニクと豆板醤でピリ辛！　レタス1個を丸々食べられる♪　10分で完成！豚バラレタス炒め",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "1個"
+        },
+        {
+            "name": "豚バラ肉",
+            "quantity": "250g"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "豆板醤（XO醤でもOK)",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "*酒",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "*鶏ガラスープの素",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "*砂糖",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "*こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ニンニクはスライス。豚バラも2cm幅にスライスする。レタスは一口大に手切りする。",
+        "ニンニクスライスを油でいため、香りが出たら豚バラ肉を入れて少し色が変わるまで炒める。",
+        "2．に豆板醤（XO醤）を入れ、少し炒めた後、*の材料を鍋に入れる。",
+        "3．にレタスを入れ、たれと絡めるように混ぜながら、少ししんなりするまで炒めて出来上がり！！\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1457036",
+    "advice": "豆板醤の代わりにXO醤や甜麺醤（テンメンジャン）で代用してもOK！辛みの調整ができますよ♪",
+    "history": "レタス炒めのアレンジ！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "豚バラ肉",
+        "ニンニク",
+        "豆板醤"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1457036/100x141c/7b0e8f7a54b35684298c289e4fc0e515.jpg?u=2769753&p=1306847742"
+}

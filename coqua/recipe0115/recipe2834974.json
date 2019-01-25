@@ -1,0 +1,59 @@
+{
+    "name": "レンコンと椎茸・カニカマのごまあえ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2834974/464x260/2ba55c784462956dd3a9c1064a2b29c4.jpg?u=7402421&p=1413078684",
+    "datePublished": "2014-10-12",
+    "description": "食物繊維たっぷりの、低カロリーレシピ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "100g"
+        },
+        {
+            "name": "生椎茸",
+            "quantity": "30g"
+        },
+        {
+            "name": "カニカマ",
+            "quantity": "2本（20g）"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "蓮根は、厚さ3mmのいちょう切りにして、酢水（酢は分量外）にさらす。\n椎茸は、蓮根の大きさに合わせて切る。",
+        "醤油・みりん・ごまを合わせる。",
+        "椎茸と、水洗いした蓮根を湯通しして、ざるに上げ、熱いうちに、みりん醤油であえる。",
+        "蓮根と椎茸が冷めたら、半分の長さに切ってほぐしたカニカマと混ぜ合わせて、出来上がり～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2834974",
+    "advice": "蓮根と椎茸が冷めるまでの間に、何度か混ぜ返して、全体に味をなじませます。",
+    "history": "蓮根と、生椎茸の、食感のコントラストが、楽しいんじゃないかなと♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/れんこん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこん",
+        "生椎茸",
+        "カニカマ",
+        "醤油"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2834974/100x141c/c6fc5f255ac9aaa9ccff9d2ff126dac3.jpg?u=7402421&p=1413078684"
+}

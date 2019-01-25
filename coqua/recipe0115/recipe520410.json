@@ -1,0 +1,55 @@
+{
+    "name": "人参とさつま揚げのマヨ醤油サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "oNACHIKOo"
+    },
+    "image": "https://img.cpcdn.com/recipes/520410/464x260/82838daf1f4869c83780cdfcb4617c4a.jpg?u=230354&p=1214218953",
+    "datePublished": "2008-03-01",
+    "description": "ぱぱっと出来る1品です。いつもたっぷり食べちゃいます( *´艸`)",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん",
+            "quantity": "大1/2本"
+        },
+        {
+            "name": "さつま揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "◎マヨネーズ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "◎醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "◎白ゴマ",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじんは太めの千切りにする。さつま揚げも細く切る。",
+        "にんじんを耐熱皿に入れて、ゴマ油をふりかけ、ふんわりラップをしてレンジ（600W)で2分～2分半加熱してあら熱をとる。",
+        "◎を合わせてよく混ぜ、にんじん・さつま揚げと和えれば出来上がり♫"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "520410",
+    "advice": "にんじんの硬さはお好みですが、やわらかくしたほうが、おいしいと思います♫千切りの太さや量によっても少し違うと思うので、加熱時間は調整してください。茹でてもOKです。",
+    "history": "なぜか千切りのにんじんだとよく食べる娘のために作ったサラダです。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/さつま揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつま揚げ サラダ"
+    ],
+    "tsukurepo_count": "171",
+    "thumbnail": "https://img.cpcdn.com/recipes/520410/100x141c/1f76005833a460b677e96218360ee83c.jpg?u=230354&p=1214218953"
+}

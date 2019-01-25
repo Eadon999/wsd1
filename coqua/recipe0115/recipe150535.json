@@ -1,0 +1,64 @@
+{
+    "name": "超簡単ベーコンチーズリゾット",
+    "author": {
+        "@type": "Person",
+        "name": "ayaka"
+    },
+    "image": "https://img.cpcdn.com/recipes/150535/464x260/3ab4f386ca8931fb2c562fb542994450.jpg?u=31091&p=1215455245",
+    "datePublished": "2004-06-28",
+    "description": "超簡単おじや第２弾です。ホントはこっちの方が先に作ってた・・・。簡単なんで、起き抜けでも作る気になります。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "茶碗１杯分"
+        },
+        {
+            "name": "水",
+            "quantity": "１と１／２～２カップ"
+        },
+        {
+            "name": "コンソメの素",
+            "quantity": "１個"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "１枚（お好みで）"
+        },
+        {
+            "name": "ピザ用チーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少し"
+        },
+        {
+            "name": "パセリ、粗挽き黒コショウ（あれば）",
+            "quantity": "少し"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を入れ、沸かします。",
+        "沸いたらコンソメの素を砕き入れて溶かし、ご飯と２ｃｍ幅に切ったベーコンを入れます。",
+        "ご飯に味が染みてきたらピザ用チーズを加え、塩、コショウで味を調え、器に盛りつけます。",
+        "最後に、粗挽き黒コショウとパセリを散らして出来上がり。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "150535",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/リゾット・雑炊類/リゾット"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "水",
+        "コンソメの素",
+        "ベーコン"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/150535/100x141c/add73122364501a684577d3175ccf683.jpg?u=31091&p=1215455245"
+}

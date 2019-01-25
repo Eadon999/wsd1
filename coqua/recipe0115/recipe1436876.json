@@ -1,0 +1,59 @@
+{
+    "name": "てりてり♬レバーの甘辛煮♬（甘め）",
+    "author": {
+        "@type": "Person",
+        "name": "ちび姫ちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1436876/464x260/ebd8c230ac91ab0cea7dca9164592df5.jpg?u=841338&p=1307538508",
+    "datePublished": "2011-06-09",
+    "description": "レバーが苦手なのですが、これだと甘めの味付けなので、美味しく食べれます♬母の味です♬",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏レバー",
+            "quantity": "２５０〜３００gくらい"
+        },
+        {
+            "name": "生姜",
+            "quantity": "１カケ"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏レバーを水にさらし何度か水を替えて、１０分ぐらいおいておく。（くさみとりです）",
+        "鍋にお湯を沸かしレバーを入れ、１分ぐらい茹でてから、ザルにあけ、レバーを水で洗い、肝臓の真ん中の細い所を半分にきる。",
+        "鍋にレバー、薄切り生姜、●の調味料を入れ、落としぶたをして、強火で煮ます。",
+        "沸騰したら、あくをとり、中火で汁気がなくなるまで煮つめたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1436876",
+    "advice": "",
+    "history": "母の味です♬",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/レバー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏レバー",
+        "生姜",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1436876/100x141c/b220be2175ede88d61447182f2e6601d.jpg?u=841338&p=1307538508"
+}

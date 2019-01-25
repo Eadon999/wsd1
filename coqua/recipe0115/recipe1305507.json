@@ -1,0 +1,50 @@
+{
+    "name": "家にある材料で！簡単デミソース♪",
+    "author": {
+        "@type": "Person",
+        "name": "まめ小町"
+    },
+    "image": "https://img.cpcdn.com/recipes/1305507/464x260/fc0c9a5e427889131036874811388e45.jpg?u=2506991&p=1291935709",
+    "datePublished": "2010-12-10",
+    "description": "お手軽にできるので、煮込みハンバーグを作る時など使ってます。",
+    "recipeYield": "１００ｇ分",
+    "recipeIngredient": [
+        {
+            "name": "中濃ソース",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "トマトケチャップ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "水",
+            "quantity": "６０ｃｃ"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "インスタントコーヒー",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "材料をすべて鍋に入れてひと煮立ちさせるだけ。\r\nインスタントコーヒーが溶けたらＯＫだよ。",
+        "こんな感じで\nハンバーグにかけても美味しいよ！！\n(2011.8.30追加）"
+    ],
+    "cookTime": null,
+    "recipe_id": "1305507",
+    "advice": "簡単にできますよ。コーヒーが苦手な人は、入れる量を少なめにしてネ。",
+    "history": "手軽にデミソースを作りたかったので。友達に聞いたレシピを実際に作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/万能タレ・ソース"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "デミグラスソース 材料"
+    ],
+    "tsukurepo_count": "61",
+    "thumbnail": "https://img.cpcdn.com/recipes/1305507/100x141c/51afc954147f0c288deec2a0edec81ec.jpg?u=2506991&p=1291935709"
+}

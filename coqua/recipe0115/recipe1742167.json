@@ -1,0 +1,54 @@
+{
+    "name": "わかめと卵のスープ",
+    "author": {
+        "@type": "Person",
+        "name": "すまいるゆっきー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1742167/464x260/fdbb3600732b6048c52c29f16ac0f5a8.jpg?u=602880&p=1331891738",
+    "datePublished": "2012-03-16",
+    "description": "★★★話題入りありがとう★★★カテゴリ掲載ありがとう★★★すぐできるお手軽中華スープです。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "鶏ガラスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "わかめ",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水を沸かします。",
+        "わかめと鶏ガラスープの素、醤油を入れます。",
+        "溶き卵を少しずつ入れたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1742167",
+    "advice": "",
+    "history": "家にある材料でパパッとスープを作りたかったので。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/中華スープ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "水",
+        "鶏ガラスープの素",
+        "醤油",
+        "わかめ"
+    ],
+    "tsukurepo_count": "95",
+    "thumbnail": "https://img.cpcdn.com/recipes/1742167/100x141c/a2c5ccca3b7a43dcb16a90a23e427cd7.jpg?u=602880&p=1331891738"
+}

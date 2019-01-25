@@ -1,0 +1,58 @@
+{
+    "name": "ラー油でピリ！っと大根ツナサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ぶぶくん"
+    },
+    "image": "https://img.cpcdn.com/recipes/308489/464x260/adc43353513d9eb1a2a92e55beb2824a.jpg?u=311561&p=1214214249",
+    "datePublished": "2006-12-08",
+    "description": "ラー油とレモン汁であえた、ピリ辛サラダです。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "中4cm"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "ツナ缶（小）",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適宜（好きなだけ）"
+        },
+        {
+            "name": "ラー油",
+            "quantity": "適宜（好きなだけ）"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りにし、ボールに入れ、軽く塩をふっておきます。きゅうりも千切りにします。ツナの汁気はきっておきます。",
+        "うっすら大根から水分が出てきたら、材料をすべてボールに入れ、混ぜれば出来上がりです♪",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "308489",
+    "advice": "ラー油とレモン汁は、なるべく食べる直前にあえると美味しいです。",
+    "history": "今までレモン汁とマヨで食べていましたが、マヨを止めてラー油を試したらピリ辛も美味しかったので。。。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "きゅうり",
+        "ツナ缶",
+        "塩"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/308489/100x141c/6b07436960ea03fd3272b17491bcfb70.jpg?u=311561&p=1214214249"
+}

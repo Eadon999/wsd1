@@ -1,0 +1,62 @@
+{
+    "name": "うまみじゅわ～！大根葉と油揚げの煮浸し",
+    "author": {
+        "@type": "Person",
+        "name": "tohiya"
+    },
+    "image": "https://img.cpcdn.com/recipes/1223208/464x260/20732fdce61ef7b76e9563104e7249d1.jpg?u=1535161&p=1283472409",
+    "datePublished": "2010-09-03",
+    "description": "大根より栄養があるという大根葉。油揚げの旨みと一緒に，優しい味で食べましょ(^^)",
+    "recipeYield": "大根葉１本分",
+    "recipeIngredient": [
+        {
+            "name": "大根葉",
+            "quantity": "１本分"
+        },
+        {
+            "name": "小揚げ",
+            "quantity": "３枚"
+        },
+        {
+            "name": "●水",
+            "quantity": "３００cc"
+        },
+        {
+            "name": "●だしの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "大根葉をよく洗い，沸騰したお湯に入れ１～２分茹でたら，冷水に取り色止めする。",
+        "大根葉を好きな長さに切る。小揚げも大根葉と同じくらいに切る。",
+        "鍋に●をすべて入れ，煮立ったら大根葉と小揚げを入れ，１～２分煮立て火を止める。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1223208",
+    "advice": "時間があればこのまま冷まして味を含ませ，食べるときに軽く温め直すとさらにおいしいです。",
+    "history": "家庭菜園で採れた大根。葉っぱまでおいしく食べたいと思って。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/油揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根葉",
+        "小揚げ",
+        "水",
+        "だしの素"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1223208/100x141c/4c077bd58948ea4c116b1d4125d9d6b1.jpg?u=1535161&p=1283472409"
+}

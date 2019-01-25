@@ -1,0 +1,58 @@
+{
+    "name": "簡単！!シャキシャキ新じゃが炒め",
+    "author": {
+        "@type": "Person",
+        "name": "まりんぷー"
+    },
+    "image": "https://img.cpcdn.com/recipes/2234899/464x260/65816b85b6e90179fc1cceb0b346f092.jpg?u=552723&p=1402209593",
+    "datePublished": "2013-05-25",
+    "description": "旬の新じゃがで簡単スピードレシピ。シャキシャキの食感を楽しめる一品です。中華風に仕上げました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも(大)",
+            "quantity": "3ケ"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "1ケ"
+        },
+        {
+            "name": "桜海老（乾燥）",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★オイスターソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★鶏ガラスープの素",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★塩・こしょう",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは表面の土を洗い、細めの千切りにし、水にさらす（3～5分）。ピーマンは種をとって千切りにする。",
+        "熱したフライパンにサラダ油（大さじ2）を熱し、1と桜海老を入れ、強火で1分炒める。",
+        "2に★を加え、さらに1分程味をなじませるように炒めたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2234899",
+    "advice": "シャキシャキ食感が重要です。強火でサッと炒めるのが最大のコツです！!",
+    "history": "近くのスーパーの中華惣菜の再現レシピです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "ピーマン",
+        "桜海老",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/2234899/100x141c/cf0a05e6c2f5cb52fc356164b22b9ab9.jpg?u=552723&p=1402209593"
+}

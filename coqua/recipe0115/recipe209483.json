@@ -1,0 +1,82 @@
+{
+    "name": "凄～く旨い夏野菜と豚バラのアジアンご飯",
+    "author": {
+        "@type": "Person",
+        "name": "お茶丸"
+    },
+    "image": "https://img.cpcdn.com/recipes/209483/464x260/00c4f7157dd98ed09891f0e3a006425c.jpg?u=57297&p=1214212102",
+    "datePublished": "2005-07-29",
+    "description": "これホントに旨かったの！タレを作れば、炒めるだけだし☆ご飯に乗っけて食べたけど、極旨でしたぁ～ヾ(=^▽^=)ノ ",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚バラ",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ナス",
+            "quantity": "２本"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "さやインゲン",
+            "quantity": "１０本くらい"
+        },
+        {
+            "name": "小葱",
+            "quantity": "４本くらい"
+        },
+        {
+            "name": "醤油",
+            "quantity": "１．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "２"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "おろしニンニク",
+            "quantity": "１片"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "タレ：醤油1.5、酢１、オイスターソース小さじ２、豆板醤小さじ２、砂糖２、おろしニンニク１片",
+        "ごま油で豚バラ(これ旨いよね♪）炒めて、ナス、茹でたインゲンも一緒に入れます。\r\n火が通ったらトマトとタレを投入して、味をからめ、小葱を入れて火を止めます。",
+        "ご飯に乗っけて食べたけど、極旨でしたぁ～ヾ(=^▽^=)ノ"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "209483",
+    "advice": "お野菜いっぱいでスタミナ付きそうです。",
+    "history": "オイスターソースに嵌ってます",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚バラ",
+        "ナス",
+        "トマト",
+        "さやインゲン"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/209483/100x141c/c8d27960185dcbdca83c635b5f72f8e5.jpg?u=57297&p=1214212102"
+}

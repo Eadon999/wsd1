@@ -1,0 +1,61 @@
+{
+    "name": "にんじん甘い☆人参ご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ＢＵＴＴＯＮ3"
+    },
+    "image": "https://img.cpcdn.com/recipes/1282001/464x260/d50f707704a9ff4521664c8303823b2a.jpg?u=1479166&p=1289520209",
+    "datePublished": "2010-11-12",
+    "description": "人参の旨味味わうご飯です☆シンプルな味付けなので和食洋食どちらでもあいますよ♪炊飯器におまかせの簡単ご飯♪話題入り感謝",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "３合"
+        },
+        {
+            "name": "水",
+            "quantity": "炊飯器目盛り分"
+        },
+        {
+            "name": "人参",
+            "quantity": "中１本"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "有塩バター",
+            "quantity": "５〜１０グラム"
+        },
+        {
+            "name": "パセリ",
+            "quantity": "仕上げにあれば少々"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は研いで、人参は半分すりおろし、残り半分は千切り。",
+        "炊飯窯にお米、人参、塩コショウ、バターを入れて炊飯器目盛り分まで水を入れる。",
+        "炊飯器スイッチポンッで出来上がり〜",
+        "そのままでももちろん美味しい♪カレーのご飯にもピッタリ◎",
+        "H23*2*11話題入り感謝です☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "1282001",
+    "advice": "バターは有塩で塩味を効かせた方が美味しいです。",
+    "history": "実家から沢山人参をもらいました♪そのままでも美味しくて、洋食にも和食にも合う人参ご飯が食べたくて作ってみました☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参ご飯"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/1282001/100x141c/eea8ddff65a7b7f16fb95f1e216a5f64.jpg?u=1479166&p=1289520209"
+}

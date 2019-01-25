@@ -1,0 +1,74 @@
+{
+    "name": "＠卯の花＠",
+    "author": {
+        "@type": "Person",
+        "name": "チャゴ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1296703/464x260/cd4f61f53f3e483549bb131b6f0b5229.jpg?u=686205&p=1291035055",
+    "datePublished": "2010-11-29",
+    "description": "ちくわ・椎茸・人参・青ネギを入れました。とっても簡単です。他にも鶏ひき肉やごぼう・こんにゃく等お好きな具を使って下さい♪",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "おから",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "★干し椎茸の戻し汁",
+            "quantity": "３００cc"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大３"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大２"
+        },
+        {
+            "name": "◎ちくわ",
+            "quantity": "３本"
+        },
+        {
+            "name": "◎干し椎茸",
+            "quantity": "３枚"
+        },
+        {
+            "name": "◎にんじん",
+            "quantity": "３cm"
+        },
+        {
+            "name": "青ネギ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "◎と青ネギはみじん切りにする。 \r\nフライパンを中火にかけ、おからを空煎りして水分を飛ばし、お皿に上げておく。",
+        "空煎りに使ったフライパンに、★と◎を入れ、にんじんが柔らかくなるまで煮込む。 \r\n柔らかくなったら、おからを入れる。",
+        "中火で煮詰めていき、ほとんど水分がなくなったら青ネギを入れてザッと混ぜて出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1296703",
+    "advice": "おからはしっかり空煎りして下さい。保存性を高めるのと、だしを吸って美味しく仕上げるためです。",
+    "history": "我が家の黄金味付けの３：２：２：２を使って。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/おから"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "おから",
+        "干し椎茸の戻し汁",
+        "醤油",
+        "酒"
+    ],
+    "tsukurepo_count": "60",
+    "thumbnail": "https://img.cpcdn.com/recipes/1296703/100x141c/2184f2432d07a68e1213de288c928c50.jpg?u=686205&p=1291035055"
+}

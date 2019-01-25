@@ -1,0 +1,63 @@
+{
+    "name": "簡単ラーメンスープ（醤油味）",
+    "author": {
+        "@type": "Person",
+        "name": "ピーチュケ"
+    },
+    "image": "https://img.cpcdn.com/recipes/70450/464x260/8719585c7c20849f06efadc1cee8826c.jpg?u=18705&p=1214209491",
+    "datePublished": "2002-11-20",
+    "description": "2010/5/11レポ10人達成！感謝★麺だけ買っちゃった！付属のスープじゃなく醤油味がいい！という時お試し下さい。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "水",
+            "quantity": "400CC"
+        },
+        {
+            "name": "チキンスープの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "塩",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "一つまみ"
+        },
+        {
+            "name": "ごま油（お好みで)",
+            "quantity": "小さじ半分"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水、チキンスープの素、醤油、オイスターソース、砂糖を入れて沸騰させる。",
+        "塩を入れて味を整える。",
+        "ラーメン鉢にいれたら最後にお好みでごま油をたらす。",
+        "写真の具の焼豚は「レンジで簡単☆焼豚☆」 ID:70454を見てください。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "70450",
+    "advice": "",
+    "history": "シンガポールでは麺にスープがついていないことがほとんど。あるもので適当につくってみました。",
+    "categories": [
+        "今日のご飯・おかず/麺/中華麺/ラーメン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "醤油ラーメン スープ 簡単",
+        "醤油ラーメン スープ",
+        "醤油ラーメン コンソメ",
+        "ラーメンスープ"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/70450/100x141c/1f24925e1e6c91f77ed3a9f06b24e3a8.jpg?u=18705&p=1214209491"
+}

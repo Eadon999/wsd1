@@ -1,0 +1,59 @@
+{
+    "name": "塩麹&柚子ドレッシングの水菜サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "うららまる"
+    },
+    "image": "https://img.cpcdn.com/recipes/4257352/464x260/c20a1c71013a99b9d72238a9b88d2019.jpg?u=13881000&p=1482752436",
+    "datePublished": "2016-12-26",
+    "description": "柚子の皮と絞り汁を使ったさっぱりドレッシング。水菜の風味と柚子の香りを塩麹が繋げてくれます",
+    "recipeYield": "四人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "3束"
+        },
+        {
+            "name": "塩麹",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "柚子の絞り汁",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "柚子の皮",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は食べやすい大きさに切って水気を切っておく",
+        "残りの材料を全て混ぜてドレッシングを作る",
+        "水菜とドレッシングを和えて完成☆"
+    ],
+    "cookTime": null,
+    "recipe_id": "4257352",
+    "advice": "塩麹の塩分によって、塩コショウの量を調整してください",
+    "history": "使いかけの柚子を利用しました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ"
+    ],
+    "rankings": [
+        "ゆずドレッシング 7位"
+    ],
+    "related_keywords": [
+        "ゆずドレッシング",
+        "ゆずドレッシング オリーブオイル",
+        "塩麹 ドレッシング"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4257352/100x141c/ef856c0f6f0f9936503d5a3add6bba90.jpg?u=13881000&p=1482752436"
+}

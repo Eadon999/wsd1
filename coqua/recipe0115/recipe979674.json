@@ -1,0 +1,51 @@
+{
+    "name": "鮭と大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "鈴の助"
+    },
+    "image": "https://img.cpcdn.com/recipes/979674/464x260/888e86dbcb828a66f24b8e318efa7617.jpg?u=1609398&p=1259638628",
+    "datePublished": "2009-12-01",
+    "description": "鮭を煮物にしました。とっても簡単。お弁当にもGOOD。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "生鮭の切り身",
+            "quantity": "3切れ"
+        },
+        {
+            "name": "大根",
+            "quantity": "10cm"
+        },
+        {
+            "name": "醤油、酒、水",
+            "quantity": "各大さじ2"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鮭は3〜4等分、\n大根は5mmの\nいちょう切りにする。",
+        "フライパンで大根を1分炒める。\n油がなじんだら\n煮汁を加え5〜6分\n弱火で蒸し煮する。",
+        "鮭を加え、上下を返しながら、汁けがなくなるまで3〜4分煮る。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "979674",
+    "advice": "冷蔵庫で2〜３日持ちます（＾＾）",
+    "history": "お弁当用につくってみました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "生鮭 大根",
+        "生鮭 大根 煮物",
+        "鮭と大根の煮物",
+        "生鮭 煮物"
+    ],
+    "tsukurepo_count": "37",
+    "thumbnail": "https://img.cpcdn.com/recipes/979674/100x141c/e11b0ae7a42bfc055391f9a19d12dde9.jpg?u=1609398&p=1259638628"
+}

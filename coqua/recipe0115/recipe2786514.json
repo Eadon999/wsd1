@@ -1,0 +1,78 @@
+{
+    "name": "すき焼き＊関東風",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/2786514/464x260/64017141c99fa4a74cb323cdaafb4824.jpg?u=798237&p=1410008656",
+    "datePublished": "2014-09-06",
+    "description": "美味しさの極み★わりしたで作る関東風すき焼きです。祝い席やおもてなしにも。　",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（すき焼き用）",
+            "quantity": "適量"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "しらたき",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "春菊（水菜等でも）",
+            "quantity": "適量"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "きのこ（椎茸・舞茸など）",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆だし汁",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "☆しょうゆ",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "☆さとう",
+            "quantity": "1/3カップ"
+        },
+        {
+            "name": "卵（お好みで）",
+            "quantity": "お好きな量"
+        }
+    ],
+    "recipeInstructions": [
+        "各材料を食べやすい大きさに切る。",
+        "☆の材料を混ぜ合わせて割りしたを作る。",
+        "鍋にすき焼きの材料を並べ入れ、割り下を入れる。",
+        "鍋を加熱し、火が通ったものから、溶き卵につけて召し上がれ～♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2786514",
+    "advice": "◆すきやきの具材は、お好みで。◆割りしたのかわりに、めんつゆ（つゆの素）などで代用しても、美味しくいただけます。",
+    "history": "子供の頃から親しんでいる味。おうちのすき焼きです。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "すき焼き 関東",
+        "すき焼き 割り下 関東",
+        "すき焼き おもてなし"
+    ],
+    "tsukurepo_count": "6",
+    "thumbnail": "https://img.cpcdn.com/recipes/2786514/100x141c/d0efffe4a9d0899e7d5b3c4327f26d73.jpg?u=798237&p=1410008656"
+}

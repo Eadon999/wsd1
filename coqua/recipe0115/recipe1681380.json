@@ -1,0 +1,53 @@
+{
+    "name": "めっさ美味 ちくわと海苔の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ひトみ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1681380/464x260/10a0b58c2d707f8d9768164dca41191e.jpg?u=2920899&p=1327194104",
+    "datePublished": "2012-01-22",
+    "description": "ちくわも海苔も海の幸 この組み合わせで、良〜いお出汁が出ます！！2012.06.07話題入りしました感謝です☆",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "ちくわ",
+            "quantity": "２本"
+        },
+        {
+            "name": "焼き海苔",
+            "quantity": "大１枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "４カップ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "ちくわを3～5mm位の厚さに輪切りする。",
+        "沸騰しただし汁にちくわを投入。",
+        "焼き海苔を投入。\n",
+        "最後に味噌を溶いて出来上がり♡",
+        "voyageさんが、キャラ弁で使った残りの端っこの海苔で作って下さいました♡\nそういうの、大歓迎です！！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1681380",
+    "advice": "★焼き海苔は、ちぎって入れた方が疎らに散ってくれます。★味噌を入れたら、決して沸騰させないこと。",
+    "history": "ちくわをフルに使いたかったから。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁",
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ",
+        "焼き海苔",
+        "だし汁",
+        "味噌"
+    ],
+    "tsukurepo_count": "120",
+    "thumbnail": "https://img.cpcdn.com/recipes/1681380/100x141c/b8ad3d45bb181718112e16b894e6f343.jpg?u=2920899&p=1327194104"
+}

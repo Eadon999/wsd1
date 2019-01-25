@@ -1,0 +1,76 @@
+{
+    "name": "鶏肉と大根の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/1086782/464x260/5f4a7ceeda5049d0257992a2cbe11893.jpg?u=377757&p=1270141692",
+    "datePublished": "2010-04-02",
+    "description": "味がしみたほくほく大根と卵に鶏肉！温まりますよー！",
+    "recipeYield": "３～４人分",
+    "recipeIngredient": [
+        {
+            "name": "手羽元or鶏もも肉",
+            "quantity": "7本"
+        },
+        {
+            "name": "大根",
+            "quantity": "10cm"
+        },
+        {
+            "name": "ゆで卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "生姜",
+            "quantity": "1片"
+        },
+        {
+            "name": "水",
+            "quantity": "1.5カップ"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "大さじ１／２"
+        },
+        {
+            "name": "○お酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "○タカラ「本みりん」",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "○しょうゆ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ゆで卵を作っておく。\n大根は２ｃｍ幅に切って皮をむきいちょう切りに。\n生姜は粗みじん切りに。",
+        "深めのフライパンを用意し、多めのごま油を入れてお肉を皮目から入れて焼き色が付くまで炒める。生姜、大根も入れて軽く炒める。",
+        "２に水を入れて、グツグツしてきたら○を入れて上からキッチンペーパーで落し蓋をして約２５分煮る。\n",
+        "最後にゆで卵を入れて３分煮て完成！",
+        "http://ameblo.jp/uzukaji/entry-10500389822.html\n\nお弁当は、こんな感じ。"
+    ],
+    "cookTime": "PT40M",
+    "recipe_id": "1086782",
+    "advice": "タレに浸かってくれない部分がある時は、様子をみて返しながら全部均等に煮えるように作ってください。",
+    "history": "大根と鶏肉を使って温まるものを食べたかったので！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏肉と大根の甘辛煮",
+        "大根 とりもも 甘辛煮",
+        "手羽元 大根 甘辛",
+        "鶏大根"
+    ],
+    "tsukurepo_count": "376",
+    "thumbnail": "https://img.cpcdn.com/recipes/1086782/100x141c/d09fc122fb0190f4ba64f1ae7602fb89.jpg?u=377757&p=1270141692"
+}

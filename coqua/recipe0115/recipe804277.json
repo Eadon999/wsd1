@@ -1,0 +1,66 @@
+{
+    "name": "鮭フレーク♪和風サーモンクリームパスタ♪",
+    "author": {
+        "@type": "Person",
+        "name": "Blue-Island"
+    },
+    "image": "https://img.cpcdn.com/recipes/804277/464x260/5e7a75b3e159354aec61dd6094cc0da4.jpg?u=239563&p=1296554664",
+    "datePublished": "2009-05-10",
+    "description": "鮭フレークを使い生クリームなしで作ったサーモンクリームパスタ。作り方は超簡単！味付けは和風にしました。ランチにどうぞ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "スパゲティ",
+            "quantity": "200g"
+        },
+        {
+            "name": "★鮭フレーク",
+            "quantity": "大さじ　３"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ　３"
+        },
+        {
+            "name": "★牛乳",
+            "quantity": "大さじ　３"
+        },
+        {
+            "name": "★めんつゆ（３倍濃縮）",
+            "quantity": "大さじ　１"
+        },
+        {
+            "name": "★鰹節",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "大葉（かいわれ大根）",
+            "quantity": "適量"
+        },
+        {
+            "name": "刻み海苔",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "塩を入れた沸騰した湯でスパゲティを茹でる。\r\n大葉を千切りにする。",
+        "★の材料をよく混ぜ合わせる。",
+        "茹で上がったスパゲティを②であえる。",
+        "お皿に盛り、大葉と刻み海苔をかけたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "804277",
+    "advice": "鰹節を加えることで和の風味が増します。",
+    "history": "いつも作っている簡単手抜きパスタのご紹介です。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/冷製・アイデアパスタ/アイデアパスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "サーモンクリームパスタ",
+        "サーモンクリームパスタ 生クリームなし",
+        "鮭フレーク パスタ めんつゆ"
+    ],
+    "tsukurepo_count": "976",
+    "thumbnail": "https://img.cpcdn.com/recipes/804277/100x141c/a72a7cb66a2f78a18ab510786b422208.jpg?u=239563&p=1296554664"
+}

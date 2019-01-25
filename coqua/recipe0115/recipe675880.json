@@ -1,0 +1,56 @@
+{
+    "name": "冬瓜ベーコン炒め",
+    "author": {
+        "@type": "Person",
+        "name": "にわとりかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/675880/464x260/fb4a347584d7fb4f1abacae9190959cc.jpg?u=205158&p=1249979165",
+    "datePublished": "2008-11-04",
+    "description": "いつも煮物ばかりじゃ飽きるので冬瓜、ベーコン、水菜で炒め物を作りました。ポン酢でさっぱり。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "冬瓜（姫冬瓜）",
+            "quantity": "１個（お好きなだけ）"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "５～６枚（１～２㎝に切る）"
+        },
+        {
+            "name": "水菜",
+            "quantity": "１／２袋（３㎝位のざく切り）"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量（たっぷりが美味しい）"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "冬瓜の皮を剥き、種を取り除き、１㎝弱の薄切りにする。",
+        "フライパンに油を熱しベーコンを炒め、①を加え透き通り軟らかくなるまで炒めます。",
+        "水菜を加え軽く塩胡椒をし火を止める。",
+        "器に盛り鰹節をのせポン酢をかけて頂きます。",
+        "2009.8.11ピックアップして頂きました。記念に写真を撮り直しました。＾＾"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "675880",
+    "advice": "冬瓜はお好みの固さに。私は少し固めが好きです。",
+    "history": "１００円で手に入る姫冬瓜。煮物だけでは飽きるので簡単炒め物。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/冬瓜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "冬瓜",
+        "ベーコン",
+        "水菜",
+        "鰹節"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/675880/100x141c/edf5238e780fcab22f70afe0abadc99e.jpg?u=205158&p=1249979165"
+}

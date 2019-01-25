@@ -1,0 +1,49 @@
+{
+    "name": "ゴボウとベーコンのバターソテー",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1723338/464x260/0e1e9457e1d16fa8f3d53152842fadb4.jpg?u=2513693&p=1330483268",
+    "datePublished": "2012-03-31",
+    "description": "じっくり炒めたゴボウは美味しいんです。ベーコンとあわせてパンと一緒に食べても美味しい一品を作りました。",
+    "recipeYield": "１～２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴボウ",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "３枚"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩、粗びき黒コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴボウは斜めに薄切り、ベーコンは１センチ幅に切っておきます",
+        "フライパンにバターを熱し、まずはゴボウをじっくり中火で少し焼き色がつくまで炒めます。（約５分）",
+        "ベーコンを入れさっと炒めて塩コショウで味を調えれば完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1723338",
+    "advice": "ちょっと焦げ目がつくくらいのほうが美味しいです。",
+    "history": "じっくり焼いたゴボウは美味しいのでじっくり炒めてベーコンとあわせてみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴボウ",
+        "ベーコン",
+        "バター"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1723338/100x141c/e601414cdab0dfa9b2f8fe377212687d.jpg?u=2513693&p=1330483268"
+}

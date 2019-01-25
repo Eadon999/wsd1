@@ -1,0 +1,55 @@
+{
+    "name": "簡単！銀だらの煮付け♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/1072504/464x260/336cff0e06ebd2c2c32c2cb3312e5d19.jpg?u=921598&p=1334175055",
+    "datePublished": "2010-03-18",
+    "description": "トロっと脂がのって、美味しい煮つけに仕上がりましたぁ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "銀だら",
+            "quantity": "4切れ"
+        },
+        {
+            "name": "●酒",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "●水",
+            "quantity": "200ｃｃ"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "100ｃｃ"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に●の材料を入れ、煮立たせておく。",
+        "1に、銀だらを入れ、落し蓋をして中火で約5～7分間煮たら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1072504",
+    "advice": "2で、アルミホイルに数箇所穴を開けて使用すると、簡単！落し蓋になりますよぉ♪",
+    "history": "銀だらが安かったので煮付けにしましたぁ！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/その他お魚/たら"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "銀だら",
+        "銀だら 煮付け"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/1072504/100x141c/c89cf9c95d9ad94c47c484c17804eb85.jpg?u=921598&p=1334175055"
+}

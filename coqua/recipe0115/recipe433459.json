@@ -1,0 +1,58 @@
+{
+    "name": "厚揚げと卵の甘辛煮",
+    "author": {
+        "@type": "Person",
+        "name": "chieko333"
+    },
+    "image": "https://img.cpcdn.com/recipes/433459/464x260/66dad61631b77e201f29f6cdbcdb1493.jpg?u=277337&p=1214217296",
+    "datePublished": "2007-09-22",
+    "description": "お惣菜屋さんの味を真似してみました。✿H19/12/5話題入りさせていただきました",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "卵",
+            "quantity": "4個"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★水",
+            "quantity": "大さじ５"
+        }
+    ],
+    "recipeInstructions": [
+        "茹で卵を作っておく。",
+        "★の調味料を全て鍋に入れ煮たて、その中に食べやすい大きさに切った厚揚げを入れて煮る。",
+        "３～５分程煮たら、お皿に盛りつける。",
+        "鍋に残った汁で、卵を煮る。全体に味が沁みるように、たまにひっくり返す。火を止め放置。（冷えて行く時に味が染み込みます）",
+        "厚揚げを盛ったお皿に卵を盛ったら出来上がり。",
+        "お陰様で2007/12/5、話題入りさせていただきました！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "433459",
+    "advice": "調味液の中に長時間厚揚げを入れておくと、しょっぱくなりすぎるので注意してください。",
+    "history": "昔よく行ったお惣菜屋さんの味が恋しくて、思い出しながら再現してみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ 卵"
+    ],
+    "tsukurepo_count": "246",
+    "thumbnail": "https://img.cpcdn.com/recipes/433459/100x141c/81f8ac438f85e12c15bd83c20194088d.jpg?u=277337&p=1214217296"
+}

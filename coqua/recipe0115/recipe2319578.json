@@ -1,0 +1,58 @@
+{
+    "name": "簡単おいしい☆ツナわかめの冷やしうどん♪",
+    "author": {
+        "@type": "Person",
+        "name": "jjcream"
+    },
+    "image": "https://img.cpcdn.com/recipes/2319578/464x260/c72d21efd47122453e18ac32f521ed20.jpg?u=1156502&p=1376985031",
+    "datePublished": "2013-08-20",
+    "description": "ざるうどんに飽きたらこれ！冷たいおうどん、おいしいですよね。これなら、あっという間に出来上がり♪夏のお昼にオススメ☆",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆでうどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "ツナ缶（ライトタイプ）",
+            "quantity": "１缶"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ねぎ(小口切り)",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "めんつゆ（かけつゆ、濃いめ）",
+            "quantity": "１カップ"
+        }
+    ],
+    "recipeInstructions": [
+        "うどんは表示通りゆで、冷水で洗って冷やします。\nわかめは表示通り水で戻し、水気を切っておきます。",
+        "ツナ缶の油はお好みにより切り、お好みでしょうゆ（分量外）を少したらします。",
+        "器にうどんを盛り、ツナ・わかめをのせます。\nめんつゆをかけ、ねぎ・すりごまをふります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2319578",
+    "advice": "めんつゆに練りわさびをお好みで溶かしておくと、ピリ辛な味に仕上がります。",
+    "history": "お昼ごはんに作りました。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/冷やしうどん"
+    ],
+    "rankings": [
+        "冷やしうどん 4位"
+    ],
+    "related_keywords": [
+        "冷やしうどん ツナ",
+        "冷やしうどん"
+    ],
+    "tsukurepo_count": "110",
+    "thumbnail": "https://img.cpcdn.com/recipes/2319578/100x141c/abc991b0f753c124a492a59d4c554df1.jpg?u=1156502&p=1376985031"
+}

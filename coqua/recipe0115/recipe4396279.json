@@ -1,0 +1,54 @@
+{
+    "name": "残り物♪ミルキー煮込みチーズカレーうどん",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4396279/464x260/01fee81354338a0affa7feedb938ef1f.jpg?u=9664115&p=1488835569",
+    "datePublished": "2017-03-07",
+    "description": "残ったカレーアレンジ♪煮込みにすることでとろっと濃厚なクリームカレーうどんに。",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "3玉"
+        },
+        {
+            "name": "カレー",
+            "quantity": "300g"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "500cc"
+        },
+        {
+            "name": "めんつゆ（2倍）",
+            "quantity": "100cc"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "100g"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に残ったカレー・牛乳・めんつゆを入れ火にかける。",
+        "湧く前にうどんを入れ、フタをしめて5分。\nたまに混ぜながら。",
+        "とろけるチーズを加えて和えたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4396279",
+    "advice": "茹で時間3分表記のうどんで5分煮込みました。",
+    "history": "カレーの残りをどうしようかと、嫁がカレーうどんが食べたいということで。",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/カレーうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カレーうどん アレンジ",
+        "ミルキー アレンジ",
+        "カレーうどん チーズ",
+        "残ったカレー カレーうどん"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4396279/100x141c/6c5a15c8bee1e274f8a984cee7018159.jpg?u=9664115&p=1488835569"
+}

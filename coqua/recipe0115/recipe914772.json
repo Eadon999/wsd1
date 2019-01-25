@@ -1,0 +1,54 @@
+{
+    "name": "✿鮭と塩昆布の和風パスタ✿",
+    "author": {
+        "@type": "Person",
+        "name": "annnnn"
+    },
+    "image": "https://img.cpcdn.com/recipes/914772/464x260/2279211827cac2564df1e9abcda05fdc.jpg?u=271833&p=1283435468",
+    "datePublished": "2009-09-18",
+    "description": "材料全部和えるだけ♪ 簡単なのにとっても美味しいパスタです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "200g"
+        },
+        {
+            "name": "＊鮭フレーク",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "＊塩昆布",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "＊白胡麻",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "＊醤油",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "＊バター又はマーガリン",
+            "quantity": "10g"
+        }
+    ],
+    "recipeInstructions": [
+        "茹でて湯切りしたパスタに＊印を和えて出来上がり♪ \r\n※パスタを茹でたお鍋の中で和えると洗い物が減ります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "914772",
+    "advice": "鮭フレークや塩昆布の量はお好みで加減して下さい。",
+    "history": "鮭フレークの大瓶を買ったのでパスタでも試してみました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鮭 パスタ",
+        "鮭 パスタ 和風"
+    ],
+    "tsukurepo_count": "107",
+    "thumbnail": "https://img.cpcdn.com/recipes/914772/100x141c/52c2056bcd1e4b6daa8f367e7a701900.jpg?u=271833&p=1283435468"
+}

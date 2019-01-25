@@ -1,0 +1,58 @@
+{
+    "name": "まろやか胡麻ドレの✾トマトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/3223861/464x260/dcab11f46a0421d0c403ccd7dcfd2a51.jpg?u=3243126&p=1534382450",
+    "datePublished": "2015-06-10",
+    "description": "まろやかな胡麻ドレッシングでトマトむしゃむしゃ～(・３・)♡♡♡",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "★ヨーグルト",
+            "quantity": "大さじ１杯"
+        },
+        {
+            "name": "★味噌",
+            "quantity": "大さじ１/２杯"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ１/２杯"
+        },
+        {
+            "name": "★白ごま",
+            "quantity": "大さじ１杯"
+        }
+    ],
+    "recipeInstructions": [
+        "★の材料を混ぜておきます",
+        "トマトをひとくちサイズに切ります。",
+        "トマトに①のドレッシングをかければ出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3223861",
+    "advice": "★トマトの切り方はお好きな切り方でどうぞ♪",
+    "history": "トマトの消費に。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "マヨネーズ",
+        "ヨーグルト",
+        "味噌"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/3223861/100x141c/0a4bdd61f1185020f42596b5ea3c9451.jpg?u=3243126&p=1534382450"
+}

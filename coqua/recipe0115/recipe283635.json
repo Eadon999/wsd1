@@ -1,0 +1,54 @@
+{
+    "name": "ワカメたくさん食べれます！！",
+    "author": {
+        "@type": "Person",
+        "name": "ぴっちい"
+    },
+    "image": "https://img.cpcdn.com/recipes/283635/464x260/dc95423d9397691a33e906acc6f9ed2c.jpg?u=253314&p=1277416220",
+    "datePublished": "2006-09-21",
+    "description": "ワカメ好きの方、お試し下さい*\\(^o^)/*",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "生塩ワカメ",
+            "quantity": "100g(お好みの量)"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "ちりめんじゃこ",
+            "quantity": "20g(お好みの量)"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "生ワカメを水で洗い、食べやすい長さに切る。",
+        "フライパンにごま油を熱し、ワカメを炒める。",
+        "ちりめんじゃこを加えて炒め、溶いた卵を加えて塩で味つける。",
+        "桜海老だと彩りいいです"
+    ],
+    "cookTime": null,
+    "recipe_id": "283635",
+    "advice": "ワカメ、じゃこに塩味がついてるので、味付けは確かめながらして下さい。ご飯にのっけても美味しいですよ！　乾燥ワカメでもOK。",
+    "history": "ワカメが好きっ(^^)",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "卵",
+        "ちりめんじゃこ",
+        "ごま油"
+    ],
+    "tsukurepo_count": "69",
+    "thumbnail": "https://img.cpcdn.com/recipes/283635/100x141c/2b24e258f8c52afb4b27ace1717bdb78.jpg?u=253314&p=1277416220"
+}

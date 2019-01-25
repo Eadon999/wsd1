@@ -1,0 +1,50 @@
+{
+    "name": "簡単にむける☆焼ナス生姜ポン酢☆",
+    "author": {
+        "@type": "Person",
+        "name": "toshiebaba"
+    },
+    "image": "https://img.cpcdn.com/recipes/1502963/464x260/1298e4e68991ef05c88041035cf2dee5.jpg?u=2524222&p=1340700849",
+    "datePublished": "2011-07-22",
+    "description": "焼ナスは、ほんのり焦げ臭さが、美味しさの秘訣。皮さえ簡単にむければ、焼きなす作るの嫌じゃ無い。４個は一人でいけちゃう。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "なす（大き目）",
+            "quantity": "４個"
+        },
+        {
+            "name": "生姜",
+            "quantity": "３ｃｍ"
+        },
+        {
+            "name": "ポン酢かしょうゆ",
+            "quantity": "少々"
+        },
+        {
+            "name": "爪楊枝",
+            "quantity": "１本"
+        }
+    ],
+    "recipeInstructions": [
+        "へたのところは繋げたまま４つに切れ目を入れ焼き網かオーブントースターで焼く。",
+        "焼きあがってから５分くらい置く。",
+        "へたの皮と実の間に楊枝を刺しそのままずらして皮をむく。",
+        "包丁か鋏でへたを落とす。実はもう切れてるから。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1502963",
+    "advice": "オーブントースター（大きいので１５分くらい）の方が手間無しかも。冷蔵庫で、キンキンに冷やしても美味しい！味付けはお好みで。",
+    "history": "焼ナスは、あの香りが１番。でも熱くてやけどする。だから一工夫した（１０年位前から）。皆やってるやりかたかなぁ。楊枝でむくの。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なす",
+        "生姜",
+        "爪楊枝"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/1502963/100x141c/3bf108232778744e2b9ffe2a522395dd.jpg?u=2524222&p=1340700849"
+}

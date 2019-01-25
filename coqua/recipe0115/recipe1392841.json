@@ -1,0 +1,47 @@
+{
+    "name": "長ネギのオリーブオイル＆ニンニク焼き",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/1392841/464x260/bb565646ad15b28e8379e42f4ca8dd13.jpg?u=2124468&p=1300881906",
+    "datePublished": "2011-04-02",
+    "description": "オリーブオイルとニンニクの香りがネギの甘味にパンチを効かせる。それによりネギの甘味が引き立ってくる。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "長ネギ",
+            "quantity": "1本"
+        },
+        {
+            "name": "ニンニク",
+            "quantity": "1片"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "ネギを5cm程度に切っておく。",
+        "アルミフォイルに並べ、塩こしょうを振る。さらにおろしニンニクを乗せ、オリーブオイルを回しかける。",
+        "オーブントースターに投入し、10分ほど焼いて出来上がりです。途中で２～3回ひっくり返すとまんべんなく焼けます。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1392841",
+    "advice": "",
+    "history": "ネギの素焼きも美味しいが、ニンニクとオリーブオイルでパンチを効かせてみよう。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長ねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白ネギオリーブオイル"
+    ],
+    "tsukurepo_count": "35",
+    "thumbnail": "https://img.cpcdn.com/recipes/1392841/100x141c/f5435568e0267b7b673d51768293a77a.jpg?u=2124468&p=1300881906"
+}

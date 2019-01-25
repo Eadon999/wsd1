@@ -1,0 +1,68 @@
+{
+    "name": "レンコンとごぼうと人参のきんぴら！！",
+    "author": {
+        "@type": "Person",
+        "name": "キンタキッチン"
+    },
+    "image": "https://img.cpcdn.com/recipes/1619585/464x260/744dedd19cedcfe643c0f82b1bde18c5.jpg?u=909052&p=1343777044",
+    "datePublished": "2011-11-06",
+    "description": "掘りたてのレンコンをいただきました。しゃきしゃきの歯ごたえがするレンコン・ごぼう・人参できんぴらを作りました！！",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "れんこん",
+            "quantity": "15㎝～２０㎝くらい"
+        },
+        {
+            "name": "ごぼう",
+            "quantity": "１本"
+        },
+        {
+            "name": "人参",
+            "quantity": "小さめ一本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "れんこん・ごぼう・人参を切ります。\n",
+        "フライパンを熱し、ごま油適量で炒めます。炒めすぎないように！",
+        "砂糖、醤油・みりん・酒で味を調え、白ごまをふりかけます。",
+        "できあがり！"
+    ],
+    "cookTime": null,
+    "recipe_id": "1619585",
+    "advice": "炒めすぎないように！少し保存がききますので、冷蔵庫に常備しておくのもいいですね。",
+    "history": "しゃきしゃきの歯ごたえのレンコンとごぼうと人参できんぴらを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "れんこんごぼうにんじん"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/1619585/100x141c/929fd999b7a356d16f9b774512eda203.jpg?u=909052&p=1343777044"
+}

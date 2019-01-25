@@ -1,0 +1,58 @@
+{
+    "name": "【農家のレシピ】ゴボウとベーコンのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1723354/464x260/1ed9f9f192316d25c0c78fb4b9426d89.jpg?u=2513693&p=1330484177",
+    "datePublished": "2012-03-06",
+    "description": "千切りゴボウを柔らかく煮たやさしい味のコンソメスープです。ゴボウは洋風のスープにもなるんですよ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "ゴボウ",
+            "quantity": "７０ｇ"
+        },
+        {
+            "name": "ベーコン",
+            "quantity": "２枚"
+        },
+        {
+            "name": "バター（又はマーガリン）",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        },
+        {
+            "name": "コンソメ（固形）細かく刻んでおく",
+            "quantity": "1.5個"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ゴボウは千切り、ベーコンは１センチ幅に切っておきます",
+        "フライパンにバターを熱しベーコンを炒め、次にゴボウを入れ、やや弱めの中火で５分間じっくり炒めます。",
+        "次に水とコンソメを入れやや弱めの中火で１５分煮て最後に塩コショウで味を調え完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1723354",
+    "advice": "",
+    "history": "きんぴらごぼうを作った時に一緒に千切りにして翌日スープにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/ごぼう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ゴボウ",
+        "ベーコン",
+        "バター",
+        "水"
+    ],
+    "tsukurepo_count": "20",
+    "thumbnail": "https://img.cpcdn.com/recipes/1723354/100x141c/17728b0dad073e80e50d57d3ecaff1b4.jpg?u=2513693&p=1330484177"
+}

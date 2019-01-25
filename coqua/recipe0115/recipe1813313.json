@@ -1,0 +1,54 @@
+{
+    "name": "新玉ねぎだけで！サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ねこのかあさん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1813313/464x260/d4239b7a10870d6866f3e5e009d3bd30.jpg?u=4117562&p=1336990115",
+    "datePublished": "2012-05-14",
+    "description": "新玉ねぎだからこそシンプルな味付けで美味しい！！１玉ペロッと食べられちゃう＾＾新玉ねぎが手に入ったらお試しあれ～♪♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "新玉ねぎ",
+            "quantity": "1玉"
+        },
+        {
+            "name": "酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎをスライスし、塩（分量外）をまぶししばらく置いておく。水分が出てきたら、ざるにあげ水で洗い、しっかり水気を絞る。",
+        "玉ねぎと調味料を和え、かつおぶしをかけて出来上がり！！",
+        "紫玉ねぎバージョンです♪こちらも美味しかったです☆"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1813313",
+    "advice": "なるべく薄くスライスすると見た目も食感も良いです＾＾",
+    "history": "母から新玉ねぎをたくさんもらったので、美味しく食べられる方法を考えました☆",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/新たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "新玉ねぎ",
+        "酢",
+        "みりん",
+        "しょう油"
+    ],
+    "tsukurepo_count": "42",
+    "thumbnail": "https://img.cpcdn.com/recipes/1813313/100x141c/9ede0286e1bcdb837b83cf8a243cbe71.jpg?u=4117562&p=1336990115"
+}

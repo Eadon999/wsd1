@@ -1,0 +1,70 @@
+{
+    "name": "塩ダレ豚",
+    "author": {
+        "@type": "Person",
+        "name": "ochikeron"
+    },
+    "image": "https://img.cpcdn.com/recipes/240843/464x260/f0e2c19859b19d9482135d56a149dba6.jpg?u=54489&p=1215133391",
+    "datePublished": "2006-02-26",
+    "description": "簡単だしと～っても美味しい！ご飯が進みます (^¬^) 動画アリ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉の切り落とし",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "生姜のすりおろし",
+            "quantity": "１片分"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/２"
+        },
+        {
+            "name": "にんにくのみじん切り",
+            "quantity": "１片分"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "１/２個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "コショウ（あらびきブラックペッパーでも）",
+            "quantity": "適量"
+        },
+        {
+            "name": "キャベツの千切り",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚の切り落としを生姜のすりおろし、酒、塩、にんにくのみじん切りで下味する。",
+        "玉ねぎを薄切りにしてごま油で炒め、下味しておいた肉を炒める。",
+        "仕上げにコショウとごま油で調味し、千切りキャベツの上に盛り付けて出来上がり。",
+        "撮影：05/9/27"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "240843",
+    "advice": "豚肉でなく鶏肉でも♪動画レシピ：http://www.youtube.com/watch?v=6kRuK-pIY3E",
+    "history": "zincさんに教えてもらったレシピです。 http://mixi.jp/view_bbs.pl?id=2191197",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩ダレ豚",
+        "豚肉 塩だれ",
+        "塩だれ"
+    ],
+    "tsukurepo_count": "3143",
+    "thumbnail": "https://img.cpcdn.com/recipes/240843/100x141c/54326c2ad50470ffeda4fedc8d324f34.jpg?u=54489&p=1215133391"
+}

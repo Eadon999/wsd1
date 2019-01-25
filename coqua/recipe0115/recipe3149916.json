@@ -1,0 +1,58 @@
+{
+    "name": "★5分でできる「もやし海苔ナムル」。",
+    "author": {
+        "@type": "Person",
+        "name": "★いも★"
+    },
+    "image": "https://img.cpcdn.com/recipes/3149916/464x260/24704139fae90dfa07851fe8c33fb7a2.jpg?u=5679832&p=1430346744",
+    "datePublished": "2015-05-01",
+    "description": "簡単！！おいしい！！栄養ありの3拍子を満足させてくれるレシピ。もやしにはビタミンC豊富で老化防止、ダイエットも効果的",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "韓国海苔",
+            "quantity": "1袋"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "もやしを水洗いし、ザルに上げて水気をきる。\n海苔は袋に入れたまま揉む。\n\n",
+        "ボウルに①のもやしを入れ、ラップをして600wの電子レンジで3分間加熱する。\n",
+        "③②のボウルを出して、醤油、塩、ごま油、ごまで和えてから、海苔をふりかけると出来上がり。\n\n"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3149916",
+    "advice": "韓国海苔を使用するので全体の味付けは薄めに。",
+    "history": "冷蔵庫にストックされているもやしを見て思いついたレシピです。海苔を加えて、鉄分補給と香ばしさも出しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "韓国海苔",
+        "醤油",
+        "ごま油"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/3149916/100x141c/ee537ddf4ee073bc87f89cb34bea573d.jpg?u=5679832&p=1430346744"
+}

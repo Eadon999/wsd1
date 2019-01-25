@@ -1,0 +1,51 @@
+{
+    "name": "覚えやすい★ほっこり♡さつまいもご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ぱーうぃー"
+    },
+    "image": "https://img.cpcdn.com/recipes/3474416/464x260/a69746ecc510900f750d727e9495b392.jpg?u=4871292&p=1445576071",
+    "datePublished": "2015-10-23",
+    "description": "3合に小さじ1:1:1★ほっとする秋の味♡",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "さつまいも",
+            "quantity": "250g〜300g"
+        },
+        {
+            "name": "塩",
+            "quantity": "小1"
+        },
+        {
+            "name": "酒",
+            "quantity": "小1"
+        },
+        {
+            "name": "昆布だし(顆粒)",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "米はは洗い、普通に炊くように30分くらい水につけておく。",
+        "さつまいもはピーラーで所々皮をむき、1.5cm角に切り、水にさらす。",
+        "①に調味料を入れ軽く混ぜ、よく水を切ったさつまいもを上にのせ炊く。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3474416",
+    "advice": "新米が止まらない〜(^o^)鳴門金時オススメです★皮は所々残っている方が、芋が崩れにくくて、色も綺麗ですよ。",
+    "history": "簡単に適当に作っているレシピです(^o^)家族みんな大好きです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さつまいもご飯 3合"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/3474416/100x141c/6323035cbfa9e165a5582ae7072d2744.jpg?u=4871292&p=1445576071"
+}

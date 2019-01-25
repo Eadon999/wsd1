@@ -1,0 +1,55 @@
+{
+    "name": "簡単ランチに♪ツナとキャベツの和風パスタ",
+    "author": {
+        "@type": "Person",
+        "name": "ぽっぽっぽ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/1923978/464x260/49f7d5643b4d8dc7f3bdb84d02089550.jpg?u=3155632&p=1345350460",
+    "datePublished": "2012-08-19",
+    "description": "とても簡単に出来るので簡単ランチにピッタリ♡キャベツたっぷりでめんつゆ＆バターがパスタに絡んで美味です♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "パスタ",
+            "quantity": "100ｇ"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "1/8玉"
+        },
+        {
+            "name": "ツナ缶",
+            "quantity": "1/2缶"
+        },
+        {
+            "name": "バター",
+            "quantity": "10ｇ"
+        },
+        {
+            "name": "めんつゆ",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "パスタは指定時間茹でる。",
+        "キャベツは食べやすい大きさに切る。フライパンを熱してバター→キャベツ→ツナの順でサッと加熱し軽く塩胡椒をする。",
+        "2に1の茹でたパスタを加えてめんつゆと塩胡椒で味を整える。\nお皿に盛ったら出来上がり♡"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1923978",
+    "advice": "",
+    "history": "家にあった材料で簡単に作れないかと思い考えました。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/和風パスタ/醤油風味スパ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "パスタ ツナ キャベツ"
+    ],
+    "tsukurepo_count": "231",
+    "thumbnail": "https://img.cpcdn.com/recipes/1923978/100x141c/b59d977e8bc1af53b85aa71103d2c00c.jpg?u=3155632&p=1345350460"
+}

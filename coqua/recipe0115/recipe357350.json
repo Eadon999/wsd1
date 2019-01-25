@@ -1,0 +1,64 @@
+{
+    "name": "タコのカルパッチョ",
+    "author": {
+        "@type": "Person",
+        "name": "umai"
+    },
+    "image": "https://img.cpcdn.com/recipes/357350/464x260/cb29ac9dd63687deda5f163dc6ebb442.jpg?u=240775&p=1214215297",
+    "datePublished": "2007-04-10",
+    "description": "おうちでも簡単にお店の味！よく冷やして、ワインと一緒にどうぞ～！ **　祝　** ｱﾋﾟﾀ・ﾕﾆｰ×ｸｯｸﾊﾟｯﾄﾞの大絶賛ﾚｼﾋﾟ７月号のﾘｰﾌﾚｯﾄに掲載されました～♪ わーい♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "刺身用タコ",
+            "quantity": "大1パック"
+        },
+        {
+            "name": "新タマネギ",
+            "quantity": "1個"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大1"
+        },
+        {
+            "name": "●バルサミコ",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小1～1.5　味を見て"
+        },
+        {
+            "name": "●胡麻",
+            "quantity": "少々"
+        },
+        {
+            "name": "●わさび",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "【具の用意】\r\n1.新タマネギをスライスし水にさらしてしゃっきりさせ、水をよく切りお皿にしく。\r\n\r\n2.タコをスライスし\r\nタマネギの上にしく",
+        "【ソース作り】\r\n●の材料を味を見ながら\r\n醤油→バルサミコ→オリーブオイル→わさびの順で入れて混ぜる。",
+        "ソースをかけ胡麻をふり完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "357350",
+    "advice": "10分でも冷やして食べると美味しいです。白ワインと合う！",
+    "history": "お友達に教えてもらいました～（*^_^*）",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/たこ"
+    ],
+    "rankings": [
+        "タコのカルパッチョ 5位",
+        "たこカルパッチョ 9位"
+    ],
+    "related_keywords": [
+        "たこ カルパッチョ",
+        "タコのカルパッチョ バルサミコ",
+        "タコのカルパッチョ"
+    ],
+    "tsukurepo_count": "74",
+    "thumbnail": "https://img.cpcdn.com/recipes/357350/100x141c/b46b9287e7fbb279adc46713dc6db868.jpg?u=240775&p=1214215297"
+}

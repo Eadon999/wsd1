@@ -1,0 +1,54 @@
+{
+    "name": "簡単♥♡玉ねぎピラフ風",
+    "author": {
+        "@type": "Person",
+        "name": "かけまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/359492/464x260/eb2d37d5612ebbb16987ce2b727f91b4.jpg?u=304393&p=1214215347",
+    "datePublished": "2007-04-14",
+    "description": "入れるのは玉ねぎと調味料のみ。でも甘くて美味しい簡単ピラフができます。ハンバーグなどと一緒にいかが？",
+    "recipeYield": "2合分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "顆粒コンソメ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "小さじ１～"
+        },
+        {
+            "name": "米",
+            "quantity": "２合分"
+        }
+    ],
+    "recipeInstructions": [
+        "米は研いでおき、同量の水をいれて、大さじ３杯分くらい減らす。\r\n玉ねぎはみじんきり。",
+        "炊飯器にすべての材料をいれてかき混ぜ、炊くだけ。",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "359492",
+    "advice": "玉ねぎから水分がでるので水は軽く減らしてくださいね。",
+    "history": "すっごいピラフが食べたくなり。でも材料が玉ねぎしかなくて作ってみたら美味しかった。子供にも大人にも大好評～。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/ピラフ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "顆粒コンソメ",
+        "バター",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "197",
+    "thumbnail": "https://img.cpcdn.com/recipes/359492/100x141c/100c779693bcbf9e7cf9cff8dce8e83d.jpg?u=304393&p=1214215347"
+}

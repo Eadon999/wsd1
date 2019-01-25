@@ -1,0 +1,52 @@
+{
+    "name": "鰹節を絡めて♪もやしのしょう油マヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "ウメ吉さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2459857/464x260/0c69b7156ac7c53a2d7197d5d2412045.jpg?u=3243126&p=1534319896",
+    "datePublished": "2014-01-12",
+    "description": "もやしに鰹節を絡めるだけでしょう油マヨの味がしっかりついて、簡単＆すぐ出来きの一品です♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "1/2袋(100ｇ)"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "1パック(3ｇ)"
+        },
+        {
+            "name": "★マヨネーズ",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "★かつおだしの素",
+            "quantity": "小さじ1/3杯位"
+        }
+    ],
+    "recipeInstructions": [
+        "★の調味料を混ぜておきます。",
+        "沸騰したお湯にもやしを入れ、再沸騰してから15秒程でザルにあげて水気を切ります。",
+        "もやしにかつお節を絡めます。",
+        "③に①を和えれば出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2459857",
+    "advice": "もやしはシャキシャキ感が残る程度に茹でていますが、硬さはお好みで♪",
+    "history": "もやしだけでそれなりの副菜にしたかったので(笑)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし 鰹節"
+    ],
+    "tsukurepo_count": "47",
+    "thumbnail": "https://img.cpcdn.com/recipes/2459857/100x141c/98a777075b8c8c405e7876a6fd22d39f.jpg?u=3243126&p=1534319896"
+}

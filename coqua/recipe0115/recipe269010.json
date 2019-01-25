@@ -1,0 +1,43 @@
+{
+    "name": "なめたけとツナの炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "sayahk"
+    },
+    "image": "https://img.cpcdn.com/recipes/269010/464x260/bc9108ee6b470b4343fb48de57a5261c.jpg?u=261890&p=1214213347",
+    "datePublished": "2006-07-23",
+    "description": "こんな簡単でいいのだろうか？何にでも使えるなめたけ、炊き込みご飯にしてみました。",
+    "recipeYield": "３合分",
+    "recipeIngredient": [
+        {
+            "name": "なめたけ",
+            "quantity": "１瓶（１２０ｇ）"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小１缶"
+        },
+        {
+            "name": "米",
+            "quantity": "３合"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は普通にといで、炊飯器へ。水加減も通常の３合分で。",
+        "その中に、なめたけ１瓶をどぼどぼ入れる。\r\nツナも汁ごと全部入れる。（ノンオイルの場合）、（油分ある場合は油は全部入れない方がいいと思います）\r\n全体を混ぜたら、スイッチオン。",
+        "炊きあがったら全体をよく混ぜる。\r\nお茶碗にもって、きざみのりやごまがあれば、ふりかけて、できあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "269010",
+    "advice": "濃い味がお好きなら２合でどうぞ。薄味がいいなら３合で。",
+    "history": "私も同僚もなめ茸好きで、彼女のお勧めだというので試してみたら、うちでも大ヒット。なもんでレシピアップしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "なめたけ ツナ 炊き込みごはん"
+    ],
+    "tsukurepo_count": "75",
+    "thumbnail": "https://img.cpcdn.com/recipes/269010/100x141c/5634bbcff2d1194564a25a05dc88318f.jpg?u=261890&p=1214213347"
+}

@@ -1,0 +1,60 @@
+{
+    "name": "ししとうのおかか炒め",
+    "author": {
+        "@type": "Person",
+        "name": "単！！"
+    },
+    "image": "https://img.cpcdn.com/recipes/3327172/464x260/8fb867824e502e70db9755e3bc6ebdce.jpg?u=4819316&p=1438410746",
+    "datePublished": "2015-08-01",
+    "description": "15/8/21話題入り有難うございます、甘辛く炒めてししとうのピリッとした刺激と共に美味しくいただけご飯が進みます",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ししとう",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "かつおぶし",
+            "quantity": "１パック（２ｇ）"
+        },
+        {
+            "name": "●しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ししとうは水で洗って、軸があれば切り落とす",
+        "フライパンにごま油を加熱して、ししとうを炒める",
+        "ししとうがしんなりしたら、●を入れて弱火でさらに炒める",
+        "火を止めてかつおぶしをいれて混ぜる",
+        "器に盛って出来上がり"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3327172",
+    "advice": "ししとうだけですので大量消費できるでしょう",
+    "history": "実家の母親がよく作ってくれました、ししとうがたくさんあったので思い出しながら真似て作ってみました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ししとう"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ししとう",
+        "かつおぶし",
+        "しょうゆ",
+        "酒"
+    ],
+    "tsukurepo_count": "186",
+    "thumbnail": "https://img.cpcdn.com/recipes/3327172/100x141c/262aad81ce5124a6db030ab9b79428f3.jpg?u=4819316&p=1438410746"
+}

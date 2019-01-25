@@ -1,0 +1,78 @@
+{
+    "name": "ふわとろっ！ニラ玉豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "とんかつだいすき"
+    },
+    "image": "https://img.cpcdn.com/recipes/4402679/464x260/dbeb57b82f781b07ba929e69c7a78302.jpg?u=5804714&p=1489012670",
+    "datePublished": "2017-03-10",
+    "description": "ニラ玉に豆腐を加えた感じで、ふわっととろみをつけました4",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "にら",
+            "quantity": "１束"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大匙2"
+        },
+        {
+            "name": "水",
+            "quantity": "３００㏄"
+        },
+        {
+            "name": "和風だしの素",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "酒",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小匙1"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "大匙1"
+        },
+        {
+            "name": "濃口醤油",
+            "quantity": "小匙1"
+        }
+    ],
+    "recipeInstructions": [
+        "ニラは4～5㎝くらいの長さに切る",
+        "フライパンに水と、片栗粉以外の調味料を加えて火にかける。",
+        "沸騰し始めたら、ニラを加えて、蓋をして火が通るまで蒸し煮にする",
+        "豆腐を手で崩しながら加える。",
+        "豆腐が温まったら、溶いた卵を上から回しかけ、軽く混ぜる",
+        "最後に混ぜながら水溶き片栗粉を加えてとろみをつける"
+    ],
+    "cookTime": null,
+    "recipe_id": "4402679",
+    "advice": "ふわっとした感じにしたかったので、豆腐は絹ごし豆腐を使いました。",
+    "history": "最初は普通にニラ玉を作るつもりで準備していたのですが、絹ごし豆腐が家に残っていたので、それを加えてみたらどうかと思い、作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/アレンジ豆腐料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ニラ玉豆腐"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4402679/100x141c/b3d5e839ad1b86d7fbc1506bee1e9410.jpg?u=5804714&p=1489012670"
+}

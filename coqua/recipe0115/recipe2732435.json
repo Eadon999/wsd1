@@ -1,0 +1,43 @@
+{
+    "name": "ウマ！うなぎのタレとバター焼きおにぎり",
+    "author": {
+        "@type": "Person",
+        "name": "FUHAKKY"
+    },
+    "image": "https://img.cpcdn.com/recipes/2732435/464x260/b4d092bec1752d2cf318ecf8b7eec0b5.jpg?u=9113459&p=1406807508",
+    "datePublished": "2014-07-31",
+    "description": "うなぎのタレとバターのハーモニー♪魔性のコンビ。カテゴリ掲載★感謝ですm(__)m",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "おにぎり",
+            "quantity": "1個"
+        },
+        {
+            "name": "うなぎのタレ",
+            "quantity": "少々"
+        },
+        {
+            "name": "バターORマーガリン",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "テフロン加工のフライパンにバターを入れ加熱する",
+        "溶けたらおにぎり全体にまんべんなくバターをまぶしながら焼く",
+        "うなぎのタレを追加。両面焼く"
+    ],
+    "cookTime": null,
+    "recipe_id": "2732435",
+    "advice": "おにぎりは固めに握って下さいね。バターご飯で握ったらポロポロ。ですのでフライパンで焼きました。",
+    "history": "タレが余った～・・・。ふと思いついて作ってみたらヽ(´▽｀)/これは私にはやばい組み合わせです。タレとバター、恐ろしく合います。食べ過ぎ要注意！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うなぎのたれ 焼きおにぎり"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2732435/100x141c/2ff93cf21446cc0148442730c78f56d1.jpg?u=9113459&p=1406807508"
+}

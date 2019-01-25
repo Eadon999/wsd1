@@ -1,0 +1,61 @@
+{
+    "name": "カリフラワーのホットサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "KT121"
+    },
+    "image": "https://img.cpcdn.com/recipes/491623/464x260/b5522cc12cd30eb1eb9976082975fd02.jpg?u=270619&p=1348351102",
+    "datePublished": "2008-02-03",
+    "description": "付け合わせにも最適なシンプル温野菜を粒マスタードのドレッシングで和えました。冷めてもおいしい♪",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "カリフラワー",
+            "quantity": "１/２株"
+        },
+        {
+            "name": "人参",
+            "quantity": "小１本"
+        },
+        {
+            "name": "●オリーブオイル",
+            "quantity": "大２～大２と１/２"
+        },
+        {
+            "name": "●ワインビネガー",
+            "quantity": "大１"
+        },
+        {
+            "name": "●粒マスタード",
+            "quantity": "大１"
+        },
+        {
+            "name": "●塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●粗引きブラックペッパー",
+            "quantity": "たっぷりがおいしい"
+        }
+    ],
+    "recipeInstructions": [
+        "：ボウルに●印をよく混ぜ合わせる。",
+        "：皮を剥いて適当に切った人参と小房に分けたカリフラワーを茹でる。野菜は茹ですぎず歯触りが残る位が美味しいです。",
+        "：ざるにあげて水気をしっかり切ってから１に加えて和える。出来上がり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "491623",
+    "advice": "野菜の水はしっかり切ってください。温かいレシピですが、冷めても美味しいです。",
+    "history": "料理の付け合せに好みのドレッシングで和えてみたら美味しかった。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/カリフラワー"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カリフラワー サラダ",
+        "カリフラワー ホットサラダ",
+        "カリフラワー 付け合わせ"
+    ],
+    "tsukurepo_count": "167",
+    "thumbnail": "https://img.cpcdn.com/recipes/491623/100x141c/8c756a7c2d1437d18bde86f0c978d0bd.jpg?u=270619&p=1348351102"
+}

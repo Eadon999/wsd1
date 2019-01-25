@@ -1,0 +1,65 @@
+{
+    "name": "作り置き、人参とパプリカの炒めナムル。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/4003360/464x260/dc564bdfd8acf64e85a6d43667f58ea0.jpg?u=4036&p=1470036961",
+    "datePublished": "2016-08-01",
+    "description": "作り置きシリーズ！　とても簡単で彩りの良いお助けお惣菜です。",
+    "recipeYield": "作りやすい分量",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "150g"
+        },
+        {
+            "name": "パプリカ(黄)",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "すり胡麻(白)",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "人参は千切りにする。パプリカは細く切っておく。",
+        "フライパンに胡麻油を入れて火にかける。人参と塩を入れて中火で2分ほど炒める。",
+        "手順2にパプリカを入れてさっと炒めたら、●の調味料を入れて手早くざっくりと炒め合わせて火を止める。",
+        "最後にすり胡麻を入れて混ぜれば完成。",
+        "お弁当にも。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4003360",
+    "advice": "調味料を入れた後は手早く混ぜ合わせます。（時間をかけすぎるとパプリカの色が悪くなってしまうため）",
+    "history": "赤や黄色のお惣菜が一品あると食卓が一気に明るくなるので考えてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "人参",
+        "パプリカ",
+        "胡麻油",
+        "塩"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/4003360/100x141c/dbe638fa44f30e40ebc1fa71b0d0106b.jpg?u=4036&p=1470036961"
+}

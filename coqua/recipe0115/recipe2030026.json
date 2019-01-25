@@ -1,0 +1,63 @@
+{
+    "name": "小松菜のおひたし♡",
+    "author": {
+        "@type": "Person",
+        "name": "しおとこしょう"
+    },
+    "image": "https://img.cpcdn.com/recipes/2030026/464x260/329fca91c5d042b268b1e0f09fc0d4a0.jpg?u=758715&p=1352974488",
+    "datePublished": "2012-11-15",
+    "description": "栄養満点で家族みんなが大好きな一品です!!",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "１束"
+        },
+        {
+            "name": "油揚げ",
+            "quantity": "１枚"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "さけ",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1/2"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "50cc"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を適度な大きさに切り，油揚げは細切りにする．",
+        "鍋に１とごま油以外の調味料を加え適度に煮立てる．",
+        "火が通ったら火を止め，ごま油を加えて混ぜる．",
+        "あら熱がとれるまで寝かしてから，器に盛りつける．"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2030026",
+    "advice": "風味付けにごま油を入れると，香りもよくておいしいですよ☆",
+    "history": "おいしい小松菜のおひたしが食べたかったので!!",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "油揚げ",
+        "醤油",
+        "さけ"
+    ],
+    "tsukurepo_count": "45",
+    "thumbnail": "https://img.cpcdn.com/recipes/2030026/100x141c/ac84f8341261544986eedbadcea5e4a2.jpg?u=758715&p=1352974488"
+}

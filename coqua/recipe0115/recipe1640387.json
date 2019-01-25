@@ -1,0 +1,60 @@
+{
+    "name": "豆腐ときのことほうれんそうの卵とじ",
+    "author": {
+        "@type": "Person",
+        "name": "ノンジェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1640387/464x260/81517cca877881362c774ca5837b6156.jpg?u=3493623&p=1322621485",
+    "datePublished": "2011-11-30",
+    "description": "卵と豆腐がきのことほうれん草をうまい具合にまとめてくれる簡単料理です",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "１個"
+        },
+        {
+            "name": "ほうれん草",
+            "quantity": "１／２束"
+        },
+        {
+            "name": "お好みのきのこ（えのき、しめじなど）",
+            "quantity": "適量"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1/3丁"
+        },
+        {
+            "name": "★だし汁（水１００ｃｃ＋ほんだし小１/３)",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ１と1/2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は下ゆでをして５センチに切ります。\nきのこは手で割きます。",
+        "深めのフライパンに★を入れて中火で沸騰させて①と豆腐を手でくずして入れます。",
+        "きのこがしんなりしてきたら、といた卵を回し入れて弱火にしてふたをします。",
+        "卵がお好みの硬さになったら完成です。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1640387",
+    "advice": "汁気を多くしてごはんにのせてもおいしいです",
+    "history": "子供の頃、母が作ってくれた大好きな料理です",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 豆腐 卵とじ"
+    ],
+    "tsukurepo_count": "53",
+    "thumbnail": "https://img.cpcdn.com/recipes/1640387/100x141c/3f7f7f37cefa30eaea40b18ec6d949df.jpg?u=3493623&p=1322621485"
+}

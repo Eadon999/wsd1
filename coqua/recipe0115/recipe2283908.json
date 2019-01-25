@@ -1,0 +1,49 @@
+{
+    "name": "簡単！激旨！冷奴～塩とごま油◎",
+    "author": {
+        "@type": "Person",
+        "name": "かりあん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2283908/464x260/3fe6b37b9f7c3fecabbf840a2d869325.jpg?u=384266&p=1373586033",
+    "datePublished": "2013-07-12",
+    "description": "塩とごま油の組み合わせ大好き。納豆にも合うし、ポテチにも確かあった。韓国のりも旨い。冷奴に合わないわけないよね。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "とうふ",
+            "quantity": "1丁"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "適宜"
+        },
+        {
+            "name": "しお",
+            "quantity": "適宜"
+        },
+        {
+            "name": "あらびき黒こしょう",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "お豆腐は食べる直前までしっかり冷やし、水を切ってお皿に乗せる。",
+        "ごま油と塩とこしょうをかければ完成。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2283908",
+    "advice": "特にありません。",
+    "history": "納豆には塩とごま油をかけて食べていたので、同じ大豆だし、合わないわけないなと。おしょうゆかけるのと同じ感覚でごま油たら～っとやってみたら、やっぱりおいしかった！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/豆腐/冷奴"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "とうふ",
+        "ごま油",
+        "しお",
+        "あらびき黒こしょう"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/2283908/100x141c/d825c6058fb341faec419b23bcf0aa59.jpg?u=384266&p=1373586033"
+}

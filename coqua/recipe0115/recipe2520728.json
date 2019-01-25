@@ -1,0 +1,52 @@
+{
+    "name": "竹輪の生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2520728/464x260/9298075a109d8271ffc550c6a7938fc6.jpg?u=3900353&p=1393388970",
+    "datePublished": "2014-02-26",
+    "description": "お弁当のおかずに。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "竹輪",
+            "quantity": "125g"
+        },
+        {
+            "name": "生姜しぼり汁",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "竹輪は長さを半分に切り、さらに斜めに2等分。",
+        "生姜のしぼり汁、醤油、みりんを混ぜておく。",
+        "フライパンにサラダ油をひき、竹輪を焼く。特に白い部分を丁寧に焼く。全体が焼けたら、2を混ぜてから加える。",
+        "照りが出て、煮汁がほぼ無くなるまでからめる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2520728",
+    "advice": "焼き色が着くまで焼くと、タレが絡みやすい。",
+    "history": "冷蔵庫にある竹輪を何とか使いたくて考えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/ちくわ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ちくわ 生姜焼き"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/2520728/100x141c/83a64e14e6ca250268416db9eb5989ce.jpg?u=3900353&p=1393388970"
+}

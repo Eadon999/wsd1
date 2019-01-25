@@ -1,0 +1,58 @@
+{
+    "name": "カブとミニトマトのオリーブサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "アマヌサ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1407821/464x260/2cea51eedbf11ce654846979ada2dcd3.jpg?u=2876067&p=1302427796",
+    "datePublished": "2011-04-10",
+    "description": "２０１３．２．２７レポ１０人☆話題入りに感謝です！甘くて美味しいカブはシンプルに食べるのが一番☆素材の味を楽しもう♪",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "カブ",
+            "quantity": "１と１/２個"
+        },
+        {
+            "name": "カブの葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "ミニトマト",
+            "quantity": "８個"
+        },
+        {
+            "name": "◎オリーブオイル",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "◎塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "◎粗挽き黒胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カブは皮をむき１～１．５ｃｍ角に、葉は５ｍｍくらいに切る。カブと葉をボウルに入れて塩を少し振り混ぜ、しばらく置く。",
+        "１から水が出てきてしんなりしてきたら、手で軽く絞る。",
+        "２と半分に切ったミニトマトを、合わせた◎と混ぜて完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1407821",
+    "advice": "冷やして食べてね～♪",
+    "history": "離乳食で使ったカブが余ったので、サラダにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カブ",
+        "ミニトマト",
+        "オリーブオイル",
+        "塩"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/1407821/100x141c/c4b6787bbcb0731dc91d2054c908a087.jpg?u=2876067&p=1302427796"
+}

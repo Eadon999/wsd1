@@ -1,0 +1,51 @@
+{
+    "name": "【農家のレシピ】濃厚オニオンディップ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1412833/464x260/850f3b75c62a15582a72c3d89149e5d4.jpg?u=2513693&p=1302924659",
+    "datePublished": "2011-04-16",
+    "description": "そのままクラッカーやパンにつけてもいいし、焼けばなぜかグラタンのようになるディップです。",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ",
+            "quantity": "4分の1個"
+        },
+        {
+            "name": "クリームチーズ",
+            "quantity": "２０ｇ"
+        },
+        {
+            "name": "粉チーズ",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "粗挽き黒こしょう",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "玉ねぎを細かいみじん切りにして、レンジ５００ｗで1分加熱し【A】を入れてなめらかになるまで混ぜたら完成です。\n",
+        "焼くと、なぜかグラタンみたいな感じになるんですよ"
+    ],
+    "cookTime": null,
+    "recipe_id": "1412833",
+    "advice": "玉ねぎを加熱する理由は２つあって、1つ目は辛さを抜き甘みを出すこと。もう１つは固いクリームチーズを加熱した玉ねぎの熱で溶かすことです。",
+    "history": "クラッカーに乗せたりできるオニオンディップを考えていて最終的にこの形になりました",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/たまねぎ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ グラタン",
+        "オニオンディップ"
+    ],
+    "tsukurepo_count": "30",
+    "thumbnail": "https://img.cpcdn.com/recipes/1412833/100x141c/9f360e9bf603e0b0bc543efa313f67f5.jpg?u=2513693&p=1302924659"
+}

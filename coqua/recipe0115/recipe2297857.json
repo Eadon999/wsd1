@@ -1,0 +1,75 @@
+{
+    "name": "豚ロースのマヨソテー丼",
+    "author": {
+        "@type": "Person",
+        "name": "しきママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2297857/464x260/aba555a40f0625d1bc7db9a06daed2c6.jpg?u=1074680&p=1375189173",
+    "datePublished": "2013-07-26",
+    "description": "厚切りの豚ロースでガッツリ♪肉好きの息子のための丼です。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚ロース（厚切り）",
+            "quantity": "２枚"
+        },
+        {
+            "name": "レタス",
+            "quantity": "２枚"
+        },
+        {
+            "name": "ごはん",
+            "quantity": "４００ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩、こしょう",
+            "quantity": "適量"
+        },
+        {
+            "name": "ごま",
+            "quantity": "適量"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●おろしにんにく（チューブ）",
+            "quantity": "１ｃｍ程度"
+        }
+    ],
+    "recipeInstructions": [
+        "豚ロースに塩、こしょうをする。\nレタスは太めの千切りにする。",
+        "調味料（●）を合わせておく。",
+        "熱したフライパンにマヨネーズを入れてから、豚ロースを焼く。",
+        "豚ロースが焼けたら、２を加えて、軽く煮詰める。",
+        "４の豚ロースを食べやすい大きさに切る。",
+        "丼にごはん→レタス→豚ロースの順に入れる。フライパンに残ったタレをかけ、ごまを適量加える。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2297857",
+    "advice": "マヨネーズでソテーして、旨味UP。",
+    "history": "マヨネーズも豚肉も大好きな息子。しっかり食べてもらいたくて、丼にしてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚ロース 厚切り 丼",
+        "豚ロース丼"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/2297857/100x141c/289f4c7dd3e9b842a33508b07d56bbb1.jpg?u=1074680&p=1375189173"
+}

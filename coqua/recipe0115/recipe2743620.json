@@ -1,0 +1,72 @@
+{
+    "name": "夏のおかず☆鳥胸のさっぱり香味のせ♪",
+    "author": {
+        "@type": "Person",
+        "name": "tama-sora"
+    },
+    "image": "https://img.cpcdn.com/recipes/2743620/464x260/9814b2c6c343e5351f1a84aa22f438e6.jpg?u=289943&p=1407630889",
+    "datePublished": "2014-08-10",
+    "description": "香ばしく焼いた鳥胸に香味野菜をたっぷりのせてさっぱりソースでいただきます♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏胸　２枚",
+            "quantity": "６００ｇ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "塩・胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "薬味ねぎ",
+            "quantity": "４本"
+        },
+        {
+            "name": "大葉",
+            "quantity": "８枚"
+        },
+        {
+            "name": "みょうが",
+            "quantity": "４個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "油をひかずに皮をしたにして塩・胡椒・酒を入れて蓋をして蒸し焼きにする。\n焦げ目がついたら裏返してさらに蒸し焼きに。",
+        "みょうがと大葉は千切りに。\nねぎは小口切り。",
+        "ごま油～砂糖までを混ぜておく。",
+        "お肉が焼けたらお皿にスライスして盛ります。みょうが・大葉をのせて最後にねぎ。タレを上からかけます。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2743620",
+    "advice": "冷やして食べたほうが美味しいです＾＾",
+    "history": "夏バテ気味な旦那の食欲がでるようにさっぱりと薬味たっぷりで作りました♪",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏むね肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "さっぱり おかず"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/2743620/100x141c/d65a85c22fc92bbdac2f6547c12aef96.jpg?u=289943&p=1407630889"
+}

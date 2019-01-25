@@ -1,0 +1,52 @@
+{
+    "name": "カフェ風　さつまいもサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "yukanosuke"
+    },
+    "image": "https://img.cpcdn.com/recipes/941437/464x260/8897a7fdb0872534524a69e0a31411c2.jpg?u=1436695&p=1276955364",
+    "datePublished": "2009-10-19",
+    "description": "秋ですもの～さつまいもが恋しい季節。。。 とっても大好きなサラダなの❤2011.1.9お陰様で話題入り感謝②です～",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "さつまいも",
+            "quantity": "３５０ｇ"
+        },
+        {
+            "name": "えび",
+            "quantity": "１００ｇ"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ６"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "さつまいもは、６分くらいレンジにかけ蒸かす。きゅうりは輪切りにする。",
+        "えびは、湯がいておく。さつまいもは２ｃｍ角くらいに切っておく。",
+        "粒マスタードとマヨネーズを良く混ぜ、さつまいも・えび・きゅうりと和える。できあがり～"
+    ],
+    "cookTime": null,
+    "recipe_id": "941437",
+    "advice": "さつまいもを蒸かす時は、レンジによって加減をしてください。さつまいもは角切りでなくても大丈夫です。だいたいの大きさの目安にしてください。えびが大きい場合は、半分に切っても。。。",
+    "history": "前から作っているものです～",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ",
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カフェ風 サラダ"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/941437/100x141c/602fb0a3616ad7cf26d6a3042df76cfd.jpg?u=1436695&p=1276955364"
+}

@@ -1,0 +1,46 @@
+{
+    "name": "塩こうじ漬けのゆで卵",
+    "author": {
+        "@type": "Person",
+        "name": "ハナマルキレシピ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2763697/464x260/1fa5b4682bd64ff0dd19d352a860f4df.jpg?u=7089749&p=1408587006",
+    "datePublished": "2014-08-21",
+    "description": "ゆで卵を一晩液体塩こうじに漬けてみてください。ほんのり塩味がゆで卵に染み込みます♩塩を振らなくてすみます。お弁当に♩",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ゆで卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "液体塩こうじ",
+            "quantity": "小さじ４"
+        },
+        {
+            "name": "貝割れ大根",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "ハナマルキの「液体塩こうじ」を使用します！",
+        "ポリ袋を２枚重ねにし、ゆで卵と液体塩こうじを入れ、空気を抜きながら口を閉じる\n",
+        "冷蔵庫で一晩以上漬ける"
+    ],
+    "cookTime": null,
+    "recipe_id": "2763697",
+    "advice": "",
+    "history": "ハナマルキ「液体塩こうじ」を使ったかんたんメニューです。発酵調味料である液体塩こうじを使用することで酵素の力が働き、素材の旨味が増します。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/温泉たまご・味付たまご"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "塩こうじ",
+        "ゆで卵 漬け",
+        "ゆで卵 塩麹",
+        "塩味ゆで卵"
+    ],
+    "tsukurepo_count": "16",
+    "thumbnail": "https://img.cpcdn.com/recipes/2763697/100x141c/5d7856a4f038af6218587f1215bcfa14.jpg?u=7089749&p=1408587006"
+}

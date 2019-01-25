@@ -1,0 +1,70 @@
+{
+    "name": "*牛肉と茄子・ピーマンの煮びたし*",
+    "author": {
+        "@type": "Person",
+        "name": "poohkiti"
+    },
+    "image": "https://img.cpcdn.com/recipes/151548/464x260/7272a183cf3670cbd32ced15eae4f368.jpg?u=4705&p=1214211059",
+    "datePublished": "2004-07-05",
+    "description": "普段はこの素材でよく炒め物などします。温かくても冷蔵庫で冷やしてもおいしく頂けます。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（バラ薄切り）",
+            "quantity": "１５０ｇ"
+        },
+        {
+            "name": "茄子",
+            "quantity": "2本（今回長茄子使用）"
+        },
+        {
+            "name": "ピーマン",
+            "quantity": "3個"
+        },
+        {
+            "name": "★だし汁",
+            "quantity": "３００ｃｃ"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "油",
+            "quantity": "大さじ１～１．５"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉は２～３センチ、茄子・ピーマンは乱切りにする。　★印は混ぜておく。　",
+        "油で牛肉を炒め、色が変わってきたら茄子を入れ（しっかり油を吸わせて）、次にピーマンも入れて全体に油がなじみ、茄子が少ししんなりするまで炒める。",
+        "★印をそそぎ、強火で煮立てる。アクをとったら火を弱め、なすが柔らかく煮えたら出来上がり。温かいものでも、冷たく冷やしてもＯＫ！"
+    ],
+    "cookTime": null,
+    "recipe_id": "151548",
+    "advice": "",
+    "history": "親戚のうちでご馳走になった一品。無性に食べたくなり、味を思い出しながら再現。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉",
+        "茄子",
+        "ピーマン",
+        "だし汁"
+    ],
+    "tsukurepo_count": "44",
+    "thumbnail": "https://img.cpcdn.com/recipes/151548/100x141c/e7653d4601dff18634b9f2a9cb80c269.jpg?u=4705&p=1214211059"
+}

@@ -1,0 +1,63 @@
+{
+    "name": "ズッキーニと豚肉のぺペロンチーノ風炒め",
+    "author": {
+        "@type": "Person",
+        "name": "オリンタ"
+    },
+    "image": "https://img.cpcdn.com/recipes/845483/464x260/1339b3bed1d4d943a0875bbea332a0c5.jpg?u=1153075&p=1308186953",
+    "datePublished": "2009-06-22",
+    "description": "とにかく美味しい！うちでは大絶賛♪最後に酢を入れるからさっぱり食べれるよ*^-^*",
+    "recipeYield": "３〜４人",
+    "recipeIngredient": [
+        {
+            "name": "ズッキーニ",
+            "quantity": "1本（２８０ｇ位）"
+        },
+        {
+            "name": "豚のコマ肉",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "オリーブオイルＥＸ",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１〜２片"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ1/2強（４ｇ）"
+        },
+        {
+            "name": "黒コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "お酢",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "にんにくはみじんきり。ズッキーニは半月薄切りに。豚肉は食べやすい大きさに切る。",
+        "なべにオリーブオイルとにんにくを入れ弱火で香りをだす。",
+        "香りがでたら、強火で豚肉を炒め、色が変わってきたら、ズッキーニを入れ、クタっとするまで炒める。",
+        "炒まったら塩、黒コショウ、酢を入れ軽く炒めて馴染んだら出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "845483",
+    "advice": "にんにくは焦がさないようにね",
+    "history": "豚とズッキーニの相性が良いと聞いて～",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ズッキーニ",
+        "にんにく",
+        "塩",
+        "黒コショウ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/845483/100x141c/c78a8bddb4f28b401f7f6a1345d7c12a.jpg?u=1153075&p=1308186953"
+}

@@ -1,0 +1,62 @@
+{
+    "name": "レンジで簡単！　ささみの梅チーズ蒸し",
+    "author": {
+        "@type": "Person",
+        "name": "littlelily2007"
+    },
+    "image": "https://img.cpcdn.com/recipes/1361241/464x260/fd6279da2c4418f6a5e8e0c0c04dfa18.jpg?u=533232&p=1466758698",
+    "datePublished": "2011-02-15",
+    "description": "簡単一品！すぐにできちゃいます～",
+    "recipeYield": "二人分",
+    "recipeIngredient": [
+        {
+            "name": "ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "梅干（大粒）",
+            "quantity": "1個"
+        },
+        {
+            "name": "大葉",
+            "quantity": "3枚"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "20g"
+        },
+        {
+            "name": "キャベツ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは筋を取っておきます\nキャベツは洗ってみじん切り、梅干はたたいておきます",
+        "シリコンスチーマーにキャベツ、ささみ、梅干、大葉、チーズを乗せて最後にみりんと塩をかけます",
+        "シリコンスチーマーを電子レンジに入れ、600wで2分加熱します(電子レンジによって加熱時間を調整してください）",
+        "お皿に盛って出来上がりです"
+    ],
+    "cookTime": null,
+    "recipe_id": "1361241",
+    "advice": "電子レンジによって加熱時間が異なりますのでご調整ください。",
+    "history": "シリコンスチーマーを購入したのでレシピを研究中お野菜蒸しもおいしいけれど、いろいろアレンジしてみたいです",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "その他/調理器具/シリコンスチーマー/シリコンスチーマーでおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ささみ チーズ 蒸し",
+        "とりささみ レンジ"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1361241/100x141c/692e1f82cec01e3497a6acca5f7a834a.jpg?u=533232&p=1466758698"
+}

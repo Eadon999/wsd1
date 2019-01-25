@@ -1,0 +1,62 @@
+{
+    "name": "ひじきとツナの炊き込みご飯",
+    "author": {
+        "@type": "Person",
+        "name": "ａｋｉａｋｉ"
+    },
+    "image": "https://img.cpcdn.com/recipes/287081/464x260/f711139a2ae6f8683cb60dad777f4c29.jpg?u=233504&p=1214213756",
+    "datePublished": "2006-10-08",
+    "description": "思いついた時にパッと作れる簡単便利な炊き込みごはんです☆ひじきをわかめにかえてもＯＫ！",
+    "recipeYield": "４－５人分",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "３合"
+        },
+        {
+            "name": "ひじき（乾燥）",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "小１缶（８０ｇ）"
+        },
+        {
+            "name": "干ししいたけ→水で戻して千切り",
+            "quantity": "２枚"
+        },
+        {
+            "name": "にんじん→千切り",
+            "quantity": "２ｃｍ"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "めんつゆ（３倍濃縮タイプ）",
+            "quantity": "大さじ３－４"
+        }
+    ],
+    "recipeInstructions": [
+        "お米は洗って水を切り、できれば３０分くらい置く。",
+        "炊飯器に米を入れ、干し椎茸の戻し汁、ツナ缶の汁、酒、めんつゆを入れる。その上に水を３合の線まで入れる。",
+        "２）に具を入れ、スイッチオン！"
+    ],
+    "cookTime": null,
+    "recipe_id": "287081",
+    "advice": "ひじき、お酒はお米１合に対して大さじ１、めんつゆは米１合に対して大さじ１～１強、と覚えておくと便利です！",
+    "history": "急ぎのときにぱっと作れる我が家の炊き込みごはんです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お米",
+        "ひじき",
+        "ツナ",
+        "酒"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/287081/100x141c/4d8ca09294085a4bef3d486e3eafd1b9.jpg?u=233504&p=1214213756"
+}

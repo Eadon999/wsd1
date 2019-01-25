@@ -1,0 +1,42 @@
+{
+    "name": "だれでも簡単！基本の鯵フライパン焼き",
+    "author": {
+        "@type": "Person",
+        "name": "だんどり亭"
+    },
+    "image": "https://img.cpcdn.com/recipes/4477441/464x260/ddc6e1a1b1c9e248c88f8986bf5af643.jpg?u=4376699&p=1492436124",
+    "datePublished": "2017-04-20",
+    "description": "ふっくらジューシー！基本の焼き魚！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鯵",
+            "quantity": "1匹"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "指で探って骨をしっかり抜きましょう\n塩を軽く振ります",
+        "水が出てくるのでキッチンペーパーを上から抑えて取って味付け用に塩を振る",
+        "油少々をひき鮭を置いて火を点ける(強火)",
+        "パチパチと音がしだしたら中火にして蓋をする",
+        "3分で鮭を反して蓋をして2分蒸し焼きで完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "4477441",
+    "advice": "鯵の下処理　ID:2927001処理済みのアジでもＯＫ魚が苦手＝骨を取るのが苦手　なので骨はしっかり取りましょう",
+    "history": "魚焼き器を使わず簡単に焼き魚に挑戦",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/あじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "焼き魚 あじ",
+        "鯵 フライパン"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/4477441/100x141c/bc443e43eb25b8794a7023387a64f14e.jpg?u=4376699&p=1492436124"
+}

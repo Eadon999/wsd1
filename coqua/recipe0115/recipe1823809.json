@@ -1,0 +1,49 @@
+{
+    "name": "【農家のレシピ】カブの葉のコンソメスープ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1823809/464x260/f4dd0141f6260350e10a0c9aa3f945b8.jpg?u=2513693&p=1337685370",
+    "datePublished": "2012-05-25",
+    "description": "コカブの葉はクセがなくて柔らかくて美味しいのでスープに入れたり味噌汁に入れたりしています。 ",
+    "recipeYield": "たっぷり２人分",
+    "recipeIngredient": [
+        {
+            "name": "カブの葉",
+            "quantity": "２分の１個分"
+        },
+        {
+            "name": "バター又はマーガリン",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "コンソメ（固形）",
+            "quantity": "２個"
+        },
+        {
+            "name": "塩、コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "水",
+            "quantity": "６００ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "カブの葉は１センチ程度に切り、バターを熱したフライパンでさっと炒め【A】を入れ煮たったら完成です。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1823809",
+    "advice": "",
+    "history": "カブの葉は使いやすいので色んな汁物に使っています。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/かぶ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こかぶの葉"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1823809/100x141c/09d13d353869591f7fbdf33d1f297aa8.jpg?u=2513693&p=1337685370"
+}

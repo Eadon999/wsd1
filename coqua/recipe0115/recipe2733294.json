@@ -1,0 +1,51 @@
+{
+    "name": "豆腐とわかめと麩の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "ネギ母さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2733294/464x260/6ee3ddfc8fbf38e5a0479c344b1bb50d.jpg?u=8144267&p=1406875626",
+    "datePublished": "2014-08-01",
+    "description": "話題＆カテ掲載感謝定番の味噌汁に麩をプラスでふわふわお味噌汁♪もちろん他の具材でもOK☆麩を戻さないで使えるコツあり♡",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "600ｃｃ"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大３"
+        },
+        {
+            "name": "わかめ(乾燥)",
+            "quantity": "少々"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "麩（あれば）",
+            "quantity": "お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "だし汁と麩をそのまま入れて火にかける\n（麩は湯につけると縮むので戻して使うが水から入れるなら戻さなくてよい）",
+        "豆腐をさいの目切りにして入れ沸騰させたら火を止める。\n味噌を溶かしいれてわかめもそのまま投入。\n",
+        "再度火にかけたら、沸騰直前に火を止めて出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2733294",
+    "advice": "食欲がない時でもさらっと頂けるお味ですよ☆麩を戻さないでも使える方法でちょっぴり時短をｗ",
+    "history": "柔らかい味噌汁が欲しかったので(;^ω^)ありがちな味噌汁なので献立用に♪",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "お麩 みそ汁"
+    ],
+    "tsukurepo_count": "36",
+    "thumbnail": "https://img.cpcdn.com/recipes/2733294/100x141c/6badc04bed6bf02aff38b8f5ef5308ad.jpg?u=8144267&p=1406875626"
+}

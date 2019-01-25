@@ -1,0 +1,54 @@
+{
+    "name": "豆腐とわかめの味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "chiaki2012"
+    },
+    "image": "https://img.cpcdn.com/recipes/2037167/464x260/f134ba719332c06ab072e2ee01c33968.jpg?u=4249706&p=1353588712",
+    "datePublished": "2012-11-22",
+    "description": "定番ですが、この組み合わせはバランスも良いですよね♪わかめにもお豆腐にもカルシウムがたっぷりです・・・",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "だし汁",
+            "quantity": "400cc"
+        },
+        {
+            "name": "味噌",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1/2丁"
+        },
+        {
+            "name": "乾燥わかめ",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "刻みねぎ",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にだし汁を入れ火にかけ煮立ったら味噌を溶き入れます。 ",
+        "さいの目に切った豆腐と戻したわかめを入れて、煮立つ直前に火を止めます。",
+        "お椀に盛りつけて刻んだねぎをのせたらできあがり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2037167",
+    "advice": "絹ごし豆腐を使うのが好みです（なめらかな食感を味わいたいので）",
+    "history": "海藻を取り入れる習慣として、わかめを食べるようにしていますが、味噌汁に入れるのが一番です。",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "だし汁",
+        "味噌",
+        "絹ごし豆腐",
+        "乾燥わかめ"
+    ],
+    "tsukurepo_count": "40",
+    "thumbnail": "https://img.cpcdn.com/recipes/2037167/100x141c/60f8b7089dfad5d4b9adbe14c608b8d0.jpg?u=4249706&p=1353588712"
+}

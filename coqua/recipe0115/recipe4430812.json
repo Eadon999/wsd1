@@ -1,0 +1,54 @@
+{
+    "name": "節約♪鶏ささみともやしのジェノバ和え",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4430812/464x260/bb8701b5017908cdee7f766637c675d7.jpg?u=9664115&p=1490277064",
+    "datePublished": "2017-03-23",
+    "description": "節約おつまみ♪しっとりささみとシャキシャキもやしを洋風に。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏ささみ",
+            "quantity": "2本"
+        },
+        {
+            "name": "もやし",
+            "quantity": "150g"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ジェノベーゼソース",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "ハーブソルト",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみの筋を取り、火が通るまで弱火で茹でる。お酒を入れるとしっとりします。",
+        "ささみを取り除いたら強火にしてもやしを茹でる。再沸騰すればおっけー。",
+        "粗熱が取れたらささみを細かく手で割き、ボウルに入れる。\nもやしも。",
+        "オリーブオイルとジェノベーゼソースとハーブソルトを加えて全体に絡めたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4430812",
+    "advice": "しっとりささみの茹で方は大さじ1ぐらいのお酒を加えて弱火でじっくり。 ",
+    "history": "冷蔵庫の残り物を駆使して。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏ささみ",
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし洋風",
+        "鳥ささみ バジルソース"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4430812/100x141c/6c11d60c9836b488d1075e6cffbdabea.jpg?u=9664115&p=1490277064"
+}

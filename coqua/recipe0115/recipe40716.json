@@ -1,0 +1,55 @@
+{
+    "name": "お弁当の隙間埋めに！～しめじの佃煮",
+    "author": {
+        "@type": "Person",
+        "name": "をんをん"
+    },
+    "image": "https://img.cpcdn.com/recipes/40716/464x260/78b005c25b30994d360c17e6e00d1397.jpg?u=7813&p=1214208930",
+    "datePublished": "2002-01-31",
+    "description": "晩酌、ご飯のお供にも最適です。しめじが安いときは沢山つくっておくと便利です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "大1株"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "少量"
+        }
+    ],
+    "recipeInstructions": [
+        "しめじは洗って小房にわける。鍋に材料を全部入れ弱火で煮詰める。",
+        "煮汁が1/3程度にまで煮詰まったらごま油を少したらし出来上がり。",
+        ""
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "40716",
+    "advice": "つくれぽをくださった皆様から、アレンジのご報告いただいています♪卵焼きの具、炊き込みご飯、混ぜご飯などにしても、美味しくいただけるようです。",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しめじ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ佃煮"
+    ],
+    "tsukurepo_count": "100",
+    "thumbnail": "https://img.cpcdn.com/recipes/40716/100x141c/9cbdc5d8fde5a2e02bc2be09d724a0af.jpg?u=7813&p=1214208930"
+}

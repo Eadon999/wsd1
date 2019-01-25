@@ -1,0 +1,51 @@
+{
+    "name": "トマトとアボカドのワサビ醤油",
+    "author": {
+        "@type": "Person",
+        "name": "ちゅーるたん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2412763/464x260/1135dd6bc893d3fd3b73b60bc4db3413.jpg?u=5603456&p=1385129124",
+    "datePublished": "2013-11-21",
+    "description": "ワサビ醤油がgood♥簡単切るだけ、和えるだけ。相性抜群！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "１個"
+        },
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１,５"
+        },
+        {
+            "name": "わさび",
+            "quantity": "２センチ"
+        }
+    ],
+    "recipeInstructions": [
+        "わさびと醤油を混ぜておきます",
+        "トマトとアボカドをお好きなように切ります",
+        "１で混ぜておいたわさびと醤油に切ったトマトとアボカドを加え、軽く混ぜ合わして完成"
+    ],
+    "cookTime": null,
+    "recipe_id": "2412763",
+    "advice": "和える前にわさびと醤油を良く混ぜること。",
+    "history": "アボカドが大好きなので、思いつきで(^^)",
+    "categories": [
+        "今日のご飯・おかず/サラダ/トマトのサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "トマト",
+        "醤油",
+        "わさび"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/2412763/100x141c/f7ebcc7029b15b4691c8aa31b3c145f1.jpg?u=5603456&p=1385129124"
+}

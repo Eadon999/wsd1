@@ -1,0 +1,58 @@
+{
+    "name": "長芋で水菜が美味しいネバネバサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "春小町"
+    },
+    "image": "https://img.cpcdn.com/recipes/2117864/464x260/67090f20f53cdaa220e72d48aa3f5c80.jpg?u=532341&p=1360855150",
+    "datePublished": "2013-02-15",
+    "description": "長芋のネバネバ効果でごまマヨが水菜に程良く絡んで美味しいサラダです",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "水菜",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "長芋",
+            "quantity": "10㎝"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆すりごま(白)",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆白ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆めんつゆ(2倍濃縮)",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "水菜は洗って水分を良く切る。5㎝位の長さに切る。",
+        "長芋は拍子切りにする。",
+        "☆をボールに入れて混ぜそこに水菜と長芋を入れて粘り気が出るまでよく混ぜる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2117864",
+    "advice": "切って混ぜるだけなので特にありません。調味料はお好みで調節してください。",
+    "history": "長芋が苦手な私がチャレンジしたレシピですが意外に美味しくできたのでレシピアップしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/水菜",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/長芋・山芋"
+    ],
+    "rankings": [
+        "長芋サラダ 4位"
+    ],
+    "related_keywords": [
+        "水菜 山芋"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/2117864/100x141c/bb3c7ae7c0d81e16befb4569ed03eddb.jpg?u=532341&p=1360855150"
+}

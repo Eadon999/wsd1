@@ -1,0 +1,63 @@
+{
+    "name": "大根と昆ん布の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "Hirarinn☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2836554/464x260/8dd62d71ef103ecf96bfa43fddda5d52.jpg?u=10116674&p=1413174128",
+    "datePublished": "2014-10-13",
+    "description": "ほっとする暖かい味わい♪常備の乾物と煮合わせてみました(^_^)/~",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "昆布　(日高昆布など）",
+            "quantity": "15㎝～20㎝位"
+        },
+        {
+            "name": "ごま油(炒め用)",
+            "quantity": "大匙１/2"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "200cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大匙１/2～"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大匙１"
+        },
+        {
+            "name": "味醂　　仕上げに",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "大根は早く煮えるように乱切り、\n昆布ははさみで５ミリ巾にカットする。\n",
+        "鍋にごま油を入れて、熱くなったら昆布を入れ煎り付ける\n大根を加え油をまわす。",
+        "だし汁、砂糖、ひと煮立ちしたら、醤油を入れ、蓋をして中火で煮込む。",
+        "時々返しながら、煮汁が少なくなるまで、煮込む。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2836554",
+    "advice": "だし汁の量は、鍋の大きさで、調節しています。大根の頭が少し出るくらいにしています。人参、キノコ、さつま揚げ、鶏肉、など加えても更に美味しく仕上がります。",
+    "history": "おでん以外に、大根の煮物が食べたかったので。2015.10.15話題入り出来ました(^_-)有り難う御座います。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "昆布",
+        "ごま油",
+        "だし汁"
+    ],
+    "tsukurepo_count": "101",
+    "thumbnail": "https://img.cpcdn.com/recipes/2836554/100x141c/2942e9cf3e7a797537e4c39b1a60ae3e.jpg?u=10116674&p=1413174128"
+}

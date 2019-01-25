@@ -1,0 +1,53 @@
+{
+    "name": "【時短】豆腐とアボカドのグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "Cafe77"
+    },
+    "image": "https://img.cpcdn.com/recipes/3567812/464x260/6b2e22c030e8e2b2f788f03f6b020144.jpg?u=13360571&p=1449851141",
+    "datePublished": "2015-12-12",
+    "description": "思い立ったらすぐ出来ます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹豆腐",
+            "quantity": "300g"
+        },
+        {
+            "name": "アボカド(大)",
+            "quantity": "1個"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは食べやすい大きさに切り、豆腐と同じ器に入れる。",
+        "スプーン等で混ぜ、豆腐を小さく崩す。",
+        "耐熱容器に入れ、塩胡椒する。",
+        "とろけるチーズを上に乗せ、トースターで約5分程焼いて完成。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "3567812",
+    "advice": "トースターではなく、電子レンジで加熱すると更に時短になります。(その場合、焼き目は付きません。ただチーズが溶けるだけです。)",
+    "history": "小腹が空いて。",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/グラタン/豆腐グラタン"
+    ],
+    "rankings": [
+        "アボカドグラタン 2位"
+    ],
+    "related_keywords": [
+        "アボカド",
+        "豆腐 グラタン",
+        "アボカド グラタン",
+        "アボカド 豆腐"
+    ],
+    "tsukurepo_count": "178",
+    "thumbnail": "https://img.cpcdn.com/recipes/3567812/100x141c/f6ffe4379b42129a481424384ea4aadb.jpg?u=13360571&p=1449851141"
+}

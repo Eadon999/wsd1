@@ -1,0 +1,55 @@
+{
+    "name": "こごみの胡麻よごし",
+    "author": {
+        "@type": "Person",
+        "name": "真さん"
+    },
+    "image": "https://img.cpcdn.com/recipes/558545/464x260/0832e184b087c7a2e4d4e9e9b29046aa.jpg?u=211554&p=1214219703",
+    "datePublished": "2008-04-28",
+    "description": "☆話題入り感謝☆あくの少ないこごみは調理も簡単です。春の香り♪ゴマを五分ずりにしました。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "こごみ",
+            "quantity": "２００ｇ（写真の量）"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "大４"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大1.5"
+        },
+        {
+            "name": "出汁",
+            "quantity": "大１"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "こごみは葉っぱやゴミなどを取り除き洗います。塩を入れた熱湯でさっと茹で冷水にとります。",
+        "白ゴマを弱火で炒ってからすり鉢で半ずりにします。砂糖、醤油、出汁を入れもう一すり。水気を切り食べやすい大きさに切ったこごみを和えます。\r\n",
+        "すぐに盛り付けずこのまま少しなじませましょう。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "558545",
+    "advice": "こごみはあくが少ないので食べやすく調理もしやすいです。ゴマを五分ずりでもいい胡麻よごしにしたのはするのが面倒だったためです。普通に胡麻和えにしてくださいな。",
+    "history": "こごみをいただきました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/山菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "こごみ"
+    ],
+    "tsukurepo_count": "79",
+    "thumbnail": "https://img.cpcdn.com/recipes/558545/100x141c/2063988f53bb18d0d90149e9e314b563.jpg?u=211554&p=1214219703"
+}

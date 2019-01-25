@@ -1,0 +1,56 @@
+{
+    "name": "簡単・厚揚げとじゃがいもの煮物",
+    "author": {
+        "@type": "Person",
+        "name": "nathu♫♬"
+    },
+    "image": "https://img.cpcdn.com/recipes/439936/464x260/358fbe039bde7201f80aff4e21bedf24.jpg?u=475536&p=1214217411",
+    "datePublished": "2007-10-09",
+    "description": "おだしをたっぷり吸った厚揚げとほっこりじゃがいもが美味しい♫",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "中2個"
+        },
+        {
+            "name": "厚揚げ",
+            "quantity": "2枚"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "300cc"
+        },
+        {
+            "name": "砂糖・みりん",
+            "quantity": "各　大さじ1と1/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "（人参・インゲンなど",
+            "quantity": "お好みで適宜）"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもは食べやすい大きさに切り、水にさらす。厚揚げは一口大に切り、熱湯を回しかけて油抜きする。",
+        "鍋にだし汁・じゃがいもを入れ火にかける。沸騰したら厚揚げ・砂糖・みりんを入れ5分ほど煮る。",
+        "醤油を回しかけ、お好みの味加減になるまで暫く煮る。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "439936",
+    "advice": "人参・インゲンは彩りに入れたのでなくても。あまり触らずじっくり煮てください。余裕があればじゃがいもは面取りしてください。",
+    "history": "おでんのじゃがいもと厚揚げの組み合わせが好き。煮物にしたら家族にも好評でした♫♬ ",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ じゃがいも",
+        "じゃがいも 厚揚げ 煮物"
+    ],
+    "tsukurepo_count": "313",
+    "thumbnail": "https://img.cpcdn.com/recipes/439936/100x141c/6b9a0ee1635863ddc618ee3223ee3e06.jpg?u=475536&p=1214217411"
+}

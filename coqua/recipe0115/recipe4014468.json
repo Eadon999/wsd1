@@ -1,0 +1,73 @@
+{
+    "name": "豚とズッキーニの濃厚炒め",
+    "author": {
+        "@type": "Person",
+        "name": "さざなみ太夫"
+    },
+    "image": "https://img.cpcdn.com/recipes/4014468/464x260/5ecb37ed70c366772a4d2d2e6143c11f.jpg?u=4609610&p=1470703189",
+    "datePublished": "2016-08-09",
+    "description": "ズッキーニをしっかりメインにしました。ご飯も進みます。",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "豚肉(薄切り)",
+            "quantity": "150g"
+        },
+        {
+            "name": "ズッキーニ",
+            "quantity": "1/2本"
+        },
+        {
+            "name": "卵",
+            "quantity": "2個"
+        },
+        {
+            "name": "☆オイスターソース",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "☆中華スープの素",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "☆水",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "炒め用油",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンに油を入れ熱し、荒めの炒り卵を作る。",
+        "１は取り出しておく。",
+        "ズッキーニは4mm程度の厚さに切る。豚肉も一口大に切る。",
+        "☆の材料を合わせておく。",
+        "油を敷いたフライパンで中火で３を炒める。",
+        "５に４を加え混ぜてさっと炒めたら最後に卵を戻しさっと混ぜたら完成。お好みで白ごまを飾る。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4014468",
+    "advice": "卵は細かいスクランブルにしないこと。調味料を入れたら焦げやすいので注意して仕上げる。糸唐辛子を飾ると本格的に見えますよ。",
+    "history": "ズッキーニをメインにしてごはんもお酒も進むようにしました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/ズッキーニ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚肉",
+        "ズッキーニ",
+        "卵",
+        "オイスターソース"
+    ],
+    "tsukurepo_count": "9",
+    "thumbnail": "https://img.cpcdn.com/recipes/4014468/100x141c/82fde92533ca9c1bba887b4f0c360c46.jpg?u=4609610&p=1470703189"
+}

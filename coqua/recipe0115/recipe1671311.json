@@ -1,0 +1,62 @@
+{
+    "name": "★簡単にもう一品♪もやしナムル",
+    "author": {
+        "@type": "Person",
+        "name": "nani cafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/1671311/464x260/9dcf90246b138fa0bb7cb9224ffabfc9.jpg?u=3636052&p=1326377019",
+    "datePublished": "2012-01-12",
+    "description": "安く、簡単に後１品を♪ついつい箸が伸びちゃいます(^-^)v",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "・もやし",
+            "quantity": "１／２袋"
+        },
+        {
+            "name": "・きゅうり",
+            "quantity": "１／３本"
+        },
+        {
+            "name": "・ハム",
+            "quantity": "３枚"
+        },
+        {
+            "name": "＊ごま油",
+            "quantity": "小さじ２〜"
+        },
+        {
+            "name": "＊ポン酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "＊砂糖",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "・白ゴマ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "ハム、きゅうりは千切りにする。もやしは湯通しする。",
+        "茹でたもやしの水気を切り冷ましたらきゅうり、ハムと＊を入れて混ぜ合わす。",
+        "器に盛り白ゴマを振ったら完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1671311",
+    "advice": "",
+    "history": "もやしが余ってたので",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "きゅうり",
+        "ハム",
+        "ごま油"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1671311/100x141c/df4bcb441c69ef01556d8ed26b9ef502.jpg?u=3636052&p=1326377019"
+}

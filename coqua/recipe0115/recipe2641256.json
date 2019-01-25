@@ -1,0 +1,71 @@
+{
+    "name": "ひじきと切干し大根の煮物",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2641256/464x260/94f7a9f39e50733c90516a5807a510f0.jpg?u=3900353&p=1400908472",
+    "datePublished": "2014-05-24",
+    "description": "定番乾物の組み合わせ。",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "ひじき",
+            "quantity": "乾燥12g"
+        },
+        {
+            "name": "切干し大根",
+            "quantity": "乾燥30g"
+        },
+        {
+            "name": "人参",
+            "quantity": "50g"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2+小さじ1"
+        },
+        {
+            "name": "出汁",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ1/2"
+        }
+    ],
+    "recipeInstructions": [
+        "ひじきと切干し大根は軽く洗ってから、ぬるま湯で戻す。切干し大根のもどし汁は捨てない。人参は千切り。",
+        "水気を切ったひじきをフライパンで乾煎りする。酒、砂糖、醤油大さじ1を順に加える。",
+        "水気を軽く切った切干し大根と人参を加える。醤油大さじ1、切干し大根のもどし汁、出汁を加えてしばらく煮る。",
+        "最後に、醤油小さじ1、みりん、ごま油を加える。"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "2641256",
+    "advice": "一度で味付けしない。",
+    "history": "定番の常備菜、初めて一緒に煮てみました。なぜ今までやらなかったのか不思議です。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/ひじき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ひじき",
+        "切干し大根",
+        "人参",
+        "酒"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/2641256/100x141c/6b43b02bccd52053e2c5397cd88ad1ab.jpg?u=3900353&p=1400908472"
+}

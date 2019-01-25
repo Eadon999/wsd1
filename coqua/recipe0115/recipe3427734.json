@@ -1,0 +1,73 @@
+{
+    "name": "秋鮭の南蛮漬け",
+    "author": {
+        "@type": "Person",
+        "name": "Mariko”"
+    },
+    "image": "https://img.cpcdn.com/recipes/3427734/464x260/f85e639564274e157ce0b1a34ca532c9.jpg?u=9255968&p=1443341918",
+    "datePublished": "2015-09-27",
+    "description": "秋鮭をカラッと揚げてマリネ液に浸します。作り置きして冷蔵庫で冷やしても美味！",
+    "recipeYield": "２～３人分",
+    "recipeIngredient": [
+        {
+            "name": "秋鮭",
+            "quantity": "300g"
+        },
+        {
+            "name": "玉ねぎ(中)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "人参(中)",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "油",
+            "quantity": "適量"
+        },
+        {
+            "name": "A 酢",
+            "quantity": "大さじ４"
+        },
+        {
+            "name": "A 薄口醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "A みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "A 砂糖",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "・玉ねぎは櫛形に薄く切る。\n・人参は1cm幅の薄い短冊に切る。\n\n",
+        "ボウルに、Aを混ぜ合わせてマリネ液を作り、切った玉ねぎ、人参を浸す。",
+        "秋鮭は食べやすい大きさに切り、片栗粉をまぶす。",
+        "揚げ油を１８０℃に熱して、秋鮭を揚げ、マリネ液に漬ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3427734",
+    "advice": "冷蔵庫で２～３日保存できます。作り置きのおかずとして重宝します。",
+    "history": "今までに色々な魚の南蛮漬けを作りました。秋鮭でも試したところ、とても美味しくできました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/鮭・サーモン"
+    ],
+    "rankings": [
+        "鮭の南蛮漬け 10位"
+    ],
+    "related_keywords": [
+        "秋鮭",
+        "玉ねぎ",
+        "人参",
+        "片栗粉"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/3427734/100x141c/b1ee0e460a0785bdb85d43cb3dd09913.jpg?u=9255968&p=1443341918"
+}

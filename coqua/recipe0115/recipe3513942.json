@@ -1,0 +1,53 @@
+{
+    "name": "酢レモン牡蠣",
+    "author": {
+        "@type": "Person",
+        "name": "Cafe77"
+    },
+    "image": "https://img.cpcdn.com/recipes/3513942/464x260/570b4285c9e2adb6c516045df56ced3d.jpg?u=13360571&p=1447372997",
+    "datePublished": "2015-11-13",
+    "description": "酢とレモンを一緒に使うと風味が変わります。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "生牡蠣(生食用)",
+            "quantity": "140g位"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "小葱",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "生牡蠣を優しく洗い、ザルなどに上げておく。",
+        "酢・レモン果汁・醤油を混ぜておく。",
+        "2に水気を切った生牡蠣を入れてなじませ、お好みでネギをかけて完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3513942",
+    "advice": "新鮮で美味しい生牡蠣さえあれば、特にコツはありません。",
+    "history": "酢牡蠣にレモンを加えたら美味しかったという。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/貝類/牡蠣"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牡蠣 酢",
+        "生牡蠣 レモン",
+        "生牡蛎"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3513942/100x141c/43d5aa816d016ad947993726640516ce.jpg?u=13360571&p=1447372997"
+}

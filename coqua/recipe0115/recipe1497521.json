@@ -1,0 +1,65 @@
+{
+    "name": "わかめときゅうりのゴマたっぷりサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "JessieMom"
+    },
+    "image": "https://img.cpcdn.com/recipes/1497521/464x260/5930c6920870e36bc2ae35cc01647720.jpg?u=2142891&p=1310740827",
+    "datePublished": "2011-07-15",
+    "description": "火を使わないので、涼しくできます。冷蔵庫に寝かせても、味がなじんで、かつ冷たく美味しくいただけます。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "乾燥わかめ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "1本"
+        },
+        {
+            "name": "白ゴマ（飾り）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "ゴマ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "酢（ビネガー）",
+            "quantity": "大さじ１/2"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "わかめは水に入れて戻し、水気を切っておく。",
+        "きゅうりは斜め薄切りにして、塩（ひとつまみ）を入れて混ぜる。",
+        "ドレッシングの材料を混ぜ合わせる。",
+        "１，２，３を混ぜ合わせる。",
+        "４を皿に盛って、ゴマをふる。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1497521",
+    "advice": "冷蔵庫で冷やすと味がなじんでより美味しいです。",
+    "history": "作り易くて、美味しくて、お気に入りです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/きゅうり",
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/海藻/わかめ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥わかめ",
+        "きゅうり",
+        "白ゴマ",
+        "塩"
+    ],
+    "tsukurepo_count": "104",
+    "thumbnail": "https://img.cpcdn.com/recipes/1497521/100x141c/9b359b95b07779fac02e7170de4766d9.jpg?u=2142891&p=1310740827"
+}

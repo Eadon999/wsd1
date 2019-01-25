@@ -1,0 +1,59 @@
+{
+    "name": "しらたきだけの♡簡単♡ピリ辛炒め♡",
+    "author": {
+        "@type": "Person",
+        "name": "キョク"
+    },
+    "image": "https://img.cpcdn.com/recipes/420808/464x260/c6a8849c254090e20f83efebb1a74f00.jpg?u=42283&p=1214217040",
+    "datePublished": "2007-08-24",
+    "description": "しらたきだけで酒の肴を♪夕飯のあと一品にも大活躍ですヽ(*’-^*)。 ",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "白滝（しらたき）",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小１"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "○砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "○醤油",
+            "quantity": "小２"
+        },
+        {
+            "name": "○豆板醤",
+            "quantity": "小４分の１～お好みで"
+        }
+    ],
+    "recipeInstructions": [
+        "しらたきは水から茹でる。適当に切る。",
+        "ごま油で炒めて、酒振る。○で味付けして炒りつける。",
+        "出来上がりです（♡´　｀♡）"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "420808",
+    "advice": "冷やしてもイケます（*ﾉｪﾟ）♡ ",
+    "history": "白滝を常備しているので、おかずが足りない時に作っていますヽ( ´￢`)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき",
+        "その他/限られた食材で工夫/食材ひとつでおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "白滝",
+        "ごま油",
+        "酒",
+        "砂糖"
+    ],
+    "tsukurepo_count": "235",
+    "thumbnail": "https://img.cpcdn.com/recipes/420808/100x141c/328ca4880ba5e03e8c8c87eb8515588e.jpg?u=42283&p=1214217040"
+}

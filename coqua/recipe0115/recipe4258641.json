@@ -1,0 +1,55 @@
+{
+    "name": "小松菜と豚肉のにんにく醤油炒め",
+    "author": {
+        "@type": "Person",
+        "name": "ミコおばちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4258641/464x260/f6b1c68a4eb15a973989c72035cfe57b.jpg?u=2894472&p=1482835069",
+    "datePublished": "2016-12-27",
+    "description": "定番の炒め物。作りおきのにんにく醤油で味付け。美味しい。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "100g"
+        },
+        {
+            "name": "豚肉(しゃぶしゃぶ用)",
+            "quantity": "100g"
+        },
+        {
+            "name": "塩コショウ",
+            "quantity": "2ｇ"
+        },
+        {
+            "name": "にんにく醤油",
+            "quantity": "大2"
+        },
+        {
+            "name": "炒め油",
+            "quantity": "大2"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はよく洗って、適当な大きさに切っておきます。",
+        "フライパンに油を少し入れ、豚肉をしっかりと炒めます。\n\nこの時に、塩、こしょうをします。",
+        "2に1を入れ、さっと炒めます。\n\n仕上げににんにく醤油スを絡めて、完成。",
+        "お皿に盛り付けます。\n\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "4258641",
+    "advice": "炒めるだけ。にんにく醤油が決め手です。",
+    "history": "小松菜があったので、お肉と一緒に炒めました。にん醤油は自家製です。美味しかったです。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "豚肉",
+        "塩コショウ",
+        "にんにく醤油"
+    ],
+    "tsukurepo_count": "3",
+    "thumbnail": "https://img.cpcdn.com/recipes/4258641/100x141c/be5e3877654211b83d987af5500a0823.jpg?u=2894472&p=1482835069"
+}

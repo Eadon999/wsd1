@@ -1,0 +1,58 @@
+{
+    "name": "マグロのアラde唐揚げ",
+    "author": {
+        "@type": "Person",
+        "name": "パルフェ"
+    },
+    "image": "https://img.cpcdn.com/recipes/310334/464x260/a28b1e0d7bcbc77219db45390a8cde93.jpg?u=61922&p=1214214299",
+    "datePublished": "2006-12-14",
+    "description": "スーパーで目に付く激安のアラ、煮物や汁物にすることが多いけど、いまいち・・・と思いません？唐揚げにすれば臭みもなく、柔らかく、スジさえもうま味に変わります☆",
+    "recipeYield": "2～3人分",
+    "recipeIngredient": [
+        {
+            "name": "マグロのアラ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "生姜（すりおろし）",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "小麦粉（または片栗粉)",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アラは食べやすい大きさに切っておく。　　　　　　　　　　ボールに醤油、酒、生姜を入れて混ぜ、マグロを加えからませてしばらく漬け込む。",
+        "30～1時間ほど漬け込んで味が染みたら水気を切り、小麦粉をまぶして衣をつける。",
+        "熱した油でカラッと揚げる。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "310334",
+    "advice": "物によって臭みが違うので気になったり、魚嫌いの場合はにんにくのすりおろしやカレー粉で下味を付けるといいです☆",
+    "history": "マグロのアラが安かったので☆",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/マグロ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "マグロのアラ 唐揚げ",
+        "あら 唐揚げ",
+        "まぐろ あら",
+        "マグロ　すじ"
+    ],
+    "tsukurepo_count": "17",
+    "thumbnail": "https://img.cpcdn.com/recipes/310334/100x141c/65c408da29228a9b7ce423428953d2c9.jpg?u=61922&p=1214214299"
+}

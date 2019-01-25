@@ -1,0 +1,74 @@
+{
+    "name": "しめじともやしの中華風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Ａ１５１＝監督"
+    },
+    "image": "https://img.cpcdn.com/recipes/2547268/464x260/f365f12535458be30aa95ec620ba8ee2.jpg?u=3271487&p=1395035964",
+    "datePublished": "2014-03-19",
+    "description": "ヘルシーなサブおかずに　からしを効かせて大人風味の味",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "しめじ",
+            "quantity": "1/2パック"
+        },
+        {
+            "name": "もやし",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "薄切りハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "5～6本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小2"
+        },
+        {
+            "name": "胡麻油",
+            "quantity": "小2"
+        },
+        {
+            "name": "酢",
+            "quantity": "大1/2"
+        },
+        {
+            "name": "味の素",
+            "quantity": "少々"
+        },
+        {
+            "name": "からし",
+            "quantity": "小1/2弱"
+        }
+    ],
+    "recipeInstructions": [
+        "材料です",
+        "しめじは石づきを取り除いて小分けにします",
+        "ハムは面倒でも一枚ずつはがして細切りにします（ほぐれやすい）",
+        "万能ねぎは５cmぐらいの長さに切ります",
+        "調味料を全部混ぜます",
+        "しめじ　もやし　万能ねぎの順番にさっと茹でます",
+        "茹で上がったら熱いうちに調味料に混ぜ冷蔵庫で冷やしたら出来上がり♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2547268",
+    "advice": "特にありませんが、からしはお好みでもっと入れても美味しいですよ",
+    "history": "しめじが余っていたから",
+    "categories": [
+        "今日のご飯・おかず/サラダ/中華風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しめじ",
+        "もやし",
+        "薄切りハム",
+        "万能ねぎ"
+    ],
+    "tsukurepo_count": "24",
+    "thumbnail": "https://img.cpcdn.com/recipes/2547268/100x141c/f5de67c0908a3fd1d7e75a3e413dabbb.jpg?u=3271487&p=1395035964"
+}

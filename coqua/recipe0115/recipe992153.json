@@ -1,0 +1,78 @@
+{
+    "name": "小松菜が1束食べられる～小松菜のうま炒め",
+    "author": {
+        "@type": "Person",
+        "name": "みきドンママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/992153/464x260/8270320bfa93261d4f400287208e0a35.jpg?u=1109634&p=1277437819",
+    "datePublished": "2009-12-17",
+    "description": "ご飯がすすむうま炒め。子供には短めに切るとモリモリ食べます！",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "しめじ",
+            "quantity": "1パック"
+        },
+        {
+            "name": "赤のパプリカ",
+            "quantity": "1/4個"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "すった生姜",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●顆粒鶏ガラスープのもと",
+            "quantity": "小さじ1弱"
+        },
+        {
+            "name": "●オイスターソース",
+            "quantity": "大さじ1.5"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "大さじ1＋水（大さじ2）"
+        }
+    ],
+    "recipeInstructions": [
+        "☆野菜を切る \r\n小松菜は5cmくらいのざく切り、しめじは割いておく。パプリカは乱切り。",
+        "☆炒める \r\nフライパンに、ごま油・生姜で香りを出したら野菜を入れ、●の調味料を順に入れ、強火で一気に炒める。",
+        "☆仕上げ\r\n最後に色が変わりやすいパプリカを入れ、水溶き片栗粉でとろみをつける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "992153",
+    "advice": "☆息子は小松菜を2～3cmくらいに切ると食べやすいようでモリモリ食べます。",
+    "history": "旬の小松菜を美味しく食べたくて考えました！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "しめじ",
+        "ごま油",
+        "すった生姜"
+    ],
+    "tsukurepo_count": "93",
+    "thumbnail": "https://img.cpcdn.com/recipes/992153/100x141c/167a9af765123b89ed559578996dc0c2.jpg?u=1109634&p=1277437819"
+}

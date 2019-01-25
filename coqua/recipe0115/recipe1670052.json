@@ -1,0 +1,57 @@
+{
+    "name": "サウザンドレッシング",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1670052/464x260/f09519b9873e164b70e0e22bdc354d8c.jpg?u=2513693&p=1326207677",
+    "datePublished": "2012-01-11",
+    "description": "小エビなどの魚介類や生野菜にぴったりのドレッシングです。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "粒マスタード",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン果汁（又は酢）",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "粗びき黒コショウ",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を全部混ぜて完成です。\n",
+        "プリプリ小エビが美味しい「小エビのカクテルサラダ」のレシピはこちらです↓↓\nレシピID:1670061"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1670052",
+    "advice": "レモン果汁の代用として「酢」でも出来ますが、レモン果汁のほうがさっぱりしていて美味しいです。細かく刻んで水にさらして水気をしぼった玉ねぎを入れても美味しいですよ。",
+    "history": "小エビのサラダが食べたくて調合したドレッシングです。",
+    "categories": [
+        "今日のご飯・おかず/ソース・ドレッシング/サラダドレッシング"
+    ],
+    "rankings": [
+        "サウザンアイランドドレッシング 3位"
+    ],
+    "related_keywords": [
+        "サウザンアイランドドレッシング",
+        "ドレッシング"
+    ],
+    "tsukurepo_count": "71",
+    "thumbnail": "https://img.cpcdn.com/recipes/1670052/100x141c/6ef255b254e5736fe5f346cadb2adc3c.jpg?u=2513693&p=1326207677"
+}

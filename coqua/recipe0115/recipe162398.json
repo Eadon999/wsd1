@@ -1,0 +1,73 @@
+{
+    "name": "すき焼き風★おいしい肉豆腐",
+    "author": {
+        "@type": "Person",
+        "name": "ことあや☆ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/162398/464x260/d48a0794a48b92014c986263dbc10da7.jpg?u=53744&p=1214211252",
+    "datePublished": "2004-09-29",
+    "description": "すきやき風の味付けがたまらないおいしさ♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "1丁"
+        },
+        {
+            "name": "牛こまぎれ肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "万能ねぎ",
+            "quantity": "少々"
+        },
+        {
+            "name": "えのき",
+            "quantity": "1/2袋"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "1カップ"
+        },
+        {
+            "name": "酒",
+            "quantity": "1/4カップ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大１．５"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大２"
+        }
+    ],
+    "recipeInstructions": [
+        "豆腐は６～８等分に切り、牛肉は大きなものは食べやすい大きさにする。",
+        "玉ねぎは1cm幅くらいに切る。万能ねぎはさっと洗ってみじんぎりに。",
+        "鍋に油を熱し、牛肉を炒め、色が変わってきたくらいでだし汁、酒を入れてアクを取りながら煮る。",
+        "３に砂糖、醤油を加えて、豆腐、玉ねぎ、えのきを入れて弱火で１０分煮る。",
+        "器に盛って、ねぎを散らしてできあがり★",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "162398",
+    "advice": "",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "牛こまぎれ肉",
+        "玉ねぎ",
+        "万能ねぎ"
+    ],
+    "tsukurepo_count": "39",
+    "thumbnail": "https://img.cpcdn.com/recipes/162398/100x141c/5b4c7d8a66b99212f3428b4a701e13f5.jpg?u=53744&p=1214211252"
+}

@@ -1,0 +1,79 @@
+{
+    "name": "もやしの中華和え",
+    "author": {
+        "@type": "Person",
+        "name": "マカオ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1569537/464x260/7eadcbaf17f3cb37c28edb3f75948c7e.jpg?u=210796&p=1315887885",
+    "datePublished": "2011-09-13",
+    "description": "冷蔵庫で少し置いておくと味がしみて美味しいです★",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "もやし",
+            "quantity": "１袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "１本"
+        },
+        {
+            "name": "にんじん",
+            "quantity": "1/4本"
+        },
+        {
+            "name": "ハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "★しょう油",
+            "quantity": "小４"
+        },
+        {
+            "name": "★酢",
+            "quantity": "小４"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "小２"
+        },
+        {
+            "name": "★ごま油",
+            "quantity": "小２"
+        },
+        {
+            "name": "★ラー油",
+            "quantity": "小1/2"
+        },
+        {
+            "name": "★いりごま",
+            "quantity": "小２"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "にんじん、きゅうり、ハムは千切りにする。\nもやしとにんじんは一緒に茹でる。",
+        "茹で上がったら、水で冷やし、手でぎゅっと絞り、水が切れたらボールに入れる。きゅうり、ハムも加えさっと混ぜる。",
+        "★印の調味料を全部合わせ、もやしとよく混ぜあわせる。最後に塩で味を整えれば出来上がり。",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "1569537",
+    "advice": "",
+    "history": "家の定番です★",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "もやし",
+        "きゅうり",
+        "にんじん",
+        "ハム"
+    ],
+    "tsukurepo_count": "85",
+    "thumbnail": "https://img.cpcdn.com/recipes/1569537/100x141c/9345dfa58006e86f243f9189ea8caf34.jpg?u=210796&p=1315887885"
+}

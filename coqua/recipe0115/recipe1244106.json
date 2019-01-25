@@ -1,0 +1,53 @@
+{
+    "name": "【農家のレシピ】冷やし梅シソうどん",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/1244106/464x260/57529cf31a68eaa72b52e23b123f6baa.jpg?u=2513693&p=1285584054",
+    "datePublished": "2010-09-27",
+    "description": "夏ばてした時に最適な冷やしうどんです。 みじん切りの青シソと梅干のさっぱりとした香りと、ゴマの食感が食欲をそそります",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "うどん",
+            "quantity": "２玉"
+        },
+        {
+            "name": "青しそ",
+            "quantity": "4枚"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "２つ"
+        },
+        {
+            "name": "ゴマ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "ぶっかけだし",
+            "quantity": "300ｃｃ"
+        }
+    ],
+    "recipeInstructions": [
+        "青シソはみじん切り、梅干は種を取り除き果肉を包丁で細かくたたく\r\n",
+        "ぶっかけだしに①とゴマを入れ冷たく冷やしたうどんにかけて頂きます。\r\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1244106",
+    "advice": "余っただしは冷たいご飯にかけても美味しいですよ★乾麺のうどんや、冷凍うどんのほうがコシがあっておいしいです♪ ",
+    "history": "夏ばてしている時によく作ってます☆",
+    "categories": [
+        "今日のご飯・おかず/麺/うどん/アレンジうどん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "うどん",
+        "青しそ",
+        "梅干し",
+        "ゴマ"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/1244106/100x141c/b31547898d6e4919c210f33102d4c035.jpg?u=2513693&p=1285584054"
+}

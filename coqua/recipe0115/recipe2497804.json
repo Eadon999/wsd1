@@ -1,0 +1,67 @@
+{
+    "name": "大根・あぶりうす揚げとトマトのサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "SP♪"
+    },
+    "image": "https://img.cpcdn.com/recipes/2497804/464x260/170fd79244eb5d9980abbf0bd469a7e4.jpg?u=7402421&p=1430091923",
+    "datePublished": "2014-02-10",
+    "description": "食物繊維たっぷりな和風サラダ♪",
+    "recipeYield": "3人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "120g"
+        },
+        {
+            "name": "うす揚げ（油揚げ）",
+            "quantity": "40g"
+        },
+        {
+            "name": "トマト",
+            "quantity": "180g"
+        },
+        {
+            "name": "レタス",
+            "quantity": "40g"
+        },
+        {
+            "name": "ゆかり",
+            "quantity": "少々"
+        },
+        {
+            "name": "レモン果汁",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "白だし",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "うす揚げは、焼網の上で軽くあぶってから、細切りにして、そのまま冷ます。",
+        "大根は千切りにする。\nトマトは食べやすく切って、レタスは、手でちぎる。",
+        "器にレタスを敷き、トマト・うす揚げ・大根を盛りつけて、ゆかりをぱらっと。",
+        "ポン酢をかけて、いただきま～す♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "2497804",
+    "advice": "最初に、うす揚げをあぶっておいて、しっかり冷めてから、他の野菜たちと合わせます。",
+    "history": "ずいぶん前に行った居酒屋で食べた大根サラダを、アレンジしてみました。（っていうか、大根とうす揚げ以外は、何が入ってたのか、覚えてないんですけど。）",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/大根"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "うす揚げ",
+        "トマト",
+        "レタス"
+    ],
+    "tsukurepo_count": "8",
+    "thumbnail": "https://img.cpcdn.com/recipes/2497804/100x141c/8777afeaf2182b0ce5e36977947ec482.jpg?u=7402421&p=1430091923"
+}

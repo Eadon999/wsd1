@@ -1,0 +1,55 @@
+{
+    "name": "とっても簡単カニカマサラダ♪",
+    "author": {
+        "@type": "Person",
+        "name": "naru＊café"
+    },
+    "image": "https://img.cpcdn.com/recipes/763872/464x260/f1340ac21390eb862d5dcde5795ee0d6.jpg?u=1158856&p=1237449344",
+    "datePublished": "2009-03-19",
+    "description": "とっても簡単、材料はカニカマときゅうり、これだけ！！！",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "カニカマ",
+            "quantity": "一袋"
+        },
+        {
+            "name": "きゅうり",
+            "quantity": "２本"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大５"
+        },
+        {
+            "name": "塩　コショウ",
+            "quantity": "適量"
+        },
+        {
+            "name": "塩(塩もみ用）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "材料を用意。",
+        "きゅうりは塩もみし、水分が出てきたら、水にさらし、硬く絞っておく。 \r\nカニカマはさいておく。",
+        "調味料を全部入れ、合える。",
+        "出来上がり（*^_^*）"
+    ],
+    "cookTime": null,
+    "recipe_id": "763872",
+    "advice": "きゅうりを３本にしてもOKです(*^^)v きゅうりを、塩もみしないと、きゅうりから、水分が出すぎて、ベチャベチャになって、味が薄くなってしまいます。 コショウ（ブラックペッパー）を多めにした方が、美味しいですよ。 ",
+    "history": "子供の頃から、母が作ってくれた思い出の味",
+    "categories": [
+        "今日のご飯・おかず/サラダ/マヨネーズ系のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "カニカマ",
+        "きゅうり",
+        "マヨネーズ",
+        "塩コショウ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/763872/100x141c/14f82be5044d65dd9be249be945bde87.jpg?u=1158856&p=1237449344"
+}

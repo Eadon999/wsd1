@@ -1,0 +1,61 @@
+{
+    "name": "しらたきのキンピラ",
+    "author": {
+        "@type": "Person",
+        "name": "るぅたろぅ"
+    },
+    "image": "https://img.cpcdn.com/recipes/444965/464x260/dc555278bfa8f660c6b7ee718fe99ced.jpg?u=383269&p=1214217514",
+    "datePublished": "2007-10-17",
+    "description": "急ぎでもしっかり味で美味しく作れます。",
+    "recipeYield": "幅１０cm×高さ１０cmの器",
+    "recipeIngredient": [
+        {
+            "name": "しらたき",
+            "quantity": "２２０g"
+        },
+        {
+            "name": "人参",
+            "quantity": "１本"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "いりゴマ(白)",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "少々"
+        },
+        {
+            "name": "サラダ油orごま油",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "しらたきは食べやすい長さに切り、鍋に多めの水とともに入れて煮立たせる。その後ザルにとる。",
+        "人参は細切りにする。フライパンにサラダ油(orごま油)大さじ１を熱し、人参・しらたきの順に加え炒める。",
+        "砂糖・醤油で調味し、味が馴染んだところ(味見)で　いりゴマ・七味唐辛子を加えザッと混ぜて火を止める。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "444965",
+    "advice": "全工程　火加減：中火",
+    "history": "今夜のおかずにもう１品 作れないかと冷蔵庫の中をあさった。手に取った２つの食材で思いつきで作ったもの。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/糸こんにゃく・しらたき"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらたき",
+        "白滝 きんぴら",
+        "糸こんにゃく きんぴら"
+    ],
+    "tsukurepo_count": "594",
+    "thumbnail": "https://img.cpcdn.com/recipes/444965/100x141c/ef6207136dc1ddfa8f7087ae67fcc58d.jpg?u=383269&p=1214217514"
+}

@@ -1,0 +1,47 @@
+{
+    "name": "とまとグラタン",
+    "author": {
+        "@type": "Person",
+        "name": "くりっこ"
+    },
+    "image": "https://img.cpcdn.com/recipes/32994/464x260/83495e27af100d05d8835a723b236124.jpg?u=9619&p=1214208783",
+    "datePublished": "2001-10-26",
+    "description": "とっても簡単でめちゃめちゃおいしい！！是非作って見て！",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "２個"
+        },
+        {
+            "name": "溶ろけるチーズ",
+            "quantity": "２つかみ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "グラタン皿にバターを塗る。トマトは１ｃｍ厚さにスライスする。",
+        "グラタン皿にトマト、塩こしょう、マヨネーズという順序で重ねていき、一番上にチーズを振りかける。あれば、パン粉、バターを散らす。",
+        "温めておいたトースターでチーズが溶けて、焦げ目が付くくらいまで焼いて出来あがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "32994",
+    "advice": "面倒でなければ皮を剥いてください",
+    "history": "",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": [
+        "トマトグラタン 9位"
+    ],
+    "related_keywords": [
+        "トマト",
+        "溶ろけるチーズ",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/32994/100x141c/abd95f6d312716b5a8b39b1d2b1d01ea.jpg?u=9619&p=1214208783"
+}

@@ -1,0 +1,64 @@
+{
+    "name": "味噌おでん",
+    "author": {
+        "@type": "Person",
+        "name": "umemodoki"
+    },
+    "image": "https://img.cpcdn.com/recipes/673987/464x260/221c08451fe0f2f5c1e299c40ae464d8.jpg?u=748964&p=1358141583",
+    "datePublished": "2008-10-30",
+    "description": "厚切りコンニャクに、味噌ダレをた～っぷり載せたおでんです。 甘辛の味噌ダレが、美味しいんですよね～♪",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "コンニャク",
+            "quantity": "1袋(350g)"
+        },
+        {
+            "name": "★水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "★赤味噌",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ4"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "白すりごま",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "★印の材料を鍋に入れて火にかけ、煮詰める。仕上げに、ごまを加え、同量の水で溶いた片栗粉を回しかけ、軽くトロミをつける。",
+        "コンニャクを大きめの三角形に切り、湯がいて、ザルにあげる。お湯を切り、温かいうちにお皿に盛り、味噌ダレを添えていただく。",
+        "お試し頂いた皆様、有り難うございます♪\nタレが自慢の味噌おでんを是非どうぞ！\n2011.11.21",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "673987",
+    "advice": "味噌ダレは、焦がさないように、弱火で煮詰めて下さい。冷めると固まりますので、気持ちゆるめの仕上げで丁度良いです。",
+    "history": "寒くなると、毎年作ってます。",
+    "categories": [
+        "今日のご飯・おかず/海藻・乾物・こんにゃく/こんにゃく"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "味噌おでん"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/673987/100x141c/2cf263b45076644c127c93ce4bdaa110.jpg?u=748964&p=1358141583"
+}

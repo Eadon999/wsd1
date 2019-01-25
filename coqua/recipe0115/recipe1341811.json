@@ -1,0 +1,59 @@
+{
+    "name": "★しみしみ★粉ふきいも",
+    "author": {
+        "@type": "Person",
+        "name": "miitanto"
+    },
+    "image": "https://img.cpcdn.com/recipes/1341811/464x260/97361898f42d0d48c111d742cac0f57e.jpg?u=2691535&p=1296122404",
+    "datePublished": "2011-01-27",
+    "description": "味がしっかりしみておいしいです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "じゃがいも",
+            "quantity": "2コ"
+        },
+        {
+            "name": "●水",
+            "quantity": "1/2カップ"
+        },
+        {
+            "name": "●バター",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "みそ",
+            "quantity": "小さじ1.5"
+        },
+        {
+            "name": "ごま（またはすりごま）",
+            "quantity": "小さじ2"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいもを適当な大きさに切り、●と一緒に鍋に入れてふたをして強火にかける。",
+        "煮立ったら火を弱めみそを溶き入れる。\nふたをして中火で7分くらい。",
+        "じゃがいもに火が通ったらふたを開けて水分を軽く飛ばす。",
+        "器にもりつける。\nごまをすり鉢ですってかける。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1341811",
+    "advice": "火が通る前に水分がなくなったら熱湯を足して！",
+    "history": "じゃがいもの味噌汁を進化させました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/じゃがいも"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "じゃがいも",
+        "水",
+        "バター",
+        "砂糖"
+    ],
+    "tsukurepo_count": "27",
+    "thumbnail": "https://img.cpcdn.com/recipes/1341811/100x141c/96de14284720103c945566f4c8a25f1a.jpg?u=2691535&p=1296122404"
+}

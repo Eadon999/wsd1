@@ -1,0 +1,48 @@
+{
+    "name": "塩分ゼロ♪シャキッとヤーコンのピクルス",
+    "author": {
+        "@type": "Person",
+        "name": "satorisu"
+    },
+    "image": "https://img.cpcdn.com/recipes/3499263/464x260/3d8dc0da246e6629fb572ae0490d1463.jpg?u=9718883&p=1446733979",
+    "datePublished": "2015-11-05",
+    "description": "ヤーコンのいただき方に困ったことはありませんか？そんな時には塩分ゼロで美味しいピクルスはいかがでしょう♡",
+    "recipeYield": "ヤーコン１本分",
+    "recipeIngredient": [
+        {
+            "name": "ヤーコン",
+            "quantity": "１本（約２５０ｇ）"
+        },
+        {
+            "name": "＊酢",
+            "quantity": "７０ｃｃ"
+        },
+        {
+            "name": "＊ピンクペッパー",
+            "quantity": "小さじ１／２"
+        },
+        {
+            "name": "＊ローリエ",
+            "quantity": "２枚"
+        }
+    ],
+    "recipeInstructions": [
+        "ヤーコンはお好みの大きさに切ります。",
+        "ジップロックやお好みのタッパーに１を入れ、＊を入れて一晩漬けます。\n（ローリエは半分にちぎります）",
+        "酢のみでも美味しいですが、ローリエを加えると香りが良いですよ♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3499263",
+    "advice": "特にありません。",
+    "history": "家庭菜園のヤーコン。食べるのに困りお酢に漬けたら美味しい♡スパイスと漬ければ箸休めやおもてなしにもぴったりです♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/ヤーコン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ヤーコンピクルス",
+        "減塩 ピクルス"
+    ],
+    "tsukurepo_count": "1",
+    "thumbnail": "https://img.cpcdn.com/recipes/3499263/100x141c/8e41ef16163a9375dd5eaaaecda6bd27.jpg?u=9718883&p=1446733979"
+}

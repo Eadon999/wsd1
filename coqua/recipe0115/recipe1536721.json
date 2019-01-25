@@ -1,0 +1,65 @@
+{
+    "name": "とろ～り✿ハムマヨ卵焼き",
+    "author": {
+        "@type": "Person",
+        "name": "ユカまんま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1536721/464x260/a7f7eac8ca584b289c342810256321ed.jpg?u=906057&p=1314707344",
+    "datePublished": "2011-08-31",
+    "description": "ハムの旨味たっぷり味わえる卵焼きの中にとろ～りマヨネーズ♫お弁当や朝食、おつまみなど家族みんなが笑顔になる卵焼きです✿",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "卵",
+            "quantity": "３個"
+        },
+        {
+            "name": "ロースハム",
+            "quantity": "４枚"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大２～３"
+        },
+        {
+            "name": "粉末だし",
+            "quantity": "小１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "水",
+            "quantity": "大１"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大１"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        }
+    ],
+    "recipeInstructions": [
+        "ハムを５㎜角に切ってボールに入れる。",
+        "１にマヨネーズ以外の材料を入れ、フォークで良く混ぜる。\nフライパンを熱し、油（分量外）を敷く。",
+        "１／４量流し入れ、真ん中より少し上の部分にマヨネーズをのせる。\n巻く。\n",
+        "また薄く油を敷き、１／４量を流し入れ巻く。を繰り返す。",
+        "冷めてから切り分けて、出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "1536721",
+    "advice": "３で卵を手前から巻く方は、真ん中より下にマヨネーズをのせて下さいね。おつまみメインの場合は、マヨネーズに辛子や一味をプラスするのも美味しいです。",
+    "history": "我が家の大好物、卵焼き♫ボリューミーでご飯に合う味にしたくて考えました！",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/卵焼き"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ハム 卵焼き"
+    ],
+    "tsukurepo_count": "56",
+    "thumbnail": "https://img.cpcdn.com/recipes/1536721/100x141c/85cbbed1a6885758cf285b1e2d59013f.jpg?u=906057&p=1314707344"
+}

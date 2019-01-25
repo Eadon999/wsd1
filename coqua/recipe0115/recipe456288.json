@@ -1,0 +1,50 @@
+{
+    "name": "だいこんとカニカマのマヨサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "Shetlander"
+    },
+    "image": "https://img.cpcdn.com/recipes/456288/464x260/c37de934fcde85d62c9e7968da0d9425.jpg?u=582637&p=1214217726",
+    "datePublished": "2007-11-08",
+    "description": "簡単でおいしいマヨネーズ味のサラダです。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "大根",
+            "quantity": "1/3本"
+        },
+        {
+            "name": "カニかまぼこ",
+            "quantity": "６本くらい"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "大根を千切りもしくは短冊切りにして、塩もみをしてしばらくおく。",
+        "カニかまぼこをさいて、よく水切りした大根とマヨネーズで和えるだけ！",
+        ""
+    ],
+    "cookTime": null,
+    "recipe_id": "456288",
+    "advice": "大根を塩もみして、しっかり水を切って、しんなりさせておくのがポイント。",
+    "history": "大根を洋風で食べたいなと思ったので、マヨネーズで和えました。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/練り物/かにかま"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "大根",
+        "カニかまぼこ",
+        "マヨネーズ",
+        "塩"
+    ],
+    "tsukurepo_count": "50",
+    "thumbnail": "https://img.cpcdn.com/recipes/456288/100x141c/23a7e9e1535c64b1ce1f59f75bb895e0.jpg?u=582637&p=1214217726"
+}

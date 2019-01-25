@@ -1,0 +1,51 @@
+{
+    "name": "あと一品に！アボカドの鰹節しょうゆマヨ",
+    "author": {
+        "@type": "Person",
+        "name": "kagety"
+    },
+    "image": "https://img.cpcdn.com/recipes/3597253/464x260/ae61fadc3618de19e2c596ad10db43f8.jpg?u=2551240&p=1451478859",
+    "datePublished": "2015-12-30",
+    "description": "2017.6.5 話題入り感謝！アボカドは洋食だけでなく和食にも！あと一品欲しい時のお手軽メニューです♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アボカド",
+            "quantity": "1個"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "鰹節",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドは皮と種を取り除き、1㎝角に切る",
+        "☆を混ぜ合わせアボカドを入れて軽く和える",
+        "最後に鰹節を散らして出来上がり",
+        "2017.12.21\nクックパッドニュースに掲載されました。ありがとうございます！"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "3597253",
+    "advice": "醤油とマヨネーズは自分好みに調整してくださいね！",
+    "history": "和食メニューを作ってた時に緑の野菜がないことに気づき、急遽あったアボカドで作ったのがきっかけ。簡単で栄養価も高くごはんにもよく合います！おつまみにも！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド",
+        "マヨネーズ",
+        "醤油",
+        "鰹節"
+    ],
+    "tsukurepo_count": "33",
+    "thumbnail": "https://img.cpcdn.com/recipes/3597253/100x141c/cb8f327d5ea9f42910cbf6ad71917ad6.jpg?u=2551240&p=1451478859"
+}

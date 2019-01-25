@@ -1,0 +1,45 @@
+{
+    "name": "レタスだけサラダ☆",
+    "author": {
+        "@type": "Person",
+        "name": "あいぱらりん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2646024/464x260/7cf945fdd6bda2252ecfe27aa5455c9d.jpg?u=271627&p=1401195718",
+    "datePublished": "2014-05-27",
+    "description": "ちぎって混ぜるだけの簡単サラダです☆レタス以外の野菜でもいけます^m^クレソルはいい仕事しますね～♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "レタス",
+            "quantity": "半玉"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "大１～２"
+        },
+        {
+            "name": "クレイジーソルト",
+            "quantity": "お好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "洗ったレタスの水を切り、食べやすい大きさにちぎります。",
+        "ボウルにレタスを入れ、オリーブオイルを混ぜます。",
+        "クレイジーソルトをお好きなだけかけて混ぜます。\n出来上がり！\n早っ！！！"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "2646024",
+    "advice": "先にオリーブオイルを混ぜた方が、クレイジーソルトがレタスに絡まるような気がします。",
+    "history": "冷蔵庫の野菜室にレタスしかない！時間もない！ってな時に、思いつきで作ってみたら美味しく出来ました^m^",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/レタス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "レタス",
+        "オリーブオイル",
+        "クレイジーソルト"
+    ],
+    "tsukurepo_count": "59",
+    "thumbnail": "https://img.cpcdn.com/recipes/2646024/100x141c/6b6cddb4275a95bb4a1820825b0e9292.jpg?u=271627&p=1401195718"
+}

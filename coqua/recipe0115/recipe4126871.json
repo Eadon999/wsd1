@@ -1,0 +1,55 @@
+{
+    "name": "超簡単☆時短おかず☆ナスの甘酢炒め",
+    "author": {
+        "@type": "Person",
+        "name": "Omochiii★"
+    },
+    "image": "https://img.cpcdn.com/recipes/4126871/464x260/d894e24942b7e65caf85dfa832e975d5.jpg?u=13188588&p=1476799932",
+    "datePublished": "2016-10-18",
+    "description": "カンタン酢のおかげで簡単に美味しく一品できちゃいます(ノ∀`)是非お試しください♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ナス(大きめ)",
+            "quantity": "1本"
+        },
+        {
+            "name": "小麦粉",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "きび糖",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "カンタン酢",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ2〜4"
+        }
+    ],
+    "recipeInstructions": [
+        "ナスは乱切りにし、袋に入れたら小麦粉を加えてシャカシャカ振って全体にまぶす",
+        "フライパンに多めの油をひいたら弱めの中火で1を炒め、揚げ焼きにする",
+        "油が回って軽くしんなりしてきたら、きび糖→醤油→カンタン酢の順に加えて、全体にしっかりと絡ませたら完成♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "4126871",
+    "advice": "ナスは軽く焼き色がつくくらいがちょうど良いです♪あとは調味料を加えて絡ませるだけ。カンタン酢がない場合は普通のお酢でも。気持ち少なめの方がいいかもしれません(^^;;",
+    "history": "いただいたナスの消費に、家にある調味料でさっと作ってみました(^^)",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/なす"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スピードおかず"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/4126871/100x141c/5ca3a428869f4f0240d98734678ce6ea.jpg?u=13188588&p=1476799932"
+}

@@ -1,0 +1,73 @@
+{
+    "name": "絹さやとソーセージの玉子炒め",
+    "author": {
+        "@type": "Person",
+        "name": "はぁとれすとらん"
+    },
+    "image": "https://img.cpcdn.com/recipes/2228596/464x260/9cdeeeff65784910013efc7b99d52958.jpg?u=3900353&p=1368987930",
+    "datePublished": "2013-05-20",
+    "description": "絹さやと相性バツグンのバターで炒めました。",
+    "recipeYield": "2〜3人分",
+    "recipeIngredient": [
+        {
+            "name": "絹さや",
+            "quantity": "50g"
+        },
+        {
+            "name": "ソーセージ",
+            "quantity": "60g"
+        },
+        {
+            "name": "卵",
+            "quantity": "3個"
+        },
+        {
+            "name": "A砂糖",
+            "quantity": "小さじ2"
+        },
+        {
+            "name": "A塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "A醤油",
+            "quantity": "小さじ1/2くらい"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "10〜15g"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "黒胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "絹さやは筋をとる。ソーセージは斜め薄切り。",
+        "卵にAを加えて混ぜる。",
+        "フライパンにサラダ油をひき、2を炒める。少し硬めのスクランブルエッグ状態で取り出す。",
+        "フライパンでソーセージを炒める。バターを加え、絹さやを炒める。絹さやに火が入ったら卵を戻し、塩、黒胡椒をふる。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "2228596",
+    "advice": "お弁当の場合は卵にしっかり火をいれます。ソーセージは良く炒める。絹さやは炒め過ぎない。",
+    "history": "お弁当のおかず。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹さや",
+        "きぬさや 卵炒め"
+    ],
+    "tsukurepo_count": "64",
+    "thumbnail": "https://img.cpcdn.com/recipes/2228596/100x141c/fb6140f66e463747119fdcd65e80ffe2.jpg?u=3900353&p=1368987930"
+}

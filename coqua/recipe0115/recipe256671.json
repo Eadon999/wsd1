@@ -1,0 +1,79 @@
+{
+    "name": "なすとトマトのスパゲティ",
+    "author": {
+        "@type": "Person",
+        "name": "キャンン"
+    },
+    "image": "https://img.cpcdn.com/recipes/256671/464x260/75f91e517fe55409106714294d09f02c.jpg?u=249609&p=1214213068",
+    "datePublished": "2006-05-27",
+    "description": "トマト缶で簡単にスパゲティを作ってみませんか？",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "スパゲティ",
+            "quantity": "１人前"
+        },
+        {
+            "name": "なす",
+            "quantity": "１本"
+        },
+        {
+            "name": "たまねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "トマトホール缶",
+            "quantity": "１缶"
+        },
+        {
+            "name": "にんにく",
+            "quantity": "１片"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "少々"
+        },
+        {
+            "name": "塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "少々"
+        },
+        {
+            "name": "白ワイン",
+            "quantity": "適量"
+        },
+        {
+            "name": "パルメザンチーズ",
+            "quantity": "好きなだけ"
+        }
+    ],
+    "recipeInstructions": [
+        "スパゲティはゆでておく。なすは、薄く輪切りに。たまねぎは、みじん切りに。にんにくは、薄切りorみじん切りにしておく。\r\n\r\n",
+        "なすを油で揚げて器に取り出しておく。 \r\nフライパンにオリーブオイルを敷き、にんにく・たまねぎを炒める。",
+        "炒まったらトマトホイール缶を入れ、砂糖・塩・ブラックペッパー・白ワインを入れ煮込む。\r\n",
+        "ゆであがったスパゲティを④のソース内に入れて混ぜ込む。ナスも入れましょう。 \r\n器に盛り付け、パルメザンチーズをふりかけたらできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "256671",
+    "advice": "ツナも入れると更においしくなりますよ。",
+    "history": "スパゲティを１kgも買ってしまったので…",
+    "categories": [
+        "今日のご飯・おかず/パスタ・グラタン/トマト系パスタ/トマトソースパスタ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "スパゲティ",
+        "なす",
+        "たまねぎ",
+        "トマトホール缶"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/256671/100x141c/62a6898bdb6fec3016aa6c759432a5fb.jpg?u=249609&p=1214213068"
+}

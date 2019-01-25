@@ -1,0 +1,57 @@
+{
+    "name": "アスパラとささみのごまマヨ和え",
+    "author": {
+        "@type": "Person",
+        "name": "お天気ママちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/1449297/464x260/f838d480786bd6c2bfcb9e8321a705e5.jpg?u=437874&p=1306224608",
+    "datePublished": "2011-05-24",
+    "description": "アスパラの食感とささみのうまみが嬉しいごま和え。隠し味にマヨネーズを加えました。我が家の定番メニューです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "アスパラ",
+            "quantity": "４本"
+        },
+        {
+            "name": "鶏ささみ",
+            "quantity": "２本"
+        },
+        {
+            "name": "A.酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "A.塩",
+            "quantity": "小さじ1/4"
+        },
+        {
+            "name": "B.すりごま",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "B.マヨネーズ",
+            "quantity": "大さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "ささみは、包丁の背を使って筋をとり除き耐熱容器に入れる。\nAをふりかけ、蓋をしてレンジで１分加熱。（500W）",
+        "アスパラは硬い根本を３～４センチ切り落とし、斜めにカットする。",
+        "①にアスパラを加え、蓋をしてレンジで２分加熱。（500W）",
+        "粗熱が取れたらささみを手でさいて、Bを加えてあえる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1449297",
+    "advice": "アスパラのほかに、いんげんやコーンでも作れます。ごま油やマスタードなど、アレンジを楽しんでくださいね。",
+    "history": "気象会社のホームページで、連載用に作りました。そのほかのアスパラ料理は下記に掲載されています。『お天気レシピ』http://recipe.bioweather.net/4koma/index.php",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アスパラガス"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アスパラ",
+        "鶏ささみ"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/1449297/100x141c/64b3a45192bb64bfb936285d5bff2b22.jpg?u=437874&p=1306224608"
+}

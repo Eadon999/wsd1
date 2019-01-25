@@ -1,0 +1,62 @@
+{
+    "name": "お弁当の常備菜に！牛肉のしぐれ煮",
+    "author": {
+        "@type": "Person",
+        "name": "memuchan"
+    },
+    "image": "https://img.cpcdn.com/recipes/1912131/464x260/47522bd164886f411612d0f326ad3c98.jpg?u=1266641&p=1344517678",
+    "datePublished": "2012-08-09",
+    "description": "我が家のお弁当の常備菜！保存もきいて美味しいです～",
+    "recipeYield": "6",
+    "recipeIngredient": [
+        {
+            "name": "牛肉（薄切り）",
+            "quantity": "200g"
+        },
+        {
+            "name": "しょうが",
+            "quantity": "1かけ"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "酒",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ3"
+        }
+    ],
+    "recipeInstructions": [
+        "牛肉は食べやすい大きさに切っておく。",
+        "しょうがは千切りにする。",
+        "鍋に、１の牛肉としょうがを入れ、醤油、砂糖、酒、みりんも入れて中火にかけ菜箸で混ぜながら水分がなくなるまで炒り煮にする。",
+        "仕上げにごまをふる。",
+        "2015年5月17日、クックパッドニュースで取り上げて頂きました！\n有難うございます〜"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "1912131",
+    "advice": "火が強すぎると焦げやすいので、しっかり混ぜながら汁気がすっかりなくなるまで炒り煮してください。",
+    "history": "もう何年も前から、お弁当用に…と作ってました。我が家のお弁当用の常備菜です。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉",
+        "その他/お弁当/作り置き・冷凍できるおかず"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "牛肉 弁当"
+    ],
+    "tsukurepo_count": "163",
+    "thumbnail": "https://img.cpcdn.com/recipes/1912131/100x141c/ab7c0a9f80b49d45b88d103b60ee2aed.jpg?u=1266641&p=1344517678"
+}

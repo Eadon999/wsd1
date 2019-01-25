@@ -1,0 +1,74 @@
+{
+    "name": "ツナマヨ春巻き♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/4099475/464x260/80eabd1b71cdc2db3ba7c0f75339a070.jpg?u=9552524&p=1475314775",
+    "datePublished": "2016-10-01",
+    "description": "めっちゃ簡単♡サクサク春巻き♪お酒のおともにいかがですか(^^)",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "春巻きの皮",
+            "quantity": "4枚"
+        },
+        {
+            "name": "ツナ缶(小)",
+            "quantity": "８０g"
+        },
+        {
+            "name": "ゆで玉子",
+            "quantity": "1個"
+        },
+        {
+            "name": "キャベツ（葉）",
+            "quantity": "3枚"
+        },
+        {
+            "name": "☆マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆あらびき黒胡椒",
+            "quantity": "たっぷり"
+        },
+        {
+            "name": "♥水溶き小麦粉",
+            "quantity": "適量"
+        },
+        {
+            "name": "揚げ油",
+            "quantity": "適量"
+        },
+        {
+            "name": "レモン",
+            "quantity": "2切れ"
+        }
+    ],
+    "recipeInstructions": [
+        "汁気を切ったツナ缶・潰したゆで卵・粗めの千切りにしたキャベツと☆をボールに入れてサックリ混ぜ合わせる。",
+        "春巻きの皮に乗せ手前・両端の順にたたみます。",
+        "くるくるっと巻いて巻き終わりを♥で止める。高温の油でカラッと揚げる。",
+        "器に盛りレモンを添えます。（好みで塩を振っても）"
+    ],
+    "cookTime": null,
+    "recipe_id": "4099475",
+    "advice": "巻いてから放置すると水分が出てくるので巻いたらすぐに揚げてね(^^)",
+    "history": "特価のキャベツを２玉買ったら冷蔵庫に入らず(‾▽‾)只今キャベツ消費に必死のパッチで励んでいます！",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/ツナ缶"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "春巻き キャベツ ツナ",
+        "春巻き ツナ たまご",
+        "春巻き ツナマヨ"
+    ],
+    "tsukurepo_count": "2",
+    "thumbnail": "https://img.cpcdn.com/recipes/4099475/100x141c/c43cf396fc81073a636a331add8793b4.jpg?u=9552524&p=1475314775"
+}

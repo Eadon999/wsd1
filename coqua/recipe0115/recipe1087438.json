@@ -1,0 +1,67 @@
+{
+    "name": "圧力鍋で骨まで食べれる☆いわしの梅干し煮",
+    "author": {
+        "@type": "Person",
+        "name": "こまつた"
+    },
+    "image": "https://img.cpcdn.com/recipes/1087438/464x260/3dba8cee4b74364201dce8409191fd7f.jpg?u=1615239&p=1270179362",
+    "datePublished": "2010-04-07",
+    "description": "いわしは骨が多く食べるには・・でも圧力鍋で調理をすると骨まで食べられます☆梅干しと一緒に煮ることで臭みもなく美味しいです",
+    "recipeYield": null,
+    "recipeIngredient": [
+        {
+            "name": "いわし",
+            "quantity": "５本"
+        },
+        {
+            "name": "ショウガ",
+            "quantity": "１かけ"
+        },
+        {
+            "name": "梅干し",
+            "quantity": "３個"
+        },
+        {
+            "name": "★醤油",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★みりん",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★砂糖",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "★酒",
+            "quantity": "１５０ｃ"
+        },
+        {
+            "name": "★ほんだし",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "イワシは頭・内臓・\r\nしっぽを落とし水でよく洗います。",
+        "圧力鍋に★の調味料とイワシ・梅干し・ショウガを入れ \r\n１５～２０分加圧し 自然放出します",
+        "蓋を開け水分が多い時は、少し煮詰めて出来上がりです。\n簡単でゴメンナサイ（笑）"
+    ],
+    "cookTime": "PT30M",
+    "recipe_id": "1087438",
+    "advice": "ショウガ・梅干しを入れることでしょうかね（笑）一緒にブログもアップしてます。よかったらご覧くださいね☆http://ameblo.jp/mint0323/",
+    "history": "我が家では圧力鍋といえば魚料理です。ほとんどのお魚は骨まで食べれます。",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/いわし",
+        "その他/調理器具/圧力鍋/圧力鍋で煮込み"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "いわし",
+        "ショウガ",
+        "梅干し",
+        "醤油"
+    ],
+    "tsukurepo_count": "140",
+    "thumbnail": "https://img.cpcdn.com/recipes/1087438/100x141c/0476e88a53221841c8aecfd859f175d3.jpg?u=1615239&p=1270179362"
+}

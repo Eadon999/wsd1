@@ -1,0 +1,55 @@
+{
+    "name": "クミン風味のキャロット・ラペ ",
+    "author": {
+        "@type": "Person",
+        "name": "ミシャトモ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1364574/464x260/5608c70f11dc0a71f91abbc63cd2f9a2.jpg?u=919319&p=1312439694",
+    "datePublished": "2011-02-18",
+    "description": "フランス発祥の人参サラダをちょっとオリエンタル?にしました。クミンと人参って凄く合います！そして…おそろしいほど簡単！",
+    "recipeYield": "3～4人分",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "中2本"
+        },
+        {
+            "name": "●塩",
+            "quantity": "適量"
+        },
+        {
+            "name": "●こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "●クミンシード",
+            "quantity": "小さじ2/3～1杯"
+        },
+        {
+            "name": "●レモン汁",
+            "quantity": "大さじ2杯"
+        },
+        {
+            "name": "●オリーブオイル",
+            "quantity": "小さじ2杯"
+        }
+    ],
+    "recipeInstructions": [
+        "人参を千切りにします。",
+        "ボールで1)と●印の材料を良く混ぜ合わせたら、人参がしんなりするまで冷蔵庫などで寝かせて出来上がりです。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1364574",
+    "advice": "出来たてよりも、少し時間が経ってからの方が味が馴染んで美味しいです。クミンシードの代わりにクミンパウダーでもOKです。その場合は↑の分量より少なめに♪",
+    "history": "あるガーデンレストランで、人参のラペと、クミンの利いた人参ドレッシングを別々に食べました。その時にふたつを合わせたら簡単で美味しいよなぁ～なんて思い、作ったら大当たりでした。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/洋風のサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "キャロット ラペ クミン",
+        "クミンシード"
+    ],
+    "tsukurepo_count": "65",
+    "thumbnail": "https://img.cpcdn.com/recipes/1364574/100x141c/f18e3745e4ef254cb0f7bb8dbfe4b1b7.jpg?u=919319&p=1312439694"
+}

@@ -1,0 +1,77 @@
+{
+    "name": "豆腐とミンチのカレーうま煮",
+    "author": {
+        "@type": "Person",
+        "name": "まま蔵"
+    },
+    "image": "https://img.cpcdn.com/recipes/3718236/464x260/fe4507ce8c73d17744cca167fa24a3d0.jpg?u=2124468&p=1456651253",
+    "datePublished": "2016-02-28",
+    "description": "麻婆豆腐が食べたかったが調味料をそろえるのは面倒(^_^;)カレー味でもいいんじゃ？",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "絹ごし豆腐",
+            "quantity": "400g"
+        },
+        {
+            "name": "合挽きミンチ",
+            "quantity": "100g"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "生姜(みじん切り)",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "カレールー",
+            "quantity": "1皿分"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ１/5"
+        },
+        {
+            "name": "こしょう",
+            "quantity": "適宜"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "水",
+            "quantity": "200㏄"
+        },
+        {
+            "name": "刻みネギ",
+            "quantity": "適宜"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンでミンチを炒める。\nミンチから脂が出るのでオイルは不要です。",
+        "ミンチの色が変わってきたら生姜を投入。生姜が香り付いてきたら玉ねぎを投入。塩コショウを加えて炒める。",
+        "玉ねぎが透き通ってきたら水を加えて煮立たせる。",
+        "いったん火を止めてカレールーを投入。",
+        "カレールーが溶けたら豆腐を投入。火をつけて豆腐が温まる程度に煮る。\n最後に醤油を加え、全体がなじめば出来上がり。",
+        "刻みネギを散らしてどうぞ。"
+    ],
+    "cookTime": null,
+    "recipe_id": "3718236",
+    "advice": "",
+    "history": "麻婆豆腐が食べたいが、調味料をそろえるのが面倒。。。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/挽き肉/あい挽き肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "絹ごし豆腐",
+        "合挽きミンチ",
+        "玉ねぎ",
+        "生姜"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/3718236/100x141c/771c8e84b513eb6a7707be254b8c46c4.jpg?u=2124468&p=1456651253"
+}

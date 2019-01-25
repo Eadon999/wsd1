@@ -1,0 +1,50 @@
+{
+    "name": "☆砂肝のペッパーマヨ炒め☆",
+    "author": {
+        "@type": "Person",
+        "name": "ふたごっち"
+    },
+    "image": "https://img.cpcdn.com/recipes/305849/464x260/2b840fefc95c0260d4484e76375bf608.jpg?u=330642&p=1214214189",
+    "datePublished": "2006-11-29",
+    "description": "とっても簡単♪ジャーっと炒めてマヨを絡めるだけです！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "砂肝",
+            "quantity": "２００ｇ"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "あらびき黒胡椒",
+            "quantity": "多め"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "砂肝は硬くて白い部分を取る。",
+        "食べやすいように切り込みを入れて小さめの一口大に切る。\r\n軽く塩をふる。",
+        "フライパンにサラダ油を入れて熱し、砂肝を入れて炒める。\r\n仕上げにマヨネーズを入れて絡めたら火を止め黒胡椒をたっぷり振って出来上がり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "305849",
+    "advice": "強火で一気に仕上げます。",
+    "history": "旦那に教えてもらいました。普段は鉄板焼きをするときに、ホイルで舟形にケースを作り鉄板の片隅でジュージューしてます。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/モツ/砂肝"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "砂肝",
+        "マヨネーズ",
+        "あらびき黒胡椒",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/305849/100x141c/c12180ce7e80d9d86576395435404c98.jpg?u=330642&p=1214214189"
+}

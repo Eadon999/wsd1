@@ -1,0 +1,54 @@
+{
+    "name": "簡単美味★ごろごろ人参の胡麻和え",
+    "author": {
+        "@type": "Person",
+        "name": "かずえ亭２号"
+    },
+    "image": "https://img.cpcdn.com/recipes/1697627/464x260/21c8708f0b113c97d44b6bd46d59ba71.jpg?u=3665840&p=1333960280",
+    "datePublished": "2012-02-06",
+    "description": "✿2012.5.3話題入り感謝✿にんじんの甘味と胡麻の風味が絶妙！！ゴロゴロ感があって食べごたえあり！5分で完成♡",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "にんじん（中くらいの大きさ）",
+            "quantity": "1本"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小１"
+        },
+        {
+            "name": "みりん",
+            "quantity": "小１"
+        },
+        {
+            "name": "すりごま",
+            "quantity": "小２"
+        }
+    ],
+    "recipeInstructions": [
+        "人参を1口大にカットし、５００ｗレンジで3分～4分チン。",
+        "調味料をすべてまぜ、チンして柔らかくなったにんじんと和えるだけ(^_^)",
+        "♫あたたかくても、冷めても美味しいですよ。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1697627",
+    "advice": "",
+    "history": "野菜の胡麻和えが大好きで人参でも作りました★",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "にんじん",
+        "醤油",
+        "砂糖",
+        "みりん"
+    ],
+    "tsukurepo_count": "96",
+    "thumbnail": "https://img.cpcdn.com/recipes/1697627/100x141c/8bba3f0be565e82e7cad9e2ea56aee8e.jpg?u=3665840&p=1333960280"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "これは便利✿とうもろこしの保存と食べ方✿",
+    "author": {
+        "@type": "Person",
+        "name": "りるみな"
+    },
+    "image": "https://img.cpcdn.com/recipes/1940516/464x260/e5072704386e9202080e985d7f7fb433.jpg?u=1339527&p=1404012972",
+    "datePublished": "2012-09-03",
+    "description": "簡単に保存と加熱が出来ます。※余りにも見苦しいのでTOP写真変えました。",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "とうもろこし",
+            "quantity": "1本"
+        }
+    ],
+    "recipeInstructions": [
+        "たくさん頂いたとうもろこし。。冷凍庫に皮ごとﾎﾟﾝ！",
+        "食べる時は、皮のままﾚﾝｼﾞで10分加熱。それから5分間そのまま蒸します。\n完成！熱々なので気を付けて食べてください。",
+        "※冷凍しない場合の目安は6分です。\nご参考まで。"
+    ],
+    "cookTime": "PT5M",
+    "recipe_id": "1940516",
+    "advice": "食べるまで皮をむかないこと。※つくれぽ頂いたみなさんﾗｯﾌﾟされてる方もいらっしゃるようですが、そのまんまでもOK！ですよ。",
+    "history": "たくさんあるとうもろこし…なんとかしたくって。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/とうもろこし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トウモロコシの保存法"
+    ],
+    "tsukurepo_count": "54",
+    "thumbnail": "https://img.cpcdn.com/recipes/1940516/100x141c/e6379c818de02b978d709ce2b2430bb2.jpg?u=1339527&p=1404012972"
+}

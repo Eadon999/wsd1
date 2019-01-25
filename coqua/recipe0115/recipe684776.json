@@ -1,0 +1,66 @@
+{
+    "name": "簡単！ホタテ飯♪",
+    "author": {
+        "@type": "Person",
+        "name": "bvivid"
+    },
+    "image": "https://img.cpcdn.com/recipes/684776/464x260/7e801d085f880d17c7a0cd65b82c4b9a.jpg?u=921598&p=1337724628",
+    "datePublished": "2008-11-18",
+    "description": "ホタテの旨みと磯の香りが堪らない☆モリモリ食べられる優しい味付けの炊き込みご飯に♡大葉の香りもポイントで美味しいですよ♪",
+    "recipeYield": "4人分",
+    "recipeIngredient": [
+        {
+            "name": "帆立貝柱",
+            "quantity": "400g"
+        },
+        {
+            "name": "●水",
+            "quantity": "600cc"
+        },
+        {
+            "name": "●酒",
+            "quantity": "50cc"
+        },
+        {
+            "name": "●しょう油",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "●砂糖",
+            "quantity": "大さじ1と1/2"
+        },
+        {
+            "name": "●みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "●かつおだしの素",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "米",
+            "quantity": "3合"
+        },
+        {
+            "name": "大葉（千切り）",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にホタテと●の材料を入れて煮立ってから中火で5分ほど煮込んで冷ましておく。",
+        "研いだ米と、1を炊飯器に入れてセットして炊き上がったら出来上がりです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "684776",
+    "advice": "ベビーホタテでも美味しく出来ますよ♪",
+    "history": "ほたて飯を作ってみました！",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホタテ飯"
+    ],
+    "tsukurepo_count": "10",
+    "thumbnail": "https://img.cpcdn.com/recipes/684776/100x141c/9af16d59f396d24b5473ecfa09a7f658.jpg?u=921598&p=1337724628"
+}

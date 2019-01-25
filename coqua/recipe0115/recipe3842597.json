@@ -1,0 +1,40 @@
+{
+    "name": "ホエーでグラッセ♪",
+    "author": {
+        "@type": "Person",
+        "name": "nosso"
+    },
+    "image": "https://img.cpcdn.com/recipes/3842597/464x260/f196c80db769d5762fe51e0c41bfe067.jpg?u=747019&p=1462446724",
+    "datePublished": "2016-05-05",
+    "description": "ホエーでコトコト、爽やかグラッセ♪(*´∇｀*)ノンシュガーなのに、ほんのり甘いよ♪",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "人参",
+            "quantity": "作りたいだけ"
+        },
+        {
+            "name": "ホエー",
+            "quantity": "かぶるくらい"
+        }
+    ],
+    "recipeInstructions": [
+        "人参の皮を剥いて、適当な厚みに切る。",
+        "小鍋に人参と、ホエーをかぶるくらい入れて煮る。",
+        "人参が柔らかくなって、ホエーが煮詰まったらできあがり♪"
+    ],
+    "cookTime": null,
+    "recipe_id": "3842597",
+    "advice": "簡単すぎてありませんな( ‾▽‾)",
+    "history": "なんとなくやってみたら、美味しかった！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/にんじん"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ホエー",
+        "グラッセ バターなし"
+    ],
+    "tsukurepo_count": "29",
+    "thumbnail": "https://img.cpcdn.com/recipes/3842597/100x141c/0d06e23c104e690e2a3328c8b5da88c2.jpg?u=747019&p=1462446724"
+}

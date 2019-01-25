@@ -1,0 +1,59 @@
+{
+    "name": "厚揚げのあまから生姜煮。",
+    "author": {
+        "@type": "Person",
+        "name": "ラビー"
+    },
+    "image": "https://img.cpcdn.com/recipes/245378/464x260/f84a6d3255877ec7090cfa9b1881fb5e.jpg?u=4036&p=1214212805",
+    "datePublished": "2006-03-24",
+    "description": "心からほっとする煮物です。つゆだくでどうぞ。",
+    "recipeYield": "3〜4人分",
+    "recipeIngredient": [
+        {
+            "name": "厚揚げ（絹ごし）",
+            "quantity": "3丁"
+        },
+        {
+            "name": "生姜",
+            "quantity": "20g"
+        },
+        {
+            "name": "だし汁",
+            "quantity": "400cc"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ2〜3"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "厚揚げは一口大に切る。生姜は千切りに。",
+        "鍋にだし汁・醤油・砂糖・みりん・厚揚げ・生姜を入れて火にかける。沸いたら中火にして約10分煮る。",
+        "その後火を止めて冷まし、味を馴染ませる。器に盛り、あれば三つ葉やねぎなどを散らせばできあがり。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "245378",
+    "advice": "たくさん作って常備菜に。　できたてより冷まして味を馴染ませ、再度温めていただくとより美味しいです。",
+    "history": "シンプルな煮物が食べたかったので、お肉などは入れずに厚揚げと生姜だけで作ってみました。",
+    "categories": [
+        "その他/おもてなし料理/おもてなしもう一品/おもてなしの温副菜",
+        "今日のご飯・おかず/たまご・大豆加工品/厚揚げ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "厚揚げ",
+        "生姜",
+        "だし汁",
+        "醤油"
+    ],
+    "tsukurepo_count": "310",
+    "thumbnail": "https://img.cpcdn.com/recipes/245378/100x141c/c89d926af496ac97b9561d9553b9b6d5.jpg?u=4036&p=1214212805"
+}

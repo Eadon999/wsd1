@@ -1,0 +1,50 @@
+{
+    "name": "ポン酢で簡単トマトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "美結のランチタイム"
+    },
+    "image": "https://img.cpcdn.com/recipes/2342999/464x260/7fc8909206368bba63e989d1f479d144.jpg?u=6372338&p=1379027294",
+    "datePublished": "2013-09-13",
+    "description": "あと1品ほしいときに、すぐにできておいしいサラダ、和風でも洋風でもOK",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "2個"
+        },
+        {
+            "name": "青しそ",
+            "quantity": "1枚"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "大さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはざく切り、青シソは千切り",
+        "器にトマトを盛り付け、青シソをちらし\nオリーブオイルとポン酢をかけます。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2342999",
+    "advice": "トマトは冷やしたほうがおいしいです。彩もきれいなので、あと一品というときにささっと作れて便利。青紫蘇をバジルにかえてもgood！",
+    "history": "娘が気に入っている味付けです。トマトをさっぱり食べたい時に",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト",
+        "今日のご飯・おかず/サラダ/トマトのサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "トマト",
+        "青しそ",
+        "オリーブオイル",
+        "ポン酢"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/2342999/100x141c/67001807f087ceee2a758e90c63dc0c5.jpg?u=6372338&p=1379027294"
+}

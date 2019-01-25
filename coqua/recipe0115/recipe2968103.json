@@ -1,0 +1,52 @@
+{
+    "name": "ふわとろ＊鶏むね肉の親子丼",
+    "author": {
+        "@type": "Person",
+        "name": "maria358"
+    },
+    "image": "https://img.cpcdn.com/recipes/2968103/464x260/f176ebdd16b65c1e65b915b7d70541e2.jpg?u=798237&p=1454217754",
+    "datePublished": "2015-01-17",
+    "description": "めんつゆだけ！簡単・節約・鶏むね肉もふわふわでおいしい親子丼です。ランチや夜食にも。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏肉",
+            "quantity": "１枚 (約350g)"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "1/2個"
+        },
+        {
+            "name": "卵",
+            "quantity": "4個"
+        },
+        {
+            "name": "●めんつゆ(3倍濃縮)",
+            "quantity": "50㏄"
+        },
+        {
+            "name": "●水",
+            "quantity": "150cc"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏肉は一口大の大きさに、玉ねぎは薄切りにする。\n卵はときほぐし、●は合わせておく。",
+        "鍋に●を入れ、玉ねぎ、鶏肉の順に入れて火が通るまで煮る。",
+        "卵をまわしかけ、蓋をして10秒程煮る。卵が半熟位になったら火を止める。",
+        "ごはんの上にのせてできあがり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2968103",
+    "advice": "◆卵は半熟程度で火を止めると、お蕎麦屋さんの親子丼みたいにとろり～っとした感じになります。◆めんつゆは3倍濃縮を使用しましたが、めんつゆ＋水）を合わせて200㏄になればOKです。味の好みや鍋の大きさでも多少水分量を調整下さい。",
+    "history": "うちの簡単親子丼です。",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/たまご/アレンジたまご料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "親子丼 簡単 めんつゆ"
+    ],
+    "tsukurepo_count": "31",
+    "thumbnail": "https://img.cpcdn.com/recipes/2968103/100x141c/cd110e1cf4aeb45a48cbd3603170feaf.jpg?u=798237&p=1454217754"
+}

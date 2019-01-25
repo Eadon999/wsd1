@@ -1,0 +1,63 @@
+{
+    "name": "ゴボウ★炊き込み御飯",
+    "author": {
+        "@type": "Person",
+        "name": "ベジベジーナ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1985880/464x260/7d73eac9f4e00e1f4709445ad7344b1e.jpg?u=4558627&p=1349599923",
+    "datePublished": "2012-10-07",
+    "description": "ゴボウを使って炊き込みご飯を作ってみませんか?食べ応えがあり、満腹感を感じやすいのでダイエットにも！？",
+    "recipeYield": "炊飯器3合分の量",
+    "recipeIngredient": [
+        {
+            "name": "お米",
+            "quantity": "2合"
+        },
+        {
+            "name": "乾燥ごぼう(生のごぼう)",
+            "quantity": "40g(220g)"
+        },
+        {
+            "name": "人参の千切り",
+            "quantity": "60g"
+        },
+        {
+            "name": "鶏胸肉",
+            "quantity": "130g"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "ダシ醤油",
+            "quantity": "大さじ3"
+        },
+        {
+            "name": "しょうが(チューブ)",
+            "quantity": "2cmほど"
+        }
+    ],
+    "recipeInstructions": [
+        "乾燥ごぼうを使うのなら、まず乾燥ごぼうを水に20分以上つけて戻します。\n",
+        "ごぼうと人参は千切りに、鶏肉はぶつ切りにしておきます。\nそしてお米をきれいに洗ったら2合分の水を入れます。",
+        "そこに全ての調味料を加え軽く混ぜ合わせあとは炊飯器のスイッチを入れるだけ!!\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1985880",
+    "advice": "できたてに炊飯器のふたを開けた時の香りがたまりませんっっ!!コツはごぼうと人参はだいたい同じぐらいの大きさに千切りをすることで味が均等に染み込みます!!",
+    "history": "ゴボウを使った料理が食べたくて作りましたぁ。。。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/炊き込みご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "乾燥ごぼう 炊き込みご飯"
+    ],
+    "tsukurepo_count": "5",
+    "thumbnail": "https://img.cpcdn.com/recipes/1985880/100x141c/fe20df1f8cba9b3f7288e7bccddf67cd.jpg?u=4558627&p=1349599923"
+}

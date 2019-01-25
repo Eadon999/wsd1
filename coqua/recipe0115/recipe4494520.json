@@ -1,0 +1,55 @@
+{
+    "name": "沢庵入りの菜飯",
+    "author": {
+        "@type": "Person",
+        "name": "coyoyoc"
+    },
+    "image": "https://img.cpcdn.com/recipes/4494520/464x260/1acd2a3a36b21e217ceb7106bc49ff5d.jpg?u=3209667&p=1493270755",
+    "datePublished": "2017-04-27",
+    "description": "緑と黄色が鮮やか♡沢庵の食感がよい菜飯です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "炊きたてご飯",
+            "quantity": "2杯分"
+        },
+        {
+            "name": "沢庵",
+            "quantity": "５ｃｍ"
+        },
+        {
+            "name": "大根やかぶの葉",
+            "quantity": "８０ｇ"
+        },
+        {
+            "name": "ごま",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "塩",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "葉を塩茹でして冷水でしめ、固く水気を絞っておきます。",
+        "茹でた葉と沢庵を細かく刻みます。",
+        "葉、たくわん、ごまを合わせて塩を振りよく混ぜ合わせます。",
+        "炊きたてご飯に混ぜて頂きます。\n\n\n"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "4494520",
+    "advice": "茹でるときは茎を先に茹でてから葉の部分を茹でます。水気はしっかり切ってから刻んでください。おにぎりにしても◎",
+    "history": "主人の好物の菜飯に沢庵を入れてみました。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/炊き込み・まぜご飯/まぜご飯"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "炊きたてご飯",
+        "沢庵",
+        "ごま",
+        "塩"
+    ],
+    "tsukurepo_count": "4",
+    "thumbnail": "https://img.cpcdn.com/recipes/4494520/100x141c/d938bfe71201581bb4472023637c844b.jpg?u=3209667&p=1493270755"
+}

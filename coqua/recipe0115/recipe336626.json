@@ -1,0 +1,60 @@
+{
+    "name": "うちのアボガドの食べ方♪",
+    "author": {
+        "@type": "Person",
+        "name": "あっこりんママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/336626/464x260/1f65028c7bbde3b9399b93d51a335ec5.jpg?u=356251&p=1214214852",
+    "datePublished": "2007-03-13",
+    "description": "アボガドと卵とかつお節が絶妙に美味しいです♪ 簡単に出来てボリュームも満天です。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "アボガド",
+            "quantity": "１個"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "適量"
+        },
+        {
+            "name": "卵",
+            "quantity": "２個"
+        },
+        {
+            "name": "●マヨネーズ",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "●ヨーグルト",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "●醤油",
+            "quantity": "適量"
+        },
+        {
+            "name": "かつお節",
+            "quantity": "１/2パック～"
+        }
+    ],
+    "recipeInstructions": [
+        "硬ゆで卵を作る。\r\nアボガドの皮を剥き１口大に切りレモン汁をふって、お皿に盛り付ける。\r\n",
+        "ゆで卵を下ろし金ですりおろし、塩コショウ（分量外）を適量ふり●を入れあえる。",
+        "アボガドの上に卵を乗せ、かつをぶしふり、醤油を１回しかけて頂く。",
+        "下ろし金で、押すようにすりおろすと、スッゴク滑らかになります。"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "336626",
+    "advice": "わさび、ハニーマスタードをマヨネーズに加えても美味しいです。",
+    "history": "マヨネーズソースだけじゃ物足りなかったんで、かつをぶしをかけたら以外にもマッチ！それからはこの食べ方で食べてます♪",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "アボカド 食べ方"
+    ],
+    "tsukurepo_count": "358",
+    "thumbnail": "https://img.cpcdn.com/recipes/336626/100x141c/69b50d0ab2a296459934aff90ffa3d5e.jpg?u=356251&p=1214214852"
+}

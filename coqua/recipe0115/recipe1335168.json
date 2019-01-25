@@ -1,0 +1,76 @@
+{
+    "name": "簡単♥♡えびマヨ（ふんわり玉子入り）",
+    "author": {
+        "@type": "Person",
+        "name": "梅ミッキー"
+    },
+    "image": "https://img.cpcdn.com/recipes/1335168/464x260/e2f8ebab163bd9bf76a74375008b016f.jpg?u=611631&p=1295617521",
+    "datePublished": "2011-01-24",
+    "description": "えびが少なくても大丈夫♥♡牛乳多めの甘めのソースが、玉子と絡んでボリュームアップ(*´∀`*)ﾉ",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "えび（皮剥き）",
+            "quantity": "１０尾（約１２０ｇ）"
+        },
+        {
+            "name": "玉子",
+            "quantity": "３個"
+        },
+        {
+            "name": "塩",
+            "quantity": "ふたつまみ"
+        },
+        {
+            "name": "料理酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "牛乳",
+            "quantity": "大さじ２"
+        },
+        {
+            "name": "ケチャップ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "レモン汁",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "えびに塩、料理酒を加えてよく揉む。",
+        "片栗粉をまぶす。",
+        "フライパンに油を多めに熱し、えびを揚げ焼きする。\nボールにとりだす。",
+        "フライパンに油を熱し、ふんわり炒り玉子を作る。\nボールにとりだす。",
+        "ボールに、合わせたマヨソースを加えて混ぜ合わせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1335168",
+    "advice": "マヨソース多めなので、他の野菜を混ぜても美味しいです♡´∀`)",
+    "history": "えびが少ない時に量増しに玉子をｉｎしたら、ソースと相性抜群で定番化しました(*´∀`*)ﾉ",
+    "categories": [
+        "今日のご飯・おかず/魚介のおかず/海老"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "えび",
+        "玉子",
+        "塩",
+        "料理酒"
+    ],
+    "tsukurepo_count": "38",
+    "thumbnail": "https://img.cpcdn.com/recipes/1335168/100x141c/ab820d7c039bcd00e99958f9ac561f4c.jpg?u=611631&p=1295617521"
+}

@@ -1,0 +1,59 @@
+{
+    "name": "簡単にぷりっと♪からあげ風鶏の生姜焼き",
+    "author": {
+        "@type": "Person",
+        "name": "MatsCafe"
+    },
+    "image": "https://img.cpcdn.com/recipes/4086318/464x260/6593fd0f91cfd04f982d2667c3c16906.jpg?u=9664115&p=1474641105",
+    "datePublished": "2016-09-24",
+    "description": "ぷりぷりな鶏もも肉が簡単にごはんがすすむ一品に。子供のお弁当に、大人のおつまみに。",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "鶏もも肉",
+            "quantity": "150g"
+        },
+        {
+            "name": "片栗粉",
+            "quantity": "大さじ2ぐらい"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "適量"
+        },
+        {
+            "name": "☆しょうゆ・お酒・みりん",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆ケチャップ",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "☆おろししょうが・砂糖",
+            "quantity": "小さじ1"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉に塩胡椒を振り、もみもみして下味をつける。\n10分ぐらい放置。",
+        "鶏もも肉に片栗粉をまぶす。",
+        "フライパンに多めの油をひき、中火で鶏もも肉を焼く。\n両面。",
+        "☆を混ぜ、フライパンへじゅわーっと。\n少し煮詰めたら完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4086318",
+    "advice": "煮詰め過ぎないように。",
+    "history": "鶏くんが、僕も生姜焼きにしてほしいって。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏もも肉",
+        "片栗粉",
+        "塩胡椒",
+        "ケチャップ"
+    ],
+    "tsukurepo_count": "14",
+    "thumbnail": "https://img.cpcdn.com/recipes/4086318/100x141c/1bbb6d58588c81a652a7cd0121f39857.jpg?u=9664115&p=1474641105"
+}

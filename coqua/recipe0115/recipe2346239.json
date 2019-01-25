@@ -1,0 +1,48 @@
+{
+    "name": "簡単★椎茸のバター焼き",
+    "author": {
+        "@type": "Person",
+        "name": "カジオヤジ"
+    },
+    "image": "https://img.cpcdn.com/recipes/2346239/464x260/685a8adc8ec11f62f566e5bab8a7abd7.jpg?u=4517605&p=1379298559",
+    "datePublished": "2013-09-16",
+    "description": "おつまみに最適！簡単バター焼き",
+    "recipeYield": "2",
+    "recipeIngredient": [
+        {
+            "name": "椎茸",
+            "quantity": "4枚"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "バター",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "醤油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンでサラダ油を熱し、バターを溶かします。",
+        "椎茸を両面焼きます。",
+        "醤油をちょっとたらして完成。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2346239",
+    "advice": "バターに絡ませながら焼いて下さい。",
+    "history": "ささっとおつまみを作ってみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しいたけ バター焼き",
+        "しいたけ バター焼き フライパン"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2346239/100x141c/9d7bf7e5ddc248de8c05452f507ca116.jpg?u=4517605&p=1379298559"
+}

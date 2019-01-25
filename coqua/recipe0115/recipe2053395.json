@@ -1,0 +1,58 @@
+{
+    "name": "レンジで簡単☆中華風蒸し鶏",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2053395/464x260/bf11901b88636578fb8c60a1f574d57e.jpg?u=2513693&p=1355054877",
+    "datePublished": "2012-12-10",
+    "description": "電子レンジだけで作る簡単蒸し鶏。たっぷりのネギを乗せてどうぞ♪",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏ももにく",
+            "quantity": "１枚（約２５０ｇ）"
+        },
+        {
+            "name": "青ねぎ（小口切り）",
+            "quantity": "５０ｇ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大さじ２．５"
+        },
+        {
+            "name": "酢",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ごま油",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏もも肉は１センチ幅に切り、【A】を軽く揉みこみ、耐熱容器に入れラップをし５００ｗで５分加熱する。",
+        "ラップをはずし、青ねぎを乗せ、再度ラップをし３分蒸らして完成。",
+        "器に盛りなおしてもいいし、このまま食卓へだしてもいいね♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2053395",
+    "advice": "鶏肉１００ｇ当たりの加熱時間はレンジ５００ｗで約2分。３００ｇなら約6分。中まで火が通っているか確認してくださいね。",
+    "history": "「冷た～い☆蒸しなす（レシピID1240481）」のたれが蒸し鶏に合いそうなので使ってみたら、想像以上に良く合いました。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏もも肉"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏ももにく",
+        "青ねぎ",
+        "しょうゆ",
+        "酢"
+    ],
+    "tsukurepo_count": "90",
+    "thumbnail": "https://img.cpcdn.com/recipes/2053395/100x141c/1efb56455e5244a1af468354b8c412a6.jpg?u=2513693&p=1355054877"
+}

@@ -1,0 +1,61 @@
+{
+    "name": "小松菜とツナのサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "ユチキ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1788612/464x260/133816474dd3146f2997ff9ee09240a5.jpg?u=499861&p=1335100435",
+    "datePublished": "2012-04-22",
+    "description": "茹で菜を使った美味しいサラダです♪",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "60g"
+        },
+        {
+            "name": "ツナ",
+            "quantity": "1缶"
+        },
+        {
+            "name": "トマト",
+            "quantity": "60g"
+        },
+        {
+            "name": "☆うすくちしょうゆ",
+            "quantity": "小さじ1/2"
+        },
+        {
+            "name": "☆酢",
+            "quantity": "小さじ1"
+        },
+        {
+            "name": "☆塩",
+            "quantity": "少々"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜はゆでて3cm長さに切る。\nトマトは一口大に切る。",
+        "☆を混ぜ合わせ1.2を加えて和えたら完成！"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1788612",
+    "advice": "お好みで七味唐辛子を入れても美味しいです♫材料は何でもOK！ほうれん草とかでも美味しいですよ～♪",
+    "history": "茹で菜が沢山有ったので☆",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ツナを使ったサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "ツナ",
+        "トマト",
+        "うすくちしょうゆ"
+    ],
+    "tsukurepo_count": "26",
+    "thumbnail": "https://img.cpcdn.com/recipes/1788612/100x141c/8d762062fde9f3c0e849e360eef7d105.jpg?u=499861&p=1335100435"
+}

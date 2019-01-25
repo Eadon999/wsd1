@@ -1,0 +1,71 @@
+{
+    "name": "奇跡の一杯★小松菜とトマトのスープ",
+    "author": {
+        "@type": "Person",
+        "name": "まめしげ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1274517/464x260/a20dc1fb8a4982f7f22bd43940004a95.jpg?u=2622190&p=1288751366",
+    "datePublished": "2010-11-03",
+    "description": "簡単、スピーディ、なのに深い味。材料費もかからず節約料理です。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "5束"
+        },
+        {
+            "name": "プチトマト",
+            "quantity": "4個"
+        },
+        {
+            "name": "中華スープの素",
+            "quantity": "小さじ1.5杯"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "小さじ２杯"
+        },
+        {
+            "name": "塩",
+            "quantity": "ひとつまみ"
+        },
+        {
+            "name": "水",
+            "quantity": "2カップ"
+        },
+        {
+            "name": "油（サラダ油系）",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "胡椒",
+            "quantity": "少々"
+        },
+        {
+            "name": "卵",
+            "quantity": "1個"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜を3等分に切る。プチトマトを半分に切る。\n\n",
+        "油をなべにしいて、１の材料を強火で炒める。",
+        "プチトマトが潰れるくらい柔らかくなってきたら、水、中華スープの素、塩、胡椒を鍋に入れ、沸騰させる。",
+        "３が沸騰したら、卵を溶き、3の鍋に投入。溶き卵がかたまったら完成。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1274517",
+    "advice": "",
+    "history": "小松菜とプチトマトが冷蔵庫に残っていたので、チャチャと作ったら奇跡の一杯ができました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "プチトマト",
+        "中華スープの素",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "34",
+    "thumbnail": "https://img.cpcdn.com/recipes/1274517/100x141c/a8a3467673a24335400bae45b906c646.jpg?u=2622190&p=1288751366"
+}

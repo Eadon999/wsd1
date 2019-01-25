@@ -1,0 +1,50 @@
+{
+    "name": "わさび漬けのポテトサラダ",
+    "author": {
+        "@type": "Person",
+        "name": "kazu3838"
+    },
+    "image": "https://img.cpcdn.com/recipes/2387435/464x260/74193d80cc7ef41d9acd4c3d440cb61b.jpg?u=2696078&p=1382788191",
+    "datePublished": "2013-10-26",
+    "description": "余りがちなわさび漬けを使って、大人のポテトサラダ。酒のツマミにピッタリ！2015/10/02に話題入り。感謝！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "ジャガイモ",
+            "quantity": "2個"
+        },
+        {
+            "name": "わさび漬け",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ1杯"
+        },
+        {
+            "name": "塩胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋で水からジャガイモを茹でる。箸が通るぐらいになったら、湯を捨て、水分を飛ばす。",
+        "熱いうちに塩胡椒をして、適度にスプーン等で全体を潰す。",
+        "マヨネーズとわさび漬けを入れ、全体を混ぜ合わせる。"
+    ],
+    "cookTime": null,
+    "recipe_id": "2387435",
+    "advice": "",
+    "history": "わさび漬けが大好きなので、板わさ以外の食べ方をレシピにしました。",
+    "categories": [
+        "今日のご飯・おかず/サラダ/ポテトサラダ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "わさび漬け 残った",
+        "わさび漬け 残",
+        "わさび漬け",
+        "わさび漬け ポテトサラダ"
+    ],
+    "tsukurepo_count": "18",
+    "thumbnail": "https://img.cpcdn.com/recipes/2387435/100x141c/4dc29fa1c8b579ab496703bad10d87b1.jpg?u=2696078&p=1382788191"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "もやしピーマンちくわのめんつゆケチャ炒め",
+    "author": {
+        "@type": "Person",
+        "name": "白雲堂"
+    },
+    "image": "https://img.cpcdn.com/recipes/1840218/464x260/89df150a338a2cee6d62a377653a393c.jpg?u=2969322&p=1338900000",
+    "datePublished": "2012-06-05",
+    "description": "薄味でも七味がピリッ！　ご飯が進みます。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "玉ねぎ(薄切り)",
+            "quantity": "６０ｇ"
+        },
+        {
+            "name": "ピーマン（細切り）",
+            "quantity": "２個（約５０ｇ）"
+        },
+        {
+            "name": "もやし",
+            "quantity": "１袋（２００ｇ）"
+        },
+        {
+            "name": "小ちくわ（１cm厚さの斜め切り）",
+            "quantity": "２本"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "●めんつゆ(2倍濃縮)",
+            "quantity": "小さじ２～"
+        },
+        {
+            "name": "●トマトケチャップ",
+            "quantity": "大さじ１と１/２"
+        },
+        {
+            "name": "●かつお削り節",
+            "quantity": "ひとつかみ"
+        },
+        {
+            "name": "●七味唐辛子",
+            "quantity": "好みの量"
+        }
+    ],
+    "recipeInstructions": [
+        "フライパンを熱して玉ねぎをしっかり炒める。ピーマン、もやしを炒め、ちくわを加え炒める。",
+        "１に●を加えて調味し、器に盛り付ける。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1840218",
+    "advice": "",
+    "history": "産直市で新鮮なピーマンを購入しました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/脇役野菜・珍しい野菜/もやし"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "玉ねぎ",
+        "ピーマン",
+        "もやし",
+        "サラダ油"
+    ],
+    "tsukurepo_count": "25",
+    "thumbnail": "https://img.cpcdn.com/recipes/1840218/100x141c/446f54984e9d52e159fea9bae08aa898.jpg?u=2969322&p=1338900000"
+}

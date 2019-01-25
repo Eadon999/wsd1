@@ -1,0 +1,77 @@
+{
+    "name": "ほっこり☆湯葉丼",
+    "author": {
+        "@type": "Person",
+        "name": "☆あっさむ☆"
+    },
+    "image": "https://img.cpcdn.com/recipes/2971230/464x260/c39b2c93610732706edebcf5a73348dc.jpg?u=5437089&p=1421647700",
+    "datePublished": "2015-01-19",
+    "description": "生湯葉を使った優しいお味の丼もの♪",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "１膳"
+        },
+        {
+            "name": "生湯葉",
+            "quantity": "適量"
+        },
+        {
+            "name": "水",
+            "quantity": "100cc"
+        },
+        {
+            "name": "白出汁",
+            "quantity": "大2"
+        },
+        {
+            "name": "薄口醤油",
+            "quantity": "小1"
+        },
+        {
+            "name": "みりん",
+            "quantity": "大1"
+        },
+        {
+            "name": "生姜(チューブ)",
+            "quantity": "3cm"
+        },
+        {
+            "name": "水溶き片栗粉",
+            "quantity": "小さじ山盛り1：大2"
+        },
+        {
+            "name": "青物（三つ葉・水菜など）",
+            "quantity": "少々"
+        },
+        {
+            "name": "柚子（なくても良い）",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "水溶き片栗粉以外の材料を鍋に入れて沸騰させる",
+        "1に水溶き片栗粉を入れてトロみを付けて、湯葉を入れて温まる位で火を止める",
+        "ごはんに2と飾りを盛り付けて出来上がり！",
+        "2015.2.27\n「湯葉」の人気検索でトップ10入りしました♪"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2971230",
+    "advice": "☆湯葉がくしゃくしゃにならないように注意！☆味付けはお好みでどうぞ♪",
+    "history": "生湯葉のお料理を考えました",
+    "categories": [
+        "今日のご飯・おかず/たまご・大豆加工品/湯葉"
+    ],
+    "rankings": [
+        "湯葉 7位"
+    ],
+    "related_keywords": [
+        "生湯葉丼",
+        "湯葉 丼",
+        "ゆば 丼",
+        "湯葉"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2971230/100x141c/97ce3498ceca0c2c5de915f835af7b9a.jpg?u=5437089&p=1421647700"
+}

@@ -1,0 +1,57 @@
+{
+    "name": "【農家のレシピ】サクサク白菜サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "FarmersK"
+    },
+    "image": "https://img.cpcdn.com/recipes/2967701/464x260/0b7603ba2f77151480dee5f45ac9956f.jpg?u=2513693&p=1421453497",
+    "datePublished": "2015-01-17",
+    "description": "ジューシーで、プチプチ・サクサク。この食感がやみつきになるかも？白菜の白い所だけを使ったサラダです。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "白菜の葉",
+            "quantity": "４枚程度"
+        },
+        {
+            "name": "かに風味かまぼこ（５mm角に切る）",
+            "quantity": "５本"
+        },
+        {
+            "name": "塩",
+            "quantity": "小さじ２分の１"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大さじ３"
+        },
+        {
+            "name": "味噌",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "ポン酢",
+            "quantity": "小さじ１"
+        }
+    ],
+    "recipeInstructions": [
+        "白菜の白い所（写真の右下の部分）だけを使います。葉先は汁物、おひたしなどに使ってね。",
+        "白菜の白い部分を５mm角に刻み、塩をまぶして５分おき、水けをしっかりと絞る。",
+        "②を【A】、かに風味かまぼこと混ぜ合わせて完成～"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2967701",
+    "advice": "",
+    "history": "白菜を分けて使うと、１つの野菜なのに軸の白い所と葉先の緑色の所は厚みも、食感も全く違うので、２種類の野菜を使ったようになるんです。白い所はみずみずしく、肉厚なのでサラダにしてみました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/白菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "農家のレシピ 白菜",
+        "白菜 サラダ かまぼこ",
+        "農家のレシピ"
+    ],
+    "tsukurepo_count": "49",
+    "thumbnail": "https://img.cpcdn.com/recipes/2967701/100x141c/60d644720f4bc4629062991b206e5a7d.jpg?u=2513693&p=1421453497"
+}

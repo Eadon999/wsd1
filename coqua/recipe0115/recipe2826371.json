@@ -1,0 +1,67 @@
+{
+    "name": "エリンギの照り焼き♪",
+    "author": {
+        "@type": "Person",
+        "name": "ちーすけ♡"
+    },
+    "image": "https://img.cpcdn.com/recipes/2826371/464x260/1210b87a007ecef83f5a472a7abb50a6.jpg?u=9552524&p=1412587376",
+    "datePublished": "2014-10-07",
+    "description": "低カロリーでダイエット中でも大丈夫♪甘辛で美味しいよ♡",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "エリンギ",
+            "quantity": "１パック"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆しょう油",
+            "quantity": "小さじ２"
+        },
+        {
+            "name": "☆酒",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆みりん",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "☆砂糖",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "青ネギ(小口切り)",
+            "quantity": "適量"
+        },
+        {
+            "name": "七味唐辛子",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "☆は合わせておきます。",
+        "エリンギは縦半分（大きいものは３等分）に切る。",
+        "フライパンに油を熱し②を両面焼きます。火が通ったら①を加え味をサッと絡めます。",
+        "器に盛り、フライパンのタレをかけ青ネギを散らします。好みで七味唐辛子を振ります。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "2826371",
+    "advice": "簡単です(^^♪",
+    "history": "太り気味のうちの旦那くんの芋焼酎のおともです(^^)v",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/エリンギ"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "エリンギ",
+        "サラダ油",
+        "しょう油",
+        "酒"
+    ],
+    "tsukurepo_count": "23",
+    "thumbnail": "https://img.cpcdn.com/recipes/2826371/100x141c/071febaf9163a9cbe67308529c094f12.jpg?u=9552524&p=1412587376"
+}

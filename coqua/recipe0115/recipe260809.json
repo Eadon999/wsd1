@@ -1,0 +1,54 @@
+{
+    "name": "小松菜のピリマヨ和え♪",
+    "author": {
+        "@type": "Person",
+        "name": "こなみママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/260809/464x260/844cb9f274f374e4120b8833e4b6dc94.jpg?u=241348&p=1214213170",
+    "datePublished": "2006-06-16",
+    "description": "ゆがいて和えるだけの簡単メニュー♪おいしいですよ！！",
+    "recipeYield": "",
+    "recipeIngredient": [
+        {
+            "name": "小松菜",
+            "quantity": "1束"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "大2"
+        },
+        {
+            "name": "すり白ゴマ",
+            "quantity": "大1"
+        },
+        {
+            "name": "豆板醤",
+            "quantity": "小１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "小1"
+        }
+    ],
+    "recipeInstructions": [
+        "小松菜をゆがいて、水にとり、水気を絞って３ｃｍ長さに切る。",
+        "調味料を合わせ、１とあえて出来上がり！",
+        "良ければレシピID :630677の 下処理を参考にしてみてください。"
+    ],
+    "cookTime": null,
+    "recipe_id": "260809",
+    "advice": "うす揚げをさっと焼いて、短冊切りにしたものを加えても美味しいです＾＾写真はカニカマフレークを入れて作ってみました(#^.^#)サラダっぽくて美味しかったですよ！！",
+    "history": "いつものマヨネーズ和えをピリ辛にしてみました。すごくおいしいです！！",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（秋・冬）/小松菜"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "小松菜",
+        "マヨネーズ",
+        "豆板醤",
+        "醤油"
+    ],
+    "tsukurepo_count": "58",
+    "thumbnail": "https://img.cpcdn.com/recipes/260809/100x141c/e25fb78566a2286caa91338f9282ef08.jpg?u=241348&p=1214213170"
+}

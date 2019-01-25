@@ -1,0 +1,61 @@
+{
+    "name": "トマトの和風サラダ",
+    "author": {
+        "@type": "Person",
+        "name": "龍青空ママ"
+    },
+    "image": "https://img.cpcdn.com/recipes/1335892/464x260/8b884be533a77696cc0714e6a553a923.jpg?u=1194496&p=1375875031",
+    "datePublished": "2011-01-21",
+    "description": "生姜の風味が、トマトにとっても合いますよ～",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "トマト",
+            "quantity": "１個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "８分の１"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "醤油",
+            "quantity": "大さじ２分の１"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "小さじ４分の１"
+        },
+        {
+            "name": "生姜すりおろし",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "トマトはへたを取り、輪切りにする。玉ねぎはみじん切りにして水にさらし、水気をきる。",
+        "ボールに玉ねぎとサラダ油、醤油、砂糖、生姜を混ぜてドレッシングを作る。",
+        "器にトマトを盛り、ドレッシングをかける。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "1335892",
+    "advice": "特にありませーん。",
+    "history": "ただトマト切るだけじゃ、旦那に申し訳なくて・・・",
+    "categories": [
+        "今日のご飯・おかず/サラダ/和風のサラダ",
+        "今日のご飯・おかず/野菜のおかず/旬野菜（夏）/トマト"
+    ],
+    "rankings": [
+        "トマトサラダ 7位",
+        "和風サラダ 3位"
+    ],
+    "related_keywords": [
+        "トマト サラダ",
+        "トマト",
+        "トマト 和風"
+    ],
+    "tsukurepo_count": "1338",
+    "thumbnail": "https://img.cpcdn.com/recipes/1335892/100x141c/368947d6bc615b9f204196f76e667e60.jpg?u=1194496&p=1375875031"
+}

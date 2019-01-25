@@ -1,0 +1,47 @@
+{
+    "name": "蕪と舞茸の味噌汁",
+    "author": {
+        "@type": "Person",
+        "name": "白いぐれーぷ"
+    },
+    "image": "https://img.cpcdn.com/recipes/3741303/464x260/88de4e954af33e09e2a181944fbe2411.jpg?u=2495483&p=1457607974",
+    "datePublished": "2016-03-10",
+    "description": "すぐ出来ます♫",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "蕪（小さめ）",
+            "quantity": "１個"
+        },
+        {
+            "name": "舞茸",
+            "quantity": "２分の１パック"
+        },
+        {
+            "name": "味噌",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋に水とほぐした舞茸を入れて煮る",
+        "蕪を皮をむいて８等分する",
+        "舞茸が煮えたら、味噌と蕪を入れすぐ火を止める",
+        null
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "3741303",
+    "advice": "",
+    "history": "蕪入り味噌汁も舞茸入り味噌汁も好きなので組み合わせました",
+    "categories": [
+        "今日のご飯・おかず/シチュー・スープ・汁物/お味噌汁"
+    ],
+    "rankings": [
+        "かぶの味噌汁 6位",
+        "かぶ味噌汁 7位"
+    ],
+    "related_keywords": [
+        "かぶ 味噌汁"
+    ],
+    "tsukurepo_count": "32",
+    "thumbnail": "https://img.cpcdn.com/recipes/3741303/100x141c/4f87b6b4ca42015571e6377f69d6cd51.jpg?u=2495483&p=1457607974"
+}

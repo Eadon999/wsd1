@@ -1,0 +1,62 @@
+{
+    "name": "ポン酢で味付け、ネギ豚丼",
+    "author": {
+        "@type": "Person",
+        "name": "ななまま"
+    },
+    "image": "https://img.cpcdn.com/recipes/1584551/464x260/a34861dd9620eba14378b0b46be7b1e6.jpg?u=125655&p=1317464486",
+    "datePublished": "2011-10-24",
+    "description": "あっという間に出来てしまう美味しい丼豚肉だけど、ポン酢で味付けなのでさっぱり美味しい丼です！",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚こま肉、又は豚バラ肉",
+            "quantity": "８０〜１００g"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "半本"
+        },
+        {
+            "name": "♠ポン酢",
+            "quantity": "大さじ2"
+        },
+        {
+            "name": "♠砂糖",
+            "quantity": "小さじ半分"
+        },
+        {
+            "name": "サラダ油",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "温かいご飯",
+            "quantity": "丼２杯"
+        },
+        {
+            "name": "白ごま",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "豚肉は細めに切っておく。\n長ネギは縦半分に切ってから斜め薄切りにしておく。",
+        "フライパンに油を熱して、豚肉を炒めて色が変わったらネギを入れて軽く炒めたら♠を入れてさっと炒める",
+        "ご飯に乗せて、ゴマをかける。",
+        "油をバター小さじ1に変えても美味しいです。"
+    ],
+    "cookTime": null,
+    "recipe_id": "1584551",
+    "advice": "ネギを炒めて味つけをしたら、余熱で火が通るのですぐに火を止めて、熱いうちにご飯に乗せて召しあがって下さい。",
+    "history": "時間がない時のお助けレシピです。",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/どんぶりもの/アレンジ丼"
+    ],
+    "rankings": [
+        "ネギ豚 5位"
+    ],
+    "related_keywords": [
+        "ネギ豚丼"
+    ],
+    "tsukurepo_count": "62",
+    "thumbnail": "https://img.cpcdn.com/recipes/1584551/100x141c/c7f9e02489a4dea28d4c0f3bf85f9cb4.jpg?u=125655&p=1317464486"
+}

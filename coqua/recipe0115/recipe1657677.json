@@ -1,0 +1,63 @@
+{
+    "name": "ローストチキン。(やさしい味)",
+    "author": {
+        "@type": "Person",
+        "name": "なっち船長"
+    },
+    "image": "https://img.cpcdn.com/recipes/1657677/464x260/eba29afe071630c8f51517c95e6e4ecc.jpg?u=3492561&p=1324643578",
+    "datePublished": "2011-12-23",
+    "description": "下味をつけたら後はオーブンまかせ❤の簡単ローストチキンです。ノンオイルですがとてもジューシーな仕上がりなんですよ。",
+    "recipeYield": "４人分",
+    "recipeIngredient": [
+        {
+            "name": "鶏手羽元",
+            "quantity": "１６本"
+        },
+        {
+            "name": "塩こしょう",
+            "quantity": "少々"
+        },
+        {
+            "name": "★玉ねぎ(すりおろし）",
+            "quantity": "１/２個分"
+        },
+        {
+            "name": "★にんにく(すりおろし)",
+            "quantity": "１片分"
+        },
+        {
+            "name": "★鶏がらスープの素",
+            "quantity": "小さじ１"
+        },
+        {
+            "name": "★しょうゆ",
+            "quantity": "大さじ１"
+        },
+        {
+            "name": "★酒",
+            "quantity": "大さじ２"
+        }
+    ],
+    "recipeInstructions": [
+        "鶏手羽元に塩こしょうを振りしばらく置きます(５~１０分)",
+        "ジップ袋に★印の材料と①を入れてよくもみ込んだら、冷蔵庫に半日ほどねかせます。",
+        "オーブン２５０℃で２０～３０分焼いて下さい(予熱はいりません)"
+    ],
+    "cookTime": "PT50M",
+    "recipe_id": "1657677",
+    "advice": "見た目よりも味はしっかりしていますのでご安心を ( *´艸`)焼きの途中のタレ塗りは不要です!!焼きっぱなしでO.K!!",
+    "history": "オーブンで簡単に作れて手間もかからないレシピが好きなので。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/鶏肉/鶏手羽",
+        "その他/クリスマス/クリスマスチキン"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "鶏手羽元",
+        "塩こしょう",
+        "玉ねぎ",
+        "にんにく"
+    ],
+    "tsukurepo_count": "77",
+    "thumbnail": "https://img.cpcdn.com/recipes/1657677/100x141c/0d49dab78b2decb4cbf4a7e2d234c3b3.jpg?u=3492561&p=1324643578"
+}

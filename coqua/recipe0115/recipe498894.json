@@ -1,0 +1,51 @@
+{
+    "name": "ほうれん草とウインナーのニンニク炒め",
+    "author": {
+        "@type": "Person",
+        "name": "るってぃ"
+    },
+    "image": "https://img.cpcdn.com/recipes/498894/464x260/c59670e7058b26d9727003160e4b97e3.jpg?u=493920&p=1214218543",
+    "datePublished": "2008-02-02",
+    "description": "おひたしに飽きたらコレ！簡単、炒めるだけです。",
+    "recipeYield": "2人分",
+    "recipeIngredient": [
+        {
+            "name": "ほうれん草",
+            "quantity": "1/2束"
+        },
+        {
+            "name": "ウインナー",
+            "quantity": "3本"
+        },
+        {
+            "name": "にんにく（スライス）",
+            "quantity": "一片"
+        },
+        {
+            "name": "オリーブ油",
+            "quantity": "大さじ1"
+        },
+        {
+            "name": "塩･胡椒",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "ほうれん草は2cm\r\n幅、ウインナーは斜めにカットする。",
+        "フライパンにオリーブ油をひいて火にかけ、温まったらニンニクを加える。\r\nニンニクの香りがしてきたらウインナーを炒め、炒まったらほうれん草の茎の部分、葉の部分の順に加えて炒める。",
+        "塩と胡椒で調味しお皿にもって出来上がり。"
+    ],
+    "cookTime": null,
+    "recipe_id": "498894",
+    "advice": "簡単なので特になにも・・・胡椒は粗挽き黒胡椒を使用。",
+    "history": "ニンニクの風味で炒めただけですが、おひたしよりこちらのほうが断然主人のお口に合うようです・・・",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/ソーセージ/ソーセージを使った料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ほうれん草 ソーセージ"
+    ],
+    "tsukurepo_count": "41",
+    "thumbnail": "https://img.cpcdn.com/recipes/498894/100x141c/d18714b9e6f3912d073f697e2c2d1e10.jpg?u=493920&p=1214218543"
+}

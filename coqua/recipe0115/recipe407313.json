@@ -1,0 +1,52 @@
+{
+    "name": "まるごとしいたけ",
+    "author": {
+        "@type": "Person",
+        "name": "田舎味噌"
+    },
+    "image": "https://img.cpcdn.com/recipes/407313/464x260/f5a8e0d6f788bdb76e4251728364f0c9.jpg?u=383842&p=1214216770",
+    "datePublished": "2007-07-21",
+    "description": "弁当のおかずにもなるし、簡単に作れちゃう！みなさんのれぽのおかげで【2007,5,22】１００人達成！ありがとぅございます＾＾",
+    "recipeYield": "４個分",
+    "recipeIngredient": [
+        {
+            "name": "しいたけ",
+            "quantity": "４個"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "とろけるチーズ",
+            "quantity": "適量"
+        },
+        {
+            "name": "白ゴマ",
+            "quantity": "少々"
+        },
+        {
+            "name": "しょう油",
+            "quantity": "少々"
+        }
+    ],
+    "recipeInstructions": [
+        "カサのしっかりしてるしいたけをチョイス。\r\nキッチンペーパーで軽く拭く。",
+        "内側にマヨネーズを入れ、とろけるチーズ、白ゴマをかけてオーブンで焼く。\r\n",
+        "出来上がりにしょう油をたらりと。"
+    ],
+    "cookTime": "PT10M",
+    "recipe_id": "407313",
+    "advice": "準備も簡単、後片付けもラク。お好みでキムチの素を入れたり、ピザ風にしたり、いろんなアレンジが楽しめちゃう。チーズがないときは、我が家はマヨネーズだけで焼いちゃいます！ ",
+    "history": "弁当のおかずとして。包丁使わなくていいし～",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/きのこ/しいたけ",
+        "その他/おもてなし料理/秋！おもてなし料理"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "まるごとしいたけ"
+    ],
+    "tsukurepo_count": "1086",
+    "thumbnail": "https://img.cpcdn.com/recipes/407313/100x141c/2c85d970b39f7f648ae7e18e759d7ab3.jpg?u=383842&p=1214216770"
+}

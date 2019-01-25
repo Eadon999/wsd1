@@ -1,0 +1,46 @@
+{
+    "name": "☆オイマヨde焼きおにぎり☆",
+    "author": {
+        "@type": "Person",
+        "name": "ナナプー"
+    },
+    "image": "https://img.cpcdn.com/recipes/773607/464x260/8654537f4fa3d7eacff5d50a3b37ab9d.jpg?u=803422&p=1238514176",
+    "datePublished": "2009-04-01",
+    "description": "2009.5.19話題入りさせていただきました☆ 炒め物やサラダ、何にでも合うオイマヨ♬ 焼きおにぎりでどうぞ♡",
+    "recipeYield": "１人分",
+    "recipeIngredient": [
+        {
+            "name": "ご飯",
+            "quantity": "お茶碗に軽く1杯（１３０ｇ）"
+        },
+        {
+            "name": "オイスターソース",
+            "quantity": "小さじ1杯"
+        },
+        {
+            "name": "マヨネーズ",
+            "quantity": "小さじ２～３杯"
+        }
+    ],
+    "recipeInstructions": [
+        "ご飯にオイスターソースとマヨネーズを良く混ぜる。",
+        "フライパンなどでこんがり焼いたら出来上がり。",
+        "2009.5.19話題入りさせていただきました～！作ってくださった方、ありがとうございます♡",
+        null
+    ],
+    "cookTime": null,
+    "recipe_id": "773607",
+    "advice": "＊オイスターソースやマヨネーズの量はお好みで♬＊フライパンで焼くときはマヨネーズが入ってるので油を引かないほうが油っぽくならなくて良いと思います",
+    "history": "新しい焼きおにぎりに挑戦☆",
+    "categories": [
+        "今日のご飯・おかず/ごはんもの/アレンジごはん/焼きおにぎり"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "ご飯",
+        "オイスターソース",
+        "マヨネーズ"
+    ],
+    "tsukurepo_count": "80",
+    "thumbnail": "https://img.cpcdn.com/recipes/773607/100x141c/424b1bdb56a0645eba041b7f1c5b8e89.jpg?u=803422&p=1238514176"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "すき焼き風煮",
+    "author": {
+        "@type": "Person",
+        "name": "uzukaji"
+    },
+    "image": "https://img.cpcdn.com/recipes/933619/464x260/b984acb33e131839fa2bd35e8619d187.jpg?u=377757&p=1255187883",
+    "datePublished": "2009-10-11",
+    "description": "野菜もたくさん食べられて、温まる一品。",
+    "recipeYield": "３人分",
+    "recipeIngredient": [
+        {
+            "name": "牛肉",
+            "quantity": "２５０ｇ"
+        },
+        {
+            "name": "白菜",
+            "quantity": "１／４個"
+        },
+        {
+            "name": "しいたけ",
+            "quantity": "６個"
+        },
+        {
+            "name": "玉ねぎ",
+            "quantity": "中１個"
+        },
+        {
+            "name": "長ネギ",
+            "quantity": "１／２本"
+        },
+        {
+            "name": "糸こんにゃく",
+            "quantity": "１／２袋"
+        },
+        {
+            "name": "豆腐",
+            "quantity": "１丁"
+        },
+        {
+            "name": "みりん",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "お酒",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "１００ｃｃ"
+        },
+        {
+            "name": "砂糖",
+            "quantity": "大さじ３"
+        }
+    ],
+    "recipeInstructions": [
+        "鍋にお肉以外の具材を入れ（入りきれなかったら、後から入れる。）、調味料を全て入れる。",
+        "グツグツとなって、野菜がくたっとなってきたらお肉を入れて強火で煮込む。\nお肉に火が通ったら、完成！",
+        "\n話題入りしました～！\n作っていただいた皆様、ありがとうございました！！"
+    ],
+    "cookTime": "PT20M",
+    "recipe_id": "933619",
+    "advice": "砂糖の量はお好みで調整してください。今回は、しいたけの代わりにしめじを使いました＾＾えりんぎでもえのきでも◎少し濃い目の味付けなので、お子さんに合わせるときは水を加えて調整してみてくださいね！",
+    "history": "母がよく作ってくれていたので、自分なりに再現してみました！",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/牛肉/牛薄切り肉・牛こま切れ肉"
+    ],
+    "rankings": [
+        "すき焼き風煮 3位"
+    ],
+    "related_keywords": [
+        "すき焼き風煮",
+        "すき焼き風煮 牛肉",
+        "すき焼き風煮 白菜",
+        "すき焼き"
+    ],
+    "tsukurepo_count": "730",
+    "thumbnail": "https://img.cpcdn.com/recipes/933619/100x141c/b8eca0d5805dfe3ce1296baf0e9ba029.jpg?u=377757&p=1255187883"
+}

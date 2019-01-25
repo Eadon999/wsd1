@@ -1,0 +1,62 @@
+{
+    "name": "豚肉のキムチロール",
+    "author": {
+        "@type": "Person",
+        "name": "souffles"
+    },
+    "image": "https://img.cpcdn.com/recipes/1552462/464x260/35f4402ec7228ce309440eae1b70a53b.jpg?u=2228826&p=1314825175",
+    "datePublished": "2011-09-01",
+    "description": "キムチとじゃがいもを巻いた照り焼き風の豚肉が、まろやかでボリュームたっぷり♪お弁当にもどうぞ。",
+    "recipeYield": "２人分",
+    "recipeIngredient": [
+        {
+            "name": "豚薄切り肉",
+            "quantity": "８枚"
+        },
+        {
+            "name": "じゃがいも",
+            "quantity": "小１個"
+        },
+        {
+            "name": "キムチ",
+            "quantity": "３０ｇ"
+        },
+        {
+            "name": "しょうゆ",
+            "quantity": "大２"
+        },
+        {
+            "name": "酒",
+            "quantity": "大１"
+        },
+        {
+            "name": "オリーブオイル",
+            "quantity": "適量"
+        }
+    ],
+    "recipeInstructions": [
+        "じゃがいも1個を8本のスティック状に切り、少しかためにゆでる。\n\n\n",
+        "豚肉を広げキムチを薄く全体にのせ、①のじゃがいもを1本のせてくるくると巻く。\n\n\n",
+        "時間があれば1時間ほどおく。（省略可）\n\n\n",
+        "オリーブオイルを熱したフライパンで全面をむらなく焼く。弱火で蓋をして蒸し焼きにするとよい。\n\n\n",
+        "仕上げにしょうゆと酒をまぜて加え、照り焼き風に仕上げる。\n\n\n",
+        "皿に盛り、お好みでキムチを添える。\n"
+    ],
+    "cookTime": null,
+    "recipe_id": "1552462",
+    "advice": "じゃがいもは人参・蓮根などでもOKです。",
+    "history": "キムチを巻いて豚肉を照り焼き風にしたら、大好評でした。",
+    "categories": [
+        "今日のご飯・おかず/お肉のおかず/豚肉/豚薄切り肉",
+        "その他/発酵食品・発酵調味料/キムチ "
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "豚薄切り肉",
+        "じゃがいも",
+        "キムチ",
+        "しょうゆ"
+    ],
+    "tsukurepo_count": "22",
+    "thumbnail": "https://img.cpcdn.com/recipes/1552462/100x141c/55b3bdb50cafa934281276a478655966.jpg?u=2228826&p=1314825175"
+}

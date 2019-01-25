@@ -1,0 +1,66 @@
+{
+    "name": "アボカドしらすトマト丼にオリーブオイル♪",
+    "author": {
+        "@type": "Person",
+        "name": "まんまるまうちゃん"
+    },
+    "image": "https://img.cpcdn.com/recipes/4436156/464x260/6389d4416e099c5b69d37da45958b831.jpg?u=4328809&p=1491105612",
+    "datePublished": "2017-04-02",
+    "description": "切ってのせるだけで簡単！オリーブオイルひとかけで風味豊かで栄養もバッチリな丼になります。ランチにもおすすめですよ^^",
+    "recipeYield": "1人分",
+    "recipeIngredient": [
+        {
+            "name": "ごはん",
+            "quantity": "お茶碗1杯程度"
+        },
+        {
+            "name": "アボカド",
+            "quantity": "1/3～1/2個（お好みの量）"
+        },
+        {
+            "name": "トマト",
+            "quantity": "1/3～1/2個（お好みの量）"
+        },
+        {
+            "name": "釜揚げしらす",
+            "quantity": "20～30g（お好みの量）"
+        },
+        {
+            "name": "温泉卵",
+            "quantity": "1個"
+        },
+        {
+            "name": "麺つゆや白だし、だし醤油など",
+            "quantity": "大さじ　2程度（お好みの量）"
+        },
+        {
+            "name": "AJINOMOTO オリーブオイルエクストラバージン",
+            "quantity": "ひとかけ"
+        },
+        {
+            "name": "ブラックペッパー",
+            "quantity": "適量（たっぷりがおすすめ）"
+        }
+    ],
+    "recipeInstructions": [
+        "アボカドとトマトは食べやすい大きさの角切りにする。",
+        "器にごはんをよそい、中央は少し凹ましておく。",
+        "②に①としらすをのせ中央に温泉卵をそっとおく。",
+        "ブラックペッパーをふり、麵つゆなどをかけ、最後にオリーブオイルをひとかけして完成です。"
+    ],
+    "cookTime": null,
+    "recipe_id": "4436156",
+    "advice": "",
+    "history": "AJINOMOTO オリーブオイルのひとかけレシピコンテスト用に考えました。",
+    "categories": [
+        "今日のご飯・おかず/野菜のおかず/旬野菜（春）/アボカド"
+    ],
+    "rankings": null,
+    "related_keywords": [
+        "しらす アボカド 丼",
+        "アボカドトマト丼",
+        "シラス アボカド"
+    ],
+    "tsukurepo_count": "7",
+    "thumbnail": "https://img.cpcdn.com/recipes/4436156/100x141c/57fa81ac2aa9e5d00dfbd3afc8cc4f52.jpg?u=4328809&p=1491105612"
+}
