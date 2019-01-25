@@ -49,7 +49,7 @@ def init_tables(cdb): # テーブルの初期化
 
 def insert_records(cdb):
 	jlst = glob.glob("recipe0115/*")
-	df_i = pd.read_csv("../preprocessed/db_ingredients.csv")
+	df_i = pd.read_csv("../preprocessed/db_ingredients_2.csv")
 	df_f = pd.read_csv("filter_bit.csv")
 	# filter_bits
 	for i, row in df_f.iterrows():
