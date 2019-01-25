@@ -5,6 +5,7 @@ import cgi
 import cgitb
 import coquadb
 import math
+import sys
 
 # ページ切り替え部分を生成
 def make_page(page, num):
@@ -16,7 +17,7 @@ def make_page(page, num):
 	elif num - page < 9:
 		lst = [1, 0] + list(range(num-9, num+1))
 	else:
-		ratio = round((8 * page - 1)/num)
+		ratio = math.floor((8 * page - 1)/num)
 		lst = [1, 0] + list(range(page-ratio-1, page+9-ratio)) + [0, num] 
 	return '<div class = "page">' + ''.join(map(link, lst)) + '</div>'
 
@@ -33,7 +34,7 @@ def make_link(lst):
 	return ''.join(map(lambda x: form % (x[2],x[0],x[1]),lst))
 
 # ページ部分を生成
-def print_cont(page, limit, txt, checklst):
+def print_cont(page, limit, txt, checklst, sortrule):
 	lst = txt.split()
 	Alst = [x     for x in lst if x[0] != '-']
 	Nlst = [x[1:] for x in lst if x[0] == '-']
@@ -54,9 +55,7 @@ def print_cont(page, limit, txt, checklst):
 	print(page_switch)
 	cdb.close()
 
-if __name__ == '__main__':
-	cgitb.enable()
-	form = cgi.FieldStorage()
+def search(form):
 	# 並び替え順の決定
 	sortrule = form['sort'].value if 'sort' in form else 'repo'
 	# ページ番号
@@ -67,4 +66,21 @@ if __name__ == '__main__':
 	print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
 	txt = form['text'].value if 'text' in form else ""
 	if txt != '' or checklst != []:
-		print_cont(page, 10, txt, checklst)
+		print_cont(page, 10, txt, checklst, sortrule)
+
+def recommend(form):
+	# レシピを出力
+	print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
+	print('ここに余剰材料レシピ検索の結果が表示される予定です．')
+
+
+if __name__ == '__main__':
+	cgitb.enable()
+	form = cgi.FieldStorage()
+	# モード
+	mode = form['mode'].value if 'mode' in form else sys.exit(1)
+	if mode == 'search':
+		search(form)
+	elif mode == 'recommend':
+		recommend(form)
+

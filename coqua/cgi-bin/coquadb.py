@@ -10,9 +10,9 @@ class CoquaDB:
 		self.__con = sqlite3.connect(dbname)
 		self.__cur = self.__con.cursor()
 		if(os.path.exists('/usr/lib/mecab/dic/mecab-ipadic-neologd')):
-			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/lib/mecab/dic/mecab-ipadic-neologd')
+			self.mecab = MeCab.Tagger('-Oyomi -d /usr/lib/mecab/dic/mecab-ipadic-neologd')
 		elif(os.path.exists('/usr/local/lib/mecab/dic/mecab-ipadic-neologd')):
-			self.__mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
+			self.mecab = MeCab.Tagger('-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 		else:
 			sys.exit(1)
 
@@ -44,7 +44,7 @@ class CoquaDB:
 
 	def ingredients_search(self, Alst, Nlst, sortrule, checklst, limit, offset):
 		# Alst,Nlstのカナ化
-		kana = lambda x : self.__mecab.parse(x).strip()
+		kana = lambda x : self.mecab.parse(x).strip()
 		Alst = list(map(kana, Alst))
 		Nlst = list(map(kana, Nlst))
 		# ソート規則

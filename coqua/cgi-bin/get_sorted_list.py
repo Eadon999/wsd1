@@ -2,10 +2,6 @@ import coquadb
 import MeCab
 import sys
 
-mecab = MeCab.Tagger(
-    '-Oyomi -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd'  # NEologd
-)
-
 # 二次元配列の行と列を入れ替える (転置) 関数
 def transpose(l):
     return [list(j) for j in zip(*l)]
@@ -24,10 +20,11 @@ def get_sorted_list(cdb, yomi):
 
 if __name__ == '__main__':
     args = sys.argv
-    yomi = mecab.parse(args[1]).replace('\n', '')
 
     cdb = coquadb.CoquaDB('coqua.db')
-
+    
+    mecab = cdb.mecab
+    yomi = mecab.parse(args[1]).replace('\n', '')
     print(get_sorted_list(cdb, yomi))
 
     cdb.close()

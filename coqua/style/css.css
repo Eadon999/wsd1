@@ -38,12 +38,16 @@ article{
 	margin: 0 auto;
 	font-size:18px;
 }
+div.message{
+	text-align: center;
+	font-size: 12px;
+}
 /* 検索窓のスタイル */
 div.searchbox{
 	display:flex;
 	background: #dde;
 	text-align: center;
-	width : 250px;
+	width : 280px;
 	margin : 0 auto;
 	box-sizing: border-box;
 	border-radius: 10px;
@@ -74,7 +78,14 @@ p.switch{
 	margin : 5px;
 	background: transparent;
 }
-#input-glass{
+#glass{
+	width: 30px;
+	border: none;
+	font-size: 20px;
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+}
+#xchng{
 	width: 30px;
 	border: none;
 	font-size: 20px;
