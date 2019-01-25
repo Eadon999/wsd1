@@ -33,7 +33,7 @@ class SearchEngine(object):
         """
         index番目のidをリストとして返す
         """
-        result = [ids[index] for index in indexes]
+        result = [int(ids[index]) for index in indexes]
         return result
 
     def get_target_readings(self, word):
