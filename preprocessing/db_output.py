@@ -24,7 +24,7 @@ if __name__ == '__main__':
     new_unit    = [ast.literal_eval(column) for column in df.new_unit]
     servings    = df.servings.values.tolist()
 
-    path = '../preprocessed/db_ingredients.csv'
+    path = '../preprocessed/db_ingredients_2.csv'
     with open(path, 'w') as f:  # 書き込み専用
         f.write(',recipe_id,name,pron,amount,converted,unit,servings')
 
