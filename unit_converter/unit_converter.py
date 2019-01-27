@@ -21,7 +21,7 @@ for row in tb.t_uct:
                     converted[i][j] = 'NaN'  # Not a Number
                     new_unit[i][j] = '不適'  # 例外: 換算に不適
                     continue
-                if 'または' in ingredients[i][j] or '又は' in ingredients[i][j] or 'or' in ingredients[i][j]:
+                if 'または' in ingredients[i][j] or '又は' in ingredients[i][j] or 'or' in ingredients[i][j] or 'でも' in ingredients[i][j]:
                     converted[i][j] = 'NaN'
                     new_unit[i][j] = '代替'  # 代替材料の可能性あり
                     continue
