@@ -35,7 +35,12 @@ def simple_search(target, id_list, ingredients, yomi_list, amount):
 
     print('検索結果 ' + str(len(index_list)) + ' 件 ')  # 確認用
     
-    unit_set = unit_set - set(['(', '（', ')', '）', '-', 'ー', '~', '〜'])  # 単位候補から除去
+    unit_set = unit_set - set([
+        '(', '（', ')', '）', '-', 'ー', '~', '〜', ',', '，', '、', '・', ' ', 
+        '\u3000',  # 全角空白
+        '\xa0',  # 固定空白
+        '\x97', 
+    ])  # 単位候補から除去
     print('単位候補集合 ' + str(unit_set))
 
 
