@@ -10,8 +10,8 @@ converted = [['' for i in lst] for lst in amount]
 new_unit = [['' for i in lst] for lst in amount]
 
 for row in tb.t_uct:
-    # 単位換算テーブルの表の 1行は ['タマゴ', t_tamago, 'ウズラ'] のような
-    # カタカナ読みと対応する単位換算テーブルと例外の配列とする
+    # 単位換算テーブルの表の 1行は ['タマゴ', t_tamago, 'ウズラ', 10] のような
+    # カタカナ読みと対応する単位換算テーブルと例外と閾値の配列とする
 
     index_list = []  # 行番号リスト
     for i, yomi_sublist in enumerate(yomi_list):
@@ -26,6 +26,10 @@ for row in tb.t_uct:
                     new_unit[i][j] = '代替'  # 代替材料の可能性あり
                     continue
                 converted[i][j], new_unit[i][j] = fn.unit_conversion(row[0], row[1], amount[i][j])
+
+                if converted[i][j] > row[3]:  # 換算値が閾値を超える場合
+                    converted[i][j] = 'NaN'
+                    new_unit[i][j] = '過大'  # 大きすぎる値は例外とする
 
                 # 行番号, レシピID, 材料, カタカナ読み, 分量, 換算値, 新単位 を出力
                 print(f'{i:4}: {recipe_id[i]:>7}: {ingredients[i][j]} / {yomi_sublist[j]} / {amount[i][j]} / {converted[i][j]} {new_unit[i][j]}')
