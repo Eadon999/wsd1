@@ -1,5 +1,4 @@
 import sqlite3
-#import coquasql as CQL
 import MeCab
 import os
 import sys
@@ -42,15 +41,13 @@ class CoquaDB:
 	def drop(self, tablename):
 		self.execute(F'DROP TABLE IF EXISTS {tablename}')
 
-	def ingredients_search(self, Alst, Nlst, sortrule, checklst, limit, offset):
+	def ingredients_search(self, Alst, Nlst, sortrule, orderrule, checklst, limit, offset):
 		# Alst,Nlstのカナ化
 		kana = lambda x : self.mecab.parse(x).strip()
 		Alst = list(map(kana, Alst))
 		Nlst = list(map(kana, Nlst))
 		# ソート規則
-		ruledict = {'repo': {'col':'repo',    'order':'asc'},
-		            'time': {'col':'cooktime','order':'asc'},
-		            'date': {'col':'count',   'order':'desc'}}
+		ruledict = {'repo': 'repo', 'time': 'cooktime', 'date': 'count'}
 		# 材料検索クエリの生成
 		Qlst = []
 		if Alst != []:
@@ -65,8 +62,7 @@ class CoquaDB:
 		count = self.fetch()[0]
 		# ソートと表示件数しぼりこみのクエリ生成
 		if sortrule in ruledict:
-			rules = ruledict[sortrule]
-			query = CQL.recipe_query(Qlst, rules['col'], rules['order'], limit, offset)
+			query = CQL.recipe_query(Qlst, ruledict[sortrule], orderrule, limit, offset)
 		else:
 			return 0, []
 		# 検索の実行と結果
@@ -172,7 +168,7 @@ class CQL:
 		            '  FROM infos']
 		lst +=    [ ' WHERE recipe_id IN']
 		lst +=  CQL.indent_query(Qlst, '       (', ')')
-		lst +=    [F' ORDER BY {col}' + (' DESC' if offset == 'desc' else '')]
+		lst +=    [F' ORDER BY {col} {order}']
 		lst +=    [F' LIMIT {limit}']
 		lst +=    [F'OFFSET {offset}']
 		return CQL.decode_query(lst)

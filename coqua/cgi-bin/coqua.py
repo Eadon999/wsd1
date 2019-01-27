@@ -34,14 +34,14 @@ def make_link(lst):
 	return ''.join(map(lambda x: form % (x[2],x[0],x[1]),lst))
 
 # ページ部分を生成
-def print_cont(page, limit, txt, checklst, sortrule):
+def print_cont(page, limit, txt, checklst, sortrule, orderrule):
 	lst = txt.split()
 	Alst = [x     for x in lst if x[0] != '-']
 	Nlst = [x[1:] for x in lst if x[0] == '-']
 	cdb = coquadb.CoquaDB('coqua.db')
 	# 検索件数と結果
 	offset = (page - 1) * limit
-	count, data = cdb.ingredients_search(Alst, Nlst, sortrule, checklst, limit, offset)
+	count, data = cdb.ingredients_search(Alst, Nlst, sortrule, orderrule, checklst, limit, offset)
 	page_switch = make_page(page, math.floor(1+(count-1)/limit))
 	page_recipe = make_link(data)
 	print(F"<!-- \n{cdb.last}\n -->\n")
@@ -57,16 +57,17 @@ def print_cont(page, limit, txt, checklst, sortrule):
 
 def search(form):
 	# 並び替え順の決定
-	sortrule = form['sort'].value if 'sort' in form else 'repo'
+	sortrule  = form['sort'].value  if 'sort'  in form else 'repo'
+	orderrule = form['order'].value if 'order' in form else 'desc'
 	# ページ番号
 	page = int(form['page'].value[1:]) if 'page' in form else 1
 	# checkboxの値を得る
-	checklst = [i for i in range(1, 9) if F"filter{i}" in form and form[F"filter{i}"].value == 'true']
+	checklst = [i for i in range(1, 10) if F"filter{i}" in form and form[F"filter{i}"].value == 'true']
 	# レシピを出力
 	print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
 	txt = form['text'].value if 'text' in form else ""
 	if txt != '' or checklst != []:
-		print_cont(page, 10, txt, checklst, sortrule)
+		print_cont(page, 10, txt, checklst, sortrule, orderrule)
 
 def recommend(form):
 	# レシピを出力

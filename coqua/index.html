@@ -6,6 +6,7 @@
 		<meta name="description" content="レシピ推薦サービス">
 		<meta name="author" content="COQUA">
 		<link id="style" rel="stylesheet" type="text/css" href="style/css.css">
+		<link rel="stylesheet" media="all" href="https://rawgit.com/hankchizljaw/boilerform/master/dist/css/boilerform.min.css" />
 		<script type="text/javascript">
 			/* cssがキャッシュに保存されて更新が反映されないことを防ぐ */
 			/* 読み込み速度の低下を招くため開発中以外は無効にする */
@@ -34,24 +35,40 @@
 						</div>
 						<div class = 'searchcond' id = 'searchcond'>
 							<p class = 'switch'>検索条件を指定</p>
-							<div class = 'wrap'>
-								<div class = 'cond-sort'>
-									並び替え順<br>
-									<input type="radio" name="sort" value="repo" checked>つくレポ数<br>
-									<input type="radio" name="sort" value="time">調理時間<br>
-									<input type="radio" name="sort" value="date">公開日時
-								</div>
-								<div class = 'cond-filter'>
-									フィルター<br>
-									<input type="checkbox" name="filter1" value="on">簡単・手軽<br>
-									<input type="checkbox" name="filter2">子供向け<br>
-									<input type="checkbox" name="filter3">美容<br>
-									<input type="checkbox" name="filter4">弁当<br>
-									<input type="checkbox" name="filter5">ボリューム<br>
-									<input type="checkbox" name="filter6">ランチ<br>
-									<input type="checkbox" name="filter7">栄養<br>
-									<input type="checkbox" name="filter8">安い<br>
-									<input type="checkbox" name="filter9">おつまみ
+							<div class="boilerform">
+								<div class = 'wrap'>
+									<div class = 'cond-sort'>
+										並び替え順<br>
+										<input type="radio" id="radio1" name="sort" value="repo" checked>つくレポ数<br>
+										<input type="radio" id="radio2" name="sort" value="time">調理時間<br>
+										<input type="radio" id="radio3" name="sort" value="date">公開日時<br>
+										<select class='coqua-select' id='order' name="order">
+											<option value = "desc">多い順</option>
+											<option value = "asc">少ない順</option>
+										</select><br>
+									</div>
+									<div class = 'cond-filter'>
+										フィルター<br>
+										<table border="0">
+											<tr>
+												<td>
+													<input type="checkbox" name="filter1" value="on">簡単・手軽<br>
+													<input type="checkbox" name="filter2">子供向け<br>
+													<input type="checkbox" name="filter3">美容・健康<br>
+												</td>
+												<td>
+													<input type="checkbox" name="filter4">弁当<br>
+													<input type="checkbox" name="filter5">ボリューム<br>
+													<input type="checkbox" name="filter6">ランチ<br>
+												</td>
+												<td>
+													<input type="checkbox" name="filter7">栄養<br>
+													<input type="checkbox" name="filter8">節約<br>
+													<input type="checkbox" name="filter9">おつまみ
+												</td>
+											</tr>
+										</table>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -92,6 +109,7 @@
 							page: p,
 							text: $('#input-text').val(),
 							sort: document.getElementById('form-search').sort.value,
+							order:document.getElementById('form-search').order.value,
 							filter1: document.getElementById('form-search').filter1.checked,
 							filter2: document.getElementById('form-search').filter2.checked,
 							filter3: document.getElementById('form-search').filter3.checked,
@@ -123,6 +141,13 @@
 						recommend();
 					}
 					});
+				/* 並び替え順 */
+				$(document).on('change', '#radio1', function(){
+					document.getElementById("order").innerHTML = "<option value = \"desc\">多い順</option><option value = \"asc\">少ない順</option>";});
+				$(document).on('change', '#radio2', function(){
+					document.getElementById("order").innerHTML = "<option value = \"asc\">短い順</option><option value = \"desc\">長い順</option>";});
+				$(document).on('change', '#radio3', function(){
+					document.getElementById("order").innerHTML = "<option value = \"desc\">新しい順</option><option value = \"asc\">古い順</option>";});
 				/* 機能切り替えボタン */
 				var mode = 0
 				$(document).on('click', '#xchng', function(){

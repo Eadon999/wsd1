@@ -68,7 +68,7 @@ def insert_records(cdb):
 			# dict_yieldはinfosのレコードに用いる
 			dict_yield[row['recipe_id']] = row['servings']
 	cdb.commit()
-	# infos
+	# infos, names
 	for x in jlst:
 		with open(x) as f:
 			# json ファイルを１つ読んでいってそれぞれにレコードを登録
@@ -78,7 +78,7 @@ def insert_records(cdb):
 			cdb.execute('INSERT INTO infos VALUES(%s, "%s", "%s", "%s", "%s", "%s", %s, %s, %s, %s, %s, %s, %s)' %
 					(rid,
 						str(j['name']).replace("'",'').replace('"',''),
-						str(j['author']).replace("'", '').replace('"', ''),
+						str(j['author']['name']).replace("'", '').replace('"', ''),
 						j['image'],
 						j['thumbnail'],
 						j['datePublished'],
