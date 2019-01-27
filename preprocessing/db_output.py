@@ -32,7 +32,7 @@ if __name__ == '__main__':
         n=0
         for i in range(len(recipe_id)):
             for j in range(len(ingredients[i])):
-                f.write(F'\n{n},{recipe_id[i]},{ingredients[i][j]},{yomi_list[i][j]},{amount[i][j]},{converted[i][j]},{new_unit[i][j]},')
+                f.write(F'\n{n},{recipe_id[i]},"{ingredients[i][j]}","{yomi_list[i][j]}","{amount[i][j]}",{converted[i][j]},{new_unit[i][j]},')
                 if pd.notnull(servings[i]):  # 欠損値でないならば
                     f.write(F'{servings[i]}')
                 print(F'{n} Done!')
