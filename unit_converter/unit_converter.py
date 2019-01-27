@@ -27,7 +27,7 @@ for row in tb.t_uct:
                     continue
                 converted[i][j], new_unit[i][j] = fn.unit_conversion(row[0], row[1], amount[i][j])
 
-                if converted[i][j] > row[3]:  # 換算値が閾値を超える場合
+                if float(converted[i][j]) > row[3]:  # 換算値が閾値を超える場合
                     converted[i][j] = 'NaN'
                     new_unit[i][j] = '過大'  # 大きすぎる値は例外とする
 
