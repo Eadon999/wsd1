@@ -21,6 +21,10 @@ for row in tb.t_uct:
                     converted[i][j] = 'NaN'  # Not a Number
                     new_unit[i][j] = '不適'  # 例外: 換算に不適
                     continue
+                if 'または' in item or '又は' in item or 'or' in item:
+                    converted[i][j] = 'NaN'
+                    new_unit[i][j] = '代替'  # 代替材料の可能性あり
+                    continue
                 converted[i][j], new_unit[i][j] = fn.unit_conversion(row[0], row[1], amount[i][j])
 
                 # 行番号, レシピID, 材料, カタカナ読み, 分量, 換算値, 新単位 を出力
