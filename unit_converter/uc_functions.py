@@ -17,7 +17,7 @@ def unit_conversion(yomi, table, amount):
         # 単位換算テーブルの 1行は ['[個こコつヶケ]', 1] のような
         # 単位の正規表現パターンと換算比率の組とする
         
-        # 半角コンマ「,」は半角ピリオド「.」として読む
-        matchobj = re.search('(\d+(\.\d+)?)'+row[0], amount.replace(',', '.'))
+        # 半角コンマ「,」や全角中黒「・」は半角ピリオド「.」として読む
+        matchobj = re.search('(\d+(\.\d+)?)'+row[0], re.sub('[,・]', '.', amount))
         if matchobj: return calc(matchobj, row[1]), yomi  # 換算値と新単位
     return 'NaN', '不明'  # 単位不明
