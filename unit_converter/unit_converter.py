@@ -10,18 +10,18 @@ converted = [['' for i in lst] for lst in amount]
 new_unit = [['' for i in lst] for lst in amount]
 
 for row in tb.t_uct:
-    # 単位換算テーブルの表の 1行は ['タマゴ', t_tamago, 'ウズラ', 10] のような
-    # カタカナ読みと対応する単位換算テーブルと例外と閾値の配列とする
+    # 単位換算テーブルの表の 1行は ['タマゴ', t_tamago, ['ウズラ'], 10] のような
+    # 「カタカナ読み」と「対応する単位換算テーブル」と「例外の配列」と「閾値」の配列とする
 
     index_list = []  # 行番号リスト
     for i, yomi_sublist in enumerate(yomi_list):
         for j, item in enumerate(yomi_sublist):
             if row[0] in item:
-                if row[2] and row[2] in item:
+                if fn.match(row[2], item):  # 例外の配列の要素のいずれかが部分一致するならば
                     converted[i][j] = 'NaN'  # Not a Number
                     new_unit[i][j] = '不適'  # 例外: 換算に不適
                     continue
-                if 'または' in ingredients[i][j] or '又は' in ingredients[i][j] or 'or' in ingredients[i][j] or 'でも' in ingredients[i][j]:
+                if fn.match(['または', '又は', 'or', 'でも'], ingredients[i][j]):
                     converted[i][j] = 'NaN'
                     new_unit[i][j] = '代替'  # 代替材料の可能性あり
                     continue
