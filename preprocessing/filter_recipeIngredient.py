@@ -13,11 +13,11 @@ utility = UtilityModules()
 def cal_functions(lst):
     # 帯分数を小数へ
     result = regex.replace_pat_in_list(
-        '(\d+)[と.](\d+)\/(\d+)', utility.mixedfraction_to_float, lst)
+        '(\d+)[と.](\d+)[\/⁄](\d+)', utility.mixedfraction_to_float, lst)
 
     # 分数を小数へ
     result = regex.replace_pat_in_list(
-        '(\d+)\/(\d+)', utility.fraction_to_float, result)
+        '(\d+)[\/⁄](\d+)', utility.fraction_to_float, result)
 
     # 分数 (日本語) を小数へ
     result = regex.replace_pat_in_list(
