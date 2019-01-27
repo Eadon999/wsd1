@@ -1,6 +1,12 @@
 import re
 import sys
 
+# 配列の要素のいずれかが部分一致するか調べる関数
+def match(lst, string):
+    for i in lst:
+        if i in string: return True  # 少なくとも 1つは部分一致する
+    return False  # 1つも部分一致しない
+
 # 数値と比率から新単位での値を計算
 def calc(matchobj, ratio):
     return str(round(float(matchobj.group(1))*ratio, 4))  # 4桁に丸める
