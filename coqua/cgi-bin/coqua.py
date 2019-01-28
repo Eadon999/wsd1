@@ -25,13 +25,13 @@ def make_page(page, num):
 def make_link(lst):
 	form = '<div class = "recipe">'\
 	       '<div class = "recipe_img">'\
-	       '<img src = "%s" height = 141px width = 100px>'\
+	       '<img src = "https://img.cpcdn.com/recipes/%s/100x141c/%s" height = 141px width = 100px>'\
 	       '</div>'\
 	       '<div class = "recipe_cont">'\
 	       '<a href = https://cookpad.com/recipe/%s>%s</a>'\
 	       '</div>'\
 	       '</div>'
-	return ''.join(map(lambda x: form % (x[2],x[0],x[1]),lst))
+	return ''.join(map(lambda x: form % (x[0],x[2],x[0],x[1]),lst))
 
 # ページ部分を生成
 def print_cont(page, limit, txt, checklst, sortrule, orderrule):

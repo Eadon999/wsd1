@@ -4,6 +4,9 @@ import sqlite3
 import datetime
 import pandas as pd
 import ast
+import os
+import MeCab
+import re
 
 def init_tables(cdb): # テーブルの初期化
 	# infos(レシピ情報)
@@ -20,7 +23,7 @@ def init_tables(cdb): # テーブルの初期化
 			"day   INTEGER,"
 			"count INTEGER,"
 			"cooktime INTEGER,"
-			"yield INTEGER,"
+			"yield REAL,"
 			"repo INTEGER,"
 			"PRIMARY KEY(recipe_id))")
 	cdb.execute("CREATE INDEX idx_info_recipe_id ON infos(recipe_id)")
@@ -30,6 +33,11 @@ def init_tables(cdb): # テーブルの初期化
 	cdb.execute("CREATE INDEX idx_info_cooktime  ON infos(cooktime)")
 	cdb.execute("CREATE INDEX idx_info_yield     ON infos(yield)")
 	cdb.execute("CREATE INDEX idx_info_repo      ON infos(repo)")
+	# names
+	cdb.drop('names')
+	cdb.execute("CREATE TABLE names (recipe_id INTEGER, tail TEXT)")
+	cdb.execute("CREATE INDEX idx_name_recipe_id ON names(recipe_id)")
+	cdb.execute("CREATE INDEX idx_name_tail      ON names(tail)")
 	# filter_bits
 	cdb.drop('filter_bits')
 	filter_len = 9
@@ -66,21 +74,26 @@ def insert_records(cdb):
 					"null" if pd.isnull(row['unit'])      else '"' + str(row['unit'])  + '"'))
 		if pd.isnull(row['servings']) == False:
 			# dict_yieldはinfosのレコードに用いる
-			dict_yield[row['recipe_id']] = row['servings']
+			dict_yield[str(row['recipe_id'])] = str(row['servings'])
 	cdb.commit()
 	# infos, names
+	if(os.path.exists('/usr/lib/mecab/dic/mecab-ipadic-neologd')):
+		mecab = MeCab.Tagger('-Ochasen -d /usr/lib/mecab/dic/mecab-ipadic-neologd')
+	elif(os.path.exists('/usr/local/lib/mecab/dic/mecab-ipadic-neologd')):
+		mecab = MeCab.Tagger('-Ochasen -d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 	for x in jlst:
 		with open(x) as f:
 			# json ファイルを１つ読んでいってそれぞれにレコードを登録
 			j = json.load(f)
 			rid = j['recipe_id']
+			# infos
 			date = datetime.datetime.strptime(j['datePublished'], '%Y-%m-%d')
 			cdb.execute('INSERT INTO infos VALUES(%s, "%s", "%s", "%s", "%s", "%s", %s, %s, %s, %s, %s, %s, %s)' %
 					(rid,
 						str(j['name']).replace("'",'').replace('"',''),
 						str(j['author']['name']).replace("'", '').replace('"', ''),
-						j['image'],
-						j['thumbnail'],
+						re.sub('https://[^/]*/[^/]*/[^/]*/[^/]*/','',j['image']),
+						re.sub('https://[^/]*/[^/]*/[^/]*/[^/]*/','',j['thumbnail']),
 						j['datePublished'],
 						str(date.year),
 						str(date.month),
@@ -89,6 +102,16 @@ def insert_records(cdb):
 						j['cookTime'][2:-1] if bool(j['cookTime']) else "null",
 						dict_yield[rid]     if rid in dict_yield   else "null",
 						j['tsukurepo_count']))
+			# names
+			tmp = mecab.parse(j['name'].replace("'","").replace('"',"")).split("\n")[:-2]
+			tmp = [x.split("\t") for x in tmp]
+			tmp = [[x[1],x[3].split("-")[0]] for x in tmp]
+			tmp = [''.join(map(lambda x:x[0], tmp[i:]))
+						for i in range(len(tmp))
+						if tmp[i][1] == "名詞"]
+			for y in tmp:
+				cdb.execute('INSERT INTO names VALUES(%s, "%s")' % (rid, y))
+			
 	cdb.commit()
 
 

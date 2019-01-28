@@ -41,54 +41,14 @@ class CoquaDB:
 	def drop(self, tablename):
 		self.execute(F'DROP TABLE IF EXISTS {tablename}')
 
-	def ingredients_search(self, Alst, Nlst, sortrule, orderrule, checklst, limit, offset):
-		# Alst,Nlstのカナ化
-		kana = lambda x : self.mecab.parse(x).strip()
-		Alst = list(map(kana, Alst))
-		Nlst = list(map(kana, Nlst))
-		# ソート規則
-		ruledict = {'repo': 'repo', 'time': 'cooktime', 'date': 'count'}
-		# 材料検索クエリの生成
-		Qlst = []
-		if Alst != []:
-			Qlst += CQL.ingredients_ids(Alst, Nlst)
-		if checklst != []:
-			if Qlst != []:
-				Qlst = CQL.filter_ids(checklst, Qlst)
-			else:
-				Qlst = CQL.filter_bits(checklst)
-		# 検索件数
-		self.execute(CQL.count_query(Qlst))
-		count = self.fetch()[0]
-		# ソートと表示件数しぼりこみのクエリ生成
-		if sortrule in ruledict:
-			query = CQL.recipe_query(Qlst, ruledict[sortrule], orderrule, limit, offset)
-		else:
-			return 0, []
-		# 検索の実行と結果
-		if query != None:
-			self.execute(query)
-			self.last = query # debug用
-			data = self.fetchAll()
-			return count, data
-		else:
-			self.last = ""
-			return 0, []
-
-	def name(self, num):
-		self.execute("select name from names where recipe_id = " + str(num) + ";")
-		return self.fetchAll()
-
-# SQL文を生成する
-class CQL:
 	# リストで渡されたSQLクエリを文字列にする（整形が目的）
-	def decode_query(querylst):
+	def decode_query(self,querylst):
 		if querylst in [None, []]:
 			return None
 		return '\n'.join(querylst)
 
 	# リストで渡されたSQLクエリにインデントをしたあと最初と最後に文字列を付加
-	def indent_query(querylst, first, last):
+	def indent_query(self,querylst, first, last):
 		if querylst == []:
 			return []
 		if len(querylst) == 1:
@@ -101,85 +61,83 @@ class CQL:
 			lst.append(ind + querylst[-1] + last)
 		return lst
 
-	# フィルターを通るrecipe_idのリストを要求するクエリ
-	def filter_bits(checklst):
-		if checklst == []:
-			return None
-		lst = [ 'SELECT recipe_id',
-		        '  FROM filter_bits',
-		       F' WHERE bit{checklst[0]} = 1']
-		for i in checklst[1:]:
-			# 2つ目以降のフィルタの条件を付加していく
-			lst.append(F'   AND bit{i} = 1')
-		return lst
+	def ingredients_search(self, Alst, Nlst, sortrule, orderrule, checklst, limit, offset):
+		# Alst,Nlstのカナ化
+		kana = lambda x : self.mecab.parse(x).strip()
+		Alst = list(map(kana, Alst))
+		Nlst = list(map(kana, Nlst))
+		# ソート規則
+		ruledict = {'repo': 'repo', 'time': 'cooktime', 'date': 'count'}
+		# WHERE句の生成
+		Qcond = self.query_cond(Alst, Nlst, checklst)
+		# クエリの生成
+		Qlst = ['SELECT DISTINCT',\
+		        '       recipe_id,',\
+		        '       name,',\
+		        '       thumbnail',\
+		        '  FROM infos']\
+		       + Qcond +\
+		       [' ORDER BY %s %s' % (ruledict[sortrule], orderrule),\
+		        ' LIMIT %s'       % limit,\
+		        'OFFSET %s'       % offset]
+		Clst = ['SELECT DISTINCT',\
+		        '       COUNT(recipe_id)',\
+		        '       FROM infos']\
+		        + Qcond
+		# クエリの実行
+		self.execute(self.decode_query(Clst))
+		count = self.fetch()[0]
+		query = self.decode_query(Qlst)
+		self.last = query # debug用
+		self.execute(query)
+		data = self.fetchAll()
+		return count, data
 
-	# NOT検索のSQLクエリを生成
-	# NOTリストをORでつないで得られた結果を除外する
-	def notlst_ids(Nlst):
-		if Nlst == []:
-			return None
-		lst =  [    'SELECT recipe_id',
-		            '  FROM ingredients',
-		           F' WHERE pron = "{Nlst[0]}"']
-		for i in Nlst[1:]:
-			lst += [F'    OR pron = "{i}"']
-		return lst
-
-	# AND検索のSQLクエリを生成
-	# ANDリストを再帰的に読んでいき，絞り込んでいく
-	# こうすることでINTERSECTよりも高速に実行できる
-	def andlst_ids(Alst):
-		lst =     [ 'SELECT recipe_id']
-		lst +=    [ '  FROM ingredients']
-		lst +=    [F' WHERE pron = "{Alst[0]}"']
-		if Alst[1:] != []:
-			lst += [ '   AND recipe_id IN']
-			lst += CQL.indent_query(CQL.andlst_ids(Alst[1:]), '       (',')')
-		return lst
-
-	# ANDとNOTのリストから材料名検索
-	def ingredients_ids(Alst, Nlst):
-		if Alst == []:
-			return None
-		lst = CQL.andlst_ids(Alst)
+	def query_cond(self, Alst, Nlst, checklst):
+		lsts = []
+		### ANDlist
+		for x in Alst:
+			lst = ['IN',\
+			      ['SELECT recipe_id',\
+			       '  FROM ingredients',\
+			       ' WHERE pron = "%s"' % x,\
+			       '',\
+			       ' UNION',\
+			       '',\
+			       'SELECT recipe_id',\
+			       '  FROM names',\
+			       ' WHERE tail like "%s%%"' % x]]
+			lsts.append(lst)
+		### NOTlist
 		if Nlst != []:
-			lst.extend(['','EXCEPT',''] + notlst_ids(Nlst))
+			lst = ['NOT IN',\
+			      ['SELECT recipe_id',\
+			       '  FROM ingredients',\
+			       ' WHERE pron = "%s"' % Nlst[0]]\
+			    + ['    OR pron = "%s"' % x for x in Nlst[1:]] +\
+			      ['',\
+			       ' UNION',\
+			       '',\
+			       'SELECT recipe_id',\
+			       '  FROM names',\
+			       ' WHERE tail like "%s%%"' % Nlst[0]]\
+			    + ['    OR tail like "%s%%"' % x for x in Nlst[1:]]]
+			lsts.append(lst)
+		### filter
+		if checklst != []:
+			lst = ['IN',\
+			      ['SELECT recipe_id',\
+			       '  FROM filter_bits',\
+			       ' WHERE bit%s = 1' % checklst[0]]\
+			    + ['   AND bit%s = 1' % x for x in checklst[1:]]]
+			lsts.append(lst)
+		###
+		lst = []
+		for i in range(len(lsts)):
+			if i == 0:
+				lst += self.indent_query(lsts[i][1], ' WHERE recipe_id %s (' % lsts[i][0], ')')
+			else:
+				lst += self.indent_query(lsts[i][1], '   AND recipe_id %s (' % lsts[i][0], ')')
 		return lst
 
-	# 材料名クエリに絞り込みのクエリを追加
-	# Qlst:材料名クエリ Plst:フィルタークエリ
-	def filter_ids(checklst, Qlst):
-		if Qlst == None:
-			return None
-		if checklst != []:
-			Plst = CQL.filter_bits(checklst)
-			if Plst != []:
-				Qlst = Plst + ['','INTERSECT',''] + Qlst
-		return Qlst
 
-	# ソートして表示件数分だけ取得
-	def recipe_query(Qlst, col, order, limit, offset):
-		if Qlst in [[], None]:
-			return None
-		lst = [     'SELECT DISTINCT',
-		            '       recipe_id,',
-		            '       name,',
-		            '       image',
-		            '  FROM infos']
-		lst +=    [ ' WHERE recipe_id IN']
-		lst +=  CQL.indent_query(Qlst, '       (', ')')
-		lst +=    [F' ORDER BY {col} {order}']
-		lst +=    [F' LIMIT {limit}']
-		lst +=    [F'OFFSET {offset}']
-		return CQL.decode_query(lst)
-	
-	# クエリリストの件数を返す
-	def count_query(Qlst):
-		if Qlst in [[], None]:
-			return 0
-		lst = [     'SELECT DISTINCT',
-		            '       COUNT(recipe_id)',
-		            '  FROM infos']
-		lst +=    [ ' WHERE recipe_id IN']
-		lst +=  CQL.indent_query(Qlst, '       (', ')')
-		return CQL.decode_query(lst)
