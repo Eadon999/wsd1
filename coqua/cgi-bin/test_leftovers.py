@@ -31,8 +31,10 @@ if __name__ == '__main__':
     mecab = cdb.mecab
     yomi = mecab.parse(args[1]).replace('\n', '')
     result = get_sorted_list(cdb, yomi)
-    t = ck.limited_greedy_solver(
-        5, len(result[0]), 3, result[1], result[1], result[0])
+    # t = ck.single_limited_greedy_solver(
+    #     5, len(result[0]), 3, result[1], result[1], result[0])
+    t = ck.single_greedy_solver(
+        5, len(result[0]), result[1], result[1], result[0])
     print(t)
     # print(get_sorted_list(cdb, yomi))
 
