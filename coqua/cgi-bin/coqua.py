@@ -4,6 +4,7 @@
 import cgi
 import cgitb
 import coquadb
+import coqua_knapsack as ck
 import math
 import sys
 
@@ -70,10 +71,28 @@ def search(form):
 		print_cont(page, 10, txt, checklst, sortrule, orderrule)
 
 def recommend(form):
+	txt = form['text'].value if 'text' in form else ""
 	# レシピを出力
 	print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
-	print('ここに余剰材料レシピ検索の結果が表示される予定です．')
-
+	cdb = coquadb.CoquaDB('coqua.db')
+	mecab = cdb.mecab
+	yomi = mecab.parse(txt).replace('\n', '')
+	cdb.execute('SELECT recipe_id, converted FROM ingredients WHERE unit = "%s" ORDER BY converted DESC' % yomi)
+	result = [list(j) for j in zip(*cdb.fetchAll())]
+	t = ck.single_greedy_solver(5, len(result[0]), result[1], result[1], result[0])
+	print('<div class = "cont">')
+	for l in t:
+		tmp = []
+		for x in l:
+			cdb.execute('SELECT recipe_id,name,thumbnail FROM infos WHERE recipe_id = %s' % x)
+			tmp.append(cdb.fetch())
+			#print('<a href = https://cookpad.com/recipe/%s>%s</a><br>' % (x,cdb.fetch()[0]))
+		for x in tmp:
+			print('<a href = https://cookpad.com/recipe/%s>%s</a><br>' % (x[0],x[1]))
+		for x in tmp:
+			print('<img src = "https://img.cpcdn.com/recipes/%s/100x141c/%s" height = 141px width = 100px>' % (x[0],x[2]))
+		print("<br>")
+	cdb.close()
 
 if __name__ == '__main__':
 	cgitb.enable()
