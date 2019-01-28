@@ -1,3 +1,3 @@
 [submodule "search/coqua_knapsack"]
-	path = search/modules/coqua_knapsack
+	path = coqua_knapsack
 	url = https://github.com/sff1019/coqua_knapsack.git
