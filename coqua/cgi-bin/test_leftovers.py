@@ -31,12 +31,17 @@ if __name__ == '__main__':
     mecab = cdb.mecab
     yomi = mecab.parse(args[1]).replace('\n', '')
     capacity = float(input('何個を消費しますか？：'))
+    limited = input('いくつかのレシピの組み合わせとしてして検索しますか？(y/n)：')
     result = get_sorted_list(cdb, yomi)
-    # t = ck.single_limited_greedy_solver(
-    #     5, len(result[0]), 3, result[1], result[1], result[0])
-    t = ck.single_greedy_solver(
-        capacity, len(result[0]), result[1], result[1], result[0])
+    # print(result)
+
+    if (limited == 'y'):
+        num_recipes = int(input('いくつのレシピを組み合わせますか？：'))
+        t = ck.single_limited_greedy_solver(
+            capacity, len(result[0]), num_recipes, result[1], result[1], result[0])
+    else:
+        t = ck.single_greedy_solver(
+            capacity, len(result[0]), result[1], result[1], result[0])
     print(t)
-    # print(get_sorted_list(cdb, yomi))
 
     cdb.close()
