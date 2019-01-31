@@ -88,6 +88,9 @@ def recommend(form):
 	except ValueError:
 		print('材料の量は数値で入力してください．')
 		return
+	if float(num) <= 0:
+		print('材料の量は0より大きい値で入力してください．')
+		return
 	if not rec.isdigit() or int(rec) <= 0:
 		print('レシピの数は1以上の整数で入力してください．')
 		return
@@ -99,6 +102,8 @@ def recommend(form):
 	else:
 		t = ck.single_greedy_solver(float(num), len(result[0]), result[1], result[1], result[0])
 	print('<div class = "cont">')
+	if t == []:
+		print('何もヒットしませんでした．')
 	for l in t:
 		tmp = []
 		for x in l:
