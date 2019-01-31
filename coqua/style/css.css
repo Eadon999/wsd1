@@ -47,12 +47,25 @@ div.searchbox{
 	display:flex;
 	background: #dde;
 	text-align: center;
-	width : 280px;
+	width : 340px;
+	margin : 0 auto;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+div.searchcond{
+}
+div.recommendbox{
+	display:flex;
+	background: #dde;
+	text-align: center;
+	width : 340px;
 	margin : 0 auto;
 	box-sizing: border-box;
 	border-radius: 10px;
 }
 div.wrap{
+	width : 400px;
+	margin : 0 auto;
 	display:flex;
 }
 p.switch{
@@ -71,12 +84,36 @@ p.switch{
 	position:relative;
 	vertical-align: top;
 }
+#form-recommend{
+	height: 100%;
+	margin: 10px auto;
+	padding: 3px 0px;
+	position:relative;
+	vertical-align: top;
+}
 #input-text{
 	border: none;
-	width: 195px;
+	width: 255px;
 	padding: 3px;
 	margin : 5px;
 	background: transparent;
+}
+#num_ing{
+	border: none;
+	width: 70px;
+	padding: 3px;
+	margin : 5px;
+	background: transparent;
+}
+#num_rec{
+	border: none;
+	width: 70px;
+	padding: 3px;
+	margin : 5px;
+	background: transparent;
+}
+select.ing-select{
+	margin:3px 3px 3px 5px;
 }
 #glass{
 	width: 30px;

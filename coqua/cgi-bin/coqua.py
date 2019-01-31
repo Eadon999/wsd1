@@ -71,22 +71,39 @@ def search(form):
 		print_cont(page, 10, txt, checklst, sortrule, orderrule)
 
 def recommend(form):
-	txt = form['text'].value if 'text' in form else ""
+	ing = form['ing'].value if 'ing' in form else ""
+	num = form['num'].value if 'num' in form else ""
+	rec = form['rec'].value if 'rec' in form else ""
 	# レシピを出力
 	print('Content-type: text/html\nAccess-Control-Allow-Origin: *\n')
 	cdb = coquadb.CoquaDB('coqua.db')
-	mecab = cdb.mecab
-	yomi = mecab.parse(txt).replace('\n', '')
-	cdb.execute('SELECT recipe_id, converted FROM ingredients WHERE unit = "%s" ORDER BY converted DESC' % yomi)
+	# 
+	cdb.execute('SELECT recipe_id, converted FROM ingredients WHERE unit = "%s" ORDER BY converted DESC' % ing)
 	result = [list(j) for j in zip(*cdb.fetchAll())]
-	t = ck.single_greedy_solver(5, len(result[0]), result[1], result[1], result[0])
+	if result == []:
+		print('不正な入力')
+		return
+	try:
+		float(num)
+	except ValueError:
+		print('材料の量は数値で入力してください．')
+		return
+	if not rec.isdigit() or int(rec) <= 0:
+		print('レシピの数は1以上の整数で入力してください．')
+		return
+	# 
+	cdb.execute('SELECT DISTINCT unit FROM ingredients WHERE unit GLOB "[ア-ン]*"')
+	inglst = [x[0] for x in cdb.fetchAll()]
+	if int(rec) > 1:
+		t = ck.single_limited_greedy_solver(float(num), len(result[0]), int(rec), result[1], result[1], result[0])
+	else:
+		t = ck.single_greedy_solver(float(num), len(result[0]), result[1], result[1], result[0])
 	print('<div class = "cont">')
 	for l in t:
 		tmp = []
 		for x in l:
 			cdb.execute('SELECT recipe_id,name,thumbnail FROM infos WHERE recipe_id = %s' % x)
 			tmp.append(cdb.fetch())
-			#print('<a href = https://cookpad.com/recipe/%s>%s</a><br>' % (x,cdb.fetch()[0]))
 		for x in tmp:
 			print('<a href = https://cookpad.com/recipe/%s>%s</a><br>' % (x[0],x[1]))
 		for x in tmp:

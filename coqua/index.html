@@ -23,7 +23,7 @@
 		</header>
 		<main>
 			<article>
-				<div class = 'search'>
+				<div class = 'search' id='search'>
 					<form id = 'form-search' class = 'search'>
 						<div class = 'searchbox'>
 							<input type="text" id="input-text" placeholder="材料名を入力">
@@ -71,6 +71,29 @@
 									</div>
 								</div>
 							</div>
+						</div>
+					</form>
+				</div>
+				<div class = 'recommend' id='recommend' style="display:none;">
+					<form id = 'form-recommend' class = 'recommend'>
+						<div class = 'recommendbox'>
+							<select class='ing-select' id='ing' name='ing'>
+								<option value = 'ダイコン'>大根</option>
+								<option value = 'ハクサイ'>白菜</option>
+								<option value = 'ニンジン'>にんじん</option>
+								<option value = 'タマネギ'>たまねぎ</option>
+								<option value = 'キャベツ'>キャベツ</option>
+								<option value = 'タマゴ'>たまご</option>
+								<option value = 'ジャガイモ'>じゃがいも</option>
+								<option value = 'レタス'>レタス</option>
+							</select>
+							<input type="text" id="num_ing" placeholder="材料の量">
+							<input type="text" id="num_rec" placeholder="レシピ数">
+							<input type="submit" class="fas" id="glass" value="&#xf002;">
+							<input type="button" class="fas" id="xchng" value="&#xf362;">
+						</div>
+						<div class = 'message' id = 'message'>
+							余った材料を組み合わせたレシピを推薦します
 						</div>
 					</form>
 				</div>
@@ -130,36 +153,43 @@
 						dataType: 'text',
 						data: {
 							mode: 'recommend',
-							text: $('#input-text').val(),
+							ing: document.getElementById('form-recommend').ing.value,
+							num: $('#num_ing').val(),
+							rec: $('#num_rec').val(),
 						},
 					}).done(done).fail(fail);};
 				/* 検索ボタンを押した時に呼び出される */
 				$('.search > form').submit(function(){
-					if(mode == 0){
-						search("#1");
-					}else{
-						recommend();
-					}
-					});
+					search("#1");
+				});
+				$('.recommend > form').submit(function(){
+					recommend();
+				});
 				/* 並び替え順 */
 				$(document).on('change', '#radio1', function(){
-					document.getElementById("order").innerHTML = "<option value = \"desc\">多い順</option><option value = \"asc\">少ない順</option>";});
+					document.getElementById("order").innerHTML =
+						"<option value = \"desc\">多い順</option><option value = \"asc\">少ない順</option>";});
 				$(document).on('change', '#radio2', function(){
-					document.getElementById("order").innerHTML = "<option value = \"asc\">短い順</option><option value = \"desc\">長い順</option>";});
+					document.getElementById("order").innerHTML =
+						"<option value = \"asc\">短い順</option><option value = \"desc\">長い順</option>";});
 				$(document).on('change', '#radio3', function(){
-					document.getElementById("order").innerHTML = "<option value = \"desc\">新しい順</option><option value = \"asc\">古い順</option>";});
+					document.getElementById("order").innerHTML =
+						"<option value = \"desc\">新しい順</option><option value = \"asc\">古い順</option>";});
+				/* 推薦の材料リスト */
+				
 				/* 機能切り替えボタン */
 				var mode = 0
 				$(document).on('click', '#xchng', function(){
 					if(mode == 0){
 						mode = 1;
 						document.getElementById("message").innerHTML = "余った材料を組み合わせたレシピを推薦します";
-						$('#searchcond').hide();
+						$('#search').hide();
+						$('#recommend').show();
 					}else{
 						mode = 0;
 						document.getElementById("message").innerHTML = "材料名からレシピを検索します";
-						$('#searchcond').fadeIn();
-						$('.wrap > div').show();
+						$('#recommend').hide();
+						$('#search').show();
 					}
 				});
 				/* 検索条件メニューの表示切り替え */

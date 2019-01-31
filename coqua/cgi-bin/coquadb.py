@@ -35,7 +35,7 @@ class CoquaDB:
 		return self.__cur.fetchall()
 
 	def table_list(self):
-		self.execute("SELECT name\n  FROM sqlite_master\n WHERE type='table'")
+		self.execute("SELECT name FROM sqlite_master WHERE type='table'")
 		return self.fetchAll()
 
 	def drop(self, tablename):
